@@ -1,0 +1,1140 @@
+[
+    {
+        "category": "CES – Engine, Operational, Steam",
+        "index": 1,
+        "question": "What is the main reason for routine testing of the cooling water in a diesel engine cooling system?",
+        "answers": [
+            "To measure the pH-value of the water.",
+            "To detect dissolved oxygen in the water.",
+            "To ensure that the correct levels of chemical treatment are maintained at all times.",
+            "To detect the presence of contaminants in the water."
+        ],
+        "correct_answer": "To ensure that the correct levels of chemical treatment are maintained at all times.",
+        "images": [],
+        "explanation": "ඩීසල් එන්ජින් සිසිලන පද්ධතියක ජලය නිරන්තරයෙන් පරීක්ෂා කරන්නේ එහි අඩංගු රසායනික ප්‍රතිකාර (chemical treatment) මට්ටම් නියමිත පරිදි පවතින බව තහවුරු කර ගැනීමටයි. මෙම රසායනික ද්‍රව්‍ය මගින් එන්ජිමේ සිසිලන නාලිකා තුළ මලකඩ බැඳීම (corrosion) සහ පරිමාණයන් (scaling) ඇති වීම වළක්වයි. ජලය පිරිසිදු බව පෙනුණත්, එහි රසායනික සාන්ද්‍රණය වෙනස් විය හැකි බැවින් මෙම පරීක්ෂණය අත්‍යවශ්‍ය වේ. ක්ලෝරයිඩ් මට්ටම බැලීම පමණක් මෙහි ප්‍රධාන අරමුණ නොවේ."
+    },
+    {
+        "category": "CES – Engine, Operational, Steam",
+        "index": 2,
+        "question": "What action should be taken if the heat transfer capacity of a heat exchanger operating as a lubricating oil cooler is reducing?",
+        "answers": [
+            "Increase the cooling water pressure.",
+            "Decrease the lubricating oil flowrate.",
+            "Increase the lubricating oil flowrate.",
+            "The heat transfer surfaces should be cleaned."
+        ],
+        "correct_answer": "The heat transfer surfaces should be cleaned.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Operational, Steam",
+        "index": 3,
+        "question": "Choose the option which is most likely to result in erosion of the tubes in a heat exchange:",
+        "answers": [
+            "Cooling water temperature too high.",
+            "Cooling water pressure too high.",
+            "Cooling water velocity too high.",
+            "Rate of heat transfer too high."
+        ],
+        "correct_answer": "Cooling water velocity too high.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Operational, Steam",
+        "index": 4,
+        "question": "What is the recommended range for the pH-value for the water in a diesel engine cooling system engine cooling water be maintained?",
+        "answers": [
+            "Below 5.",
+            "Between 5 and 7.",
+            "Between 7 and 10.",
+            "Above 10."
+        ],
+        "correct_answer": "Between 7 and 10.",
+        "images": [],
+        "explanation": "ඩීසල් එන්ජින් සිසිලන පද්ධතියක ඇති ජලයේ pH අගය 7 සහ 10 අතර මට්ටමක පවත්වා ගැනීම නිර්දේශ කෙරේ. pH අගය 7 යනු උදාසීන (neutral) තත්වය වන අතර 7 ට වඩා අඩු වූ විට ජලය ආම්ලික (acidic) වේ. ආම්ලික ජලය එන්ජිමේ ලෝහ කොටස් ඉතා වේගයෙන් විඛාදනයට (corrosion) ලක් කර සිදුරු ඇති කරයි. pH අගය 7 සිට 10 දක්වා වූ මඳ භාෂ්මික (alkaline) මට්ටමක පවත්වා ගැනීමෙන් ලෝහ මතුපිට ආරක්ෂිත ස්ථරයක් (passivation layer) නිර්මාණය වී විඛාදනය වැළැක්වේ. නමුත් pH අගය 11 හෝ 12 ට වඩා ඉහළ ගියහොත් එය එන්ජිමේ ඇති සමහර රබර් හෝ විශේෂිත මුද්‍රා (seals) වලට හානි කළ හැකි බැවින් මෙම පරාසය තුළ පවත්වා ගැනීම අත්‍යවශ්‍ය වේ."
+    },
+    {
+        "category": "CES – Engine, Operational, Steam",
+        "index": 5,
+        "question": "Consider a 450 volt, 859 kW rated generator has not been in operation for several weeks. Prior to starting, insulation resistance readings are taken. The minimum acceptable insulation resistance reading on the main stator winding to allow you to proceed with running the generator is:",
+        "answers": [
+            "1 000 000 Ohms.",
+            "10 Ohms.",
+            "1 000 Ohms.",
+            "10 000 Ohms."
+        ],
+        "correct_answer": "1 000 000 Ohms.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Operational, Steam",
+        "index": 6,
+        "question": "During regular inspection of alternator windings it is found that windings are always covered with a heavy oil film coming from the atmosphere surrounding the auxiliary engine. After cleaning with an approved solvent, what should be done?",
+        "answers": [
+            "Reinsulate the windings after each cleaning.",
+            "Blank off intake air filters.",
+            "Take no additional action.",
+            "Improve material of intake air filters."
+        ],
+        "correct_answer": "Improve material of intake air filters.",
+        "images": [],
+        "explanation": "ප්‍රත්‍යාවර්තකයේ (Alternator) වයින්ඩින් මත තෙල් තට්ටුවක් බැඳීම මගින් එහි පරිවාරක ශක්තිය (Insulation) අඩු වී කෙටි පරිපථ (Short circuits) ඇති විය හැක. පිරිසිදු කළ පසු නැවත තෙල් බැඳීම වැළැක්වීමට නම්, වාතය ඇතුළු වන පෙරණවල (Intake air filters) ද්‍රව්‍යමය ගුණාත්මකභාවය වැඩි දියුණු කළ යුතුය. එවිට වාතයේ ඇති තෙල් අංශු වයින්ඩින් වෙත යාම වැළකේ. පිරිසිදු කිරීමෙන් පසු නැවතත් එම තෙල් වාතය හරහා ඇතුළු වන්නේ නම් ගැටලුව විසඳෙන්නේ නැත. වාතාශ්‍රය වැඩි කිරීම (Increase ventilation) මගින් තව තවත් තෙල් වාතය සමඟ ඇතුළු විය හැකි අතර, වයින්ඩින් මාරු කිරීම (Renew windings) යනු මූලික ගැටලුවට විසඳුමක් නොවන අධික පිරිවැයක් සහිත කාර්යයකි."
+    },
+    {
+        "category": "CES – Engine, Operational, Steam",
+        "index": 7,
+        "question": "In accordance with SOLAS and other international regulations, certain important machinery functions, such as operation and control of the steering gear and propulsion machinery, must be tested at specified times. When should these tests be carried out?",
+        "answers": [
+            "Prior to arrival and departure from port and following maintenance.",
+            "Only following drydock.",
+            "Only at stand by engines.",
+            "Only following maintenance."
+        ],
+        "correct_answer": "Prior to arrival and departure from port and following maintenance.",
+        "images": [],
+        "explanation": "SOLAS සහ අනෙකුත් ජාත්‍යන්තර රෙගුලාසිවලට අනුව, නැවේ සුක්කානම් පද්ධතිය (steering gear) සහ ප්‍රචාලන යන්ත්‍රෝපකරණ වැනි වැදගත් පද්ධති වරායට පැමිණීමට පෙර, වරායෙන් පිටවීමට පෙර සහ යම් නඩත්තු කටයුත්තකින් පසුව අනිවාර්යයෙන්ම පරීක්ෂා කළ යුතුය. මෙමගින් නැව හැසිරවීමේදී ඇතිවිය හැකි අනතුරු වළක්වා ගත හැකිය. හුදෙක් සතිපතා හෝ මාසිකව පමණක් පරීක්ෂා කිරීම මෙවැනි තීරණාත්මක පද්ධති සඳහා ප්‍රමාණවත් නොවන බැවින් අනෙකුත් විකල්ප වැරදි වේ."
+    },
+    {
+        "category": "CES – Engine, Operational, Steam",
+        "index": 8,
+        "question": "Watch keeping engineers shall have a minimum of knowledge of the vessel’s engine room and operation of its functions prior to being accepted as Engineer on Duty, and shall acknowledge his familiarization with the equipment by signing a check list listing all units he shall be able to operate.",
+        "answers": [
+            "He shall have all the knowledge as listed in the other alternatives.",
+            "Start, operate and stop main and auxiliary machinery units, including switching between automatic, remote and/or manual control functions, and operate the various units in various modes.",
+            "Check routines during operation and prior to switching to UMS-mode."
+        ],
+        "correct_answer": "He shall have all the knowledge as listed in the other alternatives.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Operational, Steam",
+        "index": 9,
+        "question": "When you join a new ship, how are you informed about safety rules, alarm instructions and your own duties in case of an emergency?",
+        "answers": [
+            "By oral instructions by the Captain.",
+            "By muster lists exhibited in conspicuous places.",
+            "By alarm instructions in all crew cabins.",
+            "By folder distributed to each crewmember."
+        ],
+        "correct_answer": "By muster lists exhibited in conspicuous places.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Operational, Steam",
+        "index": 10,
+        "question": "What does the term “Dead Ship” mean?",
+        "answers": [
+            "“Dead Ship” means that the ship cannot make way through the water.",
+            "“Dead Ship” means that the ship is aground.",
+            "“Dead Ship” means that the machinery and boilers are inoperational due to lack of electrical power.",
+            "“Dead Ship” means that auxiliary machinery is not operational."
+        ],
+        "correct_answer": "“Dead Ship” means that the machinery and boilers are inoperational due to lack of electrical power.",
+        "images": [],
+        "explanation": "\"Dead Ship\" යන්නෙන් අදහස් කරන්නේ නෞකාවේ ප්‍රධාන බලශක්ති ප්‍රභවයන් සියල්ල ක්‍රියාවිරහිත වී ඇති අවස්ථාවයි. මෙහිදී විදුලි බලය නොමැතිකම හේතුවෙන් ප්‍රධාන එන්ජින්, බොයිලේරු සහ අනෙකුත් සහායක යන්ත්‍ර ක්‍රියාත්මක කළ නොහැක. එවැනි අවස්ථාවක නෞකාව නැවත පණ ගැන්වීම සඳහා හදිසි ජනක යන්ත්‍ර (Emergency Generators) හෝ බැටරි බලය භාවිතා කර සම්පීඩිත වාතය (Compressed air) වැනි දෑ මුලින්ම සපයා ගත යුතු වේ."
+    },
+    {
+        "category": "CES – Engine, Operational, Steam",
+        "index": 11,
+        "question": "After water-washing the turbocharger exhaust side it starts to vibrate even though it was operating normally prior to the washing procedure. What is the most likely cause of this problem?",
+        "answers": [
+            "The rotor blades are damaged or the blades are not properly cleaned.",
+            "Water drain for washing system is clogged.",
+            "Inlet filter partly clogged.",
+            "Foundation bolts for the blower unit are loose."
+        ],
+        "correct_answer": "The rotor blades are damaged or the blades are not properly cleaned.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Operational, Steam",
+        "index": 12,
+        "question": "Why shall a duly qualified officer supervise any potential polluting operation?",
+        "answers": [
+            "To relieve the master.",
+            "To inform the authorities.",
+            "To restrict pollution.",
+            "To avoid pollution."
+        ],
+        "correct_answer": "To avoid pollution.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Operational, Steam",
+        "index": 13,
+        "question": "An electrical power emergency source in a ship is required because:",
+        "answers": [
+            "It satisfies the SOLAS (and other) requirements for ship safety.",
+            "The ships total load can be shared between main and emergency generators.",
+            "The main diesel generator(s) can be taken out of service for overhaul or repair.",
+            "It satisfies the need to be environmentally “friendly”."
+        ],
+        "correct_answer": "It satisfies the SOLAS (and other) requirements for ship safety.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Operational, Steam",
+        "index": 14,
+        "question": "An earth fault exists on the blue line of a 100 A bilge pump circuit. A second earth fault occurs on the yellow line of a 10 A ventilation fan circuit. Both systems are supplied from the ship’s 440 V supply. The likely outcome is that:",
+        "answers": [
+            "A short circuit occurs between earth fault and the bilge pump fuse blows.",
+            "Both motors trip out on overload.",
+            "A short circuit occurs between earth faults and the ventilation fan fuse blows.",
+            "An open circuit occurs between earth fault and both motors trip out."
+        ],
+        "correct_answer": "A short circuit occurs between earth faults and the ventilation fan fuse blows.",
+        "images": [],
+        "explanation": "නැවක සාමාන්‍යයෙන් භාවිතා වන පරිවාරක උදාසීන පද්ධතියක (Insulated neutral system) එක් වයර් එකක ඇතිවන පළමු පෘථිවි දෝෂය (Earth fault) නිසා පරිපථය බිඳ වැටෙන්නේ නැත. නමුත් දෙවන වයර් එකක (Yellow line) තවත් දෝෂයක් ඇති වූ විට, පෘථිවිය (නැවේ බඳ) හරහා කෙටි පරිපථයක් (Short circuit) නිර්මාණය වේ. මෙහිදී අඩු ධාරිතාවක් සහිත (10 A) විදුලි පංකා පරිපථයේ ෆියුස් එක මුලින්ම දැවී යයි. 100 A පරිපථය වඩා ශක්තිමත් බැවින් එහි ෆියුස් එක දැවී යාමට පෙර 10 A පරිපථය විසන්ධි වේ."
+    },
+    {
+        "category": "CES – Engine, Operational, Steam",
+        "index": 15,
+        "question": "The insulation resistance (IR) to earth of a new galley hot-plate is measured to be 30 Mohm. When three identical hot-plates are tested together their combined IR will be:",
+        "answers": [
+            "90 Mohm.",
+            "30 Mohm.",
+            "10 Mohm.",
+            "3 Mohm."
+        ],
+        "correct_answer": "10 Mohm.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Operational, Steam",
+        "index": 16,
+        "question": "Generators must be synchronised before they can operate in parallel. During synchronising, the incoming generator should be running slightly “fast” compared to the bus bar frequency. This is to ensure that the:",
+        "answers": [
+            "Incoming machine picks up as a generator.",
+            "Most rapid synchronising action is achieved.",
+            "Incomers reverse power trip is tested.",
+            "Incomer picks up as a motor."
+        ],
+        "correct_answer": "Incoming machine picks up as a generator.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Operational, Steam",
+        "index": 17,
+        "question": "The Base Number of a lubricating oil is an indication of which of the following?",
+        "answers": [
+            "The viscosity of the oil.",
+            "The Flash Point of the oil.",
+            "Amount of contaminants in the lubricating oil.",
+            "The alkalinity of the oil."
+        ],
+        "correct_answer": "The alkalinity of the oil.",
+        "images": [],
+        "explanation": "ලිහිසි තෙල්වල 'Base Number' (BN) යන්නෙන් අදහස් කරන්නේ එම තෙල්වල ඇති ක්ෂාරීය බවයි (Alkalinity). එන්ජිමේ ඉන්ධන දහනය වීමේදී නිපදවෙන සල්ෆියුරික් අම්ලය උදාසීන කිරීම සඳහා ලිහිසි තෙල්වල මෙම ක්ෂාරීය ගුණය තිබිය යුතුය. මෙය තෙල්වල උකු බව (Viscosity) හෝ ගලා යන උෂ්ණත්වය (Pour point) හෝ ගිනි ගන්නා උෂ්ණත්වය (Flash point) පිළිබඳ මිනුමක් නොවේ."
+    },
+    {
+        "category": "CES – Engine, Operational, Steam",
+        "index": 18,
+        "question": "Why are duplex filters usually employed in the lubricating oil system of an auxiliary diesel engine?",
+        "answers": [
+            "The pressure drop is half that of a single filter unit.",
+            "Filter blockage will not occur.",
+            "Changing of the filter element can be carried out without interrupting engine operation.",
+            "It gives better filtration of the oil."
+        ],
+        "correct_answer": "Changing of the filter element can be carried out without interrupting engine operation.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Operational, Steam",
+        "index": 19,
+        "question": "The bilge holding tank level is being reduced by discharging through the OWS. What action should be taken when the oil/water interface in the holding tank is reached?",
+        "answers": [
+            "Stop the OWS and pump the oil to a bunker tank.",
+            "Stop the OWS and pump the oil to the incinerator tank.",
+            "Bypass the OWS and discharge the remaining contents of the holding tank overboard.",
+            "Continue pumping the contents of the holding tank through the OWS."
+        ],
+        "correct_answer": "Stop the OWS and pump the oil to the incinerator tank.",
+        "images": [],
+        "explanation": "Bilge holding tank එකේ මට්ටම OWS (Oil Water Separator) එක මගින් අඩු කරන විට, තෙල් සහ ජලය හමුවන මට්ටමට (oil/water interface) පැමිණි විගස OWS එක ක්‍රියා විරහිත කර එම තෙල් කොටස incinerator tank එකට පොම්ප කළ යුතුය. මෙයට හේතුව වන්නේ OWS එක නිර්මාණය කර ඇත්තේ ජලයේ ඇති සුළු තෙල් ප්‍රමාණයක් ඉවත් කිරීමට මිස පිරිසිදු තෙල් පිරිපහදු කිරීමට නොවන බැවිනි. තෙල් OWS එක තුළට ඇතුළු වුවහොත් එහි ඇති ෆිල්ටර් (filters) අවහිර වීමට හෝ පිරිපහදු නොකළ තෙල් මුහුදට පිටවී MARPOL නීති උල්ලංඝනය වීමට ඉඩ ඇත. අනෙකුත් විකල්ප වන තෙල් මුහුදට දැමීම නීති විරෝධී වන අතර, දිගින් දිගටම OWS එක ක්‍රියා කරවීම උපකරණයට හානි පමුණුවයි."
+    },
+    {
+        "category": "CES – Engine, Operational, Steam",
+        "index": 20,
+        "question": "What is an effective means of measuring the total dissolved solids in boiler water?",
+        "answers": [
+            "pH test.",
+            "Conductivity test.",
+            "Alkalinity test.",
+            "Chloride test."
+        ],
+        "correct_answer": "Conductivity test.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Operational, Steam",
+        "index": 21,
+        "question": "What will you serve seafarers who has been exposed to cold?",
+        "answers": [
+            "Warm nutritious drinks.",
+            "Fruit and vegetables only.",
+            "Pork and fat fish.",
+            "Brandy, whiskey or other strong drinks."
+        ],
+        "correct_answer": "Warm nutritious drinks.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Operational, Steam",
+        "index": 22,
+        "question": "Why should engine and boiler rooms be kept clean and any oil spillage cleaned up immediately?",
+        "answers": [
+            "To reduce risk of fire and the risk of slipping.",
+            "To avoid being fined by the port state control.",
+            "To reduce the premium to be paid to the insurance company.",
+            "To prevent oil spillage from damaging deck paint coatings."
+        ],
+        "correct_answer": "To reduce risk of fire and the risk of slipping.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Operational, Steam",
+        "index": 23,
+        "question": "Under what circumstances would you remove guards and safety devices from machinery?",
+        "answers": [
+            "During overhaul and maintenance procedures.",
+            "When the safety devices keep stopping the machinery.",
+            "When they are rattling and vibrating.",
+            "To allow the shaft to be seen to confirm the machine is running."
+        ],
+        "correct_answer": "During overhaul and maintenance procedures.",
+        "images": [],
+        "explanation": "යන්ත්‍රෝපකරණ වල ඇති ආරක්ෂිත ආවරණ (guards) සහ ආරක්ෂක උපාංග ඉවත් කළ යුත්තේ එම යන්ත්‍ර අලුත්වැඩියා කිරීමේදී හෝ නඩත්තු කටයුතු (overhaul and maintenance) සිදු කරන අවස්ථාවලදී පමණි. යන්ත්‍රයක් ක්‍රියාත්මක වන අතරතුර හෝ සාමාන්‍ය භාවිතයේදී මෙම ආවරණ ඉවත් කිරීම ඉතාමත් අනතුරුදායක වන අතර එයින් බරපතල තුවාල හෝ මරණය පවා සිදුවිය හැක. නඩත්තු කටයුතු අවසන් වූ වහාම මෙම ආරක්ෂක උපාංග නැවත සවි කළ යුතුය."
+    },
+    {
+        "category": "CES – Engine, Operational, Steam",
+        "index": 24,
+        "question": "Which electronic component does this graphical symbol represent?",
+        "answers": [
+            "Potentiometer, 10 kilo-ohms.",
+            "Variable inductive reactor.",
+            "Variable electrical heater, 10 kilo-watts.",
+            "Auto transformer, 10 kVA."
+        ],
+        "correct_answer": "Potentiometer, 10 kilo-ohms.",
+        "images": [
+            "/files/img/else/transistor.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Operational, Steam",
+        "index": 25,
+        "question": "Which electronic component is this graphical symbol illustrating?",
+        "answers": [
+            "Silicon controlled rectifier.",
+            "Transistor.",
+            "Triac.",
+            "Zener diode."
+        ],
+        "correct_answer": "Zener diode.",
+        "images": [
+            "/files/img/else/zener.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Operational, Steam",
+        "index": 26,
+        "question": "What is the minimum number of portable fire extinguishers that must be carried on ships of 1 000 GRT and above?",
+        "answers": [
+            "7.",
+            "5.",
+            "3.",
+            "9."
+        ],
+        "correct_answer": "5.",
+        "images": [],
+        "explanation": "SOLAS (Safety of Life at Sea) රෙගුලාසි වලට අනුව, ටොන් 1000 (GRT) හෝ ඊට වැඩි නැව් වල අවම වශයෙන් අතේ ගෙන යා හැකි ගිනි නිවන උපකරණ (portable fire extinguishers) 5 ක් වත් තිබිය යුතුය. මෙය නැවක විවිධ ස්ථාන වල ඇතිවිය හැකි කුඩා ගිනි ගැනීම් පාලනය කිරීම සඳහා නියම කර ඇති අවම අවශ්‍යතාවයයි. නැවේ ප්‍රමාණය සහ අනතුරුදායක බව අනුව මෙම සංඛ්‍යාව මීට වඩා වැඩි විය හැකි නමුත්, නීත්‍යානුකූල අවම අගය 5 කි."
+    },
+    {
+        "category": "CES – Engine, Operational, Steam",
+        "index": 27,
+        "question": "What are class “C” bulkheads?",
+        "answers": [
+            "Bulkheads constructed of approved non-combustible materials that can withstand the standard fire test for 15 minutes.",
+            "Bulkheads constructed of approved non-combustible materials that can withstand the standard fire test for 30 minutes.",
+            "Bulkheads constructed of approved non-combustible materials that can withstand the standard fire test for 45 minutes.",
+            "Bulkheads constructed of approved non-combustible materials but do not meet any of the requirements relative to smoke and flame nor limitations relative to temperature rise."
+        ],
+        "correct_answer": "Bulkheads constructed of approved non-combustible materials but do not meet any of the requirements relative to smoke and flame nor limitations relative to temperature rise.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Operational, Steam",
+        "index": 28,
+        "question": "Which diagram is the symbol for a THYRISTOR?",
+        "answers": [
+            "Figure 1.",
+            "Figure 2.",
+            "Figure 3.",
+            "Figure 4."
+        ],
+        "correct_answer": "Figure 2.",
+        "images": [
+            "/files/img/else/thyristor.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Operational, Steam",
+        "index": 29,
+        "question": "A faint is a brief loss of consciousness of no more than momentary duration caused by a temporary reduction in the flow of blood to the brain.How to prevent anyone from fainting?",
+        "answers": [
+            "Tell the person to sit down and lean forward with the head between the knees taking deep breaths.",
+            "Tell the person to sit down in a sitting position breathing normally.",
+            "Try to keep the person in an upstanding position.",
+            "If standing in a crowd, flex the leg muscles and toes to aid circulation."
+        ],
+        "correct_answer": "Tell the person to sit down and lean forward with the head between the knees taking deep breaths.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Operational, Steam",
+        "index": 30,
+        "question": "Feed check valves for the main and auxiliary boilers are normally of the double shut off type with one screw lift valve and one screw down non-return valve. What is the main function of the non-return valve?",
+        "answers": [
+            "To increase the workload for staff when overhauling the boiler.",
+            "To allow overhaul of the screw lift valve when the non-return valve is shut and the boiler is steaming.",
+            "To allow fine tuning of feed water flow to the boiler.",
+            "To prevent the steam and water in the boiler from discharging out through the feed line if the feed line fractures or a joint in the line blows."
+        ],
+        "correct_answer": "To prevent the steam and water in the boiler from discharging out through the feed line if the feed line fractures or a joint in the line blows.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Operational, Steam",
+        "index": 31,
+        "question": "What is the correct range for the pH-value for the water in an oil fired steam boiler?",
+        "answers": [
+            "Below 4,5.",
+            "4,5-7.",
+            "7-9.",
+            "9-11."
+        ],
+        "correct_answer": "9-11.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Operational, Steam",
+        "index": 32,
+        "question": "The packed gland on a centrifugal pump is leaking even though the gland has been “nipped up”. What is the correct action to take to stop the leakage?",
+        "answers": [
+            "Tighten up the gland as much as possible until the leakage stops.",
+            "Re-pack the stuffing box loosely with the correct size packing at the earliest opportunity.",
+            "Ensure the bilge well to which the leakage is draining is regularly pumped out.",
+            "Fit an extra ring of oversize packing to the stuffing box at the earliest opportunity."
+        ],
+        "correct_answer": "Re-pack the stuffing box loosely with the correct size packing at the earliest opportunity.",
+        "images": [],
+        "explanation": "සෙන්ට්‍රිෆියුගල් පම්පුවක ග්ලෑන්ඩ් එක (packed gland) තද කළ පසුවත් කාන්දු වන්නේ නම්, කළ යුතු නිවැරදිම දෙය වන්නේ හැකි ඉක්මනින් පැකින් (packing) ඉවත් කර අලුතින් නිවැරදි ප්‍රමාණයේ පැකින් යෙදීමයි. පැරණි පැකින් තවදුරටත් තද කිරීමෙන් (nipping up) සිදුවන්නේ පම්පුවේ ෂාෆ්ට් (shaft) එක හෝ ස්ලීව් (sleeve) එක අධික ලෙස රත් වී හානි වීමයි. නව පැකින් යොදන විට ඒවා මුලින් ලිහිල්ව (loosely) තැබිය යුතු අතර, පම්පුව ක්‍රියාත්මක වන විට ස්වල්ප වශයෙන් කාන්දු වීමට ඉඩ හැරීමෙන් ෂාෆ්ට් එක සිසිල් වීම සහ ලිහිසි වීම සිදු වේ. එබැවින් තවදුරටත් තද කිරීම හෝ කාන්දුව නොසලකා හැරීම වෙනුවට ප්‍රතිස්ථාපනය කිරීම එකම විසඳුමයි."
+    },
+    {
+        "category": "CES – Engine, Operational, Steam",
+        "index": 33,
+        "question": "What is meant by the term “two stage air compressor”?",
+        "answers": [
+            "A compressor in which the compressed air from the first stage is further compressed in the second stage before being delivered to the air receiver.",
+            "A compressor in which the air is delivered to two separate air receivers each at different pressures.",
+            "A set of two compressors. The first compressor delivers low pressure air to an air receiver. The second further compresses the air for delivery to the working range.",
+            "A two cylinder compressor in which half of the air is compressed in one cylinder and half in the other."
+        ],
+        "correct_answer": "A compressor in which the compressed air from the first stage is further compressed in the second stage before being delivered to the air receiver.",
+        "images": [],
+        "explanation": "Two stage air compressor (අදියර දෙකක වායු සම්පීඩකය) යනු වායුව සම්පීඩනය කිරීම අදියර දෙකකදී සිදුකරන යන්ත්‍රයකි. මෙහිදී පළමු සිලින්ඩරයේදී (Low Pressure) මදක් සම්පීඩනය කළ වායුව, අතරමැදි සිසිලකයක් (Intercooler) හරහා යවා නැවත දෙවන සිලින්ඩරයකදී (High Pressure) අවශ්‍ය පීඩනය දක්වා සම්පීඩනය කරයි. මෙය තනි අදියරකදී සිදු කිරීමට වඩා කාර්යක්ෂම වන අතර උෂ්ණත්වය පාලනය කිරීමටද උපකාරී වේ. අනෙක් විකල්ප වැරදි වන්නේ, සිලින්ඩර දෙකක් තිබූ පමණින්ම එය 'two stage' නොවන බැවිනි (සමහර විට සිලින්ඩර දෙකම එකම පීඩනයකදී ක්‍රියා කළ හැක)."
+    },
+    {
+        "category": "CES – Engine, Operational, Steam",
+        "index": 34,
+        "question": "When using portable ladders during work activities onboard a ship what precautions should be taken?",
+        "answers": [
+            "Secure the ladder top and bottom and have a shipmate standing by while you are working on the ladder.",
+            "Prop the ladder against a suitable pipe and have a shipmate hold the ladder while you are working on it.",
+            "Use a safety belt/harness and secure it to the ladder.",
+            "Just secure the top of the ladder once you reach the top."
+        ],
+        "correct_answer": "Secure the ladder top and bottom and have a shipmate standing by while you are working on the ladder.",
+        "images": [],
+        "explanation": "නෞකාවක් මත වැඩ කටයුතු සඳහා එහා මෙහා ගෙන යා හැකි ඉණිමං (portable ladders) භාවිතා කිරීමේදී ආරක්ෂක පියවරයන් අතිශයින් වැදගත් වේ. නෞකාව නිරන්තරයෙන් චලනය වන බැවින්, ඉණිමඟේ ඉහළ සහ පහළ කොටස් ස්ථාවර තැනක හොඳින් ගැටගසා (secure) තැබිය යුතුය. එසේම ඔබ ඉණිමඟ මත වැඩ කරන අතරතුර ඔබේ සහායට තවත් අයෙකු (shipmate) අසල සිටීම අනිවාර්ය වේ. ඉණිමඟ අල්ලාගෙන නොසිටීම හෝ ලිහිල්ව තැබීම බරපතල අනතුරු වලට මඟ පාදයි."
+    },
+    {
+        "category": "CES – Engine, Operational, Steam",
+        "index": 35,
+        "question": "What would be the most likely cause of a smell of “rotten eggs” in the upper casing of the engine room?",
+        "answers": [
+            "Failure of the ship’s refrigeration system.",
+            "Open or leaking acetylene bottle.",
+            "Fresh water evaporator malfunction.",
+            "A leak of exhaust gas from a boiler or diesel engine exhaust."
+        ],
+        "correct_answer": "A leak of exhaust gas from a boiler or diesel engine exhaust.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Operational, Steam",
+        "index": 36,
+        "question": "Which of the options given is one of the main responsibilities of a watch-keeping engineer?",
+        "answers": [
+            "To inform the Chief Engineer of any situations that cannot be controlled during the watch.",
+            "To by-pass, adjust and isolate all machinery under his supervision.",
+            "To ensure that all engine room ratings take off their work shoes in the control room.",
+            "To immediately inform the Master of all events that occur during the watch."
+        ],
+        "correct_answer": "To inform the Chief Engineer of any situations that cannot be controlled during the watch.",
+        "images": [],
+        "explanation": "මුර සංචාරයේ යෙදෙන ඉංජිනේරුවරයෙකුගේ (watch-keeping engineer) මූලික සහ වැදගත්ම වගකීමක් වන්නේ තම මුරය තුළ ඇතිවන ඕනෑම අසාමාන්‍ය තත්ත්වයක් හෝ තමාට පාලනය කළ නොහැකි ගැටලුවක් පිළිබඳව වහාම ප්‍රධාන ඉංජිනේරුවරයා (Chief Engineer) දැනුවත් කිරීමයි. තනිවම තීරණ ගෙන විශාල හානියක් වීමට ඉඩ නොදී, පළපුරුදු නිලධාරීන්ගේ සහාය ලබා ගැනීම මෙහිදී අපේක්ෂා කෙරේ. අනෙකුත් විකල්ප වන තනිවම අලුත්වැඩියා කිරීම හෝ තොරතුරු රහසිගතව තැබීම අනතුරුදායක විය හැක."
+    },
+    {
+        "category": "CES – Engine, Operational, Steam",
+        "index": 37,
+        "question": "Which of the following instruments is normally part of a control-loop?",
+        "answers": [
+            "Transducer.",
+            "Plotter.",
+            "Gauge.",
+            "Indicator."
+        ],
+        "correct_answer": "Transducer.",
+        "images": [],
+        "explanation": "පාලන පද්ධතියක (control-loop) 'transducer' එකක් යනු අත්‍යවශ්‍ය උපාංගයකි. එහි කාර්යය වන්නේ එක් භෞතික ශක්ති ආකාරයකින් ලැබෙන සංඥාවක් (උදාහරණයක් ලෙස පීඩනය හෝ උෂ්ණත්වය) වෙනත් ආකාරයක පාලන සංඥාවකට (විද්‍යුත් හෝ වායු පීඩන සංඥාවකට) පරිවර්තනය කිරීමයි. පීඩන මාපක (pressure gauges) හෝ උෂ්ණත්ව මාපක (thermometers) මගින් කරන්නේ අගයන් පෙන්වීම පමණක් වන අතර, ඒවා පද්ධතිය ස්වයංක්‍රීයව පාලනය කිරීමට සෘජුවම දායක නොවේ."
+    },
+    {
+        "category": "CES – Engine, Operational, Steam",
+        "index": 38,
+        "question": "Measuring instruments must be routinely calibrated. What is the meant by instrument calibration?",
+        "answers": [
+            "Comparing input and output values against a documented standard.",
+            "Turning gauge too an easy reading position.",
+            "Comparing two instruments of the same type.",
+            "Adjusting size to fit process connection."
+        ],
+        "correct_answer": "Comparing input and output values against a documented standard.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Operational, Steam",
+        "index": 39,
+        "question": "How do we recognize a leaking fuel injection valve during testing?",
+        "answers": [
+            "Fuel oil leaks out of the joint between the nozzle and the injector body.",
+            "The injector does not open at the normal opening set pressure.",
+            "The pressure falls off on the pressure gauge when trying to hold the pressure in the injector below normal opening set pressure.",
+            "The injector opens before normal opening set pressure."
+        ],
+        "correct_answer": "The pressure falls off on the pressure gauge when trying to hold the pressure in the injector below normal opening set pressure.",
+        "images": [],
+        "explanation": "ඉන්ධන විදින කපාටයක් (fuel injection valve) පරීක්ෂා කිරීමේදී, එය විවෘත වීමට නියමිත පීඩනයට (opening pressure) වඩා මදක් අඩු පීඩනයක රඳවා තබා ගැනීමට උත්සාහ කරන විට pressure gauge එකේ පීඩනය ක්‍රමයෙන් පහත වැටේ නම්, එම කපාටය කාන්දු වන බව (leaking) හඳුනාගත හැක. නිවැරදි කපාටයක් නම් එම පීඩනය ස්ථාවරව තබා ගත යුතුය. පීඩනය පහත වැටීම යනු ඉන්ධන බිංදු ලෙස සිලින්ඩරය තුළට කාන්දු වන බවයි, මෙය දහන ක්‍රියාවලියට අහිතකර ලෙස බලපායි."
+    },
+    {
+        "category": "CES – Engine, Operational, Steam",
+        "index": 40,
+        "question": "When having a fire alarm during normal working hours, what immediate actions should be taken?",
+        "answers": [
+            "Act according to instruction given in the fire plan.",
+            "Start searching for the fire to determine if it is in the engine room.",
+            "Everybody gather in the safety centre.",
+            "Start the fire pump, the sooner the better."
+        ],
+        "correct_answer": "Act according to instruction given in the fire plan.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Operational, Steam",
+        "index": 41,
+        "question": "From the statements given in the answer options, choose the one which is most accurate in relation to the operation of water-tube boiler and fire-tube boilers.",
+        "answers": [
+            "A firetube boiler does not require a non-return valve in the feedwater line.",
+            "A watertube boiler can tolerate a short period of time without any water when the burner is operating.",
+            "A firetube boiler has a much better capability to work at higher steam pressure.",
+            "Water-tube boilers are more efficient and generally contain less water than fire tube boilers. They are prone to major damage when run dry during operation."
+        ],
+        "correct_answer": "Water-tube boilers are more efficient and generally contain less water than fire tube boilers. They are prone to major damage when run dry during operation.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Operational, Steam",
+        "index": 42,
+        "question": "With reference to using centrifuges for cleaning fuel and lubricating oil what is the difference between a purifier and a clarifier.",
+        "answers": [
+            "In a clarifier only solids are removed from the oil, whereas in a purifier both solids and water are removed from the oil.",
+            "Clarifiers are used when water is present in the oil.",
+            "Purifiers are used when only solids are present in the oil.",
+            "There is no difference, both use centrifugal force."
+        ],
+        "correct_answer": "In a clarifier only solids are removed from the oil, whereas in a purifier both solids and water are removed from the oil.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Operational, Steam",
+        "index": 43,
+        "question": "When operating two centrifuges in series, in a purifier and clarifier arrangement, what is the purpose of the clarifier?",
+        "answers": [
+            "To stabilise the feed temperature.",
+            "To improve the efficiency of water removal.",
+            "To improve the efficiency of solids removal.",
+            "To increase the overall throughput rate."
+        ],
+        "correct_answer": "To improve the efficiency of solids removal.",
+        "images": [],
+        "explanation": "යන්ත්‍ර දෙකක් ශ්‍රේණිගතව (series) ක්‍රියාත්මක කරන විට, පළමුවන යන්ත්‍රය සාමාන්‍යයෙන් Purifier එකක් ලෙස ක්‍රියා කර ජලය සහ විශාල ඝන අංශු ඉවත් කරයි. දෙවනුව ඇති Clarifier එකෙහි ප්‍රධාන අරමුණ වන්නේ Purifier එකෙන් මගහැරුණු ඉතා කුඩා ඝන අංශු (fine solids) ඉවත් කර පිරිසිදු කිරීමේ කාර්යක්ෂමතාව (efficiency) ඉහළ නැංවීමයි. Clarifier එක තුළ ජල අතුරු මුහුණතක් (water interface) නොමැති නිසා, එයට ඝන ද්‍රව්‍ය ඉවත් කිරීම සඳහා වැඩි ඉඩක් සහ හැකියාවක් පවතී. අනෙක් විකල්ප වැරදි වන්නේ Clarifier එකකින් ජලය ඉවත් කිරීමේ කාර්යයක් බලාපොරොත්තු නොවන බැවිනි."
+    },
+    {
+        "category": "CES – Engine, Operational, Steam",
+        "index": 44,
+        "question": "Are there any restrictions about how much sludge we can pump overboard on the sea voyage?",
+        "answers": [
+            "Maximum is 30 litre per nautical mile and total is 1/30 000 part of full cargo on the ballast voyage.",
+            "Maximum is 30 litre per nautical mile and total is 1/10 000 part of full cargo on the ballast voyage.",
+            "Maximum is 60 litre per nautical mile and total is 1/30 000 part of full cargo on the ballast voyage.",
+            "There isn’t any restrictions of pumping sludge from ships outside special areas."
+        ],
+        "correct_answer": "Maximum is 30 litre per nautical mile and total is 1/30 000 part of full cargo on the ballast voyage.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Operational, Steam",
+        "index": 45,
+        "question": "What would the First Engineer require?",
+        "answers": [
+            "The First Engineer would require cleaning of the feed water tank.",
+            "The First Engineer would require an inspection of the heating coils.",
+            "The First Engineer would require the Chief Officer to keep him advised of bilge soundings.",
+            "The First Engineer would require the Fitter to check the carbon dioxide fire-fighting equipment."
+        ],
+        "correct_answer": "The First Engineer would require an inspection of the heating coils.",
+        "images": [],
+        "explanation": "පළමු ඉංජිනේරු නිලධාරියා (First Engineer) සාමාන්‍යයෙන් ඉන්ධන ටැංකිවල ඇති හීටින් කොයිල් (heating coils) පරීක්ෂා කිරීම අවශ්‍ය වේ. ඉන්ධන නියමිත දුස්ස්රාවිතතාවයේ (viscosity) පවත්වා ගැනීමට සහ කොයිල්වල කාන්දුවීම් නොමැති බව තහවුරු කිරීමට මෙය අත්‍යවශ්‍ය නඩත්තු කටයුත්තකි. අනෙකුත් විකල්පවල සඳහන් වන දෑ දෛනික කටයුතු වුවත්, හීටින් කොයිල් පරීක්ෂාව ඉංජිනේරුමය වශයෙන් වඩාත් වැදගත් අවශ්‍යතාවයකි."
+    },
+    {
+        "category": "CES – Engine, Operational, Steam",
+        "index": 46,
+        "question": "How many buoyant smoke signals are carried in each lifeboat?",
+        "answers": [
+            "2.",
+            "4.",
+            "6.",
+            "12."
+        ],
+        "correct_answer": "2.",
+        "images": [],
+        "explanation": "SOLAS (Safety of Life at Sea) රෙගුලාසි වලට අනුව, මුහුදේදී සිදුවන අනතුරකදී දිවා කාලයේදී උපකාර ලබා ගැනීම සඳහා සෑම ජීවිතාරක්ෂක බෝට්ටුවකම (lifeboat) අවම වශයෙන් පාවෙන දුම් සංඥා (buoyant smoke signals) 2 ක් තිබිය යුතුය. මෙම සංඥා මගින් දීප්තිමත් තැඹිලි පැහැති දුමාරයක් නිකුත් කරන අතර එමගින් ගලවා ගැනීමේ කණ්ඩායම් වලට බෝට්ටුව තිබෙන ස්ථානය පහසුවෙන් හඳුනාගත හැකිය. 2 ට වඩා අඩු හෝ වැඩි සංඛ්‍යාවන් සම්මත රෙගුලාසියට අනුව අවම අවශ්‍යතාවය නොවන බැවින් එම විකල්ප වැරදි වේ."
+    },
+    {
+        "category": "CES – Engine, Operational, Steam",
+        "index": 47,
+        "question": "What is the minimum working pressure of the international shore connection?",
+        "answers": [
+            "0,1 N/mm2.",
+            "0,4 N/mm2.",
+            "0,25 N/mm2.",
+            "1 N/mm2."
+        ],
+        "correct_answer": "1 N/mm2.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Operational, Steam",
+        "index": 48,
+        "question": "B Class divisions in ships are constructed so that they are capable of preventing the passage of flame to the end of a standard fire test held for:",
+        "answers": [
+            "60 minutes.",
+            "45 minutes.",
+            "30 minutes.",
+            "15 minutes."
+        ],
+        "correct_answer": "30 minutes.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Operational, Steam",
+        "index": 49,
+        "question": "Which of the survival craft listed below is equipped with a buoyant line, not less than 50 m in length, of sufficient strength to tow a liferaft?",
+        "answers": [
+            "Rescue boat.",
+            "Lifeboat.",
+            "Life raft.",
+            "None of them."
+        ],
+        "correct_answer": "Rescue boat.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Operational, Steam",
+        "index": 50,
+        "question": "Give the meaning of the symbol:",
+        "answers": [
+            "Flame detector.",
+            "Immersion suite.",
+            "EPIRB.",
+            "Open hatches."
+        ],
+        "correct_answer": "EPIRB.",
+        "images": [
+            "/files/img/else/epirb.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Operational, Steam",
+        "index": 51,
+        "question": "A hand flare must have a burning period of at least:",
+        "answers": [
+            "1 min.",
+            "30 sec.",
+            "10 min.",
+            "5 min."
+        ],
+        "correct_answer": "1 min.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Operational, Steam",
+        "index": 52,
+        "question": "Which ships does the ISM code apply to:",
+        "answers": [
+            "Only tankers and Ro-Ros.",
+            "All craft above 300 GRT.",
+            "All passenger ships, all cargo ships of 500 GRT or above.",
+            "Only passenger vessels."
+        ],
+        "correct_answer": "All passenger ships, all cargo ships of 500 GRT or above.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Operational, Steam",
+        "index": 53,
+        "question": "When is a machine “securely guarded”?",
+        "answers": [
+            "When it is fitted with a guard or similar device which prevents foreseeable contact between a person, his clothing or items held in his hands, whilst it is in operation.",
+            "When any person operating a machine has full training in its use and how the guards should be placed when it operation.",
+            "When it must isolated before maintenance can be carried out on it.",
+            "When the machine can rotate freely, without coming into contact with any person in the vicinity of the machine."
+        ],
+        "correct_answer": "When it is fitted with a guard or similar device which prevents foreseeable contact between a person, his clothing or items held in his hands, whilst it is in operation.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Operational, Steam",
+        "index": 54,
+        "question": "Which of these weapons are widely available and commonly used by criminals and terrorists to further their aims?",
+        "answers": [
+            "Liquid explosive.",
+            "Vehicle borne device.",
+            "Incendiary device.",
+            "Gun."
+        ],
+        "correct_answer": "Gun.",
+        "images": [],
+        "explanation": "අපරාධකරුවන් සහ ත්‍රස්තවාදීන් ඔවුන්ගේ අරමුණු ඉටු කර ගැනීම සඳහා ලෝකය පුරා බහුලවම සහ පහසුවෙන් ලබා ගත හැකි ආයුධය ලෙස තුවක්කු (Gun) භාවිතා කරයි. මේවා ප්‍රමාණයෙන් කුඩා වීම, පහසුවෙන් සැඟවිය හැකි වීම සහ දුර සිට ප්‍රහාර එල්ල කළ හැකි වීම මෙයට හේතුවයි. අනෙකුත් ආයුධ වර්ග (උදාහරණ ලෙස ජීව විද්‍යාත්මක හෝ විශාල මිසයිල පද්ධති) සාමාන්‍ය අපරාධකරුවන්ට ලබා ගැනීම සහ හැසිරවීම ඉතා අපහසු බැවින් ඒවා මෙහිදී නිවැරදි නොවේ."
+    },
+    {
+        "category": "CES – Engine, Operational, Steam",
+        "index": 55,
+        "question": "When handling drugs:",
+        "answers": [
+            "Wear skin protection.",
+            "Briefly inhale powders, fumes or vapours to verify the substance is a drug.",
+            "Test out the potency of the drug."
+        ],
+        "correct_answer": "Wear skin protection.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Operational, Steam",
+        "index": 56,
+        "question": "Why do some diesel engine manufacturers recommend machining the valve spindle sealing surface with a half degree difference to the valve seat angle?",
+        "answers": [
+            "To improve valve sealing by compensating for pressure and temperature effects on the valve during engine operation.",
+            "To improve valve sealing by compensating for expansion of the valve during high temperature operation.",
+            "To improve valve sealing by increasing contact force by reducing contact area between valve and seat.",
+            "To minimize heat transfer between valve and valve seat."
+        ],
+        "correct_answer": "To improve valve sealing by compensating for pressure and temperature effects on the valve during engine operation.",
+        "images": [],
+        "explanation": "ඩීසල් එන්ජින් වල වෑල්වය (valve spindle) සහ එහි වාඩි වන මතුපිට (valve seat) අතර අඩක උපාධියක (0.5 degree) වෙනසක් තැබීම 'interference angle' ලෙස හඳුන්වයි. එන්ජිම ක්‍රියාත්මක වන විට අධික තාපය සහ පීඩනය නිසා වෑල්වයේ හැඩය සුළු වශයෙන් වෙනස් වේ. මෙම කුඩා කෝණික වෙනස මගින් එන්ජිම ක්‍රියාත්මක වන උපරිම උෂ්ණත්වයේදී වෑල්වය සහ සීට් එක අතර වඩාත් හොඳ ස්පර්ශයක් සහ සීල් එකක් (sealing) ලබා දීමට උපකාරී වේ. මෙමගින් ගෑස් කාන්දු වීම වළකී. අනෙක් විකල්ප වලින් මෙවැනි තාක්ෂණික හේතුවක් ඉදිරිපත් නොකරන නිසා ඒවා වැරදි වේ."
+    },
+    {
+        "category": "CES – Engine, Operational, Steam",
+        "index": 57,
+        "question": "Thermistors are temperature sensitive devices. A positive temperature coefficient thermistor will typically have:",
+        "answers": [
+            "Relatively non-linear characteristic.",
+            "Relatively linear characteristic.",
+            "Inaccurate measurement.",
+            "Variable reliability."
+        ],
+        "correct_answer": "Relatively non-linear characteristic.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Operational, Steam",
+        "index": 58,
+        "question": "On finding a person apparently unconscious in a High Voltage switch room, which of the following should be done?",
+        "answers": [
+            "Raise alarm, identify means of isolation and apply before approaching victim.",
+            "Trip all breakers and approach victim.",
+            "Raise alarm then drag the victim clear so that they cannot reach live parts while receiving aid.",
+            "Check if the victim is in contact with live parts and if not apply first aid."
+        ],
+        "correct_answer": "Raise alarm, identify means of isolation and apply before approaching victim.",
+        "images": [],
+        "explanation": "අධි වෝල්ටීයතා (High Voltage) කාමරයක පුද්ගලයෙකු සිහිසුන්ව සිටිනු දුටු විට මුලින්ම කළ යුත්තේ අනතුරු ඇඟවීමේ ශබ්දය (alarm) නිකුත් කර උදව් ඉල්ලා සිටීමයි. ඉන්පසු, වහාම අදාළ විදුලි සැපයුම විසන්ධි කරන මාර්ගය (means of isolation) හඳුනාගෙන එය ක්‍රියාවිරහිත කළ යුතුය. එසේ නොකර රෝගියා වෙත ගියහොත්, එම පුද්ගලයා තවමත් විදුලි ධාරාව සමඟ සම්බන්ධ වී සිටී නම් උපකාර කිරීමට යන පුද්ගලයාටද විදුලි සැර වැදී අනතුරට පත්විය හැකිය. එබැවින් පළමුව ආරක්ෂාව තහවුරු කර ගැනීම අනිවාර්ය වේ. කෙලින්ම රෝගියා ඇල්ලීමට යාම වැනි විකල්ප අතිශය අනතුරුදායකය."
+    },
+    {
+        "category": "CES – Engine, Operational, Steam",
+        "index": 59,
+        "question": "A mechanical seal, consisting of carbon and ceramic seal rings, is to be fitted to a cetrifugal pump shaft. What is the most likely result of not being extremely careful when fitting this type of seal?",
+        "answers": [
+            "The seal rings are brittle and can be easily chipped or damaged.",
+            "The seal rings are hard and may score the pump shaft.",
+            "The rubber O rings for the seal can be easily damaged.",
+            "The spring and bellows for the seal can be easily damaged."
+        ],
+        "correct_answer": "The seal rings are brittle and can be easily chipped or damaged.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Operational, Steam",
+        "index": 60,
+        "question": "During maintenance work on a main diesel engine the fuel injection valve is found to be jammed in the pocket in the cylinder cover. Which of the procedures given in the options should be followed in order to complete the work?",
+        "answers": [
+            "Replace the complete cylinder cover with a spare unit and land the cover with the jammed valve ashore for repair in a specialist workshop.",
+            "With the fuel injection valve retaining nuts removed admit compressed air into the engine cylinder to try and blow the injection valve out of the pocket.",
+            "Remove the cylinder cover and try and drive the injection valve out of the pocket from the underside with a hammer and punch.",
+            "Wedge a bar between the piston top and the bottom of the injector and use the turning gear to force the injection valve out."
+        ],
+        "correct_answer": "Replace the complete cylinder cover with a spare unit and land the cover with the jammed valve ashore for repair in a specialist workshop.",
+        "images": [],
+        "explanation": "ෆුවෙල් ඉන්ජෙක්ෂන් වැල්ව් එකක් සිලින්ඩර් කවර් එකේ හිරවී ඇති විට, එය බලහත්කාරයෙන් ඉවත් කිරීමට යාමෙන් සිලින්ඩර් කවර් එකේ සීට් (seat) එකට හෝ වැල්ව් එකේ බොඩි එකට බරපතල හානි සිදුවිය හැක. එබැවින් නැවෙහි ඇති සීමිත පහසුකම් යටතේ අවදානමක් නොගෙන, සම්පූර්ණ සිලින්ඩර් කවර් එකම අමතර (spare) ඒකකයක් මගින් ප්‍රතිස්ථාපනය කිරීම නිවැරදි පියවරයි. හිරවූ වැල්ව් එක සහිත කවර් එක පසුව ගොඩබිම පිහිටි විශේෂඥ වැඩපොළකට (specialist workshop) යවා නිසි උපකරණ භාවිතයෙන් අලුත්වැඩියා කළ යුතුය."
+    },
+    {
+        "category": "CES – Engine, Operational, Steam",
+        "index": 61,
+        "question": "A large electric motor is being removed from a main seawater pump with the aid of the engine room crane. Which is the best method of starting the lift from the options given?",
+        "answers": [
+            "Use a suitable chain block suspended from the crane hook to “break” the motor free after slackening all of the retaining bolts.",
+            "Use the “inch up” facility on the crane to “break” the motor free after slackening all of the retaining bolts.",
+            "Use the full hoist facility on the crane to “break” the motor free after slackening all of the retaining bolts.",
+            "Use the full hoist facility to lift the motor clear in one action after removing all of the retaining bolts."
+        ],
+        "correct_answer": "Use a suitable chain block suspended from the crane hook to “break” the motor free after slackening all of the retaining bolts.",
+        "images": [],
+        "explanation": "බරැති ඉලෙක්ට්‍රික් මෝටරයක් ඉවත් කිරීමේදී, ක්‍රේන් එක මගින් කෙලින්ම එසවීමට උත්සාහ කිරීමේදී මෝටරය එකවරම ගැස්සීමකින් යුතුව ඇදී යාමට ඉඩ ඇත (jerking). මෝටරය සහ එහි අසුන (bed) අතර ඇති ඇලෙන සුලු ස්වභාවය හෝ මලකඩ නිසා එය තද වී තිබිය හැක. එබැවින් ක්‍රේන් හුක් එකෙහි චේන් බ්ලොක් (chain block) එකක් සවිකර, ඒ මගින් ඉතා මෘදු ලෙස සහ පාලනයක් සහිතව මෝටරය මුදා ගැනීම (break free) වඩාත් ආරක්ෂිත ක්‍රමයයි. මෝටරයේ පාදම (feet) වලට ලීවර මගින් හානි කිරීම හෝ ක්‍රේන් එකෙන් පමණක් එසවීම අනතුරුදායක විය හැක."
+    },
+    {
+        "category": "CES – Engine, Operational, Steam",
+        "index": 62,
+        "question": "An air compressor is being refitted in the engine room. The compressor and motor are coupled using a flexible coupling and are mounted on a common “skid” which fixed to the deck with resilient mountings. Which of the statements, from the options given, relating to the alignment of the motor and compressor is true?",
+        "answers": [
+            "Shims should be fitted between the motor and compressor feet and the skid to ensure correct vertical, horizontal and parallel alignment of the coupling halves before it is bolted up.",
+            "As long as the two coupling halves are at the same height the flexible coupling will accommodate any horizontal misalignment or difference in the gap between the coupling faces.",
+            "The compressor and motor can just be placed directly on the common skid as they will probably be closely aligned anyway."
+        ],
+        "correct_answer": "Shims should be fitted between the motor and compressor feet and the skid to ensure correct vertical, horizontal and parallel alignment of the coupling halves before it is bolted up.",
+        "images": [],
+        "explanation": "කම්ප්‍රෙෂරය සහ මෝටරය අතර 'flexible coupling' එකක් තිබුණද, ඒවායේ පෙළගැස්ම (alignment) ඉතා නිවැරදිව තිබිය යුතුය. මෝටරයේ සහ කම්ප්‍රෙෂරයේ පාද සහ ස්කිඩ් (skid) එක අතර ශිම්ස් (shims) යෙදීමෙන් සිරස්, තිරස් සහ සමාන්තර පෙළගැස්ම ලබාගත හැක. මෙය නිසි ලෙස සිදු නොකළහොත් කම්පනය (vibration) වැඩි වී බෙයාරිං (bearings) වලට හානි සිදුවේ. Flexible coupling එකකින් සුළු ඇදවීම් දරාගත හැකි වුවද, එය නිවැරදි පෙළගැස්මක් වෙනුවට විකල්පයක් නොවේ."
+    },
+    {
+        "category": "CES – Engine, Operational, Steam",
+        "index": 63,
+        "question": "The ring expander for removal and refitting of an air compressors piston rings is found to be broken and unusable. The work cannot be delayed until a replacement is obtained. Which of the methods given in the options should the ship’s engineers use to complete the work?",
+        "answers": [
+            "Fabricate a conical guide from tin plate or similar with the large diameter just bigger than the compressor piston so the rings can be eased open for fitting.",
+            "Use loops of string or rags to pull the ring ends apart so the rings can be lifted off and on.",
+            "As compressor rings are relatively small with little tension the ends can be pulled apart sufficiently to clear the piston using the thumbs.",
+            "Lever the rings open using a couple of screw drivers to get the rings past the ring groovers."
+        ],
+        "correct_answer": "Fabricate a conical guide from tin plate or similar with the large diameter just bigger than the compressor piston so the rings can be eased open for fitting.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Operational, Steam",
+        "index": 64,
+        "question": "The end covers for a heat exchanger are held in place by a number of brass studs and nuts. Which of the tools given in the options is best suited for removal and tightening of the nuts?",
+        "answers": [
+            "Open ended spanner.",
+            "Ring spanner or socket.",
+            "Adjustable shifting spanner.",
+            "A set of mole grips."
+        ],
+        "correct_answer": "Ring spanner or socket.",
+        "images": [],
+        "explanation": "පිත්තල (brass) යනු මෘදු ලෝහයක් බැවින්, සාමාන්‍ය open-end spanners භාවිතයේදී නට් එක මත ලිස්සා යාමට (slip) සහ එහි කොන් (corners) සීරීමට හෝ ගෙවී යාමට (rounding) වැඩි ඉඩක් ඇත. Ring spanner හෝ Socket එකක් භාවිතයෙන් නට් එකේ සම්පූර්ණ මතුපිටටම සමබර පීඩනයක් යෙදෙන බැවින් පිත්තල නට් එකට හානි සිදු නොවේ. Adjustable spanners හෝ ප්ලයර්ස් වැනි උපකරණ භාවිතය මෙවැනි අවස්ථාවකදී කිසිසේත්ම නිර්දේශ නොකෙරේ."
+    },
+    {
+        "category": "CES – Engine, Operational, Steam",
+        "index": 65,
+        "question": "When a ships derrick or crane lifts a weight off the deck of a ship, from which position can the centre of gravity of the weight be considered to act?",
+        "answers": [
+            "From the centre of the weight lifted.",
+            "From the position on the deck from which the weight was lifted.",
+            "From a position on the deck at the base of the derrick or crane.",
+            "From the head of the derrick or crane."
+        ],
+        "correct_answer": "From the head of the derrick or crane.",
+        "images": [],
+        "explanation": "නැවක දොඹකරයකින් බරක් ඔසවන විට, එම බරෙහි ගුරුත්වාකර්ෂණ මධ්‍යස්ථානය (Centre of Gravity) ක්‍රියා කරන්නේ එම බර එල්ලා ඇති දොඹකරයේ හිස (head of the derrick) සිට බව සලකනු ලැබේ. මෙයට හේතුව බර එසවූ සැණින් එහි සම්පූර්ණ බලපෑම නැවේ ස්ථායීතාවයට (stability) දැනෙන්නේ එල්ලී පවතින ලක්ෂ්‍යයේ සිට වීමයි. බර තට්ටුවේ (deck) පවතින විටදී මෙන් නොව, එසවූ පසු එහි උස දොඹකරයේ හිස දක්වා ඉහළ ගිය ලෙස ගණනය කරනු ලැබේ."
+    },
+    {
+        "category": "CES – Engine, Operational, Steam",
+        "index": 66,
+        "question": "What is the anticipated rolling period of a ship with a large initial Transverse Metacentric Height (GM) and would there be any associated dangers to consider?",
+        "answers": [
+            "Short sharp period of roll associated with breaking lashings and shifting cargo.",
+            "Long slow roll and no particular hazards.",
+            "Short period of roll, but a very stable ship and no associated dangers.",
+            "Long period of roll with free surface effects at a maximum."
+        ],
+        "correct_answer": "Short sharp period of roll associated with breaking lashings and shifting cargo.",
+        "images": [],
+        "explanation": "විශාල GM (Metacentric Height) අගයක් ඇති නැවක් 'Stiff ship' ලෙස හැඳින්වේ. මෙහිදී නැව රළ පහරකට හසු වූ විට ඉතා වේගයෙන් සහ තියුණු ලෙස දෙපසට වැනේ (short sharp period of roll). මෙහි ප්‍රතිඵලයක් ලෙස භාණ්ඩ රඳවා ඇති ලැෂින් (lashings) කැඩී යාමට සහ භාණ්ඩ පෙරලීමට (cargo shifting) වැඩි ඉඩක් ඇත. දිගු rolling period එකක් ඇති වන්නේ GM අගය අඩු වූ විට (Tender ship) ය."
+    },
+    {
+        "category": "CES – Engine, Operational, Steam",
+        "index": 67,
+        "question": "The Ziegler-Nichols method is used in control engineering when setting up the system. Which of the system components given in the options would this method be applied to during initial set up?",
+        "answers": [
+            "Valve and actuator to set the span of travel.",
+            "PID controller for tuning.",
+            "Valve positioner to optimise speed of operation.",
+            "Sensing unit to set the range."
+        ],
+        "correct_answer": "PID controller for tuning.",
+        "images": [],
+        "explanation": "Ziegler-Nichols ක්‍රමය යනු පාලන පද්ධති (control systems) වල ඇති PID Controller එකක Gain (P), Integral (I) සහ Derivative (D) අගයන් නිවැරදිව ගැලපීම (tuning) සඳහා භාවිතා කරන ගණිතමය ක්‍රමවේදයකි. පද්ධතියේ ස්ථායීතාවය (stability) සහ ප්‍රතිචාර දැක්වීමේ වේගය උපරිම කිරීම සඳහා මෙම ක්‍රමය යොදා ගනී. මෙය වෙනත් යාන්ත්‍රික හෝ විද්‍යුත් උපාංග සැකසීමට අදාළ නොවන අතර තනිකරම PID පද්ධති ටියුන් කිරීම සඳහාම වෙන් වූවකි."
+    },
+    {
+        "category": "CES – Engine, Operational, Steam",
+        "index": 68,
+        "question": "With the set point at the actual desired value, a temperature control system is giving an unacceptably large offset (difference between set point and measured value) on high load resulting in a low system temperature. Which of the actions given in the options should be taken to reduce this effect and therefore achieve closer control of the temperature?",
+        "answers": [
+            "Reduce the width of the proportional band for the controller.",
+            "Increase the width of the proportional band for the controller.",
+            "Crack open the manual bypass valve for the control valve.",
+            "Increase the set point to a value above the actual desired value."
+        ],
+        "correct_answer": "Reduce the width of the proportional band for the controller.",
+        "images": [],
+        "explanation": "ප්‍රොපෝෂනල් පාලකයක (Proportional controller) පවතින 'offset' එක අඩු කිරීමට නම් 'proportional band' එකෙහි පළල අඩු කළ යුතුය. එවිට පාලකයේ සංවේදීතාව (gain) වැඩි වන අතර උෂ්ණත්වය නියමිත අගයට (set point) සමීපව පවත්වා ගැනීමට හැකි වේ. Proportional band එක වැඩි කිරීමෙන් පද්ධතියේ ප්‍රතිචාරය මන්දගාමී වන අතර offset එක තවත් වැඩි වේ. එබැවින් නිවැරදි පිළිතුර band එක අඩු කිරීමයි."
+    },
+    {
+        "category": "CES – Engine, Operational, Steam",
+        "index": 69,
+        "question": "The refrigeration system for the ships provisions consists of a number of cold rooms served by a central refrigeration system. The evaporator coils for the vegetable room are found to be frosting up even though the room is down to temperature and the liquid line valve has closed. Select, from the options given, the automatic control component which is likely to be malfunctioning and so cause this condition.",
+        "answers": [
+            "The liquid line valve for the flour room.",
+            "Back pressure control valve.",
+            "Thermostatic expansion valve for the meat room.",
+            "The low pressure cut out for the compressor."
+        ],
+        "correct_answer": "Back pressure control valve.",
+        "images": [],
+        "explanation": "ප්‍රතිශීතකරණ පද්ධතියක (Refrigeration system) උෂ්ණත්වය අඩු වුවද සහ ද්‍රව ලයින් වෑල්වය (liquid line valve) වැසී තිබියදීත් එවැපරේටර් එකේ අයිස් බැඳෙන්නේ නම් (frosting up), එයට හේතුව Back pressure control valve එක නිවැරදිව ක්‍රියා නොකිරීමයි. මෙම වෑල්වයේ කාර්යය වන්නේ එවැපරේටරයේ පීඩනය සහ උෂ්ණත්වය නියමිත මට්ටමක පවත්වා ගැනීමයි. එය දෝෂ සහිත වූ විට පීඩනය ඕනෑවට වඩා අඩු වී අයිස් බැඳීම සිදුවේ. Thermostatic expansion valve වැනි අනෙකුත් කොටස් දෝෂ සහිත වූ විට සාමාන්‍යයෙන් සිසිලනය අඩු වීම මිස මෙවැනි තත්වයක් ඇති නොවේ."
+    },
+    {
+        "category": "CES – Engine, Operational, Steam",
+        "index": 70,
+        "question": "As part of a survey of a main steam boiler it is necessary to check the condition of the steam drum. What would be the preferred method for checking drum shell thickness in such a situation?",
+        "answers": [
+            "Use ultrasound equipment.",
+            "Use dye penetrant tester.",
+            "Use magnetic particle inspection equipment.",
+            "Drill a test hole in the shell to accurately measure the thickness."
+        ],
+        "correct_answer": "Use ultrasound equipment.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Operational, Steam",
+        "index": 71,
+        "question": "An accumulation test may be necessary for a steam boiler following repairs or modifications. Which of the given options does the accumulation test check?",
+        "answers": [
+            "The time taken to fill the boiler with water under steaming conditions.",
+            "The rate at which the boiler can generate steam.",
+            "The capacity of the safety valve to relieve pressure.",
+            "The time taken for the boiler to reach operating pressure."
+        ],
+        "correct_answer": "The capacity of the safety valve to relieve pressure.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Operational, Steam",
+        "index": 72,
+        "question": "During “dry lay up” of a main water tube boiler it is necessary to maintain dry, low humidity environment in the water spaces. Which of the chemicals given in the options would best achieve this condition?",
+        "answers": [
+            "Silica gel.",
+            "Hydrazine.",
+            "Calcium phosphate.",
+            "Sodium hydroxide."
+        ],
+        "correct_answer": "Silica gel.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Operational, Steam",
+        "index": 73,
+        "question": "Chemical boiling out is one method that is used for cleaning the waterside of a steam boiler. Select from the given options the likely circumstances under which this procedure would be considered necessary?",
+        "answers": [
+            "Excess chloride levels in the boiler water.",
+            "Excessive sludge build up in the water drum.",
+            "Contamination of the boiler water by oil.",
+            "Oxygen pitting in the steam drum."
+        ],
+        "correct_answer": "Contamination of the boiler water by oil.",
+        "images": [],
+        "explanation": "බොයිලේරුවක වතුර පවතින ප්‍රදේශය පිරිසිදු කිරීම සඳහා 'Chemical boiling out' ක්‍රමය භාවිතා කරන්නේ ප්‍රධාන වශයෙන්ම එහි ජලය තෙල් (oil) මගින් අපවිත්‍ර වී ඇති විටය. මෙහිදී ක්ෂාරීය රසායනික ද්‍රව්‍ය යොදා තෙල් හා ග්‍රීස් තට්ටු ඉවත් කරනු ලැබේ. අනෙක් අතට, බොයිලේරුවේ මලකඩ හෝ ඛනිජ ස්ථර (scale) ඉවත් කිරීමට සාමාන්‍යයෙන් ඇසිඩ් පිරිසිදු කිරීම් (acid cleaning) හෝ යාන්ත්‍රික පිරිසිදු කිරීම් සිදු කරන අතර, සාමාන්‍ය ක්‍රියාකාරිත්වයේදී සිදුවන දූෂණය පාලනයට 'blow down' ක්‍රමය යොදා ගනී."
+    },
+    {
+        "category": "CES – Engine, Operational, Steam",
+        "index": 74,
+        "question": "A deadweight tester is used to check and calibrate a pressure gauge. The tester consists of a hydraulic pump and a hydraulic chamber and balance weight system. After completing the calibration of the pressure gauge the hydraulic pressure should be relieved before removing the weights. Select, from the options given, the main reason for this requirement.",
+        "answers": [
+            "To protect the piston in the hydraulic system from possible impact damage as it may reach the end of its stroke.",
+            "To protect the pressure gauge from a surge in pressure as the weights are removed.",
+            "To protect the hydraulic balance system from a pressure surge as the weights are removed.",
+            "To protect the hydraulic pump from a pressure surge as the weights are removed."
+        ],
+        "correct_answer": "To protect the piston in the hydraulic system from possible impact damage as it may reach the end of its stroke.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Operational, Steam",
+        "index": 75,
+        "question": "Vibration analysis is often used as a conditioning monitoring tool onboard ship as part of the approved planned maintenance system. Many vibration measuring instruments are fitted with a harmonic filter/analyser. How would these filters normally be used during vibration measurement on a centrifugal pump?",
+        "answers": [
+            "To block out any noise or vibration from the surrounding engine room.",
+            "To sum up all the harmonics of a base frequency to give total vibration for all of the pump’s components simultaneously.",
+            "To isolate a single frequency of vibration associated with one of the pumps components.",
+            "To generate an audible sound signal at the same frequency and amplitude as the vibration."
+        ],
+        "correct_answer": "To isolate a single frequency of vibration associated with one of the pumps components.",
+        "images": [],
+        "explanation": "කේන්ද්‍රාපසාරී පොම්පයක (centrifugal pump) කම්පන විශ්ලේෂණය කිරීමේදී 'harmonic filters/analysers' භාවිතා කරන්නේ පොම්පයේ එක් එක් විශේෂිත කොටස්වලින් (උදාහරණ ලෙස bearings, impeller හෝ shaft) නිකුත් වන නිශ්චිත සංඛ්‍යාතයන් වෙන් කර හඳුනා ගැනීමටයි (isolate a single frequency). සමස්ත කම්පනය මැනීමෙන් පමණක් දෝෂය පවතින්නේ කුමන කොටසෙහිදැයි නිවැරදිව කිව නොහැකි බැවින්, මෙම පෙරහන් මගින් අදාළ කොටස හඳුනා ගැනීම පහසු කරයි."
+    },
+    {
+        "category": "CES – Engine, Operational, Steam",
+        "index": 76,
+        "question": "Compressed air for instrument and control purposes needs to be of high quality. In order to condition the air filter modules are usually fitted to remove the contaminants. If there is evidence of oil carry over to the final elements in the instrumentation air system what is the most likely cause?",
+        "answers": [
+            "The coalescer module is saturated and requires renewal.",
+            "The drier section of the module needs to be regenerated.",
+            "The air compressor piston rings need to be renewed.",
+            "The particle removal module is choked."
+        ],
+        "correct_answer": "The coalescer module is saturated and requires renewal.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Operational, Steam",
+        "index": 77,
+        "question": "The recognised definition of High Voltage equipment is anything that operates at over which of the following levels?",
+        "answers": [
+            "1 000 Volts AC or 1 500 Volts DC.",
+            "1 000 Volts AC or 750 Volts DC.",
+            "33 000 Volts AC or DC.",
+            "440 Volts AC or DC."
+        ],
+        "correct_answer": "1 000 Volts AC or 1 500 Volts DC.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Operational, Steam",
+        "index": 78,
+        "question": "High Voltage (HV) cables are smaller than low voltage cables for a given power rating. Why is this?",
+        "answers": [
+            "The HV cable carries a smaller current and therefore requires less copper.",
+            "The HV cable uses Aluminium conductors and therefore requires them to be a smaller cross-sectional area.",
+            "The HV cable uses higher quality copper conductors and therefore requires them to be a smaller cross-sectional area.",
+            "The HV cable has a thinner wall of special insulation material."
+        ],
+        "correct_answer": "The HV cable carries a smaller current and therefore requires less copper.",
+        "images": [],
+        "explanation": "HV කේබල්වල වෝල්ටීයතාවය වැඩි බැවින්, සමාන ජවයක් (power) ලබා දීම සඳහා අවශ්‍ය වන ධාරාව (current) අඩු වේ (P = V x I සූත්‍රයට අනුව). ධාරාව අඩු වන විට කම්බිය රත් වීම අවම වන බැවින් කුඩා හරස්කඩක් සහිත තඹ කම්බි භාවිතා කළ හැකිය. මෙහිදී HV කේබල්වල පරිවාරක තට්ටුව (insulation) LV කේබල්වලට වඩා ඝනකම් වුවද, සමස්තයක් ලෙස අවශ්‍ය වන තඹ ප්‍රමාණය අඩු වීම නිසා කේබලයේ ප්‍රමාණය කුඩා වේ."
+    },
+    {
+        "category": "CES – Engine, Operational, Steam",
+        "index": 79,
+        "question": "How would you report containers with dangerous goods lost overboard?",
+        "answers": [
+            "My vessel has lost containers with dangerous goods of IMDG Class ___ in position ___.",
+            "My vessel has lost containers overboard.",
+            "My vessel has lost containers with dangerous goods of IMDG Class ___.",
+            "My vessel has lost containers in position ____."
+        ],
+        "correct_answer": "My vessel has lost containers with dangerous goods of IMDG Class ___ in position ___.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Operational, Steam",
+        "index": 80,
+        "question": "What do you understand by the initials EPIRB?",
+        "answers": [
+            "Electronic Purpose If Rescue Begins.",
+            "Emergency Position Indicating Radio Beacon.",
+            "Emergency Position Indication Radio Buoy.",
+            "Electronic Indication Radar Buoy."
+        ],
+        "correct_answer": "Emergency Position Indicating Radio Beacon.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Operational, Steam",
+        "index": 81,
+        "question": "Select the one option which correctly completes the following statement: A portable ladder ____.",
+        "answers": [
+            "Should be secured before working from it.",
+            "It doesn’t matter.",
+            "Should be secured after working from it."
+        ],
+        "correct_answer": "Should be secured before working from it.",
+        "images": [],
+        "explanation": ""
+    }
+]

@@ -1,0 +1,1264 @@
+[
+    {
+        "category": "CES – Engine, Support, Basic Terminology",
+        "index": 1,
+        "question": "What is the correct name of the part highlighted in the illustration?",
+        "answers": [
+            "Air starting valve.",
+            "Exhaust valve.",
+            "Air inlet valve.",
+            "Fuel injector."
+        ],
+        "correct_answer": "Exhaust valve.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2025/08/Screenshot-from-2025-08-06-09-15-02.png"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Support, Basic Terminology",
+        "index": 2,
+        "question": "What is the correct name of the part highlighted in the illustration?",
+        "answers": [
+            "Turbocharger.",
+            "Crankshaft.",
+            "Air cooler.",
+            "Cylinder head."
+        ],
+        "correct_answer": "Turbocharger.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2025/08/Screenshot-from-2025-08-06-09-17-01.png"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Support, Basic Terminology",
+        "index": 3,
+        "question": "What is the correct name of the the tool shown in the illustration?",
+        "answers": [
+            "Padlock.",
+            "Adjustable wrench.",
+            "Water Pump Pliers.",
+            "Flexible pipe."
+        ],
+        "correct_answer": "Water Pump Pliers.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2025/08/Screenshot-from-2025-08-06-09-18-09.png"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Support, Basic Terminology",
+        "index": 4,
+        "question": "Which is the “STARBOARD QUARTER”, in the figure?",
+        "answers": [
+            "The Starboard quarter is A, in the figure.",
+            "The Starboard quarter is B, in the figure.",
+            "The Starboard quarter is C, in the figure.",
+            "The Starboard quarter is D, in the figure."
+        ],
+        "correct_answer": "The Starboard quarter is C, in the figure.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2025/08/Screenshot-from-2025-08-05-10-35-03.png"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Support, Basic Terminology",
+        "index": 5,
+        "question": "What is the correct name of the equipment shown in the illustration?",
+        "answers": [
+            "File.",
+            "Shaping machine.",
+            "Chisel.",
+            "Pedestal drill."
+        ],
+        "correct_answer": "Pedestal drill.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2025/08/Screenshot-from-2025-08-05-11-14-55.png"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Support, Basic Terminology",
+        "index": 6,
+        "question": "What is the correct name of the part highlighted in the illustration?",
+        "answers": [
+            "Push rod.",
+            "Connecting rod.",
+            "Crankshaft.",
+            "Piston rod."
+        ],
+        "correct_answer": "Push rod.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2025/08/Screenshot-from-2025-08-05-11-13-51.png"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Support, Basic Terminology",
+        "index": 7,
+        "question": "What is the correct name of the part highlighted in the illustration?",
+        "answers": [
+            "Fuel injector.",
+            "Exhaust valve.",
+            "Air inlet valve.",
+            "Air starting valve."
+        ],
+        "correct_answer": "Exhaust valve.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2025/08/Screenshot-from-2025-08-05-10-42-22.png"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Support, Basic Terminology",
+        "index": 8,
+        "question": "Where is the “FORECASTLE” in the figure?",
+        "answers": [
+            "The Forecastle is indicated by A.",
+            "The Forecastle is indicated by B.",
+            "The Forecastle is indicated by C.",
+            "The Forecastle is indicated by D."
+        ],
+        "correct_answer": "The Forecastle is indicated by B.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2023/06/forecastle-1.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Support, Basic Terminology",
+        "index": 9,
+        "question": "What is the correct name of the part highlighted in the illustration?",
+        "answers": [
+            "Crosshead.",
+            "Connecting rod.",
+            "Bottom end bearing.",
+            "Liner."
+        ],
+        "correct_answer": "Crosshead.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2025/08/Screenshot-from-2025-08-06-10-44-28.png"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Support, Basic Terminology",
+        "index": 10,
+        "question": "Is it always possible to use the word “ship” instead of the word “boat”?",
+        "answers": [
+            "Normally a small vessel is called a “boat” rather than a “ship” otherwise it is not important.",
+            "A large vessel is always called a “ship” an never a “boat”.",
+            "A boat can only be used for vessels under 50 metres in length.",
+            "Either can be used anytime."
+        ],
+        "correct_answer": "Normally a small vessel is called a “boat” rather than a “ship” otherwise it is not important.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Support, Basic Terminology",
+        "index": 11,
+        "question": "Where is the “BRIDGE” in the figure?",
+        "answers": [
+            "The Bridge is A.",
+            "The Bridge is B.",
+            "The Bridge is C.",
+            "The Bridge is D."
+        ],
+        "correct_answer": "The Bridge is D.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2023/06/bridge.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Support, Basic Terminology",
+        "index": 12,
+        "question": "What is the correct name of the tool in the illustration?",
+        "answers": [
+            "Monkey wrench.",
+            "Chisel.",
+            "Padlock.",
+            "Pliers."
+        ],
+        "correct_answer": "Monkey wrench.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2025/08/Screenshot-from-2025-08-06-10-48-59.png"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Support, Basic Terminology",
+        "index": 13,
+        "question": "Where is “AFT” in the figure?",
+        "answers": [
+            "Aft is A.",
+            "Aft is B.",
+            "Aft is C.",
+            "Aft is D."
+        ],
+        "correct_answer": "Aft is A.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2023/06/aft.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Support, Basic Terminology",
+        "index": 14,
+        "question": "What is the correct name of the part highlighted in the illustration?",
+        "answers": [
+            "Push rod.",
+            "Connecting rod.",
+            "Rocker Arm.",
+            "Main bearing."
+        ],
+        "correct_answer": "Connecting rod.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2025/08/Screenshot-from-2025-08-06-10-50-46.png"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Support, Basic Terminology",
+        "index": 15,
+        "question": "What do you understand by the order: “Move the pilot ladder to the other side”?",
+        "answers": [
+            "Move the pilot ladder to the other side, means: to shift the pilot ladder to the opposite side of the ship.",
+            "Move the pilot ladder to the other side, means: to change the position of the pilot ladder from the main deck to the fore deck.",
+            "Move the pilot ladder to the other side, means: to rig another pilot ladder.",
+            "Move the pilot ladder to the other side, means: to move the pilot ladder further along nearer to the bow."
+        ],
+        "correct_answer": "Move the pilot ladder to the other side, means: to shift the pilot ladder to the opposite side of the ship.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Support, Basic Terminology",
+        "index": 16,
+        "question": "Select from the options given the statement that best describes the main duties of an engine room rating who is part of an engine room watch?",
+        "answers": [
+            "Engine room ratings forming part of an engine room watch should verify that the operational parameters of all items of machinery conform to manufacturers’ instructions.",
+            "Engine room ratings forming part of an engine room watch should make the tea for the Engineers.",
+            "Engine room ratings forming part of an engine room watch should only clean the engine room floor plates.",
+            "Engine room ratings forming part of an engine room watch should assist in efficient and safe watch-keeping routines."
+        ],
+        "correct_answer": "Engine room ratings forming part of an engine room watch should verify that the operational parameters of all items of machinery conform to manufacturers’ instructions.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Support, Basic Terminology",
+        "index": 17,
+        "question": "How would you alert others onboard if you saw a person falling overboard?",
+        "answers": [
+            "If I saw a person falling overboard I would shout once, “Man overboard”.",
+            "If I saw a person falling overboard I would shout repeatedly, “Man overboard”.",
+            "If I saw a person falling overboard I would run to the Bridge.",
+            "If I saw a person falling overboard I would inform the Bosun."
+        ],
+        "correct_answer": "If I saw a person falling overboard I would shout repeatedly, “Man overboard”.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Support, Basic Terminology",
+        "index": 18,
+        "question": "What do you call the wide rung on a pilot ladder that prevents the ladder from twisting?",
+        "answers": [
+            "The wide rung on a pilot ladder that prevents it from twisting is called a “Spreader”.",
+            "The wide rung on a pilot ladder that prevents it from twisting is called a “Wide step”",
+            "The wide rung on a pilot ladder that prevents it from twisting is called a “Ani-twist rung”",
+            "The wide rung on a pilot ladder that prevents it from twisting is called a “Long rung”"
+        ],
+        "correct_answer": "The wide rung on a pilot ladder that prevents it from twisting is called a “Spreader”.",
+        "images": [],
+        "explanation": "පයිලට් ඉනිමගක ඇති පළල් හරස් ලී (Wide rung) කොටස 'Spreader' ලෙස හැඳින්වේ. මෙහි ප්‍රධාන කර්තව්‍යය වන්නේ ඉනිමග ඇඹරීම (Twisting) වැළැක්වීමයි. මෙය පයිලට්වරයා නැවට නගින විට ඉනිමග ස්ථාවරව තබා ගැනීමට උදවු වේ. සාමාන්‍ය පඩි (Steps) හෝ සයිඩ් රෝප්ස් (Side ropes) මගින් මෙම ඇඹරීම පාලනය කළ නොහැකි නිසා 'Spreader' එක ඉතා වැදගත් වේ."
+    },
+    {
+        "category": "CES – Engine, Support, Basic Terminology",
+        "index": 19,
+        "question": "What is the correct name of the part highlighted in the illustration?",
+        "answers": [
+            "Push rod.",
+            "Crankshaft.",
+            "Connecting rod.",
+            "Camshaft."
+        ],
+        "correct_answer": "Crankshaft.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2025/08/Screenshot-from-2025-08-05-11-08-07.png"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Support, Basic Terminology",
+        "index": 20,
+        "question": "What is the correct name of the part highlighted in the illustration?",
+        "answers": [
+            "Fuel injector.",
+            "Cylinder relief valve.",
+            "Cylinder lubricator.",
+            "Cylinder air start valve."
+        ],
+        "correct_answer": "Fuel injector.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2025/08/Screenshot-from-2025-08-05-10-30-10.png"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Support, Basic Terminology",
+        "index": 21,
+        "question": "What should the cadet be aware of when using a needle gun?",
+        "answers": [
+            "The Cadet should be aware that there could be a leak in the airline of a needle gun.",
+            "The Cadet should be aware that the valve of a needle gun is not to be opened before starting to descale rust.",
+            "The Cadet should be aware of the dangers associated with using a needle gun.",
+            "The Cadet should be aware of the thickness of the needle gun valve."
+        ],
+        "correct_answer": "The Cadet should be aware of the dangers associated with using a needle gun.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Support, Basic Terminology",
+        "index": 22,
+        "question": "What is the correct name of the tool shown in the illustration?",
+        "answers": [
+            "Adjustable wrench.",
+            "Chisel.",
+            "Open end wrench.",
+            "Pilers."
+        ],
+        "correct_answer": "Adjustable wrench.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2025/08/Screenshot-from-2025-08-05-10-08-00.png"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Support, Basic Terminology",
+        "index": 23,
+        "question": "What is “DRAUGHT”, in the figure?",
+        "answers": [
+            "Draught is A, in the figure.",
+            "Draught is B, in the figure.",
+            "Draught is C, in the figure.",
+            "Draught is D, in the figure."
+        ],
+        "correct_answer": "Draught is D, in the figure.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2025/08/Screenshot-from-2025-08-05-10-43-52.png"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Support, Basic Terminology",
+        "index": 24,
+        "question": "What does the word “pirates” mean?",
+        "answers": [
+            "Pirates are special cargo lashings on container ships.",
+            "Pirates are another word for helmsmen.",
+            "Pirates are official people who board the ship while in port.",
+            "Pirates are persons who attempt to board and take over a ship at sea."
+        ],
+        "correct_answer": "Pirates are persons who attempt to board and take over a ship at sea.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Support, Basic Terminology",
+        "index": 25,
+        "question": "“Protective discrimination” means the progressive grading of sizes or tripping times of:",
+        "answers": [
+            "Line fuses and overcurrent relays.",
+            "440 V and 220 V transformers.",
+            "Generators and motors.",
+            "Magnetic and thermal current transformers."
+        ],
+        "correct_answer": "Line fuses and overcurrent relays.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Support, Basic Terminology",
+        "index": 26,
+        "question": "Some diesel engines have alarm and slow down protection in the event of a fire in the scavenge boxes. Choose the option which would be a typical set point for giving a slow down of the engine in the event of a scavenge box fire?",
+        "answers": [
+            "40 °C.",
+            "50 °C.",
+            "120 °C.",
+            "150 °C."
+        ],
+        "correct_answer": "120 °C.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Support, Basic Terminology",
+        "index": 27,
+        "question": "The turbocharger on a diesel engine is surging and making occasional, loud “whoofing” noises. Which one of the options given is the most probable cause of this?",
+        "answers": [
+            "Rapid changes in engine load due to rough sea conditions.",
+            "Exhaust system recently cleaned.",
+            "Air leakage from scavenge receiver.",
+            "Engine on bridge control."
+        ],
+        "correct_answer": "Rapid changes in engine load due to rough sea conditions.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Support, Basic Terminology",
+        "index": 28,
+        "question": "Use Kirchoff’s current law and Ohm’s law to calculate the value of the current I for this circluit:",
+        "answers": [
+            "2 A.",
+            "22 A.",
+            "48 A.",
+            "72 A."
+        ],
+        "correct_answer": "22 A.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2025/08/Screenshot-from-2025-08-07-11-03-57.png"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Support, Basic Terminology",
+        "index": 29,
+        "question": "To avoid overbunkering and oil spill, it is very important that we closely monitor the progress of the bunkering operation. What is the safest method to use to minimise the risk of overflow and spillage?",
+        "answers": [
+            "Continuously monitor remote guage readings and confirm with regular sounding of the fuel tanks.",
+            "Use the predicted loading rate to calculate how much oil is being received.",
+            "The remote gauge system will provide us with the necessary information.",
+            "Open all the bunker tank lids to manually watch them filling."
+        ],
+        "correct_answer": "Continuously monitor remote guage readings and confirm with regular sounding of the fuel tanks.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Support, Basic Terminology",
+        "index": 30,
+        "question": "A plate type heat exchanger in a central cooling system has seawater leaking around the edges of some of the titanium plates. After inspection and reassembly following the manufacturer’s instructions the problem still exists. What action, from the options given, should be taken to rectify the problem?",
+        "answers": [
+            "Fit new gaskets to the each of the plates.",
+            "Keep tightening the plate stack untill the leakage stops.",
+            "Reduce the pressure of the sea water.",
+            "Scrap the plates and replace with a new plate stack."
+        ],
+        "correct_answer": "Fit new gaskets to the each of the plates.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Support, Basic Terminology",
+        "index": 31,
+        "question": "Which of the following would be considered pollution, when discharged overboard, under the US water pollution laws?",
+        "answers": [
+            "Oil.",
+            "Hazardous substances.",
+            "Garbage.",
+            "All of the mentioned."
+        ],
+        "correct_answer": "All of the mentioned.",
+        "images": [],
+        "explanation": "ඇමරිකානු ජල දූෂණ නීති (US water pollution laws) යටතේ නෞකාවකින් මුහුදට මුදා හරින තෙල් (Oil), කුණු කසල (Garbage) සහ අනතුරුදායක ද්‍රව්‍ය (Hazardous substances) යන මේ සියල්ල දූෂණය ලෙස සැලකේ. MARPOL සම්මුතියට අනුකූලව මෙම නීති දැඩි ලෙස ක්‍රියාත්මක වේ. එබැවින් 'All of the mentioned' යන්න නිවැරදි පිළිතුර වේ. මෙහිදී තනි තනිව දක්වා ඇති සෑම ද්‍රව්‍යයක්ම පරිසරයට හානිකර බැවින් ඒවා වෙන් වෙන් වශයෙන් හෝ එකට බැහැර කිරීම තහනම් වේ."
+    },
+    {
+        "category": "CES – Engine, Support, Basic Terminology",
+        "index": 32,
+        "question": "Why is an automatic slow turning feature included in the start air system of many large 2 stroke diesel engines?",
+        "answers": [
+            "To avoid damage during start of the engine in case water or other liquid has gathered in the cylinders during an extended stop.",
+            "To reduce the start air consumption during start up of the engine.",
+            "To fill the cylinders with sufficient fresh air to ensure a safe start of the engine.",
+            "To check that all indicator cocks are closed before staring the engine."
+        ],
+        "correct_answer": "To avoid damage during start of the engine in case water or other liquid has gathered in the cylinders during an extended stop.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Support, Basic Terminology",
+        "index": 33,
+        "question": "For a large 2-stroke diesel engine, what would be a typical set point for the low pressure shut down for the lubricating oil inlet to the main bearings?",
+        "answers": [
+            "0,1 bar.",
+            "1,0 bar.",
+            "5,0 bar.",
+            "10,0 bar."
+        ],
+        "correct_answer": "1,0 bar.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Support, Basic Terminology",
+        "index": 34,
+        "question": "The figures show a graphical symbol for a particular electronic component and a typical working characteristics for the same component. Which component?",
+        "answers": [
+            "Silicon controlled rectifier (SCR).",
+            "Zener diode.",
+            "Tunnel diode.",
+            "Field effect transistor."
+        ],
+        "correct_answer": "Silicon controlled rectifier (SCR).",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2025/08/Screenshot-from-2025-08-07-11-21-57.png"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Support, Basic Terminology",
+        "index": 35,
+        "question": "Ordinary thyristors (SCR) must often be protected against reverse overvoltage transients. This is because they can be damaged by over-voltage, even if it is of extremely short duration. These SCRs have been given such over-voltage protection, but only one of them is correct. Which one is it?",
+        "answers": [
+            "Figure 1.",
+            "Figure 2.",
+            "Figure 3.",
+            "Figure 4."
+        ],
+        "correct_answer": "Figure 1.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2025/08/Screenshot-from-2025-08-07-11-24-06.png"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Support, Basic Terminology",
+        "index": 36,
+        "question": "How often should the lifeboat wire falls be turned and renewed?",
+        "answers": [
+            "Turned at intervals of not more than 30 months and renewed every 5 years.",
+            "Turned every 2 years and renewed every 4 years.",
+            "Turned every 30 months and needs only to be renewed if the wire is in poor condition.",
+            "Renewed every three years."
+        ],
+        "correct_answer": "Turned at intervals of not more than 30 months and renewed every 5 years.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Support, Basic Terminology",
+        "index": 37,
+        "question": "When starting three phase induction motors which of the following starting methods will immediately apply rated voltage to the machine?",
+        "answers": [
+            "Star Delta.",
+            "Direct on Line.",
+            "Auto – transformed.",
+            "Soft starter."
+        ],
+        "correct_answer": "Direct on Line.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Support, Basic Terminology",
+        "index": 38,
+        "question": "Buoyant smoke signals shall be so designed as to burn or emit smoke:",
+        "answers": [
+            "Continuously after having been immersed for a period of 10 seconds under 100 mm of water when underwater.",
+            "Continuously after having been immersed for a period of of 1 minute under 1 m of water.",
+            "When under water.",
+            "Only when not in the water."
+        ],
+        "correct_answer": "Continuously after having been immersed for a period of 10 seconds under 100 mm of water when underwater.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Support, Basic Terminology",
+        "index": 39,
+        "question": "When planning bunkering operations it is preferable to arrange for the new fuel to be bunkered into empty tanks whenever possible. What is the main reason for this?",
+        "answers": [
+            "To minimise the risk of microbal contamination of the fuel.",
+            "So that the sulphur content of each fuel is known.",
+            "To minimise the risk of incompatibility between different fuels.",
+            "To make it easier to calculate the quantity of fuel taken onboard."
+        ],
+        "correct_answer": "To minimise the risk of incompatibility between different fuels.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Support, Basic Terminology",
+        "index": 40,
+        "question": "A U tube manometer is used to measure the pressure delivered by a ventilation fan. Following replacement of the fan by a larger unit with a higher delivery rate and pressure the liquid is blown out of the open end of the manometer. Which of the options given will allow the manometer to be used to measure the delivery pressure of the larger fan?",
+        "answers": [
+            "Refill the manometer with liquid.",
+            "Refill the manometer with a reduced amount of liquid.",
+            "Refill the manometer with liquid with a higher viscosity.",
+            "Connect the open end to the inlet trunking of the fan to measure the differential pressure rather than the delivery pressure."
+        ],
+        "correct_answer": "Refill the manometer with liquid.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Support, Basic Terminology",
+        "index": 41,
+        "question": "Prior to removing the access doors to a pressure vessel for internal maintenance it should be ensured that all pressure has been relieved. As well as a zero indication on a pressure gauge which other measure, from the options given should be taken to confirm this prior to commencing the work?",
+        "answers": [
+            "Open the drain valve while pressure still shows on the gauge and to check it is clear.",
+            "Open the drain valve when the gauge reads zero to check that there is no outflow.",
+            "Open the drain valve and when the outflow stops slacken off the drain valve flange bolts and “crack” open the flange in case the drain is blocked.",
+            "Back of the tensioning device for the relief valve to vent the pressure to atmosphere."
+        ],
+        "correct_answer": "Open the drain valve while pressure still shows on the gauge and to check it is clear.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Support, Basic Terminology",
+        "index": 42,
+        "question": "The charge air pressure supplied to a diesel engine, which is normally 2,0 bar, is reduced to 1,5 bar. What will be the likely effect on the engine operation?",
+        "answers": [
+            "The performance of the engine will be reduced noticeably.",
+            "The cylinder cooling water flow will increase.",
+            "The turbochargers cooling water flow will increase.",
+            "The performance of the engine will be similar to normal conditions."
+        ],
+        "correct_answer": "The performance of the engine will be reduced noticeably.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Support, Basic Terminology",
+        "index": 43,
+        "question": "When starting up an aerobic type sewage unit for the first time, or after manual cleaning, how should the bacterial process be initiated?",
+        "answers": [
+            "By shutting off the air flow.",
+            "By bypassing the grey water inflow and operating only with black water.",
+            "By filling the unit with sewage and bubbling air through it for 48 hours prior to starting the discharge pump.",
+            "By adding an activating agent to the inflowing sewage."
+        ],
+        "correct_answer": "By adding an activating agent to the inflowing sewage.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Support, Basic Terminology",
+        "index": 44,
+        "question": "One of the Main Engine cooling pumps is down for maintenance. The rest of the cooling pumps are operating near full capacity with minimum margins on the maximum temperature limit. What should be the correct action to take with regard to UMS operation?",
+        "answers": [
+            "Operate the engine room on manual mode until the maintenance is completed and the cooling pump is operational and switched to stand-by mode.",
+            "Arrange with a rating “on watch” in the engine room for the UMS period.",
+            "Hope that the alarm function and automatic temperature regulation will function correctly and switch to UMS-mode as normal.",
+            "Arrange frequent checks of the condition during the night otherwise operate in normal UMS-mode."
+        ],
+        "correct_answer": "Operate the engine room on manual mode until the maintenance is completed and the cooling pump is operational and switched to stand-by mode.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Support, Basic Terminology",
+        "index": 45,
+        "question": "What is the purpose of the air distributor in a diesel engine air start system?",
+        "answers": [
+            "To ensure the cylinder air start valves operate in the correct sequence and for the correct period.",
+            "To ensure that the automatic valve in the air start system opens and closes at the correct time.",
+            "To ensure that the start air is distributed equally to the each of the engine cylinders.",
+            "To ensure the air consumption from each of the main air receivers is equally distributed."
+        ],
+        "correct_answer": "To ensure the cylinder air start valves operate in the correct sequence and for the correct period.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Support, Basic Terminology",
+        "index": 46,
+        "question": "A two step controller (open/close) has failed and the only available spare controller is a P+I controller. Select, from the options given. how the P+I controller could be set up to achieve approximate two step control.",
+        "answers": [
+            "Set the proportional band to maximum width and the integral action to minimum (repeats per minute).",
+            "Set the proportional band to maximum width and the integral action to maximum (repeats per minute).",
+            "Set the proportional band to minimum width and the integral action to maximum (repeats per minute).",
+            "Set the proportional band to minimum width and the integral action to minimum (repeats per minute)."
+        ],
+        "correct_answer": "Set the proportional band to maximum width and the integral action to minimum (repeats per minute).",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Support, Basic Terminology",
+        "index": 47,
+        "question": "What type of lubricating oil is generally used for cylinder lubrication on a large, 2-stroke diesel, main propulsion engine operating on heavy fuel oil?",
+        "answers": [
+            "Mineral based oil with high alkalinity and other additives.",
+            "Straight mineral oil.",
+            "Synthetic oil.",
+            "The same oil as the main lubricating oil system."
+        ],
+        "correct_answer": "Mineral based oil with high alkalinity and other additives.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Support, Basic Terminology",
+        "index": 48,
+        "question": "During inspection and calibration of a cylinder unit, the liner is found to be worn in a cloverleaf pattern with maximum wear midway between the lubrication points. What action is necessary to rectify the problem?",
+        "answers": [
+            "Contact engine maker for advice.",
+            "Increase the cylinder oil rate to neutralise the corrosive action of the combustion products or change to a more alkaline cylinder oil.",
+            "Reduce the jacket cooling water temperature to avoid thermal stress of the cylinder liner.",
+            "Increase the jacket cooling water temperature to avoid surface condensation of any acidic products of combustion."
+        ],
+        "correct_answer": "Increase the cylinder oil rate to neutralise the corrosive action of the combustion products or change to a more alkaline cylinder oil.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Support, Basic Terminology",
+        "index": 49,
+        "question": "A crosshead pin for a large bore 2-stroke diesel engine has to be refurbished following bearing failure. The surface finish required is measured as a centre line average, CLA. Select, from the options given, the standard of finish that should be achieved during the refurbishment.",
+        "answers": [
+            "1 to 5 micrometres CLA.",
+            "5 to 10 micrometres CLA.",
+            "10 to 20 micrometres CLA.",
+            "Less than 1 micrometre CLA."
+        ],
+        "correct_answer": "1 to 5 micrometres CLA.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Support, Basic Terminology",
+        "index": 50,
+        "question": "A diesel engine is operating with retarded fuel timing resulting in increased exhaust gas temperatures. How would you expect this to affect the turbocharger?",
+        "answers": [
+            "Increased turbocharger revolutions.",
+            "Decreased turbocharger revolutions.",
+            "The turbocharger would operate normally.",
+            "Reduced air and gas temperature after turbocharger."
+        ],
+        "correct_answer": "Increased turbocharger revolutions.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Support, Basic Terminology",
+        "index": 51,
+        "question": "Which of this information must be included in a piracy attack alert?",
+        "answers": [
+            "The type of weapons being carried by the pirates/highjackers.",
+            "The number of pirates/highjackers.",
+            "The number of crew onboard.",
+            "Your ship’s name and call sign."
+        ],
+        "correct_answer": "Your ship’s name and call sign.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Support, Basic Terminology",
+        "index": 52,
+        "question": "Where do you find minimum drill requirements?",
+        "answers": [
+            "In the SOLAS convention and its annex.",
+            "In owner’s instruction.",
+            "In manager’s instruction.",
+            "In classification society rules."
+        ],
+        "correct_answer": "In the SOLAS convention and its annex.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Support, Basic Terminology",
+        "index": 53,
+        "question": "A galley hot plate uses a Nichrome/Magnesium Oxide heating element and is to be tested before being put into service for the first time. An insulation resistance test yields a reading of 0,3 M Ohm. Which action should be taken?",
+        "answers": [
+            "Apply reduced voltage to the element for a few minutes. Then retest and if ok put into service.",
+            "Discard the element.",
+            "Put the element into service.",
+            "Wash the element in a degreasing agent. Then retest and if ok put it into service."
+        ],
+        "correct_answer": "Apply reduced voltage to the element for a few minutes. Then retest and if ok put into service.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Support, Basic Terminology",
+        "index": 54,
+        "question": "Onboard training should be organised in such a way that:",
+        "answers": [
+            "Each crew member is trained individually.",
+            "It does not contravene with the rest hours of the crew and each crew member is trained individually.",
+            "It is an integral part of the overall training plan and does not contravene with the rest hours of the crew.",
+            "None of the above."
+        ],
+        "correct_answer": "It is an integral part of the overall training plan and does not contravene with the rest hours of the crew.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Support, Basic Terminology",
+        "index": 55,
+        "question": "For how long is the health certificate valid for a seafarer above the age of 18?",
+        "answers": [
+            "Three months.",
+            "One year.",
+            "Two years.",
+            "No time limit."
+        ],
+        "correct_answer": "One year.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Support, Basic Terminology",
+        "index": 56,
+        "question": "Occasionally the tie rods on a large slow speed diesel engine may fail in service. The mode of failure is usually a complete fracture of the tie rod due to excessive fatigue stress. Select, from the options given, the features of the surface of the fracture that would confirm a fatigue failure.",
+        "answers": [
+            "Part of the fracture surface would be uneven but smooth (burnished) with the remainder crystalline with part “cup and cone” shape.",
+            "The surface of the fracture would be serrated in appearance and at right angles to the axis of the tie rod.",
+            "The surface of the fracture would be crystalline in appearance and at an angle of approximately 45 degree to the axis of the tie rod.",
+            "The surface at the fracture would be crystalline in appearance with a full “cup and cone” shape."
+        ],
+        "correct_answer": "Part of the fracture surface would be uneven but smooth (burnished) with the remainder crystalline with part “cup and cone” shape.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Support, Basic Terminology",
+        "index": 57,
+        "question": "In many cases the ship’s Chief Engineer can carry out survey of machinery on behalf of a Classification Society under arrangements covering Continuous Surveys. As part of this arrangement a Surveyor from the Classification Society must carry out a periodic audit of the documentation for the approved planned maintenance system and undertake a confirmatory survey of the items surveyed. What is the norma frequency for this audit?",
+        "answers": [
+            "Annual.",
+            "Bi-annual.",
+            "Every 4 years.",
+            "Every 5 years."
+        ],
+        "correct_answer": "Annual.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Support, Basic Terminology",
+        "index": 58,
+        "question": "The main propulsion diesel engine is normally started by direct admission of compressed air. Which one of the following statements is correct?",
+        "answers": [
+            "A heavily leaking starting air valve may cause an explosion in the starting air pipe system.",
+            "The starting air admission should continue until the engine has fired.",
+            "If the starting air pressure is too low a pressurized oxygen bottle from the welding equipment can be used for emergency start of the engine.",
+            "If the engine does not turn when the starting air is applied the turning gear can be used together with the starting air to start the engine."
+        ],
+        "correct_answer": "A heavily leaking starting air valve may cause an explosion in the starting air pipe system.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Support, Basic Terminology",
+        "index": 59,
+        "question": "A transformer overheats while taking a shore supply. Which is the likely cause?",
+        "answers": [
+            "Incorrect earthing.",
+            "Incorrect frequency.",
+            "Incorrect voltage.",
+            "Incorrect current."
+        ],
+        "correct_answer": "Incorrect frequency.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Support, Basic Terminology",
+        "index": 60,
+        "question": "As a minimum, how often shall life boats be launched with their assigned operating crew aboard and manoeuvred in the water according to SOLAS?",
+        "answers": [
+            "Every week.",
+            "Every 2 weeks.",
+            "Every month.",
+            "Every 3 months."
+        ],
+        "correct_answer": "Every 3 months.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Support, Basic Terminology",
+        "index": 61,
+        "question": "Which international convention deals with fire-fighting equipment etc.",
+        "answers": [
+            "SOLAS.",
+            "MARPOL.",
+            "CRISTAL.",
+            "Load Line convention."
+        ],
+        "correct_answer": "SOLAS.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Support, Basic Terminology",
+        "index": 62,
+        "question": "From the options given, select the one which is most likely to result in a high exhaust temperature in one cylinder of a diesel engine.",
+        "answers": [
+            "Scavenge ports of the one cylinder are dirty.",
+            "Nozzle ring of turbocharger fouled or partially choked.",
+            "Compression pressure too low.",
+            "Speed governor defective."
+        ],
+        "correct_answer": "Scavenge ports of the one cylinder are dirty.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Support, Basic Terminology",
+        "index": 63,
+        "question": "Some vessels have a central hydraulic system consisting of a number of hydraulic power packs for driving cargo pumps, deck machinery, ship’s cranes, etc. Which parameter is normally used to automatically bring the power packs on and off line to match operational demand?",
+        "answers": [
+            "Percentage of available flow.",
+            "Number of consumers running (pumps, etc.).",
+            "Temperature of hydraulic fluid.",
+            "Percentage of maximum pressure being used."
+        ],
+        "correct_answer": "Percentage of available flow.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Support, Basic Terminology",
+        "index": 64,
+        "question": "When considering instrumentation systems, what is a typical symptom of a fault with the span of an instrument?",
+        "answers": [
+            "Zero-point is accurate, but 100 % input is not giving 100 % output.",
+            "Linearity problems.",
+            "Zero-point and 100 % are correct but not at mid-range.",
+            "100 % output is accurate, but Zero-point is wrong."
+        ],
+        "correct_answer": "Zero-point is accurate, but 100 % input is not giving 100 % output.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Support, Basic Terminology",
+        "index": 65,
+        "question": "A 2 term controller is used to control the fuel oil temperature for a thermal oil system used for heating services. The control is very unstable with the measured value hunting constantly. Select the most probable cause of this problem from the options given.",
+        "answers": [
+            "Integral action reset time is set too fast.",
+            "Integral action reset time is set too slow.",
+            "Proportional band width is set too narrow.",
+            "Proportional band width is set too wide."
+        ],
+        "correct_answer": "Integral action reset time is set too fast.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Support, Basic Terminology",
+        "index": 66,
+        "question": "Which cell voltage is required to trickle charge a lead acid battery?",
+        "answers": [
+            "2,5 V.",
+            "2,15 V.",
+            "2,0 V.",
+            "1,2 V."
+        ],
+        "correct_answer": "2,15 V.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Support, Basic Terminology",
+        "index": 67,
+        "question": "High Voltage systems rely on the installed protective equipment being able to interrupt any fault in the system. Throughout the system, the fault level has been calculated, and under no circumstances must the system be modified 10 exceed this fault level. What is meant by fault level?",
+        "answers": [
+            "The amount of apparent power that could flow into any fault at any point in the electrical network.",
+            "The current level flowing into a dead short to earth at any point on the ship, directly from the High Voltage system.",
+            "The amount of apparent power, that would be drawn from the generating plant, when a short circuit occurs at the bus bars.",
+            "The current level flowing into a symmetrical short circuit fault between all three phases."
+        ],
+        "correct_answer": "The amount of apparent power that could flow into any fault at any point in the electrical network.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2025/08/Screenshot-from-2025-08-08-10-21-11.png"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Support, Basic Terminology",
+        "index": 68,
+        "question": "The cold room temperature is almost at the cut out point in a vapour-compression refrigeration system. What should the refrigerant state be just after the evaporator if the system is correctly set up?",
+        "answers": [
+            "Slightly superheated low pressure gas.",
+            "Cold liquid at high pressure.",
+            "Wet vapour at high pressure.",
+            "Sub-cooled liquid at low pressure."
+        ],
+        "correct_answer": "Slightly superheated low pressure gas.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Support, Basic Terminology",
+        "index": 69,
+        "question": "What is the correct operation of the slow-turning facility fitted to some large 2 stroke main propulsion diesel engines?",
+        "answers": [
+            "Slow turing should be set to operate automatically prior to engine start when engine has been stopped for 20 to 30 minutes during manouevring.",
+            "Slow tuming should be carried out immediately the duty engineer gets notice of standby from the bridge.",
+            "Slow turning should be set to operate automatically every 10 to 15 minutes when the engine is on standby.",
+            "Slow turning should be set to operate automatically at finish with engines to allow the engine to cool down evenly."
+        ],
+        "correct_answer": "Slow turing should be set to operate automatically prior to engine start when engine has been stopped for 20 to 30 minutes during manouevring.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Support, Basic Terminology",
+        "index": 70,
+        "question": "Hand flares and buoyant smoke signals can continue to burn or emit smoke after having been immersed for a period of 10 s.",
+        "answers": [
+            "Right if the immersion depth is smaller than 1 m.",
+            "Right if the immersion depth is smaller than 100 mm.",
+            "Right.",
+            "Wrong."
+        ],
+        "correct_answer": "Right if the immersion depth is smaller than 100 mm.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Support, Basic Terminology",
+        "index": 71,
+        "question": "The majority of convensions adopted under the auspices of IMO fall into which of the three main categories:",
+        "answers": [
+            "Maritime Safety, Prevention of Marine Pollution, Liability and Compensation.",
+            "Maritime Safety, STCW, Maritime Security.",
+            "Safety, Terrorism, ILO.",
+            "There are no conventions that fall under IMO."
+        ],
+        "correct_answer": "Maritime Safety, Prevention of Marine Pollution, Liability and Compensation.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Support, Basic Terminology",
+        "index": 72,
+        "question": "Sometimes an early warning of failure in High Voltage switchboards may produce an unpleasant smell. If the switchboard uses gas circuit breakers, which type of unpleasant smell may indicate a potential problem?",
+        "answers": [
+            "Rotten fish.",
+            "Rotten eggs.",
+            "Gas oil.",
+            "Chlorine."
+        ],
+        "correct_answer": "Rotten eggs.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Support, Basic Terminology",
+        "index": 73,
+        "question": "Consider a vessel with a 6 cylinder main diesel engine operating with one cylinder out of operation. What would you expect to be the approximate maximum reduced engine load to allow safe emergency operation in this condition?",
+        "answers": [
+            "Approximately 70 % of MCR.",
+            "Approximately 50 % of MCR.",
+            "Approximately 30 % of MCR.",
+            "Approximately 90 % of MCR."
+        ],
+        "correct_answer": "Approximately 70 % of MCR.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Support, Basic Terminology",
+        "index": 74,
+        "question": "A refrigeration plant is short cycling even though there is plenty of refrigerant in the system and all of the rooms are above temperature. From the options give select the one which is the most likely cause of the problem?",
+        "answers": [
+            "Blocked filter drier causing the automatic low pressure cut out to operate.",
+            "Insufficient cooling water flow through the condenser causing the automatic high pressure cut out to operate.",
+            "Ice formation in the meat room evaporator coil causing the automatic low pressure cut out to operate.",
+            "Low oil level in the sump causing the automatic low oil pressure cut out to operate."
+        ],
+        "correct_answer": "Blocked filter drier causing the automatic low pressure cut out to operate.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Support, Basic Terminology",
+        "index": 75,
+        "question": "Who can contact the Designated Person with their safety concerns?",
+        "answers": [
+            "All crewmembers.",
+            "The Master only.",
+            "Senior officers only.",
+            "The company’s shore staff only."
+        ],
+        "correct_answer": "All crewmembers.",
+        "images": [],
+        "explanation": "ISM කේතය (International Safety Management Code) අනුව, නෞකාවේ ආරක්ෂාව සහ පරිසර දූෂණය වැළැක්වීම සම්බන්ධයෙන් ඕනෑම ගැටලුවක් සෘජුවම ගොඩබිම සිටින නම් කරන ලද පුද්ගලයාට (Designated Person Ashore - DPA) වාර්තා කිරීමේ අයිතිය සියලුම කාර්ය මණ්ඩල සාමාජිකයින්ට (All crewmembers) ඇත. මෙය නෞකාවේ ධුරාවලිය ඉක්මවා ගොස් ආරක්ෂාව තහවුරු කිරීමට ලබා දී ඇති අවස්ථාවකි. මෙය හුදෙක් ඉහළ නිලධාරීන්ට පමණක් සීමා වූ වරප්‍රසාදයක් නොවේ."
+    },
+    {
+        "category": "CES – Engine, Support, Basic Terminology",
+        "index": 76,
+        "question": "Most fuel oil separtors working on the centrifuge principle have an automatic start up and sludging facility. Which of the following actions would you expect to occur first during the start up sequence?",
+        "answers": [
+            "Operating water supplied to bowl to close it.",
+            "Operating water drained from bowl to open it.",
+            "Fuel oil supplied to bowl to fill it.",
+            "Sealing water supplied to bowl to prevent carry over."
+        ],
+        "correct_answer": "Operating water supplied to bowl to close it.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Support, Basic Terminology",
+        "index": 77,
+        "question": "What is the disadvantage of using chemicals on an oil-spill on the water?",
+        "answers": [
+            "The chemicals make it difficult to remove the oil from the water.",
+            "It is difficult to apply chemicals if there is any wind.",
+            "The water gets a white colour which makes it easy to detect the oil-spill.",
+            "It is difficult to apply the chemicals if the oil drifts away from the ship’s side."
+        ],
+        "correct_answer": "The chemicals make it difficult to remove the oil from the water.",
+        "images": [],
+        "explanation": "මුහුදට තෙල් කාන්දු වූ විට රසායනික ද්‍රව්‍ය (Dispersants) භාවිතා කිරීමේ ප්‍රධාන අවාසිය නම්, එමගින් තෙල් ජලය සමඟ මිශ්‍ර කර (emulsify) ජල තීරයට මුදා හැරීමයි. එවිට යාන්ත්‍රික ක්‍රම (Skimmers) මගින් තෙල් මතුපිටින් ඉවත් කිරීම අතිශය දුෂ්කර හෝ කළ නොහැකි දෙයක් බවට පත් වේ. රසායනික ද්‍රව්‍ය මගින් තෙල් ඉවත් නොකරන අතර එය තට්ටුවක් ලෙස පැවතීම පමණක් වලක්වයි. මෙය මුහුදු ජීවීන්ටද අහිතකර බලපෑම් ඇති කළ හැකි නමුත් තාක්ෂණිකව ප්‍රධාන ගැටලුව වන්නේ පිරිසිදු කිරීමේ අපහසුවයි."
+    },
+    {
+        "category": "CES – Engine, Support, Basic Terminology",
+        "index": 78,
+        "question": "What is the main precautions to be taken prior to engaging the turning gear for a diesel engine?",
+        "answers": [
+            "Isolate the starting air supply.",
+            "Open the indicator cocks.",
+            "Transfer the main engine control from control room to emergency control console.",
+            "Open the crankcase doors."
+        ],
+        "correct_answer": "Isolate the starting air supply.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Support, Basic Terminology",
+        "index": 79,
+        "question": "The picture shows the component parts of a fluorescent light (items 10 to 14) above a circuit diagram (items 1 to 9). Between which terminals of the circuit should the ballast (or choke) be connected?",
+        "answers": [
+            "1 and 9.",
+            "1 and 2.",
+            "3 and 4.",
+            "5 and 6."
+        ],
+        "correct_answer": "1 and 9.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2025/08/Screenshot-from-2025-08-08-11-03-05.png"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Support, Basic Terminology",
+        "index": 80,
+        "question": "When a Master takes the leadership in approaching a problem, Must his first action be a decision that will directly solve the problem?",
+        "answers": [
+            "Not necessary, he shall use all available resources. He should resist the temptation to step in and do it all by himself.",
+            "Yes, with his experience, it is most likely that he has the best solution.",
+            "Yes, take full control. Do not delegate to other officers, to avoid mistake.",
+            "No, he should observe the situation, and let the other senior officers solve the situation."
+        ],
+        "correct_answer": "Not necessary, he shall use all available resources. He should resist the temptation to step in and do it all by himself.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Support, Basic Terminology",
+        "index": 81,
+        "question": "Select the option which correctly completes the following statement. Prior to allowing work to proceed in an onboard space testing of the atmosphere should be carried out…",
+        "answers": [
+            "For any space with limited access or non-continuous ventilation or is suspected of having a hazardous atmosphere.",
+            "Only if the space has contained liquid oil at some point.",
+            "Only if the space has been used to carry any cargo or contains any cargo related equipment.",
+            "Only if the space has a watertight door or watertight access opening."
+        ],
+        "correct_answer": "For any space with limited access or non-continuous ventilation or is suspected of having a hazardous atmosphere.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Support, Basic Terminology",
+        "index": 82,
+        "question": "Which is the preferred method for starting an air conditioning refrigeration compressor which has been shut down for a period of time?",
+        "answers": [
+            "Start with suction valve throttled in to minimise risk of drawing liquid refrigerant into the compressor.",
+            "Start with the discharge valve throttled in to prevent excess condenser pressure.",
+            "Start and stop repeatedly until suction pressure and oil pressure are normal.",
+            "Start with all system valves fully opened."
+        ],
+        "correct_answer": "Start with suction valve throttled in to minimise risk of drawing liquid refrigerant into the compressor.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Support, Basic Terminology",
+        "index": 83,
+        "question": "The pressure delivered by a gear type fuel oil transfer pump suddenly reduces from 5 bar to 4 bar during transfer. From the options given, select the most likely cause of this occurrence.",
+        "answers": [
+            "Part of the pump relief/recirculation valve spring has broken off allowing the valve to open further.",
+            "The pump gears and casing have become worn.",
+            "The pump drive has sheared.",
+            "The oil tank from which the oil is being transferred is empty."
+        ],
+        "correct_answer": "Part of the pump relief/recirculation valve spring has broken off allowing the valve to open further.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Support, Basic Terminology",
+        "index": 84,
+        "question": "Over a period of a few hours of operation the main diesel engine speed gradually falls off. From the options given what is the most likely cause of this fault?",
+        "answers": [
+            "Fouling of turbocharger intake filters.",
+            "Water in a cylinder.",
+            "Governor linkage broken.",
+            "Injection valve opening pressure is too low."
+        ],
+        "correct_answer": "Fouling of turbocharger intake filters.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Support, Basic Terminology",
+        "index": 85,
+        "question": "What is a Declaration of Security?",
+        "answers": [
+            "A checklist jointly completed by the ship and shore security representatives.",
+            "A document between the port and the cargo owner stating security.",
+            "A checklist jointly completed by the Ship Security Officer and the US Coast Guard.",
+            "A document stating the ship’s security level."
+        ],
+        "correct_answer": "A checklist jointly completed by the ship and shore security representatives.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Support, Basic Terminology",
+        "index": 86,
+        "question": "Which of the given requirements regarding survival craft muster and embarkation arrangements corresponds to the present SOLAS regulations?",
+        "answers": [
+            "Muster and embarkation stations shall be readilly accessible from accommodation and work areas.",
+            "Muster and embarkation stations are to be arranged separately to improve working conditions.",
+            "Davit-launched survival craft muster and embarkation stations shall be arranged to enable stretchers to be placed into survival craft.",
+            "Searchlights to be provided at the launching stations."
+        ],
+        "correct_answer": "Muster and embarkation stations shall be readilly accessible from accommodation and work areas.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Support, Basic Terminology",
+        "index": 87,
+        "question": "Which of the following is not true of the photo resistor?",
+        "answers": [
+            "Very low offset voltage.",
+            "High on-resistance.",
+            "High switching rate capability.",
+            "Moderate off-resistance."
+        ],
+        "correct_answer": "Very low offset voltage.",
+        "images": [],
+        "explanation": ""
+    }
+]

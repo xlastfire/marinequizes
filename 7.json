@@ -1,0 +1,2536 @@
+[
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 1,
+        "question": "Which one of the following items has to be included in an abandon ship drill?",
+        "answers": [
+            "Lowering of at least one lifeboat after any necessary preparation for launching.",
+            "Manoeuvring the lifeboat in the water.",
+            "Launching and recovery of a survival craft.",
+            "Starting and operating radio life-saving appliances."
+        ],
+        "correct_answer": "Lowering of at least one lifeboat after any necessary preparation for launching.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2023/03/ship_drill.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 2,
+        "question": "A section of seawater pipe has been removed for maintenance. When refitting the pipe after completing the work the bolt holes in the flanges are found to be misaligned. What procedure should be followed to finish the work?",
+        "answers": [
+            "Force the pipe into position and them hammer the bolts into the holes to hold the pipe flanges into alignment.",
+            "Adjacent pipework should be slackened off to allow the pipe to be aligned. Any incorrectly positioned brackets should be adjusted after the pipe is refitted.",
+            "Use wooden wedges to force and hold the pipe into the correct position and then fit the bolts.",
+            "Use a chain block to pull the pipe flanges into alignment and leave it in place after the bolts are fitted to avoid overstressing the bolts."
+        ],
+        "correct_answer": "Adjacent pipework should be slackened off to allow the pipe to be aligned. Any incorrectly positioned brackets should be adjusted after the pipe is refitted.",
+        "images": [],
+        "explanation": "නල පද්ධතියක ෆ්ලැන්ජ් (Flanges) එකිනෙකට නොගැලපෙන විට, ඒවා බලහත්කාරයෙන් බෝල්ට් මගින් ඇද තද කිරීම නලයට දැඩි ආතතියක් (Stress) ඇති කරයි. නිවැරදි ක්‍රියා පටිපාටිය වන්නේ අසල ඇති අනෙකුත් නල පද්ධති වල බෝල්ට් ලිහිල් කර (Slacken off), නළය නිසි ලෙස පෙළගැස්වීමයි. ඉන්පසුව බ්‍රැකට් (Brackets) අවශ්‍ය පරිදි සකස් කළ යුතුය. ක්‍රෝබාරයක් (Crowbar) භාවිතා කර බලයෙන් පෙළගැස්වීමෙන් පසුව නළය කැඩී යාමට හෝ කාන්දු වීමට ඉඩ ඇති බැවින් එය නොකළ යුතුය."
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 3,
+        "question": "A vessel’s forward draught reading is 8,50 m a correction factor of 0,0242 m; draught marks are painted abaft the forward perpendicular. What is the corrected forward draught if the vessel is trimmed by the stern?",
+        "answers": [
+            "8,5242 m.",
+            "8,5484 m.",
+            "8,4758 m.",
+            "8,4516 m."
+        ],
+        "correct_answer": "8,4758 m.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 4,
+        "question": "What is the status and function of a Panama canal pilot?",
+        "answers": [
+            "He shall have control of the navigation and movement of the vessel.",
+            "He will take over all the responsibilities of the master on embarkation.",
+            "He will be responsible for canal crew mooring gangs and use of locomotives during lock transits.",
+            "He is an advisor to the vessel’s master."
+        ],
+        "correct_answer": "He shall have control of the navigation and movement of the vessel.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2023/03/panama.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 5,
+        "question": "Which international regulations govern the disposal of waste material, including galley waste, from ships?",
+        "answers": [
+            "Annex V, MARPOL 73/78.",
+            "Section III, ISPS Code.",
+            "Chapter II, SOLAS 1974.",
+            "The Industry Best Practise Guide for Restaurant Management."
+        ],
+        "correct_answer": "Annex V, MARPOL 73/78.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 6,
+        "question": "How can the error of the Gyro compass be determined?",
+        "answers": [
+            "By comparing the course readout on the GPS with the gyro course steered.",
+            "By using any of the methods in the suggested answers.",
+            "By taking the radar bearing of an object when the radar is on a compass stabilised mode and comparing it with the bearing on the chart of the same object.",
+            "By taking a transit bearing with the gyro compass of two prominent fixed shore objects and comparing it with the bearing of the same objects on the chart."
+        ],
+        "correct_answer": "By taking a transit bearing with the gyro compass of two prominent fixed shore objects and comparing it with the bearing of the same objects on the chart.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2023/03/gyrocompas.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 7,
+        "question": "In respect of washings from the cargo area of an oil tanker, what is the maximum instantaneous rate of oil that can be pumped into the sea when a vessel is outside a special area, proceeding en route, has in operation a monitoring and control system for the discharge of oil and is located more than 50 nautical miles from the nearest land?",
+        "answers": [
+            "30 litres per nautical miles.",
+            "300 litres per nautical miles.",
+            "60 litres per nautical miles.",
+            "0,03 litres per nautical miles."
+        ],
+        "correct_answer": "30 litres per nautical miles.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2023/03/oil_tanker.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 8,
+        "question": "What symptom would you think shows that the freon filter drier has become blocked?",
+        "answers": [
+            "Pressure rise before the drier.",
+            "A large temperature drop across the drier.",
+            "A hammering noise from the drier.",
+            "A hammering noise from the compressors."
+        ],
+        "correct_answer": "A large temperature drop across the drier.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2023/03/filter.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 9,
+        "question": "Which electronic component does this graphical symbol represent?",
+        "answers": [
+            "Diode.",
+            "Transistor.",
+            "Silicon controlled rectifier.",
+            "Tunnel diode."
+        ],
+        "correct_answer": "Transistor.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2023/03/transistor.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 10,
+        "question": "Which one of the listed requirements for passenger ships regarding personal life-saving appliances do not correspond to present regulations?",
+        "answers": [
+            "All lifejackets shall be fitted with a whistle, a light and a smoke signal.",
+            "Ro-ro passenger ships shall carry at least 2 lifebuoys provided with self-igniting lights an self-activating smoke signals.",
+            "All lifejackets shall be fitted with reflex, a whistle and a light.",
+            "The 5 % extra lifejackets carried on board have to be stowed in conspicuous places on deck or at the muster stations."
+        ],
+        "correct_answer": "All lifejackets shall be fitted with a whistle, a light and a smoke signal.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 11,
+        "question": "A rocket parachute flare reaches an altitude of:",
+        "answers": [
+            "Not less than 300 m.",
+            "Not less than 40 m.",
+            "Not less than 180 m.",
+            "Not less than 450 m."
+        ],
+        "correct_answer": "Not less than 180 m.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 12,
+        "question": "Is the master under obligation to do a maritime inquiry if a crewmember suffered a considerably injury onboard and died after a week on a hospital ashore?",
+        "answers": [
+            "Yes, if the seaman was at work.",
+            "Yes, because of the fatal consequence.",
+            "No.",
+            "Yes, even if he/she did not die while onboard."
+        ],
+        "correct_answer": "Yes, even if he/she did not die while onboard.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 13,
+        "question": "What is the fog signal for a vessel which is engaged in towing?",
+        "answers": [
+            "Two prolonged blasts followed by one short blast at intervals of not more than 1 minute.",
+            "One short blast, one prolonged blast and one short blast at intervals of not more than 2 minutes.",
+            "One long blast followed by two short blasts at intervals of not more than 2 minutes.",
+            "Two prolonged blasts at intervals not exceeding 2 minutes."
+        ],
+        "correct_answer": "One long blast followed by two short blasts at intervals of not more than 2 minutes.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2023/03/buksir.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 14,
+        "question": "When there is doubt about the freshness of the atmosphere in enclosed or confined spaces, what actions should be taken?",
+        "answers": [
+            "Arrangements should be made for testing of the atmosphere to ensure maintenance of 21 % oxygen and a carbon monoxide content below 50 ppm in the atmosphere of the space.",
+            "Supply filter masks to all crew working on ro-ro deck.",
+            "Ro-ro decks are always ventilated in advance of an operation.",
+            "Open both bow- and stern doors."
+        ],
+        "correct_answer": "Arrangements should be made for testing of the atmosphere to ensure maintenance of 21 % oxygen and a carbon monoxide content below 50 ppm in the atmosphere of the space.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 15,
+        "question": "Which is the “FORWARD BREAST LINE”, in the figure?",
+        "answers": [
+            "The forward breast line is indicated by B, in the figure.",
+            "The forward breast line is indicated by C, in the figure.",
+            "The forward breast line is indicated by D, in the figure.",
+            "The forward breast line is indicated by A, in the figure."
+        ],
+        "correct_answer": "The forward breast line is indicated by C, in the figure.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2023/03/ship_scheme.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 16,
+        "question": "Reduced capacity accompanied by vibration and noise at the suction of a centrifugal pump results from the action of vapor pockets in the fluid being pumped caused by:",
+        "answers": [
+            "Steam knock.",
+            "Water hammer.",
+            "Fluid friction.",
+            "Cavitation."
+        ],
+        "correct_answer": "Cavitation.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2023/03/pump.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 17,
+        "question": "You are in an area of restricted visibility and hear this signal. It is repeated at two minute intervals. What does it indicate?",
+        "answers": [
+            "That there is another vessel nearby, that she is underway, but stopped and making no way through the water.",
+            "That there is another vessel nearby, but that she is at anchor.",
+            "That there are two more vessels nearby.",
+            "That there is another vessel in the vicinity and that she has just altered course to port."
+        ],
+        "correct_answer": "That there is another vessel nearby, that she is underway, but stopped and making no way through the water.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 18,
+        "question": "Indicate the correct name for the tool:",
+        "answers": [
+            "Flexible pipe.",
+            "Water pump pliers.",
+            "Adjustable wrench.",
+            "Padlock."
+        ],
+        "correct_answer": "Water pump pliers.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2023/03/pliers.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 19,
+        "question": "Between a complete removal and a renewing of floor polish what can you do to maintain a PVC floor surface?",
+        "answers": [
+            "By using the softest of the pads on the disk and dry scrub.",
+            "By soft machine scrubbing with red pad and a renewing of polish only where there is heavy traffic (f. i. in the middle of corridors and not the whole floor).",
+            "Apply an extra layer of polish every month.",
+            "By using soft machine scrubbing once every fortnight and wash with a solution of water and polish."
+        ],
+        "correct_answer": "By soft machine scrubbing with red pad and a renewing of polish only where there is heavy traffic (f. i. in the middle of corridors and not the whole floor).",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 20,
+        "question": "Diodes are widely used in rectification, or the conversion of alternating current to direct current. The sinusoidal input voltage V (in) is applied to the circuit shown. Which of the output voltages is correct?",
+        "answers": [
+            "Figure 2.",
+            "Figure 3.",
+            "Figure 1.",
+            "Figure 4."
+        ],
+        "correct_answer": "Figure 1.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2023/03/diodes.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 21,
+        "question": "What is important to check when transferring a position from the GPS output to a paper chart?",
+        "answers": [
+            "Any necessary corrections are applied to convert between the GPS datum and the chart datum.",
+            "Ensure that the chart has been corrected up to date.",
+            "It is important to ensure that the GPS is setup on 2 dimensional and not 3 dimensional position fixes.",
+            "Ensure that the GPS is setup on the same datum as the chart."
+        ],
+        "correct_answer": "Any necessary corrections are applied to convert between the GPS datum and the chart datum.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 22,
+        "question": "What is the most likely reason for vibration and noise at the suction side of a centrifugal pump when it is running?",
+        "answers": [
+            "Fluid friction in the suction line.",
+            "Collapsing vapour bubbles due to cavitation.",
+            "Water hammer in the pump casing.",
+            "Pump suction valve fully open."
+        ],
+        "correct_answer": "Collapsing vapour bubbles due to cavitation.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2023/03/pump2.jpg"
+        ],
+        "explanation": "කේන්ද්‍රාපසාරී පොම්පයක (Centrifugal Pump) චූෂණ පැත්තේ (Suction side) ඇති වන ශබ්දය සහ කම්පනයට ප්‍රධාන හේතුව වන්නේ කැවිටේෂන් (Cavitation) නම් ක්‍රියාවලියයි. මෙහිදී ද්‍රවයේ පීඩනය එහි වාෂ්ප පීඩනයට වඩා අඩු වූ විට වාෂ්ප බුබුළු සෑදෙන අතර, ඒවා පොම්පයේ වැඩි පීඩනයක් සහිත කලාපයකට ගමන් කරන විට ක්ෂණිකව බිඳ වැටේ (Collapse). මෙම බිඳ වැටීමෙන් ඇතිවන කම්පන තරංග ශබ්දය සහ කම්පනය ඇති කරයි. අනෙකුත් හේතූන් වන පොම්පයේ නොගැලපීම (Misalignment) හෝ බෙයාරිං දෝෂ නිසා එන්ජිම පුරා පොදු කම්පනයක් ඇති විය හැකි නමුත්, චූෂණ පැත්තේ විශේෂිතව ඇතිවන මෙම තත්ත්වයට කැවිටේෂන් සෘජුවම වගකියයි."
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 23,
+        "question": "Reduced capacity accompanied by vibration and noise at the suction of a centrifugal pump results from the action of vapor pockets in the fluid being pumped caused by:",
+        "answers": [
+            "Water hammer.",
+            "Cavitation.",
+            "Steam knock.",
+            "Fluid friction."
+        ],
+        "correct_answer": "Cavitation.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2023/03/pump2.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 24,
+        "question": "Why shall a duly qualified officer supervise any potential polluting operation?",
+        "answers": [
+            "To avoid pollution.",
+            "To relieve the master.",
+            "To inform the authorities.",
+            "To restrict pollution."
+        ],
+        "correct_answer": "To avoid pollution.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 25,
+        "question": "What is the meaning of the following symbol?",
+        "answers": [
+            "Close rescue boat ventilation aperture.",
+            "Open hatches.",
+            "Secure liferaft canopy closing device.",
+            "Secure hatches."
+        ],
+        "correct_answer": "Secure hatches.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2023/03/sign1.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 26,
+        "question": "When carrying LNG cargoes it is useful to have information about its thermodynamic properties. What is a common source of information that can be used to obtain values for a wide range of these properties?",
+        "answers": [
+            "A Mollier chart.",
+            "Material safety data sheet.",
+            "The cargo manifest.",
+            "The IGC code."
+        ],
+        "correct_answer": "A Mollier chart.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 27,
+        "question": "When will a hatch cover cross-joint wedge need replacement?",
+        "answers": [
+            "When the wedge is rusty.",
+            "When the flat spring is missing.",
+            "When the flat spring is bent.",
+            "When the flat spring is rusty."
+        ],
+        "correct_answer": "When the flat spring is missing.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 28,
+        "question": "Who shall carry out the detailed preliminary supervision of maritime service of seafarers before the commencement of service?",
+        "answers": [
+            "The employer/master.",
+            "The seafarer’s home labour authorities.",
+            "A Norwegian Consulate.",
+            "The Norwegian Ship Control."
+        ],
+        "correct_answer": "The employer/master.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 29,
+        "question": "On a Container vessel, what determines how containers should be lashed?",
+        "answers": [
+            "SOLAS 74/88.",
+            "Advice from shore planners.",
+            "The cargo securing manual.",
+            "OSHA regulations."
+        ],
+        "correct_answer": "The cargo securing manual.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 30,
+        "question": "Enthalpy is an expression of how much energy is tied up in one kilo of a substance. A substance’s total energy consists of:",
+        "answers": [
+            "External and internal energy.",
+            "Internal energy.",
+            "Latent energy.",
+            "External energy."
+        ],
+        "correct_answer": "External and internal energy.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 31,
+        "question": "What nominal filling restriction exists under the IBC Code for a single tank on a type 3 chemical tanker? Not counting structural, capacity or cargo specific limitations.",
+        "answers": [
+            "1 250 cubic metres.",
+            "There is no filling restriction for a type 3 chemical tanker.",
+            "1 750 cubic metres.",
+            "3 000 cubic metres."
+        ],
+        "correct_answer": "There is no filling restriction for a type 3 chemical tanker.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 32,
+        "question": "A coated tank holds 400 tons of sea water when filled. How many tons of liquid of liter weight 0,9300 will it hold when filled to 90 % capacity?",
+        "answers": [
+            "390,2 Mt.",
+            "343,2 Mt.",
+            "377,6 Mt.",
+            "326,6 Mt."
+        ],
+        "correct_answer": "326,6 Mt.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 33,
+        "question": "What is the purpose of the “Mud Box” on a tanker?",
+        "answers": [
+            "It is at the end of the pipeline in the tank and restricts any particles and solids entering the pipeline system.",
+            "It is the waste collection box in the store rooms.",
+            "It is the box near the windlass to deposit the mud from the anchor and anchor cables.",
+            "It is the box under the manifold to catch spills when connecting the discharge or loading hose."
+        ],
+        "correct_answer": "It is at the end of the pipeline in the tank and restricts any particles and solids entering the pipeline system.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 34,
+        "question": "What are the requirements regarding slop tank capacity on combination carriers with smooth walls (bulkheads)?",
+        "answers": [
+            "Not less than 3 % of the oil-carrying capacity of the ship.",
+            "Not less than 1 % of the oil-carrying capacity of the ship.",
+            "Not less than 1,5 % of the oil-carrying capacity of the ship.",
+            "Not less than 2 % of the oil-carrying capacity of the ship."
+        ],
+        "correct_answer": "Not less than 1 % of the oil-carrying capacity of the ship.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 35,
+        "question": "If the heat transfer capacity in a heat exchanger is dropping, the following action should be taken:",
+        "answers": [
+            "Clean the heat transfer surface.",
+            "Increase the flowrate.",
+            "Decrease the flowrate.",
+            "Increase pressure."
+        ],
+        "correct_answer": "Clean the heat transfer surface.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2023/03/heater.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 36,
+        "question": "On a RoRo vessel carrying no more than 36 passengers, what is the minimum capacity of the ventilation system protecting standard cargo spaces intended for carriage of motor vehicles with fuel in their tanks for their own propulsion.",
+        "answers": [
+            "12 air changes per hour.",
+            "20 air changes per hour.",
+            "6 air changes per hour.",
+            "2 air changes per hour."
+        ],
+        "correct_answer": "6 air changes per hour.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 37,
+        "question": "What is the minimum capacity of a ventilation system protecting cargo spaces, other than special category spaces, intended for carriage of motor vehicles with fuel in their thanks for their own propulsion in a ship carrying no more than 36 passengers or in a cargo ship?",
+        "answers": [
+            "6 air changes per hour.",
+            "12 air changes per hour.",
+            "20 air changes per hour.",
+            "2 air changes per hour."
+        ],
+        "correct_answer": "6 air changes per hour.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 38,
+        "question": "What is the purpose of adding inhibitor to the individual cargo?",
+        "answers": [
+            "To avoid explosive (flammable) area in cargo tanks.",
+            "To avoid humidity in cargo tanks.",
+            "To assure all oxygen is removed from cargo tank and avoid chemical reaction.",
+            "To avoid radicals building up in cargo tanks."
+        ],
+        "correct_answer": "To assure all oxygen is removed from cargo tank and avoid chemical reaction.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2023/03/tanker.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 39,
+        "question": "There is requirement in MARPOL for the slop tank capacity of oil tankers. What is the requirement for SBT tankers?",
+        "answers": [
+            "2 % where segregated ballast tanks or dedicated clean ballast tanks are provided in accordance with MARPOL.",
+            "3 % where segregated ballast tanks or dedicated clean ballast tanks are provided in accordance with MARPOL.",
+            "5 % where segregated ballast tanks or dedicated clean ballast tanks are provided in accordance with MARPOL.",
+            "1 % where segregated ballast tanks or dedicated clean ballast tanks are provided in accordance with MARPOL."
+        ],
+        "correct_answer": "2 % where segregated ballast tanks or dedicated clean ballast tanks are provided in accordance with MARPOL.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2023/03/tanker.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 40,
+        "question": "What action should be taken if the heat transfer capacity of a heat exchanger operating as a lubricating oil cooler is reducing?",
+        "answers": [
+            "The heat transfer surfaces should be cleaned.",
+            "Increase the cooling water pressure.",
+            "Increase the lubricating oil flowrate.",
+            "Decrease the lubricating oil flowrate."
+        ],
+        "correct_answer": "The heat transfer surfaces should be cleaned.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 41,
+        "question": "The picture shows a common used 3,5 inches diskette type for storing data. What is the data storing capacity for such diskette?",
+        "answers": [
+            "760 kB.",
+            "1,44 MB.",
+            "540 kB.",
+            "20 MB."
+        ],
+        "correct_answer": "1,44 MB.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2023/03/diskette.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 42,
+        "question": "According to the IMO Gas Codes, what is the minimum number of “Firemen’s outfits” required to be carried on an LNG carrier (gas tanker) with a cargo capacity above 5 000 m3?",
+        "answers": [
+            "5 sets.",
+            "3 sets.",
+            "4 sets.",
+            "2 sets."
+        ],
+        "correct_answer": "5 sets.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 43,
+        "question": "With two alternators operating in parallel at 75 % load capacity, one trips without any warning. What is the first action that should be taken?",
+        "answers": [
+            "Check the circuit breaker of the tripped alternator.",
+            "Start and connect the emergency alternator.",
+            "Trip/stop all nonessential loads that are connected to the switchboard.",
+            "Restart the tripped alternator immediately."
+        ],
+        "correct_answer": "Trip/stop all nonessential loads that are connected to the switchboard.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 44,
+        "question": "What action would you take if the performance of a plate type heat exchanger was falling off even though flow rates and pressures of the primary and secondary fluids were normal?",
+        "answers": [
+            "Clean the heat exchanger.",
+            "Increase the flow of both fluids.",
+            "Add some more plates to the exchanger.",
+            "Increase the pressure of both fluids."
+        ],
+        "correct_answer": "Clean the heat exchanger.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2023/03/heat_exchanger.jpg"
+        ],
+        "explanation": "ප්ලේට් වර්ගයේ හීට් එක්ස්චේන්ජරයක (plate type heat exchanger) පීඩනය සහ ගලා යන වේගය සාමාන්‍ය පරිදි තිබියදීත් එහි කාර්යක්ෂමතාව අඩු වේ නම්, එයින් අදහස් වන්නේ ප්ලේට් මතුපිට අපද්‍රව්‍ය තැන්පත් වී (fouling) ඇති බවයි. මෙහිදී කළ යුතු නිවැරදි ක්‍රියාව වන්නේ හීට් එක්ස්චේන්ජරය පිරිසිදු කිරීමයි. ප්ලේට් මත පරිවාරක තට්ටුවක් ලෙස බැඳෙන අපද්‍රව්‍ය නිසා තාපය හුවමාරු වීම බාධා වේ. පීඩනය වෙනස් නොවන බැවින් පම්ප් වල දෝෂයක් හෝ නළ අවහිර වීමක් මෙහිදී උපකල්පනය කළ නොහැක."
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 45,
+        "question": "What is a good practice when lineblowing/pigging from shore?",
+        "answers": [
+            "There must always be one man on the ship’s office, operating the manifold valve in order to avoid to much pressure raise in the tank.",
+            "Just leave all valves open and let the shore control the blowing.",
+            "There must always be one man on the ship’s manifold, operating the manifold valve in order to avoid to much pressure raise in the tank.",
+            "There must always be one man on the ship’s bridge, operating the helm in order to avoid to much pressure raise in the tank."
+        ],
+        "correct_answer": "There must always be one man on the ship’s manifold, operating the manifold valve in order to avoid to much pressure raise in the tank.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 46,
+        "question": "What will you do if the heat transfer capacity is dropping, and we know that flow and heat energy corresponds to the specifications?",
+        "answers": [
+            "Add some more plates to the exchanger.",
+            "Use the “cleaning in place” arrangement to open the heat exchanger for visual inspection and manual cleaning.",
+            "Increase the pressure.",
+            "Try to increase the flow."
+        ],
+        "correct_answer": "Use the “cleaning in place” arrangement to open the heat exchanger for visual inspection and manual cleaning.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2023/03/heat_exchanger.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 47,
+        "question": "In case of diesel driven fire pumps, for how long shall the fuel tank capacity allow the pump to be run at full capacity? (SOLAS II-2/4.3.3.2.3).",
+        "answers": [
+            "1 hour.",
+            "3 hours.",
+            "6 hours.",
+            "15 hours."
+        ],
+        "correct_answer": "3 hours.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2023/03/ship_fire.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 48,
+        "question": "What is the minimum capacity of the portable tank of a portable foam applicator?",
+        "answers": [
+            "1 litre.",
+            "5 litres.",
+            "10 litres.",
+            "20 litres."
+        ],
+        "correct_answer": "1 litre.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 49,
+        "question": "You have loaded a cargo of n-Propyl Acetate to all tanks. They are each loaded to around 98 % capacity. You now have to clear the lines into the ship. What is the biggest risk associated with this operation?",
+        "answers": [
+            "Unless carefully controlled, too much disturbance will be generated in the tanks and product will be forced up the vent risers, resulting in an overflow.",
+            "Unless carefully controlled, cargo will gravitate from one tank to another.",
+            "Unless lines are cleared working from aft towards forward, they will simply fill up again as other lines are cleared.",
+            "Unless the shore personnel are cooperative, they may cease blowing before you have had a chance to clear each one of the ship’s lines."
+        ],
+        "correct_answer": "Unless carefully controlled, too much disturbance will be generated in the tanks and product will be forced up the vent risers, resulting in an overflow.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 50,
+        "question": "This circuit consists of a voltage source V, a change-over switch S, a resistor R and a capacitor C. The voltage/time figures 1 to 4 show changes in the voltage V (C) when the switch S is suddenly shifted from position 1 to 2 at time t = 0. Only one of the diagrams is correct. Which?",
+        "answers": [
+            "Figure 1.",
+            "Figure 2.",
+            "Figure 3.",
+            "Figure 4."
+        ],
+        "correct_answer": "Figure 1.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2023/03/voltage.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 51,
+        "question": "If you use chemicals for cleaning up an oil-spill on the water, what would the chemicals do?",
+        "answers": [
+            "Contain the oil within a small area.",
+            "Disperse or dissolve the oil into the water.",
+            "Remove the oil from the water.",
+            "Absorb the oil for easy removal."
+        ],
+        "correct_answer": "Disperse or dissolve the oil into the water.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2023/03/oil_tanker2.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 52,
+        "question": "You are on a vessel 10 nautical miles off the coast of Nigeria, West Africa. Are you allowed to dump empty glass bottles overboard?",
+        "answers": [
+            "Yes, glass bottles can be dumped overboard.",
+            "Yes, the bottles can be dumped if they are ground so that the resulting particles can pass through a screen with 50 mm openings.",
+            "Yes, the bottles can be dumped if they are ground so that the resulting particles can pass through a screen with 25 mm openings.",
+            "No, glass bottles can not be dumped overboard."
+        ],
+        "correct_answer": "Yes, the bottles can be dumped if they are ground so that the resulting particles can pass through a screen with 25 mm openings.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2023/03/africa_map.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 53,
+        "question": "Why are all RoRo passengers ships divided into vertical “zones”?",
+        "answers": [
+            "Vertical zones are fire zones which can be divided from each other with fire doors. In case of fire, all fire doors in front and aft of the fire will be closed to prevent spreading of smoke/fire.",
+            "Vertical zones are separated with fire doors which will be closed automatically when the fire alarm start.",
+            "All vertical zones are separated with watertight doors, which will be closed in the case of a grounding, etc.",
+            "There is one fire team in each zone."
+        ],
+        "correct_answer": "Vertical zones are fire zones which can be divided from each other with fire doors. In case of fire, all fire doors in front and aft of the fire will be closed to prevent spreading of smoke/fire.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 54,
+        "question": "In the type of fluorescent lamp system shown in the illustration, the role of the starter is to perform which of the following?",
+        "answers": [
+            "To change the ballast to a high inductive current and then divert this current through the lamp.",
+            "To create a high starting current.",
+            "To pass current through the lamp heaters and then interrupt the inductive striking current.",
+            "To switch on current through the lamp and to disconnect the ballast once the lamp has started."
+        ],
+        "correct_answer": "To pass current through the lamp heaters and then interrupt the inductive striking current.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2023/03/lamp.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 55,
+        "question": "What is the normal thickness of the primary barrier (membrane) on membrane containment type systems as used in LNG carriers?",
+        "answers": [
+            "0,7-1,5 mm.",
+            "1,5-2,0 mm.",
+            "2,0-2,5 mm.",
+            "0,2-0,5 mm."
+        ],
+        "correct_answer": "0,7-1,5 mm.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 56,
+        "question": "You are in open water and clear conditions. You are approaching the pilot station when you hear this signal from a vessel ahead of you. What does it signify?",
+        "answers": [
+            "That the vessel is operating astern propulsion.",
+            "That the vessel is starting his engine and resuming his passage.",
+            "That the vessel is picking up his pilot.",
+            "That the vessel is altering his course to starboard."
+        ],
+        "correct_answer": "That the vessel is operating astern propulsion.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 57,
+        "question": "What is the weather associated with being in the centre of an Anticyclone (a region of High Pressure)?",
+        "answers": [
+            "Light winds and fair weather, sometimes fog.",
+            "Strong winds but with very little rain.",
+            "Strong winds and heavy rain.",
+            "Persistent rain and very humid weather."
+        ],
+        "correct_answer": "Light winds and fair weather, sometimes fog.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 58,
+        "question": "The abbreviation “NPSH” is often seen in connection with the efficiency of cargo pumps on oil tankers. What does this abbreviation stand for?",
+        "answers": [
+            "Nominal Pressure Suction Head.",
+            "Natural Pumping Standard Height.",
+            "Necessary Pumping Suction Hazard.",
+            "Net Pressure Suction Head."
+        ],
+        "correct_answer": "Net Pressure Suction Head.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 59,
+        "question": "What is the purpose of the unscheduled inspectors on board ships?",
+        "answers": [
+            "To determine whether the ship is seaworthy.",
+            "To issue a certificate of seaworthiness.",
+            "To issue a trading permit.",
+            "Mainly to determine whether the manning regulations have been adhered to."
+        ],
+        "correct_answer": "To determine whether the ship is seaworthy.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 60,
+        "question": "You are inerting a cargo tank on an oil tanker, prior to gas-freeing for entry. What is the maximum permitted oxygen content in the inert gas main as required by SOLAS 1974?",
+        "answers": [
+            "12 % by volume.",
+            "8 % by volume.",
+            "5 % by volume.",
+            "2 % by volume."
+        ],
+        "correct_answer": "5 % by volume.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2023/03/cargo_tank.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 61,
+        "question": "The death of a passenger occurs on board, what legal actions must be taken by the Master?",
+        "answers": [
+            "First aspect confirm death. Notify company, and next-of-kin, and if on board to be advised and comforted as may be required. Arrange to have body moved to freezer area. Notify local agents and British Consul when abroad. Entry to be made in Record of Births and Deaths.",
+            "Confirm death. Have body moved to a freezer compartment. Contact local agent and British Consul as appropriate. Complete narrative section of Official log book. Make an entry in the deck log book detailing actions taken.",
+            "Confirm death. Contact local agent and arrange to have body medi-vacced from vessel. Notify company. Complete births and deaths section of official log book.",
+            "Confirm death. Notify next-of-kin, and if on board to be comforted as may be necessary. Make an entry in the Births and Deaths section of the OLB, make entries in the narrative section of the OLB. Notify agent and British Consul when abroad. Have belongin."
+        ],
+        "correct_answer": "First aspect confirm death. Notify company, and next-of-kin, and if on board to be advised and comforted as may be required. Arrange to have body moved to freezer area. Notify local agents and British Consul when abroad. Entry to be made in Record of Births and Deaths.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 62,
+        "question": "Are there any restrictions for transit of the Suez canal?",
+        "answers": [
+            "The Suez Canal is a sea-level canal. There are beam and draft restrictions for very large vessels.",
+            "There are restrictions because of canal locks.",
+            "There are no restrictions. Transit at masters discretion.",
+            "There are no restrictions. Transit at masters discretion, but pilot is compulsory."
+        ],
+        "correct_answer": "The Suez Canal is a sea-level canal. There are beam and draft restrictions for very large vessels.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2023/03/suez.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 63,
+        "question": "Which is the preferred method for starting an air conditioning refrigeration compressor which has been shut down for a period of time?",
+        "answers": [
+            "Start with suction valve throttled in to minimise risk of drawing liquid refrigerant into the compressor.",
+            "Start and stop repeatedly until suction pressure and oil pressure are normal.",
+            "Start with all system valves fully opened.",
+            "Start with the discharge valve throttled in to prevent excess condenser pressure."
+        ],
+        "correct_answer": "Start with suction valve throttled in to minimise risk of drawing liquid refrigerant into the compressor.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 64,
+        "question": "What colour flare is used to signal a highly dangerous landing place?",
+        "answers": [
+            "Yellow.",
+            "Orange.",
+            "Blue.",
+            "Red."
+        ],
+        "correct_answer": "Red.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2023/03/plot.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 65,
+        "question": "At least how often shall rescue boats be launched with their assigned crew and manoeuvred in the water?",
+        "answers": [
+            "Every 2 weeks.",
+            "Every 3 months.",
+            "Every 6 months.",
+            "Every week."
+        ],
+        "correct_answer": "Every 3 months.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 66,
+        "question": "If a seaman has to walk across a stow of cartons containing perishable foodstuffs what should he do to minimise the risk of damage to the contents? Select the most appropriate option from those given.",
+        "answers": [
+            "He should step on the edges of the cartons.",
+            "All parts of the carton are of equal strength and therefore it doesn’t matter which part he steps on.",
+            "He should step on the comers of the cartons.",
+            "He should step on the middle of the cartons."
+        ],
+        "correct_answer": "He should step on the comers of the cartons.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 67,
+        "question": "Feed check valves for main and auxilliary purposes are normally of the double shut off type, as shown in the diagram. What is the main function of the non-return valve?",
+        "answers": [
+            "To prevent the steam and water in the boiler from discharging out by the feed line, if a feed line fracture or a joint in the line blows.",
+            "To increase the workload for staff when overhauling the boiler.",
+            "To allow overhaul of the screw down valve when the non-return valve is shut and the boiler is steaming.",
+            "To allow fine tuning of feed water flow to the boiler."
+        ],
+        "correct_answer": "To prevent the steam and water in the boiler from discharging out by the feed line, if a feed line fracture or a joint in the line blows.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 68,
+        "question": "Normally ventilation fans in enclosed ro-ro spaces must be run continuously whenever vehicles are on board, why?",
+        "answers": [
+            "An increased number of air changes may be required when vehicles are being loaded or unloaded, or where flammable gases or liquids are stowed in closed ro-ro spaces.",
+            "It is better to run the fans continuously instead of testing the atmosphere.",
+            "It is easier for the crew, they don’t have to think about starting and stopping of fans.",
+            "The manufacturer of the fans recommends continuous operation to reduce maintenance cost."
+        ],
+        "correct_answer": "An increased number of air changes may be required when vehicles are being loaded or unloaded, or where flammable gases or liquids are stowed in closed ro-ro spaces.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 69,
+        "question": "What is the correct chemical name for Caustic Soda in liquid form?",
+        "answers": [
+            "Potassium Hydroxide solution.",
+            "Sodium Chlorate solution.",
+            "Sodium Hydroxide solution.",
+            "Sodium Hypochlorite solution."
+        ],
+        "correct_answer": "Sodium Hydroxide solution.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 70,
+        "question": "One water fog applicator is required for each pair of breathing apparatus on board which type of ship?",
+        "answers": [
+            "Passenger ships carrying more than 36 passengers.",
+            "Chemical tankers.",
+            "Tankers.",
+            "Passenger ships fitted with car decks."
+        ],
+        "correct_answer": "Passenger ships carrying more than 36 passengers.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 71,
+        "question": "Why did they order another tug?",
+        "answers": [
+            "Because the bow thrust was useless in the strong wind.",
+            "Because they wanted to make sure that the ship could be turned safely.",
+            "Because the mates always receive their instructions prior to berthing and they all felt that another tug was needed.",
+            "Because the ship was going to berth with port side to the terminal."
+        ],
+        "correct_answer": "Because they wanted to make sure that the ship could be turned safely.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2023/03/kitchen.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 72,
+        "question": "A contractor is hired to install new navigation equipment onboard your ship while it’s berthed. For a period of time he’s left unsupervised and photographs schematics of the ship that he finds rolled up and stored in the corner of a nearby office. Later, from home, he hacks into the network and prints off information about the ship’s security procedures. Which of these information security measures would have prevented his unauthorized access?",
+        "answers": [
+            "Secure area, passwords, a firewall and a secure network.",
+            "Protective markings, reference checks, and passwords.",
+            "Firewall, protective markings, vetting and a secure network.",
+            "Secure area, passwords, a firewall and protective markings."
+        ],
+        "correct_answer": "Secure area, passwords, a firewall and a secure network.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 73,
+        "question": "The Training Manual shall contain instructions and information on the life-saving appliances and the best method of survival. The training manual shall contain detailed explanations of crew duties in relation to emergency situations. Which of the following tasks or duties shall be included in the manual according to present regulations?",
+        "answers": [
+            "The use of the ship’s line throwing apparatus.",
+            "The use of escape routes and other escape methodes.",
+            "The use of surface to air visual signals to be used by survivors.",
+            "The use of navigational equipment for survival crafts."
+        ],
+        "correct_answer": "The use of the ship’s line throwing apparatus.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 74,
+        "question": "Which of the following spaces may be protected by a fixed carbon dioxide (CO2) fire-extinguishing system?",
+        "answers": [
+            "Machinery spaces of category A.",
+            "Cargo tanks of tankers.",
+            "All the spaces mentioned.",
+            "Special category spaces of passengers ships."
+        ],
+        "correct_answer": "Machinery spaces of category A.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2023/03/co2.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 75,
+        "question": "A drip tray containing oil is on fire. The only fire fighting equipment available is water hose with spray jet/spray nozzle. How, if at all, should you attempt to put out this fire using water?",
+        "answers": [
+            "Water should be applied in a jet to the back of the fire.",
+            "Water should be applied to the oil in a single jet only.",
+            "Water should not be used on any type of oil fire.",
+            "The water can be applied in a fine spray starting from the front in a sweeping motion."
+        ],
+        "correct_answer": "The water can be applied in a fine spray starting from the front in a sweeping motion.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2023/03/firefighting.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 76,
+        "question": "You have just joined a chemical tanker. Where would you find a description of the ship’s cargo handling equipment, details on the ship’s cargo unloading procedures and tank stripping and details on procedures relating to the cleaning of cargo tanks, the discharge of residues, ballasting and deballasting?",
+        "answers": [
+            "The Annex II Procedures and Arrangements Manual.",
+            "The applicable equipment manufacturer’s maintenance and operation manuals.",
+            "The Cargo Handling Logbook.",
+            "MARPOL 73/78."
+        ],
+        "correct_answer": "The Annex II Procedures and Arrangements Manual.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 77,
+        "question": "What is the purpose of the LD (low duty) compressors on an LNG carrier?",
+        "answers": [
+            "To handle the LNG boil-off vapour for fuelling the boiler.",
+            "To discharging the LNG cargo at a slow rate.",
+            "To deliver inert gas and to aid cooling down of the cargo tanks.",
+            "To transfer cargo vapour to the shore installation during loading operations."
+        ],
+        "correct_answer": "To handle the LNG boil-off vapour for fuelling the boiler.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 78,
+        "question": "Other than the official log book what other publications must be carried on board of a vessel?",
+        "answers": [
+            "ISGOTT, SOLAS, MARPOL, Bridge Team Management, OCIMF Mooring guidelines.",
+            "The official log book and crew agreement are the only two publications which must be carried on board.",
+            "Charts, nautical publications, GMDSS log, Oil Record book(s).",
+            "All technical books relevant to the machinery currently on board."
+        ],
+        "correct_answer": "Charts, nautical publications, GMDSS log, Oil Record book(s).",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 79,
+        "question": "Can a British Consular official detain a vessel whilst in a foreign port?",
+        "answers": [
+            "Yes – any consular official can detain a vessel.",
+            "Only the most senior consular official can detain a vessel.",
+            "Only if he is also a Marine Officer, or on instruction from the MCA.",
+            "Not under any circumstances."
+        ],
+        "correct_answer": "Yes – any consular official can detain a vessel.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 80,
+        "question": "What do you understand by the term “Terminal Representative”?",
+        "answers": [
+            "A bulk cargo terminal agent.",
+            "A cargo facility terminal agent.",
+            "A person appointed by a cargo terminal for operations conducted by that terminal with regard to a ship.",
+            "A person appointed by a cargo terminal for matters related to crew welfare under the International Labour Convention."
+        ],
+        "correct_answer": "A person appointed by a cargo terminal for operations conducted by that terminal with regard to a ship.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 81,
+        "question": "High Voltage (HV) cables are smaller than low voltage cables for a given power rating. Why is this?",
+        "answers": [
+            "The HV cable carriers a smaller current and therefore requires less copper.",
+            "The HV cable uses Aluminium conductors and therefore requires them to be a smaller cross-sectional area.",
+            "The HV cable uses higher quality copper conductors and therefore requires them to be a smaller cross-sectional area.",
+            "The HV cable has a thinner wall of special insulation material."
+        ],
+        "correct_answer": "The HV cable carriers a smaller current and therefore requires less copper.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 82,
+        "question": "What is the MARPOL definition of a “high-viscosity substance”?",
+        "answers": [
+            "A noxious liquid substance of any category with a pour point of greater than 37,8 degrees Celsius.",
+            "A noxious liquid substance in category “X” or “Y” with a viscosity equal to or greater than 50 mPas at the unloading temperature.",
+            "Any noxious liquid substance, the residues of which cannot be stripped from a cargo compartment and its associated piping and pumping system to equal to or less than 75 litres.",
+            "A noxious liquid substance in category “Y” with a viscosity equal to or greater than 100 mPas at 37,8 degrees Celsius."
+        ],
+        "correct_answer": "A noxious liquid substance in category “X” or “Y” with a viscosity equal to or greater than 50 mPas at the unloading temperature.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 83,
+        "question": "When discussing the properties of an oil cargo, what is the “wax content”?",
+        "answers": [
+            "The percentage of paraffinic wax by volume, based on a representative sample of the crude oil.",
+            "The amount of additive in an oil product, expressed in ppm, designed to inhibit solidification at lower temperatures.",
+            "The observed volume percentage of waxy deposits found in a cargo tank after discharge in relation to the total volume of cargo previously carried.",
+            "The percentage of wax, expressed as a percentage, remaining in an oil product after distillation."
+        ],
+        "correct_answer": "The percentage of paraffinic wax by volume, based on a representative sample of the crude oil.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2023/03/cargo_containment_system.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 84,
+        "question": "1 GHz is equivalent to:",
+        "answers": [
+            "100 000 Hz.",
+            "1 000 000 000 Hz.",
+            "10 000 000 000 Hz.",
+            "1 000 000 Hz."
+        ],
+        "correct_answer": "1 000 000 000 Hz.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2023/03/gmdss.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 85,
+        "question": "When is a tank gas free?",
+        "answers": [
+            "A tank is only to be considered as gas free when no traces of flammable and/or poisonous gas are measured and in addition O2 content is measured to be 21 %.",
+            "A tank is only to be considered as gas free when it has been cleaned and the O2 content is measured to be 21 %.",
+            "A tank is only to be considered as gas free when it has been cleaned, ventillated and there is no smell in the tank.",
+            "A tank is only to be considered as gas free when it has been cleaned and there is no smell in the tank."
+        ],
+        "correct_answer": "A tank is only to be considered as gas free when no traces of flammable and/or poisonous gas are measured and in addition O2 content is measured to be 21 %.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 86,
+        "question": "At what calendar interval must lifting appliances on board a vessel be suitably tested by a competent person?",
+        "answers": [
+            "5 years.",
+            "2 1/2 years.",
+            "2 years.",
+            "Annually."
+        ],
+        "correct_answer": "5 years.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 87,
+        "question": "On some trades fruit cargoes may be subjected to “in-transit cold treatment” also known as cold treatment. From the options given which is the main purpose of this cold treatment?",
+        "answers": [
+            "To maintain a specified minimum temperature for a prescribed time period to kill off any fruit fly which may be present when loading the cargo.",
+            "To maintain the temperature of the fruit within very tight tolerances.",
+            "To ensure that the fruit is carried as cold as possible without damaging the fruit.",
+            "To achieve uniform quality of the fruit at discharge."
+        ],
+        "correct_answer": "To maintain a specified minimum temperature for a prescribed time period to kill off any fruit fly which may be present when loading the cargo.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 88,
+        "question": "If oil out of the bowl casing drain of a solids ejecting separator what is the most likely problem?",
+        "answers": [
+            "Oil has been fed to the separator before full speed.",
+            "Insufficient amount of bowl closing water.",
+            "The sludge tank is full.",
+            "The flow rate is too high."
+        ],
+        "correct_answer": "Insufficient amount of bowl closing water.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2023/03/separator.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 89,
+        "question": "Which is the “Windlass”, in the figure?",
+        "answers": [
+            "The Windlass is indicated by D, in the figure.",
+            "The Windlass is indicated by C, in the figure.",
+            "The Windlass is indicated by A, in the figure.",
+            "The Windlass is indicated by B, in the figure."
+        ],
+        "correct_answer": "The Windlass is indicated by D, in the figure.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2023/03/deck_scheme.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 90,
+        "question": "On a general cargo ship, where would the fire hydrants be located?",
+        "answers": [
+            "At such locations that at least two jets not emanating from the same hydrant may reach any part of the ship normally accessible to the crew while the ship is being navigated, one of these jets coming from a single length of hose (the other jet may come from two hoses joined).",
+            "At such locations that at least two jets not emanating from the same hydrant may reach any part of the ship normally accessible to the crew while the ship is being navigated, each of these jets coming from a single length of hose.",
+            "At such locations that no part of the ship normally accessible to the crew while the ship is being navigated is located more than 20 metres away from a hydrant.",
+            "At such locations that no part of the ship normally accessible to the crew while the ship is being navigated is located more than 40 metres away from a hydrant."
+        ],
+        "correct_answer": "At such locations that at least two jets not emanating from the same hydrant may reach any part of the ship normally accessible to the crew while the ship is being navigated, one of these jets coming from a single length of hose (the other jet may come from two hoses joined).",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2023/03/hydrant.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 91,
+        "question": "On board a DSC-call is to be made in case of an OBS. Choose the category:",
+        "answers": [
+            "Ship’s business.",
+            "Routine.",
+            "Safety.",
+            "Don’t know."
+        ],
+        "correct_answer": "Routine.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 92,
+        "question": "To make a “call-request” one should:",
+        "answers": [
+            "Select the telex in on-line position.",
+            "Select the ID of the NCS.",
+            "Select the telex in off-line position.",
+            "Don’t know."
+        ],
+        "correct_answer": "Select the telex in on-line position.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 93,
+        "question": "Falls used in launching shall be turned end for end at an interval of not more than X months and to be renewed not later than every Y years, where the intervals are:",
+        "answers": [
+            "6 months/2 years.",
+            "12 months/4 years.",
+            "20 months/3 years.",
+            "30 months/5 years."
+        ],
+        "correct_answer": "30 months/5 years.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2023/03/launching.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 94,
+        "question": "How many rescue boats should be provided on ro-ro passenger ships of 500 gross tons and above?",
+        "answers": [
+            "Two, and at least one of the rescue boats shall be a Fast Rescue Boat.",
+            "One Fast Rescue Boat.",
+            "None providing the ship has lifeboats.",
+            "Two Fast Rescue Boats, one on each side of the ship."
+        ],
+        "correct_answer": "Two, and at least one of the rescue boats shall be a Fast Rescue Boat.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 95,
+        "question": "According to SOLAS Regulation all dedicated seawater ballast tanks on oil tankers shall have an efficient corrosion prevention system such as hard protective coatings or equivalent. With regard to coatings do SOLAS set any requirement to colour?",
+        "answers": [
+            "Preferably light colour.",
+            "Preferably light red colour.",
+            "Preferably dark colour.",
+            "No requirement."
+        ],
+        "correct_answer": "Preferably light colour.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 96,
+        "question": "According to the rules of GMDSS vessels are equipped with certain radio-communication devices depending on:",
+        "answers": [
+            "Type of vessel.",
+            "Their tonnage.",
+            "The sea areas.",
+            "Don’t know."
+        ],
+        "correct_answer": "The sea areas.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2023/03/gmdss-1.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 97,
+        "question": "Which is the “Fairlead”, in the figure?",
+        "answers": [
+            "The Fairlead is indicated by C, in the figure.",
+            "The Fairlead is indicated by D, in the figure.",
+            "The Fairlead is indicated by B, in the figure.",
+            "The Fairlead is indicated by A, in the figure."
+        ],
+        "correct_answer": "The Fairlead is indicated by C, in the figure.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2023/03/deck_scheme.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 98,
+        "question": "There are many types of pumps fitted onboard ship which an engine room rating may be required to assist with the maintenance of. Which type of pump is shown in the illustration?",
+        "answers": [
+            "A reciprocating pump.",
+            "A centrifugal pump.",
+            "A gear pump.",
+            "A scroll pump."
+        ],
+        "correct_answer": "A centrifugal pump.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2023/03/pump-1.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 99,
+        "question": "The circuit consists of two inductors, L(1) = 6 H and L(2) = 12 H, connected in parallel. Calculate the equivalent L(S) of the two inductors:",
+        "answers": [
+            "L(S) = 4 H.",
+            "L(S) = 0,667 H.",
+            "L(S) = 1,5 H.",
+            "L(S) = 18 H."
+        ],
+        "correct_answer": "L(S) = 4 H.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2023/03/inductors.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 100,
+        "question": "What is polymerisation?",
+        "answers": [
+            "The process by which unsaturated chemical compounds are heated under pressure, causing the molecules to react with each other and form larger molecules.",
+            "The process by which the molecules in unsaturated chemical compounds react with each other during cooling, forming larger molecules.",
+            "The process by which saturated chemical compounds are heated under pressure, causing the molecules to react with each other and form smaller molecules.",
+            "The process by which saturated chemical compounds react as pressure is released during heating, causing the molecules to react with each other and form larger compounds."
+        ],
+        "correct_answer": "The process by which unsaturated chemical compounds are heated under pressure, causing the molecules to react with each other and form larger molecules.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2023/03/cargo_containment_system.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 101,
+        "question": "In the case when the temperature of the ambient air is equal to 10 °C and the wind is blowing at a speed of 10 m/sec the shipwrecked person must consider that the effect of air on his body is equivalent to that of an air whose temperature would be approximately:",
+        "answers": [
+            "-10 °C.",
+            "0 °C.",
+            "+10 °C.",
+            "+20 °C."
+        ],
+        "correct_answer": "0 °C.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2023/03/plot.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 102,
+        "question": "What could be the possible cause of an engine knocking?",
+        "answers": [
+            "Any of the below.",
+            "Faults in injection valves, injection too early.",
+            "Too big a piston clearance, worn cylinder liner.",
+            "The gudgeon pin or big end bearing having too big a clearance."
+        ],
+        "correct_answer": "Any of the below.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2023/03/engine.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 103,
+        "question": "Cargo gear/cranes should at regular intervals be thoroughly examined and load tested by a recognised company/yard. How often should such examination/load test take place?",
+        "answers": [
+            "Every 4th year.",
+            "Every 5th year.",
+            "Every 2 1/2 year.",
+            "Annually."
+        ],
+        "correct_answer": "Every 5th year.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2023/03/crane.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 104,
+        "question": "According to the industry guidelines in the ISGOTT Guide and assuming terminal regulations do not require otherwise, what action should be taken to drain accumulated water from the deck during cargo handling operations in rainy conditions?",
+        "answers": [
+            "The accumulated water is to be drained periodically and the scupper plugs to be immediately closed once the water has been run off. Water containing oily residues is to be transferred to a slop tank or other suitable receptacle.",
+            "The scupper plugs are to be kept closed and sealed; any volume of water that is not contained should be allowed to flood over the fishplate.",
+            "During periods of heavy rain, it is considered prudent and safe to allow water to drain continuously; therefore scupper plugs should be removed in such conditions.",
+            "The accumulated water is to be transferred to a spare tank."
+        ],
+        "correct_answer": "The accumulated water is to be drained periodically and the scupper plugs to be immediately closed once the water has been run off. Water containing oily residues is to be transferred to a slop tank or other suitable receptacle.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 105,
+        "question": "According to 33 CFR 156, oil tankers trading in US waters are required to test and document the testing of cargo transfer hoses and transfer pipe system. What is the minimum requirement when testing these components?",
+        "answers": [
+            "That no leakage occurs under static liquid pressure of at least 1,5 times the maximum allowable working pressure.",
+            "That no leakage occurs under dynamic fluid pressure of less than 1,5 times the maximum allowable working pressure.",
+            "That no leakage occurs at the nominal anticipated working pressure.",
+            "That no leakage occurs under static liquid pressure of at least 1,25 times the maximum allowable working pressure."
+        ],
+        "correct_answer": "That no leakage occurs under static liquid pressure of at least 1,5 times the maximum allowable working pressure.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2023/03/hose.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 106,
+        "question": "In a smoke filled alleyway where will the cleanest air be found, and how should you proceed out?",
+        "answers": [
+            "Near to the deck, crawl out keeping your face as near to the deck as possible.",
+            "Sit and wait for the rescue party.",
+            "It will be the same in all parts, therefore I would just leave as quickly as possible.",
+            "Towards the upper part, stand as tall as possible and walk out."
+        ],
+        "correct_answer": "Near to the deck, crawl out keeping your face as near to the deck as possible.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 107,
+        "question": "Which one of the listed requirements regarding fire protected lifeboats do not correspond to present regulations? Water spray systems shall:",
+        "answers": [
+            "Have separate draining pumps of sufficient capacity.",
+            "Be arranged for flushing with fresh water and allowing complete draining.",
+            "Protect the occupants through a continuous oil fire for a period of not less than 8 minutes.",
+            "Have means for “turn on/turn off” the flow of water over the exterior of the lifeboat."
+        ],
+        "correct_answer": "Have separate draining pumps of sufficient capacity.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 108,
+        "question": "What is the required pressure when testing parts of the oil transfer system (hoses, loading arms etc.) if the test is to satisfy US Coast Guard regulations?",
+        "answers": [
+            "Test pressure equal to 1,75 times the maximum allowable working pressure.",
+            "Test pressure equal to 1,25 times the maximum allowable working pressure.",
+            "Test pressure equal to 1,5 times the maximum allowable working pressure.",
+            "Test pressure equal to the maximum allowable working pressure."
+        ],
+        "correct_answer": "Test pressure equal to 1,5 times the maximum allowable working pressure.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2023/03/hose.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 109,
+        "question": "During crude oil washing of No: 1C tank the duty deck officer reports that the oxygen reading in the tank is 9 %. What should you do?",
+        "answers": [
+            "Stop the washing process and not resume until the oxygen content in the tank below 8 %.",
+            "Carry on and ask the engineers to check the inert gas system.",
+            "Stop the washing process and not resume until the oxygen content in the tank is below 2 %.",
+            "Carry on with the washing as the reading is below 11 %."
+        ],
+        "correct_answer": "Stop the washing process and not resume until the oxygen content in the tank below 8 %.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2023/03/tank.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 110,
+        "question": "Which class of emission is used for FEC NBDP transmissions?",
+        "answers": [
+            "G3E.",
+            "G2B.",
+            "J3E.",
+            "F1B."
+        ],
+        "correct_answer": "F1B.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 111,
+        "question": "On a container vessel, where should a mid-bay guide be positioned?",
+        "answers": [
+            "On the tank top mid-way in 40′ guides to prevent transverse movement of 20′ containers.",
+            "On the tank top at the ends of 40′ container bays.",
+            "At the base of cell guides.",
+            "Between 20′ container bays on deck."
+        ],
+        "correct_answer": "On the tank top mid-way in 40′ guides to prevent transverse movement of 20′ containers.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 112,
+        "question": "Give the meaning of the following symbol:",
+        "answers": [
+            "Start water-spray.",
+            "Secure lifeboat hatches.",
+            "Rescue boat with waterproof canopy.",
+            "Lower lifeboat to water."
+        ],
+        "correct_answer": "Start water-spray.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2023/03/water_spray.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 113,
+        "question": "Which of the given options characterizes a 2-stroke diesel engine?",
+        "answers": [
+            "The piston always has a short skirt.",
+            "A 2-stroke engine always has 2 or more turbochargers.",
+            "A 2-stroke engine has an air inlet valve in the cylinder cover.",
+            "A 2-stroke engine completes a full cycle every revolution."
+        ],
+        "correct_answer": "A 2-stroke engine completes a full cycle every revolution.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2023/03/diesel_engine.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 114,
+        "question": "What contributes most to rust formation on vehicles/Ro-Ro units?",
+        "answers": [
+            "Cargo hold ventilation systems and associated ducting.",
+            "Pipes passing through cargo holds.",
+            "Vehicles loaded wet.",
+            "Hydraulic units in cargo holds."
+        ],
+        "correct_answer": "Cargo hold ventilation systems and associated ducting.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 115,
+        "question": "What is the colour of the smoke signal used by life-saving stations or rescue units indicating that distress signals are observed in daylight?",
+        "answers": [
+            "Orange.",
+            "Blue.",
+            "Yellow.",
+            "Green."
+        ],
+        "correct_answer": "Orange.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2023/03/smoke_signals.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 116,
+        "question": "When is it compulsory to use emergency wires/fire wires for mooring the vessel?",
+        "answers": [
+            "During loading/discharging of persistent/non-persistent oil.",
+            "At all terminals where tugs are available.",
+            "When requested by the terminal staff.",
+            "At the terminals in Canada and USA."
+        ],
+        "correct_answer": "During loading/discharging of persistent/non-persistent oil.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2023/03/fire_wires.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 117,
+        "question": "What is the correct name of the tool shown in the sketch?",
+        "answers": [
+            "Grinding machine.",
+            "Flat file.",
+            "Chisel.",
+            "Pliers."
+        ],
+        "correct_answer": "Flat file.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2023/03/flat_file.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 118,
+        "question": "This circuit consists of two resistances, R1 = 6 ohm and R2 = 12 ohm, connected in series. Calculate the equivalent resistance R(S) of the two resistances.",
+        "answers": [
+            "R(S) = 18 ohm.",
+            "R(S) = 4 ohm.",
+            "R(S) = 2 ohm.",
+            "R(S) = 1,5 ohm."
+        ],
+        "correct_answer": "R(S) = 18 ohm.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2023/03/circuit.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 119,
+        "question": "This circuit consists of two capacitors, C(1) = 6 μF and C(2) = 12 μF, in series. Calculate the equivalent C(S) of the two capacitors.",
+        "answers": [
+            "C(S) = 1,5 μF.",
+            "C(S) = 2 μF.",
+            "C(S) = 4 μF.",
+            "C(S) = 18 μF."
+        ],
+        "correct_answer": "C(S) = 4 μF.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2023/03/circuits.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 120,
+        "question": "What are we seeing here?",
+        "answers": [
+            "A sailing vessel less than 20 metres in length, displaying the optional combined lantern in lieu of standard sailing lights, seen head on.",
+            "A sailing vessel, seen from astern, where the edges of her sidelights are both visible.",
+            "A sailing vessel of less than 10 metres in length, displaying the mandatory combined lantern in lieu of sailing lights, seen head-on.",
+            "A sailing vessel, at anchor."
+        ],
+        "correct_answer": "A sailing vessel less than 20 metres in length, displaying the optional combined lantern in lieu of standard sailing lights, seen head on.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2023/03/signal.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 121,
+        "question": "When lashing general cargoes why are short lashings preferred to long ones?",
+        "answers": [
+            "Because they are more easily tightened and held in tension.",
+            "Because long lashings are more prone to vibration.",
+            "Because some of the ship’s lashing points may not be designed to hold long lashings.",
+            "Because the safe working load of lashing materials decrease with length."
+        ],
+        "correct_answer": "Because they are more easily tightened and held in tension.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 122,
+        "question": "When will a ro-ro vessel pitch heavily?",
+        "answers": [
+            "When wave lengths are equal to the ship’s length.",
+            "When wave lengths are equal to half the ship’s length.",
+            "When wave lengths are equal to twice the ship’s length.",
+            "In confused seas."
+        ],
+        "correct_answer": "When wave lengths are equal to the ship’s length.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 123,
+        "question": "What is understood by the term “take the helm”?",
+        "answers": [
+            "Take over the steering of the ship.",
+            "Take a message to another officer.",
+            "Take over heaving of a rope.",
+            "Change the place where the lookout is standing."
+        ],
+        "correct_answer": "Take over the steering of the ship.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 124,
+        "question": "What types of fire extinguishers shall be used in the engine room?",
+        "answers": [
+            "Fire extinguishers equipped for powder or CO2 only.",
+            "Any fire extinguisher with a weight of less than 100 lbs.",
+            "Fire extinguishers filled with fresh water only.",
+            "Fire extinguishers of the handy-size types only."
+        ],
+        "correct_answer": "Fire extinguishers equipped for powder or CO2 only.",
+        "images": [],
+        "explanation": "එන්ජින් කාමරය තුළ විදුලි උපකරණ සහ ඉන්ධන බහුලව පවතින බැවින්, එහිදී භාවිතා කළ යුත්තේ කුඩු (Powder) හෝ කාබන් ඩයොක්සයිඩ් (CO2) ගිනි නිවන උපකරණ පමණි. CO2 සහ පවුඩර් විදුලිය සන්නයනය නොකරන බැවින් විදුලි ගිනි නිවීමට ආරක්ෂිත වන අතර තෙල් ගිනි නිවීමටද සාර්ථක වේ. ජලය හෝ ෆෝම් (Foam) වර්ගයේ ගිනි නිවන උපකරණ භාවිතා කිරීමෙන් විදුලි සැර වැදීමේ හෝ තෙල් ගින්න තවදුරටත් පැතිරීමේ අවදානමක් පවතින බැවින් ඒවා Engine Room සඳහා සුදුසු නොවේ."
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 125,
+        "question": "In which way may intake of poisonous material occur?",
+        "answers": [
+            "Skin penetration and skin absorption.",
+            "Swallowing.",
+            "By inhalation.",
+            "All mentioned."
+        ],
+        "correct_answer": "All mentioned.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2023/03/first_aid.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 126,
+        "question": "What is a steering wheel?",
+        "answers": [
+            "A helm used to steer the ship.",
+            "A drum for heaving of ropes.",
+            "A steering compass.",
+            "Another name for a lifebuoy."
+        ],
+        "correct_answer": "A helm used to steer the ship.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 127,
+        "question": "During mooring operations which is the safe place to be in?",
+        "answers": [
+            "Outside the colored zone.",
+            "Behind the “point of restraint” but inside the zone.",
+            "Between the “point of break” and the “point of restraint”.",
+            "Where ever you feel safe."
+        ],
+        "correct_answer": "Outside the colored zone.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 128,
+        "question": "The circuit consists of two inductors, L(1) = 6 H and L(2) = 12 H, in series. Calculate the equivalent total inductance L(S).",
+        "answers": [
+            "L(S) = 18 H.",
+            "L(S) = 4 H.",
+            "L(S) = 2 H.",
+            "L(S) = 1,5 H."
+        ],
+        "correct_answer": "L(S) = 18 H.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2023/03/inductors-1.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 129,
+        "question": "Considering the range of sensitive liquid chemicals which routinely require wall-wash prior to loading, what product is mainly used as the rinsing agent in wall-washing?",
+        "answers": [
+            "Methanol.",
+            "Industrial Ethanol.",
+            "Iso-propanol.",
+            "Water."
+        ],
+        "correct_answer": "Methanol.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 130,
+        "question": "A lifejacket is so constructed that a person can correctly do it within a period of:",
+        "answers": [
+            "30 sec.",
+            "2 min.",
+            "1 min.",
+            "10 sec."
+        ],
+        "correct_answer": "1 min.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2023/03/lifejacket.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 131,
+        "question": "What significant change to the requirements for the carriage of Vegetable Oils in tankers was introduced by the amendments to MARPOL and the IBC Code on 1st January 2007?",
+        "answers": [
+            "They must now be carried in double-hull tankers.",
+            "They must now be carried in type 2 tanks.",
+            "There is no changes.",
+            "I don’t know."
+        ],
+        "correct_answer": "They must now be carried in double-hull tankers.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 132,
+        "question": "Which of the below statements characterizes the most significant differences between a water-tube boiler and a fire-tube boiler during operation?",
+        "answers": [
+            "Water-tube boilers are more efficient and contains less water. They suffer from major damages when run dry during operation.",
+            "The firetube boiler does not need any non-return valves in the feedwater line circuit.",
+            "The watertube boiler can tolerate a short period of time without any water, when the oilburner is still in action.",
+            "The firetube boiler has a much better capability to work at higher steam pressure."
+        ],
+        "correct_answer": "Water-tube boilers are more efficient and contains less water. They suffer from major damages when run dry during operation.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2023/03/water_tube_boiler.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 133,
+        "question": "Which is the “PANAMA LEAD”, in the figure?",
+        "answers": [
+            "The Panama Lead is indicated by A, in the figure.",
+            "The Panama Lead is indicated by B, in the figure.",
+            "The Panama Lead is indicated by C, in the figure.",
+            "The Panama Lead is indicated by D, in the figure."
+        ],
+        "correct_answer": "The Panama Lead is indicated by C, in the figure.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2023/03/deck_1.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 134,
+        "question": "What does wet washing mean?",
+        "answers": [
+            "The bottom washing starts whilst there is still a small amount of cargo in the tank.",
+            "Dry top washing and wet bottom washing.",
+            "The oil is too “wet” to use for crude oil washing.",
+            "Start the wet crude on washing on a dry bottom."
+        ],
+        "correct_answer": "The bottom washing starts whilst there is still a small amount of cargo in the tank.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 135,
+        "question": "Which of the following is a chemical commonly added to cleaning substances used to clean galley areas?",
+        "answers": [
+            "Beach.",
+            "Blanch.",
+            "Breach.",
+            "Bleach."
+        ],
+        "correct_answer": "Bleach.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 136,
+        "question": "You are the Officer in Charge during the loading of a tanker at a terminal in the Persian Gulf. The deck watchman reports “There is a lot of oil on the water to starboard”. What should be your FIRST action?",
+        "answers": [
+            "Tell the jettyman to stop loading immediately.",
+            "Call the Master.",
+            "Check the Oil Discharge Monitoring Equipment (ODME).",
+            "Find out if the oil is coming from your vessel."
+        ],
+        "correct_answer": "Tell the jettyman to stop loading immediately.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 137,
+        "question": "Sea area A4 is in maritime radio traffic sea area:",
+        "answers": [
+            "Outside the sea areas A1, A2 and A3.",
+            "With the exception of sea areas A1, A2 and A3, within the range of Inmarsat-satellites, where continuous alarm is available.",
+            "Upto 12 miles of land.",
+            "Within VHF-radiotelephony-range of a coast station, where continuous DSC-alarm is available."
+        ],
+        "correct_answer": "Outside the sea areas A1, A2 and A3.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2023/03/gmdss.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 138,
+        "question": "When 3 phase alternators are operating in parallel, it is very important that the reactive load is evenly shared so that the total alternator loads are evenly shared. If the total alternator load is the vector sum of active and reactive loads, which side of vector diagram (power triangle) shown represents the reactive load?",
+        "answers": [
+            "(X).",
+            "(Y).",
+            "Either (X) or (Y).",
+            "None of the mentioned alternatives."
+        ],
+        "correct_answer": "(Y).",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2023/03/scheme.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 139,
+        "question": "Which of the following items shall be included in an “abandon ship”-drill?",
+        "answers": [
+            "Checking that passengers and crew are suitably dressed and lifejackets correctly donned.",
+            "Checking that all crew and passenger are present.",
+            "Checking the distress signal rockets and other distress signals.",
+            "Checking the lifeboat provisions and supplies."
+        ],
+        "correct_answer": "Checking that passengers and crew are suitably dressed and lifejackets correctly donned.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 140,
+        "question": "What is the main responsibility of a bridge lookout at night?",
+        "answers": [
+            "Inform the bridge of any new lights when they appear over the horizon or any other items observed which may affect the ship.",
+            "Inform bridge of changing weather patterns.",
+            "Inform bridge of any lights when they appear over the horizon.",
+            "Inform bridge of any other ships observed, which appear to be getting closer to your own ship."
+        ],
+        "correct_answer": "Inform the bridge of any new lights when they appear over the horizon or any other items observed which may affect the ship.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 141,
+        "question": "What is the main requirement of a lookout posted on the bridge?",
+        "answers": [
+            "Good eyesight and able to communicate with the OOW (officer on watch).",
+            "To see changing weather patterns.",
+            "To assess ship types.",
+            "To detect new targets when they break the line of horizon."
+        ],
+        "correct_answer": "Good eyesight and able to communicate with the OOW (officer on watch).",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 142,
+        "question": "If oil flows out of the bowl casing drain of a solids ejecting separator what is the most likely problem?",
+        "answers": [
+            "Oil has been fed to the separator before full speed.",
+            "The flow rate is too high.",
+            "The sludge tanks is full.",
+            "Insufficient amount of bowl closing water."
+        ],
+        "correct_answer": "Insufficient amount of bowl closing water.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 143,
+        "question": "On the figure possible definitions of the term “HEIGHT” are given. Which one is the correct one?",
+        "answers": [
+            "Height is given by D on the figure.",
+            "Height is given by C on the figure.",
+            "Height is given by B on the figure.",
+            "Height is given by A on the figure."
+        ],
+        "correct_answer": "Height is given by D on the figure.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2023/03/vessel_sheme.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 144,
+        "question": "By reduced transmitting power is meant in VHF a power between:",
+        "answers": [
+            "0,5-1 watt.",
+            "5-10 watt.",
+            "6-25 watt.",
+            "Don’t know."
+        ],
+        "correct_answer": "0,5-1 watt.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2023/03/gmdss.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 145,
+        "question": "During duplex mode you are able to:",
+        "answers": [
+            "Interrupt.",
+            "Not to interrupt.",
+            "Talk to two stations simultaneously.",
+            "Interrupt after releasing the PTT-switch."
+        ],
+        "correct_answer": "Interrupt.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 146,
+        "question": "The frequency 121,5 MHz is used for:",
+        "answers": [
+            "SARSAT-COSPAS EPIRBS.",
+            "INMARSAT E EPIRBS.",
+            "SART transpondeur.",
+            "DSS VHF calls."
+        ],
+        "correct_answer": "SARSAT-COSPAS EPIRBS.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2023/03/device.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 147,
+        "question": "The battery of an EPIRB should be changed:",
+        "answers": [
+            "Every 4 years.",
+            "Every 3 years.",
+            "Every 2 years.",
+            "Yearly."
+        ],
+        "correct_answer": "Every 4 years.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 148,
+        "question": "Emergency instructions in appropriate languages shall be posted in passenger cabins. Which information shall as a minimum be included in the emergency instructions?",
+        "answers": [
+            "The method of donning life-jackets, escape routes and alarm signals.",
+            "Name of cabin attendant.",
+            "Escape routes and alarm signals.",
+            "Where to find thermal protective aids."
+        ],
+        "correct_answer": "The method of donning life-jackets, escape routes and alarm signals.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 149,
+        "question": "Which one of the listed requirements regarding enclosures of totally enclosed lifeboats do not correspond to present regulation? The enclosures shall be provided with:",
+        "answers": [
+            "Windows on both sides which can be closed watertight and opened for ventilation.",
+            "Access hatches which can be closed watertight.",
+            "Arrangement for rowing.",
+            "Access hatches capable of being opened and closed from both sides."
+        ],
+        "correct_answer": "Windows on both sides which can be closed watertight and opened for ventilation.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 150,
+        "question": "On a RoRo vessel, when loading Double Stacked containers on Maffi Trailers how many twist locks should have used between 2 containers?",
+        "answers": [
+            "One on every corner, 4 in total.",
+            "One at each end, 2 in total.",
+            "One at each end, 2 in total.",
+            "Three in total, 2 at the door end, 1 at the opposite end."
+        ],
+        "correct_answer": "One on every corner, 4 in total.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 151,
+        "question": "At what calendar interval is a “Special Survey” required?",
+        "answers": [
+            "Beach.",
+            "Bleach.",
+            "Blanch.",
+            "Breach."
+        ],
+        "correct_answer": "Bleach.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 152,
+        "question": "Most fruit cargoes carried under refrigeration require introduction of fresh air into the cargo space to remove any excess carbon dioxide and ethylene produced by respiration of the cargo and sensors are fitted to detect these gases. Shipper’s instructions will often indicate “constant air change” as a requirement for a cargo. Why, even though this is a crude method for controlling the cargo space atmosphere, is this type of instruction given?",
+        "answers": [
+            "It is the standard method and it is always done that way for simplicity.",
+            "Fresh air helps to acclimatise the cargo to the prevailing ambient conditions.",
+            "Some cargoes are very sensitive to ethylene levels and it may be difficult to accurately measure the low levels that would affect a cargo.",
+            "As much fresh air as possible should always be introduced into the cargo space throughout the voyage to maintain cargo quality."
+        ],
+        "correct_answer": "Some cargoes are very sensitive to ethylene levels and it may be difficult to accurately measure the low levels that would affect a cargo.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 153,
+        "question": "When you are taking an “ullage” on a cargo tank on an oil tanker, what are you actually doing?",
+        "answers": [
+            "Measuring the distance from the surface of the cargo to the ullage reference point.",
+            "Measuring the distance from the bottom of the tank to the ullage reference point.",
+            "Measuring the distance from the bottom of the tank to the surface of cargo.",
+            "Measuring the distance from the surface of the cargo to the underside of the maindeck."
+        ],
+        "correct_answer": "Measuring the distance from the surface of the cargo to the ullage reference point.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 154,
+        "question": "In which provision of the Act is the responsibility of the master for the observation of the provisions relating to supervision of maritime service stated?",
+        "answers": [
+            "In Section 6 of the Act.",
+            "In Section 3 of the Act.",
+            "In Section 2 of the Act.",
+            "In Section 1 of the Act."
+        ],
+        "correct_answer": "In Section 6 of the Act.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 155,
+        "question": "Your vessel have been in collision with another vessel. You are taking in water and you have to prepare for leaving the vessel. How will you act?",
+        "answers": [
+            "Send a distress message and collect survival suits/thermal bags.",
+            "Collect your own personal belongings.",
+            "Just jump over board and be ready.",
+            "Assist your friends to collect their personal belongings."
+        ],
+        "correct_answer": "Send a distress message and collect survival suits/thermal bags.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 156,
+        "question": "What are the compressors fitted as part of the cargo system onboard LNG carriers normally used for?",
+        "answers": [
+            "Removing boil-off gas.",
+            "Inerting and gas freeing the cargo tanks.",
+            "Discharging the cargo.",
+            "Loading the cargo."
+        ],
+        "correct_answer": "Removing boil-off gas.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 157,
+        "question": "Having a CO2 alarm during normal working hours, what immediate action should be taken?",
+        "answers": [
+            "Ignore the alarm.",
+            "Get out of the engine room as soon as possible.",
+            "Awaiting further order.",
+            "Get into the control room."
+        ],
+        "correct_answer": "Get out of the engine room as soon as possible.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2023/03/co2-1.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 158,
+        "question": "Part of the outer surface of a refrigeration compressor crankcase and the refrigerant return line near the compressor ice up heavily during normal operation. Which of the options given is the most likely cause of this problem?",
+        "answers": [
+            "The superheat control setting for the thermostatic expansion valve is set too low.",
+            "The filter drier unit in the liquid line is partly blocked.",
+            "The seawater flow control valve for the condenser is faulty allowing insufficient cooling water flow.",
+            "The oil separator is not functioning correctly and is allowing lubricating oil to pass into the system."
+        ],
+        "correct_answer": "The superheat control setting for the thermostatic expansion valve is set too low.",
+        "images": [],
+        "explanation": "ශීතකරණ කොම්ප්‍රෙෂරයක පිටත මතුපිට සහ return line එක මත අධික ලෙස අයිස් තැන්පත් වීම සිදුවන්නේ Thermostatic Expansion Valve (TEV) එකෙහි Superheat අගය ඉතා අඩුවෙන් සකසා ඇති විටයි. මෙවිට වාෂ්පීකාරකයෙන් (Evaporator) පිටවන ශීතකරණ ද්‍රව්‍ය ප්‍රමාණවත් ලෙස රත් නොවන (Superheat නොවන) බැවින් ද්‍රවමය ශීතකරණ ද්‍රව්‍ය කෙළින්ම කොම්ප්‍රෙෂරය වෙත ගලා ඒමට පටන් ගනී (Liquid slugging). මෙය කොම්ප්‍රෙෂරයේ උෂ්ණත්වය ඉතා පහළ හෙළන අතර මතුපිට අයිස් බැඳීමට හේතු වේ. අනෙකුත් හේතු වන high superheat හෝ low charge නිසා සාමාන්‍යයෙන් සිසිලනය අඩු වීම මිස මෙවැනි අයිස් බැඳීමක් සිදු නොවේ."
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 159,
+        "question": "Which type of compressors is used as cargo compressors onboard gas carriers?",
+        "answers": [
+            "Oil free piston compressors.",
+            "Three stage piston compressors.",
+            "Piston, screw and centrifugal type compressors.",
+            "Three stage screw compressors."
+        ],
+        "correct_answer": "Piston, screw and centrifugal type compressors.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 160,
+        "question": "How will you calculate transverse accelerations?",
+        "answers": [
+            "Multiply the values taken from tables 2, 3 and 4 of the Cargo Stowage and Security (CSS) Code.",
+            "Multiply the values taken from tables 3 and 4 of the Cargo Stowage and Security (CSS) Code.",
+            "From formulae given in the Cargo Securing Manual (CSM).",
+            "Rule of thumb and past experience."
+        ],
+        "correct_answer": "Multiply the values taken from tables 2, 3 and 4 of the Cargo Stowage and Security (CSS) Code.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 161,
+        "question": "What is the main vitamin found in flour and grain products?",
+        "answers": [
+            "Vitamin A.",
+            "Vitamin B.",
+            "Vitamin C.",
+            "Vitamin D."
+        ],
+        "correct_answer": "Vitamin B.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 162,
+        "question": "Is it necessary to construct a passage plan (or voyage plan), for transiting a canal or river, when under pilot?",
+        "answers": [
+            "A passage plan is always required, irrespective of the length of the voyage, or if the ship is under pilot.",
+            "A passage plan is required only when there is no pilot on board.",
+            "A passage plan is required from departure from port to arrival at the pilot station at the destination.",
+            "A passage plan is required for all deep sea passages, but not for transiting a canal under pilotage."
+        ],
+        "correct_answer": "A passage plan is always required, irrespective of the length of the voyage, or if the ship is under pilot.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2023/03/suez.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 163,
+        "question": "How many lifebuoys can you expect to find on board a cargo ship of 190 metres in length (including those of the quick-release system)?",
+        "answers": [
+            "At least 8 distributed on both sides of the ship.",
+            "At least 10 distributed on both sides of the ship.",
+            "At least 12 distributed on both sides of the ship.",
+            "At least 14 distributed on both sides of the ship."
+        ],
+        "correct_answer": "At least 12 distributed on both sides of the ship.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2023/03/buoy.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 164,
+        "question": "Does the Health & Safety Executive (HSE) have authority in dealing with shipping matters?",
+        "answers": [
+            "The HSE has authority only where an interface exists between the ship and shore e. g. means of access regs. In a serious case, they would contact the local Marine Officer.",
+            "They can insist that alcohol/drug tests be carried out after an incident involving a ship or shipping.",
+            "They have exactly the same powers as that of a Marine Officer.",
+            "They have no legal responsibility over ships or shipping."
+        ],
+        "correct_answer": "The HSE has authority only where an interface exists between the ship and shore e. g. means of access regs. In a serious case, they would contact the local Marine Officer.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 165,
+        "question": "The following DSC was received (at what time received?) 27.05.1997 23:23 CALLED VHF CH70 FORMAT: DISTRESS DIST-ID: 367449000 N OF: UNDESG DISTRESS POSITION: N 52,43 E04.maj DIST-UTC: 00:00 TELECOM: G3E SIMP TEL EOS: EOS.",
+        "answers": [
+            "23:23.",
+            "00:00.",
+            "04:05.",
+            "Don’t know."
+        ],
+        "correct_answer": "23:23.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 166,
+        "question": "What should you do if the temperature of Hydrogen Peroxide Solution 65 % carried is raising 2 °C per 5 hours and the temperature is above 40 °C?",
+        "answers": [
+            "No special action to be taken.",
+            "To avoid uncontrolled decomposition the cargo should be discharged overboard.",
+            "The cargo should be heated up to 45 °C.",
+            "The cargo should be monitored closely for the next 12 hours."
+        ],
+        "correct_answer": "To avoid uncontrolled decomposition the cargo should be discharged overboard.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 167,
+        "question": "Searchlights must be provided for night navigation in the Suez Canal. Which of the listed requirements are correct?",
+        "answers": [
+            "Vessels with bulbous bow, LPG and LNG vessels must provide their own projector.",
+            "All vessels must provide their own projector.",
+            "Only projectors hired from the Canal Mooring and Light Company are permitted.",
+            "If vessels have their own projector, an extra fee will be levied on the vessel."
+        ],
+        "correct_answer": "Vessels with bulbous bow, LPG and LNG vessels must provide their own projector.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2023/03/suez.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 168,
+        "question": "The Master is responsible that all crew participate in monthly emergency drills. If 25 % of the crew (or more) has not participated in such drill during the last month, what is the time limit to conduct such a drill after the vessel has left a port?",
+        "answers": [
+            "Within 12 hrs.",
+            "Within 24 hrs.",
+            "Withing 30 hrs.",
+            "Within 48 hrs."
+        ],
+        "correct_answer": "Within 24 hrs.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 169,
+        "question": "If your vessel was to load sugar which of these situations would result in the cargo holds failing inspection?",
+        "answers": [
+            "Traces of insect infestation in the bilges.",
+            "Hardened rust spots on shell plating.",
+            "Hardened rust spots on the lower bulkhead stool and hopper tank plating.",
+            "Rust-stained tank top plating."
+        ],
+        "correct_answer": "Traces of insect infestation in the bilges.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 170,
+        "question": "A bulk carrier is loading to complete on summer draught of 10,00 m when in salt water; the vessel is loading in river water; The dock water allowance is 80 mm; The maximum draught when loading is completed is:",
+        "answers": [
+            "10,80 metres.",
+            "11,24 metres.",
+            "9,92 metres.",
+            "10,08 metres."
+        ],
+        "correct_answer": "10,08 metres.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Operational, Support",
+        "index": 171,
+        "question": "Which of this information must be included in a piracy attack alert?",
+        "answers": [
+            "Your ship’s name and call sign.",
+            "The number of crew onboard.",
+            "The number of pirates/highjackers.",
+            "The type of weapons being carried by the pirates/highjackers."
+        ],
+        "correct_answer": "Your ship’s name and call sign.",
+        "images": [],
+        "explanation": ""
+    }
+]

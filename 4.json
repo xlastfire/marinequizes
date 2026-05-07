@@ -1,0 +1,1123 @@
+[
+    {
+        "category": "CES – Engine, Management, Electronics and Automation",
+        "index": 1,
+        "question": "Which of the following is the minimum acceptable value of insulation resistance for High Voltage equipment?",
+        "answers": [
+            "1 G Ohms.",
+            "1 M Ohms.",
+            "1 k Ohms.",
+            "1 M Ohms.",
+            "I don’t know."
+        ],
+        "correct_answer": "1 M Ohms.",
+        "images": [
+            "https://sea-man.org/icons/ces_resi1.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Electronics and Automation",
+        "index": 2,
+        "question": "Which device does this graphical symbol illustrate?",
+        "answers": [
+            "Rectifier.",
+            "Differential pressure transmitter.",
+            "Inverter.",
+            "Pressure to the current converter.",
+            "I don’t know."
+        ],
+        "correct_answer": "Pressure to the current converter.",
+        "images": [
+            "https://sea-man.org/icons/ces_device.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Electronics and Automation",
+        "index": 3,
+        "question": "High Voltage systems rely on the installed protective equipment being able to interrupt any fault in the system. Throughout the system, the fault level has been calculated, and under no circumstances must the system be modified to exceed this fault level. What is meant by fault level?",
+        "answers": [
+            "The amount of apparent power that could flow into any fault at any point in the electrical network.",
+            "The current level flows into a dead short to earth at any point on the ship, directly from the High Voltage system.",
+            "The current level flows into a symmetrical short circuit fault between all three phases."
+        ],
+        "correct_answer": "The amount of apparent power that could flow into any fault at any point in the electrical network.",
+        "images": [
+            "https://sea-man.org/icons/ces_resi2.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Electronics and Automation",
+        "index": 4,
+        "question": "When there is a need to interrupt current flow in a High Voltage system it may be very difficult to quench the electrical arc, which is generated at the circuit breaker contacts. Which of the following among media is commonly found in High Voltage marine switchgear?",
+        "answers": [
+            "Vacuum.",
+            "Air.",
+            "Oil."
+        ],
+        "correct_answer": "Vacuum.",
+        "images": [
+            "https://sea-man.org/icons/ces_resi3.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Electronics and Automation",
+        "index": 5,
+        "question": "A High Breaking Capacity fuse found in a Main High Voltage Switchboard will typically have fault level rating of:",
+        "answers": [
+            "40 kA.",
+            "4 000 A.",
+            "40 A."
+        ],
+        "correct_answer": "40 kA.",
+        "images": [
+            "https://sea-man.org/icons/ces_fuse.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Electronics and Automation",
+        "index": 6,
+        "question": "“Protective discrimination” means the progressive grading of sizes, or tripping times of:",
+        "answers": [
+            "Line fuses and overcurrent relays.",
+            "Generators and motors.",
+            "Magnetic and thermal current transformers."
+        ],
+        "correct_answer": "Line fuses and overcurrent relays.",
+        "images": [
+            "https://sea-man.org/icons/ces_protective.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Electronics and Automation",
+        "index": 7,
+        "question": "This is a typical emitter follower. What is the main reason for use of an emitter follower?",
+        "answers": [
+            "The input impedance is made much larger than the output impedance.",
+            "The V out is always equivalent to the V in.",
+            "The collector can be connected to as high voltage as 10 V DC."
+        ],
+        "correct_answer": "The input impedance is made much larger than the output impedance.",
+        "images": [
+            "https://sea-man.org/icons/ces_emmiter.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Electronics and Automation",
+        "index": 8,
+        "question": "The amplifier circuit is a common configuration used to amplify the difference in voltage between two input signals. In this case input 1 and 2. What is an amplifier called?",
+        "answers": [
+            "Common emitter amplifier.",
+            "Push-pull amplifier.",
+            "Darlington connection amplifier.",
+            "Differential amplifier.",
+            "I don’t know."
+        ],
+        "correct_answer": "Differential amplifier.",
+        "images": [
+            "https://sea-man.org/icons/ces_amplify.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Electronics and Automation",
+        "index": 9,
+        "question": "Which of the functions shown is this operational amplifier circuit performing?",
+        "answers": [
+            "Inverting amplifier.",
+            "Differentiator.",
+            "Non-inverting amplifier.",
+            "Integrator.",
+            "I don’t know."
+        ],
+        "correct_answer": "Integrator.",
+        "images": [
+            "https://sea-man.org/icons/ces_integrator.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Electronics and Automation",
+        "index": 10,
+        "question": "Which function is this operational amplifier circuit performing?",
+        "answers": [
+            "Inverting amplifier.",
+            "Differentiator.",
+            "Non-inverting amplifier.",
+            "Integrator.",
+            "I don’t know."
+        ],
+        "correct_answer": "Differentiator.",
+        "images": [
+            "https://sea-man.org/icons/ces_dif.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Electronics and Automation",
+        "index": 11,
+        "question": "The figure shows a silicon controlled rectifier with a RC circuit connected in parallel. What is the purpose of the RC circuit?",
+        "answers": [
+            "Measuring the current through the SCR.",
+            "Protect the SCR against damage caused by fast high voltage spikes.",
+            "Obtain current resonance.",
+            "Provide a controlled time delay for the SCR trigger pulse.",
+            "I don’t know."
+        ],
+        "correct_answer": "Protect the SCR against damage caused by fast high voltage spikes.",
+        "images": [
+            "https://sea-man.org/icons/ces_dif.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Electronics and Automation",
+        "index": 12,
+        "question": "This is a parallel L-C circuit with a curve showing frequency – impedance characteristics. Which of the formulas gives the resonant frequency fo?",
+        "answers": [
+            "fo = 1/(Pi*sqrt(1-LC)).",
+            "fo = 1/(2*Pi*sqrt(L/C)).",
+            "fo = Pi*sqrt(L/C)/C.",
+            "fo = 1/(sqrt(1-LC)).",
+            "I don’t know."
+        ],
+        "correct_answer": "fo = 1/(2*Pi*sqrt(L/C)).",
+        "images": [
+            "https://sea-man.org/icons/ces_circuit.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Electronics and Automation",
+        "index": 13,
+        "question": "Ordinary thyristors (SCR) must often be protected against reverse overvoltage transients, because even over-voltages of extremely short duration can destroy them. These SCRs have been given such over-voltage protection, but only one of them is correct. Which?",
+        "answers": [
+            "Figure 2.",
+            "Figure 1.",
+            "Figure 4.",
+            "Figure 3.",
+            "I don’t know."
+        ],
+        "correct_answer": "Figure 1.",
+        "images": [
+            "https://sea-man.org/icons/ces_scr.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Electronics and Automation",
+        "index": 14,
+        "question": "These circuits are all active filters. Which of the circuits is a low-pass filter?",
+        "answers": [
+            "Figure A.",
+            "Figure C.",
+            "Figure D.",
+            "Figure B.",
+            "I don’t know."
+        ],
+        "correct_answer": "Figure B.",
+        "images": [
+            "https://sea-man.org/icons/ces_filter.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Electronics and Automation",
+        "index": 15,
+        "question": "Diodes are widely used in rectification, or the convention of alternating current to direct current. The sinusoidal input voltage V (in) is applied to the circuit shown. Which of the output voltages is correct?",
+        "answers": [
+            "Figure 4.",
+            "Figure 2.",
+            "Figure 3.",
+            "Figure 1.",
+            "I don’t know."
+        ],
+        "correct_answer": "Figure 1.",
+        "images": [
+            "https://sea-man.org/icons/ces_output.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Electronics and Automation",
+        "index": 16,
+        "question": "The circuit symbol is a driver for a solenoid (coil) of a solenoid valve S. What is the purpose of the diode IN 4 002 connected in parallel to the solenoid S?",
+        "answers": [
+            "Allowing stored energy in solenoid to dissipate as freewheel current, and therefore prevent damage to transistor from inductive switching voltage.",
+            "Making voltage drop of approximately 0,5 V between the operational amplifier and the transistor 2N5194 to assist transistor biasing.",
+            "Open circuit for current flow between the operational amplifier and the transistor 2N5194."
+        ],
+        "correct_answer": "Allowing stored energy in solenoid to dissipate as freewheel current, and therefore prevent damage to transistor from inductive switching voltage.",
+        "images": [
+            "https://sea-man.org/icons/ces_solenoid.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Electronics and Automation",
+        "index": 17,
+        "question": "The diode shown performs which function?",
+        "answers": [
+            "Return inductive current to supply at switch off.",
+            "Reference the transistor to +15 V.",
+            "Provide an overload route for transistor current.",
+            "Allow Op Amp to top up +15 V rail.",
+            "I don’t know."
+        ],
+        "correct_answer": "Return inductive current to supply at switch off.",
+        "images": [
+            "https://sea-man.org/icons/ces_diode.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Electronics and Automation",
+        "index": 18,
+        "question": "The circuit shown is a logic gate with two “high” input signals, A and B, and one output signal Q. Which type of logic function does the gate provide?",
+        "answers": [
+            "OR gate.",
+            "NAND gate.",
+            "AND gate.",
+            "NOR gate.",
+            "I don’t know."
+        ],
+        "correct_answer": "OR gate.",
+        "images": [
+            "https://sea-man.org/icons/ces_gate.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Electronics and Automation",
+        "index": 19,
+        "question": "The wheatstone resistance bridge is often used for measuring resistances in, for example, Pt 100 temperature sensors or strain gauges. This figure shows such a bridge. Under what conditions will the bridge be balanced? I.e. the current through the meter i(m) = 0.",
+        "answers": [
+            "R1/R2 = R3/R4.",
+            "R1+R3 = R2+R4.",
+            "R1/R4 = R2/R3.",
+            "R1*R3 = R2*R4.",
+            "I don’t know."
+        ],
+        "correct_answer": "R1/R2 = R3/R4.",
+        "images": [
+            "https://sea-man.org/icons/ces_resi4.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Electronics and Automation",
+        "index": 20,
+        "question": "What function is this circuit performing?",
+        "answers": [
+            "Differentiating.",
+            "Modulating.",
+            "Telemetering.",
+            "Integrating.",
+            "I don’t know."
+        ],
+        "correct_answer": "Differentiating.",
+        "images": [
+            "https://sea-man.org/icons/ces_dif2.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Electronics and Automation",
+        "index": 21,
+        "question": "This graphical symbol is a logic gate. Which type of gate?",
+        "answers": [
+            "AND.",
+            "OR.",
+            "NOR.",
+            "NAND.",
+            "I don’t know."
+        ],
+        "correct_answer": "AND.",
+        "images": [
+            "https://sea-man.org/icons/ces_gate2.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Electronics and Automation",
+        "index": 22,
+        "question": "An important quantity which is useful in circuit analysis is known as conductance G (Siemens). Which of the formulas express the conductance for this circuit?",
+        "answers": [
+            "G = 1/R.",
+            "G = R*I.",
+            "G = 2R.",
+            "G = I/R.",
+            "I don’t know."
+        ],
+        "correct_answer": "G = 1/R.",
+        "images": [
+            "https://sea-man.org/icons/ces_siemens.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Electronics and Automation",
+        "index": 23,
+        "question": "A 5 V DC source has an internal impedance of 0,2 ohms. When a load of 2,3 ohms is applied what voltage will be measured at the source terminals?",
+        "answers": [
+            "4,6 V.",
+            "4,8 V.",
+            "5,2 V.",
+            "5,0 V.",
+            "I don’t know."
+        ],
+        "correct_answer": "4,6 V.",
+        "images": [
+            "https://sea-man.org/icons/ces_dc.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Electronics and Automation",
+        "index": 24,
+        "question": "What principle of measurement are viscosity controllers usually based upon?",
+        "answers": [
+            "Measurement of flow.",
+            "Measurement of two different temperatures.",
+            "Measurement of temperature.",
+            "Measurement of differential pressure.",
+            "I don’t know."
+        ],
+        "correct_answer": "Measurement of differential pressure.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Electronics and Automation",
+        "index": 25,
+        "question": "What is the maximum current that a 15 V, 3 Watt Zener diode can handle without damage?",
+        "answers": [
+            "0,2 A.",
+            "0,45 A.",
+            "0,5 A.",
+            "20 A.",
+            "I don’t know."
+        ],
+        "correct_answer": "0,2 A.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Electronics and Automation",
+        "index": 26,
+        "question": "The inductance, which will induce an EMF of 1 Volt in a conductor, when the current is changing at a rate of 1 Amp per second, is defined as:",
+        "answers": [
+            "One Henry.",
+            "One Reactance Unit.",
+            "One milliHenry.",
+            "One Farad.",
+            "I don’t know."
+        ],
+        "correct_answer": "One Henry.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Electronics and Automation",
+        "index": 27,
+        "question": "The typical current gain for a common emitter transistor is:",
+        "answers": [
+            "10-200.",
+            "1-5.",
+            "500-5 000.",
+            "1-100 000.",
+            "I don’t know."
+        ],
+        "correct_answer": "10-200.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Electronics and Automation",
+        "index": 28,
+        "question": "The instrument most widely used for testing of semiconductor diodes is:",
+        "answers": [
+            "Multi-meter.",
+            "Voltmeter.",
+            "Ammeter.",
+            "Oscilloscope.",
+            "I don’t know."
+        ],
+        "correct_answer": "Multi-meter.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Electronics and Automation",
+        "index": 29,
+        "question": "A 6-Volt DC relay is to be used with a 12-Volt power supply. The relay requires a current of 0,1 Amp. What is the series resistance required?",
+        "answers": [
+            "60 Ohm.",
+            "80 Ohm.",
+            "480 Ohm.",
+            "120 Ohm.",
+            "I don’t know."
+        ],
+        "correct_answer": "60 Ohm.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Electronics and Automation",
+        "index": 30,
+        "question": "Some ships generate electrical power at 440 V, but then step up this voltage to supply specific electrical equipment. One common example, may be to feed a large bow thruster. Why is this done?",
+        "answers": [
+            "The overall ship’s electrical load does not justify a High Voltage generating plant. This method allows more power to be delivered to the bow thruster at low running cost.",
+            "Manufacturers can supply High Voltage bow thrusters at less cost, and the power factor is improved.",
+            "A large bow thruster will draw very large currents at low voltage. Being typically remote from the generator, significant voltage drops would occur at low voltage.",
+            "The shipyard could not purchase a High Voltage generating plant at the time of manufacture, so they used what was available at the time.",
+            "I don’t know."
+        ],
+        "correct_answer": "A large bow thruster will draw very large currents at low voltage. Being typically remote from the generator, significant voltage drops would occur at low voltage.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Electronics and Automation",
+        "index": 31,
+        "question": "When work must be done on High Voltage equipment, it is vital that the equipment is earthed (grounded) after isolation procedures have been carried out. Why is this?",
+        "answers": [
+            "To provide a reference point, and so ensure accuracy of any test results.",
+            "To ensure that it is dead, even if there was a flaw in the isolation procedure.",
+            "To ensure that no energy remains in the system, and that it cannot be recharged by external influences.",
+            "To ensure that the equipment does not overheat due to currents circulating through earth (ground).",
+            "I don’t know."
+        ],
+        "correct_answer": "To ensure that no energy remains in the system, and that it cannot be recharged by external influences.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Electronics and Automation",
+        "index": 32,
+        "question": "When selecting switchgear to work with High Voltage it is important to use an appropriate arcing medium. What is meant by arcing medium?",
+        "answers": [
+            "The gas, liquid or vapor, which will minimize creation of an electric arc as contacts open.",
+            "Equipment, which communicates information about the arcing.",
+            "A material, which assists a welding process.",
+            "I don’t know."
+        ],
+        "correct_answer": "The gas, liquid or vapor, which will minimize creation of an electric arc as contacts open.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Electronics and Automation",
+        "index": 33,
+        "question": "Sometimes an early warning of failure in High Voltage switchboards may be an unpleasant smell. If the switchboard uses gas circuit breakers, which of the following may indicate a potential problem?",
+        "answers": [
+            "Rotten eggs.",
+            "Rotten fish.",
+            "Chlorine.",
+            "Gas oil.",
+            "I don’t know."
+        ],
+        "correct_answer": "Rotten eggs.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Electronics and Automation",
+        "index": 34,
+        "question": "A ship’s electrical system operates at 60 Hz, but when connected to shore supply it is supplied with 50 Hz. Which of the following would you expect?",
+        "answers": [
+            "Electric motors will run at reduced speed, and will tend to overheat.",
+            "Earth faults are more likely.",
+            "Electric motors will run at increased speed and will tend to overheat.",
+            "Generators are more sensitive to reverse power faults.",
+            "I don’t know."
+        ],
+        "correct_answer": "Electric motors will run at reduced speed, and will tend to overheat.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Electronics and Automation",
+        "index": 35,
+        "question": "When starting three phase induction motors there is sometimes a need to use a star-delta starter. A star-delta starter exhibits the following characteristics while connected in a star.",
+        "answers": [
+            "Reduced current and increased voltage.",
+            "Reduced current and reduced torque.",
+            "Increased current and power.",
+            "Reduced current and increased speed.",
+            "I don’t know."
+        ],
+        "correct_answer": "Reduced current and reduced torque.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Electronics and Automation",
+        "index": 36,
+        "question": "A 3-phase cage rotor induction motor requires protection by a time delay overload trip. What is the reason for this?",
+        "answers": [
+            "Fuses act too quickly.",
+            "Fuses act too slowly.",
+            "It will allow for inrush current, or motor specific faults.",
+            "It will tolerate fault conditions during start up.",
+            "I don’t know."
+        ],
+        "correct_answer": "It will allow for inrush current, or motor specific faults.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Electronics and Automation",
+        "index": 37,
+        "question": "A cable has a resistance of 100 milli-ohms. It supplies a 300 A load over a distance of 100 meters. What is the voltage drop along it’s length?",
+        "answers": [
+            "3,0 volts.",
+            "300 volts.",
+            "30 volts.",
+            "300 millivolts.",
+            "I don’t know."
+        ],
+        "correct_answer": "30 volts.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Electronics and Automation",
+        "index": 38,
+        "question": "Low voltage ships tend to have insulated neutral systems. What is the reason for this?",
+        "answers": [
+            "In the event of an earth fault vital equipment will not trip.",
+            "It’s easier to detect faults.",
+            "If the neutral is not insulated, then it may short to other conductors.",
+            "It’s more effective than insulating the live conductor.",
+            "I don’t know."
+        ],
+        "correct_answer": "In the event of an earth fault vital equipment will not trip.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Electronics and Automation",
+        "index": 39,
+        "question": "Power is available at a three-phase motor starter, but nothing happens (at starter or motor) when the start button is operated. Which of the following is a likely cause?",
+        "answers": [
+            "Faulty contactor coil.",
+            "Open circuit in one of the motor cables.",
+            "Motor disconnected.",
+            "Faulty overcurrent relay.",
+            "I don’t know."
+        ],
+        "correct_answer": "Faulty contactor coil.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Electronics and Automation",
+        "index": 40,
+        "question": "The continuity resistance of a 100 m long x 25 sq. mm cable (rated at 100 A) is to be checked. Which of the following results would you anticipate?",
+        "answers": [
+            "Between 0,1 and 1,0 Ohm.",
+            "Between 0,1 and 1,0 M Ohm.",
+            "Greater than 1 M Ohm.",
+            "Between 0,1 micro Ohm and 1,0 micro Ohm.",
+            "I don’t know."
+        ],
+        "correct_answer": "Between 0,1 and 1,0 Ohm.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Electronics and Automation",
+        "index": 41,
+        "question": "When performing electrical testing of a three phase motor, insulation resistance measurements may be influenced by which of the following?",
+        "answers": [
+            "Temperature, humidity and surface contamination.",
+            "Humidity, frequency and dampness.",
+            "Humidity, pressure and surface contamination.",
+            "Between 0,1 micro Ohm and 1,0 micro Ohm.",
+            "I don’t know."
+        ],
+        "correct_answer": "Temperature, humidity and surface contamination.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Electronics and Automation",
+        "index": 42,
+        "question": "A transformer overheats while taking a shore supply. Which is the likely cause?",
+        "answers": [
+            "Incorrect voltage.",
+            "Incorrect frequency.",
+            "Incorrect earthing.",
+            "Incorrect current.",
+            "I don’t know."
+        ],
+        "correct_answer": "Incorrect frequency.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Electronics and Automation",
+        "index": 43,
+        "question": "Continuity testing of a delta connected three phase induction motor yields the following results; U1-V1 = 4 Ohms, V1-W1 = 4 Ohms, W1-U1 = 4 Ohms. What is the value of continuity resistance for each winding i. e. U1-U2?",
+        "answers": [
+            "12 Ohms.",
+            "6 Ohms.",
+            "2 Ohms.",
+            "4 Ohms.",
+            "I don’t know."
+        ],
+        "correct_answer": "6 Ohms.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Electronics and Automation",
+        "index": 44,
+        "question": "When considering instrumentation systems, what is a typical symptom of a fault with the span of an instrument?",
+        "answers": [
+            "100 % output is accurate, but Zero-point is wrong.",
+            "Linearity problems.",
+            "Zero-point and 100 % are correct, but not at mid-range.",
+            "Zero-point is accurate, but 100 % input is not giving 100 % output.",
+            "I don’t know."
+        ],
+        "correct_answer": "Zero-point is accurate, but 100 % input is not giving 100 % output.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Electronics and Automation",
+        "index": 45,
+        "question": "Continuity testing of a delta connected three phase induction motor yields the following results: U-V = 3 Ohms, V-W = 3 Ohms, W-U = 6 Ohms. Which of the following is the likely condition?",
+        "answers": [
+            "Short circuit between V and Earth.",
+            "Open circuit winding between W and U.",
+            "Partial fault between W and U.",
+            "Short circuit winding between W and U.",
+            "I don’t know."
+        ],
+        "correct_answer": "Open circuit winding between W and U.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Electronics and Automation",
+        "index": 46,
+        "question": "A 250 V contactor has been fitted to a 220 V supply. Which of the following symptoms might be observed?",
+        "answers": [
+            "Contactor won’t operate.",
+            "Contactor chattering (vibrating).",
+            "Contactor constantly on.",
+            "Contactor overheating.",
+            "I don’t know."
+        ],
+        "correct_answer": "Contactor chattering (vibrating).",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Electronics and Automation",
+        "index": 47,
+        "question": "Routine maintenance insulation testing of a three-phase induction motor should cover which measurements?",
+        "answers": [
+            "U1-U2, V1-V2, W1-W2, U-E, V-E, W-E.",
+            "U-E, V-E, W-E, U-V, V-W, W-U.",
+            "U-V-W-E.",
+            "AA-E, ZZ-E.",
+            "I don’t know."
+        ],
+        "correct_answer": "U-E, V-E, W-E, U-V, V-W, W-U.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Electronics and Automation",
+        "index": 48,
+        "question": "When measuring level of liquids with a conductivity level indicator, measurement is performed by:",
+        "answers": [
+            "Capacitance probe.",
+            "Electrodes.",
+            "Ionization chamber.",
+            "Displacement probe.",
+            "I don’t know."
+        ],
+        "correct_answer": "Electrodes.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Electronics and Automation",
+        "index": 49,
+        "question": "When considering instrumentation systems, what is the meaning of the expression “dead-band”?",
+        "answers": [
+            "The controller will not react to a process change in this range.",
+            "It will take some time before the controller will react to a change.",
+            "The controller will enter “sleep mode”.",
+            "The controller will not respond to adjustment of set-point.",
+            "I don’t know."
+        ],
+        "correct_answer": "The controller will not react to a process change in this range.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Electronics and Automation",
+        "index": 50,
+        "question": "What should be the healthy continuity resistance of a 220 V, 2,2 kW, 10 A heating element, when checked near to it’s rated operating temperature?",
+        "answers": [
+            "22 Ohms.",
+            "0,1 Ohms.",
+            "220 Ohms.",
+            "10 Ohms.",
+            "I don’t know."
+        ],
+        "correct_answer": "22 Ohms.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Electronics and Automation",
+        "index": 51,
+        "question": "A thermistor, which provides feedback for a thermal control system, is suspected to have failed. Assuming there is no available replacement, which of the following methods may be used to prove it has failed?",
+        "answers": [
+            "Disconnect the thermocouple lead from the controller, and replace it with a mA source.",
+            "Connect a mA source in parallel with the thermocouple connections.",
+            "Connect a mV source in parallel with the thermocouple connections.",
+            "Disconnect the thermocouple lead from the controller, and replace it with a mV source.",
+            "I don’t know."
+        ],
+        "correct_answer": "Disconnect the thermocouple lead from the controller, and replace it with a mV source.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Electronics and Automation",
+        "index": 52,
+        "question": "A triac is used to provide temperature control of an oven. The galley complains that the oven only reaches approximately 50 % of demanded temperature. Which of the following is a likely cause?",
+        "answers": [
+            "The triac has completely failed.",
+            "The voltage supply to the oven controller is reduced by about 50 %.",
+            "Connection between the demand knob and the triac gate terminal has gone open circuit.",
+            "One of the main switching elements in the triac has failed.",
+            "I don’t know."
+        ],
+        "correct_answer": "One of the main switching elements in the triac has failed.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Electronics and Automation",
+        "index": 53,
+        "question": "The coil of a 12 V, 120 mA DC relay must be connected across a 24 V supply. What action should be taken?",
+        "answers": [
+            "Install a 100 Ohm resistor in parallel with the coil.",
+            "Install a 100 k Ohm resistor in parallel with the coil.",
+            "Install a 100 k Ohm resistor in series with the coil.",
+            "Install a 100 Ohm resistor in series with the coil.",
+            "I don’t know."
+        ],
+        "correct_answer": "Install a 100 Ohm resistor in series with the coil.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Electronics and Automation",
+        "index": 54,
+        "question": "A galley hot plate uses a Nichrome/Magnesium Oxide heating element, and is to be tested before being put into service for the first time. An insulation resistance test yields a reading of 0,3 M Ohm. Which action should be taken?",
+        "answers": [
+            "Discard the element.",
+            "Put the element into service.",
+            "Wash the element in a degreaser agent. Then retest, and if ok put it into service.",
+            "Apply reduced voltage to the element for a few minutes. Then retest, and if ok put into service.",
+            "I don’t know."
+        ],
+        "correct_answer": "Apply reduced voltage to the element for a few minutes. Then retest, and if ok put into service.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Electronics and Automation",
+        "index": 55,
+        "question": "What kind of electrolyte is used for Nickel-iron batteries?",
+        "answers": [
+            "Solution of sodium and water.",
+            "Solution of zinc-carbon and water.",
+            "Solution of sulphuric acid and water.",
+            "Solution of potassium hydroxide (KOH) and water.",
+            "I don’t know."
+        ],
+        "correct_answer": "Solution of potassium hydroxide (KOH) and water.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Electronics and Automation",
+        "index": 56,
+        "question": "Two reference points for pressure exist, absolute zero and atmospheric pressure. What are pressures measured relative to absolute zero called:",
+        "answers": [
+            "Pressure drop.",
+            "Gauge pressure.",
+            "Vacuum pressure.",
+            "Absolute pressure.",
+            "I don’t know."
+        ],
+        "correct_answer": "Absolute pressure.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Electronics and Automation",
+        "index": 57,
+        "question": "A transformer rated at 22 kVA, 440/220 Volts, 60 Hz, is used to step down the voltage to a lighting system. The low tension voltage is to be kept constant at 220 Volts. What load impedance connected to the low-tension side will cause the transformer to be fully loaded?",
+        "answers": [
+            "220 Ohms.",
+            "0,22 Ohms.",
+            "22 Ohms.",
+            "2,2 Ohms.",
+            "I don’t know."
+        ],
+        "correct_answer": "2,2 Ohms.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Electronics and Automation",
+        "index": 58,
+        "question": "In the circuit diagram shown the starter connects between which terminals?",
+        "answers": [
+            "7 and 8.",
+            "3 and 4.",
+            "1 and 2.",
+            "5 and 6.",
+            "I don’t know."
+        ],
+        "correct_answer": "5 and 6.",
+        "images": [
+            "https://sea-man.org/icons/ces_starter.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Electronics and Automation",
+        "index": 59,
+        "question": "What is the advantage of a transmitter with a narrow measurement range?",
+        "answers": [
+            "Do not need any calibration.",
+            "Easy installation.",
+            "Better linearity and increased accuracy.",
+            "Lower purchase cost.",
+            "I don’t know."
+        ],
+        "correct_answer": "Better linearity and increased accuracy.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Electronics and Automation",
+        "index": 60,
+        "question": "Some automated control systems use a master controller and a slave controller. What is the meaning of “remote mode” related to a slave controller?",
+        "answers": [
+            "The slave controller can be turned by a hand carried remote controller.",
+            "The slave controller can be in any mode of operation.",
+            "The slave controller receives the set-point from the output signal of the master controller.",
+            "The slave controller can be turned from the engine control room.",
+            "I don’t know."
+        ],
+        "correct_answer": "The slave controller receives the set-point from the output signal of the master controller.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Electronics and Automation",
+        "index": 61,
+        "question": "When turning a cascade control system, which of the following actions should be done first?",
+        "answers": [
+            "Adjust the slave controller with the master controller in manual mode.",
+            "Adjust both controllers at the same time.",
+            "Adjust the slave controller with the master controller in auto mode.",
+            "Adjust the master controller with the slave controller disabled.",
+            "I don’t know."
+        ],
+        "correct_answer": "Adjust the slave controller with the master controller in manual mode.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Electronics and Automation",
+        "index": 62,
+        "question": "In the context of an automated process control system, what is understood by the expression Master Controller?",
+        "answers": [
+            "The primary controller in a cascade control system.",
+            "The captain’s controller.",
+            "State of the art controller.",
+            "The best possible control system.",
+            "I don’t know."
+        ],
+        "correct_answer": "The primary controller in a cascade control system.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Electronics and Automation",
+        "index": 63,
+        "question": "In which of the following automated control processes will the time constant be of minor importance?",
+        "answers": [
+            "Level control.",
+            "Flow control.",
+            "Temperature control.",
+            "Pressure control.",
+            "I don’t know."
+        ],
+        "correct_answer": "Level control.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Electronics and Automation",
+        "index": 64,
+        "question": "In terms of automated control systems, what is typical for a continuous control system?",
+        "answers": [
+            "It is possible to predict the control mathematically.",
+            "The control valve will always be changing position.",
+            "It is not possible to have a stable process.",
+            "The output signal is equal to the input signal.",
+            "I don’t know."
+        ],
+        "correct_answer": "It is possible to predict the control mathematically.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Electronics and Automation",
+        "index": 65,
+        "question": "Which of the following is typical for a feed-forward control system?",
+        "answers": [
+            "Mathematical calculation of the system response.",
+            "Easy to obtain a perfect control.",
+            "Control of the process inlet side.",
+            "The process continually oscillates.",
+            "I don’t know."
+        ],
+        "correct_answer": "Control of the process inlet side.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Electronics and Automation",
+        "index": 66,
+        "question": "In the context of an automated control system, which controller must be tuned first in a cascade control system?",
+        "answers": [
+            "Any one of them.",
+            "Both at the same time.",
+            "The secondary controller.",
+            "The primary controller.",
+            "I don’t know."
+        ],
+        "correct_answer": "The secondary controller.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Electronics and Automation",
+        "index": 67,
+        "question": "When measuring viscosity with a restricted flow viscometer, the preferred sensing device is:",
+        "answers": [
+            "Bourdon tube.",
+            "Rotating cylinder.",
+            "Capillary tube.",
+            "Capacitance probe.",
+            "I don’t know."
+        ],
+        "correct_answer": "Capillary tube.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Electronics and Automation",
+        "index": 68,
+        "question": "The circuit diagrams illustrate four different methods of wiring between a Pt 100 temperature sensor and its signal processing electronics. Which of the wiring methods gives the best measuring accuracy?",
+        "answers": [
+            "Figure 2.",
+            "Figure 4.",
+            "Figure 1.",
+            "Figure 3.",
+            "I don’t know."
+        ],
+        "correct_answer": "Figure 1.",
+        "images": [
+            "https://sea-man.org/icons/ces_accuracy.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Electronics and Automation",
+        "index": 69,
+        "question": "In what kind of measuring equipment might we find a Bourdon-tube?",
+        "answers": [
+            "In a flow meter.",
+            "In a pressure transmitter.",
+            "In a temperature transmitter.",
+            "In an A/D converter.",
+            "I don’t know."
+        ],
+        "correct_answer": "In a pressure transmitter.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Electronics and Automation",
+        "index": 70,
+        "question": "Which of the following detectors is preferred for detecting smoke from fire?",
+        "answers": [
+            "Thermocouple.",
+            "Ionization type.",
+            "Strain gauge.",
+            "Thermometer.",
+            "I don’t know."
+        ],
+        "correct_answer": "Ionization type.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Electronics and Automation",
+        "index": 71,
+        "question": "Which type of temperature sensor is used in this temperature measuring system shown?",
+        "answers": [
+            "Platinum resistance sensor.",
+            "Thermocouple sensor.",
+            "Thermistor sensor.",
+            "Quartz sensor.",
+            "I don’t know."
+        ],
+        "correct_answer": "Thermocouple sensor.",
+        "images": [
+            "https://sea-man.org/icons/ces_meter.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Electronics and Automation",
+        "index": 72,
+        "question": "Which electronic component or system is this graphical symbol illustrating?",
+        "answers": [
+            "Transformer with ferromagnetic core.",
+            "Electric heater.",
+            "3-phase sine-wave generator.",
+            "Bandpass filter.",
+            "I don’t know."
+        ],
+        "correct_answer": "Bandpass filter.",
+        "images": [
+            "https://sea-man.org/icons/ces_symbol.jpg"
+        ],
+        "explanation": ""
+    }
+]

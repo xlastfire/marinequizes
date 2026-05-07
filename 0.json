@@ -1,0 +1,1597 @@
+[
+    {
+        "category": "CES – Cargo Handling and Stowage, Management, Oil Tanker",
+        "index": 1,
+        "question": "If all indications are that a cargo has been received without damages, irregularities or short shipment and the phrase “apparent good order and condition” is entered on the Bill of Lading, then this Bill is this said to be:",
+        "answers": [
+            "A clean Bill of Lading.",
+            "A Bill of Lading completed for shipment.",
+            "An endorsed Bill of Lading.",
+            "A Due Title Bill of Lading."
+        ],
+        "correct_answer": "A clean Bill of Lading.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Cargo Handling and Stowage, Management, Oil Tanker",
+        "index": 2,
+        "question": "As per the IMDG Code, “Proper Shipping Name” is defined as:",
+        "answers": [
+            "The name to be used in any documentation relating to the transportation of the dangerous substance, material or article, such as on forms, labels and placards.",
+            "The correct chemical name of a potentially hazardous material, as identified from the Chemical Cargo List.",
+            "The name under which a dangerous material, substance or article is described for export purposes in the country of loading.",
+            "The name assigned by the manufacturer to a material, substance or article for the purposes of shipment."
+        ],
+        "correct_answer": "The name to be used in any documentation relating to the transportation of the dangerous substance, material or article, such as on forms, labels and placards.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Cargo Handling and Stowage, Management, Oil Tanker",
+        "index": 3,
+        "question": "As per the IMDG Code, an “article” is referred to as:",
+        "answers": [
+            "A device that contains a dangerous substance or mixture of substances.",
+            "Something that is packed within a freight container.",
+            "A device that is responsible for initiating a dangerous reaction.",
+            "A form that contains important information about a hazardous substance."
+        ],
+        "correct_answer": "A device that contains a dangerous substance or mixture of substances.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Cargo Handling and Stowage, Management, Oil Tanker",
+        "index": 4,
+        "question": "As per the IMDG Code, “Marine Pollutant” is defined as:",
+        "answers": [
+            "A substance which is subject to the provisions of Annex III of MARPOL.",
+            "Any substance which is deemed hazardous to the marine environment.",
+            "A substance which is subject to the provisions of Chapter V of SOLAS 1974 as amended.",
+            "I don’t know."
+        ],
+        "correct_answer": "A substance which is subject to the provisions of Annex III of MARPOL.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Cargo Handling and Stowage, Management, Oil Tanker",
+        "index": 5,
+        "question": "As per IMDG Code, the term “separated from” can be defined as:",
+        "answers": [
+            "In different compartments or holds when stowed “under deck”. Provided an intervening deck is resistant to fire and liquid, a vertical separation may be accepted as equivalent. For “on deck” stowage, this segregation means a distance of at least 6 metres.",
+            "Either in a vertical or horizontal separation: if the intervening decks are not resistant to fire and liquid, then only in a longitudinal separation is acceptable. For “on deck” stowage, this means a distance of at least 12 metres. This distance also applies to one package stowed “on deck” and another in an upper compartment.",
+            "With an intervening compartment, being both a vertical and horizontal separation. Provided an intervening deck is resistant to liquid and fire, a vertical separation of 6 metres is acceptable. For “on deck” stowage, this segregation means a distance of at least 12 metres irrespective of compartment divisions.",
+            "I don’t know."
+        ],
+        "correct_answer": "In different compartments or holds when stowed “under deck”. Provided an intervening deck is resistant to fire and liquid, a vertical separation may be accepted as equivalent. For “on deck” stowage, this segregation means a distance of at least 6 metres.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Cargo Handling and Stowage, Management, Oil Tanker",
+        "index": 6,
+        "question": "The reporting of incidents involving harmful substances and/or marine pollutants is regulated under:",
+        "answers": [
+            "Protocol I of MARPOL.",
+            "The UN Convention on the Reporting of Accidents and Incidents which Present a Hazard to the Marine Environment 2004.",
+            "Appendix B of the Supplement to the IMDG Code",
+            "Annex II to SOLAS 1974."
+        ],
+        "correct_answer": "Protocol I of MARPOL.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Cargo Handling and Stowage, Management, Oil Tanker",
+        "index": 7,
+        "question": "“Door to door” shipment is covered under:",
+        "answers": [
+            "A Through Bill of Lading.",
+            "A Destination Bill of Lading.",
+            "A Multi-Phase Bill of Lading.",
+            "An Ocean Bill of Lading."
+        ],
+        "correct_answer": "A Through Bill of Lading.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Cargo Handling and Stowage, Management, Oil Tanker",
+        "index": 8,
+        "question": "The compensation payment by the charterer that is due when a vessel is unable to load/discharge her cargo within the allowed and contracted time is referred to as:",
+        "answers": [
+            "Demurrage.",
+            "Discretion.",
+            "Deferment.",
+            "Contractual penalty discount."
+        ],
+        "correct_answer": "Demurrage.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Cargo Handling and Stowage, Management, Oil Tanker",
+        "index": 9,
+        "question": "When conducting a risk assessment for a shipboard work activity, the two elements to be considered are:",
+        "answers": [
+            "The potential severity of harm and the likelihood that harm will occur.",
+            "The chance of an incident re-occuring and the potential effects of an loss.",
+            "The available manpower and their experience in this type of work.",
+            "I don’t know."
+        ],
+        "correct_answer": "The potential severity of harm and the likelihood that harm will occur.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Cargo Handling and Stowage, Management, Oil Tanker",
+        "index": 10,
+        "question": "For security purposes, the IMDG Code should be read in conjunction with the:",
+        "answers": [
+            "Chapter XI-2 of SOLAS and Part A of the ISPS Code.",
+            "IMO NVIC 24 and 46 CFR 2.05.",
+            "Part B of the ISPS Code and Chapter II of the Maritime Transport and Offshore Facilities Act.",
+            "I don’t know."
+        ],
+        "correct_answer": "Chapter XI-2 of SOLAS and Part A of the ISPS Code.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Cargo Handling and Stowage, Management, Oil Tanker",
+        "index": 11,
+        "question": "During an audit, adherence to the company cargo handling procedures can best be demonstrated:",
+        "answers": [
+            "By being able to provide comprehensive and verifiable documentary records of cargo operations.",
+            "By providing a summary of out-turn figures for the auditor.",
+            "By requesting that an audit takes place during cargo operations.",
+            "I don’t know."
+        ],
+        "correct_answer": "By being able to provide comprehensive and verifiable documentary records of cargo operations.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Cargo Handling and Stowage, Management, Oil Tanker",
+        "index": 12,
+        "question": "One particular group of hazardous goods that is highlighted by the IMDG Code as potentially being the most dangerous for carriage is:",
+        "answers": [
+            "Organic peroxides.",
+            "Liquefied gases.",
+            "Infectious substances.",
+            "I don’t know."
+        ],
+        "correct_answer": "Organic peroxides.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Cargo Handling and Stowage, Management, Oil Tanker",
+        "index": 13,
+        "question": "Substances, materials and articles shall be stowed as indicated in the Dangerous Goods List of the IMDG Code, in accordance with a series of stowage categories, which are designated as:",
+        "answers": [
+            "5 categories, labelled A-E.",
+            "10 categories, numbered 1-10.",
+            "10 categories, lattered A-K (excluding I).",
+            "Three categories, numbered I, II and III."
+        ],
+        "correct_answer": "5 categories, labelled A-E.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Cargo Handling and Stowage, Management, Oil Tanker",
+        "index": 14,
+        "question": "If the shipper wishes to ensure that a vessel or her operators will not be held responsible for any damage that may arise from the carrier issuing a clean Bill of Lading, even though the Mate’s receipt is marked as “unclean”, such a document is called the:",
+        "answers": [
+            "A Letter of Indemnity.",
+            "A Letter of Credit.",
+            "An addendum to the Bill of Lading.",
+            "I don’t know."
+        ],
+        "correct_answer": "A Letter of Indemnity.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Cargo Handling and Stowage, Management, Oil Tanker",
+        "index": 15,
+        "question": "As per IMDG Code, the main criteria for drawing up classes for safe handling of hazardous substancesis on the basis of:",
+        "answers": [
+            "The type of hazard they present.",
+            "Chronological order in which they have been assessed.",
+            "Selective laboratory tests commissioned by the Committee.",
+            "I don’t know."
+        ],
+        "correct_answer": "The type of hazard they present.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Cargo Handling and Stowage, Management, Oil Tanker",
+        "index": 16,
+        "question": "If W = Displacement, L = length, B = Breadth, D = depth of vessel, Cb = Block Coefficient, Cw = Coefficient of Waterplane, RD = Relative Density, then:",
+        "answers": [
+            "W = L · B · D · Cb / RD.",
+            "W = L · B · D · Cb.",
+            "W = L · B · d · Cw.",
+            "I don’t know."
+        ],
+        "correct_answer": "W = L · B · D · Cb / RD.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Cargo Handling and Stowage, Management, Oil Tanker",
+        "index": 17,
+        "question": "Which of the following best describes what the wax content of crude oil is?",
+        "answers": [
+            "The percentage, by weight, of paraffinic wax found in a representative sample of the crude oil.",
+            "The observed volume percentage of waxy deposit found in a cargo tank after discharge in relation to the total volume of cargo previously carried.",
+            "The percentage of wax, expressed as a percentage, remaining in an oil product after distillation.",
+            "I don’t know."
+        ],
+        "correct_answer": "The percentage, by weight, of paraffinic wax found in a representative sample of the crude oil.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Cargo Handling and Stowage, Management, Oil Tanker",
+        "index": 18,
+        "question": "According to SOLAS, the mechanical ventilation system of the cargo pump room shall be capable of making:",
+        "answers": [
+            "At least 20 air changes per hour.",
+            "At least 10 air changes per hour.",
+            "At least 6 air changes per hour.",
+            "I don’t know."
+        ],
+        "correct_answer": "At least 20 air changes per hour.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Cargo Handling and Stowage, Management, Oil Tanker",
+        "index": 19,
+        "question": "After the last entry being made, the retention period of an oil record book on board must be:",
+        "answers": [
+            "Not less than 3 years after the date of the last entry.",
+            "Not less than 5 years after the date of the last entry.",
+            "1 year.",
+            "I don’t know."
+        ],
+        "correct_answer": "Not less than 3 years after the date of the last entry.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Cargo Handling and Stowage, Management, Oil Tanker",
+        "index": 20,
+        "question": "According to 33 CFR 156.170, for oil tankers trading in US waters, the minimum requirement for testing of cargo transfer hoses and associated piping system are:",
+        "answers": [
+            "That no leakage occurs under static liquid pressure of at least 1,5 times the maximum allowable working pressure.",
+            "That no leakage occurs at the nominal anticipated working pressure.",
+            "That no leakage occurs under dynamic fluid pressure of less than 1,5 times the maximum allowable working pressure.",
+            "I don’t know."
+        ],
+        "correct_answer": "That no leakage occurs under static liquid pressure of at least 1,5 times the maximum allowable working pressure.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Cargo Handling and Stowage, Management, Oil Tanker",
+        "index": 21,
+        "question": "When tank cleaning hoses are tested for electrical continuity, they must display a reading of:",
+        "answers": [
+            "Not greater than 6 ohms per metre length.",
+            "Not more than 10 ohms per metre length.",
+            "At least 8 ohms per metre length.",
+            "I don’t know."
+        ],
+        "correct_answer": "Not greater than 6 ohms per metre length.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Cargo Handling and Stowage, Management, Oil Tanker",
+        "index": 22,
+        "question": "As per MARPOL, Oil Record Book Part II, Cargo/Ballast Operations, must be carried and completed on oil tankers of:",
+        "answers": [
+            "150 gross tonnes and above.",
+            "50 gross tonnes and above.",
+            "20 gross tonnes and above.",
+            "I don’t know."
+        ],
+        "correct_answer": "150 gross tonnes and above.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Cargo Handling and Stowage, Management, Oil Tanker",
+        "index": 23,
+        "question": "Prior to discharging cargo from an oil tanker, “line displacement” is usually conducted to:",
+        "answers": [
+            "Verify the pipeline contents with previous grade have been replaced.",
+            "To balance a rigid cargo arm.",
+            "The calibration of the ship’s flow meter.",
+            "I don’t know."
+        ],
+        "correct_answer": "Verify the pipeline contents with previous grade have been replaced.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Cargo Handling and Stowage, Management, Oil Tanker",
+        "index": 24,
+        "question": "An oil tanker with a defective Oil Discharge Monitoring Equipment may be allowed by a Port State Authority to trade for:",
+        "answers": [
+            "One ballast voyage before proceeding to a repair port.",
+            "The vessel will be detained until ODME is rectified.",
+            "Two ballast voyage before proceeding to a repair port.",
+            "I don’t know."
+        ],
+        "correct_answer": "One ballast voyage before proceeding to a repair port.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Cargo Handling and Stowage, Management, Oil Tanker",
+        "index": 25,
+        "question": "Oil tankers of 70 000 tons and above, delivered after 31 December 1979 shall be:",
+        "answers": [
+            "Shall be provided with at least 2 slop tanks.",
+            "Shall be provided with slop tank.",
+            "No requirement regarding number of slop tanks.",
+            "I don’t know."
+        ],
+        "correct_answer": "Shall be provided with at least 2 slop tanks.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Cargo Handling and Stowage, Management, Oil Tanker",
+        "index": 26,
+        "question": "For a vessel proceeding enroute, located more than 50 nm from nearest land outside a special area and having in operation its ODME, the maximum instantaneous rate of an oily water mixture is:",
+        "answers": [
+            "30 litres per nautical mile.",
+            "60 litres per nautical mile.",
+            "300 litres per nautical mile.",
+            "I don’t know."
+        ],
+        "correct_answer": "30 litres per nautical mile.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Cargo Handling and Stowage, Management, Oil Tanker",
+        "index": 27,
+        "question": "Any person who can assume overall charge of the ships crude oil washing operation must have:",
+        "answers": [
+            "At least 12 months appropriate experience on oil tankers, have participated in at least two COW programmes and be fully knowledgeable of the contents of the Operations and Equipment Manual.",
+            "They must have at least six months experience on tankers, be knowledgeable of the cleaning procedures and equipment applicable on board the vessel and be able to fully demonstrate understanding of the operation of the ODME equipment.",
+            "They must have at least three months experience on tankers, have participated in at least six washing operations and be aware of the procedures associated with the completion of the Oil Record Book.",
+            "I don’t know."
+        ],
+        "correct_answer": "At least 12 months appropriate experience on oil tankers, have participated in at least two COW programmes and be fully knowledgeable of the contents of the Operations and Equipment Manual.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Cargo Handling and Stowage, Management, Oil Tanker",
+        "index": 28,
+        "question": "Every oil tanker of 5 000 tonnes deadweight and above delivered on or after 1 February 2002 shall comply with intact stability whereby it must have a minimum GM (metacentric height) in port of:",
+        "answers": [
+            "Not less than 0,15 m.",
+            "Not less than 0,25 m.",
+            "Not less than 0,10 m.",
+            "I don’t know."
+        ],
+        "correct_answer": "Not less than 0,15 m.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Cargo Handling and Stowage, Management, Oil Tanker",
+        "index": 29,
+        "question": "What is to be considered when deciding the position of the accommodation on an oil tanker?",
+        "answers": [
+            "A single failure of deck or bulkhead shall not allow fumes into the accommodation spaces.",
+            "They must be at the after end of the vessel.",
+            "There are no restrictions to the position of the accommodation.",
+            "I don’t know."
+        ],
+        "correct_answer": "A single failure of deck or bulkhead shall not allow fumes into the accommodation spaces.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Cargo Handling and Stowage, Management, Oil Tanker",
+        "index": 30,
+        "question": "The purpose of expansion couplings to be fitted on the longitudinal pipelines of oil tankers is:",
+        "answers": [
+            "To allow the pipelines to follow the ships flexing movement when pitching.",
+            "To prevent the pipeline from cracking when the ship suffers from Racking stresses.",
+            "To allow the pipeline to expand when loading a hot cargo through the pipeline.",
+            "I don’t know."
+        ],
+        "correct_answer": "To allow the pipelines to follow the ships flexing movement when pitching.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Cargo Handling and Stowage, Management, Oil Tanker",
+        "index": 31,
+        "question": "Ship’s cargo pump room alarm must be automatically activated when levels of hydrocarbon gas concentration are:",
+        "answers": [
+            "No higher than 10 % of LEL.",
+            "No higher than 5 % of LEL.",
+            "No higher than 15 % of LEL.",
+            "I don’t know."
+        ],
+        "correct_answer": "No higher than 10 % of LEL.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Cargo Handling and Stowage, Management, Oil Tanker",
+        "index": 32,
+        "question": "A “Pellistor” is:",
+        "answers": [
+            "It is a sensor that can be used in a combustible gas indicators to detect and measure flammable gas concentration as a percentage of its lower flammable limit.",
+            "It is the common term applied to the metal, ceramic or other heat-resisting material which can cool even an intense flame below the temperature required for ignition, as utilised in a flame arrester.",
+            "It is the electrical sensor which detects low pressure in an Inert Gas generating control system.",
+            "I don’t know."
+        ],
+        "correct_answer": "It is a sensor that can be used in a combustible gas indicators to detect and measure flammable gas concentration as a percentage of its lower flammable limit.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Cargo Handling and Stowage, Management, Oil Tanker",
+        "index": 33,
+        "question": "When describing the characteristics of oil cargoes or oil/water slops, a “mercaptan” is:",
+        "answers": [
+            "A colourless, odorous gas, with a smell similar to rotting cabbage and which is generated naturally by the degredation of natural organisms, as may be found where water has remained under oil for a long time.",
+            "The component of hydrocarbon-based cargoes which is formed from Merolion Carbonized Tannin.",
+            "A chemical additive blended with crude oil to inhibit the natural “rotten egg” smell associated with certain grades.",
+            "I don’t know."
+        ],
+        "correct_answer": "A colourless, odorous gas, with a smell similar to rotting cabbage and which is generated naturally by the degredation of natural organisms, as may be found where water has remained under oil for a long time.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Cargo Handling and Stowage, Management, Oil Tanker",
+        "index": 34,
+        "question": "Which of the following is a definition of a petroleum product which is “non-flammble”?",
+        "answers": [
+            "Petroleum having a flash point of 60 °C or above, as determined by the closed cup method of test.",
+            "Petroleum having a flash point of 100 °C or above, as determined by the closed cup method of test.",
+            "Petroleum having a flash point of 80 °C or above, as determined by the closed cup method of test.",
+            "I don’t know."
+        ],
+        "correct_answer": "Petroleum having a flash point of 60 °C or above, as determined by the closed cup method of test.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Cargo Handling and Stowage, Management, Oil Tanker",
+        "index": 35,
+        "question": "After passing through the scrubbing tower of an inert gas system, the approximate level of carbon dioxide in the inert flue gas should be:",
+        "answers": [
+            "13 %.",
+            "1 %.",
+            "3 %.",
+            "21 %."
+        ],
+        "correct_answer": "13 %.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Cargo Handling and Stowage, Management, Oil Tanker",
+        "index": 36,
+        "question": "Besides danger of vapour inhalation by crewmembers, if Hydrogen Sulphide is present in high concentrations in crude oil, it can also cause:",
+        "answers": [
+            "Corrosion.",
+            "Settling and layering.",
+            "Polymerisation.",
+            "Acid build-up."
+        ],
+        "correct_answer": "Corrosion.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Cargo Handling and Stowage, Management, Oil Tanker",
+        "index": 37,
+        "question": "Within the Oil Discharge Monitoring and Control System, an “overboard discharge control” is defined as:",
+        "answers": [
+            "A device which automatically initiates the sequence to stop the overboard discharge of the effluent in alarm conditions and prevents the discharge throughout the period the alarm prevails.",
+            "A system which receives automatic signals of oil content, flow rate, ship’s speed, ship’s position, date and time.",
+            "A system which monitors the discharge into the sea of oily ballast or other oil-contaminated water from the cargo tank areas.",
+            "A facility which prevents the initiation of the opening of the discharge valve or the operation of other equivalent arrangements before the monitoring system is fully operational."
+        ],
+        "correct_answer": "A device which automatically initiates the sequence to stop the overboard discharge of the effluent in alarm conditions and prevents the discharge throughout the period the alarm prevails.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Cargo Handling and Stowage, Management, Oil Tanker",
+        "index": 38,
+        "question": "What is the relationship between absolute pressure and gauge pressure?",
+        "answers": [
+            "Absolute pressure = gauge pressure + barometric pressure.",
+            "Absolute pressure = gauge pressure.",
+            "Absolute pressure = gauge pressure – atmospheric pressure.",
+            "I don’t know."
+        ],
+        "correct_answer": "Absolute pressure = gauge pressure + barometric pressure.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Cargo Handling and Stowage, Management, Oil Tanker",
+        "index": 39,
+        "question": "Oil tankers built and delivered after 6th July 1986 may have wing ballast tanks that extend throughout the cargo tank length. In this case the design feature against pollution in the event of the bottom being breached is that:",
+        "answers": [
+            "The cargo tank levels must be set so that hydrostatic pressure will stop oil outflow.",
+            "The pressure vacuum valves must be capable of complete sealing, and the integral strength of the tank such that a total vacuum is capable of being maintained in the breached compartment, thereby preventing outflow of oil.",
+            "Steel thickness in the bottom area must be a minimum of 1,36 times that otherwise required by construction regulations to minimise the extent of any breach.",
+            "Additional level sensors and alarms must be fitted to give early warning of oil outflow."
+        ],
+        "correct_answer": "The cargo tank levels must be set so that hydrostatic pressure will stop oil outflow.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Cargo Handling and Stowage, Management, Oil Tanker",
+        "index": 40,
+        "question": "Fluid driven eductors operate on Bernoulli’s principle, which states that:",
+        "answers": [
+            "The speed of a moving fluid increases as the pressure in the fluid decreases.",
+            "The increase in pressure at the eductor inlet is inversely proportional to the decrease in pressure as measured at the discharge orifice.",
+            "The volume of a fluid increases as the pressure in it decreases.",
+            "The discharge rate is inversely proportional to the pressure applied in the drive inlet."
+        ],
+        "correct_answer": "The speed of a moving fluid increases as the pressure in the fluid decreases.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Cargo Handling and Stowage, Management, Oil Tanker",
+        "index": 41,
+        "question": "Depending on the API, an error measurement of 0,1 degree Fahrenheit in a tank containing 300 000 barrels of oil will result in which of the following volumes?",
+        "answers": [
+            "150 barrels.",
+            "300 barrels.",
+            "50 barrels.",
+            "25 barrels."
+        ],
+        "correct_answer": "150 barrels.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Cargo Handling and Stowage, Management, Oil Tanker",
+        "index": 42,
+        "question": "After efficient scrubbing of inert flue gas what would be the concentration of sulphur dioxide be:",
+        "answers": [
+            "50 ppm.",
+            "25 ppm.",
+            "100 ppm.",
+            "10 ppm."
+        ],
+        "correct_answer": "50 ppm.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Cargo Handling and Stowage, Management, Oil Tanker",
+        "index": 43,
+        "question": "The recommended guideline for avoiding the risk of electrostatic potential in a mist produced by using oil and water during Crude Oil Washing operations is that:",
+        "answers": [
+            "Before washing begins, any tank that is to be used as a source of oil for Crude Oil Washing should be partly discharged to remove any water that has settled out during the voyage. The discharge of a layer of at least 1 metre is necessary for this purpose.",
+            "If a slop tank is to be used to supply oil to drive a Crude Oil Washing operation in a cargo tank, then that slop tank must not have contained slops with a water content of more than 2 %.",
+            "Crude Oil Washing, where the oil source is stored in a slop tank or other tank that has previously contained slops, should be avoided.",
+            "I don’t know."
+        ],
+        "correct_answer": "Before washing begins, any tank that is to be used as a source of oil for Crude Oil Washing should be partly discharged to remove any water that has settled out during the voyage. The discharge of a layer of at least 1 metre is necessary for this purpose.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Cargo Handling and Stowage, Management, Oil Tanker",
+        "index": 44,
+        "question": "Oil tankers are subject to cyclical bending moments throughout their life as a result classification society rules require a specific minimum reduction in steel thickness to be maintained within “x” length amidships, where “x” is:",
+        "answers": [
+            "0,4 length.",
+            "0,3 length.",
+            "0,2 length.",
+            "I don’t know."
+        ],
+        "correct_answer": "0,4 length.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Cargo Handling and Stowage, Management, Oil Tanker",
+        "index": 45,
+        "question": "As per MARPOL, the contents of lines and pumps on a crude oil tanker at completion of discharge must be:",
+        "answers": [
+            "Drained and then pumped either ashore, or to a cargo tank or slop tank on board.",
+            "That they be drained directly (and only) to shore.",
+            "That they be cleared to shore by the use of compressed air.",
+            "That agreement be reached at the pre-cargo conference as to whether the ship or shore facility are to receive the “unpumpable product remaining in lines and pumps” and the appropriate side then clear the lines to the other by any appropriate means."
+        ],
+        "correct_answer": "Drained and then pumped either ashore, or to a cargo tank or slop tank on board.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Cargo Handling and Stowage, Management, Oil Tanker",
+        "index": 46,
+        "question": "What is the purpose of girders in the tank?",
+        "answers": [
+            "They support the stiffeners and also take up some of the sea forces.",
+            "They support the stiffeners.",
+            "They transfer all sea forces acting on plating.",
+            "They transfer all the cargo forces acting on the plating."
+        ],
+        "correct_answer": "They support the stiffeners and also take up some of the sea forces.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Cargo Handling and Stowage, Management, Oil Tanker",
+        "index": 47,
+        "question": "The purpose of permanent continuous coamings fitted from side to side across the decks near the accommodation of an oil tanker is:",
+        "answers": [
+            "To keep deck spills away from the accommodation and service areas.",
+            "To reduce the effects of racking stresses.",
+            "To increase the strength of the deck structure.",
+            "To push the sea water shipped onto the deck over the sides of the ship."
+        ],
+        "correct_answer": "To keep deck spills away from the accommodation and service areas.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Cargo Handling and Stowage, Management, Oil Tanker",
+        "index": 48,
+        "question": "When an inhibitor is added to an oil cargo, the items mentioned on the accompanying certificate include:",
+        "answers": [
+            "Inhibitor name; amount added; date added; period of efficiency; precautions if voyage length exceeds that period; eventual temperature limitation.",
+            "Inhibitor class; amount added; date of expiry; minimum period of optimum efficiency; precautions to be taken when added; minimum temperature requirement.",
+            "Inhibitor class; percentage blended; date added; maximum period of efficiency and applicable temperature limits; maximum storage period on board; contact number of manufacturer.",
+            "Inhibitor name; percentage applied; date of expiry; precautions to be taken on voyage and interval of application; maximum temperature at which continuously effective."
+        ],
+        "correct_answer": "Inhibitor name; amount added; date added; period of efficiency; precautions if voyage length exceeds that period; eventual temperature limitation.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Cargo Handling and Stowage, Management, Oil Tanker",
+        "index": 49,
+        "question": "What is the ideal maximum viscosity at which crude oil cargoes are best discharged for maximum efficiency of centrifugal pumps:",
+        "answers": [
+            "250 cSt (250 mm2/s).",
+            "450 cSt (450 mm2/s).",
+            "45 cSt (45 mm2/s).",
+            "I don’t know."
+        ],
+        "correct_answer": "250 cSt (250 mm2/s).",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Cargo Handling and Stowage, Management, Oil Tanker",
+        "index": 50,
+        "question": "When discharging dirty ballast from an oil tanker at a high flow rate with main cargo pumps, the instantaneous rate of discharge of oil is calculated by formula:",
+        "answers": [
+            "Instantaneous rate of discharge (l/nm) = oil content (ppm) · flow rate (m3/h) / speed (knots) · 1 000.",
+            "Instantaneous rate of discharge (l/nm) = oil content (ppm) · 1 000 / flow rate (l/h) · speed (knots).",
+            "Instantaneous rate of discharge (ml/nm) = oil content (ml/nm) · flow rate (l/m) / speed (knots) · 100.",
+            "I don’t know."
+        ],
+        "correct_answer": "Instantaneous rate of discharge (l/nm) = oil content (ppm) · flow rate (m3/h) / speed (knots) · 1 000.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Cargo Handling and Stowage, Management, Oil Tanker",
+        "index": 51,
+        "question": "When in-service testing a hose used for cargo transfer on an oil tanker (and for which the elongation of the hose assembly when new was greater than 2,5 %), the maximum permitted elongation before the hose must be withdrawn from service should be:",
+        "answers": [
+            "Not more than 1,5 times the temporary elongation measured when the hose assembly was new, as documented in the manufacturer’s certificate.",
+            "Not more than 1,25 times the temporary elongation measured when the hose assembly was last tested, as documented in the appropriate certificate.",
+            "Not more than 1,5 times the temporary elongation measured at the previous in-service test, as documented in the ship’s annual test record.",
+            "I don’t know."
+        ],
+        "correct_answer": "Not more than 1,5 times the temporary elongation measured when the hose assembly was new, as documented in the manufacturer’s certificate.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Cargo Handling and Stowage, Management, Oil Tanker",
+        "index": 52,
+        "question": "To correctly report an oil spill in US waters:",
+        "answers": [
+            "The person in charge must first report the spill to the National Response Center or, if not practicable, to the Environmental Protection Agency regional office or local US Coast Guard Marine Safety Office. This must be done immediately that person has knowledge of the spill.",
+            "The master of the vessel responsible for the spill must advise the Environmental Protection Agency National Incident Reporting Center (or the appropriate regional office) within 2 hours of the incident being reported to that person.",
+            "The person responsible for the spill must report preliminary details to the appropriate State Police within 30 minutes of the accidental discharge taking place.",
+            "I don’t know."
+        ],
+        "correct_answer": "The person in charge must first report the spill to the National Response Center or, if not practicable, to the Environmental Protection Agency regional office or local US Coast Guard Marine Safety Office. This must be done immediately that person has knowledge of the spill.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Cargo Handling and Stowage, Management, Oil Tanker",
+        "index": 53,
+        "question": "What is a VPR (OPA-90)?",
+        "answers": [
+            "Vessel Response Plan.",
+            "Vessel Response Procurement.",
+            "Vessel Report Plan.",
+            "I don’t know."
+        ],
+        "correct_answer": "Vessel Response Plan.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Cargo Handling and Stowage, Management, Oil Tanker",
+        "index": 54,
+        "question": "The ODME printed record for ballast water discharge overboard from the cargo piping system on oil tankers operations must be retained on board for a minimum period:",
+        "answers": [
+            "Of 3 years.",
+            "Of 1 year.",
+            "Of 2 years.",
+            "I don’t know."
+        ],
+        "correct_answer": "Of 3 years.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Cargo Handling and Stowage, Management, Oil Tanker",
+        "index": 55,
+        "question": "What is the density of the undiluted vapour that is liberated from crude oil?",
+        "answers": [
+            "1,5 times that of inert gas.",
+            "2 times that of inert gas.",
+            "It doesn’t matter.",
+            "I don’t know."
+        ],
+        "correct_answer": "1,5 times that of inert gas.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Cargo Handling and Stowage, Management, Oil Tanker",
+        "index": 56,
+        "question": "Which of the following type of crude oil requires special consideration in terms of carriage and cleaning?",
+        "answers": [
+            "Paraffinic Crude.",
+            "Medium Crude.",
+            "Sweet Crude.",
+            "Reconstituted Crude."
+        ],
+        "correct_answer": "Paraffinic Crude.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Cargo Handling and Stowage, Management, Oil Tanker",
+        "index": 57,
+        "question": "The approximate API gravity of Arabian Light Crude is:",
+        "answers": [
+            "33°.",
+            "30°.",
+            "40°.",
+            "27°."
+        ],
+        "correct_answer": "33°.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Cargo Handling and Stowage, Management, Oil Tanker",
+        "index": 58,
+        "question": "A VLCC is to anchor in a depth of 80 meters in open water with moderate swell running. How many shackles of anchor chain should be used to ensure safely anchored?",
+        "answers": [
+            "11 shackles.",
+            "8 shackles.",
+            "3 shackles.",
+            "6 shackles."
+        ],
+        "correct_answer": "11 shackles.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Cargo Handling and Stowage, Management, Oil Tanker",
+        "index": 59,
+        "question": "As per the US Code of Federal Regulations, the current Oil Transfer Procedures for a vessel carrying out discharge in US ports must be:",
+        "answers": [
+            "That the procedures be legibly printed in a language or languages easily understood by personnel engaged in the transfer operation and permanently posted or available at a place where crew members can see and use them.",
+            "That the procedures be available in hard-copy or electronic format to the Supervising Officer in a language with which he is familiar.",
+            "That the Master of the vessel engaged in a transfer shall, before commencing any transfer operation, ensure that all crew members involved in that operation shall be familiar with the applicable operating and emergency procedures and be capable of communicating in a common language with terminal operators.",
+            "That the procedures be printed in the English and Spanish languages and permanently posted in the wheelhouse of the vessel."
+        ],
+        "correct_answer": "That the procedures be legibly printed in a language or languages easily understood by personnel engaged in the transfer operation and permanently posted or available at a place where crew members can see and use them.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Cargo Handling and Stowage, Management, Oil Tanker",
+        "index": 60,
+        "question": "According to ISGOTT, in which of the following situations, when measuring vapour space oxygen content of a cargo tank, can a electrochemical sensors in gas measuring instruments become damaged or poisoned?",
+        "answers": [
+            "When the sample containing hydrocarbon/inert gas has a hydrogen sulphide content greater than 1 %.",
+            "When the sample containing hydrocarbon/inert gas has a hydrogen sulphide content greater than 2 %.",
+            "When the sample containing hydrocarbon/inert gas has a hydrogen sulphide content greater than 3 %.",
+            "I don’t know."
+        ],
+        "correct_answer": "When the sample containing hydrocarbon/inert gas has a hydrogen sulphide content greater than 1 %.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Cargo Handling and Stowage, Management, Oil Tanker",
+        "index": 61,
+        "question": "The inert gas system shall be capable of delivering inert gas to the cargo tanks at the rate of:",
+        "answers": [
+            "At least 125 % of the maximum discharge capacity.",
+            "At least 150 % of the maximum rate of discharge capacity.",
+            "At least 135% of the maximum discharge capacity.",
+            "No such requirement."
+        ],
+        "correct_answer": "At least 125 % of the maximum discharge capacity.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Cargo Handling and Stowage, Management, Oil Tanker",
+        "index": 62,
+        "question": "When internally transferring any oil cargo within the vessel, the correct procedure would be to:",
+        "answers": [
+            "Obtain permission from the charterers and document all operations fully in the Oil Record Book.",
+            "Transfer no more than 5 % of the total cargo volume at any one time.",
+            "It is not necessary to obtain any permissions, provided the Captain makes an entry in the Deck Log Book, documenting his reasons for moving cargo.",
+            "Obtain permission from the receivers and retain all e-mail correspondence for the attention of the cargo surveyors."
+        ],
+        "correct_answer": "Obtain permission from the charterers and document all operations fully in the Oil Record Book.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Cargo Handling and Stowage, Management, Oil Tanker",
+        "index": 63,
+        "question": "The maximum permitted oxygen content in the inert gas supply when inerting a cargo oil tank prior to gas freeing is:",
+        "answers": [
+            "5 % by volume.",
+            "8 % by volume.",
+            "12 % by volume.",
+            "I don’t know."
+        ],
+        "correct_answer": "5 % by volume.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Cargo Handling and Stowage, Management, Oil Tanker",
+        "index": 64,
+        "question": "As per MARPOL, the formula for calculating the minimum draft amidships for crude tankers in ballast condition is:",
+        "answers": [
+            "2,0 + 0,02 L.",
+            "2,0 + 0,002 L.",
+            "2,0 + 0,015 L.",
+            "I don’t know."
+        ],
+        "correct_answer": "2,0 + 0,02 L.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Cargo Handling and Stowage, Management, Oil Tanker",
+        "index": 65,
+        "question": "Crude Oils required by MARPOL to be specifically listed in a tanker’s Crude Oil Washing manual as unsuitable for COW are:",
+        "answers": [
+            "Those with high pour point of viscosity.",
+            "Those with highbenzene content.",
+            "Those with high basic sediment and water content.",
+            "I don’t know."
+        ],
+        "correct_answer": "Those with high pour point of viscosity.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Cargo Handling and Stowage, Management, Oil Tanker",
+        "index": 66,
+        "question": "What is meant be the term “sour crude”?",
+        "answers": [
+            "Crude oil containing hydrogen sulphide content greater than 0,5 % by volume.",
+            "Crude oil containing hydrogen sulphide content greater than 0,3 % by volume.",
+            "Crude oil containing hydrogen sulphide content greater than 0,1 % by volume.",
+            "I don’t know."
+        ],
+        "correct_answer": "Crude oil containing hydrogen sulphide content greater than 0,5 % by volume.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Cargo Handling and Stowage, Management, Oil Tanker",
+        "index": 67,
+        "question": "The scantling draft of an oil tanker fitted with segregated ballast tanks is:",
+        "answers": [
+            "The draught for which the structural strength of the ship has been designed.",
+            "The maximum draught determined by the Loadline Rules.",
+            "The minimum draught amidships when in ballast condition.",
+            "I don’t know."
+        ],
+        "correct_answer": "The draught for which the structural strength of the ship has been designed.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Cargo Handling and Stowage, Management, Oil Tanker",
+        "index": 68,
+        "question": "A tanker in ballast, having recently left the discharge port is involved in a collision. The two vessels are still interlocked after the collision and a survey of the ships gives all crew members are safe and the damage is focussed to the vicinity of the impact. What should be the greatest concern at this time?",
+        "answers": [
+            "The ships moving together in the swell/seaway will cause a spark and consequently an explosion.",
+            "When the two vessels separate one (or both) of the vessels will have insufficient stability to remain afloat.",
+            "The vessels moving together will create even greater damage to their structures.",
+            "The possibility of pollution."
+        ],
+        "correct_answer": "The ships moving together in the swell/seaway will cause a spark and consequently an explosion.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Cargo Handling and Stowage, Management, Oil Tanker",
+        "index": 69,
+        "question": "At which of the following concentrations of Hydrogen Sulphide might a person experience dizziness, fatigue and memory loss?",
+        "answers": [
+            "20 ppm.",
+            "40 ppm.",
+            "10 ppm.",
+            "I don’t know."
+        ],
+        "correct_answer": "20 ppm.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Cargo Handling and Stowage, Management, Oil Tanker",
+        "index": 70,
+        "question": "What statutory certificate is carried onboard to indicate that a tanker is in compliance with Annex 1 of the MARPOL convention?",
+        "answers": [
+            "The International Oil Pollution Prevention (IOPP) Certificate.",
+            "International Safety Guide for Oil Tankers and Terminals (ISGOTT).",
+            "Oil Record Book.",
+            "I don’t know."
+        ],
+        "correct_answer": "The International Oil Pollution Prevention (IOPP) Certificate.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Cargo Handling and Stowage, Management, Oil Tanker",
+        "index": 71,
+        "question": "With reference to oil cargo characteristics, “cloud point” is:",
+        "answers": [
+            "The temperature at which a liquid hydrocarbon begins to congeal and take on a cloudy appearance, due to the bonding of constituent paraffin compounds.",
+            "The depth within a cargo above which no waxy solids are entrained.",
+            "The temperature at which an oil product begins to emit vapours which can be observed in a spectroscope due to the volume of solid particles extracted during evaporation.",
+            "I don’t know."
+        ],
+        "correct_answer": "The temperature at which a liquid hydrocarbon begins to congeal and take on a cloudy appearance, due to the bonding of constituent paraffin compounds.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Cargo Handling and Stowage, Management, Oil Tanker",
+        "index": 72,
+        "question": "You are on a sailing vessel, underway in open water. This vessel is sighted on the starboard bow, on a steady bearing and the distance is closing. By the International Regulations for the Preventing Collisions at Sea, what action will you follow?",
+        "answers": [
+            "By Rule 18, a power-driven vessel underway shall keep out of the way of a sailing vessel. I will maintain my course and speed, but will continue to monitor situation to ensure the other vessel takes avoiding action.",
+            "This vessel is clearly a power-driven vessel and I anticipate that the bearing will therefore close and she will pass ahead at a safe distance.",
+            "Risk of collision is deemed to exist and, as the other vessel is on a steady bearing on my starboard side, I am required to keep out of the way. I will make a broad alteration of course to starboard.",
+            "Risk of collision is deemed to exist and, as the other vessel is on a steady bearing on my starboard side, I will maintain my course and speed."
+        ],
+        "correct_answer": "By Rule 18, a power-driven vessel underway shall keep out of the way of a sailing vessel. I will maintain my course and speed, but will continue to monitor situation to ensure the other vessel takes avoiding action.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Cargo Handling and Stowage, Management, Oil Tanker",
+        "index": 73,
+        "question": "Your vessel is in an area of restricted visibility. You hear this sound signal. What does it mean?",
+        "answers": [
+            "That there is a vessel in distress nearby.",
+            "That there is a vessel at anchor in the vicinity.",
+            "That there is a vessel aground in the vicinity.",
+            "That there is a vessel engaged in underwater operations in the vicinity. She has divers down."
+        ],
+        "correct_answer": "That there is a vessel in distress nearby.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Cargo Handling and Stowage, Management, Oil Tanker",
+        "index": 74,
+        "question": "What are the three volumes of the IAMSAR Manual?",
+        "answers": [
+            "I – Organization and Management; II – Mission Co-ordination; III – Mobile Facilities.",
+            "I – Planning and Preparation; II – Rescue Control; III – Reference.",
+            "A – Command and Control; B – Communications; C – Rescue Procedures.",
+            "I – Organization; II – Communications; III – Rescue Procedures."
+        ],
+        "correct_answer": "I – Organization and Management; II – Mission Co-ordination; III – Mobile Facilities.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Cargo Handling and Stowage, Management, Oil Tanker",
+        "index": 75,
+        "question": "How many square metres does the IAMSAR Volume 3 manual suggest may be calmed by releasing 200 litres of lubricating oil slowly through a rubber hose with the outlet maintained just above the surface while the ship proceeds at slow speed?",
+        "answers": [
+            "Approx 5 000 square metres.",
+            "Approx 500 square metres.",
+            "Approx 50 square metres.",
+            "Approx 50 000 square metres."
+        ],
+        "correct_answer": "Approx 5 000 square metres.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Cargo Handling and Stowage, Management, Oil Tanker",
+        "index": 76,
+        "question": "DG placards shall be located on a freight container:",
+        "answers": [
+            "One on each end and one on each side.",
+            "One on each side (only).",
+            "One of the back end and one on one of the sides (only).",
+            "One on each end (only)."
+        ],
+        "correct_answer": "One on each end and one on each side.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Cargo Handling and Stowage, Management, Oil Tanker",
+        "index": 77,
+        "question": "Where would you find the document relating to the “Condition of Freeboard Assignment” onboard?",
+        "answers": [
+            "With the Loadline Certificate.",
+            "With the Structural Survey File.",
+            "With the Classification Records.",
+            "With the Safety Construction Certificate."
+        ],
+        "correct_answer": "With the Loadline Certificate.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Cargo Handling and Stowage, Management, Oil Tanker",
+        "index": 78,
+        "question": "If for some reason a vessel does not comply with a Classification Society’s requirements, what can a surveyor issue to the vessel enabling it to sail to the next port or for a period of time?",
+        "answers": [
+            "A Condition of Class.",
+            "A Notification of Deficiency.",
+            "A revised Class Notation.",
+            "A notification of Detention."
+        ],
+        "correct_answer": "A Condition of Class.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Cargo Handling and Stowage, Management, Oil Tanker",
+        "index": 79,
+        "question": "Master of every ship must provide:",
+        "answers": [
+            "A link between the shipboard training officer and the company training officer ashore.",
+            "The training during crews working hours only.",
+            "Proper rest to the crew after each training programme.",
+            "Facilities to conduct training whenever required by the training officer."
+        ],
+        "correct_answer": "A link between the shipboard training officer and the company training officer ashore.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Cargo Handling and Stowage, Management, Oil Tanker",
+        "index": 80,
+        "question": "Why is it important to have good relationship on-board a vessel?",
+        "answers": [
+            "It leads to better work performance and positive atmosphere among the crew.",
+            "Crew comes to know each others problems.",
+            "It encourages crew to extend their contract.",
+            "It will prevent accidents from happening."
+        ],
+        "correct_answer": "It leads to better work performance and positive atmosphere among the crew.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Cargo Handling and Stowage, Management, Oil Tanker",
+        "index": 81,
+        "question": "The DoS addresses the responsibility for the security of the water around the ship and the verification of increased threat levels.",
+        "answers": [
+            "True.",
+            "False."
+        ],
+        "correct_answer": "True.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Cargo Handling and Stowage, Management, Oil Tanker",
+        "index": 82,
+        "question": "The purpose of the demister unit within the Inert Gas System is:",
+        "answers": [
+            "To remove water from the IGS stream.",
+            "To cool the inert gas.",
+            "To remove sulphur oxides.",
+            "To prevent overheating."
+        ],
+        "correct_answer": "To remove water from the IGS stream.",
+        "images": [],
+        "explanation": "Inert Gas System (IGS) එකක ඇති demister unit එකෙහි ප්‍රධාන අරමුණ වන්නේ IGS වායු ධාරාව තුළ ඇති ජල අංශු (Water droplets) ඉවත් කිරීමයි. IGS නිෂ්පාදනය කිරීමේදී භාවිතා කරන scrubber tower එක තුළ වායුව සිසිල් කිරීම සඳහා ජලය භාවිතා කරන බැවින්, එම වායුව සමඟ ජල වාෂ්ප මිශ්‍ර විය හැක. මෙම ජලය ටැංකි තුළට ගියහොත් විඛාදනය (Corrosion) වැනි ගැටලු ඇතිවිය හැකි බැවින් demister ඒකකය මගින් එම තෙතමනය ඉවත් කර වියළි වායුව ලබා දෙයි."
+    },
+    {
+        "category": "CES – Cargo Handling and Stowage, Management, Oil Tanker",
+        "index": 83,
+        "question": "The chemical characteristics of effluent water from an inert gas scrubber and the condensate which collects in the deck mains would be:",
+        "answers": [
+            "Acidic in nature.",
+            "Demineralised in nature.",
+            "Alkaline in nature.",
+            "Neutral in nature."
+        ],
+        "correct_answer": "Acidic in nature.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Cargo Handling and Stowage, Management, Oil Tanker",
+        "index": 84,
+        "question": "On a traditional crude oil carrier, it is possible to arrange the valves in the bottom of a pumproom so that cargo flows from one bottom line to another. When more than one grade of cargo is carried, what is the operational safeguard requirement regarding these valves?",
+        "answers": [
+            "That there is two valve segregation.",
+            "There is no so special requirement.",
+            "That one valve segregation is maintained at all times.",
+            "That two valves must be closed on each line or a “spacer” removed to ensure no direct connection between tanks."
+        ],
+        "correct_answer": "That there is two valve segregation.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Cargo Handling and Stowage, Management, Oil Tanker",
+        "index": 85,
+        "question": "When documenting Crude Oil Washing operations in the Oil Record Book, which of the following must be included in the sequence of entries?",
+        "answers": [
+            "The method of establishing that the cargo tanks were dry.",
+            "The average oil cargo temperature during the washing operation.",
+            "The ship’s speed during the washing operation.",
+            "The ullage in the tank at the commencement of washing."
+        ],
+        "correct_answer": "The method of establishing that the cargo tanks were dry.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Cargo Handling and Stowage, Management, Oil Tanker",
+        "index": 86,
+        "question": "With reference to oil tanker equipment, the abbreviation VECS stands for:",
+        "answers": [
+            "Vapour Emission Control System.",
+            "Vapour Emission Calibration System.",
+            "Vapour Emission Control Standard.",
+            "Vapour Ejection Control System."
+        ],
+        "correct_answer": "Vapour Emission Control System.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Cargo Handling and Stowage, Management, Oil Tanker",
+        "index": 87,
+        "question": "On board a crude oil tanker, guidance on the washing system and equipment along with the applicable operating procedures, can be found in:",
+        "answers": [
+            "The Operating and Equipment (COW) Manual.",
+            "The Oil Record Book – ship particulars page.",
+            "MARPOL – Annex I.",
+            "The ODME Operating Manual – manufacturer’s instruction section."
+        ],
+        "correct_answer": "The Operating and Equipment (COW) Manual.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Cargo Handling and Stowage, Management, Oil Tanker",
+        "index": 88,
+        "question": "Prior carrying out a Crude Oil Washing operation, the tank from which the crude is to be used for washing is usually partially discharged. This is done so as to:",
+        "answers": [
+            "Ensure that any settled water is removed from the tank and only “dry” crude is used for washing so as to avoid electrostatic hazards during washing.",
+            "Ensure that only the required quantity of oil are kept in the tank, so as to reduce the amount of slops retained on the ship.",
+            "Ensure that all water settled in the tank is removed prior washing, so as to ensure that the fresh cargo can be loaded on top without fear of contamination."
+        ],
+        "correct_answer": "Ensure that any settled water is removed from the tank and only “dry” crude is used for washing so as to avoid electrostatic hazards during washing.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Cargo Handling and Stowage, Management, Oil Tanker",
+        "index": 89,
+        "question": "How much liferaft capacity should be provided on a conventional cargo ship of more than 85 metres in length?",
+        "answers": [
+            "100 % of the complement if it can be readily launched on either side of the ship. If it cannot be readily launched on either side, 100 % must be provided on each side.",
+            "75 % of the complement on each side of the ship.",
+            "25 % of the complement on each side of the ship.",
+            "50 % of the complement on each side of the ship."
+        ],
+        "correct_answer": "100 % of the complement if it can be readily launched on either side of the ship. If it cannot be readily launched on either side, 100 % must be provided on each side.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Cargo Handling and Stowage, Management, Oil Tanker",
+        "index": 90,
+        "question": "The Reid Vapour Pressure (RVP) test is commonly used for measuring:",
+        "answers": [
+            "The absolute vapour pressure of the liquid at 37,8 °C.",
+            "The absolute vapour pressure of the liquid at 38,7 °C.",
+            "The absolute vapour pressure of the liquid at 59 °C.",
+            "The absolute vapour pressure of the liquid at 15,6 °C."
+        ],
+        "correct_answer": "The absolute vapour pressure of the liquid at 37,8 °C.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Cargo Handling and Stowage, Management, Oil Tanker",
+        "index": 91,
+        "question": "What is this?",
+        "answers": [
+            "The United Nations Packaging symbol used for Dangerous Goods.",
+            "The “Unitary Nomenclature” symbol placed alongside the name of a dangerous cargo in shipping documents to indicate that it appears on the list of approved international shipping names.",
+            "The United Nations stamp used for endorsing international shipping certificates.",
+            "The identification stamp placed in the passport of a stowaway by an Immigration Officer to indicate that his or her nationality is “unknown”."
+        ],
+        "correct_answer": "The United Nations Packaging symbol used for Dangerous Goods.",
+        "images": [
+            "/files/img/else/un.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Cargo Handling and Stowage, Management, Oil Tanker",
+        "index": 92,
+        "question": "The purpose of the “mud box” fitted on a tanker is to:",
+        "answers": [
+            "Restrict any particles and solids entering the pipeline system.",
+            "Catch the mud from the anchors and cables and deposit these at the windlass.",
+            "Collect ships waste and water mud when ballasting and de-ballasting.",
+            "Catch spills when connecting the discharge or loading hose."
+        ],
+        "correct_answer": "Restrict any particles and solids entering the pipeline system.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Cargo Handling and Stowage, Management, Oil Tanker",
+        "index": 93,
+        "question": "Special Areas as per MARPOL are:",
+        "answers": [
+            "Specific geographical sea areas in which special mandatory measures for the prevention of sea pollution by oil are required.",
+            "All sea areas within 50 miles from the nearest land, where that coastal state is a signatory to MARPOL.",
+            "Limited ocean and sea areas, listed under the OPA-90 Act, inside which the discharge of oil is prohibited and the penalty for doing so is an unlimited fine and jail sentence.",
+            "Specific geographical sea areas, designated as Marine Conservation Areas by the United Nations, in which any discharge from the cargo area of an oil tanker is strictly controlled."
+        ],
+        "correct_answer": "Specific geographical sea areas in which special mandatory measures for the prevention of sea pollution by oil are required.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Cargo Handling and Stowage, Management, Oil Tanker",
+        "index": 94,
+        "question": "As per SOLAS the Inert Gas System of an oil tanker must deliver the inert gas with a maximum level of oxygen of:",
+        "answers": [
+            "Not more than 5 % by volume.",
+            "Not less than 8 % by volume.",
+            "Between 8 % to 11 % by volume.",
+            "Maximum 3 % by volume."
+        ],
+        "correct_answer": "Not more than 5 % by volume.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Cargo Handling and Stowage, Management, Oil Tanker",
+        "index": 95,
+        "question": "The longitudinal bending moments caused by cargo distribution on an oil tanker need to be taken into consideration:",
+        "answers": [
+            "During loading, discharging and on loaded passage.",
+            "Only when on loaded passage in heavy seas and when the vessel is pitching.",
+            "Only during loading and discharging cargo.",
+            "Only when on ballast passage in heavy seas and when the vessel is pitching."
+        ],
+        "correct_answer": "During loading, discharging and on loaded passage.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Cargo Handling and Stowage, Management, Oil Tanker",
+        "index": 96,
+        "question": "During tank washing, besides maintaining the tank oxygen content below 8 % by volume, it should also be ensured:",
+        "answers": [
+            "That a positive pressure is maintained in the tank.",
+            "That a minimum of 2,4 bar inert gas inlet pressure is maintained in the tank.",
+            "That the tank is maintained at atmospheric pressure level.",
+            "That a negative pressure is maintained in the tank."
+        ],
+        "correct_answer": "That a positive pressure is maintained in the tank.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Cargo Handling and Stowage, Management, Oil Tanker",
+        "index": 97,
+        "question": "The term “consignee” is referred to as:",
+        "answers": [
+            "Any person, organization or government entitled to take delivery of a consignment.",
+            "Any person or company which seeks to transport a consignment of cargo by sea.",
+            "Any person or company responsible for the operation of a vessel which carries a consignment as freight.",
+            "Any person, organization or government that prepares a consignment for shipment."
+        ],
+        "correct_answer": "Any person, organization or government entitled to take delivery of a consignment.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Cargo Handling and Stowage, Management, Oil Tanker",
+        "index": 98,
+        "question": "During Crude Oil Washing, those areas of the cargo tanks which are not directly struck by the oil jet from the tank washing machines are referred to as:",
+        "answers": [
+            "Shadow areas.",
+            "Protected areas.",
+            "Hidden areas.",
+            "Deflected areas."
+        ],
+        "correct_answer": "Shadow areas.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Cargo Handling and Stowage, Management, Oil Tanker",
+        "index": 99,
+        "question": "With reference to the exposure of “vapours” from oil cargoes, “Short Term Exposure Limit” value is determined by:",
+        "answers": [
+            "The airborne concentration of a toxic substance averaged over any 15 minute period, usually expressed in ppm.",
+            "The airborne concentration of a toxic substance averaged over any 10 minute period, usually expressed in ppm.",
+            "The airborne concentration of a toxic substance averaged over any 30 minute period, usually expressed in ppm.",
+            "The airborne concentration of a toxic substance averaged over any 25 minute period, usually expressed in ppm."
+        ],
+        "correct_answer": "The airborne concentration of a toxic substance averaged over any 15 minute period, usually expressed in ppm.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Cargo Handling and Stowage, Management, Oil Tanker",
+        "index": 100,
+        "question": "Crude oils may be considered to consist:",
+        "answers": [
+            "A natural mixture of simple and complex hydrocarbon compounds.",
+            "A refined blend of hydrocarbon compounds and sulphur extracts.",
+            "A mixture of carbon extracts and naturally occurring wax.",
+            "A natural mixture of carbon and sulphur isomers."
+        ],
+        "correct_answer": "A natural mixture of simple and complex hydrocarbon compounds.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Cargo Handling and Stowage, Management, Oil Tanker",
+        "index": 101,
+        "question": "Segregated Ballast Tanks on an oil tanker may best be defined as:",
+        "answers": [
+            "Tanks which are completely separate from cargo or fuel oil systems, being permanently allocated to the carriage of ballast and fitted with their own pumps and associated piping.",
+            "Cargo tanks which may be used for the carriage of ballast.",
+            "Cargo tanks which each have their own individual pumps, are fitted with independent piping systems and are served by unconnected ventilation arrangements.",
+            "Cargo tanks which may be used for ballast, where the lines are not connected to the Oil Discharge Monitoring Equipment."
+        ],
+        "correct_answer": "Tanks which are completely separate from cargo or fuel oil systems, being permanently allocated to the carriage of ballast and fitted with their own pumps and associated piping.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Cargo Handling and Stowage, Management, Oil Tanker",
+        "index": 102,
+        "question": "As per international regulations, the minimum inert gas pressure required to be maintained in slop tanks if slops are retained on board is:",
+        "answers": [
+            "100 mm/water gauge.",
+            "10 mm/water gauge.",
+            "1 000 mm/water gauge.",
+            "750 mm/water gauge."
+        ],
+        "correct_answer": "100 mm/water gauge.",
+        "images": [],
+        "explanation": "ජාත්‍යන්තර මුහුදු ගමන් රෙගුලාසිවලට අනුව, ස්ලොප් ටැංකි (Slop tanks) තුළ අවම වශයෙන් 100 mm/water gauge ප්‍රමාණයක Inert Gas පීඩනයක් පවත්වා ගත යුතුය. මෙයින් අදහස් කරන්නේ ටැංකිය තුළ වායුගෝලීය පීඩනයට වඩා වැඩි ධන පීඩනයක් පවත්වා ගැනීමෙන් පිටත වාතය ඇතුළු වීම වළක්වන බවයි. 50 mm හෝ වෙනත් අඩු අගයන් ආරක්ෂිත සීමාවට වඩා අඩු බැවින් 100 mm යන්න නිවැරදි පිළිතුර වේ."
+    },
+    {
+        "category": "CES – Cargo Handling and Stowage, Management, Oil Tanker",
+        "index": 103,
+        "question": "On oil tankers, Cargo tanks can be isolated from machinery spaces by:",
+        "answers": [
+            "All the answers are good.",
+            "Cofferdams.",
+            "Ballast tanks.",
+            "Pump room."
+        ],
+        "correct_answer": "All the answers are good.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Cargo Handling and Stowage, Management, Oil Tanker",
+        "index": 104,
+        "question": "The examples of Aromatic Hydrocarbons will include:",
+        "answers": [
+            "Benzene, Toluene and Xylene.",
+            "Hydrogen Sulphide and Carbon Monoxide.",
+            "Carbon Dioxide and Hydrogen Peroxide.",
+            "Propane, Butane and Pentane."
+        ],
+        "correct_answer": "Benzene, Toluene and Xylene.",
+        "images": [],
+        "explanation": "Aromatic Hydrocarbons යනු චක්‍රීය කාබන් ව්‍යුහයක් (Benzene ring) සහිත හයිඩ්‍රොකාබන වේ. මෙයට නිවැරදිම උදාහරණ වන්නේ Benzene, Toluene සහ Xylene (BTX) ය. මේවා නැව්වල කාර්ගෝ ලෙස ප්‍රවාහනය කරන විට ඒවායේ විෂ සහිත බව සහ වාෂ්පශීලී බව පිළිබඳව විශේෂ අවධානයක් යොමු කළ යුතුය. මෙතේන්, එතේන් වැනි Alkanes හෝ එතිලීන් වැනි Alkenes මෙම කාණ්ඩයට අයත් නොවන බැවින් අනෙකුත් විකල්ප වැරදි වේ."
+    },
+    {
+        "category": "CES – Cargo Handling and Stowage, Management, Oil Tanker",
+        "index": 105,
+        "question": "The approximate Upper Flammable Limit of Crude Oil when measured as a percentage volume in air is:",
+        "answers": [
+            "9,5 %.",
+            "15 %.",
+            "2,2 %.",
+            "12,6 %."
+        ],
+        "correct_answer": "9,5 %.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Cargo Handling and Stowage, Management, Oil Tanker",
+        "index": 106,
+        "question": "In context of cargo oil depth and ullage measurements, the abbreviation UTI stands for:",
+        "answers": [
+            "Ullage Temperature Interface.",
+            "Ullage Topping Instrument.",
+            "Uniform Tank Indicator.",
+            "Uncorrected Tank Innage."
+        ],
+        "correct_answer": "Ullage Temperature Interface.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Cargo Handling and Stowage, Management, Oil Tanker",
+        "index": 107,
+        "question": "When commencing the cargo transfer at the terminal, the decision to commence the transfer is made by:",
+        "answers": [
+            "The mutual agreement of those in charge of cargo operation, both on board and ashore.",
+            "The person in charge of cargo operation on the vessel.",
+            "The person in charge of the chartering and operation of the vessel.",
+            "The person in charge of cargo operation at the terminal."
+        ],
+        "correct_answer": "The mutual agreement of those in charge of cargo operation, both on board and ashore.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Cargo Handling and Stowage, Management, Oil Tanker",
+        "index": 108,
+        "question": "With reference to ship stability, the letters “TPC” stand for:",
+        "answers": [
+            "Tonnes per Centimetre.",
+            "Tonnes per Centimetre Immersion.",
+            "Trim per Centimetre.",
+            "Tipping Perimeter Centre."
+        ],
+        "correct_answer": "Tonnes per Centimetre.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Cargo Handling and Stowage, Management, Oil Tanker",
+        "index": 109,
+        "question": "The maximum oxygen content by volume permitted in the cargo tanks throughout the crude oil washing operation is:",
+        "answers": [
+            "8 %.",
+            "10 %.",
+            "5 %.",
+            "3 %."
+        ],
+        "correct_answer": "8 %.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Cargo Handling and Stowage, Management, Oil Tanker",
+        "index": 110,
+        "question": "With reference to oil cargo calculations, API refers to:",
+        "answers": [
+            "American Petroleum Institute.",
+            "Aggregate per Inch.",
+            "Approved Petroleum Inspector.",
+            "Average Petroleum Index."
+        ],
+        "correct_answer": "American Petroleum Institute.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Cargo Handling and Stowage, Management, Oil Tanker",
+        "index": 111,
+        "question": "The one particular hazard to be taken care against, when using portable steam driven blowers for ventilating oil cargo tanks is:",
+        "answers": [
+            "That the exhaust does not vent into the cargo tank, in order to prevent possible build-up of static electricity.",
+            "That the steam outlet must point vertically upwards to avoid possibly burning the legs of passing personnel.",
+            "That prolonged use may cause the core material of the fan to heat up to a point where it may become a source of ignition.",
+            "That plastic extension tubes should not be used, in case the top collar overheats and melts, causing the tube to drop into the tank."
+        ],
+        "correct_answer": "That the exhaust does not vent into the cargo tank, in order to prevent possible build-up of static electricity.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Cargo Handling and Stowage, Management, Oil Tanker",
+        "index": 112,
+        "question": "Under the ISM Code the provision of individual control measures for specific work-related tasks exist in the:",
+        "answers": [
+            "Permit to Work system.",
+            "Documentation of individual job descriptions.",
+            "Definition of supervisory responsibilities.",
+            "Due diligence clause."
+        ],
+        "correct_answer": "Permit to Work system.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Cargo Handling and Stowage, Management, Oil Tanker",
+        "index": 113,
+        "question": "When cargo discharge reaches stripping levels on an oil tanker, it is necessary to reduce the inert gas pressure so as to:",
+        "answers": [
+            "Minimise blowback.",
+            "Avoid locking the cargo pump impeller.",
+            "Comply with the requirement of MARPOL Annex VI.",
+            "Avoid over-capacity in the IG generator."
+        ],
+        "correct_answer": "Minimise blowback.",
+        "images": [],
+        "explanation": "තෙල් නැව්වල (Oil Tankers) භාණ්ඩ ගොඩබෑමේ අවසාන අදියරේදී (Stripping levels), ටැංකිය තුළ ඇති නිෂ්ක්‍රීය වායු (Inert Gas) පීඩනය අඩු කිරීම අත්‍යවශ්‍ය වේ. මෙසේ කරන්නේ පොම්ප කිරීමේ ක්‍රියාවලියේදී නල පද්ධතිය තුළින් වාතය හෝ ගෑස් ආපසු හැරී ඒම (Blowback) අවම කිරීමටයි. පීඩනය වැඩි වුවහොත් පොම්පය තුළට වායූන් ඇතුළු වී එහි ක්‍රියාකාරිත්වයට බාධා විය හැක. අනෙකුත් විකල්ප වැරදි වන්නේ පීඩනය වැඩි කිරීමෙන් පොම්ප කිරීමේ වේගය වැඩි නොවන අතර එය අනතුරුදායක තත්ත්වයන් ඇති කළ හැකි බැවිනි."
+    },
+    {
+        "category": "CES – Cargo Handling and Stowage, Management, Oil Tanker",
+        "index": 114,
+        "question": "The purpose of the decanting line between two slop tanks, where fitted, is:",
+        "answers": [
+            "To enable most of the recovered oil to be retained in the primary slop tank, while the cleaner part of the water will flow into the secondary slop tank, where it can be re-used as wash-water.",
+            "To enable the filling of the secondary slop tank via the primary slop tank.",
+            "To enable both the primary and secondary slop tank to be filled without using the main cargo lines.",
+            "To avoid a build-up of static electricity during water washing, caused by air being drawn in as the primary slop tank empties."
+        ],
+        "correct_answer": "To enable most of the recovered oil to be retained in the primary slop tank, while the cleaner part of the water will flow into the secondary slop tank, where it can be re-used as wash-water.",
+        "images": [],
+        "explanation": ""
+    }
+]

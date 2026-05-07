@@ -1,0 +1,583 @@
+[
+    {
+        "category": "CES – Engine, Support, Motoman",
+        "index": 1,
+        "question": "What is the main purpose of a heat exchanger in a cooling water system?",
+        "answers": [
+            "To transfer heat from one fluid to another",
+            "To reduce engine room temperature.",
+            "To increase fluid pressure."
+        ],
+        "correct_answer": "To transfer heat from one fluid to another",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Support, Motoman",
+        "index": 2,
+        "question": "What is the main purpose of an observation tank in a boiler feed system?",
+        "answers": [
+            "To check condensate returns for oil.",
+            "To allow the boiler water level to be monitored.",
+            "To measure steam pressure."
+        ],
+        "correct_answer": "To check condensate returns for oil.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Support, Motoman",
+        "index": 3,
+        "question": "Why is it important that all the system valves are closed after completing bilge or ballast pumping operations?",
+        "answers": [
+            "To avoid accidental intake of water into the engine room in case of valve or pipeline failure.",
+            "Don’t know.",
+            "To prevent pressure build-up in the system."
+        ],
+        "correct_answer": "To avoid accidental intake of water into the engine room in case of valve or pipeline failure.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Support, Motoman",
+        "index": 4,
+        "question": "What is the normal indication that an oil filter is becoming blocked?",
+        "answers": [
+            "High temperature of the oil.",
+            "The pressure drop across the filter.",
+            "Unusual noise from the engine."
+        ],
+        "correct_answer": "The pressure drop across the filter.",
+        "images": [],
+        "explanation": "ඔයිල් ෆිල්ටරයක් අවහිර වී ඇති බව හඳුනාගත හැකි නිවැරදිම දර්ශකය වන්නේ එම ෆිල්ටරයේ ඇතුල් වන පැත්ත සහ පිටවන පැත්ත අතර ඇති පීඩන වෙනසයි (pressure drop across the filter). ෆිල්ටරය තුළ අපද්‍රව්‍ය පිරී ඇති විට, තෙල් ගලා යාමට අපහසු වී ඇතුල් වන පැත්තේ පීඩනය වැඩි වේ. බොහෝ ෆිල්ටර් වල මේ සඳහා differential pressure gauge එකක් සවි කර ඇත. පීඩනය අඩුවීම පමණක් හෝ එන්ජිම නැවතීම වැනි දේ අවහිරතාවය හඳුනා ගැනීමට ප්‍රායෝගික දර්ශක නොවේ."
+    },
+    {
+        "category": "CES – Engine, Support, Motoman",
+        "index": 5,
+        "question": "What is a hydraulic hand pump usually used for?",
+        "answers": [
+            "A hydraulic hand pump is usually used to tighten G-nuts",
+            "Don’t know.",
+            "To measure fluid levels."
+        ],
+        "correct_answer": "A hydraulic hand pump is usually used to tighten G-nuts",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Support, Motoman",
+        "index": 6,
+        "question": "What action should be taken by the engine room rating if a piece of machinery is not functioning properly?",
+        "answers": [
+            "Don’t know.",
+            "If machinery does not function properly the duty Engineer should be informed immediately so that plans for further action can be made.",
+            "To attempt to fix the machinery without informing anyone."
+        ],
+        "correct_answer": "If machinery does not function properly the duty Engineer should be informed immediately so that plans for further action can be made.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2025/06/kart-1.jpg"
+        ],
+        "explanation": "එන්ජින් රූම් එකක සේවය කරන රේටින් (Rating) කෙනෙකු යම් යන්ත්‍රයක හෝ උපාංගයක දෝෂයක් දුටු විට වහාම ඒ බව රාජකාරියේ නියුතු ඉංජිනේරුවරයාට (Duty Engineer) දැනුම් දිය යුතුය. මන්දයත්, සුළු දෝෂයක් විශාල යාන්ත්‍රික බිඳවැටීමකට හෝ නැවේ ආරක්ෂාවට තර්ජනයක් වන අනතුරකට හේතු විය හැකි බැවිනි. දෝෂය තනිවම පිළිසකර කිරීමට උත්සාහ කිරීම හෝ නොසලකා හැරීම භයානක විය හැකි අතර, ඉංජිනේරුවරයාට දැනුම් දීමෙන් පසු ඔහු විසින් නිසි පියවර ගනු ඇත."
+    },
+    {
+        "category": "CES – Engine, Support, Motoman",
+        "index": 7,
+        "question": "Apart from red, what other colour is frequently used for a CO2 extinguisher?",
+        "answers": [
+            "Black",
+            "Green.",
+            "Blue."
+        ],
+        "correct_answer": "Black",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2025/06/kart-2.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Support, Motoman",
+        "index": 8,
+        "question": "Where would you normally expect to find the air vent cock on a steam boiler?",
+        "answers": [
+            "Don’t know.",
+            "At the highest point of the steam drum.",
+            "Near the water level gauge."
+        ],
+        "correct_answer": "At the highest point of the steam drum.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Support, Motoman",
+        "index": 9,
+        "question": "Which of the given options best completes the following statement? You should never attempt to light a boiler until… .",
+        "answers": [
+            "… the furnace purge sequence is completed.",
+            "Don’t know.",
+            "… the water level is at the correct height."
+        ],
+        "correct_answer": "… the furnace purge sequence is completed.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Support, Motoman",
+        "index": 10,
+        "question": "The main risk for people when using CO2 as an extinguishing agent in a closed space is:",
+        "answers": [
+            "Air suppression",
+            "Low temperature at the nozzle.",
+            "Smoke inhalation."
+        ],
+        "correct_answer": "Air suppression",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2025/06/kart-3-1.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Support, Motoman",
+        "index": 11,
+        "question": "In the fire fighting of fires of a type C with dry chemical powder extinguishers, the application is performed:",
+        "answers": [
+            "Don’t know.",
+            "in a continuous way so that the powder spray is in the same direction as the one of the flame.",
+            "in short bursts to avoid over-application."
+        ],
+        "correct_answer": "in a continuous way so that the powder spray is in the same direction as the one of the flame.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2025/06/kart-4.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Support, Motoman",
+        "index": 12,
+        "question": "The container for an inflatable liferafts shall be made:",
+        "answers": [
+            "watertight, as far as possible, except for drain holes in the container bottom.",
+            "Don’t know.",
+            "of lightweight materials for easy handling."
+        ],
+        "correct_answer": "watertight, as far as possible, except for drain holes in the container bottom.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2025/06/kart-5-1.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Support, Motoman",
+        "index": 13,
+        "question": "In which way shall a survivor be hauled out of the sea?",
+        "answers": [
+            "Don’t know.",
+            "Horizontal.",
+            "Vertical."
+        ],
+        "correct_answer": "Horizontal.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Support, Motoman",
+        "index": 14,
+        "question": "How should the painter of a liferaft which is fitted with a hydrostatic release be secured to the ship?",
+        "answers": [
+            "Secured via a weak link to a secure part of the ship.",
+            "Directly to a secure point on the ship.",
+            "Loosely tied to the lifeboat."
+        ],
+        "correct_answer": "Secured via a weak link to a secure part of the ship.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2025/06/kart-6-1.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Support, Motoman",
+        "index": 15,
+        "question": "One of the checks during the annual Class survey of the UMS functions is focusing on cleanliness of the engine room. What is the reason for such a check?",
+        "answers": [
+            "To avoid frequent alarms.",
+            "To reduce the general risk of fire in an unmanned engine room.",
+            "To improve the efficiency of the machinery."
+        ],
+        "correct_answer": "To reduce the general risk of fire in an unmanned engine room.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2025/06/kart-7-1.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Support, Motoman",
+        "index": 16,
+        "question": "If you detect a fire on board the ship, dependent on the situation, which of the following actions is the first to be taken?",
+        "answers": [
+            "Raise the fire alarm.",
+            "Don’t know.",
+            "Attempt to extinguish the fire immediately."
+        ],
+        "correct_answer": "Raise the fire alarm.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Support, Motoman",
+        "index": 17,
+        "question": "Which of these actions should crew take if a suspicious object that may be a bomb is located during a search?",
+        "answers": [
+            "Don’t know.",
+            "Confirm with their search partner that the object found is suspicious.",
+            "Immediately attempt to disarm the object."
+        ],
+        "correct_answer": "Confirm with their search partner that the object found is suspicious.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Support, Motoman",
+        "index": 18,
+        "question": "Hot work is to be carried out close to a smoke detector in the engine room. What precautions should be taken?",
+        "answers": [
+            "Notify Deck Officer and Engineer Officer in charge. The loop for the smoke detector should be isolated while work is done and normal precautions for hot work taken including permit to work.",
+            "Don’t know.",
+            "Use a fire extinguisher nearby."
+        ],
+        "correct_answer": "Notify Deck Officer and Engineer Officer in charge. The loop for the smoke detector should be isolated while work is done and normal precautions for hot work taken including permit to work.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2025/06/kart-8.jpg"
+        ],
+        "explanation": "එන්ජින් කාමරයේ දුම් අනාවරකයක් (Smoke detector) අසල උණුසුම් වැඩ (Hot work) කිරීමේදී, අනතුරු ඇඟවීමේ පද්ධතිය ක්‍රියාත්මක වීම වැළැක්වීම සඳහා අදාළ ලූපය (Loop) තාවකාලිකව හුදකලා (Isolate) කළ යුතුය. එසේම ඒ පිළිබඳව තට්ටුවේ නිලධාරියා (Deck Officer) සහ ඉංජිනේරු නිලධාරියා දැනුවත් කර 'Permit to work' බලපත්‍රයක් ලබාගත යුතුය. අනාවරකය වැසීම පමණක් ප්‍රමාණවත් නොවන අතර, පද්ධතියේ ක්‍රියාකාරිත්වය නිසි පරිදි කළමනාකරණය නොකිරීම අනතුරුදායක බැවින් අනෙකුත් විකල්ප වැරදි වේ."
+    },
+    {
+        "category": "CES – Engine, Support, Motoman",
+        "index": 19,
+        "question": "Why should boiler sootblowers normally only be operated in the correct sequence?",
+        "answers": [
+            "Don’t know.",
+            "To ensure soot is cleared progressively from the bottom tubes to the top and toward the boiler uptakes.",
+            "To prevent damage to the sootblowers."
+        ],
+        "correct_answer": "To ensure soot is cleared progressively from the bottom tubes to the top and toward the boiler uptakes.",
+        "images": [],
+        "explanation": "බොයිලේරු සූට් බ්ලෝවර් (sootblowers) නිවැරදි අනුපිළිවෙලට ක්‍රියාත්මක කළ යුත්තේ දැලි සහ අළු පහළ නලවල සිට ඉහළටත්, ඉන්පසු දුම් කවුළුව (uptake) දෙසටත් ක්‍රමානුකූලව තල්ලු කර යැවීමටයි. මෙලෙස සිදු කිරීමෙන් ඉවත් කරන දැලි නැවත පිරිසිදු කරන ලද පහළ නල මත තැන්පත් වීම වළක්වයි. වැරදි අනුපිළිවෙලක් අනුගමනය කිරීමෙන් දැලි නිසි ලෙස බැහැර නොවන අතර බොයිලේරුවේ කාර්යක්ෂමතාව අඩු විය හැක."
+    },
+    {
+        "category": "CES – Engine, Support, Motoman",
+        "index": 20,
+        "question": "When cleaning boiler burner nozzles that have just been in service the watch rating notices that the nozzle holes are partially blocked. Which of the methods given in the options is the preferred method to use in order to avoid damaging the nozzle holes?",
+        "answers": [
+            "Use cleaning wires starting with a small gauge and gradually work up to the full size of the nozzle hole.",
+            "Don’t know.",
+            "Use a high-pressure water jet."
+        ],
+        "correct_answer": "Use cleaning wires starting with a small gauge and gradually work up to the full size of the nozzle hole.",
+        "images": [],
+        "explanation": "බොයිලේරු බර්නර් නොසල් (burner nozzles) පිරිසිදු කිරීමේදී, එහි සිදුරු වලට හානි නොවන පරිදි කටයුතු කිරීම අත්‍යවශ්‍ය වේ. මේ සඳහා වඩාත්ම සුදුසු ක්‍රමය වන්නේ කුඩා ප්‍රමාණයේ සිට නොසල් සිදුරේ නියමිත ප්‍රමාණය දක්වා ක්‍රමයෙන් විශාල වන පිරිසිදු කිරීමේ කම්බි (cleaning wires) භාවිතා කිරීමයි. පිහි හෝ දෘඩ ලෝහ කූරු භාවිතයෙන් සිදුරේ හැඩය වෙනස් විය හැකි අතර, එමගින් ඉන්ධන දහනය අක්‍රමවත් වී බොයිලේරුවේ කාර්යක්ෂමතාව අඩු වේ."
+    },
+    {
+        "category": "CES – Engine, Support, Motoman",
+        "index": 21,
+        "question": "While assisting the watchkeeper with routine cleaning of the fuel oil separator the watch rating is requested to clean the plate stack. Which of the options given is the preferred method for such a task?",
+        "answers": [
+            "Don’t know.",
+            "Soak the plates in a suitable solvent until all of the dirt has loosened off and wipe clean with rags.",
+            "Use a wire brush to scrub the plates."
+        ],
+        "correct_answer": "Soak the plates in a suitable solvent until all of the dirt has loosened off and wipe clean with rags.",
+        "images": [],
+        "explanation": "ඉන්ධන පිරිපහදු කරන සෙපරේටරයක (Purifier/Clarifier) ප්ලේට් ස්ටැක් එක පිරිසිදු කිරීම සඳහා වඩාත් සුදුසු ක්‍රමය වන්නේ ඒවා සුදුසු ද්‍රාවණයක (solvent) බහා තබා, පසුව රෙදි කැබලි ආධාරයෙන් පිස දැමීමයි. ප්ලේට් යනු ඉතා තුනී සහ නිරවද්‍යව නිර්මාණය කර ඇති කොටස් වේ. ඒවා ලෝහමය සූරන (scrapers) හෝ වයර් බුරුසු භාවිතයෙන් පිරිසිදු කළහොත් ප්ලේට් මතුපිට සීරීම් ඇති විය හැකි අතර පසුව තෙල් පිරිපහදු කිරීමේ කාර්යක්ෂමතාව අඩු වේ. එසේම තදින් ඇති කුණු ඉවත් කිරීමට ජලය පමණක් ප්‍රමාණවත් නොවන බැවින් රසායනික ද්‍රාවණයක් භාවිතා කිරීම අත්‍යවශ්‍ය වේ."
+    },
+    {
+        "category": "CES – Engine, Support, Motoman",
+        "index": 22,
+        "question": "As part of the routine duties a rating on boiler watch is requested to assist with the daily chemical treatment for the boiler and feed water systems. Where will the rating find the information relating to the hazards associated with the chemicals involved in this task?",
+        "answers": [
+            "The material safety data sheets supplied with the chemicals.",
+            "Don’t know.",
+            "The equipment operating manual."
+        ],
+        "correct_answer": "The material safety data sheets supplied with the chemicals.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Support, Motoman",
+        "index": 23,
+        "question": "After completion of a cleaning job on some machinery components at sea, the engine watch rating is instructed to dispose of a small amount of dirty diesel oil which is left in a bucket. How should the dirty oil be disposed of?",
+        "answers": [
+            "Put it straight into the dirty oil tank for incineration at the next opportunity.",
+            "Don’t know.",
+            "Pour it overboard to disperse it."
+        ],
+        "correct_answer": "Put it straight into the dirty oil tank for incineration at the next opportunity.",
+        "images": [],
+        "explanation": "නැවක භාවිතා කරන ලද ඕනෑම තෙල් වර්ගයක් පරිසරයට මුදා හැරීම MARPOL ජාත්‍යන්තර රෙගුලාසි මගින් දැඩි ලෙස තහනම් කර ඇත. එබැවින් පිරිසිදු කිරීමෙන් පසු ඉතිරි වන අපිරිසිදු ඩීසල් තෙල්, නැවේ ඇති අපිරිසිදු තෙල් ටැංකියට (dirty oil tank) දැමිය යුතුය. පසුව එය නැවේ ඇති දහන යන්ත්‍රය (incinerator) මගින් ආරක්ෂිතව පුළුස්සා දැමීම හෝ වරායකදී ඉවත් කිරීම කළ යුතුය."
+    },
+    {
+        "category": "CES – Engine, Support, Motoman",
+        "index": 24,
+        "question": "An engine room rating is assisting the duty engineer during a period of UMS operation. After completing the tasks they have been busy with the engineer and rating leave the engine room which is returned to UMS mode. The rating realises that an oil tank filling valve has been left open. What action should be taken?",
+        "answers": [
+            "Don’t know.",
+            "Inform the duty engineer immediately so that the engine room can be re-entered and the valve can be shut.",
+            "Wait until the next watch to report it."
+        ],
+        "correct_answer": "Inform the duty engineer immediately so that the engine room can be re-entered and the valve can be shut.",
+        "images": [],
+        "explanation": "UMS (Unattended Machinery Space) මෙහෙයුමකදී යම් වැරදීමකින් තෙල් ටැංකියක් පුරවන වෑල්වයක් (Valve) විවෘතව තබා ගියහොත්, ඒ පිළිබඳව වහාම රාජකාරියේ නියුතු ඉංජිනේරුවරයා දැනුවත් කළ යුතුය. ඉන්පසු නියමිත ආරක්ෂිත ක්‍රමවේද අනුගමනය කර නැවත එන්ජින් රූම් එකට ඇතුළු වී වෑල්වය වසා දැමිය යුතුය. එසේ නොකළහොත් තෙල් පිටාර ගලා (Overflow) ගිනි ගැනීමක් වැනි විශාල විනාශයක් සිදුවීමට ඉඩ ඇත."
+    },
+    {
+        "category": "CES – Engine, Support, Motoman",
+        "index": 25,
+        "question": "What is the most suitable type of packing for a shaft gland of a pump used for seawater duties?",
+        "answers": [
+            "Greasy cotton packing.",
+            "Don’t know.",
+            "Synthetic rubber packing."
+        ],
+        "correct_answer": "Greasy cotton packing.",
+        "images": [],
+        "explanation": "මුහුදු ජලය පම්ප් කරන පොම්පයක shaft gland එකක් සඳහා වඩාත් සුදුසු ඇසුරුම වන්නේ 'Greasy cotton packing' ය. කපු (Cotton) මෘදු වන අතර ජලය උරා ගැනීමේ හැකියාව ඇත. එහි අඩංගු ග්‍රීස් මගින් shaft එක ලිහිසි කරන අතර මුහුදු ජලයෙන් සිසිලනය ලබා දෙයි. රබර් හෝ ප්ලාස්ටික් ඇසුරුම් අධික තාපය නිසා දිය විය හැකි අතර shaft එකට හානි කළ හැකිය. ඇස්බැස්ටෝස් (Asbestos) සෞඛ්‍යයට අහිතකර බැවින් දැන් භාවිතා නොවේ. ලෝහමය ඇසුරුම් (Metallic packing) මගින් shaft එක සීරීමට ලක්විය හැකි බැවින් කපු මිශ්‍ර ඇසුරුම් වඩාත් ප්‍රායෝගික වේ."
+    },
+    {
+        "category": "CES – Engine, Support, Motoman",
+        "index": 26,
+        "question": "A pump cover is sealed using a paper gasket which is damaged during overhaul. There are no spare gaskets available. How should the casing be sealed when reassembling the pump?",
+        "answers": [
+            "Don’t know.",
+            "Make a new gasket from old chart paper or other similar material of the same thickness as the original gasket.",
+            "Use sealant instead of a gasket."
+        ],
+        "correct_answer": "Make a new gasket from old chart paper or other similar material of the same thickness as the original gasket.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Support, Motoman",
+        "index": 27,
+        "question": "A small electric motor needs to be taken to the bottom plates for fitting to a domestic water pump. It is only just too heavy to be manually carried so is to be lowered using the engine room crane. Which of the options given would be a suitable strop to use for the operation?",
+        "answers": [
+            "Any certified strop which has a safe working load greater than the weight of the motor.",
+            "Don’t know.",
+            "A homemade strop made from rope."
+        ],
+        "correct_answer": "Any certified strop which has a safe working load greater than the weight of the motor.",
+        "images": [],
+        "explanation": "දොඹකරයක් (Crane) භාවිතයෙන් බර උපකරණයක් පහත් කිරීමේදී, ඒ සඳහා භාවිතා කරන ඕනෑම පටියක් හෝ ලණුවක් (Strop) අනිවාර්යයෙන්ම සහතික කරන ලද (Certified) එකක් විය යුතු අතර එහි ආරක්ෂිත වැඩ බර (Safe Working Load - SWL) අදාළ මෝටරයේ බරට වඩා වැඩි විය යුතුය. මෙය නාවික ඉංජිනේරු ක්ෂේත්‍රයේ ආරක්ෂාව පිළිබඳ මූලික නීතියකි. සහතික නොකළ උපකරණ භාවිතා කිරීම අනතුරුදායක වන අතර ලණුවේ දිග හෝ වර්ගය පමණක් සලකා බැලීම ප්‍රමාණවත් නොවේ."
+    },
+    {
+        "category": "CES – Engine, Support, Motoman",
+        "index": 28,
+        "question": "An engine room rating is assisting in the maintenance of some of the valves on the low pressure steam range. Which packing material, from the options given, would be the best choice for repacking the gland of a low pressure steam valve?",
+        "answers": [
+            "Don’t know.",
+            "Graphite fibre packing.",
+            "Rubber packing."
+        ],
+        "correct_answer": "Graphite fibre packing.",
+        "images": [],
+        "explanation": "අඩු පීඩන වාෂ්ප වෑල්ව (Low pressure steam valves) සඳහා ග්‍රැෆයිට් ෆයිබර් පැකින් (Graphite fibre packing) වඩාත් සුදුසු වේ. ග්‍රැෆයිට් වලට ඉහළ උෂ්ණත්වයන්ට ඔරොත්තු දීමේ හැකියාව ඇති අතර එය ස්වයං-ලිහිස්සි ද්‍රව්‍යයක් (Self-lubricating) ලෙස ක්‍රියා කරයි. කපු (Cotton) හෝ හෙම්ප් (Hemp) වැනි ද්‍රව්‍ය වාෂ්ප වල උෂ්ණත්වය නිසා ඉක්මනින් පිලිස්සී ගොස් කාන්දු වීම් ඇති විය හැක. PTFE පැකින් ද භාවිතා කළ හැකි වුවත්, වාෂ්ප පද්ධති සඳහා වඩාත් විශ්වාසදායක වන්නේ ග්‍රැෆයිට් ය."
+    },
+    {
+        "category": "CES – Engine, Support, Motoman",
+        "index": 29,
+        "question": "Following maintenance work on an air compressor the engine room rating is asked to put the tools away. It is noticed that an allen key is missing from the set. What action should be taken?",
+        "answers": [
+            "Inform the engineer in case it has been left inside the compressor when it was closed up.",
+            "Don’t know.",
+            "Continue putting the tools away and ignore it."
+        ],
+        "correct_answer": "Inform the engineer in case it has been left inside the compressor when it was closed up.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Support, Motoman",
+        "index": 30,
+        "question": "During maintenance work on a fuel tank the engine room ratings are removing scale in preparation for re-coating. One of the ratings suddenly notices the smell of fumes even though the atmosphere had been satisfactorily tested before the work started. What action should the ratings take?",
+        "answers": [
+            "Leave the tank immediately and have the atmosphere retested.",
+            "Don’t know.",
+            "Continue working as long as the fumes are not strong."
+        ],
+        "correct_answer": "Leave the tank immediately and have the atmosphere retested.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Support, Motoman",
+        "index": 31,
+        "question": "A spare cylinder head for the generator needs to be lifted from its storage cradle to the generator flat. Because of its location the engine room crane cannot be positioned directly above it. What method should be used to bring the cylinder head into position?",
+        "answers": [
+            "Don’t know.",
+            "Rig chain blocks to lift the cylinder head from its cradle and then transfer it gradually over to the crane hook by working the chain blocks.",
+            "Use a forklift to move it directly."
+        ],
+        "correct_answer": "Rig chain blocks to lift the cylinder head from its cradle and then transfer it gradually over to the crane hook by working the chain blocks.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Support, Motoman",
+        "index": 32,
+        "question": "The threads on the drain plug for the bronze end cover of a sea water cooled heat exchanger have been badly damaged during maintenance. There is no spare brass plug available. What is the best solution for repairing the heat exchanger?",
+        "answers": [
+            "Make a new brass plug on the lathe to fit the drain hole.",
+            "Don’t know.",
+            "Use a temporary sealant to cover the hole."
+        ],
+        "correct_answer": "Make a new brass plug on the lathe to fit the drain hole.",
+        "images": [],
+        "explanation": "තාප හුවමාරුකයක (Heat exchanger) ලෝකඩ කෙළවර ආවරණයක නූල් (Threads) හානි වී ඇති විට සහ අමතර කොටස් නොමැති විට, වඩාත්ම තාක්ෂණික විසඳුම වන්නේ ලැතර් යන්ත්‍රයක් (Lathe) භාවිතයෙන් එම සිදුරට නිවැරදිව ගැලපෙන නව පිත්තල ඇබයක් (Brass plug) සකසා ගැනීමයි. මෙයට හේතුව වන්නේ ලෝකඩ සමග වෙනත් ලෝහ (උදාහරණයක් ලෙස වානේ) භාවිතා කළහොත් ගැල්වනික් විඛාදනය (Galvanic corrosion) ඇති වී උපකරණයට හානි විය හැකි බැවිනි. ලී ඇබ හෝ ප්ලාස්ටික් ඇබ පීඩනය දරා ගැනීමට ප්‍රමාණවත් නොවන නිසා ඒවා නුසුදුසුය."
+    },
+    {
+        "category": "CES – Engine, Support, Motoman",
+        "index": 33,
+        "question": "A new gasket has been fitted to the manhole cover of a ballast tank. Which of the options given would be a suitable test that the new gasket is correctly fitted?",
+        "answers": [
+            "Inspect the gasket visually.",
+            "Carry out a hose test on the manhole cover.",
+            "Perform a pressure test on the tank."
+        ],
+        "correct_answer": "Carry out a hose test on the manhole cover.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Support, Motoman",
+        "index": 34,
+        "question": "There are many types of pumps fitted onboard ship which an engine room rating may be required to assist with the maintenance of. Which type of pump is shown in the illustration?",
+        "answers": [
+            "A centrifugal pump.",
+            "A scroll pump.",
+            "A diaphragm pump.",
+            "A gear pump."
+        ],
+        "correct_answer": "A centrifugal pump.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2025/06/kart-9.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Support, Motoman",
+        "index": 35,
+        "question": "A threaded hole is to be formed in a steel plate using a tap and wrench. When drilling the hole which of the options best describes the required drill size?",
+        "answers": [
+            "Don’t know.",
+            "The drill should be larger than the diameter of the tap.",
+            "The drill should be a smaller size than the diameter of the tap.",
+            "The drill should be the same size as the tap."
+        ],
+        "correct_answer": "The drill should be a smaller size than the diameter of the tap.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Support, Motoman",
+        "index": 36,
+        "question": "Tab washers are often fitted to bolted assemblies to prevent the nuts and bolts slackening. For an assembly where the nuts are positioned at the top select the option which describes the correct method of locating the tab washers.",
+        "answers": [
+            "Don’t know.",
+            "Bend the inner tab up against one flat of the nut and the other tab down over the edge of the component.",
+            "Bend both tabs down over the edge of the component.",
+            "Bend the inner tab down and the outer tab up against the nut."
+        ],
+        "correct_answer": "Bend the inner tab up against one flat of the nut and the other tab down over the edge of the component.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Support, Motoman",
+        "index": 37,
+        "question": "What is the meaning of «make fast»?",
+        "answers": [
+            "Don’t know.",
+            "To secure a rope.",
+            "To loosen a knot.",
+            "To tie a bowline knot."
+        ],
+        "correct_answer": "To secure a rope.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2025/06/ris-10.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Support, Motoman",
+        "index": 38,
+        "question": "What does the word «pirates» mean?",
+        "answers": [
+            "Don’t know.",
+            "Pirates are persons who attempt to board and take over a ship at sea.",
+            "Individuals who sail for treasure.",
+            "People who fish illegally."
+        ],
+        "correct_answer": "Pirates are persons who attempt to board and take over a ship at sea.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Support, Motoman",
+        "index": 39,
+        "question": "What is the room often called where the crew eat their meals?",
+        "answers": [
+            "The crew mess.",
+            "The crew galley.",
+            "The dining hall.",
+            "The mess deck."
+        ],
+        "correct_answer": "The crew mess.",
+        "images": [],
+        "explanation": "නැවක කාර්ය මණ්ඩලය ආහාර ගන්නා ස්ථානය හැඳින්වීමට භාවිතා කරන නිවැරදි නාවික පාරිභාෂිත වචනය වන්නේ 'Mess' (Crew mess) යන්නයි. 'Dining room' යන වචනය සාමාන්‍යයෙන් මගී නැව්වල හෝ නිවාසවල භාවිතා වන අතර, නැවක කාර්ය මණ්ඩලය සඳහා වෙන් කර ඇති කොටසට 'Mess room' යැයි කියනු ලැබේ. 'Kitchen' යන්න නැවකදී 'Galley' ලෙස හඳුන්වනු ලබන අතර එය ආහාර පිසින ස්ථානයයි. එබැවින් කාර්ය මණ්ඩලය ආහාර ගන්නා ස්ථානය නිවැරදිව 'Crew mess' ලෙස හඳුන්වයි."
+    },
+    {
+        "category": "CES – Engine, Support, Motoman",
+        "index": 40,
+        "question": "For transporting a casualty with a fracture; If a Neil-Robertson stretcher is not available:",
+        "answers": [
+            "Don’t know.",
+            "A wide wooden board may be used.",
+            "A regular stretcher can be used.",
+            "A blanket should be used instead."
+        ],
+        "correct_answer": "A wide wooden board may be used.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2025/06/kart-11-1.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Support, Motoman",
+        "index": 41,
+        "question": "Which statement about the garbage record book is true?",
+        "answers": [
+            "Don’t know.",
+            "It is used to record all operational and accidental garbage discharges.",
+            "It is used to log crew meals.",
+            "It is used to track fuel consumption."
+        ],
+        "correct_answer": "It is used to record all operational and accidental garbage discharges.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2025/06/kart-12.jpg"
+        ],
+        "explanation": "කසළ වාර්තා පොත (Garbage Record Book) යනු නැවක සිදුවන සියලුම මෙහෙයුම් සහ අහඹු ලෙස සිදුවන කසළ බැහැර කිරීම් වාර්තා කර තැබිය යුතු නිල ලේඛනයකි. MARPOL Annex V රෙගුලාසිවලට අනුව මෙය අනිවාර්ය වේ. මෙහි කසළ පුළුස්සා දැමීම (Incineration), මුහුදට මුදා හැරීම හෝ ගොඩබිමට භාර දීම යන සියල්ල විස්තරාත්මකව සටහන් කළ යුතුය. මෙය ආහාර අපද්‍රව්‍ය සඳහා පමණක් සීමා වූවක් නොවන අතර, වෙරළට ආසන්නව සිටින විට පමණක් නොව මුළු ගමන පුරාම පවත්වා ගත යුතුය."
+    },
+    {
+        "category": "CES – Engine, Support, Motoman",
+        "index": 42,
+        "question": "An International oil pollution prevention certificate is required for:",
+        "answers": [
+            "Oil tankers 150 gross tons or more.",
+            "Don’t know.",
+            "Fishing vessels under 100 gross tons.",
+            "Cargo ships less than 200 gross tons."
+        ],
+        "correct_answer": "Oil tankers 150 gross tons or more.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2025/06/kart-13-1.jpg"
+        ],
+        "explanation": ""
+    }
+]

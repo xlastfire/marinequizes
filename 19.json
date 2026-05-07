@@ -1,0 +1,335 @@
+[
+    {
+        "category": "CES – Junior, Reefer",
+        "index": 1,
+        "question": "An electrical power emergency source on ship is required because:",
+        "answers": [
+            "It satisfies the SOLAS (and other) requirement for the ship safety.",
+            "The main diesel generator(s) can be taken out of service for overhaul of repair.",
+            "The ship’s total load can be shared between main and emergency generators."
+        ],
+        "correct_answer": "It satisfies the SOLAS (and other) requirement for the ship safety.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Junior, Reefer",
+        "index": 2,
+        "question": "Why is precooling of cargo is important?",
+        "answers": [
+            "Reefer cannot be used to reach the desired temperature, cargo of a reefer container has to be brought to the desired temperature prior to loading.",
+            "If no precooling done cargo inside of container can be out of order already.",
+            "Its save fuel. After loading onboard, vessel will not spend own fuel to bring temperature on required level."
+        ],
+        "correct_answer": "Reefer cannot be used to reach the desired temperature, cargo of a reefer container has to be brought to the desired temperature prior to loading.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Junior, Reefer",
+        "index": 3,
+        "question": "How does a reefer container work?",
+        "answers": [
+            "The generator, placed on one side of the container, blows air into the container.",
+            "Two generators from both side of the container blows air into the container."
+        ],
+        "correct_answer": "The generator, placed on one side of the container, blows air into the container.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Junior, Reefer",
+        "index": 4,
+        "question": "What is the reason for the superheat in reefer system?",
+        "answers": [
+            "Low quantity of refrigerant in evaporator.",
+            "Too much refrigerant in the system leading to overheat of the compressor."
+        ],
+        "correct_answer": "Low quantity of refrigerant in evaporator.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Junior, Reefer",
+        "index": 5,
+        "question": "Which of the following should be used on an electrical fire (2 answers are correct).",
+        "answers": [
+            "CO2 extinguisher.",
+            "Dry powder extinguisher.",
+            "Water extinguisher.",
+            "Foam extinguisher."
+        ],
+        "correct_answer": "CO2 extinguisher.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Junior, Reefer",
+        "index": 6,
+        "question": "Which parameters of the reefer container you should check after loading?",
+        "answers": [
+            "Serial number, stowage position, set point, ventilation position, humidity set point, supply temperature, return temperature, active alarms, visual damages of refrigerated plant.",
+            "Serial number, set point, gas level in receiver, compressor current, supply voltage, evaporator temperature, superheat, suction temperature, discharge temperature.",
+            "Serial number, stowage position, set point."
+        ],
+        "correct_answer": "Serial number, stowage position, set point, ventilation position, humidity set point, supply temperature, return temperature, active alarms, visual damages of refrigerated plant.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Junior, Reefer",
+        "index": 7,
+        "question": "How to test dielectric gloves before work?",
+        "answers": [
+            "Before use, the gloves should be inspected, paying attention to the absence of mechanical damage and fill gloves with hot fresh water.",
+            "Dielectric gloves do not need to be tested before work, if there is a “test stamp” from manufacturer.",
+            "Before use, the gloves should be inspected, paying attention to the absence of mechanical damage, dirt and moisture, and also check for punctures by twisting the gloves towards the fingers."
+        ],
+        "correct_answer": "Before use, the gloves should be inspected, paying attention to the absence of mechanical damage and fill gloves with hot fresh water.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Junior, Reefer",
+        "index": 8,
+        "question": "What is the reason between dry and reefer container?",
+        "answers": [
+            "The major difference between normal dry container and reefer container is that the temperature condition controlling system is available in reefer container.",
+            "Difference in types of cargo it loaded.",
+            "It is the same, just different names for containers in different countries."
+        ],
+        "correct_answer": "The major difference between normal dry container and reefer container is that the temperature condition controlling system is available in reefer container.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Junior, Reefer",
+        "index": 9,
+        "question": "What is Reefer container used for?",
+        "answers": [
+            "Reefers are essential for worldwide trade of food.",
+            "Reefers are essential for worldwide trade of food. Storage of the wood.",
+            "Storage of food."
+        ],
+        "correct_answer": "Reefers are essential for worldwide trade of food.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Junior, Reefer",
+        "index": 10,
+        "question": "What is the superheat in a refrigerated system?",
+        "answers": [
+            "This is the difference between the boiling point temperature of refrigerant in the evaporator coil and the actual temperature of the refrigerant gas as at leave the evaporator.",
+            "This is the compressor overheat temperature.",
+            "This is the difference between the supply and return temperatures."
+        ],
+        "correct_answer": "This is the difference between the boiling point temperature of refrigerant in the evaporator coil and the actual temperature of the refrigerant gas as at leave the evaporator.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Junior, Reefer",
+        "index": 11,
+        "question": "According to the requirements of the SOLAS 74 convention, Emergency Diesel Generator (EDG) must take full ratred load no more than:",
+        "answers": [
+            "45 sec.",
+            "35 sec.",
+            "50 sec."
+        ],
+        "correct_answer": "45 sec.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Junior, Reefer",
+        "index": 12,
+        "question": "What is a Reefer Container?",
+        "answers": [
+            "Container is a type of shipping container that remains its cargo at a regulated cool temperature.",
+            "Container for Cargo.",
+            "Container is a type of shipping container that remains it cargo safe.",
+            "Container for transportation of different types of food."
+        ],
+        "correct_answer": "Container is a type of shipping container that remains its cargo at a regulated cool temperature.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Junior, Reefer",
+        "index": 13,
+        "question": "Which of these does not affect the temperature rise of the compressor discharge gases?",
+        "answers": [
+            "Malfunction one of two return air sensors.",
+            "Insufficient freon level in the system.",
+            "Malfunction of expansion valve.",
+            "Compressor malfunction."
+        ],
+        "correct_answer": "Malfunction one of two return air sensors.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Junior, Reefer",
+        "index": 14,
+        "question": "What is the first action if you find a reefer container in not working condition?",
+        "answers": [
+            "Check main circuit breaker position (on/off) and the presence of power supply on each incoming phase with multimeter.",
+            "Make sure the serviceability of the main transformer.",
+            "Verify presence of “freon gas” in the system.",
+            "Call service engineer."
+        ],
+        "correct_answer": "Check main circuit breaker position (on/off) and the presence of power supply on each incoming phase with multimeter.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Junior, Reefer",
+        "index": 15,
+        "question": "What is the correct stowage of the reefer on deck of container vessel?",
+        "answers": [
+            "Motor to forward.",
+            "Motor to alt."
+        ],
+        "correct_answer": "Motor to forward.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Junior, Reefer",
+        "index": 16,
+        "question": "On a container vessel, what must be done as soon as reefer containers have been loaded?",
+        "answers": [
+            "It must be connected to the ship power supply and their setting temperature verified.",
+            "Stowage position must be reported to the duty officer.",
+            "Setting temperatures must be verified."
+        ],
+        "correct_answer": "It must be connected to the ship power supply and their setting temperature verified.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Junior, Reefer",
+        "index": 17,
+        "question": "What is the purpose of the Oil in the refrigerated systems?",
+        "answers": [
+            "To lubricate the moving parts of the compressor.",
+            "To help the refrigerant absorb the heat in the process.",
+            "To lubricate the TXV as sometimes it works hard to maintain cooling capacity.",
+            "To ease the travel of the refrigerated thru the piping."
+        ],
+        "correct_answer": "To lubricate the moving parts of the compressor.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Junior, Reefer",
+        "index": 18,
+        "question": "What is the main signs of an insufficient freon gas level in the refrigerated system that we can easily see on the evaporator coil?",
+        "answers": [
+            "The evaporator coil is frozen after the thermostatic valve at the beginning of the coil.",
+            "Insufficient level of freon does not affect the evaporator coil.",
+            "The evaporator coil is frozen after the thermostatic valve at the end of the coil.",
+            "The pipe before the thermostatic valve is frozen but the evaporator coil is clean."
+        ],
+        "correct_answer": "The evaporator coil is frozen after the thermostatic valve at the beginning of the coil.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Junior, Reefer",
+        "index": 19,
+        "question": "Based on pressure measurements, how to determine that the compressor is out of order?",
+        "answers": [
+            "The suction pressure is less than the discharge pressure.",
+            "The suction pressure equal to discharge pressure.",
+            "The suction pressure greater than the discharge pressure.",
+            "Compressor failure will not affect to the system pressure."
+        ],
+        "correct_answer": "The suction pressure is less than the discharge pressure.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Junior, Reefer",
+        "index": 20,
+        "question": "What is the normal suction pressure for compressor?",
+        "answers": [
+            "Depend on the reefer container working mode and ambient temperature. Technical standards from the manufacturer that are specified in manual.",
+            "Depend on the freon gas level in receiver.",
+            "No more than 5 bar.",
+            "Not less than 5 bar."
+        ],
+        "correct_answer": "Depend on the reefer container working mode and ambient temperature. Technical standards from the manufacturer that are specified in manual.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Junior, Reefer",
+        "index": 21,
+        "question": "What is means “Ambient Temperature”?",
+        "answers": [
+            "Outside temperature.",
+            "Maximum possible temperature.",
+            "Required temperature for transportation of cargo in reefer container."
+        ],
+        "correct_answer": "Outside temperature.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Junior, Reefer",
+        "index": 22,
+        "question": "How to prepare reefer container system for safely welding work on the gas pipe?",
+        "answers": [
+            "Switch off power supply and collect freon to the recovery balloon.",
+            "Switch off power supply and collect freon to receiver.",
+            "Switch off power supply and discharge freon to atmosphere.",
+            "Disconnect power supply cable and collect freon to the recovery balloon."
+        ],
+        "correct_answer": "Switch off power supply and collect freon to the recovery balloon.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Junior, Reefer",
+        "index": 23,
+        "question": "What is the function of a thermistor in the winding of an evaporator fan electric motor?",
+        "answers": [
+            "Interrupt the operation of the electric motor in case of overheating.",
+            "Reads the motor current.",
+            "Measures the temperature of the electric motor in case of overheating.",
+            "Designed to start the electric motor. It serves to maintain the current on the auxiliary winding of the motor and goes into a shutdown state when the motor is running."
+        ],
+        "correct_answer": "Interrupt the operation of the electric motor in case of overheating.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Junior, Reefer",
+        "index": 24,
+        "question": "How will a faulty capacitor of a single phase electrical motor affect its operation?",
+        "answers": [
+            "Motor will not start.",
+            "Motor will start and stop periodically.",
+            "The insulation resistance of the motor will decrease.",
+            "The electric motor of condenser fan will burn out on start."
+        ],
+        "correct_answer": "Motor will not start.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Junior, Reefer",
+        "index": 25,
+        "question": "What is means “Set Point”?",
+        "answers": [
+            "Required temperature for transportation of cargo in reefer container.",
+            "Port of destination.",
+            "Required temperature of Chief Officer/Planner."
+        ],
+        "correct_answer": "Required temperature for transportation of cargo in reefer container.",
+        "images": [],
+        "explanation": ""
+    }
+]

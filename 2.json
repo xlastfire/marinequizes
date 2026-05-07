@@ -1,0 +1,1269 @@
+[
+    {
+        "category": "CES – Engine, Cadet",
+        "index": 1,
+        "question": "Which of the following fluids usually has the lowest density at normal ambient temperatures?",
+        "answers": [
+            "Sea water.",
+            "Lubricating oil.",
+            "Heavy fuel oil.",
+            "Marine diesel oil."
+        ],
+        "correct_answer": "Lubricating oil.",
+        "images": [],
+        "explanation": "සාමාන්‍ය පරිසර උෂ්ණත්වයන් යටතේදී, ලිහිසි තෙල් (Lubricating oil) වල ඝනත්වය ජලය සහ අනෙකුත් බර ඉන්ධන තෙල් (HFO) වලට වඩා අඩු මට්ටමක පවතී. ජලයේ ඝනත්වය 1000 kg/m³ පමණ වන අතර, සාමාන්‍ය ලිහිසි තෙල් 800-900 kg/m³ අතර අගයක් ගනී. අනෙකුත් විකල්ප වන ආසවනය කළ ඉන්ධන හෝ ජලය මෙයට වඩා වැඩි ඝනත්වයකින් යුක්ත බැවින් ලිහිසි තෙල් නිවැරදි පිළිතුර වේ."
+    },
+    {
+        "category": "CES – Engine, Cadet",
+        "index": 2,
+        "question": "When checking the closed butt gap clearance of new piston rings prior to fitting onto the piston it is normal to try the rings in the liner so that the gap can be measured. From the options given select the best part of the liner to use to carry out these checks.",
+        "answers": [
+            "Near mid-height of the liner.",
+            "Near the top of the liner.",
+            "Near the bottom of the liner.",
+            "Just above the scavenge ports."
+        ],
+        "correct_answer": "Near the bottom of the liner.",
+        "images": [],
+        "explanation": "අලුත් පිස්ටන් රින්ග් එකක butt gap එක මැනීමේදී ලයිනර් එකේ පතුල (bottom) ප්‍රදේශය භාවිතා කිරීම වඩාත් සුදුසුය. ලයිනර් එකක වැඩිපුරම ගෙවීමක් (wear) සිදුවන්නේ පිස්ටනය ඉහළට ගමන් කරන TDC ප්‍රදේශයේ බැවින්, ලයිනර් පතුල සාමාන්‍යයෙන් මුල් විෂ්කම්භයට (original diameter) ආසන්නව පවතී. පටුම ස්ථානය වන පතුලේදී රින්ග් පරතරය නිවැරදි නම්, රින්ග් එක එන්ජිම ක්‍රියාත්මක වීමේදී ලයිනර් එක තුළ හිරවීමක් (seizing) සිදු නොවේ."
+    },
+    {
+        "category": "CES – Engine, Cadet",
+        "index": 3,
+        "question": "One cylinder of a diesel engine is operating with a high exhaust gas temperature. From the options given, select the one most likely to cause this condition.",
+        "answers": [
+            "Cylinder lubricating oil supply rate to the engine is excessive.",
+            "Water leakage into the cylinder.",
+            "Fuel injection valve opening pressure is too low.",
+            "The charge air is delivered to the engine at too high a temperature."
+        ],
+        "correct_answer": "Fuel injection valve opening pressure is too low.",
+        "images": [],
+        "explanation": "ඉන්ධන එන්නත් කිරීමේ කපාටයේ (Fuel injection valve) පීඩනය ඉතා අඩු වූ විට, ඉන්ධන නිසි ලෙස කුඩා අංශු වලට කැඩෙන්නේ (Atomization) නැත. මේ හේතුවෙන් දහන ක්‍රියාවලිය ප්‍රමාද වන අතර (After-burning), සිලින්ඩරය තුළ වැඩි වේලාවක් තාපය රඳා පවතිමින් පිටවන වායුවේ උෂ්ණත්වය ඉහළ යයි. ඉන්ධන වල ගුණාත්මකභාවය වැඩි වීම හෝ පීඩනය වැඩි වීම මෙවැනි අධික උෂ්ණත්වයකට සාමාන්‍යයෙන් හේතු නොවන බැවින් අනෙකුත් විකල්ප මෙහිදී නොගැලපේ."
+    },
+    {
+        "category": "CES – Engine, Cadet",
+        "index": 4,
+        "question": "The Base Number of a lubricating oil is an indication of which of the following?",
+        "answers": [
+            "The viscosity of the oil.",
+            "The Flash Point of the oil.",
+            "Amount of contaminants in the lubricating oil.",
+            "The alkalinity of the oil."
+        ],
+        "correct_answer": "The alkalinity of the oil.",
+        "images": [],
+        "explanation": "ලිහිසි තෙල්වල 'Base Number' (BN) යන්නෙන් අදහස් කරන්නේ එම තෙල්වල ඇති ක්ෂාරීය බවයි (Alkalinity). එන්ජිමේ ඉන්ධන දහනය වීමේදී නිපදවෙන සල්ෆියුරික් අම්ලය උදාසීන කිරීම සඳහා ලිහිසි තෙල්වල මෙම ක්ෂාරීය ගුණය තිබිය යුතුය. මෙය තෙල්වල උකු බව (Viscosity) හෝ ගලා යන උෂ්ණත්වය (Pour point) හෝ ගිනි ගන්නා උෂ්ණත්වය (Flash point) පිළිබඳ මිනුමක් නොවේ."
+    },
+    {
+        "category": "CES – Engine, Cadet",
+        "index": 5,
+        "question": "A power card taken from a diesel engine cylinder using a mechanical indicator has a flat top. Which of the possible actions given in the options is most likely to correct this irregularity on the power card?",
+        "answers": [
+            "Shorten the cord for the indicator drum drive.",
+            "Change the indicator spring for one with a higher rating.",
+            "Lubricate the indicator piston and cylinder.",
+            "Lengthen the cord for the indicator drum drive."
+        ],
+        "correct_answer": "Change the indicator spring for one with a higher rating.",
+        "images": [],
+        "explanation": "මෙකෑනිකල් ඉන්ඩිකේටරයක් භාවිතා කර ලබා ගන්නා පවර් කාඩ්පතක ඉහළ කොටස පැතලි වන්නේ (flat top), මනිනු ලබන උපරිම පීඩනය ඉන්ඩිකේටරයේ ඇති ස්ප්‍රිං (spring) එකේ උපරිම සීමාව ඉක්මවා ගිය විටයි. එවිට ස්ප්‍රිං එක තවදුරටත් හැකිලෙන්නේ නැති නිසා රේඛාව පැතලි වේ. මෙය නිවැරදි කිරීමට වැඩි පීඩනයක් දරාගත හැකි ස්ප්‍රිං එකක් (higher rating spring) යෙදිය යුතුය. ඉන්ධන හෝ එන්ජින් දෝෂ නිවැරදි කිරීමෙන් උපකරණයේ මෙම දෝෂය මකාගත නොහැක."
+    },
+    {
+        "category": "CES – Engine, Cadet",
+        "index": 6,
+        "question": "A power card from a slow speed diesel engine cylinder is abnormal with a low height and the body of the diagram thicker than normal. What is the most likely cause of this?",
+        "answers": [
+            "Scavenge pressure is too high.",
+            "Partially blocked fuel injection valve.",
+            "Fuel timing is advanced.",
+            "Fuel timing is retarded."
+        ],
+        "correct_answer": "Fuel timing is retarded.",
+        "images": [],
+        "explanation": "පවර් කාඩ් එකක උස අඩු වී (Low height) එහි ශරීරය මහත වී (Thicker body) ඇත්නම්, එයින් හැඟවෙන්නේ ඉන්ධන විදීමේ කාලය ප්‍රමාද වී (Fuel timing retarded) ඇති බවයි. මෙහිදී ඉන්ධන දහනය වන්නේ පිස්ටනය ඉහළම ලක්ෂ්‍යය (TDC) පසු කළ පසුව බැවින් උපරිම පීඩනය අඩු වන අතර ව්‍යාප්ත වීමේ පියවරේදී (Expansion stroke) දිගු වේලාවක් දහනය සිදු වේ. ඉන්ධන විදීම ඉක්මන් වූයේ නම් (Advanced timing) රූප සටහනේ උස වැඩි වී සිහින් ස්වරූපයක් ගනු ඇත."
+    },
+    {
+        "category": "CES – Engine, Cadet",
+        "index": 7,
+        "question": "What will you do if you have a flash-back during gas welding?",
+        "answers": [
+            "Run for your life.",
+            "Use your portable fire extinguisher.",
+            "Close the valves oxygen first.",
+            "Cool the bottles down with water."
+        ],
+        "correct_answer": "Close the valves oxygen first.",
+        "images": [],
+        "explanation": "ගෑස් වෑල්ඩින් (Gas welding) කිරීමේදී flash-back එකක්, එනම් ගින්න පසුපසට නළය දිගේ ගමන් කිරීමක් සිදු වුවහොත්, මුලින්ම ඔක්සිජන් වෑල්වය (Oxygen valve) වසා දැමිය යුතුය. ඔක්සිජන් යනු දහනයට උදව් කරන වායුව වන අතර එය නැවැත්වීමෙන් ගින්න තවදුරටත් ඉදිරියට ගමන් කිරීම සහ සිලින්ඩරය පුපුරා යාමේ අවදානම වළක්වා ගත හැක. ඇසිටිලීන් (Acetylene) මුලින්ම වැසීමට උත්සාහ කිරීමෙන් ගින්න නළය තුළට ඇදී යාමේ වේගය වැඩි විය හැක."
+    },
+    {
+        "category": "CES – Engine, Cadet",
+        "index": 8,
+        "question": "What would be a typical separating temperature range for purifying mineral oil based lubricating oil in a centrifuge?",
+        "answers": [
+            "< 45 °C.",
+            "45-65 °C.",
+            "65-85 °C.",
+            "85-105 °C."
+        ],
+        "correct_answer": "65-85 °C.",
+        "images": [],
+        "explanation": "කේන්ද්‍රාපසාරී යන්ත්‍රයක (Centrifuge) ඛනිජ තෙල් පදනම් කරගත් ලිහිසි තෙල් පිරිපහදු කිරීම සඳහා වඩාත් සුදුසු උෂ්ණත්ව පරාසය සෙල්සියස් අංශක 65-85 අතර වේ. මෙම උෂ්ණත්වයේදී තෙල්වල දුස්ස්රාවිතතාවය (Viscosity) අඩු වන අතර එමගින් ජලය සහ ඝන අපද්‍රව්‍ය තෙල්වලින් වෙන් කිරීමේ ක්‍රියාවලිය කාර්යක්ෂමව සිදු වේ. උෂ්ණත්වය 65 ට අඩු වුවහොත් තෙල්වල ඝනකම නිසා අපද්‍රව්‍ය වෙන් නොවන අතර, 85 ට වඩා වැඩි වුවහොත් තෙල්වල රසායනික ගුණාංග වලට හානි වී කාබන් තැන්පත් විය හැක."
+    },
+    {
+        "category": "CES – Engine, Cadet",
+        "index": 9,
+        "question": "In accordance with SOLAS and other international regulations, certain important machinery functions, such as operation and control of the steering gear and propulsion machinery, must be tested at specified times. When should these tests be carried out?",
+        "answers": [
+            "Only following drydock.",
+            "Only at stand by engines.",
+            "Only following maintenance.",
+            "Prior to arrival and departure from port and following maintenance."
+        ],
+        "correct_answer": "Prior to arrival and departure from port and following maintenance.",
+        "images": [],
+        "explanation": "SOLAS සහ අනෙකුත් ජාත්‍යන්තර රෙගුලාසිවලට අනුව, නැවේ සුක්කානම් පද්ධතිය (steering gear) සහ ප්‍රචාලන යන්ත්‍රෝපකරණ වැනි වැදගත් පද්ධති වරායට පැමිණීමට පෙර, වරායෙන් පිටවීමට පෙර සහ යම් නඩත්තු කටයුත්තකින් පසුව අනිවාර්යයෙන්ම පරීක්ෂා කළ යුතුය. මෙමගින් නැව හැසිරවීමේදී ඇතිවිය හැකි අනතුරු වළක්වා ගත හැකිය. හුදෙක් සතිපතා හෝ මාසිකව පමණක් පරීක්ෂා කිරීම මෙවැනි තීරණාත්මක පද්ධති සඳහා ප්‍රමාණවත් නොවන බැවින් අනෙකුත් විකල්ප වැරදි වේ."
+    },
+    {
+        "category": "CES – Engine, Cadet",
+        "index": 10,
+        "question": "What is the purpose of a scum valve often fitted to a steam boiler?",
+        "answers": [
+            "To allow removal of any oil or scum which collects on the surface of the water in the boiler steam drum.",
+            "To allow removal impurities from the boiler feed-water.",
+            "To allow removal of oil from the surface of the feed water tank.",
+            "To allow removal of sludge and mud which may collect in the bottom of the boiler water drum."
+        ],
+        "correct_answer": "To allow removal of any oil or scum which collects on the surface of the water in the boiler steam drum.",
+        "images": [],
+        "explanation": "වාෂ්ප බොයිලේරුවක scum valve එකක් සවිකිරීමේ ප්‍රධාන අරමුණ වන්නේ බොයිලේරු ජලය මතුපිට එකතු වන තෙල් හෝ වෙනත් සැහැල්ලු අපද්‍රව්‍ය (Scum) ඉවත් කිරීමයි. මෙම අපද්‍රව්‍ය මතුපිට තිබීම නිසා ජලය පෙණ ගැසීම (Foaming) සහ වාෂ්ප සමග ජල බිංදු පිටතට යාම (Priming) සිදුවිය හැක. පතුලේ ඇති බර අපද්‍රව්‍ය ඉවත් කිරීමට blow-down valve භාවිතා කරන අතර, scum valve එක ජල මට්ටමේ ඇති අපද්‍රව්‍ය සඳහා පමණක් භාවිතා වේ."
+    },
+    {
+        "category": "CES – Engine, Cadet",
+        "index": 11,
+        "question": "What is the purpose of refractory linings in an oil fired steam boiler furnace?",
+        "answers": [
+            "To prevent excessive furnace heat losses and protect tubes and other fittings from overheating.",
+            "To ignite the burner during automatic operation.",
+            "To support the steam drum.",
+            "To give added strength to the furnace."
+        ],
+        "correct_answer": "To prevent excessive furnace heat losses and protect tubes and other fittings from overheating.",
+        "images": [],
+        "explanation": "තෙල් මගින් ක්‍රියා කරන වාෂ්ප බොයිලේරු උදුනක (Furnace) refractory linings (තාප ප්‍රතිරෝධක ආස්තරණ) යොදා ගන්නේ තාපය අපතේ යාම වැළැක්වීමට සහ ඇතුළත ඇති ලෝහමය නළ (Tubes) සහ අනෙකුත් කොටස් අධික තාපය නිසා දියවීමෙන් හෝ හානි වීමෙන් ආරක්ෂා කිරීමටයි. මෙය තාප පරිවාරකයක් ලෙස ක්‍රියා කරමින් උදුනේ උෂ්ණත්වය ස්ථාවරව පවත්වා ගැනීමට උදව් වේ. මෙම ආස්තරණය නොමැතිව බොයිලේරු බිත්තිවලට සෘජුවම ගිනි දැල් වැදීමෙන් බරපතල හානි සිදුවිය හැක."
+    },
+    {
+        "category": "CES – Engine, Cadet",
+        "index": 12,
+        "question": "What is the main difference between a stuffing box gland and a mechanical seal on a centrifugal pump?",
+        "answers": [
+            "Packed stuffing box glands must be cooled by liquid, but mechanical seals do not require any cooling.",
+            "Packed stuffing box glands are subject to wear but mechanical seals are not.",
+            "If packing fails the pump can be kept running by tightening the glands, but if a mechanical seal fails it must be renewed to stop the leakage.",
+            "The sealing surface of a mechanical seal is usually parallel to the shaft, but sealing surface of a packed gland is perpendicular to the shaft."
+        ],
+        "correct_answer": "If packing fails the pump can be kept running by tightening the glands, but if a mechanical seal fails it must be renewed to stop the leakage.",
+        "images": [],
+        "explanation": "Stuffing box gland සහ Mechanical seal අතර ප්‍රධාන වෙනස වන්නේ නඩත්තුවයි. Stuffing box එකක ඇසුරුම් (Packing) දිය වී කාන්දු වීමක් සිදු වුවහොත්, ග්ලෑන්ඩ් එක තද කිරීමෙන් (Tightening) පොම්පය දිගටම ක්‍රියා කරවිය හැක. නමුත් Mechanical seal එකක් අසාර්ථක වුවහොත් එය අනිවාර්යයෙන්ම අලුත් එකකින් ප්‍රතිස්ථාපනය කළ යුතුය; එය තද කිරීමෙන් කාන්දුව නැවැත්විය නොහැක. මේ නිසා කාන්දු වීමකදී වහාම ක්‍රියාත්මක විය යුතු ආකාරය අනුව මෙම උපාංග දෙක වෙනස් වේ."
+    },
+    {
+        "category": "CES – Engine, Cadet",
+        "index": 13,
+        "question": "A mechanical seal, consisting of carbon and ceramic seal rings, is to be fitted to a centrifugal pump shaft. What is the most likely result of not being extremely careful when fitting this type of seal?",
+        "answers": [
+            "The seal rings are brittle and can be easily chipped or damaged.",
+            "The rubber O rings for the seal can be easily damaged.",
+            "The springs and bellows for the seal can be easily damaged.",
+            "The seal rings are hard and may score the pump shaft."
+        ],
+        "correct_answer": "The seal rings are brittle and can be easily chipped or damaged.",
+        "images": [],
+        "explanation": "මෙකැනිකල් සීල් (Mechanical seal) වල ඇති කාබන් සහ සෙරමික් රින්ග්ස් ඉතා බිඳෙනසුලු (brittle) ද්‍රව්‍ය වේ. මේවා සවිකිරීමේදී සුළු පහර දීමකින් හෝ වැරදි ලෙස පීඩනය යෙදීමකින් ඉතා පහසුවෙන් සීරීමට, කැඩීමට හෝ කැබලි වලට වෙන්වීමට ඉඩ ඇත. එසේ වුවහොත් සීල් එක හරහා ජලය හෝ දියර කාන්දු වීම (leakage) වළක්වා ගත නොහැකි වේ. අනෙකුත් විකල්පයන් වන රබර් වළලු පළුදු වීම හෝ වැරදි දිශාවට සවිකිරීම සිදුවිය හැකි වුවත්, කාබන් සහ සෙරමික් වල ඇති ප්‍රධානතම අවදානම වන්නේ ඒවායේ බිඳෙනසුලු ස්වභාවයයි."
+    },
+    {
+        "category": "CES – Engine, Cadet",
+        "index": 14,
+        "question": "When fitting a mechanical seal consisting of carbon/porcelain rings care should be taken that:",
+        "answers": [
+            "All of the other alternatives.",
+            "The carbon/porcelain do not suffer physical damage.",
+            "The seal is correctly assembled.",
+            "The sealing faces are kept free from dirt."
+        ],
+        "correct_answer": "All of the other alternatives.",
+        "images": [],
+        "explanation": "Carbon හෝ porcelain වළලු වලින් සමන්විත mechanical seal එකක් සවිකිරීමේදී ඉතාමත් සැලකිලිමත් විය යුතුය. මෙහිදී ඒවා ඉතා ප්‍රවේශමෙන් පරිහරණය කිරීම (Handle with care), මතුපිට සීරීම් ඇති නොවීමට වගබලා ගැනීම සහ කිසිදු දූවිල්ලක් නොමැතිව පිරිසිදුව තබා ගැනීම යන සියල්ලම අත්‍යවශ්‍ය වේ. මෙම කොටස් ඉතා සියුම් (Brittle) වන අතර කුඩා සීරීමකින් වුවද මුද්‍රාව හරහා කාන්දු වීම් (Leakage) ඇති විය හැකි නිසා සියලුම විකල්ප (All of the other alternatives) නිවැරදි වේ."
+    },
+    {
+        "category": "CES – Engine, Cadet",
+        "index": 15,
+        "question": "A slow speed diesel engine is fitted with a slow turning facility. How would the slow turning normally be set to operate?",
+        "answers": [
+            "It should automatically operate before the normal start sequence following an engine stopped period of more than 20 to 30 minutes when manoeuvring.",
+            "It should be manually operated before the normal start sequence following an engine stopped period of more than 10 minutes.",
+            "It should automatically operate before every normal start sequence.",
+            "It should automatically operate every 20 minutes when the engine is stopped during manoeuvring."
+        ],
+        "correct_answer": "It should automatically operate before the normal start sequence following an engine stopped period of more than 20 to 30 minutes when manoeuvring.",
+        "images": [],
+        "explanation": "මන්දගාමී වේග ඩීසල් එන්ජින් (Slow speed diesel engines) වල 'slow turning' පහසුකම ඉතා වැදගත් වේ. එන්ජිම විනාඩි 20 සිට 30 දක්වා කාලයකට වඩා නවත්වා තැබූ පසු, මැනියුරිං (manoeuvring) අවස්ථාවකදී සාමාන්‍ය ආරම්භක අනුපිළිවෙලට (start sequence) පෙර මෙය ස්වයංක්‍රීයව ක්‍රියාත්මක විය යුතුය. මෙහි අරමුණ වන්නේ සිලින්ඩර තුළ ජලය හෝ තෙල් කාන්දු වී තිබේදැයි පරීක්ෂා කිරීමයි. එසේ තිබේ නම් 'slow turning' අවස්ථාවේදී එන්ජිම නැවතී හානිය වළක්වයි. අනෙකුත් විකල්ප වැරදි වන්නේ සෑම පැයකටම මෙය අවශ්‍ය නොවන නිසා සහ අතින් (manually) ක්‍රියාත්මක කිරීමට වඩා ස්වයංක්‍රීය ක්‍රමය ආරක්ෂිත බැවිනි."
+    },
+    {
+        "category": "CES – Engine, Cadet",
+        "index": 16,
+        "question": "What shall you do if you are in the engine room and the alarm for “CO2 system in the engine room” is released?",
+        "answers": [
+            "Start the fire pump.",
+            "Leave the engine room immediately.",
+            "Wait to make sure that the CO2-system is discharging into the engine room before leaving.",
+            "Immediately go for the nearest fire extinguisher."
+        ],
+        "correct_answer": "Leave the engine room immediately.",
+        "images": [],
+        "explanation": "ඔබ එන්ජින් කාමරයේ සිටින විට 'CO2 system in the engine room' එලාම් එක නාද වුවහොත්, කළ යුතු එකම සහ නිවැරදි ක්‍රියාව වන්නේ වහාම එන්ජින් කාමරයෙන් පිටතට යාමයි. CO2 යනු වාතයේ ඇති ඔක්සිජන් ඉවත් කර ගින්න නිවන වායුවක් වන අතර, එය මුදා හැරීමෙන් පසු මිනිසෙකුට ආශ්වාස කිරීමට ඔක්සිජන් නොමැති වේ. පරීක්ෂා කිරීමට හෝ යන්ත්‍ර ක්‍රියා විරහිත කිරීමට රැඳී සිටීම මාරාන්තික විය හැක."
+    },
+    {
+        "category": "CES – Engine, Cadet",
+        "index": 17,
+        "question": "What would be a typical setting for the low lubricating pressure trip for a refrigeration compressor?",
+        "answers": [
+            "+10 bar.",
+            "+5,0 bar.",
+            "+1,0 bar.",
+            "+0,5 bar."
+        ],
+        "correct_answer": "+1,0 bar.",
+        "images": [],
+        "explanation": "ශීතකරණ කොම්ප්‍රෙෂරයක (Refrigeration compressor) ලිහිසි තෙල් පීඩනය අඩුවීම නිසා යන්ත්‍රය නතර වීම (Trip) සඳහා වන සාමාන්‍ය සැකසුම +1.0 bar වේ. මෙයින් අදහස් කරන්නේ ලිහිසි තෙල් පීඩනය කොම්ප්‍රෙෂරයේ ක්‍රෑන්ක්කේස් පීඩනයට වඩා අවම වශයෙන් 1.0 bar ක් වැඩියෙන් තිබිය යුතු බවයි. පීඩනය මීට වඩා අඩු වුවහොත් බෙයාරිං (Bearings) වලට නිසි ලෙස තෙල් නොලැබී ඒවා ගෙවී යාමට හෝ හානි වීමට ඉඩ ඇත."
+    },
+    {
+        "category": "CES – Engine, Cadet",
+        "index": 18,
+        "question": "When should adjustment to the fuel injection valve spring tension be made?",
+        "answers": [
+            "Only on the fuel injection valve test rig.",
+            "During engine operation when cylinder maximum pressures need to be balanced.",
+            "During engine operation when cylinder exhaust temperatures need to be balanced.",
+            "During engine operation when fuel timing to individual cylinders needs to be adjusted."
+        ],
+        "correct_answer": "Only on the fuel injection valve test rig.",
+        "images": [],
+        "explanation": "ඉන්ධන එන්නත් කපාටයක (Fuel injection valve) ස්ප්‍රිං එකෙහි තෙරපුම (Spring tension) වෙනස් කිරීම හෝ සැකසීම කළ යුත්තේ 'fuel injection valve test rig' එකකදී පමණි. එන්ජිම මතදී හෝ සාමාන්‍ය පරිදි මෙය නිවැරදිව කළ නොහැක, මක්නිසාද යත් එන්නත් කිරීමේ පීඩනය (Opening pressure) නිවැරදිදැයි පරීක්ෂා කිරීමට පීඩන මානයක් (Pressure gauge) සහිත පරීක්ෂණ උපකරණයක් අවශ්‍ය වන බැවිනි."
+    },
+    {
+        "category": "CES – Engine, Cadet",
+        "index": 19,
+        "question": "At what interval should boiler water testing usually take place?",
+        "answers": [
+            "Every 8 hours.",
+            "Every week.",
+            "Every day.",
+            "Every fortnight."
+        ],
+        "correct_answer": "Every day.",
+        "images": [],
+        "explanation": "බොයිලේරු ජලය පරීක්ෂා කිරීම (Boiler water testing) සාමාන්‍යයෙන් සෑම දිනකම (Every day) සිදු කළ යුතුය. බොයිලේරුවක් ක්‍රියාත්මක වන විට ජලයේ රසායනික සංයුතිය (Alkalinity, Chlorides, Hardness) නිරන්තරයෙන් වෙනස් වේ. එම මට්ටම් නිවැරදිව පවත්වා නොගතහොත් බොයිලේරුව ඇතුළත මලකඩ කෑම (Corrosion) හෝ ලවණ තැන්පත් වීම (Scale) වැනි ගැටළු ඇති වී බොයිලේරුවේ ආයු කාලය කෙටි විය හැක."
+    },
+    {
+        "category": "CES – Engine, Cadet",
+        "index": 20,
+        "question": "Part of the outer surface of a refrigeration compressor crankcase and the refrigerant return line near the compressor ice up heavily during normal operation. Which of the options given is the most likely cause of this problem?",
+        "answers": [
+            "The superheat control setting for the thermostatic expansion valve is set too low.",
+            "The filter drier unit in the liquid line is partly blocked.",
+            "The seawater flow control valve for the condenser is faulty allowing insufficient cooling water flow.",
+            "The oil separator is not functioning correctly and is allowing lubricating oil to pass into the system."
+        ],
+        "correct_answer": "The superheat control setting for the thermostatic expansion valve is set too low.",
+        "images": [],
+        "explanation": "ශීතකරණ කොම්ප්‍රෙෂරයක පිටත මතුපිට සහ return line එක මත අධික ලෙස අයිස් තැන්පත් වීම සිදුවන්නේ Thermostatic Expansion Valve (TEV) එකෙහි Superheat අගය ඉතා අඩුවෙන් සකසා ඇති විටයි. මෙවිට වාෂ්පීකාරකයෙන් (Evaporator) පිටවන ශීතකරණ ද්‍රව්‍ය ප්‍රමාණවත් ලෙස රත් නොවන (Superheat නොවන) බැවින් ද්‍රවමය ශීතකරණ ද්‍රව්‍ය කෙළින්ම කොම්ප්‍රෙෂරය වෙත ගලා ඒමට පටන් ගනී (Liquid slugging). මෙය කොම්ප්‍රෙෂරයේ උෂ්ණත්වය ඉතා පහළ හෙළන අතර මතුපිට අයිස් බැඳීමට හේතු වේ. අනෙකුත් හේතු වන high superheat හෝ low charge නිසා සාමාන්‍යයෙන් සිසිලනය අඩු වීම මිස මෙවැනි අයිස් බැඳීමක් සිදු නොවේ."
+    },
+    {
+        "category": "CES – Engine, Cadet",
+        "index": 21,
+        "question": "The main engine is running steady. What is the normal slow down temperature for the main engine thrust bearing segment?",
+        "answers": [
+            "95 °C.",
+            "75 °C.",
+            "60 °C.",
+            "55 °C."
+        ],
+        "correct_answer": "75 °C.",
+        "images": [],
+        "explanation": "ප්‍රධාන එන්ජිමේ thrust bearing segment සඳහා සාමාන්‍ය slow down උෂ්ණත්වය 75 °C ලෙස නියම කර ඇත. මෙම උෂ්ණත්වය වැදගත් වන්නේ බෙයාරිං වල ඇති white metal ලෝහය අධික ලෙස රත් වී දිය වීම වැළැක්වීමට සහ ලිහිසි තෙල් පටලය (oil film) බිඳ වැටීම වැළැක්වීමටයි. 75 °C ට වඩා වැඩි අගයක් පද්ධතියේ දෝෂයක් පෙන්නුම් කරන අතර, මීට වඩා අඩු අගයක් එන්ජිමේ සාමාන්‍ය ක්‍රියාකාරිත්වයට අනවශ්‍ය බාධා ඇති කළ හැකි බැවින් අනෙක් අගයන් වැරදි වේ."
+    },
+    {
+        "category": "CES – Engine, Cadet",
+        "index": 22,
+        "question": "The main engine is running steady. What is the normal slow down temperature for the main bearing metal “Oil outlet temperature”?",
+        "answers": [
+            "70 °C.",
+            "95 °C.",
+            "60 °C.",
+            "85 °C."
+        ],
+        "correct_answer": "70 °C.",
+        "images": [],
+        "explanation": "ප්‍රධාන එන්ජිමේ main bearing වලින් පිටවන ලිහිසි තෙල්වල (oil outlet) සාමාන්‍ය slow down උෂ්ණත්වය 70 °C වේ. ලිහිසි තෙල් මෙම මට්ටමට වඩා රත් වීමෙන් අදහස් වන්නේ බෙයාරිං තුළ අසාමාන්‍ය ඝර්ෂණයක් ඇති වන බවයි. 70 °C සීමාව ඉක්මවා ගියහොත් තෙල්වල දුස්ස්රාවිතතාවය (viscosity) අඩු වී බෙයාරිං වලට හානි විය හැක. අනෙකුත් උෂ්ණත්ව අගයන් එන්ජිමේ ආරක්ෂිත සීමාවන් සමඟ නොගැලපෙන බැවින් ඒවා නිවැරදි නොවේ."
+    },
+    {
+        "category": "CES – Engine, Cadet",
+        "index": 23,
+        "question": "The main engine is running steady. What is the normal slow down/alarm pressure for “Fresh cooling water across engine”?",
+        "answers": [
+            "0,2 bar.",
+            "0,5 bar.",
+            "0,8 bar.",
+            "1,2 bar."
+        ],
+        "correct_answer": "0,2 bar.",
+        "images": [],
+        "explanation": "එන්ජිම හරහා ගලා යන මිරිදිය සිසිලන ජල පීඩනයේ (fresh cooling water across engine) වෙනස 0,2 bar දක්වා අඩු වුවහොත් slow down හෝ alarm ක්‍රියාත්මක වේ. මෙමගින් ජලය ගලා යාමේ වේගය (flow rate) අඩුවීමක් පෙන්නුම් කරන අතර, එමගින් එන්ජිම නිසි ලෙස සිසිල් නොවීමෙන් අධික ලෙස රත් විය හැක. අනෙකුත් පීඩන අගයන් (උදාහරණ ලෙස 1.0 bar හෝ 2.0 bar) සාමාන්‍ය මෙහෙයුම් පීඩනයන් වන අතර ඒවා අනතුරුදායක මට්ටම් ලෙස නොසැලකේ."
+    },
+    {
+        "category": "CES – Engine, Cadet",
+        "index": 24,
+        "question": "The main engine is running steady with exhaust gas temperature approximately 350 °C. What is the normal slow down temperature for exhaust gas deviation from average?",
+        "answers": [
+            "+/- 10 °C.",
+            "+/- 80 °C.",
+            "+/- 30 °C.",
+            "+/- 50 °C."
+        ],
+        "correct_answer": "+/- 50 °C.",
+        "images": [],
+        "explanation": "එන්ජිමේ exhaust gas උෂ්ණත්වය සාමාන්‍ය අගයෙන් +/- 50 °C ක ප්‍රමාණයකින් වෙනස් වන්නේ නම් (deviation), එය slow down තත්ත්වයක් ලෙස සැලකේ. මෙයින් සිලින්ඩර අතර බර බෙදී යාමේ (load distribution) අසමතුලිතතාවයක් හෝ දහන ක්‍රියාවලියේ දෝෂයක් පෙන්නුම් කරයි. 50 °C ට අඩු සීමාවන් ඉතා සංවේදී වැඩි වන අතර, 50 °C ට වඩා වැඩි සීමාවන් එන්ජිමේ යාන්ත්‍රික කොටස්වලට හානි සිදු කළ හැකි බැවින් +/- 50 °C නිවැරදි අගය වේ."
+    },
+    {
+        "category": "CES – Engine, Cadet",
+        "index": 25,
+        "question": "The main engine is running steady. What is the normal slow down temperature for scavenge air boxes “Fire alarm”?",
+        "answers": [
+            "120 °C.",
+            "50 °C.",
+            "40 °C.",
+            "130 °C."
+        ],
+        "correct_answer": "120 °C.",
+        "images": [],
+        "explanation": "ස්කැවෙන්ජ් එයාර් බොක්ස් (scavenge air boxes) තුළ ඇති විය හැකි ගින්නක් හඳුනාගැනීමට (Fire alarm) යොදාගන්නා උෂ්ණත්වය 120 °C වේ. සාමාන්‍යයෙන් ස්කැවෙන්ජ් වාතයේ උෂ්ණත්වය 45-50 °C පමණ වන අතර, 120 °C යනු ඇතුළත ඇති ලිහිසි තෙල් හෝ කාබන් අවශේෂ ගිනි ගැනීමට පටන් ගෙන ඇති බවට ලැබෙන සංඥාවකි. මීට වඩා අඩු උෂ්ණත්වයන් වැරදි අනතුරු ඇඟවීම් (false alarms) ඇති කළ හැකි අතර, මීට වඩා වැඩි උෂ්ණත්වයන් එන්ජිමට බරපතල හානි සිදු කරයි."
+    },
+    {
+        "category": "CES – Engine, Cadet",
+        "index": 26,
+        "question": "If you are going to enter the engines crankcase (go inside), how will you secure the engine after you have closed the main starting air valve?",
+        "answers": [
+            "Engage the turning gear on the engine.",
+            "Close the instrument air supply.",
+            "Keep a man posted in the control room to watch that nobody tries to start the engine.",
+            "Close absolutely all valves on the starting air bottle."
+        ],
+        "correct_answer": "Engage the turning gear on the engine.",
+        "images": [],
+        "explanation": "එන්ජිමක crankcase එකක් තුළට යාමට පෙර, safety interlock එකක් ලෙස turning gear එක සම්බන්ධ කිරීම (engage) අනිවාර්ය වේ. මෙයින් එන්ජිමේ crank shaft එක අහඹු ලෙස හෝ අත්වැරදීමකින් කැරකීම යාන්ත්‍රිකව වළක්වනු ලැබේ. ආරම්භක වායු කපාටය වැසීම පමණක් ප්‍රමාණවත් නොවන අතර, පාලක පද්ධතියෙන් පමණක් එන්ජිම ආරක්ෂා කිරීම (blocking) ප්‍රමාණවත් ආරක්ෂාවක් ලබා නොදෙන නිසා අනෙක් විකල්ප අසම්පූර්ණ වේ."
+    },
+    {
+        "category": "CES – Engine, Cadet",
+        "index": 27,
+        "question": "The Total Base Number (TBN) is important as a measure of neutralizing ability of a diesel engine lubricating oil against strong acids formed during combustion. What action should be taken if the results from an oil analysis show that the TBN of the lubricating oil has reduced slightly?",
+        "answers": [
+            "Purify the system oil in a centrifuge.",
+            "Freshen up the system by draining of some of the oil and adding a quantity of fresh oil.",
+            "Take another lub oil sample and send it for analysis.",
+            "Pump the oil to a renovating tank and allow any contaminants to settle out and refill the system with new oil."
+        ],
+        "correct_answer": "Freshen up the system by draining of some of the oil and adding a quantity of fresh oil.",
+        "images": [],
+        "explanation": "Total Base Number (TBN) යනු ලිහිසිකාරක තෙල් වල (lubricating oil) ඇති අම්ල උදාසීන කිරීමේ හැකියාව මනින ඒකකයයි. ඉන්ධන දහනයේදී සල්ෆර් අම්ල වැනි ප්‍රබල අම්ල සෑදෙන අතර, TBN මට්ටම අඩු වූ විට තෙල් වල මෙම අම්ල පාලනය කිරීමේ හැකියාව දුර්වල වේ. TBN මට්ටම සුළු වශයෙන් අඩු වී ඇත්නම්, පද්ධතියේ ඇති තෙල් ස්වල්පයක් ඉවත් කර අලුත් තෙල් එකතු කිරීමෙන් (Freshen up) අවශ්‍ය ආකලන (additives) නැවත ලබා දී TBN අගය ඉහළ නැංවිය හැකිය. තෙල් සම්පූර්ණයෙන්ම මාරු කිරීම මෙහිදී අනවශ්‍ය පිරිවැයක් වන අතර, කිසිදු පියවරක් නොගෙන සිටීම එන්ජිමේ කොටස් දිරාපත් වීමට හේතු වේ."
+    },
+    {
+        "category": "CES – Engine, Cadet",
+        "index": 28,
+        "question": "What effect would a blocked steam connection to a boiler water level gauge glass have on the visible water level in the glass?",
+        "answers": [
+            "The level in the glass would be higher than the actual level in the boiler.",
+            "There would be no or very little water shown in the glass because it would be air locked.",
+            "The level in the glass would be less than the level in the boiler due to the water in the glass evaporating into the empty steam space."
+        ],
+        "correct_answer": "The level in the glass would be higher than the actual level in the boiler.",
+        "images": [],
+        "explanation": "බොයිලේරු වතුර මට්ටම පෙන්වන වීදුරුවේ (gauge glass) ඉහළ වාෂ්ප සම්බන්ධකය (steam connection) අවහිර වූ විට, වීදුරුව තුළ පෙන්වන මට්ටම සැබෑ මට්ටමට වඩා වැඩි වේ. මෙයට හේතුව වීදුරුව තුළ ඇති වාෂ්ප සිසිල් වී ඝනීභවනය වීමෙන් ඇතිවන රික්තකය (vacuum effect) මගින් වතුර ඉහළට ඇද ගැනීමයි. මට්ටම අඩු වන බව පෙන්වීම හෝ සාමාන්‍ය මට්ටම පෙන්වීම භෞතික විද්‍යාත්මකව මෙහිදී සිදු නොවන බැවින් එම විකල්ප වැරදි වේ."
+    },
+    {
+        "category": "CES – Engine, Cadet",
+        "index": 29,
+        "question": "With reference to non-VIT diesel engine high pressure fuel pumps that have helix control, how is the timing of fuel injection normally adjusted?",
+        "answers": [
+            "By raising or lowering the pump plunger relative to the pump barrel.",
+            "By rotating the pump plunger relative to the pump barrel.",
+            "By changing the governor output signal.",
+            "By changing the opening pressure setting for the fuel injection valves."
+        ],
+        "correct_answer": "By raising or lowering the pump plunger relative to the pump barrel.",
+        "images": [],
+        "explanation": "VIT (Variable Injection Timing) රහිත helix control සහිත fuel pump වල injection timing එක වෙනස් කරනු ලබන්නේ pump plunger එක barrel එකට සාපේක්ෂව ඉහළ හෝ පහළ දැමීම (raising or lowering) මගිනි. මෙය බොහෝ විට shims භාවිතයෙන් සිදු කෙරේ. Helix එක මගින් ඉන්ධන ප්‍රමාණය (Fuel quantity) පාලනය කළත්, timing එක සකසන්නේ plunger එකේ පිහිටීම අනුවයි. Cam එකේ පිහිටීම වෙනස් කිරීම වෙනත් පද්ධතිවල සිදුවන්නකි."
+    },
+    {
+        "category": "CES – Engine, Cadet",
+        "index": 30,
+        "question": "The packed gland on a centrifugal pump is leaking even though the gland has been “nipped up”. What is the correct action to take to stop the leakage?",
+        "answers": [
+            "Re-pack the stuffing box loosely with the correct size packing at the earliest opportunity.",
+            "Tighten up the gland as much as possible until the leakage stops.",
+            "Ensure the bilge well to which the leakage is draining is regularly pumped out.",
+            "Fit an extra ring of oversize packing to the stuffing box at the earliest opportunity."
+        ],
+        "correct_answer": "Re-pack the stuffing box loosely with the correct size packing at the earliest opportunity.",
+        "images": [],
+        "explanation": "සෙන්ට්‍රිෆියුගල් පම්පුවක ග්ලෑන්ඩ් එක (packed gland) තද කළ පසුවත් කාන්දු වන්නේ නම්, කළ යුතු නිවැරදිම දෙය වන්නේ හැකි ඉක්මනින් පැකින් (packing) ඉවත් කර අලුතින් නිවැරදි ප්‍රමාණයේ පැකින් යෙදීමයි. පැරණි පැකින් තවදුරටත් තද කිරීමෙන් (nipping up) සිදුවන්නේ පම්පුවේ ෂාෆ්ට් (shaft) එක හෝ ස්ලීව් (sleeve) එක අධික ලෙස රත් වී හානි වීමයි. නව පැකින් යොදන විට ඒවා මුලින් ලිහිල්ව (loosely) තැබිය යුතු අතර, පම්පුව ක්‍රියාත්මක වන විට ස්වල්ප වශයෙන් කාන්දු වීමට ඉඩ හැරීමෙන් ෂාෆ්ට් එක සිසිල් වීම සහ ලිහිසි වීම සිදු වේ. එබැවින් තවදුරටත් තද කිරීම හෝ කාන්දුව නොසලකා හැරීම වෙනුවට ප්‍රතිස්ථාපනය කිරීම එකම විසඳුමයි."
+    },
+    {
+        "category": "CES – Engine, Cadet",
+        "index": 31,
+        "question": "While alongside at a repair berth a new section of seawater pipe has been fabricated in a shoreside workshop from drawings supplied by the vessel. During fitting of the pipe by ship’s engineers it is noted that the pipe is too short leaving a gap of about 8 mm between the flange faces. What action should be taken to remedy this problem?",
+        "answers": [
+            "The pipe should be returned to the shoreside workshop for modification or to be remade to the correct dimensions.",
+            "The ships engineer’s should use extra long bolts and pull the flanges together.",
+            "The ship’s engineers should fit extra thick joints between the flanges to fill the gap.",
+            "The ship’s engineers should manufacture a spacer piece to fit the gap."
+        ],
+        "correct_answer": "The pipe should be returned to the shoreside workshop for modification or to be remade to the correct dimensions.",
+        "images": [],
+        "explanation": "පයිප්පයක් අවශ්‍ය ප්‍රමාණයට වඩා කොට නම්, එය බලහත්කාරයෙන් ඇද සවි කිරීමෙන් පයිප්ප පද්ධතියට විශාල පීඩනයක් (stress) ඇති වේ. මෙය කල් යෑමේදී පයිප්පය පුපුරා යාමට හෝ ෆ්ලැන්ජ් එකෙන් කාන්දු වීමට හේතු වේ. එබැවින් නිවැරදිම ක්‍රමය එය නැවත සකස් කර ගැනීමයි. අනෙක් විකල්පයන්හි දැක්වෙන දිගු බෝල්ට් දැමීම හෝ ඝන ගෑස්කට් (gasket) යෙදීම අනාරක්ෂිත තාවකාලික විසඳුම් පමණි."
+    },
+    {
+        "category": "CES – Engine, Cadet",
+        "index": 32,
+        "question": "During inspection of a medium speed diesel engine main bearing the shell is found to have approximately 15 % of the white metal overlay worn away and some light score marks on the exposed aluminium tin bearing metal. Select the most appropriate action to take from the given options?",
+        "answers": [
+            "Refit the shell as it is, this is an acceptable condition for a thin shell bearing after a period of service.",
+            "Use a scraper to remove the score marks from the bearing metal before refitting the shell.",
+            "Use a scraper to remove the remaining overlay before refitting the shell.",
+            "Discard the damaged shell and polish the journal pin before fitting a new shell."
+        ],
+        "correct_answer": "Refit the shell as it is, this is an acceptable condition for a thin shell bearing after a period of service.",
+        "images": [],
+        "explanation": "Thin shell බෙයාරිං වල සේවා කාලයත් සමඟ white metal ස්ථරය ස්වල්පයක් (15% ක් පමණ) ගෙවී යාම සහ සුළු සීරීම් ඇති වීම සාමාන්‍ය තත්ත්වයකි. මෙය බෙයාරිං එකෙහි සමස්ත ශක්තියට හෝ ක්‍රියාකාරීත්වයට බරපතල බලපෑමක් නොකරන බැවින් එය එලෙසම නැවත සවි කිරීම (refit) වඩාත් උචිත වේ. එය ප්‍රතිස්ථාපනය කිරීම (replacement) අනවශ්‍ය වියදමක් වන අතර, බෙයාරිං එක සීරීමෙන් (scraping) එහි මතුපිට නිවැරදි හැඩය වෙනස් විය හැකි බැවින් අනෙක් විකල්ප වැරදි වේ."
+    },
+    {
+        "category": "CES – Engine, Cadet",
+        "index": 33,
+        "question": "Chemical boiling out is one method that is used for cleaning the waterside of a steam boiler. Select from the given options the likely circumstances under which this procedure would be considered necessary?",
+        "answers": [
+            "Excess chloride levels in the boiler water.",
+            "Contamination of the boiler water by oil.",
+            "Excessive sludge build up in the water drum.",
+            "Oxygen pitting in the steam drum."
+        ],
+        "correct_answer": "Contamination of the boiler water by oil.",
+        "images": [],
+        "explanation": "බොයිලේරුවක වතුර පවතින ප්‍රදේශය පිරිසිදු කිරීම සඳහා 'Chemical boiling out' ක්‍රමය භාවිතා කරන්නේ ප්‍රධාන වශයෙන්ම එහි ජලය තෙල් (oil) මගින් අපවිත්‍ර වී ඇති විටය. මෙහිදී ක්ෂාරීය රසායනික ද්‍රව්‍ය යොදා තෙල් හා ග්‍රීස් තට්ටු ඉවත් කරනු ලැබේ. අනෙක් අතට, බොයිලේරුවේ මලකඩ හෝ ඛනිජ ස්ථර (scale) ඉවත් කිරීමට සාමාන්‍යයෙන් ඇසිඩ් පිරිසිදු කිරීම් (acid cleaning) හෝ යාන්ත්‍රික පිරිසිදු කිරීම් සිදු කරන අතර, සාමාන්‍ය ක්‍රියාකාරිත්වයේදී සිදුවන දූෂණය පාලනයට 'blow down' ක්‍රමය යොදා ගනී."
+    },
+    {
+        "category": "CES – Engine, Cadet",
+        "index": 34,
+        "question": "During inspection of a high pressure fuel pump for a medium speed diesel engine it is observed that the upper leading edge and the lower helical edge of the pump plunger have suffered from erosion damage. Select the correct action to take to remedy this from the options given.",
+        "answers": [
+            "Renew the plunger and barrel insert as a pair.",
+            "Replace the complete pump with a new or reconditioned spare.",
+            "Smooth away the damaged area with a grinder and polishing stone and refit it.",
+            "Renew only the plunger if the barrel appears undamaged."
+        ],
+        "correct_answer": "Renew the plunger and barrel insert as a pair.",
+        "images": [],
+        "explanation": "මධ්‍යම වේග ඩීසල් එන්ජිමක (Medium speed diesel engine) ඉන්ධන පොම්පයක ප්ලන්ජර් (Plunger) එකෙහි ඛාදනයක් (Erosion) සිදුවී ඇත්නම්, ප්ලන්ජර් එක සහ බැරලය (Barrel) යන දෙකම යුගලයක් ලෙස අලුතින් දැමීම (Renew as a pair) නිවැරදි පිළියම වේ. මෙයට හේතුව මෙම කොටස් දෙක ඉතා සියුම් ලෙස එකිනෙකට ගැළපෙන සේ (Lapped together) නිපදවා තිබීමයි. එකක් පමණක් මාරු කිරීමෙන් ඉන්ධන කාන්දු වීම් හෝ ක්‍රියාකාරීත්වයේ දෝෂ ඇතිවිය හැක. ප්ලන්ජර් එක පමණක් මතුපිට ඔප දැමීමෙන් (Polishing) එහි නියමිත ප්‍රමාණයන් වෙනස් වී පොම්පයේ කාර්යක්ෂමතාව අඩු වේ."
+    },
+    {
+        "category": "CES – Engine, Cadet",
+        "index": 35,
+        "question": "Which of the following options is the most likely to result in the maximum cylinder pressure for all cylinders on a diesel engine to be lower than normal?",
+        "answers": [
+            "Poor quality fuel.",
+            "A leaking exhaust valve.",
+            "Camshaft timing advanced.",
+            "A worn fuel injector."
+        ],
+        "correct_answer": "Poor quality fuel.",
+        "images": [],
+        "explanation": "ඩීසල් එන්ජිමක සියලුම සිලින්ඩරවල උපරිම පීඩනය (maximum cylinder pressure) සාමාන්‍ය මට්ටමට වඩා අඩුවීමට ප්‍රධානතම හේතුව වන්නේ බාල ඉන්ධන (poor quality fuel) භාවිතයයි. ඉන්ධනවල ගුණාත්මකභාවය අඩු වූ විට ඒවා දහනය වීමේදී නිපදවන තාපය සහ ශක්තිය අඩුවන අතර, එමගින් සිලින්ඩර තුළ ඇතිවන උපරිම පීඩනය පහළ යයි. තනි සිලින්ඩරයක injector එකක දෝෂයක් තිබුනේ නම් එම සිලින්ඩරයේ පමණක් පීඩනය අඩුවන නමුත්, සියලුම සිලින්ඩරවලට බලපාන්නේ ඉන්ධනවල ගුණාත්මකභාවය හෝ පොදු වායු සැපයුමේ ගැටලුවකි."
+    },
+    {
+        "category": "CES – Engine, Cadet",
+        "index": 36,
+        "question": "Which of the following options would be the cause of a low exhaust temperature in one cylinder of a diesel engine?",
+        "answers": [
+            "Faulty fuel injection valve.",
+            "Charge air cooler fouled on air side.",
+            "Faulty turbocharger.",
+            "Poor quality fuel."
+        ],
+        "correct_answer": "Faulty fuel injection valve.",
+        "images": [],
+        "explanation": "එක් සිලින්ඩරයක exhaust gas උෂ්ණත්වය අඩු වීමට ප්‍රධානතම හේතුව වන්නේ අක්‍රිය වූ ඉන්ධන විදින කපාටයකි (faulty fuel injection valve). නිසි ලෙස ඉන්ධන නොලැබීමෙන් හෝ ඉන්ධන දහනය නොවීමෙන් එම සිලින්ඩරය තුළ නිපදවන තාපය අඩු වේ. අනෙක් විකල්ප වන air filter අවහිර වීම හෝ turbocharger දෝෂ සියලුම සිලින්ඩර වලට පොදුවේ බලපාන බැවින් ඒවා තනි සිලින්ඩරයක උෂ්ණත්වය අඩු වීමට හේතු නොවේ."
+    },
+    {
+        "category": "CES – Engine, Cadet",
+        "index": 37,
+        "question": "How is the temperature of the high temperature circuit of a central cooling system normally controlled?",
+        "answers": [
+            "By mixing with water from the low temperature circuit.",
+            "By controlling the flow through the fresh water evaporator heating circuit.",
+            "By increasing the flow rate through the main engine cooling circuit.",
+            "By controlling the bypass of flow for the central coolers."
+        ],
+        "correct_answer": "By mixing with water from the low temperature circuit.",
+        "images": [],
+        "explanation": "මධ්‍යම සිසිලන පද්ධතියක (central cooling system) අධික උෂ්ණත්ව පරිපථයේ (HT circuit) උෂ්ණත්වය පාලනය කරනු ලබන්නේ අඩු උෂ්ණත්ව පරිපථයෙන් (LT circuit) එන සිසිල් ජලය සමඟ මිශ්‍ර කිරීමෙනි (mixing). මෙහිදී thermostatic valve එකක් මගින් අවශ්‍ය උෂ්ණත්වය පවත්වා ගැනීමට සුදුසු අනුපාතයකින් ජලය මිශ්‍ර කරයි. මුහුදු ජලය සෘජුව HT පරිපථයට යෙදීමෙන් එන්ජිමට ලුණු තැන්පත් වී හානි විය හැකි බැවින් අනෙක් ක්‍රම භාවිතා නොකෙරේ."
+    },
+    {
+        "category": "CES – Engine, Cadet",
+        "index": 38,
+        "question": "How is the condenser in a fresh water evaporator normally cooled?",
+        "answers": [
+            "With air.",
+            "With brine.",
+            "With distillate.",
+            "With seawater."
+        ],
+        "correct_answer": "With seawater.",
+        "images": [],
+        "explanation": "මිරිදිය වාෂ්පකාරකයක (Fresh water evaporator) ඇති කන්ඩෙන්සරය සිසිල් කිරීම සඳහා සාමාන්‍යයෙන් මුහුදු ජලය (Seawater) භාවිතා කරනු ලැබේ. මෙයට හේතුව වන්නේ නෞකාවක මුහුදු ජලය බහුලව ලබාගත හැකි වීම සහ එය තාපය උරා ගැනීමට ඉතා කාර්යක්ෂම මාධ්‍යයක් වීමයි. මිරිදිය භාවිත කිරීම මෙහිදී අවාසි සහගත වන්නේ අප මෙම උපකරණය භාවිතා කරන්නේම මිරිදිය නිපදවීමට බැවිනි. එම නිසා සිසිලනය සඳහා මුහුදු ජලය යොදා ගැනීම වඩාත් උචිත වේ."
+    },
+    {
+        "category": "CES – Engine, Cadet",
+        "index": 39,
+        "question": "What will happen if the charge air pressure drops?",
+        "answers": [
+            "The performance of the engine is nearly the same.",
+            "The cylinder cooling water flow becomes too high.",
+            "The performance of the engine is reduced noticeably.",
+            "The turbochargers cooling water flow becomes to high."
+        ],
+        "correct_answer": "The performance of the engine is reduced noticeably.",
+        "images": [],
+        "explanation": "Charge air පීඩනය (Pressure) අඩු වුවහොත්, එන්ජිමේ දහනය සඳහා අවශ්‍ය ඔක්සිජන් ප්‍රමාණය අඩු වේ. මෙහි ප්‍රතිඵලයක් ලෙස ඉන්ධන සම්පූර්ණයෙන් දහනය නොවන අතර, එන්ජිමේ ක්‍රියාකාරිත්වය (Performance) කැපී පෙනෙන ලෙස අඩු වේ. එසේම පිටවන දුමාරයේ උෂ්ණත්වය ඉහළ යාම සහ කළු දුම පිටවීම වැනි ලක්ෂණ දැකිය හැකිය. අනෙකුත් විකල්පයන්හි සඳහන් වන පරිදි එන්ජිමේ වේගය ඉහළ යාම හෝ තෙල් පීඩනය ඉහළ යාම මෙහිදී සිදු නොවේ."
+    },
+    {
+        "category": "CES – Engine, Cadet",
+        "index": 40,
+        "question": "Which of the options given is likely to be the reason for a drop in the charge air pressure supplied to a diesel engine by an exhaust gas turbocharger?",
+        "answers": [
+            "Insufficient cooling of the charge air.",
+            "Scavenge ports dirty.",
+            "Fuel pressure to the engine is too low.",
+            "Exhaust gas boiler fouled."
+        ],
+        "correct_answer": "Exhaust gas boiler fouled.",
+        "images": [],
+        "explanation": "එන්ජිමෙන් පිටවන වායූන් ගමන් කරන Exhaust gas boiler එක අපිරිසිදු වීමෙන් (Fouled) එන්ජිමේ පිටවන මාර්ගයේ පසුපස පීඩනයක් (Back pressure) ඇති වේ. මෙය ටර්බෝචාජරයේ (Turbocharger) වේගය අඩු කිරීමට හේතු වන අතර එමගින් සිලින්ඩර වලට සපයන Charge air පීඩනය අඩු වේ. වායුගෝලීය උෂ්ණත්වය හෝ එන්ජිමේ බර (Load) වෙනස් වීම මෙයට වඩා වෙනස් ආකාරයකින් බලපාන අතර, බොයිලේරුවේ අපිරිසිදුකම පීඩනය අඩුවීමට සෘජු බලපෑමක් ඇති කරයි."
+    },
+    {
+        "category": "CES – Engine, Cadet",
+        "index": 41,
+        "question": "When planning bunkering operations it is preferable to arrange for the new fuel to be bunkered into empty or nearly empty tanks whenever possible. What is the main reason for this?",
+        "answers": [
+            "To minimise the risk of incompatibility between different fuels.",
+            "So that the sulphur content of each fuel is known.",
+            "To make it easier to calculate the quantity of fuel taken onboard.",
+            "To minimise the risk of microbial contamination of the fuel."
+        ],
+        "correct_answer": "To minimise the risk of incompatibility between different fuels.",
+        "images": [],
+        "explanation": "අලුතින් ලබාගන්නා ඉන්ධන (Bunker fuel) හිස් හෝ බොහෝ දුරට හිස් ටැංකි වලට පිරවීම වඩාත් සුදුසු වන්නේ විවිධ වර්ගයේ ඉන්ධන එකිනෙක මිශ්‍ර වීමෙන් ඇති විය හැකි නොගැලපීම් (Incompatibility) අවම කිරීමටයි. විවිධ සැපයුම්කරුවන්ගෙන් ලැබෙන ඉන්ධන එකිනෙක මිශ්‍ර වූ විට රසායනික ප්‍රතික්‍රියා හේතුවෙන් රොඩු (Sludge) තැන්පත් විය හැකි අතර එය ෆිල්ටර් හිරවීමට හා එන්ජිමේ ක්‍රියාකාරිත්වයට බාධා ඇති කරයි. ටැංකියේ ඉඩ ප්‍රමාණය හෝ පිරිවැය මෙහි ප්‍රධාන හේතුව නොවේ."
+    },
+    {
+        "category": "CES – Engine, Cadet",
+        "index": 42,
+        "question": "What characterizes a 2 stroke diesel engine?",
+        "answers": [
+            "A 2 stroke engine has an ignition every time the piston reaches its top position.",
+            "A 2 stroke engine always has 2 or more turbochargers.",
+            "The piston always has a short skirt.",
+            "A 2 stroke engine has an air inlet valve in the cylinder cover."
+        ],
+        "correct_answer": "A 2 stroke engine has an ignition every time the piston reaches its top position.",
+        "images": [],
+        "explanation": "ස්ට්‍රෝක් 2ක ඩීසල් එන්ජිමක (2 stroke diesel engine) විශේෂත්වය වන්නේ පිස්ටනය සෑම විටම ඉහළට පැමිණි විට (TDC) බල පහරක් (Power stroke) ඇති වීමයි. එනම් එන්ජින් ක්‍රෑන්ක් ශාෆ්ට් එකේ සෑම වටයකටම (Revolution) වරක් ජ්වලනයක් (Ignition) සිදු වේ. ස්ට්‍රෝක් 4ක එන්ජින් වලදී ජ්වලනය සිදුවන්නේ වට දෙකකට වරක් පමණි. එම නිසා සෑම වටයකදීම බල පහරක් ලැබීම ස්ට්‍රෝක් 2ක එන්ජිමේ ප්‍රධාන ලක්ෂණයයි."
+    },
+    {
+        "category": "CES – Engine, Cadet",
+        "index": 43,
+        "question": "Which of the options represents the best action to take when an item of machinery, which normally operates in automatic mode, is operated in “manual” mode?",
+        "answers": [
+            "Change over all other machinery to manual mode of operation.",
+            "Keep the Chief Engineer informed of machines performance on an hourly basis.",
+            "Monitor the operation of the machinery on a frequent basis.",
+            "Have someone permanently permanently stationed at the machine in case of an operational problem."
+        ],
+        "correct_answer": "Monitor the operation of the machinery on a frequent basis.",
+        "images": [],
+        "explanation": "ස්වයංක්‍රීයව ක්‍රියා කරන යන්ත්‍රයක් අතින් (Manual mode) ක්‍රියා කරවන විට වඩාත් සුදුසු ක්‍රියාව වන්නේ එම යන්ත්‍රය නිතර නිතර නිරීක්ෂණය කිරීමයි. මන්දයත්, ස්වයංක්‍රීය පද්ධතියේ ඇති ආරක්ෂක පාලන (Safety interlocks and control loops) මැනුවල් මෝඩ් එකේදී ක්‍රියා නොකිරීමට ඉඩ ඇති බැවින්, යම් දෝෂයක් ඇති වුවහොත් එය හඳුනා ගැනීමට මිනිස් නිරීක්ෂණය අත්‍යවශ්‍ය වේ. යන්ත්‍රය තනිව ක්‍රියා කිරීමට හැරීම අනතුරුදායක විය හැක."
+    },
+    {
+        "category": "CES – Engine, Cadet",
+        "index": 44,
+        "question": "What will you do if the PH-value in the boiler water is under 7?",
+        "answers": [
+            "Increase the dosage of chemicals, and take new test of the water.",
+            "Nothing.",
+            "Blow the boiler and renew some water.",
+            "Decrease the dosage of chemicals, and take new test of the water."
+        ],
+        "correct_answer": "Increase the dosage of chemicals, and take new test of the water.",
+        "images": [],
+        "explanation": "බොයිලේරු ජලයේ pH අගය 7 ට වඩා අඩු වීම යනු එම ජලය ආම්ලික (Acidic) බවයි. ආම්ලික ජලය බොයිලේරු නල සහ ලෝහ කොටස් ඉක්මනින් දිරාපත් කිරීමට (Corrosion) හේතු වේ. මෙම තත්ත්වය පාලනය කිරීම සඳහා වහාම අවශ්‍ය රසායනික ද්‍රව්‍ය (Chemicals) මාත්‍රාව වැඩි කර pH අගය අවශ්‍ය මට්ටමට (සාමාන්‍යයෙන් 8.5 - 11) ගෙන ආ යුතුය. ඉන්පසු නැවත ජලය පරීක්ෂා කර තහවුරු කර ගත යුතුය. ජලය බැහැර කිරීම හෝ ඒ ගැන නොසලකා හැරීම මෙහිදී නිවැරදි පිළියම නොවේ."
+    },
+    {
+        "category": "CES – Engine, Cadet",
+        "index": 45,
+        "question": "The duty engineer notices that there is full flow through overflow line observation glass to the fuel oil overflow tank. What action should be taken?",
+        "answers": [
+            "Stop all F. O. transfers and other fuel operations immediately and check all fuel tank levels.",
+            "Get a crewman to sound the overflow tank at frequent intervals and report to the duty engineer when it is nearly full.",
+            "Check the levels in all the fuel oil tanks.",
+            "Start the fuel oil transfer pump to pump out the overflow tank."
+        ],
+        "correct_answer": "Stop all F. O. transfers and other fuel operations immediately and check all fuel tank levels.",
+        "images": [],
+        "explanation": "ඉන්ධන පිටාර ගලන නලයේ (Overflow line) නිරීක්ෂණ වීදුරුව හරහා ඉන්ධන ගලා යන බව දුටුවහොත්, ඉන් අදහස් වන්නේ යම් ටැංකියක් පිරී ඉතිරී යන බවයි. මෙය වහාම පාලනය නොකළහොත් තෙල් මුහුදට කාන්දු වී පරිසර දූෂණයක් (Oil spill) හෝ ගිනි අනතුරක් විය හැකිය. එම නිසා වහාම සියලුම ඉන්ධන හුවමාරු කිරීම් (F.O. transfers) නතර කර ටැංකි වල මට්ටම් පරීක්ෂා කළ යුතුය. අනෙකුත් විකල්පයන් මගින් අනතුර වැළැක්වීමට නොහැකි අතර වහාම ක්‍රියාත්මක වීම අත්‍යවශ්‍ය වේ."
+    },
+    {
+        "category": "CES – Engine, Cadet",
+        "index": 46,
+        "question": "Why use a central cooling system?",
+        "answers": [
+            "It is not a complicated system.",
+            "It is more easy to operate.",
+            "It requires less maintenance.",
+            "It is cheap to install."
+        ],
+        "correct_answer": "It requires less maintenance.",
+        "images": [],
+        "explanation": "මධ්‍යගත සිසිලන පද්ධතියක් (Central cooling system) භාවිතා කිරීමේ ප්‍රධාන වාසිය වන්නේ නඩත්තු කටයුතු (Maintenance) අඩු වීමයි. මෙහිදී මුහුදු ජලය ගමන් කරන්නේ ප්‍රධාන හීට් එක්ස්චේන්ජර් (Main heat exchangers) එකක් හෝ දෙකක් හරහා පමණක් වන අතර එන්ජිමේ අනෙකුත් කොටස් සිසිල් කිරීමට මිරිදිය භාවිතා කරයි. මෙහිදී මුහුදු ජලය නිසා ඇතිවන මලකඩ කෑම සහ අවහිර වීම් අවම වන බැවින් නඩත්තු කිරීම පහසු වේ. මෙහෙයුම් පිරිවැය හෝ ඉන්ධන පරිභෝජනය මෙහි ප්‍රධාන හේතුව නොවේ."
+    },
+    {
+        "category": "CES – Engine, Cadet",
+        "index": 47,
+        "question": "What is a system employing a single common freshwater cooler (cooled by means of seawater) called?",
+        "answers": [
+            "Central cooling system.",
+            "High temperature freshwater system.",
+            "Common cooling system.",
+            "Low temperature freshwater system."
+        ],
+        "correct_answer": "Central cooling system.",
+        "images": [],
+        "explanation": "මුහුදු ජලය භාවිතයෙන් එකම මිරිදිය සිසිලන පද්ධතියක් (Single common freshwater cooler) හරහා එන්ජිමේ සියලුම කොටස් සිසිල් කරන පද්ධතිය 'Central cooling system' ලෙස හඳුන්වයි. මෙහිදී මුහුදු ජලය සහ එන්ජිමේ මිරිදිය පරිපථය අතර තාප හුවමාරුව මධ්‍යගත ස්ථානයක සිදු වේ. direct cooling හෝ load cooling වැනි පද්ධති මෙයට වඩා වෙනස් වන අතර මධ්‍යගත කිරීම මෙහි ප්‍රධාන ලක්ෂණයයි."
+    },
+    {
+        "category": "CES – Engine, Cadet",
+        "index": 48,
+        "question": "A vapour compression refrigeration system is usually fitted with a number of devices to give protection and control of the system. Which of the methods given in the options should be used to test the high pressure cut out during routine maintenance and checking of the system?",
+        "answers": [
+            "Gradually shut in the condenser cooling water valve or the condenser refrigerant inlet valve while closely monitoring the compressor discharge pressure.",
+            "Close the condenser outlet valve and closely monitor the condenser pressure.",
+            "Manually close each of the evaporator coils by switching off the electrical supply to the liquid line solenoid shut off valves and monitor the condenser pressure."
+        ],
+        "correct_answer": "Gradually shut in the condenser cooling water valve or the condenser refrigerant inlet valve while closely monitoring the compressor discharge pressure.",
+        "images": [],
+        "explanation": "Vapour compression refrigeration පද්ධතියක High Pressure (HP) cut-out එක පරීක්ෂා කිරීමේදී, කොන්ඩෙන්සරයේ සිසිලන ජල කපාටය (cooling water valve) සෙමෙන් වැසීමෙන් හෝ රෙෆ්රිජරන්ට් ඇතුල් වන කපාටය සෙමෙන් වැසීමෙන් ඩිස්චාර්ජ් පීඩනය ක්‍රමයෙන් වැඩි කළ හැක. මෙය නිවැරදි ක්‍රමය වන්නේ එමගින් පීඩනය පාලිත මට්ටමකින් ඉහළ නංවා cut-out එක නියමිත පීඩනයේදී ක්‍රියාත්මක වේදැයි ආරක්ෂිතව බලාගත හැකි බැවිනි. අනෙකුත් ක්‍රම මගින් පීඩනය පාලනයකින් තොරව ක්ෂණිකව වැඩි වී පද්ධතියට හානි විය හැක."
+    },
+    {
+        "category": "CES – Engine, Cadet",
+        "index": 49,
+        "question": "Your vessel has a controllable pitch propeller. The engine can be started when the propeller pitch is:",
+        "answers": [
+            "25 % astern.",
+            "10 % ahead.",
+            "25 % ahead.",
+            "Zero."
+        ],
+        "correct_answer": "Zero.",
+        "images": [],
+        "explanation": "පාලනය කළ හැකි පිච් එකක් සහිත ප්‍රොපෙලර් (Controllable pitch propeller - CPP) පද්ධතියකදී, එන්ජිම පණගැන්වීමේදී ප්‍රොපෙලරයේ පිච් එක 'බිංදුව' (Zero) මට්ටමේ තිබිය යුතුය. එවිට ප්‍රොපෙලරය කැරකැවුනද නැව ඉදිරියට හෝ පසුපසට ගමන් නොකරන අතර එන්ජිම මත ඇතිවන ප්‍රතිරෝධය (Load) අවම වේ. පිච් එක උපරිම හෝ අවම මට්ටමක තිබුණහොත් එන්ජිම පණගැන්වීමේදී අධික බරක් ඇති වී අනතුරු හෝ හානි සිදු විය හැකිය."
+    },
+    {
+        "category": "CES – Engine, Cadet",
+        "index": 50,
+        "question": "Marine steam boilers are protected with a number of safety features which are designed to prevent damage to the boiler due to overheating or overpressure. How is this protection achieved when a very low water level condition (often referred to as low low level) develops during operation?",
+        "answers": [
+            "All burners are automatically and immediately shut off.",
+            "The main and auxiliary feed control valves open fully while all burners continue to operate.",
+            "All but one of the burners is shut off with the remaining burner being reduced to minimum firing.",
+            "All burners are automatically set at minimum firing rate."
+        ],
+        "correct_answer": "All burners are automatically and immediately shut off.",
+        "images": [],
+        "explanation": "නෞකාවල භාවිතා වන ස්ටීම් බොයිලේරු (Steam Boilers) වල ජල මට්ටම ඉතාමත් පහළ මට්ටමකට (Low Low Level) පැමිණි විට, බොයිලේරු නල (Tubes) තුළ ජලය නොමැති වීම නිසා තාපය අවශෝෂණය කර ගැනීමට නොහැකි වී ඒවා අධික ලෙස රත් වීමෙන් (Overheating) බරපතල හානි සිදුවිය හැක. මෙය වළක්වා ගැනීම සඳහා වන ප්‍රධාන ආරක්ෂිත පියවරක් ලෙස සියලුම දහන යන්ත්‍ර (Burners) ස්වයංක්‍රීයව හා වහාම ක්‍රියා විරහිත කරනු ලැබේ. මෙහිදී හුදෙක් එලාම් එකක් පමණක් නාද කිරීම ප්‍රමාණවත් නොවන අතර, ජලය පමණක් ඇතුළු කිරීමට උත්සාහ කිරීමෙන් අධික ලෙස රත් වූ ලෝහ මතුපිටට ක්ෂණිකව ජලය වැදීම නිසා 'thermal shock' ඇති වී නල පිපිරීමට ඉඩ ඇති බැවින් දහනය නැවැත්වීම අනිවාර්ය වේ."
+    },
+    {
+        "category": "CES – Engine, Cadet",
+        "index": 51,
+        "question": "In a low pressure auxiliary boiler, what would you consider to be the maximum allowable chloride level?",
+        "answers": [
+            "300 ppm.",
+            "50 ppm.",
+            "600 ppm.",
+            "1 000 ppm."
+        ],
+        "correct_answer": "300 ppm.",
+        "images": [],
+        "explanation": "අඩු පීඩන සහායක බොයිලේරුවක (Low Pressure Auxiliary Boiler) නඩත්තුවේදී එහි ක්ලෝරයිඩ් මට්ටම 300 ppm (parts per million) ට වඩා අඩුවෙන් පවත්වා ගැනීම අත්‍යවශ්‍ය වේ. ක්ලෝරයිඩ් මට්ටම ඉහළ යාම මඟින් බොයිලේරුවේ ඇතුළත බිත්ති සහ නල ඉක්මනින් විඛාදනයට (Corrosion) ලක්වීම සහ ලවණ තැන්පත්වීම (Scale formation) සිදු විය හැකිය. 300 ppm යනු ජාත්‍යන්තරව පිළිගැනෙන උපරිම ආරක්ෂිත සීමාවයි. මෙයට වඩා වැඩි අගයක් ලැබීමෙන් අදහස් වන්නේ පද්ධතියට ලුණු ජලය මුසු වී ඇති බවයි. අනෙකුත් විකල්ප වන 1000 ppm වැනි අගයන් අධික වැඩි බැවින් ඒවා පිළිගත නොහැක."
+    },
+    {
+        "category": "CES – Engine, Cadet",
+        "index": 52,
+        "question": "During the cycle of a four stroke diesel engine there is a load reversal on the bottom end bearing when the load transfers from the upper part of the bearing to the lower part. What is the main cause of this load reversal on a modern, turbocharged, medium speed diesel engine?",
+        "answers": [
+            "The lack of gas load to oppose the inertial forces generated during the exhaust stroke.",
+            "The light alloy materials used for the piston skirt.",
+            "The inertial forces generated during the upward strokes of the piston (compression and exhaust strokes).",
+            "The suction effect on the piston during the air intake (induction) stroke."
+        ],
+        "correct_answer": "The lack of gas load to oppose the inertial forces generated during the exhaust stroke.",
+        "images": [],
+        "explanation": "සිව් පහර (Four-stroke) එන්ජිමක පිටවන පහරේදී (Exhaust stroke), පිස්ටනය ඉහළට ගමන් කරන විට එයට ප්‍රතිවිරුද්ධව ක්‍රියා කිරීමට ප්‍රමාණවත් වායු පීඩනයක් (Gas load) සිලින්ඩරය තුළ නොමැත. නමුත් ඉහළ වේගයෙන් ගමන් කරන පිස්ටනයේ ගම්‍යතාවය (Inertia) නිසා එය ඉහළට ඇදෙන අතර, මෙහිදී බෙයාරිං එකේ බර ඉහළ කොටසේ සිට පහළ කොටසට මාරු වේ (Load reversal). නවීන ටර්බෝචාජ් කරන ලද එන්ජින්වල පවා පිටවන පහරේදී මෙම තත්ත්වය ඇතිවේ. ඉන්ධන දහනය වන පවර් ස්ට්‍රෝක් එකේදී පීඩනය සැමවිටම පහළට ක්‍රියා කරන බැවින් එහිදී මෙවැනි මාරුවීමක් සිදු නොවේ."
+    },
+    {
+        "category": "CES – Engine, Cadet",
+        "index": 53,
+        "question": "What is the reason for fitting “Rotocaps” to the cylinder head valves of some 4-stroke diesel engines?",
+        "answers": [
+            "To extend the service life of valves by giving even heat and wear distribution.",
+            "To help clear the cylinder of exhaust gas by spinning the exhaust valve during opening.",
+            "Rotate the inlet valve during operation to improve air turbulence in the cylinder."
+        ],
+        "correct_answer": "To extend the service life of valves by giving even heat and wear distribution.",
+        "images": [],
+        "explanation": "සිව්-පහර (4-stroke) ඩීසල් එන්ජින්වල වෑල්ව සඳහා 'Rotocaps' භාවිතා කරන්නේ වෑල්වය විවෘත වන සෑම අවස්ථාවකම එය සුළු ප්‍රමාණයකින් කැරකැවීමට සැලැස්වීම සඳහායි. මෙයින් වෑල්වයේ මුහුණත මත තාපය සහ ගෙවීම සමානව බෙදී යන අතර, වෑල්වයේ ආසනය (valve seat) මත කාබන් තැන්පත් වීම වැළකේ. මෙය වෑල්වයේ ආයු කාලය වැඩි කිරීමට උපකාරී වේ. අනෙක් විකල්පයන්හි දැක්වෙන පරිදි මෙය වෑල්වයේ වේගය පාලනය කිරීමට හෝ ලිහිසි තෙල් වැඩි කිරීමට භාවිතා නොකරයි."
+    },
+    {
+        "category": "CES – Engine, Cadet",
+        "index": 54,
+        "question": "With reference to engine room operations, what does the term “Stand By” mean?",
+        "answers": [
+            "The engineers should be ready to respond to bridge requirements.",
+            "Someone should stand close to the watch-keeping engineer.",
+            "One should continue with ones work.",
+            "Someone is relieved of his duties."
+        ],
+        "correct_answer": "The engineers should be ready to respond to bridge requirements.",
+        "images": [],
+        "explanation": "එන්ජින් රූම් මෙහෙයුම්වලදී 'Stand By' යන පදය භාවිතා කරන්නේ නෞකාව වරායකට ඇතුළු වීමේදී, පිටවීමේදී හෝ පටු මුහුදු මාර්ග හරහා ගමන් කරන විටයි. මෙහිදී ඉංජිනේරුවන් සියලු දෙනාම එන්ජින් කාමරයේ රැඳී සිටිමින් පාලම් පුවරුවෙන් (Bridge) ලැබෙන ඕනෑම ටෙලිග්‍රාෆ් නියෝගයකට (Engine speed and direction changes) වහාම ප්‍රතිචාර දැක්වීමට සූදානම්ව සිටිය යුතුය. මෙය සාමාන්‍ය ගමන් වාරයකදී මෙන් නොව, ඕනෑම හදිසි තත්වයකට මුහුණ දීමට පිරිස් බලය සහ යන්ත්‍රෝපකරණ සූදානම්ව තැබීමයි. 'All engineers down' යන්නෙන් අදහස් වන්නේද මෙයම වන අතර අනෙකුත් විකල්ප මෙහි නිවැරදි අර්ථය ලබා නොදේ."
+    },
+    {
+        "category": "CES – Engine, Cadet",
+        "index": 55,
+        "question": "Tests on the water in a low pressure boiler show the chloride level is 500 ppm. What action should be taken?",
+        "answers": [
+            "Increase feed water temperature.",
+            "Decrease dosage of treatment chemicals.",
+            "Increase dosage of treatment chemicals.",
+            "Blow down boiler and check the condenser for leakage."
+        ],
+        "correct_answer": "Blow down boiler and check the condenser for leakage.",
+        "images": [],
+        "explanation": "අඩු පීඩන බොයිලේරුවක ක්ලෝරයිඩ් මට්ටම 500 ppm දක්වා ඉහළ ගොස් ඇත්නම්, එය සාමාන්‍ය සීමාව වන 300 ppm ඉක්මවා ගිය අවදානම් තත්වයකි. මෙයට පිළියමක් ලෙස වහාම 'Blow down' ක්‍රියාවලිය මගින් බොයිලේරුවේ ඇති අපිරිසිදු ජලය යම් ප්‍රමාණයක් ඉවත් කර අලුත් පිරිසිදු ජලය පිරවිය යුතුය. එසේම, සාමාන්‍යයෙන් ක්ලෝරයිඩ් මට්ටම මෙතරම් වැඩි වන්නේ කන්ඩෙන්සර් (Condenser) එකෙහි නල හරහා මුහුදු ජලය පිරිසිදු ජල පද්ධතියට කාන්දු වීම නිසා බැවින්, වහාම කන්ඩෙන්සර් එකෙහි කාන්දුවීම් ඇත්දැයි පරීක්ෂා කිරීම අත්‍යවශ්‍ය වේ. රසායනික ද්‍රව්‍ය පමණක් එකතු කිරීමෙන් ක්ලෝරයිඩ් ඉවත් කළ නොහැක."
+    },
+    {
+        "category": "CES – Engine, Cadet",
+        "index": 56,
+        "question": "In a low pressure auxiliary boiler, if after testing the water you found the P. alkalinity to be 450 ppm CaCo3, what action would you take?",
+        "answers": [
+            "Blow down boiler and reduce dosage.",
+            "Increase dosage.",
+            "Decrease dosage.",
+            "Do nothing."
+        ],
+        "correct_answer": "Blow down boiler and reduce dosage.",
+        "images": [],
+        "explanation": "P. Alkalinity (Phenolphthalein Alkalinity) මට්ටම 450 ppm CaCo3 වැනි ඉහළ අගයක් ගැනීමෙන් පෙන්නුම් කරන්නේ බොයිලේරුවේ ජලයට එකතු කරන රසායනික ද්‍රව්‍ය (Chemical dosage) අවශ්‍ය ප්‍රමාණයට වඩා වැඩි වී ඇති බවයි. මෙලෙස ක්ෂාරීයතාව (Alkalinity) ඉහළ යාම නිසා බොයිලේරු ජලය පෙණ දැමීම (Foaming) සහ ලෝහ කොටස්වලට හානි වීම සිදුවිය හැක. එබැවින් වහාම Blow down කර ජලයේ රසායනික සාන්ද්‍රණය අඩු කළ යුතු අතර, මින් පසුව එකතු කරන රසායනික ප්‍රමාණය (Dosage) අඩු කිරීමට පියවර ගත යුතුය. රසායනික ද්‍රව්‍ය වැඩිපුර එකතු කිරීම මෙහිදී විසඳුමක් නොවන අතර එය ගැටළුව තවත් දරුණු කරයි."
+    },
+    {
+        "category": "CES – Engine, Cadet",
+        "index": 57,
+        "question": "When referring to onboard oil treatments using a centrifuge, what is meant by the term purification?",
+        "answers": [
+            "Separation of two insoluble liquids with different densities, and the removal of solids in the same process.",
+            "Separation of one insoluble liquid from another.",
+            "It is a general term applied to a process for cleaning oil using a centrifuge.",
+            "Separation of solid contaminants from a liquid during the process."
+        ],
+        "correct_answer": "Separation of two insoluble liquids with different densities, and the removal of solids in the same process.",
+        "images": [],
+        "explanation": "නෞකාවල තෙල් පිරිපහදු කිරීමේදී 'Purification' ලෙස හඳුන්වන්නේ එකිනෙකට මිශ්‍ර නොවන, ඝනත්වයෙන් වෙනස් දියර වර්ග දෙකක් (ප්‍රධාන වශයෙන් තෙල් සහ ජලය) වෙන් කිරීම සහ ඒ සමගම තෙල් වල ඇති ඝන අපද්‍රව්‍ය ඉවත් කිරීමේ ක්‍රියාවලියයි. මෙය Clarification වලට වඩා වෙනස් වන්නේ Clarification මගින් ඉවත් කරන්නේ ඝන ද්‍රව්‍ය පමණක් බැවිනි. එබැවින් දියර වර්ග දෙකක් වෙන් කරන ක්‍රියාවලිය හැඳින්වීමට මෙම පදය භාවිතා වේ."
+    },
+    {
+        "category": "CES – Engine, Cadet",
+        "index": 58,
+        "question": "What is generally considered as the minimum safe time period before opening a crankcase door after the oil mist detector alarm has activated and the engine has been stopped?",
+        "answers": [
+            "After at least 20 minutes.",
+            "After at least 1 hour.",
+            "After at least 10 minutes.",
+            "After at least 5 minutes."
+        ],
+        "correct_answer": "After at least 20 minutes.",
+        "images": [],
+        "explanation": "එන්ජිම නැවැත්වීමෙන් පසු ක්‍රෑන්ක්කේස් දොරවල් විවෘත කිරීමට පෙර අවම වශයෙන් විනාඩි 20 ක් බලා සිටීම අත්‍යවශ්‍ය වේ. මෙයට හේතුව වන්නේ ක්‍රෑන්ක්කේස් තුළ ඇති අධික උණුසුම නිසා හටගත් තෙල් මීදුම (Oil Mist) තවමත් පවතින අතර, දොර විවෘත කළ සැණින් පිටත ඇති වාතය (ඔක්සිජන්) ඇතුළු වීමෙන් දරුණු පිපිරීමක් (Crankcase Explosion) සිදුවිය හැකි බැවිනි. එම කාලය ලබා දීමෙන් ඇතුළත ඇති රත් වූ කොටස් සිසිල් වීමට ඉඩ සැලසේ. වහාම විවෘත කිරීම හෝ කෙටි වේලාවකින් විවෘත කිරීම ඉතාමත් අනතුරුදායක වන බැවින් අනෙකුත් විකල්ප වැරදි වේ."
+    },
+    {
+        "category": "CES – Engine, Cadet",
+        "index": 59,
+        "question": "What is the main problem associated with oil in a steam boiler water system?",
+        "answers": [
+            "It forms an insulating film on heat transfer surfaces with the risk of overheating.",
+            "It causes corrosion of steel in the boiler.",
+            "It causes the gauge glasses to become dirty preventing the operator from seeing the water level.",
+            "It increases scale deposits in the boiler."
+        ],
+        "correct_answer": "It forms an insulating film on heat transfer surfaces with the risk of overheating.",
+        "images": [],
+        "explanation": "බොයිලේරු ජල පද්ධතියට තෙල් (Oil) මිශ්‍ර වීම ඉංජිනේරුවෙකු මුහුණ දෙන ප්‍රධානතම ගැටළුවකි. මන්ද තෙල් මගින් තාපය ගමන් කරන මතුපිටවල් (Heat transfer surfaces) මත තාපය ගලා යාම අවහිර කරන (Insulating film) තුනී පටලයක් සාදනු ලබයි. ජලය සහ තාපය ලබා දෙන මතුපිට අතර මෙම තෙල් තට්ටුව තිබීම නිසා ජලය වෙත තාපය ගලා නොයන අතර, එහි ප්‍රතිඵලයක් ලෙස බොයිලේරු නල අධික ලෙස රත් වී (Overheating) ඒවායේ හැඩය වෙනස් වීමට හෝ පිපිරීමට ඉඩ ඇත. මලකඩ කෑමට වඩා මෙම අධික ලෙස රත් වීමේ අවදානම ඉතා බරපතල වේ."
+    },
+    {
+        "category": "CES – Engine, Cadet",
+        "index": 60,
+        "question": "What is meant by the term “two stage air compressor”?",
+        "answers": [
+            "A compressor in which the compressed air from the first stage is further compressed in the second stage before being delivered to the air receiver.",
+            "A compressor in which the air is delivered to two separate air receivers each at different pressures.",
+            "A set of two compressors. The first compressor delivers low pressure air to an air receiver. The second further compresses the air for delivery to the working range.",
+            "A two cylinder compressor in which half of the air is compressed in one cylinder and half in the other."
+        ],
+        "correct_answer": "A compressor in which the compressed air from the first stage is further compressed in the second stage before being delivered to the air receiver.",
+        "images": [],
+        "explanation": "Two stage air compressor (අදියර දෙකක වායු සම්පීඩකය) යනු වායුව සම්පීඩනය කිරීම අදියර දෙකකදී සිදුකරන යන්ත්‍රයකි. මෙහිදී පළමු සිලින්ඩරයේදී (Low Pressure) මදක් සම්පීඩනය කළ වායුව, අතරමැදි සිසිලකයක් (Intercooler) හරහා යවා නැවත දෙවන සිලින්ඩරයකදී (High Pressure) අවශ්‍ය පීඩනය දක්වා සම්පීඩනය කරයි. මෙය තනි අදියරකදී සිදු කිරීමට වඩා කාර්යක්ෂම වන අතර උෂ්ණත්වය පාලනය කිරීමටද උපකාරී වේ. අනෙක් විකල්ප වැරදි වන්නේ, සිලින්ඩර දෙකක් තිබූ පමණින්ම එය 'two stage' නොවන බැවිනි (සමහර විට සිලින්ඩර දෙකම එකම පීඩනයකදී ක්‍රියා කළ හැක)."
+    },
+    {
+        "category": "CES – Engine, Cadet",
+        "index": 61,
+        "question": "Which symptoms would indicate piston blow-by when operating a 4 stroke trunk piston type engine?",
+        "answers": [
+            "Increased pressure in the crankcase and smoke at the crankcase vent.",
+            "Increased pressure in the air inlet manifold.",
+            "Smoke and sparks from the scavenge manifold drains.",
+            "Increased temperature in the inlet air manifold on the engine."
+        ],
+        "correct_answer": "Increased pressure in the crankcase and smoke at the crankcase vent.",
+        "images": [],
+        "explanation": "හතර පහර (4-stroke) ට්‍රන්ක් පිස්ටන් එන්ජිමක පිස්ටන් රින්ග්ස් හරහා වායූන් කාන්දු වීම (blow-by) සිදු වූ විට, එම අධි පීඩන දහන වායූන් කෙලින්ම ක්‍රෑන්ක්කේස් (crankcase) එක තුලට ගමන් කරයි. මේ හේතුවෙන් ක්‍රෑන්ක්කේස් එක තුළ පීඩනය ඉහළ යන අතර, ලිහිසි තෙල් මීදුම සමඟ මුසු වූ වායූන් ක්‍රෑන්ක්කේස් වෙන්ට් (vent) එක හරහා දුමාරයක් ලෙස පිටතට පැමිණේ. සිසිලන පද්ධතියේ දෝෂ හෝ ඉන්ධන පද්ධතියේ දෝෂ මෙවැනි සෘජු ලක්ෂණ පෙන්නුම් නොකරයි."
+    },
+    {
+        "category": "CES – Engine, Cadet",
+        "index": 62,
+        "question": "The exhaust temperature in a 4 stroke diesel engine is:",
+        "answers": [
+            "Decreasing if we lower the temperature of the fuel oil.",
+            "Falling when a exhaust valve (outlet) is leaking.",
+            "Normally lower than in a 2 stroke engine with equal load.",
+            "Increasing with poorer cooling of the air in the air cooler."
+        ],
+        "correct_answer": "Increasing with poorer cooling of the air in the air cooler.",
+        "images": [],
+        "explanation": "හතර පහර (4 stroke) ඩීසල් එන්ජිමක 'Air Cooler' එක මගින් ලබා දෙන සිසිලනය දුර්වල වූ විට, එන්ජිම තුළට ඇතුළු වන වාතයේ උෂ්ණත්වය ඉහළ යයි. උෂ්ණත්වය වැඩි වන විට වාතයේ ඝනත්වය (Density) අඩු වන නිසා, එකම පරිමාවක් තුළ ඇති ඔක්සිජන් ප්‍රමාණය අඩු වේ. මේ හේතුවෙන් ඉන්ධන දහනය අසම්පූර්ණ වන අතර, එහි ප්‍රතිඵලයක් ලෙස සිලින්ඩරයෙන් පිටවන දුම්වල උෂ්ණත්වය (Exhaust temperature) ඉහළ යයි. වාතය හොඳින් සිසිල් වන විට පිටාර උෂ්ණත්වය සාමාන්‍යයෙන් අඩු වන අතර, මෙහිදී සිදුවන්නේ එහි ප්‍රතිවිරුද්ධ දෙයයි."
+    },
+    {
+        "category": "CES – Engine, Cadet",
+        "index": 63,
+        "question": "During UMS rounds at night during a sea passage the duty engineer discovers the main engine lube oil pump starter “chattering” loudly. What is the correct action to be taken?",
+        "answers": [
+            "Switch over to the other pump and inform the CE of the noise immediately. Keep engine room manned.",
+            "Keep engine room manned so that the starter can be checked regularly to see if it gets worse.",
+            "Switch over to the other pump and leave the starter until the next morning. Continue UMS operation."
+        ],
+        "correct_answer": "Switch over to the other pump and inform the CE of the noise immediately. Keep engine room manned.",
+        "images": [],
+        "explanation": "UMS (Unmanned Machinery Space) තත්වයේ පවතින විට ලිහිසි තෙල් පොම්පයක (Lube oil pump) ස්ටාටර් එකකින් ශබ්දයක් (Chattering) ඇසෙන්නේ නම්, එයින් අදහස් වන්නේ විදුලි ස්පර්ශකවල (Contacts) දෝෂයක් නිසා ඕනෑම මොහොතක පොම්පය නතර විය හැකි බවයි. ලිහිසි තෙල් නොමැති වුවහොත් ප්‍රධාන එන්ජිමට බරපතල හානි සිදුවන බැවින්, වහාම ස්ථාවරව පවතින අනෙක් පොම්පය ක්‍රියාත්මක කළ යුතුය. එසේම මේ පිළිබඳව ප්‍රධාන ඉංජිනේරුවරයා (CE) දැනුවත් කළ යුතු අතර, පද්ධතිය නැවත යථා තත්ත්වයට පත් කරන තෙක් එන්ජින් කාමරය නිරන්තර අධීක්ෂණය යටතේ (Manned) තබා ගත යුතුය. එන්ජිම වසා දැමීම හෝ ශබ්දය නොසලකා හැරීම නොකළ යුතුය."
+    },
+    {
+        "category": "CES – Engine, Cadet",
+        "index": 64,
+        "question": "Read this text and answer the question. “It is recommended that every prospective seafarer should, before being employed in a sea-going ship, receive proper training in personal survival techniques. In respect of such training general recommendations are made”. To whom should training in personal survival techniques be given?",
+        "answers": [
+            "To all ratings.",
+            "To officers only.",
+            "To deck hands mainly.",
+            "To all seafarers."
+        ],
+        "correct_answer": "To all seafarers.",
+        "images": [],
+        "explanation": "මුහුදේදී සිදුවන අනතුරකදී තමන්ගේ ජීවිතය ආරක්ෂා කර ගැනීම සඳහා අවශ්‍ය මූලික තාක්ෂණික දැනුම (Personal Survival Techniques) නෞකාවක සේවය කරන සියලුම සේවකයින්ට (All seafarers) තිබිය යුතුය. STCW ජාත්‍යන්තර සම්මුතියට අනුව, නෞකාවක ඕනෑම රාජකාරියක නියැලෙන අයෙකු මුහුදට යාමට පෙර මෙම පුහුණුව ලබා තිබීම අනිවාර්ය වේ. මන්ද අනතුරක් සිදුවූ විට ජීවිතාරක්ෂක බෝට්ටු භාවිතා කරන ආකාරය සහ ජලයේදී ආරක්ෂා වන ආකාරය සෑම අයෙකුම දැන සිටිය යුතු බැවිනි. එය නාවිකයින්ට හෝ ඉංජිනේරුවන්ට පමණක් සීමා වූවක් නොවේ."
+    },
+    {
+        "category": "CES – Engine, Cadet",
+        "index": 65,
+        "question": "Medium and high speed diesel engines used for electrical generation duties on board ship have overspeed protection devices fitted to protect the engine in case the electrical generator trips while carrying high loads. Why are these devices necessary?",
+        "answers": [
+            "To stop the engine before any serious damage occurs due to excess inertial loads.",
+            "To stop the engine before any serious damage occurs to the electrical components due to excess voltage and frequency.",
+            "To stop the engine before any serious damage occurs due to rapidly changing thermal loads."
+        ],
+        "correct_answer": "To stop the engine before any serious damage occurs due to excess inertial loads.",
+        "images": [],
+        "explanation": "විදුලි ජනක යන්ත්‍රයකට (generator) සම්බන්ධ කර ඇති විදුලි බර (load) එකවරම ඉවත් වූ විට, එන්ජිම ඉතා වේගයෙන් කැරකෙන්නට පටන් ගනී. මෙම අධික වේගය නිසා පිස්ටන් සහ කනෙක්ටින් රොඩ් (connecting rods) වැනි කොටස් මත ඇතිවන අවස්ථිති බලයන් (inertial loads) දරාගත නොහැකි මට්ටමට වැඩි වේ. මෙය එන්ජිම බිඳ වැටීමට හෝ කොටස් විසිරී ගොස් විශාල අනතුරක් වීමට හේතු විය හැක. Overspeed protection උපාංග මගින් මෙවැනි අවස්ථාවක එන්ජිම වහාම නතර කර යාන්ත්‍රික හානි වළක්වයි. මෙය හුදෙක් වේගය පාලනය කිරීමක් නොව එන්ජිමේ ආරක්ෂාව තහවුරු කිරීමකි."
+    },
+    {
+        "category": "CES – Engine, Cadet",
+        "index": 66,
+        "question": "Which of the following pumps will be damaged if the discharge valve is closed before the motor is stopped?",
+        "answers": [
+            "Gear pump.",
+            "Centrifugal pump.",
+            "Propeller pump.",
+            "Turbine pump."
+        ],
+        "correct_answer": "Gear pump.",
+        "images": [],
+        "explanation": "ගියර් පොම්පයක් (Gear pump) යනු 'Positive Displacement' වර්ගයේ පොම්පයකි. මෙම පොම්ප ක්‍රියාත්මක වන විට පිටවන වෑල්වය (Discharge valve) වසා තිබුනහොත්, පොම්පය මගින් තල්ලු කරන දියරය පිටවීමට මගක් නොමැති වීම නිසා පීඩනය ඉතා වේගයෙන් ඉහළ යයි. මෙය පොම්පයේ කවරය (Casing) පිපිරීමට, ගියර් රෝද කැඩී යාමට හෝ මෝටරය පිලිස්සී යාමට හේතු වේ. නමුත් සෙන්ට්‍රිෆියුගල් (Centrifugal) පොම්ප වලදී දියරය පොම්පය තුළම කරකැවෙන බැවින් මෙවැනි ක්ෂණික විනාශයක් සිදු නොවේ. එබැවින් ගියර් පොම්පයක් ක්‍රියාත්මක කිරීමට පෙර වෑල්ව විවෘතව ඇත්දැයි පරීක්ෂා කිරීම අනිවාර්ය වේ."
+    },
+    {
+        "category": "CES – Engine, Cadet",
+        "index": 67,
+        "question": "A piston ring set for a trunk piston engine often includes a slotted ring tensioned by an internal spring. What is the purpose of this type of piston ring?",
+        "answers": [
+            "It is a ring to seal the crankcase from the combustion chamber.",
+            "It is the firing ring.",
+            "It is an oil control ring.",
+            "It is the lowest compression ring."
+        ],
+        "correct_answer": "It is an oil control ring.",
+        "images": [],
+        "explanation": "ට්‍රන්ක් පිස්ටන් එන්ජිමක (trunk piston engine) ඇති ඇතුළතින් ස්ප්‍රිං එකක් සහිත සිදුරු සහිත රින්ග් එක 'Oil control ring' හෙවත් තෙල් පාලනය කරන රින්ග් එක ලෙස හැඳින්වේ. මෙහි ප්‍රධාන කාර්යය වන්නේ සිලින්ඩර් බිත්තියේ ඇති අතිරික්ත ලිහිසි තෙල් පිසදා (scrape) නැවත ක්‍රෑන්ක්කේස් එක වෙත යැවීමයි. එමගින් දහන කුටීරය තුළට තෙල් ඇතුළු වී අනවශ්‍ය ලෙස තෙල් වැය වීම වළක්වයි. සාමාන්‍ය compression rings මගින් සිදු කරන්නේ වායු පීඩනය කාන්දු වීම වැළැක්වීම මිස තෙල් පාලනය කිරීම නොවේ."
+    },
+    {
+        "category": "CES – Engine, Cadet",
+        "index": 68,
+        "question": "What may be the cause of black smoke from the funnel?",
+        "answers": [
+            "The fuel oil has not been adequately heated.",
+            "Incomplete combustion owing to wrong mixture of air and oil.",
+            "The fuel oil is of inferior quality.",
+            "An electrically operated turning machine is used during repairs while the engine is running."
+        ],
+        "correct_answer": "Incomplete combustion owing to wrong mixture of air and oil.",
+        "images": [],
+        "explanation": "නැවක දුම් කවුළුවෙන් (funnel) කළු දුම පිටවීම සඳහා ප්‍රධානතම හේතුව වන්නේ එන්ජිම තුළ සිදුවන අසම්පූර්ණ දහනයයි (Incomplete combustion). වාතය සහ ඉන්ධන මිශ්‍රණය නියමිත අනුපාතයට නොමැති වූ විට, එනම් වාතය ප්‍රමාණවත් නොවීම හෝ ඉන්ධන වැඩිපුර සැපයීම නිසා ඉන්ධන සම්පූර්ණයෙන්ම නොදැවී කාබන් අංශු ලෙස පිටවේ. අනෙකුත් විකල්ප වන සුදු දුම (ජලය මිශ්‍ර වීම) හෝ නිල් දුම (ලුබ්‍රිකන්ට් ඔයිල් දැවීම) මෙයට හේතු නොවේ."
+    },
+    {
+        "category": "CES – Engine, Cadet",
+        "index": 69,
+        "question": "The main engine turbocharger speed has increased during the night while operating in UMS mode. From the options given, what is the most likely cause of this?",
+        "answers": [
+            "The engine load has increased due to external factors such as current and wind.",
+            "The governor signal has been overridden by the bridge.",
+            "The engine load has reduced due to external factors such as current and wind.",
+            "The engine is operating on a different grade of fuel."
+        ],
+        "correct_answer": "The engine load has increased due to external factors such as current and wind.",
+        "images": [],
+        "explanation": "එන්ජින් කාමරයේ සේවකයින් නොමැති අවස්ථාවක (UMS mode) ටර්බෝචාජර් වේගය වැඩි වීමට ප්‍රධානතම හේතුව බාහිර සාධක නිසා එන්ජිම මත ඇති වන බර (load) වැඩි වීමයි. නිදසුනක් ලෙස, නැවට විරුද්ධව දැඩි සුළඟක් හෝ මුහුදු රළ ඇති වූ විට, නියමිත වේගය පවත්වා ගැනීමට Governor එක මගින් වැඩිපුර ඉන්ධන ලබා දෙයි. එවිට පිටවන වායුවේ (exhaust gas) ශක්තිය වැඩි වී ටර්බෝචාජරයේ වේගය වැඩි වේ. එන්ජිමේ කාන්දුවක් හෝ වායු පීඩන වෙනස් වීමකට වඩා බාහිර බර වැඩි වීම මෙයට සෘජුවම බලපායි."
+    },
+    {
+        "category": "CES – Engine, Cadet",
+        "index": 70,
+        "question": "How is the effective delivery stroke of a helix type fuel pump for a diesel engine controlled to increase or decrease the quantity of fuel delivered?",
+        "answers": [
+            "Rotation of the plunger by the fuel rack from the governor signal.",
+            "The fuel booster pump delivery pressure.",
+            "The fuel rail pressure relief valve setting.",
+            "The fuel injector setting."
+        ],
+        "correct_answer": "Rotation of the plunger by the fuel rack from the governor signal.",
+        "images": [],
+        "explanation": "ඩීසල් එන්ජිමක helix type ඉන්ධන පොම්පයකින් පිටවන ඉන්ධන ප්‍රමාණය පාලනය කරන්නේ එහි ඇති plunger එක කැරකැවීම මගිනි. Governor එකෙන් ලැබෙන සංඥාවකට අනුව fuel rack එක මගින් plunger එක කරකවන විට, එහි ඇති helix කැපුම මගින් spill port එක වැසී පවතින කාලය (effective stroke) වෙනස් වේ. මෙය ඉන්ධන ප්‍රමාණය වැඩි කිරීමට හෝ අඩු කිරීමට උපකාරී වේ. Plunger එකෙහි ඉහළ පහළ චලනය ස්ථාවර වන අතර, පාලනය සිදුවන්නේ භ්‍රමණය (rotation) මගිනි."
+    },
+    {
+        "category": "CES – Engine, Cadet",
+        "index": 71,
+        "question": "How is the condenser cooling water flow regulating valve automatically controlled in a vapour compression refrigeration system?",
+        "answers": [
+            "By the quantity of refrigerant in the system.",
+            "By the temperature of the refrigerant after the evaporator.",
+            "By the temperature in the refrigerated room.",
+            "By the compressor discharge pressure."
+        ],
+        "correct_answer": "By the compressor discharge pressure.",
+        "images": [],
+        "explanation": "වාෂ්ප සම්පීඩන ශීතකරණ පද්ධතියක (Vapour compression refrigeration system) කොන්ඩෙන්සර් සිසිලන ජල ප්‍රවාහ පාලන කපාටය ස්වයංක්‍රීයව පාලනය වන්නේ කම්ප්‍රෙෂර් එකේ විසර්ජන පීඩනය (Compressor discharge pressure) මගිනි. පද්ධතියේ පීඩනය වැඩි වන විට සිසිලන අවශ්‍යතාවය වැඩි වන නිසා මෙමගින් වැඩි ජල ප්‍රවාහයක් ලබා දෙයි. උෂ්ණත්වය හෝ දියර මට්ටම මත පමණක් පදනම්ව මෙය පාලනය කිරීම ප්‍රමාණවත් නොවන බැවින් අනෙකුත් පිළිතුරු වැරදි වේ."
+    },
+    {
+        "category": "CES – Engine, Cadet",
+        "index": 72,
+        "question": "What refrigerant temperature would you expect at the freon compressor discharge of a cascade system?",
+        "answers": [
+            "+20 °C.",
+            "+140 °C.",
+            "+85 °C.",
+            "+5 °C."
+        ],
+        "correct_answer": "+85 °C.",
+        "images": [],
+        "explanation": "Cascade ශීතකරණ පද්ධතියක (Cascade system) Freon compressor එකක discharge උෂ්ණත්වය සාමාන්‍යයෙන් සෙල්සියස් අංශක +85 ක් පමණ වේ. සම්පීඩනය කිරීමේ ක්‍රියාවලියේදී වායුවේ පීඩනය ඉහළ යන විට තාප ගති විද්‍යාවේ නියමයන්ට අනුව උෂ්ණත්වයද ඉහළ යයි. මෙය පද්ධතියේ කාර්යක්ෂමතාව පවත්වා ගැනීමට අවශ්‍ය සාමාන්‍ය තත්ත්වයකි. මීට වඩා අඩු උෂ්ණත්වයක් suction පැත්තේ හෝ ඊට වඩා වැඩි උෂ්ණත්වයක් අධික ලෙස රත් වූ අවස්ථාවලදී දැකිය හැක."
+    },
+    {
+        "category": "CES – Engine, Cadet",
+        "index": 73,
+        "question": "What refrigerant temperature would you expect to find at the compressor suction of an air conditioning system?",
+        "answers": [
+            "+5 °C.",
+            "+30 °C.",
+            "-10 °C.",
+            "-5 °C."
+        ],
+        "correct_answer": "+5 °C.",
+        "images": [],
+        "explanation": "වායුසමීකරණ පද්ධතියක compressor suction එකෙහි උෂ්ණත්වය සෙල්සියස් අංශක +5 ක් පමණ විය යුතුය. මෙම උෂ්ණත්වය evaporator එකෙහි අයිස් බැඳීම වැළැක්වීමට තරම් ඉහළ මට්ටමක පවතින අතරම, කාමරයේ වාතයෙන් තාපය උරා ගැනීමට තරම් ප්‍රමාණවත් තරම් සිසිල් වේ. 0 °C ට අඩු වුවහොත් evaporator එකෙහි අයිස් බැඳී වාතය ගලායාම අවහිර වන අතර, වැඩි උෂ්ණත්වයක් පැවතුනහොත් සිසිලනය නිසි ලෙස සිදු නොවේ."
+    },
+    {
+        "category": "CES – Engine, Cadet",
+        "index": 74,
+        "question": "If a refrigeration system contains air, how would you remove it from the system?",
+        "answers": [
+            "Pump the system down to the condenser, continue cooling water flow until the condenser is at the same temperature as the cooling water and vent off the air from the top of the condenser.",
+            "Stop the compressor and vent the air from the crankcase.",
+            "Pump the system down to the evaporator and keep the fan running until the evaporator is at ambient temperature and vent off the air from the top of the evaporator."
+        ],
+        "correct_answer": "Pump the system down to the condenser, continue cooling water flow until the condenser is at the same temperature as the cooling water and vent off the air from the top of the condenser.",
+        "images": [],
+        "explanation": "ශීතකරණ පද්ධතියක වාතය (air) වැනි ඝනීභවනය නොවන වායූන් පවතින විට, ඒවා ඉවත් කිරීමට පද්ධතියේ ඇති සියලුම රෙෆ්‍රිජරන්ට් කොන්ඩෙන්සර් එකට පම්ප් කර (pump down) රැස් කළ යුතුය. ඉන්පසු සිසිලන ජලය දිගටම යවා කොන්ඩෙන්සර් එක සිසිල් කළ විට, රෙෆ්‍රිජරන්ට් ද්‍රව බවට පත් වී පතුලේ රැස් වන අතර, වාතය ඝනීභවනය නොවන බැවින් කොන්ඩෙන්සර් එකේ ඉහළම කොටසේ රැස් වේ. එවිට එහි ඇති 'vent valve' එක මගින් වාතය පමණක් පිටතට යැවිය හැකිය. සෘජුවම වාතය පිට කිරීමට උත්සාහ කළහොත් වටිනා රෙෆ්‍රිජරන්ට් වායුව විශාල වශයෙන් අපතේ යා හැක."
+    },
+    {
+        "category": "CES – Engine, Cadet",
+        "index": 75,
+        "question": "You are in charge of a night bunkering operation. The delivery rate from the supplier is high and you are filling six tanks simultaneously. You lose track of the progress of the operation and feel that you are losing control of the situation. What action should you take?",
+        "answers": [
+            "Stop bunkering, and establish facts, before bunkering is resumed.",
+            "Open more tanks to slow down the filling rate of individual tanks.",
+            "Prepare yourself and the crew for an overflow.",
+            "Request a reduction in the delivery rate to try and gain some time."
+        ],
+        "correct_answer": "Stop bunkering, and establish facts, before bunkering is resumed.",
+        "images": [],
+        "explanation": "රාත්‍රී කාලයේදී බන්කර් කිරීමේදී (Bunkering) තත්ත්වය පාලනයෙන් ගිලිහෙන බව දැනුනහොත් ගත යුතු ආරක්ෂිතම පියවර වන්නේ වහාම බන්කර් කිරීම නතර කිරීමයි. ඉන්පසු සියලු කරුණු පරීක්ෂා කර, පද්ධතිය නැවත පාලනයට නතු කර ගැනීමෙන් පසුව පමණක් වැඩ ආරම්භ කළ යුතුය. දිගටම කරගෙන යාමෙන් තෙල් පිටාර ගැලීම (Oil spill) වැනි බරපතල පාරිසරික හානි සිදුවිය හැක. සන්නිවේදනය හෝ වේගය අඩු කිරීම පමණක් මෙහිදී ප්‍රමාණවත් නොවේ."
+    },
+    {
+        "category": "CES – Engine, Cadet",
+        "index": 76,
+        "question": "Why are crankcase heaters fitted to some refrigeration system compressors?",
+        "answers": [
+            "To prevent refrigerant condensing in the crankcase when the compressor is stopped.",
+            "To control viscosity of the lubricating oil.",
+            "To prevent ice from forming on the compressor casing.",
+            "To boil off any water from condensation in the crankcase."
+        ],
+        "correct_answer": "To prevent refrigerant condensing in the crankcase when the compressor is stopped.",
+        "images": [],
+        "explanation": "ශීතකරණ පද්ධතියක් නවතා ඇති විට, පද්ධතියේ ඇති ශීතකාරක වායුව (Refrigerant) ලිහිසි තෙල් සමඟ මිශ්‍ර වී ක්‍රෑන්ක්කේස් එක තුළ ඝනීභවනය වීමට ඉඩ ඇත. මෙය එන්ජිම නැවත පණගැන්වීමේදී තෙල් පෙණ ගැසීමට (Oil foaming) සහ ලුබ්‍රිකේෂන් පද්ධතිය අඩාල වීමට හේතු වේ. Crankcase heaters මගින් තෙල් රත් කර තැබීමෙන් මෙම ඝනීභවනය වළක්වයි. අනෙක් විකල්ප වැරදි වන්නේ හීටරයේ ප්‍රධාන කාර්යය වන්නේ තෙල්වල උෂ්ණත්වය පවත්වා ගැනීම නොව ශීතකාරක වායුව වෙන් කර තැබීම වන බැවිනි."
+    },
+    {
+        "category": "CES – Engine, Cadet",
+        "index": 77,
+        "question": "In a purifier assuming the separating temperature is correct, what is the probable cause of the processed oil containing water?",
+        "answers": [
+            "The back pressure at the clean oil outlet is too high.",
+            "The gravity disc is too large.",
+            "The throughput is too low.",
+            "The gravity disc is too small and/or the flow rate is too high."
+        ],
+        "correct_answer": "The gravity disc is too small and/or the flow rate is too high.",
+        "images": [],
+        "explanation": "පියුරිෆයර් (purifier) එකකින් පිරිසිදු කරන ලද තෙල්වල ජලය අඩංගු වීමට ප්‍රධාන හේතුව වන්නේ එහි ඇති 'Gravity disc' එක අවශ්‍ය ප්‍රමාණයට වඩා කුඩා වීම හෝ තෙල් ගලා යන වේගය (flow rate) වැඩි වීමයි. ග්‍රැවිටි ඩිස්ක් එක මගින් තෙල් සහ ජලය අතර අතුරු මුහුණත (interface) නිසි ලෙස පවත්වා ගනී. එය කුඩා වැඩි වූ විට තෙල් සමග ජලය පිටතට යා හැකිය. එසේම ගලා යන වේගය වැඩි වූ විට තෙල්වලට ජලයෙන් වෙන් වීමට ප්‍රමාණවත් කාලයක් නොලැබේ. උෂ්ණත්වය නිවැරදි නම්, ගැටලුව ඇත්තේ යාන්ත්‍රික සැකසුමේ (disc size) හෝ වේගයේය."
+    },
+    {
+        "category": "CES – Engine, Cadet",
+        "index": 78,
+        "question": "What is the main precaution to be taken prior to engaging the turning gear for a diesel engine?",
+        "answers": [
+            "Isolate the starting air supply.",
+            "Open the indicator cocks.",
+            "Transfer main engine control from control room to emergency control console.",
+            "Open the crankcase doors."
+        ],
+        "correct_answer": "Isolate the starting air supply.",
+        "images": [],
+        "explanation": "ඩීසල් එන්ජිමක turning gear එක සම්බන්ධ කිරීමට පෙර අනිවාර්යයෙන්ම කළ යුතු ප්‍රධානතම පියවර වන්නේ starting air සැපයුම විසන්ධි (Isolate) කිරීමයි. එසේ නොකළහොත්, අත්වැරදීමකින් එන්ජිමට වාතය ඇතුළු වී එන්ජිම කරකැවුනහොත්, turning gear එකට සහ එන්ජිමට දැඩි යාන්ත්‍රික හානි සිදුවිය හැකි අතර සේවකයින්ටද අනතුරු සිදුවිය හැක. Indicator cocks විවෘත කිරීම හෝ ලුබ්‍රිකන්ට් පරීක්ෂාව වැදගත් වුවද, වායු සැපයුම විසන්ධි කිරීම ආරක්ෂාව සම්බන්ධයෙන් ප්‍රමුඛ වේ."
+    },
+    {
+        "category": "CES – Engine, Cadet",
+        "index": 79,
+        "question": "A compressed air supply system has two automatically controlled air compressors. When demand is high both compressors are needed to meet the delivery requirements. What is the best method for controlling the supply from these compressors to meet a varying, but intermittent demand?",
+        "answers": [
+            "Sequential start initiated by pressure switches set at different switching pressures.",
+            "One compressor running continuously with the other on standby.",
+            "Start and stop of the compressors controlled by timer switches.",
+            "Continuous running of both compressors and the use of unloading devices."
+        ],
+        "correct_answer": "Sequential start initiated by pressure switches set at different switching pressures.",
+        "images": [],
+        "explanation": "සම්පීඩිත වායු පද්ධතියක සම්පීඩක (Compressors) දෙකක් පාලනය කිරීමට වඩාත් සුදුසු ක්‍රමය වන්නේ sequential starting ක්‍රමයයි. මෙහිදී pressure switches එකිනෙකට වෙනස් පීඩන මට්ටම් වලට සකසා ඇති බැවින්, වායු ඉල්ලුම වැඩි වී පීඩනය තවදුරටත් අඩු වුවහොත් පමණක් දෙවන සම්පීඩකය ස්වයංක්‍රීයව ක්‍රියාත්මක වේ. මෙය විදුලිය පිරිමැසීමට සහ යන්ත්‍ර අනවශ්‍ය ලෙස ක්‍රියාත්මක වීම වැළැක්වීමට උපකාරී වේ. සම්පීඩක දෙකම එකවර ක්‍රියාත්මක කිරීම හෝ අතින් ක්‍රියාත්මක කිරීම කාර්යක්ෂම නොවේ."
+    },
+    {
+        "category": "CES – Engine, Cadet",
+        "index": 80,
+        "question": "We have a problem with surging in the turbocharger. Which of the following could be the cause?",
+        "answers": [
+            "Dirty scavenging air cooler on the air side.",
+            "The lubrication oil pump is malfunctioning.",
+            "Worn out bearings on the turbocharger.",
+            "Dirty rotor blades."
+        ],
+        "correct_answer": "Dirty scavenging air cooler on the air side.",
+        "images": [],
+        "explanation": "Turbocharger එකක surging (වාතය ආපසු තල්ලු වීම) ඇතිවීමට ප්‍රධාන හේතුවක් වන්නේ scavenging air cooler එකෙහි වාතය ගමන් කරන පැත්ත (air side) අපිරිසිදු වීමයි. මෙහිදී වාතය ගලායාමට බාධා ඇති වන අතර, එමගින් turbocharger එකෙහි compressor එක මගින් ලබා දෙන පීඩනයට වඩා වැඩි ප්‍රතිරෝධයක් ඇති වී surging තත්ත්වයක් නිර්මාණය වේ. ඉන්ධන පද්ධතියේ දෝෂ හෝ exhaust gas පැත්තේ දෝෂ ද බලපෑ හැකි වුවත්, air side අවහිර වීම ප්‍රධාන හේතුවකි."
+    },
+    {
+        "category": "CES – Engine, Cadet",
+        "index": 81,
+        "question": "What action is required if boiler water tests confirm a pH value of less than 9?",
+        "answers": [
+            "Increase the dosage of alkalinity treatment chemicals until the pH value is back within normal range.",
+            "Reduce the dosage of alkalinity treatment chemicals until the pH is back within normal range.",
+            "Blowdown the boiler and refill with good feedwater.",
+            "No action is required."
+        ],
+        "correct_answer": "Increase the dosage of alkalinity treatment chemicals until the pH value is back within normal range.",
+        "images": [],
+        "explanation": "බොයිලේරු ජලයේ (Boiler water) pH අගය 9 ට වඩා අඩු නම්, එයින් අදහස් වන්නේ ජලය ආම්ලික (acidic) තත්ත්වයට පත්වෙමින් පවතින බවයි. මෙහිදී ගත යුතු ක්‍රියාමාර්ගය වන්නේ alkalinity treatment රසායනික ද්‍රව්‍ය මාත්‍රාව වැඩි කර pH අගය නැවතත් 9.5 - 11 ත් අතර සුදුසු මට්ටමට ගෙන ඒමයි. pH අගය අඩු වුවහොත් බොයිලේරුවේ ලෝහ කොටස් ඉක්මනින් මලකෑමට (corrosion) ලක් වේ. ජලය පිටතට දැමීම (blowdown) පමණක් මෙයට විසඳුමක් නොවේ."
+    },
+    {
+        "category": "CES – Engine, Cadet",
+        "index": 82,
+        "question": "Complete the following statement from the options given. “Following maintenance work to a single element, feed water regulator for a steam boiler it is necessary to…”:",
+        "answers": [
+            "Apply lagging to the steam connection only.",
+            "Apply lagging to the water connection only.",
+            "Apply lagging only to the parts that can be touched by personnel.",
+            "Apply lagging to the whole device."
+        ],
+        "correct_answer": "Apply lagging to the steam connection only.",
+        "images": [],
+        "explanation": "Single element feed water regulator එකක් නඩත්තු කිරීමෙන් පසු එහි steam connection එකට පමණක් lagging (තාප පරිවාරක) යෙදිය යුතුය. මෙය කරන්නේ regulator එකෙහි ඇති thermostat එක මගින් ජල මට්ටම නිවැරදිව හඳුනා ගැනීමට අවශ්‍ය උෂ්ණත්ව වෙනස (differential expansion) පවත්වා ගැනීමටයි. Steam සහ water legs අතර උෂ්ණත්ව වෙනස නිවැරදිව නොතිබුණහොත් බොයිලේරුවේ ජල මට්ටම පාලනය කිරීම වැරදි සහගත විය හැක."
+    },
+    {
+        "category": "CES – Engine, Cadet",
+        "index": 83,
+        "question": "A simple level control for a water tank consists of a horizontal lever with a float at one end and a filling valve at the other. The lever is provided with an adjustable pivot positioned between the valve and the float. How will the “offset” in the system be affected under changing demand conditions if the pivot is moved closer to the filling valve?",
+        "answers": [
+            "It will reduce the offset on low demand but increase it during high demand.",
+            "It will increase the offset on high demand but reduce it on low demand.",
+            "It will reduce the offset throughout the demand range.",
+            "It will increase the offset across the demand range."
+        ],
+        "correct_answer": "It will increase the offset across the demand range.",
+        "images": [],
+        "explanation": "මෙහිදී float එක සහ filling valve එක අතර lever පද්ධතියක් පවතී. Pivot එක (භ්‍රමණ අක්ෂය) filling valve එක දෙසට සමීප කළ විට, valve එක ක්‍රියා කරවීමට අවශ්‍ය lever arm එකේ දිග අඩු වන අතර float එකේ පැත්තේ දිග වැඩි වේ. මෙයින් පද්ධතියේ 'Gain' එක අඩු වේ. Proportional control පද්ධතියක gain එක අඩු වූ විට, demand එකේ වෙනස් වීම් අනුව පාලනය කළ යුතු මට්ටම සහ සැබෑ මට්ටම අතර ඇති වෙනස (Offset) වැඩි වේ. එබැවින් නිවැරදි පිළිතුර වන්නේ demand range එක පුරා offset එක වැඩි වීමයි. අනෙක් පිළිතුරු වැරදි වන්නේ pivot එක valve එකට කිට්ටු කිරීමෙන් පාලන සංවේදීතාවය අඩුවන නිසා මිස වැඩි නොවන බැවිනි."
+    },
+    {
+        "category": "CES – Engine, Cadet",
+        "index": 84,
+        "question": "Why are hypochlorite based treatments used on some sea water cooling systems?",
+        "answers": [
+            "To prevent biological growth in the system.",
+            "To reduce sediment build up in the system.",
+            "To prevent corrosion of the system.",
+            "To increase the heat transfer capacity of the system."
+        ],
+        "correct_answer": "To prevent biological growth in the system.",
+        "images": [],
+        "explanation": "මුහුදු ජලය සිසිලන පද්ධති (Sea water cooling systems) වල Hypochlorite පාදක කරගත් ප්‍රතිකාර භාවිතා කරන්නේ පද්ධතිය තුළ ඇල්ගී, බෙල්ලන් සහ අනෙකුත් ක්ෂුද්‍ර ජීවීන් වර්ධනය වීම (biological growth) වැළැක්වීම සඳහායි. මුහුදු ජලය ගලා යන නල පද්ධතිය තුල මෙම ජීවීන් වර්ධනය වුවහොත් නල අවහිර වී සිසිලන ක්‍රියාවලිය අඩාල වේ. විඛාදනය (corrosion) වැළැක්වීම සඳහා වෙනත් ක්‍රම භාවිතා කරන අතර, Hypochlorite ප්‍රධාන වශයෙන්ම ජෛව වර්ධනය පාලනය කිරීමට යොදා ගනී."
+    },
+    {
+        "category": "CES – Engine, Cadet",
+        "index": 85,
+        "question": "What is the main reason for sometimes having a separate forced lubrication system for the camshaft on large cross head engines?",
+        "answers": [
+            "To prevent any fuel leakage from the high pressure fuel pumps contaminating the oil in the main lubrication system.",
+            "Because the camshaft system uses a different grade oil from that used in the main lubrication system.",
+            "Because the camshaft lubrication system has a lower pressure than the main lubrication system."
+        ],
+        "correct_answer": "To prevent any fuel leakage from the high pressure fuel pumps contaminating the oil in the main lubrication system.",
+        "images": [],
+        "explanation": "විශාල crosshead එන්ජින් වල camshaft එක සඳහා වෙනම ලිහිසි තෙල් පද්ධතියක් (forced lubrication system) භාවිතා කිරීමට ප්‍රධාන හේතුව වන්නේ ඉන්ධන කාන්දුවීම් වලින් ප්‍රධාන පද්ධතිය ආරක්ෂා කිරීමයි. Camshaft එක අසල ඇති අධි පීඩන ඉන්ධන පොම්ප (High pressure fuel pumps) වලින් ඉන්ධන කාන්දු වුවහොත්, එම ඉන්ධන main lubrication system එකේ ඇති තෙල් සමඟ මිශ්‍ර වී තෙල් වල ගුණාත්මකභාවය අඩු විය හැක. වෙනම පද්ධතියක් තිබීමෙන් මෙම දූෂණය (contamination) වළක්වා ගත හැකිය. අනෙක් හේතූන් වන උෂ්ණත්ව පාලනය හෝ පීඩනය පවත්වා ගැනීම වැදගත් වුවත්, ප්‍රධානතම තාක්ෂණික හේතුව මෙයයි."
+    },
+    {
+        "category": "CES – Engine, Cadet",
+        "index": 86,
+        "question": "Which one of the statements given in the options is correct in relation to the maintenance and adjustment of 4-stroke medium speed diesel engines?",
+        "answers": [
+            "Both the top and bottom shells of a bottom end bearing should be inspected as they can wear due to load reversal during the engine operating cycle.",
+            "The piston ring groove clearances for the oil control ring are unimportant as this ring does not form part of the gas seal.",
+            "Liner wear of up to 3 % of the bore size is generally acceptable for continued service.",
+            "Timing of inlet and exhaust valves can be correctly set by varying the tappet clearance."
+        ],
+        "correct_answer": "Both the top and bottom shells of a bottom end bearing should be inspected as they can wear due to load reversal during the engine operating cycle.",
+        "images": [],
+        "explanation": "4-stroke medium speed එන්ජින් වල bottom end bearing එකක ඉහළ (top) සහ පහළ (bottom) කෑලි (shells) දෙකම පරීක්ෂා කිරීම අත්‍යවශ්‍ය වේ. මෙයට හේතුව 4-stroke ක්‍රියාවලියේදී piston එක උඩට සහ පහළට යන විට ඇතිවන නිෂ්ක්‍රිය බලයන් (inertia forces) සහ දහන බලයන් (combustion forces) නිසා load reversal එකක් සිදු වීමයි. එනම් බෙයාරින් එකේ දෙපැත්තටම පීඩනය ඇති වේ. 2-stroke වලදී බොහෝ විට පීඩනය පහළට පමණක් යෙදුනද මෙහි තත්වය වෙනස්ය. එම නිසා shells දෙකම ගෙවීමට ලක් විය හැක. අනෙක් ප්‍රකාශයන් වැරදි වන්නේ ඒවා මෙම load reversal සංසිද්ධිය නිවැරදිව පැහැදිලි නොකරන බැවිනි."
+    },
+    {
+        "category": "CES – Engine, Cadet",
+        "index": 87,
+        "question": "A large electric motor is being removed from a main seawater pump with the aid of the engine room crane. Which is the best method of starting the lift from the options given?",
+        "answers": [
+            "Use a suitable chain block suspended from the crane hook to “break” the motor free after slackening all of the retaining bolts.",
+            "Use the “inch up” facility on the crane to “brake” the motor free after slackening all of the retaining bolts.",
+            "Use the full hoist facility on the crane to “break” the motor free after slackening all of the retaining bolts.",
+            "Use the full hoist facility to lift the motor clear in one action after removing all of the retaining bolts."
+        ],
+        "correct_answer": "Use a suitable chain block suspended from the crane hook to “break” the motor free after slackening all of the retaining bolts.",
+        "images": [],
+        "explanation": "බරැති ඉලෙක්ට්‍රික් මෝටරයක් ඉවත් කිරීමේදී, ක්‍රේන් එක මගින් කෙලින්ම එසවීමට උත්සාහ කිරීමේදී මෝටරය එකවරම ගැස්සීමකින් යුතුව ඇදී යාමට ඉඩ ඇත (jerking). මෝටරය සහ එහි අසුන (bed) අතර ඇති ඇලෙන සුලු ස්වභාවය හෝ මලකඩ නිසා එය තද වී තිබිය හැක. එබැවින් ක්‍රේන් හුක් එකෙහි චේන් බ්ලොක් (chain block) එකක් සවිකර, ඒ මගින් ඉතා මෘදු ලෙස සහ පාලනයක් සහිතව මෝටරය මුදා ගැනීම (break free) වඩාත් ආරක්ෂිත ක්‍රමයයි. මෝටරයේ පාදම (feet) වලට ලීවර මගින් හානි කිරීම හෝ ක්‍රේන් එකෙන් පමණක් එසවීම අනතුරුදායක විය හැක."
+    },
+    {
+        "category": "CES – Engine, Cadet",
+        "index": 88,
+        "question": "The auxiliary boiler for the supply of low pressure heating steam has an automatic combustion control which operates on a two step control principle. The boiler fails to attempt to start up during a period of normal operation even though the steam pressure has fallen below the set point. What is the most likely cause of this fault?",
+        "answers": [
+            "The pressure switch for low steam pressure is faulty and fails to close.",
+            "The electrical supply for the control system is isolated.",
+            "The pressure switch for the combustion air supply is faulty and remains open.",
+            "The photocell for detecting flame on is dirty."
+        ],
+        "correct_answer": "The pressure switch for low steam pressure is faulty and fails to close.",
+        "images": [],
+        "explanation": "Auxiliary boiler එකක් සෙට්පොයින්ට් එකට වඩා පීඩනය අඩු වූ විටත් ස්වයංක්‍රීයව ක්‍රියාත්මක නොවන්නේ නම්, එයට වැඩිම ඉඩකඩක් ඇති හේතුව පීඩන ස්විචයේ (pressure switch) දෝෂයකි. පද්ධතියට සංඥාව ලබා දෙන්නේ මෙම ස්විචය මගිනි. පීඩනය අඩු වූ විට මෙම ස්විචය 'close' වී පරිපථය සම්පූර්ණ කළ යුතුය. එය faulty නම් හෝ close නොවන්නේ නම්, පාලක පද්ධතිය boiler එක පණගැන්වීමට උත්සාහ නොකරයි. ඉන්ධන නොමැති වීම හෝ වෙනත් යාන්ත්‍රික දෝෂ වලදී සාමාන්‍යයෙන් boiler එක start වීමට උත්සාහ කර පසුව 'fail to ignite' වැනි alarm එකක් ලබා දෙයි."
+    },
+    {
+        "category": "CES – Engine, Cadet",
+        "index": 89,
+        "question": "At what pH-value should the engine cooling water be maintained?",
+        "answers": [
+            "Between 7 and 9.",
+            "Between 5 and 7.",
+            "Above 10.",
+            "Below 5."
+        ],
+        "correct_answer": "Between 7 and 9.",
+        "images": [],
+        "explanation": "එන්ජින් cooling water වල pH අගය 7 සහ 9 අතර (මද භාෂ්මික/slightly alkaline) පවත්වා ගත යුතුය. pH අගය 7 ට වඩා අඩු වුවහොත් ජලය ආම්ලික (acidic) වන අතර එය ලෝහ කොටස් ඉක්මනින් මලකඩ කෑමට (corrosion) හේතු වේ. pH අගය 7-9 මට්ටමේ පවත්වා ගැනීමෙන් ලෝහ මතුපිට ආරක්ෂිත ස්ථරයක් පවත්වා ගැනීමට සහ corrosion පාලනය කිරීමට උදවු වේ. ඉතා ඉහළ pH අගයක් (උදාහරණ ලෙස 11 ට වැඩි) තිබීමද ඇලුමිනියම් වැනි ලෝහ වලට හානිකර විය හැක. එබැවින් 7-9 යනු ප්‍රශස්ත පරාසයයි."
+    },
+    {
+        "category": "CES – Engine, Cadet",
+        "index": 90,
+        "question": "Why is it necessary to use the vacuum pump after major overhaul of the reefer system?",
+        "answers": [
+            "To evacuate air and water out of the system in order to prevent problem during operation.",
+            "In order to reduce the pressure in the system before start-up.",
+            "Not necessary.",
+            "To make underpressure in the reefer system in order to get the freon liquid easy back to the system."
+        ],
+        "correct_answer": "To evacuate air and water out of the system in order to prevent problem during operation.",
+        "images": [],
+        "explanation": "Reefer system එකක් overhaul කිරීමෙන් පසු vacuum pump එකක් භාවිතා කර vacuum කිරීම අත්‍යවශ්‍ය වේ. මෙහි ප්‍රධාන අරමුණ වන්නේ පද්ධතිය තුළ ඉතිරි වී ඇති වාතය සහ තෙතමනය (moisture) සම්පූර්ණයෙන්ම ඉවත් කිරීමයි. තෙතමනය පද්ධතියේ තිබුණහොත් එය expansion valve එකේදී මිදී ice සෑදී system එක block විය හැක. එමෙන්ම වාතය තිබීමෙන් discharge pressure එක අනවශ්‍ය ලෙස වැඩි වේ. පද්ධතියට ගෑස් පිරවීමට පෙර මෙය සිදු කළ යුතුය. අනෙක් පිළිතුරු වලින් කියවෙන පරිදි මෙය lube oil පිරවීමට හෝ leak සෙවීමට මූලිකවම කරන දෙයක් නොවේ (leak test එක nitrogen මගින් සිදු කරයි)."
+    },
+    {
+        "category": "CES – Engine, Cadet",
+        "index": 91,
+        "question": "After water-washing the turbocharger exhaust side, the blower starts to vibrate. What has happened?",
+        "answers": [
+            "The rotor blades are damaged or the blades are not properly cleaned.",
+            "Water drain for washing system is clogged.",
+            "Inlet filter partly clogged.",
+            "Foundation bolts for the blower unit are loose."
+        ],
+        "correct_answer": "The rotor blades are damaged or the blades are not properly cleaned.",
+        "images": [],
+        "explanation": "Turbocharger එකේ exhaust පැත්ත ජලයෙන් පිරිසිදු කිරීමෙන් (water washing) පසු එය vibration වීමට පටන් ගත්තේ නම්, එයින් අදහස් වන්නේ rotor blades වල සමබරතාවය (balance) ගිලිහී ඇති බවයි. මෙය කොටස් දෙකකින් විය හැක: එකක් නම් blades මත තිබූ කාබන් තැන්පතු අසමාන ලෙස ඉවත් වීමයි, අනෙක ජලයේ වේගය නිසා හෝ සුන්බුන් වැදීමෙන් blades වලට හානි වීමයි. අධික වේගයෙන් කැරකෙන turbocharger එකක කුඩා අසමබරතාවයක් පවා දැඩි vibration එකකට හේතු වේ. අනෙක් විකල්ප වන bearings ගෙවීම වැනි දේවල් සාමාන්‍යයෙන් මේ හා සෘජුව සම්බන්ධ නොවේ."
+    }
+]

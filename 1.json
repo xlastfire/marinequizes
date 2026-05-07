@@ -1,0 +1,2132 @@
+[
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 1,
+        "question": "“Protective discrimination” means the progressive grading of sizes or tripping times of:",
+        "answers": [
+            "Line fuses and overcurrent relays.",
+            "Magnetic and thermal current transformers.",
+            "Generators and motors.",
+            "440 V and 220 V transformers."
+        ],
+        "correct_answer": "Line fuses and overcurrent relays.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2024/03/scheme1.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 2,
+        "question": "The figures show a graphical symbol for a particular electronic component and a typical working characteristic for the same component. Which component?",
+        "answers": [
+            "Silicon controlled rectifier (SCR).",
+            "Tunnel diode.",
+            "Zener diode.",
+            "Field effect transistor."
+        ],
+        "correct_answer": "Silicon controlled rectifier (SCR).",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2024/03/scr.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 3,
+        "question": "Ordinary thyristors (SCR) must often be protected against reverse overvoltage transients. This is because they can be damaged by over-voltage, even if it is of extremely short duration. These SCRs have been given such over-voltage protection, but only one of them is correct. Which one is it?",
+        "answers": [
+            "Figure 1.",
+            "Figure 2.",
+            "Figure 3.",
+            "Figure 4."
+        ],
+        "correct_answer": "Figure 1.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2024/03/scheme2.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 4,
+        "question": "Diodes are widely used in rectification, or the conversion of alternating current to direct current. The sinusoidal input voltage V(in) is applied to the circuit shown. Which of the output voltages is correct?",
+        "answers": [
+            "Figure 1.",
+            "Figure 2.",
+            "Figure 3.",
+            "Figure 4."
+        ],
+        "correct_answer": "Figure 1.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2024/03/scheme3.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 5,
+        "question": "What could the wheelman be asked to do, to help in the preparations to leave the berth and go to sea?",
+        "answers": [
+            "Test the steering by putting the wheel hard over both ways.",
+            "Help the after team let go the ropes.",
+            "Standby in the mess room until called to the bridge.",
+            "Help the forward team let go the ropes."
+        ],
+        "correct_answer": "Test the steering by putting the wheel hard over both ways.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 6,
+        "question": "Where is the “FORECASTLE” in the figure?",
+        "answers": [
+            "The Forecastle is indicated by B.",
+            "The Forecastle is indicated by C.",
+            "The Forecastle is indicated by A.",
+            "The Forecastle is indicated by D."
+        ],
+        "correct_answer": "The Forecastle is indicated by B.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2023/06/forecastle-1.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 7,
+        "question": "This circuit shows a transformer with two windings, N (1) = 2 000 and N (2) = 1 000 turns, on a common magnetic circuit. Assume that there are no energy losses in the transformer itself. Calculate the output voltage V (2) when the input voltage is V (1) = 100 Volt.",
+        "answers": [
+            "V (2) = 50 V.",
+            "V (2) = 400 V.",
+            "V (2) = 10 V.",
+            "V (2) = 200 V."
+        ],
+        "correct_answer": "V (2) = 50 V.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2024/03/scheme6.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 8,
+        "question": "Which cell voltage is required to trickle charge a lead acid battery?",
+        "answers": [
+            "2,15 V.",
+            "2,0 V.",
+            "2,5 V.",
+            "1,2 V."
+        ],
+        "correct_answer": "2,15 V.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 9,
+        "question": "During an anchoring operation, what does the bridge team mean when they ask “How is the chain leading”?",
+        "answers": [
+            "The bridge would like to know the direction of the anchor cable from the hawse pipe.",
+            "The Master is asking the Chief Officer whether the ship needs to be moved forward and take the weight off the anchor cable.",
+            "The Master is asking the Chief Officer whether the vessel is dragging anchor.",
+            "I don’t know."
+        ],
+        "correct_answer": "The bridge would like to know the direction of the anchor cable from the hawse pipe.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 10,
+        "question": "What do you call the wide rung on a pilot ladder that prevents the ladder from twisting?",
+        "answers": [
+            "The wide rung on a pilot ladder that prevents it from twisting is called a “Spreader”.",
+            "The wide rung on a pilot ladder that prevents it from twisting is called a “Wide step”",
+            "The wide rung on a pilot ladder that prevents it from twisting is called a “Long rung”",
+            "The wide rung on a pilot ladder that prevents it from twisting is called a “Ani-twist rung”"
+        ],
+        "correct_answer": "The wide rung on a pilot ladder that prevents it from twisting is called a “Spreader”.",
+        "images": [],
+        "explanation": "පයිලට් ඉනිමගක ඇති පළල් හරස් ලී (Wide rung) කොටස 'Spreader' ලෙස හැඳින්වේ. මෙහි ප්‍රධාන කර්තව්‍යය වන්නේ ඉනිමග ඇඹරීම (Twisting) වැළැක්වීමයි. මෙය පයිලට්වරයා නැවට නගින විට ඉනිමග ස්ථාවරව තබා ගැනීමට උදවු වේ. සාමාන්‍ය පඩි (Steps) හෝ සයිඩ් රෝප්ස් (Side ropes) මගින් මෙම ඇඹරීම පාලනය කළ නොහැකි නිසා 'Spreader' එක ඉතා වැදගත් වේ."
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 11,
+        "question": "On the diagram, what is the area at the forward end of the vessel shown by the letter “A”? It is normally raised by one deck above the main deck.",
+        "answers": [
+            "Fo’csle or Forecastle.",
+            "Poop.",
+            "Crows nest.",
+            "Forward bridge."
+        ],
+        "correct_answer": "Fo’csle or Forecastle.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2023/06/forecastle.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 12,
+        "question": "Where is the “PORT QUARTER”, in the figure?",
+        "answers": [
+            "The Port quarter is D in the figure.",
+            "The Port quarter is A in the figure.",
+            "The Port quarter is B in the figure.",
+            "The Port quarter is A in the figure."
+        ],
+        "correct_answer": "The Port quarter is D in the figure.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2023/06/port_q.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 13,
+        "question": "Which is the “CAPSTAN” in the figure?",
+        "answers": [
+            "The Capstan is indicated by A in the figure.",
+            "The Capstan is indicated by B in the figure.",
+            "The Capstan is indicated by C in the figure.",
+            "The Capstan is indicated by D in the figure."
+        ],
+        "correct_answer": "The Capstan is indicated by A in the figure.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2023/06/capstan.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 14,
+        "question": "The pressure inlet to a pressure gauge is varied from zero to full scale and back to zero again. The output (indicating pressure) versus true pressure is shown in the diagram.The non-coincidence (mismatch) of loading and unloading curve is due to internal friction in the instrument. What do we call this phenomenon?",
+        "answers": [
+            "Hysteresis.",
+            "Threshold.",
+            "Dead band.",
+            "Resolution."
+        ],
+        "correct_answer": "Hysteresis.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2024/03/diagram-1.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 15,
+        "question": "In a PID controller it is possible to change the setting of the Proportional band (P), the Reset time (I) and the Rate time (D). Please indicate which curve shows the typical response to a step change in input, if the setting of the reset time is too small.",
+        "answers": [
+            "Figure 3.",
+            "Figure 1.",
+            "Figure 2.",
+            "Figure 4."
+        ],
+        "correct_answer": "Figure 3.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2024/03/figures.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 16,
+        "question": "What is name of the machine shown, used to heave on the ropes during mooring and unmooring?",
+        "answers": [
+            "Winch.",
+            "Crane.",
+            "Windlass.",
+            "Capstan."
+        ],
+        "correct_answer": "Winch.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2023/06/double-drum-electric-mooring-winch.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 17,
+        "question": "In fresh water tank we are using a pressure transmitter with a range of 0-0,5 bar/4-20 mA for level measurement. The transmitter is installed 30 centimetres from the bottom of the tank, and the tank is 5 meters high. What will the output from the transmitter be when the tank is empty?",
+        "answers": [
+            "4 mA.",
+            "5,2 mA.",
+            "2,8 mA.",
+            "2 mA."
+        ],
+        "correct_answer": "4 mA.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 18,
+        "question": "Can a ZENER BARRIER be installed in a hazardous area?",
+        "answers": [
+            "No, as only the output from the barrier is intrinsically safe this is not allowed.",
+            "Yes, that’s what the zener barrier is made for.",
+            "Only if properly marked for such installation.",
+            "Only in equipment operating on very low voltage."
+        ],
+        "correct_answer": "No, as only the output from the barrier is intrinsically safe this is not allowed.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 19,
+        "question": "The inductance which will induce an EMF of 1 Volt in a conductor when the current is changing at a rate of 1 Amp per second, is defined as:",
+        "answers": [
+            "One Henry.",
+            "One milliHenry.",
+            "One Farad.",
+            "One Reactance Unit."
+        ],
+        "correct_answer": "One Henry.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 20,
+        "question": "Which of the following methods may a diode may be tested by?",
+        "answers": [
+            "Use a Digital Multi-Meter set to check forward voltage and reverse current blocking.",
+            "Connect to low ohms resistance tester.",
+            "Use an insulation resistance tester (Megger).",
+            "Use a Digital Multi-Meter set to measure ohms in forward and reverse directions."
+        ],
+        "correct_answer": "Use a Digital Multi-Meter set to check forward voltage and reverse current blocking.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 21,
+        "question": "When starting three phase induction motors which of the following starting methods will immediately apply rated voltage to the machine?",
+        "answers": [
+            "Direct on Line.",
+            "Auto-transformer.",
+            "Star Delta.",
+            "Soft starter."
+        ],
+        "correct_answer": "Direct on Line.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 22,
+        "question": "The picture shows the component parts of a fluorescent light (items 10 to 14) above a circuit diagram (items 1 to 9). Between which terminals of the circuit should the ballast (or choke) be connected?",
+        "answers": [
+            "1 and 9.",
+            "3 and 4.",
+            "1 and 2.",
+            "5 and 6."
+        ],
+        "correct_answer": "1 and 9.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2024/03/lumi.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 23,
+        "question": "A cable has a resistance of 100 milli-ohms. It supplies a 300 A load over a distance of 100 metres. What is the voltage drop along it’s length?",
+        "answers": [
+            "30 Volts.",
+            "3,0 Volts.",
+            "300 milli-Volts.",
+            "300 Volts."
+        ],
+        "correct_answer": "30 Volts.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 24,
+        "question": "In a closed loop control system the error signal is derived from which of the following?",
+        "answers": [
+            "The demand and the feedback signal.",
+            "The process and the demand.",
+            "The process and the feedback sensor.",
+            "The tolerance of the feedback sensor."
+        ],
+        "correct_answer": "The demand and the feedback signal.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 25,
+        "question": "A thermistor which provides feedback for a thermal control system is suspected to have failed. Assuming there is no available direct/identical replacement for thermistor, which of the following methods may be used to prove it has failed?",
+        "answers": [
+            "Disconnect the thermistor lead from the controller and replace with a mV source.",
+            "Disconnect the thermocouple lead from the controller and replace with a mA source.",
+            "Connect a mA source in parallel with the thermocouple connections.",
+            "Connect a mV source in parallel with the thermocouple connections."
+        ],
+        "correct_answer": "Disconnect the thermistor lead from the controller and replace with a mV source.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 26,
+        "question": "A galley hot plate uses a Nichrome / Magnesium Oxide heating element and is to be tested before being put into service for the first time. An insulation resistance test yields a reading of 0,3 M Ohm. Which action should be taken?",
+        "answers": [
+            "Apply reduced voltage to the element for a few minutes. Then retest and if ok put into service.",
+            "Discard the element.",
+            "Wash the element in a degreasing agent. Then retest and if ok put it into service.",
+            "Put the element into service."
+        ],
+        "correct_answer": "Apply reduced voltage to the element for a few minutes. Then retest and if ok put into service.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 27,
+        "question": "A High Breaking Capacity fuse found in a Main High Voltage Switchboard will typically have fault level rating of?",
+        "answers": [
+            "40 kA.",
+            "40 A.",
+            "400 A.",
+            "4 000 A."
+        ],
+        "correct_answer": "40 kA.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2024/03/scheme7.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 28,
+        "question": "When there is a need to interrupt current flow in a high voltage system it may be very difficult to quench the electrical arc which is generated at the circuit breaker contacts. Which of the following arcing media is commonly found in high voltage marine switchgear?",
+        "answers": [
+            "Vacuum.",
+            "Air.",
+            "Water.",
+            "Oil."
+        ],
+        "correct_answer": "Vacuum.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2024/03/scheme7.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 29,
+        "question": "Three earth lamps indicate (under no test mode) – bright – bright – dark. Which of the following is indicated by this condition?",
+        "answers": [
+            "No faults on the system but a failed lamp.",
+            "Two phases have a partial fault to earth and one is good.",
+            "Two phases are good and one has a hard fault to earth.",
+            "Two phases are good and one has a partial fault to earth."
+        ],
+        "correct_answer": "No faults on the system but a failed lamp.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 30,
+        "question": "Continuity testing of a delta connected three phase induction motor yields the following results; U – V = 3 ohms, V – W = 3 ohms, W – U = 6 ohms. Which of the following is the likely condition?",
+        "answers": [
+            "Open circuit winding between W and U.",
+            "Short circuit winding between W and U.",
+            "Short circuit between V and Earth.",
+            "Partial fault between W and U."
+        ],
+        "correct_answer": "Open circuit winding between W and U.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 31,
+        "question": "The continuity resistance of a 100 m long × 25 sq. mm cable (rated at 100 A) is to be checked. Which of the following results would you anticipate?",
+        "answers": [
+            "Between 0,1 and 1,0 Ohm.",
+            "Greater than 1 M Ohms.",
+            "Between 0,1 and 1,0 Micro Ohm.",
+            "Between 0,1 and 1,0 M Ohm."
+        ],
+        "correct_answer": "Between 0,1 and 1,0 Ohm.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 32,
+        "question": "A 250 V contactor has been fitted to a 220 V supply. Which of the following symptoms might be observed?",
+        "answers": [
+            "Contactor chattering (vibrating).",
+            "Contactor overheating.",
+            "Contactor wont operate.",
+            "Contactor constantly on."
+        ],
+        "correct_answer": "Contactor chattering (vibrating).",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 33,
+        "question": "Which of the following is the minimum acceptable value of insulation resistance for High Voltage equipment?",
+        "answers": [
+            "100 M Ohms.",
+            "1 G Ohms.",
+            "1 M Ohms.",
+            "100 k Ohms."
+        ],
+        "correct_answer": "100 M Ohms.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 34,
+        "question": "When selecting switchgear to work with High Voltage it is important to use an appropriate arc quenching medium. What is meant by arc quenching medium?",
+        "answers": [
+            "The gas, liquid or vapour which will minimise creation of an electric arc as contacts open.",
+            "A material which assists a welding process.",
+            "Equipment which communicates information about the arcing.",
+            "The way in which the contacts separate as the switchgear operates."
+        ],
+        "correct_answer": "The gas, liquid or vapour which will minimise creation of an electric arc as contacts open.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 35,
+        "question": "High Voltage systems rely on the installed protective equipment being able to interrupt any fault in the system. Throughout the system, the fault level has been calculated, and under no circumstances must the system be modified to exceed this fault level. What is meant by fault level?",
+        "answers": [
+            "The amount of apparent power that could flow into any fault at any point in the electrical network.",
+            "The current level flowing into a symmetrical short circuit fault between all three phases.",
+            "The current level flowing into a dead short to earth at any point on the ship, directly from the High Voltage System."
+        ],
+        "correct_answer": "The amount of apparent power that could flow into any fault at any point in the electrical network.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 36,
+        "question": "What type of Ex equipment is suitable for installation in Zone 0 hazardous area?",
+        "answers": [
+            "Ex i.",
+            "Ex ii.",
+            "Ex a."
+        ],
+        "correct_answer": "Ex i.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 37,
+        "question": "When we are measuring salinity with a salinometer, the type of sensing device is:",
+        "answers": [
+            "Electrodes.",
+            "Inductor capsule.",
+            "Capacitance probe.",
+            "Strain gauge."
+        ],
+        "correct_answer": "Electrodes.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 38,
+        "question": "In an automatic temperature control system, operating with a PID controller which of the following settings or parameter adjustments may result in system oscillation?",
+        "answers": [
+            "Gain too high.",
+            "Gain too low.",
+            "Temperature change.",
+            "Too short D-time."
+        ],
+        "correct_answer": "Gain too high.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 39,
+        "question": "What are the main elements for Process Control?",
+        "answers": [
+            "Process, Sensor, Final control element and Controller.",
+            "Sensor, Modulation, Controller, Process.",
+            "Sensor, Controller, Noise, Final Control Element.",
+            "Resistor, Capacitor, Battery, Load."
+        ],
+        "correct_answer": "Process, Sensor, Final control element and Controller.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 40,
+        "question": "Following shows circuitry of a peak detector. What is the output voltage curve, Vo if Vi is a sinusoidal input curve?",
+        "answers": [
+            "Vo will be the same sinusoidal curve but at a lesser amplitude.",
+            "Vo will peak when Vi is at the maximum, remain constant and fall to zero when Vi becomes negative.",
+            "Vo will spike when Vi is at the maximum/minimum point of the sinusoidal curve; zero everywhere else.",
+            "Vo will peak at a level less than Vi maximum voltage and remain constant throughout."
+        ],
+        "correct_answer": "Vo will be the same sinusoidal curve but at a lesser amplitude.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2023/07/vovi.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 41,
+        "question": "An important quantity which is useful in circuit analysis is known as conductance G (Siemens). Which of the formulas express the conductance for this circuit?",
+        "answers": [
+            "G = 1/R.",
+            "G = R*I.",
+            "G = 2R.",
+            "G = I/R.",
+            "I don’t know."
+        ],
+        "correct_answer": "G = 1/R.",
+        "images": [
+            "https://sea-man.org/icons/ces_siemens.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 42,
+        "question": "A 5 V DC source has an internal impedance of 0,2 ohms. When a load of 2,3 ohms is applied what voltage will be measured at the source terminals?",
+        "answers": [
+            "4,6 V.",
+            "4,8 V.",
+            "5,2 V.",
+            "5,0 V.",
+            "I don’t know."
+        ],
+        "correct_answer": "4,6 V.",
+        "images": [
+            "https://sea-man.org/icons/ces_dc.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 43,
+        "question": "What principle of measurement are viscosity controllers usually based upon?",
+        "answers": [
+            "Measurement of flow.",
+            "Measurement of two different temperatures.",
+            "Measurement of temperature.",
+            "Measurement of differential pressure.",
+            "I don’t know."
+        ],
+        "correct_answer": "Measurement of differential pressure.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 44,
+        "question": "What is the maximum current that a 15 V, 3 Watt Zener diode can handle without damage?",
+        "answers": [
+            "0,2 A.",
+            "0,45 A.",
+            "0,5 A.",
+            "20 A.",
+            "I don’t know."
+        ],
+        "correct_answer": "0,2 A.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 45,
+        "question": "The inductance, which will induce an EMF of 1 Volt in a conductor, when the current is changing at a rate of 1 Amp per second, is defined as:",
+        "answers": [
+            "One Henry.",
+            "One Reactance Unit.",
+            "One milliHenry.",
+            "One Farad.",
+            "I don’t know."
+        ],
+        "correct_answer": "One Henry.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 46,
+        "question": "The typical current gain for a common emitter transistor is:",
+        "answers": [
+            "10-200.",
+            "1-5.",
+            "500-5 000.",
+            "1-100 000.",
+            "I don’t know."
+        ],
+        "correct_answer": "10-200.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 47,
+        "question": "The instrument most widely used for testing of semiconductor diodes is:",
+        "answers": [
+            "Multi-meter.",
+            "Voltmeter.",
+            "Ammeter.",
+            "Oscilloscope.",
+            "I don’t know."
+        ],
+        "correct_answer": "Multi-meter.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 48,
+        "question": "A 6-Volt DC relay is to be used with a 12-Volt power supply. The relay requires a current of 0,1 Amp. What is the series resistance required?",
+        "answers": [
+            "60 Ohm.",
+            "80 Ohm.",
+            "480 Ohm.",
+            "120 Ohm.",
+            "I don’t know."
+        ],
+        "correct_answer": "60 Ohm.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 49,
+        "question": "In the diagram, which letter is pointing to the area of the ship known as the “STERN”?",
+        "answers": [
+            "The Stern area is indicated by C.",
+            "The Stern area is indicated by B.",
+            "The Stern area is indicated by A.",
+            "The Stern area is indicated by D."
+        ],
+        "correct_answer": "The Stern area is indicated by C.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2023/06/stern.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 50,
+        "question": "Some ships generate electrical power at 440 V, but then step up this voltage to supply specific electrical equipment. One common example, may be to feed a large bow thruster. Why is this done?",
+        "answers": [
+            "The overall ship’s electrical load does not justify a High Voltage generating plant. This method allows more power to be delivered to the bow thruster at low running cost.",
+            "Manufacturers can supply High Voltage bow thrusters at less cost, and the power factor is improved.",
+            "A large bow thruster will draw very large currents at low voltage. Being typically remote from the generator, significant voltage drops would occur at low voltage.",
+            "The shipyard could not purchase a High Voltage generating plant at the time of manufacture, so they used what was available at the time.",
+            "I don’t know."
+        ],
+        "correct_answer": "A large bow thruster will draw very large currents at low voltage. Being typically remote from the generator, significant voltage drops would occur at low voltage.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 51,
+        "question": "When work must be done on High Voltage equipment, it is vital that the equipment is earthed (grounded) after isolation procedures have been carried out. Why is this?",
+        "answers": [
+            "To provide a reference point, and so ensure accuracy of any test results.",
+            "To ensure that it is dead, even if there was a flaw in the isolation procedure.",
+            "To ensure that no energy remains in the system, and that it cannot be recharged by external influences.",
+            "To ensure that the equipment does not overheat due to currents circulating through earth (ground).",
+            "I don’t know."
+        ],
+        "correct_answer": "To ensure that no energy remains in the system, and that it cannot be recharged by external influences.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 52,
+        "question": "When selecting switchgear to work with High Voltage it is important to use an appropriate arcing medium. What is meant by arcing medium?",
+        "answers": [
+            "The gas, liquid or vapor, which will minimize creation of an electric arc as contacts open.",
+            "Equipment, which communicates information about the arcing.",
+            "A material, which assists a welding process.",
+            "I don’t know."
+        ],
+        "correct_answer": "The gas, liquid or vapor, which will minimize creation of an electric arc as contacts open.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 53,
+        "question": "Sometimes an early warning of failure in High Voltage switchboards may be an unpleasant smell. If the switchboard uses gas circuit breakers, which of the following may indicate a potential problem?",
+        "answers": [
+            "Rotten eggs.",
+            "Rotten fish.",
+            "Chlorine.",
+            "Gas oil.",
+            "I don’t know."
+        ],
+        "correct_answer": "Rotten eggs.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 54,
+        "question": "Why could dirty and oily areas of the deck be dangerous?",
+        "answers": [
+            "They may cause people to slip over and hurt themselves.",
+            "They show the ship is not efficient.",
+            "They are areas which should be cleaned up.",
+            "They do not look good to the customers."
+        ],
+        "correct_answer": "They may cause people to slip over and hurt themselves.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 55,
+        "question": "What do you understand by “Bitter end”?",
+        "answers": [
+            "Bitter end means: the end link of an anchor cable that is secured within the chain locker.",
+            "Bitter end means: a foul taste at the end of a meal.",
+            "Bitter end means: the toggled end of a lifeboat painter.",
+            "Bitter end means: to the very last moment."
+        ],
+        "correct_answer": "Bitter end means: the end link of an anchor cable that is secured within the chain locker.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 56,
+        "question": "In the diagram, which letter is indicating the position “MIDSHIPS”?",
+        "answers": [
+            "Midships is indicated by B in the figure.",
+            "Midships is indicated by D in the figure.",
+            "Midships is indicated by C in the figure.",
+            "Midships is indicated by A in the figure."
+        ],
+        "correct_answer": "Midships is indicated by B in the figure.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2023/06/midship.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 57,
+        "question": "When keeping a lookout, what would be the correct understanding of the question “What is the aspect of the other ship”?",
+        "answers": [
+            "The question is requesting some indication of what lights or part of the vessel is seen.",
+            "The question is requesting where on the horizon the other ship was sighted.",
+            "The question wants to know what type of ship has been sighted.",
+            "The question is requesting some idea of how far away the other ship is from your own ship."
+        ],
+        "correct_answer": "The question is requesting some indication of what lights or part of the vessel is seen.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 58,
+        "question": "What is understood by the term “take the helm”?",
+        "answers": [
+            "Take over the steering of the ship.",
+            "Take over heaving of a rope.",
+            "Change the place where the lookout is standing.",
+            "Take a message to another officer."
+        ],
+        "correct_answer": "Take over the steering of the ship.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 59,
+        "question": "Would there ever be the need for two lookouts on the Bridge watch?",
+        "answers": [
+            "Yes, possibly whne there is dense fog and heavy traffic.",
+            "Every night there should be two lookouts, one on each bridge wing.",
+            "Never necessary.",
+            "No, one lookout is sufficient even in fog."
+        ],
+        "correct_answer": "Yes, possibly whne there is dense fog and heavy traffic.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 60,
+        "question": "If the order is given to a mooring deck to “make fast”, what would happen?",
+        "answers": [
+            "Make fast means to apply a lashing to a coiled mooring rope.",
+            "Mooring ropes are transferred from a winch drum to the bitts.",
+            "Make fast means to set very quickly.",
+            "Mooring ropes are transferred from a storage drum to a winch to start heaving."
+        ],
+        "correct_answer": "Make fast means to apply a lashing to a coiled mooring rope.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 61,
+        "question": "What is a ship’s “Gangway”?",
+        "answers": [
+            "A Gangway is a portable means of access between the ship and the shore.",
+            "A Gangway is an interval of time between a change of working gangs, on board.",
+            "A Gangway is the means of access into the cargo holds.",
+            "I don’t know."
+        ],
+        "correct_answer": "A Gangway is a portable means of access between the ship and the shore.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 62,
+        "question": "What is meant by the term “bunkers”?",
+        "answers": [
+            "It means the number of available bunk spaces available on the vessel.",
+            "It means fuel oil used in the ship’s engine(s).",
+            "It refers to the storing of lubricating oil.",
+            "It is a measure of the quantity of oil; cargo loaded."
+        ],
+        "correct_answer": "It means the number of available bunk spaces available on the vessel.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 63,
+        "question": "What type of component does this graphical symbol illustrate?",
+        "answers": [
+            "Pressure-reducing regulator.",
+            "Flow controller.",
+            "Pressure relief valve.",
+            "Pressure switch."
+        ],
+        "correct_answer": "Pressure-reducing regulator.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2024/12/scheme3-1.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 64,
+        "question": "The power requirements for the excitation winding/circuit for a 3-phase alternator operating at rated output power are supplied by:",
+        "answers": [
+            "The alternators output itself via the automatic voltage regulator and the prime mover.",
+            "Independent power supply and rectifier unit.",
+            "Independent battery supply with the AVR.",
+            "The main switchboard via a three phase rectifier."
+        ],
+        "correct_answer": "The alternators output itself via the automatic voltage regulator and the prime mover.",
+        "images": [],
+        "explanation": "ත්‍රි-පේස් ඕල්ටර්නේටරයක (3-phase alternator) උත්තේජක පරිපථයට (excitation circuit) අවශ්‍ය බලය සපයනු ලබන්නේ AVR (Automatic Voltage Regulator) හරහා එම ඕල්ටර්නේටරයේම නිමැවුමෙන් (output) සහ ප්‍රයිම් මූවර් (prime mover) මගිනි. ඕල්ටර්නේටරය කැරකෙන විට මුලින් ඇති වන සුළු චුම්බකත්වය (residual magnetism) මගින් විදුලිය නිපදවා, පසුව එම විදුලියම භාවිතා කර චුම්බක ක්ෂේත්‍රය ශක්තිමත් කරයි. මෙය self-excitation ලෙස හඳුන්වන අතර ඒ සඳහා බාහිර බැටරි පද්ධතියක් සාමාන්‍ය ක්‍රියාකාරීත්වයේදී අවශ්‍ය නොවේ."
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 65,
+        "question": "Ship’s generators must be synchronised before they can be connected to the same supply network. Prior to synchronising, the generator voltage and frequency are respectively adjusted by:",
+        "answers": [
+            "AVR and speed governor.",
+            "Voltmeter and frequency meter.",
+            "Speed governor and load power factor controller.",
+            "Synchroscope and speed governor."
+        ],
+        "correct_answer": "AVR and speed governor.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 66,
+        "question": "A motor is protected by a thermal overcurrent relay. After tripping on overload it will not be possible to reset the overcurrent relay immediately because the:",
+        "answers": [
+            "Bimetallic strips need time to cool down.",
+            "Line contactor spring has to be reset.",
+            "Oil dash-pot has to be reset.",
+            "Starter isolator automatically applies an interlock."
+        ],
+        "correct_answer": "Bimetallic strips need time to cool down.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2024/12/cheme4.jpg"
+        ],
+        "explanation": "තාප අධිබාර රිලේ (thermal overcurrent relay) එකක් ක්‍රියාත්මක වූ පසු එය වහාම රීසෙට් (reset) කළ නොහැක්කේ එහි ක්‍රියාකාරිත්වයට යොදාගන්නා ද්වි-ලෝහ පටි (bimetallic strips) අධික රශ්මිය නිසා නැමී ඇති බැවිනි. ඒවා නැවත මුල් පිහිටීමට පැමිණීමට නම් සිසිල් වීමට කාලය අවශ්‍ය වේ. මෙය ආරක්ෂක පියවරක් ද වන අතර එමගින් දෝෂය පවතිද්දීම නැවත නැවතත් මෝටරය පණගැන්වීම වළක්වයි. ස්විචයේ දෝෂ හෝ පරිවාරක දෝෂ තිබිය හැකි වුවත්, රීසෙට් කිරීමට නොහැකි වීමට සෘජු හේතුව මෙම භෞතික සිසිල් වීමේ අවශ්‍යතාවයයි."
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 67,
+        "question": "What does a generic data frame consist of with reference to data transmission?",
+        "answers": [
+            "Flag pattern, address field, control field, text, block check.",
+            "Flag pattern, address field, control field, text, block check, modulation check.",
+            "Flag pattern, address field, text, block check.",
+            "Flag pattern, address field, control field, text, modulation check."
+        ],
+        "correct_answer": "Flag pattern, address field, control field, text, block check.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 68,
+        "question": "Bright dots are scattered at random extending from the centre to the edge of the Radar display. What could be the possible cause?",
+        "answers": [
+            "Interference from another radar of same frequency within the vicinity.",
+            "Indirect echo from a passing ship.",
+            "Dirt on the radar.",
+            "Obstruction e. g. mast located in the path of the radar."
+        ],
+        "correct_answer": "Interference from another radar of same frequency within the vicinity.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 69,
+        "question": "A diode is used to convert AC to DC. What term is it is usually referred to as?",
+        "answers": [
+            "Rectifier.",
+            "Regulator.",
+            "Controller.",
+            "Alternator."
+        ],
+        "correct_answer": "Rectifier.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 70,
+        "question": "A 450 volt 3 phase brushless alternator will have the following combination of items mounted on the rotor:",
+        "answers": [
+            "3 phase excitation winding/rectifier bank/main field winding.",
+            "3 phase excitation winding/main field winding.",
+            "Excitation field winding/main field winding.",
+            "1 phase excitation field winding/rectifier bank/main field winding."
+        ],
+        "correct_answer": "3 phase excitation winding/rectifier bank/main field winding.",
+        "images": [],
+        "explanation": "බුරුසු රහිත (Brushless) ප්‍රත්‍යාවර්තකයක (alternator) රොටරය මත ප්‍රධාන කොටස් තුනක සංයෝජනයක් පවතී: එනම් ත්‍රි-කලා උත්තේජක එතීුම (3 phase excitation winding), සෘජුකාරක පද්ධතිය (rectifier bank) සහ ප්‍රධාන ක්ෂේත්‍ර එතීුම (main field winding) වේ. මෙහි ක්‍රියාවලිය වන්නේ උත්තේජකයේ එතීුම මගින් නිපදවන AC විදුලිය, රොටරය මතම ඇති සෘජුකාරකය (rectifier) මගින් DC බවට පත් කර කෙලින්ම ප්‍රධාන එතීුමට ලබා දීමයි. මෙහිදී කාබන් බුරුසු හෝ ස්ලිප් රින්ග්ස් (slip rings) අවශ්‍ය නොවේ. අනෙකුත් විකල්ප වැරදි වන්නේ ඒවායේ ස්ලිප් රින්ග්ස් හෝ බාහිරින් ලබාදෙන DC සැපයුම් පද්ධති ඇතුළත් වන බැවිනි, එය 'brushless' සංකල්පයට පටහැනි වේ."
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 71,
+        "question": "The correct time to synchronise is usually taken to be when the synchroscope reaches the “5 to 12” position and is rotating slowly clockwise. This to allow for:",
+        "answers": [
+            "Circuit breaker operating time.",
+            "Synchroscope error.",
+            "Generator phase difference error.",
+            "Synchroscope pointer time lag."
+        ],
+        "correct_answer": "Circuit breaker operating time.",
+        "images": [],
+        "explanation": "සින්ක්‍රොස්කෝප් එක '5 to 12' ස්ථානයේදී සහ සෙමින් දක්ෂිණාවර්තව (clockwise) කැරකෙන විට සින්ක්‍රොනයිස් කිරීම සිදු කරන්නේ සර්කිට් බ්‍රේකරය (circuit breaker) ක්‍රියාත්මක වී ස්පර්ශක සම්බන්ධ වීමට ගතවන සුළු කාලය (operating time) සැලකිල්ලට ගනිමිනි. ඔබ හරියටම 12 ට එබුවහොත්, බ්‍රේකරය සම්බන්ධ වන විට අදියර (phase) වෙනස් වී යන්ත්‍රයට යාන්ත්‍රික හානි සිදුවිය හැක. එබැවින් මෙම කාල පරතරය තැබීම අත්‍යවශ්‍ය වේ."
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 72,
+        "question": "Personnel in a high voltage switchroom smell ozone. Which of the following is the likely cause?",
+        "answers": [
+            "Arcing at badly connected bus bars.",
+            "Vacuum circuit breaker problems.",
+            "Transformer overload.",
+            "Air circuit breaker problems."
+        ],
+        "correct_answer": "Arcing at badly connected bus bars.",
+        "images": [],
+        "explanation": "අධි වෝල්ටීයතා (High Voltage) ස්විචර් රූම් එකක ඕසෝන් (Ozone) ගඳක් දැනේ නම්, එය බොහෝ විට සිදුවන්නේ බස් බාර් (bus bars) නිසි ලෙස සම්බන්ධ නොවීම නිසා ඇතිවන විද්‍යුත් චාප (arcing) හෝ කොරෝනා විමෝචනය (corona discharge) හේතුවෙනි. මෙම විද්‍යුත් විසර්ජන මගින් වාතයේ ඇති ඔක්සිජන් අණු ඕසෝන් බවට පත් කරයි. කේබල් පිළිස්සීමෙන් ඇතිවන්නේ රබර් හෝ ප්ලාස්ටික් පිළිස්සෙන ගඳක් බැවින් ඕසෝන් ගඳ සඳහා හේතුව ආර්කින් (arcing) තත්ත්වයයි."
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 73,
+        "question": "The physical size of a resistor is an indicator of a particular specification. What is it?",
+        "answers": [
+            "Power dissipation capability.",
+            "Resistivity.",
+            "Tolerance.",
+            "Total resistance."
+        ],
+        "correct_answer": "Power dissipation capability.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 74,
+        "question": "What is the main difference between a THERMOSTAT and a TEMPERATURE TRANSMITTER, if any?",
+        "answers": [
+            "The thermostat has one or more contacts (open or closed) depending on the temperature/setting. The temperature transmitter converts a temperature signal to an electric signal.",
+            "There is no difference.",
+            "The thermostat gives out an analogue signal depending on the switch setting. The temperature transmitter gives out a binary signal depending on the temperature.",
+            "The temperature transmitter is a digital component while the thermostat is an analogue component."
+        ],
+        "correct_answer": "The thermostat has one or more contacts (open or closed) depending on the temperature/setting. The temperature transmitter converts a temperature signal to an electric signal.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2024/12/scheme4-1.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 75,
+        "question": "Which of the following systems will include a D/P transmitter in the control-loop?",
+        "answers": [
+            "Pressure.",
+            "Smoke indication.",
+            "Temperature.",
+            "Oil mist."
+        ],
+        "correct_answer": "Pressure.",
+        "images": [],
+        "explanation": "පාලන පද්ධති (Control-loops) වල D/P ට්‍රාන්ස්මීටරයක් (Differential Pressure Transmitter) යොදා ගනු ලබන්නේ ලක්ෂ්‍ය දෙකක් අතර පීඩන වෙනස මැනීමටය. පීඩනය (Pressure) මැනීමේ පද්ධති වලදී මෙය ඉතා වැදගත් වේ. උදාහරණයක් ලෙස, දියර මට්ටම් මැනීම (Level measurement) හෝ නලයක් තුළ දියරයක් ගලා යන වේගය (Flow measurement) මැනීමටද මෙම පීඩන වෙනස භාවිතා කරයි. මූලිකවම මෙය පීඩන වෙනසක් සංවේදනය කර එය විද්‍යුත් හෝ වායුමය සංඥාවක් බවට පත් කරයි. උෂ්ණත්වය හෝ ආර්ද්‍රතාවය මැනීම සඳහා වෙනත් ආකාරයේ සංවේදක භාවිතා කරන බැවින් එම පද්ධති සඳහා D/P ට්‍රාන්ස්මීටරයක් යොදා නොගනී."
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 76,
+        "question": "This circuit consists of two resistances, R1 = 6 ohm and R2 = 12 ohms, connected in series. Calculate the equivalent resistance R(S).",
+        "answers": [
+            "R(S) = 18 ohm.",
+            "R(S) = 4 ohm.",
+            "R(S) = 1,5 ohm.",
+            "R(S) = 72 ohm."
+        ],
+        "correct_answer": "R(S) = 18 ohm.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2024/12/scheme5-1.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 77,
+        "question": "What is the resistance value of this resistor?",
+        "answers": [
+            "1 M ohm.",
+            "2,3 k ohm.",
+            "230 k ohm.",
+            "68 k ohm."
+        ],
+        "correct_answer": "1 M ohm.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2024/12/resistor.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 78,
+        "question": "Generators work on the principle of electromagnetic induction. The internal e. m. f. generated in the phase windings of an a. c. generator is controlled by:",
+        "answers": [
+            "The diesel speed and excitation current.",
+            "The internal volt drop and the residual magnetism.",
+            "The diesel speed, magnetising force and load current.",
+            "The internal volt drop and the load current."
+        ],
+        "correct_answer": "The diesel speed and excitation current.",
+        "images": [],
+        "explanation": "Generator එකකින් නිපදවන විද්‍යුත් ගාමක බලය (e.m.f.) ප්‍රධාන වශයෙන් සාධක දෙකක් මත රඳා පවතී: එනම් ඩීසල් එන්ජිමේ වේගය (speed) සහ චුම්භක ක්ෂේත්‍රය ශක්තිමත් කිරීමට ලබා දෙන උත්තේජක ධාරාව (excitation current) වේ. Faraday ගේ නියමයට අනුව, චුම්භක ක්ෂේත්‍රය හරහා සන්නායකයක් ගමන් කරන වේගය වැඩි වන විට හෝ චුම්භක ක්ෂේත්‍රයේ ශක්තිය වැඩි වන විට නිපදවන වෝල්ටීයතාව වැඩි වේ. අනෙකුත් සාධක වන air gap හෝ fuel pump settings මගින් EMF එක සෘජුව පාලනය නොකරයි."
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 79,
+        "question": "Regular (at least weekly) testing of the emergency generator must be performed to check:",
+        "answers": [
+            "Its readiness to perform as specified.",
+            "Its environmental noise factor during emergency fire-drills.",
+            "Its compliance with the shipbuilder’s recommendations.",
+            "Its voltage/current and prime mover characteristics."
+        ],
+        "correct_answer": "Its readiness to perform as specified.",
+        "images": [],
+        "explanation": "හදිසි ජෙනරේටරය (Emergency Generator) අවම වශයෙන් සතිපතා පරීක්ෂා කරන්නේ එය හදිසි අවස්ථාවකදී නියමිත පරිදි ක්‍රියාත්මක වීමට ඇති සූදානම (Readiness) පරීක්ෂා කිරීමටයි. SOLAS රෙගුලාසි අනුව, ප්‍රධාන විදුලි බලය විසන්ධි වී තත්පර 45ක් ඇතුළත මෙය පණගැන්වී බර (Load) ලබා ගැනීමට සමත් විය යුතුය. හුදෙක් ඉන්ධන මට්ටම හෝ බැටරි ආරෝපණය පරීක්ෂා කිරීමෙන් පමණක් ජෙනරේටරය ක්‍රියාකාරී තත්ත්වයේ පවතින බව සහතික කළ නොහැකි බැවින්, මෙම පරීක්ෂණය අත්‍යවශ්‍ය වේ."
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 80,
+        "question": "The function of the fuses in a motor starter circuit is to provide:",
+        "answers": [
+            "Short circuit protection.",
+            "Under voltage protection.",
+            "Overload protection.",
+            "Over voltage protection."
+        ],
+        "correct_answer": "Short circuit protection.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2024/12/scheme6.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 81,
+        "question": "Electrical equipment has to operate over a certain voltage level in order to be defined as High Voltage. What are these voltage levels?",
+        "answers": [
+            "1 000 Volts AC or 1 500 Volts DC.",
+            "33 000 Volts AC or DC.",
+            "440 000 Volts AC or DC.",
+            "1 000 Volts AC or 750 Volts DC."
+        ],
+        "correct_answer": "1 000 Volts AC or 1 500 Volts DC.",
+        "images": [],
+        "explanation": "ජාත්‍යන්තර ප්‍රමිතීන්ට (IEC standards) අනුව, විදුලි උපකරණයක් 'අධි වෝල්ටීයතා' (High Voltage) ගණයට වැටීමට නම් එය ප්‍රත්‍යාවර්ත ධාරාවකදී (AC) වෝල්ට් 1,000 කට වඩා හෝ සෘජු ධාරාවකදී (DC) වෝල්ට් 1,500 කට වඩා ක්‍රියා කළ යුතුය. මෙයට වඩා අඩු වෝල්ටීයතා මට්ටම් අඩු වෝල්ටීයතා (Low Voltage) ලෙස හැඳින්වේ. නෞකාවක ආරක්ෂක ක්‍රමවේදයන් සහ පුහුණුව තීරණය කිරීමේදී මෙම අගයන් ඉතා වැදගත් වේ."
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 82,
+        "question": "When calibrating an instrument what is the most common first step in the procedure?",
+        "answers": [
+            "Adjustment of Zero-point.",
+            "Adjustment of linearity.",
+            "Adjustment of range.",
+            "Adjustment of span."
+        ],
+        "correct_answer": "Adjustment of Zero-point.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 83,
+        "question": "Consider generator 1 and 2 to be initially working in parallel. If prime-mover 2 suffers a total fuel loss what is the likely outcome?",
+        "answers": [
+            "No. 2 generator trips on reverse power.",
+            "No. 1 machine overloads and trips out on overspeed.",
+            "No. 1 machine overspeeds and trips out on overload.",
+            "Generator set 2 trips on reverse speed."
+        ],
+        "correct_answer": "No. 2 generator trips on reverse power.",
+        "images": [],
+        "explanation": "ජෙනරේටර් දෙකක් සමාන්තරව (Parallel) ක්‍රියා කරන විට, දෙවන ජෙනරේටරයේ ප්‍රයිම්-මූවර් (Prime-mover) එකට ඉන්ධන සැපයුම නැති වුවහොත්, පළමු ජෙනරේටරයෙන් දෙවන ජෙනරේටරය කරකැවීමට උත්සාහ කරයි (Motorizing effect). එවිට දෙවන ජෙනරේටරය හරහා විදුලිය ආපසු ගලා යන බැවින් 'Reverse Power Relay' මගින් දෙවන ජෙනරේටරය විසන්ධි (Trip) කරනු ලබයි. මෙය පද්ධතියේ ආරක්ෂාව සඳහා සිදු වේ."
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 84,
+        "question": "What is the difference between a PRESSURE SWITCH and a PRESSURE TRANSMITTER, if any?",
+        "answers": [
+            "The pressure switch has contact(s) that will change between open and closed position. The pressure transmitter converts a pressure signal into an electric signal.",
+            "The pressure switch gives out an analogue signal depending on the switch setting. The pressure transmitter gives out a binary signal depending on the pressure.",
+            "The pressure switch gives out a digital signal dependent on pressure and temperature. The pressure transmitter converts a pressure signal to a digital signal.",
+            "There is no difference."
+        ],
+        "correct_answer": "The pressure switch has contact(s) that will change between open and closed position. The pressure transmitter converts a pressure signal into an electric signal.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2024/12/scheme4-1.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 85,
+        "question": "Which of the following is not a colour transmission standard for TV?",
+        "answers": [
+            "ANSI.",
+            "SECAM.",
+            "PAL.",
+            "NTSC."
+        ],
+        "correct_answer": "ANSI.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 86,
+        "question": "With reference to OSI or Open Systems Interconnection model, what are the software layers?",
+        "answers": [
+            "Session, Presentation, Application.",
+            "Session, Application, Network.",
+            "Session, Transport, Presentation.",
+            "Session, Transport, Network."
+        ],
+        "correct_answer": "Session, Presentation, Application.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 87,
+        "question": "When paralleling two alternators they must have:",
+        "answers": [
+            "Same voltage, phase sequence, phase angle and frequency.",
+            "Same frequency, voltage and power factor.",
+            "Same phase rotation and voltage rating.",
+            "Same number of phases, phase rotation and power rating."
+        ],
+        "correct_answer": "Same voltage, phase sequence, phase angle and frequency.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 88,
+        "question": "Which component does this graphical symbol illustrate?",
+        "answers": [
+            "Pressure indicator, installed on panel/console.",
+            "Pressure relief valve, self-contained.",
+            "Pressure instument, installed locally.",
+            "PH analyzer."
+        ],
+        "correct_answer": "Pressure indicator, installed on panel/console.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2024/12/pi142.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 89,
+        "question": "A digital transmission line is suffering from attenuation and is badly distorted. What is the corrective measure to be taken?",
+        "answers": [
+            "Install repeaters.",
+            "Replace the transmission line with a new one.",
+            "Replace the controller with a new one.",
+            "Install a new coder."
+        ],
+        "correct_answer": "Install repeaters.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 90,
+        "question": "A ship has an electrical system rated at 690 Volts. Which voltage level is this?",
+        "answers": [
+            "Low voltage.",
+            "Intermediate voltage.",
+            "Medium voltage.",
+            "High voltage."
+        ],
+        "correct_answer": "Low voltage.",
+        "images": [],
+        "explanation": "නෞකාවල විදුලි පද්ධති වර්ගීකරණය කිරීමේදී, ජාත්‍යන්තර ප්‍රමිතීන්ට අනුව (IEC/SOLAS) වෝල්ට් 1000 (1000V AC) ට අඩු සියලුම වෝල්ටීයතාවන් 'අඩු වෝල්ටීයතා' (Low Voltage) ගණයට වැටේ. එබැවින් වෝල්ට් 690 ක පද්ධතියක් යනු අඩු වෝල්ටීයතා මට්ටමකි. වෝල්ට් 1000 ට වැඩි පද්ධති සාමාන්‍යයෙන් High Voltage (HV) ලෙස හැඳින්වේ. මෙම වර්ගීකරණය ආරක්ෂක පියවරයන් සහ උපකරණ භාවිතය තීරණය කිරීමට වැදගත් වේ."
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 91,
+        "question": "In terms of electrical units, what does the abbreviation Hz stand for?",
+        "answers": [
+            "Frequency in Cycles per second.",
+            "Measure for Resistance.",
+            "Frequency in Direct Current (DC).",
+            "Revolution per minute."
+        ],
+        "correct_answer": "Frequency in Cycles per second.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 92,
+        "question": "A 450 volt, 859 kW rated generator has not been in operation for several weeks. Prior to starting, insulation resistance readings are taken. The minimum acceptable insulation resistance reading on the main stator winding to allow you to proceed with running the generator is:",
+        "answers": [
+            "1 000 000 ohms.",
+            "1 000 ohms.",
+            "10 000 ohms.",
+            "10 ohms."
+        ],
+        "correct_answer": "1 000 000 ohms.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 93,
+        "question": "Which of the following voltage levels would be regarded as high voltage on board a ship?",
+        "answers": [
+            "6,6 kV.",
+            "440 V.",
+            "690 V.",
+            "220 V."
+        ],
+        "correct_answer": "6,6 kV.",
+        "images": [],
+        "explanation": "නෞකාවල විද්‍යුත් පද්ධති (Electrical systems) ගැන කතා කිරීමේදී, සාමාන්‍යයෙන් වෝල්ටීයතාවය 1000V AC (1kV) ට වඩා වැඩි මට්ටම් 'අධි වෝල්ටීයතා' (High Voltage) ලෙස හැඳින්වේ. මෙම ප්‍රශ්නයේ දී ලබා දී ඇති 6.6 kV යනු නෞකාවල ජනක යන්ත්‍ර සහ ප්‍රධාන පද්ධති සඳහා බහුලව භාවිතා වන ප්‍රමිතියකි. 440V වැනි වෝල්ටීයතා 'අඩු වෝල්ටීයතා' (Low Voltage) ගණයට වැටෙන අතර, 6.6 kV යනු ආරක්ෂිත පියවරයන් සහ උපකරණ සැලසුම් කිරීමේදී විශේෂිත වූ HV නීතිරීති අනුගමනය කළ යුතු මට්ටමකි."
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 94,
+        "question": "What determines the power factor of an alternator when it is connected singularly to the switchboard?",
+        "answers": [
+            "The load connected to the switchboard.",
+            "The excitation voltage.",
+            "Number of pairs of pole coils in the excitation winding.",
+            "The generated voltage and AVR setting."
+        ],
+        "correct_answer": "The load connected to the switchboard.",
+        "images": [],
+        "explanation": "තනි Alternator එකක් switchboard එකකට සම්බන්ධ කර ඇති විට, එහි power factor එක තීරණය වන්නේ එම පද්ධතියට සම්බන්ධ කර ඇති පාරිභෝගික බර (load) මගිනි. එනම් මෝටර් වැනි inductive load වැඩි නම් power factor එක අඩු වේ. Alternator එකේ excitation මගින් වෙනස් කළ හැක්කේ වෝල්ටීයතාවය (Voltage) මිස power factor එක නොවේ. බර අනුව ඇති වන ධාරාව සහ වෝල්ටීයතාවය අතර පරතරය මත power factor එක ස්වයංක්‍රීයව තීරණය වේ."
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 95,
+        "question": "A thermistor may be used to measure temperature. Which of the following description most accurately describes this device?",
+        "answers": [
+            "Temperature sensitive semi-conductor.",
+            "Junction of two dissimilar metals.",
+            "Platinium wire resostor.",
+            "Capacitance probe."
+        ],
+        "correct_answer": "Temperature sensitive semi-conductor.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 96,
+        "question": "This circuit consists of two resistances, R(1) = 12 ohm and R(2) = 6 ohm, connected in parallel. Calculate the equivalent value R(S) of the two resistances.",
+        "answers": [
+            "R(S) = 4 ohm.",
+            "R(S) = 2 ohm.",
+            "R(S) = 18 ohm.",
+            "R(S) = 1,5 ohm."
+        ],
+        "correct_answer": "R(S) = 4 ohm.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2024/12/scheme-1-1.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 97,
+        "question": "Use Kirchoff’s voltage law and Ohm’s law to calculate the voltage V2 across the resistance R2.",
+        "answers": [
+            "4,5 V.",
+            "0,75 V.",
+            "6 V.",
+            "2 V."
+        ],
+        "correct_answer": "4,5 V.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2024/12/scheme-2.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 98,
+        "question": "Which of the following options may be used as a brief summary of how to safely make high voltage equipment accessible?",
+        "answers": [
+            "Disconnect, isolate, earth (ground).",
+            "Shed load, Earth (ground), disconnect, isolate.",
+            "Disconnect, earth (ground), isolate.",
+            "Shed load, isolate, Earth (ground)."
+        ],
+        "correct_answer": "Disconnect, isolate, earth (ground).",
+        "images": [],
+        "explanation": "අධි වෝල්ටීයතා (High Voltage) පද්ධතිවල නඩත්තු කටයුතු සඳහා උපකරණ වෙත ප්‍රවේශ වීමට පෙර අනුගමනය කළ යුතු ආරක්ෂිතම පියවර වන්නේ විසන්ධි කිරීම (Disconnect), හුදකලා කිරීම (Isolate) සහ භූගත කිරීම (Earth) යි. මෙහිදී බල සැපයුම විසන්ධි කර, භෞතිකව පරිපථය වෙන් කර (Isolate), පසුව පද්ධතියේ රැඳී තිබිය හැකි ස්ථිතික විද්‍යුත් ආරෝපණ ඉවත් කිරීමට භූගත කිරීම (Grounding) අත්‍යවශ්‍ය වේ. හුදෙක් ස්විචය ක්‍රියා විරහිත කිරීමෙන් පමණක් (Switching off) අධි වෝල්ටීයතා උපකරණ ආරක්ෂිත නොවන අතර, භූගත නොකිරීම මාරාන්තික විදුලි සැර වැදීමට හේතු විය හැක."
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 99,
+        "question": "In terms of instrumentation and measurement, what is an I/P Transducer?",
+        "answers": [
+            "A transducer that converts a known electric current to a pressure proportional to the current.",
+            "A transducer that is inverting a pressure signal.",
+            "A transducer that converts a pressure to a proportional electric signal.",
+            "A transducer that increases a pressure signal which is too low to give the desired effect."
+        ],
+        "correct_answer": "A transducer that converts a known electric current to a pressure proportional to the current.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 100,
+        "question": "Which electronic component does this graphical symbol represent?",
+        "answers": [
+            "Transistor.",
+            "Diode.",
+            "Tunnel diode.",
+            "Silicon controlled rectifier."
+        ],
+        "correct_answer": "Transistor.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2024/12/scheme-3.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 101,
+        "question": "After main power is restored (following a blackout), a timed sequential restart of motor-driven auxiliaries is necessary to avoid:",
+        "answers": [
+            "Generator overload due to many motors starting at simultaneously.",
+            "Overloading creating earth faults.",
+            "Over-frequency due to overspeed of generator.",
+            "Overvoltage due to current surges."
+        ],
+        "correct_answer": "Generator overload due to many motors starting at simultaneously.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 102,
+        "question": "This circuit consists of a current source I, a change-over switch S, a resistor R and a capacitor C. The current/time figures 1 to 4 show possible changes in the current I when the switch S is suddenly shifted from position 1 to 2 at time t = 0. Which diagram is correct?",
+        "answers": [
+            "Figure A.",
+            "Figure B.",
+            "Figure C.",
+            "Figure D."
+        ],
+        "correct_answer": "Figure A.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2024/03/scheme1-1.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 103,
+        "question": "This circuit consists of a voltage source V, a change-over switch S, a resistor R and a capacitor C. The voltage/time figures 1 to 4 show changes in the voltage V(C) when the switch S is suddenly shifted from position 1 to 2 at time t = 0. Only one of the diagrams is correct. Which?",
+        "answers": [
+            "Figure 2.",
+            "Figure 3.",
+            "Figure 4.",
+            "Figure 1."
+        ],
+        "correct_answer": "Figure 3.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2024/03/scheme2-1.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 104,
+        "question": "Two alternators are operating in parallel at 75 % load capacity, but one of them trips without any warning. What is the first action that should be taken?",
+        "answers": [
+            "Trip/stop all nonessential loads that are connected to the switchboard.",
+            "Check the circuit breaker of the tripped alternator.",
+            "Increase the load on the remaining alternator.",
+            "Restart the tripped alternator immediately."
+        ],
+        "correct_answer": "Trip/stop all nonessential loads that are connected to the switchboard.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 105,
+        "question": "For two generators running in parallel, their share of additional load (kW) will be determined by the:",
+        "answers": [
+            "Governor droop settings on each prime mover.",
+            "Voltage droop setting on each AVR.",
+            "Frequency settings of the generators.",
+            "Load sharing controllers installed on each generator."
+        ],
+        "correct_answer": "Governor droop settings on each prime mover.",
+        "images": [],
+        "explanation": "සමාන්තරව ක්‍රියාත්මක වන ජනක යන්ත්‍ර දෙකක් අතර අමතර ක්‍රියාකාරී භාරය (kW) බෙදා හැරීම තීරණය වන්නේ ඒවායේ Governor droop settings මතය. Droop යනු භාරය වැඩි වන විට ප්‍රයිම් මූවර් එකේ වේගය සුළු වශයෙන් අඩුවීමයි. මෙම සැකසුම මගින් යන්ත්‍ර දෙකම සමානුපාතිකව භාරය බෙදා ගන්නා බව සහතික කරයි. වෝල්ටීයතාව හෝ උද්දීපනය (excitation) මගින් පාලනය වන්නේ reactive load (kVAR) මිස active load (kW) නොවන බැවින් අනෙකුත් සැකසුම් මෙයට අදාළ නොවේ."
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 106,
+        "question": "Which electronic component or system of components does this graphical symbol illustrate?",
+        "answers": [
+            "Inverter.",
+            "Low pass filter.",
+            "Capacitor.",
+            "Resistor."
+        ],
+        "correct_answer": "Inverter.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 107,
+        "question": "Thermocouples are often used for measuring temperatures. Which of the following descriptions explains the principle of operation of a thermocouple?",
+        "answers": [
+            "A junction between two dissimilar metals that generates a small voltage with temperature.",
+            "A resistance device that exhibits a positive coefficient of resistance with temperature.",
+            "A liquid-filled sensor that expands with temperature.",
+            "A bimetallic strip that bends with temperature changes."
+        ],
+        "correct_answer": "A junction between two dissimilar metals that generates a small voltage with temperature.",
+        "images": [],
+        "explanation": "තාප විද්‍යුත් යුග්මයක් (thermocouple) ක්‍රියා කරන්නේ එකිනෙකට වෙනස් ලෝහ වර්ග දෙකක් සම්බන්ධ කළ සන්ධියකිනි. උෂ්ණත්වය වෙනස් වන විට මෙම ලෝහ දෙක අතර ඉතා කුඩා වෝල්ටීයතාවයක් ජනනය වන අතර එය උෂ්ණත්වය මැනීමට යොදා ගනී (Seebeck Effect). මෙය ප්‍රතිරෝධය වෙනස් වීම මත පදනම් වූ RTD වලට වඩා වෙනස් තාක්ෂණයකි. එම නිසා ලෝහ දෙකේ සන්ධිය සහ වෝල්ටීයතාවය පිළිබඳ විස්තරය නිවැරදි වේ."
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 108,
+        "question": "Measurement and transmission of electronic values may be in the form of digital or analogue signals. What is an analogue signal?",
+        "answers": [
+            "A continually variable electric signal.",
+            "A measure of voltage using an oscilloscope.",
+            "A discrete value representing a specific measurement.",
+            "A signal that can only be processed by digital devices."
+        ],
+        "correct_answer": "A continually variable electric signal.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 109,
+        "question": "Which of the following is not a form of multiple access to a communication satellite?",
+        "answers": [
+            "Carrier-sense multiple access.",
+            "Frequency-division multiple access.",
+            "Time-division multiple access.",
+            "Code-division multiple access."
+        ],
+        "correct_answer": "Carrier-sense multiple access.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 110,
+        "question": "What should be the healthy continuity resistance of a 220 V, 2,2 kW, 10 A heating element, when checked near to it’s rated operating temperature?",
+        "answers": [
+            "22 Ohms.",
+            "220 Ohms.",
+            "0,1 Ohms.",
+            "10 Ohms."
+        ],
+        "correct_answer": "22 Ohms.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 111,
+        "question": "Which of the following tripping methods does not provide overcurrent protection?",
+        "answers": [
+            "Preferential trip.",
+            "Electromagnetic trip.",
+            "Electronic trip.",
+            "Thermal trip."
+        ],
+        "correct_answer": "Preferential trip.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 112,
+        "question": "Use Kirchoff’s current law and Ohm’s law to calculate the value of the current I for this circuit.",
+        "answers": [
+            "22 A.",
+            "72 A.",
+            "48 A.",
+            "2 A."
+        ],
+        "correct_answer": "22 A.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2025/12/Screenshot-from-2025-12-23-10-32-54.png"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 113,
+        "question": "Continuity testing of a delta connected three phase induction motor yields the following results; U-V = 3 ohms, V-W = 3 ohms, W-U = 6 ohms. Which of the following is the likely condition?",
+        "answers": [
+            "Open circuit winding between W and U.",
+            "Partial fault between W and U.",
+            "Short circuit winding between W and U.",
+            "Short circuit between V and Earth."
+        ],
+        "correct_answer": "Open circuit winding between W and U.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 114,
+        "question": "This figure shows a transformer, with two windings, N(1) = 2 000 and N(2) = 1 000 turns, on a common magnetic circuit. Assume that there is no energy loss in the transformer itself. Calculate the current I(2) when the current I(1) = 2 A.",
+        "answers": [
+            "I(2) = 4 A.",
+            "I(2) = 8 A.",
+            "I(2) = 2 A.",
+            "I(2) = 1 A."
+        ],
+        "correct_answer": "I(2) = 4 A.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2025/12/Screenshot-from-2025-12-23-10-39-07.png"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 115,
+        "question": "Which of the following functions does the diode shown here perform?",
+        "answers": [
+            "Return inductive current to supply at switch off.",
+            "Allow Op Amp to top up +15 V rail.",
+            "Provide an overload route for transistor current.",
+            "Reference the transistor to +15 V."
+        ],
+        "correct_answer": "Return inductive current to supply at switch off.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2025/12/Screenshot-from-2025-12-23-10-41-55.png"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 116,
+        "question": "Flow irregularities in pipes are not caused by:",
+        "answers": [
+            "Staight pipe.",
+            "Elbow pipe.",
+            "Throttling valve.",
+            "Restrictive valve."
+        ],
+        "correct_answer": "Staight pipe.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 117,
+        "question": "In the type of fluorescent lamp system shown in the illustration, which of the following indicates the purpose of the starter?",
+        "answers": [
+            "To pass current through the lamp heaters, and then interrupt the inductive striking current.",
+            "To create a high starting current.",
+            "To charge the ballast to a high inductive current, and then divert this current through the lamp.",
+            "To switch on current through the lamp, and to disconnect the ballast once the lamp has started."
+        ],
+        "correct_answer": "To pass current through the lamp heaters, and then interrupt the inductive striking current.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2025/12/Screenshot-from-2025-12-23-09-03-09.png"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 118,
+        "question": "In the circuit diagram shown the starter connects between which terminals?",
+        "answers": [
+            "5 and 6.",
+            "1 and 2.",
+            "3 and 4.",
+            "7 and 8."
+        ],
+        "correct_answer": "5 and 6.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2025/12/Screenshot-from-2025-12-23-10-49-10.png"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 119,
+        "question": "Low voltage ships tend to have insulated neutral systems. What is the reason for this?",
+        "answers": [
+            "In the event of an earth fault vital equipment will not trip.",
+            "It is easier to detect faults.",
+            "If the neutral is not insulated then it may short to other conductors.",
+            "It is more effective than insulating the live conductor."
+        ],
+        "correct_answer": "In the event of an earth fault vital equipment will not trip.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 120,
+        "question": "The circuit diagrams illustrate four different methods of wiring between a Pt 100 temperature sensor and its signal processing electronics. Which of the wiring methods gives the best measuring accuracy?",
+        "answers": [
+            "Figure 1.",
+            "Figure 2.",
+            "Figure 3.",
+            "Figure 4."
+        ],
+        "correct_answer": "Figure 1.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2025/12/Screenshot-from-2025-12-23-10-54-58.png"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 121,
+        "question": "The figure shows a silicon controlled rectifier with a RC circuit connected in parallel. What is the purpose of the RC circuit?",
+        "answers": [
+            "Protect the SCR against damage caused by fast high voltage spikes.",
+            "Measuring the current through the SCR.",
+            "Obtain current resonance.",
+            "Provide a controlled time delay for the SCR trigger pulse."
+        ],
+        "correct_answer": "Protect the SCR against damage caused by fast high voltage spikes.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2025/12/Screenshot-from-2025-12-23-10-57-13.png"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 122,
+        "question": "Sometimes an early warning of failure in High Voltage switchboards may produce an unpleasant smell. If the switchboard uses gas circuit breakers, which type of unpleasant smell may indicate a potential problem?",
+        "answers": [
+            "Rotten eggs.",
+            "Rotten fish.",
+            "Gas oil.",
+            "Chlorine."
+        ],
+        "correct_answer": "Rotten eggs.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 123,
+        "question": "Which device does this graphical symbol illustrate?",
+        "answers": [
+            "Pressure to current converter.",
+            "Differential pressure transmitter.",
+            "Inverter.",
+            "Rectifier."
+        ],
+        "correct_answer": "Pressure to current converter.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2025/12/Screenshot-from-2025-12-23-12-47-20.png"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 124,
+        "question": "When performing electrical testing of a three phase motor, insulation resistance measurements may be influenced by which of the following?",
+        "answers": [
+            "Temperature, pressure and dampness.",
+            "Humidity, frequency and dampness.",
+            "Humidity, pressure and surface contamination.",
+            "Temperature, humidity and surface contamination."
+        ],
+        "correct_answer": "Temperature, pressure and dampness.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 125,
+        "question": "The coil of a 12 V, 120 mA dc relay must be connected across a 24 V supply. What action should be taken?",
+        "answers": [
+            "Install a 100 ohm resistor in series with the coil.",
+            "Install a 100 k ohm resistor in parallel with the coil.",
+            "Install a 100 k ohm resistor in series with the coil."
+        ],
+        "correct_answer": "Install a 100 ohm resistor in series with the coil.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 126,
+        "question": "This graphical symbol is a logic gate. Which type of logic function does the gate provide?",
+        "answers": [
+            "AND.",
+            "NOR.",
+            "NAND.",
+            "OR."
+        ],
+        "correct_answer": "AND.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2025/12/Screenshot-from-2025-12-23-12-52-27.png"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 127,
+        "question": "When temperature of a liquid is higher than normal temperature, what happens to the viscosity?",
+        "answers": [
+            "Viscosity decreases.",
+            "No change in viscosity.",
+            "Initial decrease before returning to original viscosity.",
+            "Viscosity increases."
+        ],
+        "correct_answer": "Viscosity decreases.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 128,
+        "question": "When carrying out routine insulation testing of a three – phase induction motor, which of the measurement should be covered?",
+        "answers": [
+            "U-E, V-E, W-E, U-V, V-W, W-U.",
+            "AA-E, ZZ-E.",
+            "U-V-W-E.",
+            "U1-U2, V1-V2, W1-W2, U-E, V-E, W-E."
+        ],
+        "correct_answer": "U-E, V-E, W-E, U-V, V-W, W-U.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 129,
+        "question": "A High Breaking Capacity fuse found in a Main High Voltage Switchboard will typically have fault level rating of?",
+        "answers": [
+            "40 kA.",
+            "40 A.",
+            "400 A.",
+            "4 000 A."
+        ],
+        "correct_answer": "40 kA.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 130,
+        "question": "Continuity testing of a delta connected three phase induction motor yields the following results; U1-V1 = 4 ohms, V1-W1 = 4 ohms, W1-U1 = 4 ohms. What is the value of continuity resistance for each winding i. e. U1-U2?",
+        "answers": [
+            "6 ohms.",
+            "4 ohms.",
+            "2 ohms.",
+            "12 ohms."
+        ],
+        "correct_answer": "6 ohms.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 131,
+        "question": "Which of the following is an application of a thermoelectric sensor?",
+        "answers": [
+            "Thermocouple.",
+            "Proximity sensor.",
+            "Barometer.",
+            "Piezoelectric sensor."
+        ],
+        "correct_answer": "Thermocouple.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 132,
+        "question": "In an automatic temperature control system, operating with a PID controller, which of the following settings or parameter adjustments may result in system oscillation?",
+        "answers": [
+            "Gain too high.",
+            "Gain too low.",
+            "Too short D-time.",
+            "Temperature change."
+        ],
+        "correct_answer": "Gain too high.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 133,
+        "question": "In the context of an automated process control system, what is understood by the term Master Controller?",
+        "answers": [
+            "The primary controller in a cascade control system.",
+            "The best possible control system.",
+            "State of the art controller.",
+            "The Captain’s controller."
+        ],
+        "correct_answer": "The primary controller in a cascade control system.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 134,
+        "question": "The pressure inlet to a pressure gauge is varied from zero to full scale and back to zero again. The output (indicating pressure) versus true pressure is shown in the diagram.The non – coincidence(mis – match) of loading and unloading curve is due to internal friction in the instrument. What do we call this phenomenon?",
+        "answers": [
+            "Hysteresis.",
+            "Threshold.",
+            "Dead band.",
+            "Resolution."
+        ],
+        "correct_answer": "Hysteresis.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2025/12/Screenshot-from-2025-12-23-13-05-43.png"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 135,
+        "question": "The circuit consists of two inductors, L(1) = 6 H and L(2) = 12 H, in series. Calculate the equivalent total inductance.",
+        "answers": [
+            "L(S) = 18 H.",
+            "L(S) = 4 H.",
+            "L(S) = 1,5 H.",
+            "L(S) = 0,5 H."
+        ],
+        "correct_answer": "L(S) = 18 H.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2025/12/scheme3.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 136,
+        "question": "What are the main elements for Process Control?",
+        "answers": [
+            "Sensor, Controller, Noise, Final Control Element.",
+            "Process, Sensor, Final control element and Controller.",
+            "Resistor, Capacitor, Battery, Load.",
+            "Sensor, Modulation, Controller, Process."
+        ],
+        "correct_answer": "Sensor, Controller, Noise, Final Control Element.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 137,
+        "question": "The figures show a graphical symbol for a particular electronic component and a typical working characteristic for the same component. Which component?",
+        "answers": [
+            "Silicon controlled rectifier (SCR).",
+            "Tunnel diode.",
+            "Field effect transistor.",
+            "Zener diode."
+        ],
+        "correct_answer": "Silicon controlled rectifier (SCR).",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2025/12/graph.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 138,
+        "question": "Which of the following measures is to be taken when working with batteries?",
+        "answers": [
+            "Recharge batteries immediately after discharge.",
+            "Keep the batteries in discharged state.",
+            "Add new acid electrolyte to batteries that are in use.",
+            "Install alkaline and lead-acid batteries in the same compartment."
+        ],
+        "correct_answer": "Recharge batteries immediately after discharge.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 139,
+        "question": "Some ships generate electrical power at 440 Volts, but then step up this voltage to supply specific electrical equipment. One common example may be to feed a large bow thruster. Why is this done?",
+        "answers": [
+            "The overall ship’s electrical load does not justify High Voltage generating plant. This method allows more power to be delivered to the bow thruster at low running cost.",
+            "The shipyard could not purchase High Voltage generating plant at the time of manufacture, so they used what was available at the time.",
+            "A large bow thruster will draw very large currents at low voltage. Being typically remote from the generator, significant voltage drops would occur at low voltage.",
+            "Manufacturers can supply High Voltage bow thrusters at less cost, and the power factor is improved."
+        ],
+        "correct_answer": "A large bow thruster will draw very large currents at low voltage. Being typically remote from the generator, significant voltage drops would occur at low voltage.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 140,
+        "question": "Which of the following is not a methods of checking running motors for condition monitoring?",
+        "answers": [
+            "Measurement of short circuit current.",
+            "Temperature of motor.",
+            "Measurement of insulation resistance.",
+            "Monitoring vibration due to defective bearings."
+        ],
+        "correct_answer": "Measurement of short circuit current.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 141,
+        "question": "A transformer overheats while taking a shore supply. Which is the likely cause?",
+        "answers": [
+            "Incorrect frequency.",
+            "Incorrect voltage.",
+            "Incorrect earthing.",
+            "Incorrect current."
+        ],
+        "correct_answer": "Incorrect frequency.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 142,
+        "question": "A triac is used to provide temperature control of an oven. The galley complain that the oven only reaches approximately 50 % of demanded temperature. Which of the following is a likely cause?",
+        "answers": [
+            "One of the main switching elements in the triac has failed.",
+            "Connection between the demand knob and the triac gate terminal has gone open circuit.",
+            "The voltage supply to the oven controller is reduced by about 50 %.",
+            "The triac has completely failed."
+        ],
+        "correct_answer": "One of the main switching elements in the triac has failed.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 143,
+        "question": "Why should the coil of an ac solenoid valve not be energised when it has demounted from the valve body?",
+        "answers": [
+            "The coil will overheat.",
+            "The coil will fail due to vibration.",
+            "The coil will jump around.",
+            "The coil will lose it’s residual magnetism."
+        ],
+        "correct_answer": "The coil will overheat.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 144,
+        "question": "On the basis of their conductivity, materials can be classified as isolators, semiconductors or conductors. Which of the following is considered a conductor?",
+        "answers": [
+            "Copper.",
+            "Silicon.",
+            "Germanium.",
+            "Phosphor."
+        ],
+        "correct_answer": "Copper.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Electrical, electronic and control engineering",
+        "index": 145,
+        "question": "With reference to piping and instrumentation diagram (P&ID), what does below symbol symbolize?",
+        "answers": [
+            "Orifice.",
+            "Capacitor.",
+            "Flow element.",
+            "Battery."
+        ],
+        "correct_answer": "Orifice.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2025/12/Screenshot-from-2025-12-23-13-32-33.png"
+        ],
+        "explanation": ""
+    }
+]

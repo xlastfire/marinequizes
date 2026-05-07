@@ -1,0 +1,836 @@
+[
+    {
+        "category": "CES – Survival (Advanced)",
+        "index": 1,
+        "question": "In what language/languages must the fire control plans or booklets (or copies of these) be written?",
+        "answers": [
+            "In the Flag State official language with copies in English or French.",
+            "In a national language where company head office is located.",
+            "In the English language.",
+            "In the Flag State official language."
+        ],
+        "correct_answer": "In the Flag State official language with copies in English or French.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Survival (Advanced)",
+        "index": 2,
+        "question": "The operating mode of a pyrotechnic signal depends essentially on:",
+        "answers": [
+            "The weather conditions of the moment.",
+            "A define standard process.",
+            "Instructions or diagrams printed on its casing by the manufacturer.",
+            "The fact that the user is on board a liferaft, a lifeboat or ship."
+        ],
+        "correct_answer": "Instructions or diagrams printed on its casing by the manufacturer.",
+        "images": [],
+        "explanation": "පයිරොටෙක්නික් සංඥා (උදා: දුම් සංඥා, රොකට් flares) විවිධ නිෂ්පාදකයන් විසින් විවිධ මෝස්තරවලින් නිපදවනු ලබයි. මේවා ක්‍රියාත්මක කරන ක්‍රමවේද (උදා: පින් එකක් ඇදීම, කරකැවීම) එකිනෙකට වෙනස් විය හැක. වැරදි ලෙස භාවිතය මගින් සංඥාව ක්‍රියාත්මක නොවීම හෝ පරිශීලකයාට බරපතල තුවාල සිදුවීම විය හැක. එම නිසා එම උපකරණයේ බඳ මත මුද්‍රණය කර ඇති උපදෙස් සහ රූප සටහන් (instructions/diagrams) අනුගමනය කිරීම අත්‍යවශ්‍ය වේ. අනෙකුත් සාමාන්‍ය ක්‍රමවේද මත විශ්වාසය තැබීම අවදානම් සහගතය."
+    },
+    {
+        "category": "CES – Survival (Advanced)",
+        "index": 3,
+        "question": "Give the meaning of the following symbol:",
+        "answers": [
+            "Release falls.",
+            "Davit launched lifeboat.",
+            "Release gripes.",
+            "Davit launched rescue boat."
+        ],
+        "correct_answer": "Release gripes.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2024/07/release.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Survival (Advanced)",
+        "index": 4,
+        "question": "Which one of the listed requirements regarding service and maintenance of life-saving appliances correspond to present regulations?",
+        "answers": [
+            "Instructions for onboard maintenance of life-saving appliances in accordance with the regulations shall be provided.",
+            "Maintenance and repair of all the life-saving equipment will be carried out ashore in work shop only.",
+            "At least one member of the crew shall hold a repairman certificate for life-saving equipment.",
+            "Maintenance and repair of all life-saving equipment shall be carried out by the certified ship staff only."
+        ],
+        "correct_answer": "Instructions for onboard maintenance of life-saving appliances in accordance with the regulations shall be provided.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Survival (Advanced)",
+        "index": 5,
+        "question": "How often are “abandon ship” drills required to be held on cargo vessels according to SOLAS?",
+        "answers": [
+            "Once every month.",
+            "Once every 6 months.",
+            "Once every week.",
+            "Once every year."
+        ],
+        "correct_answer": "Once every month.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Survival (Advanced)",
+        "index": 6,
+        "question": "Give the meaning of the following symbol:",
+        "answers": [
+            "Start air supply.",
+            "Start air filling of the davit launched liferaft.",
+            "Start ventilation of the rescue boat.",
+            "Start ventilation of the lifeboat."
+        ],
+        "correct_answer": "Start air supply.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2024/07/supply.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Survival (Advanced)",
+        "index": 7,
+        "question": "The muster list must be prepared:",
+        "answers": [
+            "At least 2 hours before the ship proceeds to sea.",
+            "At least 1 hours before the ship proceeds to sea.",
+            "At least 2 hours before the ship has proceeded to sea.",
+            "At any moment before the ship proceeds to sea."
+        ],
+        "correct_answer": "At any moment before the ship proceeds to sea.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2024/07/muster-list.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Survival (Advanced)",
+        "index": 8,
+        "question": "What is most important for crew members when preparing for emergencies?",
+        "answers": [
+            "That people are well trained.",
+            "That people know where to muster.",
+            "That people know where to find designated equipment.",
+            "That people listen to orders given."
+        ],
+        "correct_answer": "That people are well trained.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Survival (Advanced)",
+        "index": 9,
+        "question": "Which one of the listed requirements regarding lifeboat equipment correspond to present regulations? The normal equipment of every lifeboat shall include:",
+        "answers": [
+            "A survival manual.",
+            "Oil pollution equipment.",
+            "Sea charts and navigation equipment.",
+            "Helicopter rescue equipment."
+        ],
+        "correct_answer": "A survival manual.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Survival (Advanced)",
+        "index": 10,
+        "question": "Which of the following items shall be included in an “abandon ship” drill?",
+        "answers": [
+            "Checking that passengers and crew are suitably dressed and lifejackets correctly donned.",
+            "Checking the distress signal rockets and other distress signals.",
+            "Checking that all crew and passenger moral is high.",
+            "Checking the lifeboat provisions and supplies."
+        ],
+        "correct_answer": "Checking that passengers and crew are suitably dressed and lifejackets correctly donned.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Survival (Advanced)",
+        "index": 11,
+        "question": "How often should the lifeboat wire falls be turned and renewed?",
+        "answers": [
+            "Turned at intervals of not more than 30 months and renewed every 5 years.",
+            "Turned every 2 years and renewed every 4 years.",
+            "Turned every 30 months and needs only to be renewed if the wire is in poor condition.",
+            "Renewed every three years."
+        ],
+        "correct_answer": "Turned at intervals of not more than 30 months and renewed every 5 years.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Survival (Advanced)",
+        "index": 12,
+        "question": "On board passenger ships an abandon ship drill must be performed:",
+        "answers": [
+            "Every week.",
+            "Every month.",
+            "Every three months.",
+            "Every two weeks."
+        ],
+        "correct_answer": "Every week.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Survival (Advanced)",
+        "index": 13,
+        "question": "A dynamic test of the winch brake with a proof load equal to 1,1 times the weight of the survival craft or rescue boat and its full complement of persons and equipment should be carried out:",
+        "answers": [
+            "Every 5 years.",
+            "Every year.",
+            "Every three years.",
+            "Every ten years."
+        ],
+        "correct_answer": "Every 5 years.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Survival (Advanced)",
+        "index": 14,
+        "question": "Referring to the SOLAS convention, how often should a crew member on a cargo ship participate in one abandon ship drill and one fire drill?",
+        "answers": [
+            "Monthly.",
+            "Every second week.",
+            "Weekly.",
+            "This is only required when he joins the ship."
+        ],
+        "correct_answer": "Monthly.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Survival (Advanced)",
+        "index": 15,
+        "question": "What manoeuvre should be carried out in case of a fire onboard a ship?",
+        "answers": [
+            "Reduce speed and, if possible, keep the fire zone to the leeward of the ship.",
+            "Keep the stem up against the wind if possible.",
+            "Continue on course and speed.",
+            "Let the ship follow the wind in order to reduce the oxygen supply."
+        ],
+        "correct_answer": "Reduce speed and, if possible, keep the fire zone to the leeward of the ship.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Survival (Advanced)",
+        "index": 16,
+        "question": "Every inflatable liferaft, inflatable lifejacket and hydrostatic release units shall be serviced:",
+        "answers": [
+            "Every 12 months.",
+            "Every 36 months.",
+            "Every 24 months.",
+            "Every 18 months."
+        ],
+        "correct_answer": "Every 12 months.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Survival (Advanced)",
+        "index": 17,
+        "question": "How much lifeboat capacity should be a provided on a conventional cargo ship of more than 85 meters in length?",
+        "answers": [
+            "100 % of the ship’s complement on each side.",
+            "50 % of the ship’s complement on each side.",
+            "150 % of the ship’s complement on each side.",
+            "125 % of the ship’s complement on each side."
+        ],
+        "correct_answer": "100 % of the ship’s complement on each side.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Survival (Advanced)",
+        "index": 18,
+        "question": "How would you know how many people a lifeboat is supposed to hold?",
+        "answers": [
+            "The number of persons should be clearly stated on the outside of the boats bow.",
+            "No fixed number as it depends on the people’s size.",
+            "Ask one of the deck officers.",
+            "Fill the boat up until no more space is left."
+        ],
+        "correct_answer": "The number of persons should be clearly stated on the outside of the boats bow.",
+        "images": [],
+        "explanation": "ජීවිතාරක්ෂක බෝට්ටුවක (Lifeboat) රැගෙන යා හැකි උපරිම පුද්ගලයින් සංඛ්‍යාව එහි ඉදිරිපස (Bow) පිටතින් පැහැදිලිව සහ ස්ථිරව සටහන් කර තිබිය යුතුය. මෙය SOLAS රෙගුලාසි අනුව අනිවාර්ය වේ. හදිසි අවස්ථාවකදී කාර්ය මණ්ඩලයට සහ මගීන්ට බෝට්ටුවේ ධාරිතාව පිළිබඳ ක්ෂණිකව අවබෝධයක් ලබා ගැනීම සඳහා මෙය බෝට්ටුව ඇතුළත හෝ මැනුවල් වල පමණක් තිබීම ප්‍රමාණවත් නොවේ."
+    },
+    {
+        "category": "CES – Survival (Advanced)",
+        "index": 19,
+        "question": "Which one of the listed requirements regarding the stowage of a survival craft corresponds to present SOLAS regulations? Each survival craft shall be stowed:",
+        "answers": [
+            "In a state of readiness so that two crew-members can prepare for embarkation and launching in less than 15 minutes.",
+            "Wherever space is available.",
+            "On the starboard side of the ship.",
+            "In a secure and sheltered position and protected from damage by fire or explosion."
+        ],
+        "correct_answer": "In a secure and sheltered position and protected from damage by fire or explosion.",
+        "images": [],
+        "explanation": "SOLAS රෙගුලාසි වලට අනුව, ජීවිතාරක්ෂක යාත්‍රා (survival craft) සැමවිටම ආරක්ෂිත සහ සුරක්ෂිත ස්ථානයක ගබඩා කළ යුතුය. විශේෂයෙන්ම ගින්නකින් හෝ පිපිරීමකින් හානි නොවන පරිදි ඒවා ආරක්ෂා කළ යුතුය. එවිට හදිසි අවස්ථාවකදී කිසිදු බාධාවකින් තොරව ඒවා භාවිතා කළ හැක. අනාරක්ෂිත ස්ථානයක තැබීමෙන් හදිසි අවස්ථාවකදී ඒවා අක්‍රිය වීමට ඉඩ ඇත."
+    },
+    {
+        "category": "CES – Survival (Advanced)",
+        "index": 20,
+        "question": "What is the minimum number of portable two way VHF walkie talkies for use in survival craft, that should be carried onboard vessels which comply with GMDSS regulations?",
+        "answers": [
+            "3 sets.",
+            "1 set.",
+            "2 sets.",
+            "There is no requirement to carry them."
+        ],
+        "correct_answer": "3 sets.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Survival (Advanced)",
+        "index": 21,
+        "question": "Give the meaning of the following symbol:",
+        "answers": [
+            "Radar transponder.",
+            "EPIRB.",
+            "Rocket parachute flares.",
+            "Survival craft distress pyrotechnic signals."
+        ],
+        "correct_answer": "Radar transponder.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2024/07/transponder.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Survival (Advanced)",
+        "index": 22,
+        "question": "Give the meaning of the following symbol:",
+        "answers": [
+            "Line throwing appliance.",
+            "Rocket parachute flares.",
+            "Lifeboat hand flare.",
+            "Survival craft distress pyrotechnic signals."
+        ],
+        "correct_answer": "Line throwing appliance.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2024/07/line.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Survival (Advanced)",
+        "index": 23,
+        "question": "Which of the following information shall be specified by the muster list?",
+        "answers": [
+            "The specific duties assigned to passengers that are in charge of a group of others.",
+            "The muster list has been prepared and approved by the administration before the ship proceeds to sea.",
+            "Action to be taken by crew and passengers.",
+            "The abandon ship signal consisting of two long blasts."
+        ],
+        "correct_answer": "The specific duties assigned to passengers that are in charge of a group of others.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Survival (Advanced)",
+        "index": 24,
+        "question": "How many Radar Transponders (SART) are required to be carried onboard a ship for use in survival crafts?",
+        "answers": [
+            "One in each lifeboat.",
+            "2, one of which being capable of floating free if the ship sinks.",
+            "Two on each side of the ship.",
+            "One on each side of the ship."
+        ],
+        "correct_answer": "One on each side of the ship.",
+        "images": [],
+        "explanation": "SOLAS රෙගුලාසිවලට අනුව, දළ ටොන් 500ට වැඩි සෑම නෞකාවකම අවම වශයෙන් Radar Transponders (SART) දෙකක් තිබිය යුතුය. මේවා නැවේ දෙපස (Port and Starboard) පහසුවෙන් ගත හැකි ස්ථානවල තැබිය යුතුය. එවිට හදිසි අවස්ථාවකදී කුමන පැත්තකින් ජීවිතාරක්ෂක යාත්‍රා දියත් කළත් එක SART එකක් බැගින් රැගෙන යා හැක. එකක් පමණක් තිබීම ප්‍රමාණවත් නොවන අතර, සෑම බෝට්ටුවකටම එක බැගින් තිබීම අනිවාර්ය නොවන නමුත් නැවේ දෙපස තිබීම අත්‍යවශ්‍ය වේ."
+    },
+    {
+        "category": "CES – Survival (Advanced)",
+        "index": 25,
+        "question": "Give the meaning of the following symbol:",
+        "answers": [
+            "EPIRB.",
+            "Survival craft distress pyrotechnic signals.",
+            "Rocket parachute flare.",
+            "Survival craft portable radio."
+        ],
+        "correct_answer": "EPIRB.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2024/07/epirb.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Survival (Advanced)",
+        "index": 26,
+        "question": "Give the meaning of the following symbol:",
+        "answers": [
+            "Start water-spray.",
+            "Lower lifeboat to water.",
+            "Rescue boat with waterproof canopy.",
+            "Secure lifeboat hatches."
+        ],
+        "correct_answer": "Start water-spray.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2024/07/spray.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Survival (Advanced)",
+        "index": 27,
+        "question": "How often must the Emergency Steering Gear be tested, and how is this information recorded in the OLB?",
+        "answers": [
+            "Every three months. Details of test with signatures of Master and witness.",
+            "Monthly with signature of person carrying out test.",
+            "Monthly with signature of Chief Engineer and witness.",
+            "Fortnightly, with signature of Chief Engineer and witness."
+        ],
+        "correct_answer": "Every three months. Details of test with signatures of Master and witness.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Survival (Advanced)",
+        "index": 28,
+        "question": "During abandon ship exercise, what life-saving equipment must be demonstrated?",
+        "answers": [
+            "Wearing and fastening of lifejackets and associated equipment.",
+            "Location of immersion suits and thermal protective aids.",
+            "How to communicate using the hand-held radios.",
+            "Lifeboat radio."
+        ],
+        "correct_answer": "Wearing and fastening of lifejackets and associated equipment.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Survival (Advanced)",
+        "index": 29,
+        "question": "Where do you find minimum drill requirements?",
+        "answers": [
+            "In the SOLAS convention and its annex.",
+            "In owner’s instruction.",
+            "In manager’s instruction.",
+            "In classification society rules."
+        ],
+        "correct_answer": "In the SOLAS convention and its annex.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Survival (Advanced)",
+        "index": 30,
+        "question": "The pyrotechnic used to transmit visual signals to other vessels, boats or aircrafts are of the following type:",
+        "answers": [
+            "All of the below mentioned.",
+            "Buoyant smoke signal.",
+            "Hand flare.",
+            "Rocket parachute flare."
+        ],
+        "correct_answer": "All of the below mentioned.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Survival (Advanced)",
+        "index": 31,
+        "question": "Which one of the listed requirements regarding abandon ship drills corresponds to present SOLAS regulation?",
+        "answers": [
+            "Each lifeboat shall be launched, and maneuvered in the water its assigned crew at least once every three months during an abandon ship drill.",
+            "All lifeboats shall be lowered during drills.",
+            "On ships on short international voyages, each lifeboat shall be launched and maneuvered in the water at least every six months.",
+            "Drills shall be conducted when the ship is in a harbour."
+        ],
+        "correct_answer": "Each lifeboat shall be launched, and maneuvered in the water its assigned crew at least once every three months during an abandon ship drill.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Survival (Advanced)",
+        "index": 32,
+        "question": "When should a crew member joining a ship for the first time be given some training and instructions in the use of the ship’s fire-fighting appliances?",
+        "answers": [
+            "As soon as possible but not later than 24 hours after he joins the ship.",
+            "As soon as possible but not later than 2 days after he joins the ship.",
+            "As soon as possible but not later than 2 weeks after he joins the ship.",
+            "As soon as possible."
+        ],
+        "correct_answer": "As soon as possible but not later than 2 weeks after he joins the ship.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Survival (Advanced)",
+        "index": 33,
+        "question": "What are the conditions that influence the efforts for organising the fire fighting?",
+        "answers": [
+            "Where the fire breaks out, how many fire teams are available, the strength of the fire, the ships mobility, what is burning and communication.",
+            "Distance to the fire station and the size of the fire brigade, what is burning, possibility to get water.",
+            "Where the fire break out, how many fire teams are available, what is burning, distance to the fire station.",
+            "Where the fire break out, the ships mobility, distance to the fire station and the size of the fire brigade."
+        ],
+        "correct_answer": "Where the fire breaks out, how many fire teams are available, the strength of the fire, the ships mobility, what is burning and communication.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Survival (Advanced)",
+        "index": 34,
+        "question": "As per SOLAS regulations, the general emergency alarm system must be tested:",
+        "answers": [
+            "Every week.",
+            "Every 3 weeks.",
+            "Every month.",
+            "Every 2 weeks."
+        ],
+        "correct_answer": "Every week.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Survival (Advanced)",
+        "index": 35,
+        "question": "Which one of the given requirements regarding survival craft muster and embarkation arrangements corresponds to the present SOLAS regulations?",
+        "answers": [
+            "Muster and embarkation stations shall be readily accessible from accommodation and work areas.",
+            "Muster and embarkation stations are to be arranged separately to improve working conditions.",
+            "Davit-launched survival craft muster and embarkation stations shall be arranged to enable stretchers to be placed in survival craft.",
+            "Searchlights to be provided at the launching station."
+        ],
+        "correct_answer": "Muster and embarkation stations shall be readily accessible from accommodation and work areas.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Survival (Advanced)",
+        "index": 36,
+        "question": "Which of the following requirements regarding life-buoys correspond to present regulations? (SOLAS III/7.1).",
+        "answers": [
+            "At least four life-buoys on each side of the ship shall be fitted with buoyant lifelines.",
+            "At least one lifebuoy with self-activating smoke shall be placed within the vicinity of the stern.",
+            "Not less than half the total number of lifebuoys shall be provided with self-ignighting lights.",
+            "All the life-buoys shall be placed in holders with quick-release arrangement."
+        ],
+        "correct_answer": "Not less than half the total number of lifebuoys shall be provided with self-ignighting lights.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Survival (Advanced)",
+        "index": 37,
+        "question": "For how long and at what speed is a fully loaded lifeboat designed to operate in calm water?",
+        "answers": [
+            "6 knots for 24 hours.",
+            "3 knots for 24 hours.",
+            "4 knots for 48 hours.",
+            "10 knots for 24 hours."
+        ],
+        "correct_answer": "6 knots for 24 hours.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Survival (Advanced)",
+        "index": 38,
+        "question": "How often shall each member of the crew participate in an “abandon ship” – drill?",
+        "answers": [
+            "Once every month.",
+            "Once a year.",
+            "Once every week.",
+            "Once every 6 months."
+        ],
+        "correct_answer": "Once every month.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Survival (Advanced)",
+        "index": 39,
+        "question": "On all UMS operated vessels and also on most other vessels the engine room is equipped with fire detectors. What requirements of testing and checking of the detectors are to be observed?",
+        "answers": [
+            "All the mentioned alternatives.",
+            "When testing detectors by suitable equipment (smoke and heat) check that the sensors self controlling system, e. g. a flashing control light etc. is functioning.",
+            "Check the detector with heat and/or smoke (in accordance with instructions in its manual).",
+            "Check that the actual detector is giving appropriate signals to the central control unit and that all electric connections are in good order."
+        ],
+        "correct_answer": "All the mentioned alternatives.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Survival (Advanced)",
+        "index": 40,
+        "question": "Give the meaning of the following symbol:",
+        "answers": [
+            "Lower embarkation ladder to water.",
+            "Lower lifeboat to water.",
+            "Lower liferaft to water.",
+            "Location of embarkation ladder."
+        ],
+        "correct_answer": "Lower embarkation ladder to water.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2024/07/ladder.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Survival (Advanced)",
+        "index": 41,
+        "question": "Which one of the following items has to be included in an abandon ship drill according to SOLAS regulations?",
+        "answers": [
+            "Launching and recovery of a survival craft.",
+            "Checking that life-jackets are correctly donned.",
+            "Starting and operating radio life-saving appliances.",
+            "Manoeuvring the lifeboat in the water."
+        ],
+        "correct_answer": "Checking that life-jackets are correctly donned.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Survival (Advanced)",
+        "index": 42,
+        "question": "As far as possible, all engines in lifeboats and rescue boats should be run:",
+        "answers": [
+            "For a total period of not less than 10 minutes every week.",
+            "For a total period of not less than 5 minutes every month.",
+            "For a total period of not less than 3 minutes every month.",
+            "For a total period of not less than 3 minutes every week."
+        ],
+        "correct_answer": "For a total period of not less than 10 minutes every week.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Survival (Advanced)",
+        "index": 43,
+        "question": "Which one of the listed requirements regarding life-saving appliances corresponds to present regulations?",
+        "answers": [
+            "All prescribed life-saving appliances shall be of such a colour that they are in contrast to the surrounding colour.",
+            "All prescribed life-saving appliances shall be made of non-combustible or fire retardant material.",
+            "All prescribed life-saving appliances shall have marking in red colour.",
+            "All prescribed life-saving appliances shall be fitted with the manufacturers name and Logo."
+        ],
+        "correct_answer": "All prescribed life-saving appliances shall be made of non-combustible or fire retardant material.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Survival (Advanced)",
+        "index": 44,
+        "question": "The mandatory color of a hand flare is:",
+        "answers": [
+            "Red.",
+            "White.",
+            "Yellow.",
+            "Green."
+        ],
+        "correct_answer": "Red.",
+        "images": [],
+        "explanation": "ජාත්‍යන්තර මුහුදු ආරක්‍ෂක නීති (SOLAS) සහ ජීවිත ආරක්ෂණ සම්මුතීන්ට අනුව හදිසි අවස්ථාවකදී භාවිත කරන 'Hand flare' එකක වර්ණය අනිවාර්යයෙන්ම රතු (Red) විය යුතුය. රතු පැහැය දුර සිට පැහැදිලිව පෙනෙන අතර එය ජාත්‍යන්තරව හදිසි අනතුරක් (Distress signal) ලෙස පිළිගැනේ. කොළ හෝ සුදු වැනි අනෙකුත් වර්ණ වෙනත් නාවික සංඥා සඳහා භාවිතා වන බැවින් හදිසි අනතුරකදී ඒවා භාවිතා කළ නොහැක."
+    },
+    {
+        "category": "CES – Survival (Advanced)",
+        "index": 45,
+        "question": "Give the meaning of the following symbol:",
+        "answers": [
+            "Survival craft portable radio.",
+            "EPIRB.",
+            "Survival craft distress pyrotechnic signals.",
+            "Rocket parachute flares."
+        ],
+        "correct_answer": "Survival craft portable radio.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2024/07/radio.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Survival (Advanced)",
+        "index": 46,
+        "question": "You are starting to get low on water in the lifeboat. What should you do?",
+        "answers": [
+            "Collect rain water.",
+            "Use sea water.",
+            "Mix sea water with 50 % fresh water.",
+            "Drink urine."
+        ],
+        "correct_answer": "Collect rain water.",
+        "images": [],
+        "explanation": "ජීවිතාරක්ෂක බෝට්ටුවක ජලය හිඟ වූ විට කළ හැකි හොඳම සහ ආරක්ෂිතම ක්‍රමය වන්නේ වර්ෂා ජලය එකතු කර ගැනීමයි. මුහුදු ජලය පානය කිරීමෙන් සිරුරේ ඇති ජලය තවදුරටත් ඉවත් වී ඉක්මනින් මිය යාමට ඉඩ ඇති බැවින් එය කිසිසේත් නොකළ යුතුය. එසේම මුත්‍රා පානය කිරීමද සිරුරට විෂ සහිත විය හැක. එබැවින් වැසි ජලය රැස් කිරීම ප්‍රධානම පිළියම වේ."
+    },
+    {
+        "category": "CES – Survival (Advanced)",
+        "index": 47,
+        "question": "The correct order of actions to be taken in a fire emergency, should be:",
+        "answers": [
+            "Evaluation of the situation, rescue and life-saving, confinement of fire, extinction, then feed back on the emergency.",
+            "Extinction, confinement of fire, feed back on the emergency, rescue and life-saving, then evaluation of the situation.",
+            "Extionction, evaluation of the situation, confinement of fire, rescue and life-saving.",
+            "Evaluation of the situation, confinement of fire, rescue and life-saving, extinction."
+        ],
+        "correct_answer": "Evaluation of the situation, rescue and life-saving, confinement of fire, extinction, then feed back on the emergency.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Survival (Advanced)",
+        "index": 48,
+        "question": "Give the meaning of the following symbol:",
+        "answers": [
+            "Rocket parachute flares.",
+            "Survival craft distress pyrotechnic signals.",
+            "Line throwing appliance.",
+            "Parachute landing area."
+        ],
+        "correct_answer": "Rocket parachute flares.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2024/07/para.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Survival (Advanced)",
+        "index": 49,
+        "question": "Which one of the given requirements regarding manning and supervision of survival craft corresponds to the SOLAS regulation?",
+        "answers": [
+            "A deck officer or certificated person shall be placed in charge of each survival craft to be used.",
+            "There shall be at least 5 trained persons on board, mustering and assisting untrained persons.",
+            "Every lifeboat required to carry radio telegraph installation shall have a deck officer capable of operating the equipment assigned.",
+            "Every motorised survival craft shall have a certificated engineer assigned."
+        ],
+        "correct_answer": "A deck officer or certificated person shall be placed in charge of each survival craft to be used.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Survival (Advanced)",
+        "index": 50,
+        "question": "What is the meaning of this symbol?",
+        "answers": [
+            "Lower lifeboat to water.",
+            "Release gripes.",
+            "Lower liferaft to water.",
+            "Lower rescue boat to water."
+        ],
+        "correct_answer": "Lower lifeboat to water.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2024/07/lower.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Survival (Advanced)",
+        "index": 51,
+        "question": "How often shall crew members participate in fire drills?",
+        "answers": [
+            "Once every month.",
+            "Once every 6 months.",
+            "Once every week.",
+            "Once every year."
+        ],
+        "correct_answer": "Once every month.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Survival (Advanced)",
+        "index": 52,
+        "question": "Who is the leader of the lifeboat drill (abandon ship drill)?",
+        "answers": [
+            "The appointed lifeboat commander.",
+            "Sen. Off. Deck.",
+            "Sen. Off. Engine.",
+            "The first member of the crew arriving at the survival craft."
+        ],
+        "correct_answer": "The appointed lifeboat commander.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Survival (Advanced)",
+        "index": 53,
+        "question": "What vessels must have automatic fire detection onboard with heat/smoke detectors and audible alarm?",
+        "answers": [
+            "All ships that are covered by the IMO safety conventions.",
+            "All ships that are built on or after 1986 in accordance with local rules and regulations.",
+            "All ships that are built after 1986.",
+            "It is the owners option to have fire detection onboard."
+        ],
+        "correct_answer": "All ships that are covered by the IMO safety conventions.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Survival (Advanced)",
+        "index": 54,
+        "question": "What is the inherent danger in the use of halon to extinguish an extensive fire?",
+        "answers": [
+            "Development of toxic gases.",
+            "Depletion of oxygen in the air.",
+            "Depletion of the ozone layer.",
+            "Development of explosive gases."
+        ],
+        "correct_answer": "Development of toxic gases.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Survival (Advanced)",
+        "index": 55,
+        "question": "Which of the following items shall be included in an “abandon ship”-drill?",
+        "answers": [
+            "Checking that passengers and crew are suitably dressed and lifejackets correctly donned.",
+            "Checking the distress signal rockets and other distress signals.",
+            "Checking that all crew and passenger moral is high.",
+            "Checking the lifeboat provisions and supplies."
+        ],
+        "correct_answer": "Checking that passengers and crew are suitably dressed and lifejackets correctly donned.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Survival (Advanced)",
+        "index": 56,
+        "question": "What is the expansion ratio of the foam produced by the fixed low-expansion foam fire-extinguishing system of an engine room?",
+        "answers": [
+            "Less than 12 to 1.",
+            "Less than 20 to 1.",
+            "Less than 5 to 1.",
+            "Greater than 20 to 1 but less than 50 to 1."
+        ],
+        "correct_answer": "Less than 12 to 1.",
+        "images": [],
+        "explanation": "එන්ජින් රූම් එකක ඇති ස්ථාවර අඩු ප්‍රසාරණ ෆෝම් (low-expansion foam) පද්ධතියක ප්‍රසාරණ අනුපාතය සාමාන්‍යයෙන් 12:1 ට වඩා අඩු විය යුතුය. මෙහි අදහස් වන්නේ ෆෝම් දියරය වාතය සමඟ මිශ්‍ර වී සෑදෙන පෙනෙහි පරිමාව මුල් දියරයට වඩා 12 ගුණයකට වඩා අඩුවෙන් වැඩි වන බවයි. මෙම අඩු ප්‍රසාරණ ෆෝම් තෙල් ගිනි නිවීම සඳහා වඩාත් සුදුසු වන්නේ එය බරින් වැඩි නිසා ගින්න මත හොඳින් තැන්පත් වන බැවිනි."
+    },
+    {
+        "category": "CES – Survival (Advanced)",
+        "index": 57,
+        "question": "What is the maximum allowed suction head for fire pumps? (SOLAS II-2/4.3.3.2.5).",
+        "answers": [
+            "4,5 metres.",
+            "9 metres.",
+            "1,5 metres.",
+            "3 metres."
+        ],
+        "correct_answer": "4,5 metres.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Survival (Advanced)",
+        "index": 58,
+        "question": "On-board training in the use of davit-launched liferafts (including inflation and lowering whenever practicable) must take place:",
+        "answers": [
+            "Every 4 months.",
+            "Every 3 months.",
+            "Every 2 months.",
+            "Every month."
+        ],
+        "correct_answer": "Every 4 months.",
+        "images": [],
+        "explanation": ""
+    }
+]

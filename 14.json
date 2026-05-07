@@ -1,0 +1,424 @@
+[
+    {
+        "category": "CES – Engine, Ratings",
+        "index": 1,
+        "question": "In which areas is plastic material accepted for overboard disposal?",
+        "answers": [
+            "In specially designated areas (ref. MARPOL).",
+            "In coastal waters.",
+            "100 n. m. from shore line.",
+            "Not permissible anywhere."
+        ],
+        "correct_answer": "Not permissible anywhere.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Ratings",
+        "index": 2,
+        "question": "Where on board can you find information regarding the different types of safety equipment, such as location, quantity, etc.?",
+        "answers": [
+            "The ship’s safety plan.",
+            "Stated in your cabin.",
+            "In cargo control room.",
+            "In the deck log book."
+        ],
+        "correct_answer": "The ship’s safety plan.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Ratings",
+        "index": 3,
+        "question": "What rules and regulations are regulating the watch keeping routines in the engine room?",
+        "answers": [
+            "SOLAS.",
+            "Both STCW and Class rules.",
+            "Class Rules.",
+            "International Standard for Training and Watch keeping (STCW)."
+        ],
+        "correct_answer": "Both STCW and Class rules.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Ratings",
+        "index": 4,
+        "question": "What kind of warning signs should be placed on manholes into void spaces?",
+        "answers": [
+            "Warning signs that indicate lack of oxygen inside.",
+            "Breathing apparatus mandatory sign.",
+            "No smoking signs.",
+            "Danger of explosion signs."
+        ],
+        "correct_answer": "Warning signs that indicate lack of oxygen inside.",
+        "images": [],
+        "explanation": "Void spaces වැනි සංවෘත ස්ථාන (Enclosed spaces) දීර්ඝ කාලයක් වසා තැබීම නිසා ඒවායේ ඔක්සිජන් හිඟයක් (Lack of oxygen) පවතින බවට අනතුරු ඇඟවීමේ පුවරු ප්‍රදර්ශනය කළ යුතුය. වාතාශ්‍රය නොමැති වීම නිසා ලෝහ මලබැඳීමේ ක්‍රියාවලියෙන් ඔක්සිජන් වැයවීම හෝ විෂ වායු පිරීම සිදු විය හැකිය. ලිස්සා යාම වැනි අනතුරු වලට වඩා මෙහි ඇති ප්‍රධානතම මාරාන්තික අනතුර වන්නේ හුස්ම ගැනීමට අවශ්‍ය ඔක්සිජන් නොමැති වීමයි."
+    },
+    {
+        "category": "CES – Engine, Ratings",
+        "index": 5,
+        "question": "Why may wearing sweat rags slung round your neck when working in the machinery spaces be hazardous?",
+        "answers": [
+            "The rags may cause sweat rash.",
+            "The rags may cause you to get too hot and faint.",
+            "The rags may be caught by running machinery or power tools.",
+            "The rags may be soaked with oil and catch fire."
+        ],
+        "correct_answer": "The rags may be caught by running machinery or power tools.",
+        "images": [],
+        "explanation": "යන්ත්‍ර කාමරවල වැඩ කරන විට බෙල්ලේ රෙදි කැබලි (Sweat rags) දමාගෙන සිටීම ඉතා අනතුරුදායකය. කැරකෙන පතුවළවල් (Rotating shafts), බෙල්ට් හෝ පවර් ටූල්ස් වල මෙම රෙදි පැටලීමෙන් බරපතල ශරීර හානි හෝ මරණය පවා සිදු විය හැක. අනෙක් විකල්ප වැරදි වන්නේ මෙහි ඇති ප්‍රධානතම අවදානම වන්නේ සෞඛ්‍ය ගැටලුවකට වඩා යන්ත්‍රෝපකරණ වල පැටලීමෙන් සිදුවන අනතුරයි."
+    },
+    {
+        "category": "CES – Engine, Ratings",
+        "index": 6,
+        "question": "For which of the following ships, is the MARPOL convention applicable?",
+        "answers": [
+            "For all listed vessels.",
+            "For all vessels except those engaged in coastal trade.",
+            "For tankers and other vessels carrying persistent oil as cargo.",
+            "For all vessels except passenger vessels."
+        ],
+        "correct_answer": "For all listed vessels.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Ratings",
+        "index": 7,
+        "question": "Noise level called “the injurious area” starts at:",
+        "answers": [
+            "50 dB.",
+            "100 dB.",
+            "400 dB.",
+            "1 283 dB."
+        ],
+        "correct_answer": "100 dB.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Ratings",
+        "index": 8,
+        "question": "During loading of oil, you notice oil on the water near your vessel. What should you do first?",
+        "answers": [
+            "Stop loading.",
+            "Notify the terminal.",
+            "Search the vessel for leaks.",
+            "Notify the Coast Guard."
+        ],
+        "correct_answer": "Stop loading.",
+        "images": [],
+        "explanation": "තෙල් පටවන අතරතුර නෞකාව අසල ජලයේ තෙල් පවතින බව දුටු සැණින් ගත යුතු මූලික ක්‍රියාමාර්ගය වන්නේ තෙල් පැටවීම වහාම නැවැත්වීමයි (Stop loading). මෙය තවදුරටත් කාන්දුවීම වැළැක්වීමට සහ පරිසර හානිය අවම කිරීමට ගත හැකි ප්‍රමුඛතම පියවරයි. පැටවීම නතර නොකර කාන්දුව පරීක්ෂා කිරීම හෝ පාලක මැදිරියට දැනුම් දීම පමණක් සිදු කිරීම ප්‍රමාණවත් නොවේ, මන්ද ඒ අතරතුර විශාල තෙල් ප්‍රමාණයක් ජලයට එක්විය හැකි බැවිනි. පැටවීම නැවැත්වීමෙන් පසු අනෙකුත් සියලුම හදිසි පියවර (දැනුම් දීම, කාන්දුව හඳුනා ගැනීම, පිරිසිදු කිරීම) සිදු කළ යුතුය."
+    },
+    {
+        "category": "CES – Engine, Ratings",
+        "index": 9,
+        "question": "On a UMS vessel gas welding operations in the work shop are to be stopped for a lunch break. Which of the following actions should be carried out prior to taking the break?",
+        "answers": [
+            "The main supply valves in the deck storage are closed and checks made that no fire risk exists prior to switching on the fire alarm system and going to UMS-mode.",
+            "One of the ratings is left “on watch” during the lunch break.",
+            "The local acetylene/oxygen valve in the work shop is closed prior to switching to UMS-mode.",
+            "No precautions are necessary for a short break in operations."
+        ],
+        "correct_answer": "The main supply valves in the deck storage are closed and checks made that no fire risk exists prior to switching on the fire alarm system and going to UMS-mode.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Ratings",
+        "index": 10,
+        "question": "What is the meaning of this symbol?",
+        "answers": [
+            "Liferaft.",
+            "Lifeboat.",
+            "Davit-launched liferaft.",
+            "Rescue boat."
+        ],
+        "correct_answer": "Lifeboat.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2025/08/boat.png"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Ratings",
+        "index": 11,
+        "question": "In safety terms, what is an “interlock”?",
+        "answers": [
+            "A device which prevents an operation of equipment to take place, to allow access or maintenance to be carried out.",
+            "An electrical switch which is locked when not in use.",
+            "An alarm fitted to the freezers when someone is inside.",
+            "A device for string containers on deck."
+        ],
+        "correct_answer": "A device which prevents an operation of equipment to take place, to allow access or maintenance to be carried out.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Ratings",
+        "index": 12,
+        "question": "Onboard training should be organised in such a way that:",
+        "answers": [
+            "It is an integral part of the overall training plan.",
+            "Each crew member is trained individually.",
+            "It does not contravene with the rest hours of the crew.",
+            "None of the above."
+        ],
+        "correct_answer": "It is an integral part of the overall training plan.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Ratings",
+        "index": 13,
+        "question": "What signal, if any, is specified in SOLAS as the “Abandon ship” signal?",
+        "answers": [
+            "Six short blasts followed by one long blast.",
+            "Four long blasts.",
+            "The “Abandon ship” signal is not specified, only the general emergency alarm signal is tated.",
+            "Seven short blasts followed by one long blast."
+        ],
+        "correct_answer": "The “Abandon ship” signal is not specified, only the general emergency alarm signal is tated.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Ratings",
+        "index": 14,
+        "question": "Why do diesel engine manufacturers usually recommend that all of the gaskets are renewed when refitting a cylinder cover?",
+        "answers": [
+            "To minimise risk of gas leakage and ensure correct clearance between piston and cylinder cover.",
+            "To avoid the need to clean the sealing faces.",
+            "It will guarantee a good seal even if the sealing faces are damaged.",
+            "To increase the consumption of parts so they can make more money."
+        ],
+        "correct_answer": "To minimise risk of gas leakage and ensure correct clearance between piston and cylinder cover.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Ratings",
+        "index": 15,
+        "question": "During maintenance work in the engine room or on deck itis often necessary to work aloft (work at a eight above the plates or the deck). When working aloft onboard the ship what is the most important safety precaution that should be taken?",
+        "answers": [
+            "Lash the bottom of the ladder to a fixed point.",
+            "Wear a safety helmet and goggles.",
+            "Wear a safety harness securely attached to ship’s structure.",
+            "Keep all the tools required for the work in a bucket."
+        ],
+        "correct_answer": "Wear a safety harness securely attached to ship’s structure.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Ratings",
+        "index": 16,
+        "question": "Sounding pipes in the engine room are normally fitted with deadweight cocks and screw caps. Which of the following statements is correct?",
+        "answers": [
+            "Caps and cocks should be closed at all times, except when sounding tanks, to prevent ingress of water or oil into the engine room in case of tank bottom damage or overflow.",
+            "Caps should be placed on top of sounding pipes to keep the engine room tidy.",
+            "Deadweight cocks should be fastened in the open position to save time when sounding the tanks.",
+            "It does not matter where the cocks/caps are unless the tank is in use."
+        ],
+        "correct_answer": "Caps and cocks should be closed at all times, except when sounding tanks, to prevent ingress of water or oil into the engine room in case of tank bottom damage or overflow.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Ratings",
+        "index": 17,
+        "question": "What is the disadvantage of using chemicals on an oil-spill on the water?",
+        "answers": [
+            "It is difficult to apply the chemicals if the oil drifts away from the ship’s side.",
+            "It is difficult to apply chemicals if there is any wind.",
+            "The chemicals make it difficult to remove the oil from the water.",
+            "The water gets a white colour, which makes it easy to detect the oil-spill."
+        ],
+        "correct_answer": "The chemicals make it difficult to remove the oil from the water.",
+        "images": [],
+        "explanation": "මුහුදට තෙල් කාන්දු වූ විට රසායනික ද්‍රව්‍ය (Dispersants) භාවිතා කිරීමේ ප්‍රධාන අවාසිය නම්, එමගින් තෙල් ජලය සමඟ මිශ්‍ර කර (emulsify) ජල තීරයට මුදා හැරීමයි. එවිට යාන්ත්‍රික ක්‍රම (Skimmers) මගින් තෙල් මතුපිටින් ඉවත් කිරීම අතිශය දුෂ්කර හෝ කළ නොහැකි දෙයක් බවට පත් වේ. රසායනික ද්‍රව්‍ය මගින් තෙල් ඉවත් නොකරන අතර එය තට්ටුවක් ලෙස පැවතීම පමණක් වලක්වයි. මෙය මුහුදු ජීවීන්ටද අහිතකර බලපෑම් ඇති කළ හැකි නමුත් තාක්ෂණිකව ප්‍රධාන ගැටලුව වන්නේ පිරිසිදු කිරීමේ අපහසුවයි."
+    },
+    {
+        "category": "CES – Engine, Ratings",
+        "index": 18,
+        "question": "Spray painting has been carried out in the engine room while the engine was running, and the turbocharger intake filter was not protected. Which Jone of the options given is most likely to result from this?",
+        "answers": [
+            "Scavenge air pressure lower than normal.",
+            "Exhaust gas temperatures lower than normal.",
+            "The revolution of the turbocharger lower than normal.",
+            "Scavenging air pressure is higher than normal."
+        ],
+        "correct_answer": "Scavenge air pressure lower than normal.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Ratings",
+        "index": 19,
+        "question": "An alarm signal consisting of seven short blasts followed by one long blast is sounded by the ship’s whistle and the alarm bells. What are you to do?",
+        "answers": [
+            "Go to (or remain in) your cabin and wait for further orders.",
+            "Report on the bridge (deck crew) or engine control room (engine crew) for further orders.",
+            "Go to your fire station.",
+            "Go to your lifeboat station (muster station)."
+        ],
+        "correct_answer": "Go to your lifeboat station (muster station).",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Ratings",
+        "index": 20,
+        "question": "For which ships is the SOLAS convention applicable?",
+        "answers": [
+            "For all vessels.",
+            "For all vessels except passenger vessels.",
+            "For tankers and other vessels carrying persistent oil as cargo.",
+            "For passenger vessels only."
+        ],
+        "correct_answer": "For all vessels.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Ratings",
+        "index": 21,
+        "question": "During maintenance work on a fuel tank the engine room ratings are removing scale in preparation for re-coating. One of the ratings suddenly notices the smell of fumes even though the atmosphere had been satisfactorily tested before the work started. What action should the ratings take?",
+        "answers": [
+            "Put on breathing apparatus and carry on with the task.",
+            "Ask for another fan to be switched on to increase the ventilation in the tank.",
+            "Leave the tank immediately and have the atmosphere retested.",
+            "Stop work until the smell disappears and then carry on removing the scale."
+        ],
+        "correct_answer": "Leave the tank immediately and have the atmosphere retested.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Ratings",
+        "index": 22,
+        "question": "If pollution takes place, what would you do immediately?",
+        "answers": [
+            "Report to relevant authorities.",
+            "Start clean-up operations.",
+            "Inform the vessel’s agent.",
+            "Inform the manager."
+        ],
+        "correct_answer": "Report to relevant authorities.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Ratings",
+        "index": 23,
+        "question": "Read the text and answer the question: It is recommended that every prospective seafarer should, before being employed in a sea-going ship, receive proper training in personal survival techniques. In respect of such training several recommendations are made. To whom should training in personal survival techniques be given?",
+        "answers": [
+            "To deck hands mainly.",
+            "To officers only.",
+            "To all ratings.",
+            "To all seafarers."
+        ],
+        "correct_answer": "To all seafarers.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Ratings",
+        "index": 24,
+        "question": "During abandon ship exercise, what life-saving equipment must be demonstrated?",
+        "answers": [
+            "Wearing and fastening of lifejackets and associated equipment.",
+            "Locaton of immersion suits and thermal protective aids.",
+            "How to communicate using the hand-held radios.",
+            "Lifeboat radio."
+        ],
+        "correct_answer": "Wearing and fastening of lifejackets and associated equipment.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Ratings",
+        "index": 25,
+        "question": "Why should engine and boiler rooms be kept clean and any oil spillage cleaned up immediately?",
+        "answers": [
+            "To reduce risk of fire and the risk of slipping.",
+            "To reduce the premium to be paid to the insurance company.",
+            "To prevent oil spillage from damaging deck paint coatings.",
+            "To avoid being fined by the port state control."
+        ],
+        "correct_answer": "To reduce risk of fire and the risk of slipping.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Ratings",
+        "index": 26,
+        "question": "It is the Master’s responsibility to ensure that:",
+        "answers": [
+            "Concerned personnel carry out the on-board training programme effectively.",
+            "All information regarding the onboard training is given to the ship manager.",
+            "Safety equipment is not used during the training.",
+            "All personnel participate in the training at the same time."
+        ],
+        "correct_answer": "All personnel participate in the training at the same time.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Ratings",
+        "index": 27,
+        "question": "What IMO conventions take care of the human safety at sea?",
+        "answers": [
+            "It is the SOLAS conventions that take care of the human safety at sea.",
+            "There isn’t any conventions that take care of the human safety at sea.",
+            "It is the MARPOL conventions that take care of the human safety at sea.",
+            "It is the STCW 78/95 that take care of the human safety at sea."
+        ],
+        "correct_answer": "It is the SOLAS conventions that take care of the human safety at sea.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Ratings",
+        "index": 28,
+        "question": "A spare cylinder head for the generator needs to be lifted from its storage cradle to the generator flat. Because of its location the engine room crane cannot be positioned directly above it. What method should be used to bring the cylinder head into position?",
+        "answers": [
+            "Rig chain blocks to lift the cylinder head from its cradle and then transfer it gradually over to the crane hook by working the chain blocks.",
+            "Use a block and tackle to drag the head across to a position beneath the crane.",
+            "Use crow bars to lever the cylinder cover across the deck until itis in pos ion below the crane.",
+            "Attach the crane hook to the lifting gear for the cylinder head and drag it across the deck until it is directly under the crane."
+        ],
+        "correct_answer": "Rig chain blocks to lift the cylinder head from its cradle and then transfer it gradually over to the crane hook by working the chain blocks.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Ratings",
+        "index": 29,
+        "question": "When must personal protective equipment be worn?",
+        "answers": [
+            "Only on deck.",
+            "Only in the engine room.",
+            "When making the vessel fast.",
+            "At all times when identified as a control method with risk assessment."
+        ],
+        "correct_answer": "At all times when identified as a control method with risk assessment.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Ratings",
+        "index": 30,
+        "question": "What is the correct lifting technique?",
+        "answers": [
+            "Legs straight, back bent and twisted to the right or to the left while lifting.",
+            "Legs bent, back bent, using both back and leg muscles to lift.",
+            "Legs straight, back bent, using back muscles to lift.",
+            "Legs bent, back straight, using leg muscles to lift."
+        ],
+        "correct_answer": "Legs straight, back bent and twisted to the right or to the left while lifting.",
+        "images": [],
+        "explanation": ""
+    }
+]

@@ -1,0 +1,1921 @@
+[
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 1,
+        "question": "A burn may occur when electricity of high current and voltage passes through the body. Most damage occurs at the points of entry and exit of electricity. What is the treatment for electrical burns?",
+        "answers": [
+            "Place sterile dressing over the burn and secure with a bandage.",
+            "Break blisters and secure with bandages.",
+            "Apply lotion and ointment to injured area and secure with a bandage.",
+            "Remove loose skin and apply oinment. Don’t secure with bandage."
+        ],
+        "correct_answer": "Place sterile dressing over the burn and secure with a bandage.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 2,
+        "question": "What activity will have the greatest fire fighting effect in case of a fire?",
+        "answers": [
+            "Extinguishing attempt is started immediately.",
+            "Call the Chief Officer.",
+            "All fire fighting teams are organized as soon as possible.",
+            "All possible fire fighting equipment is brought to the scene."
+        ],
+        "correct_answer": "Extinguishing attempt is started immediately.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 3,
+        "question": "What is hypothermia and how is it cured?",
+        "answers": [
+            "Body temperature below 35 °C/Heat the body.",
+            "Body temperature below 23 °C/Heat the body.",
+            "Body temperature below 39 °C/Heat the body.",
+            "Heavy coughing/medication."
+        ],
+        "correct_answer": "Body temperature below 35 °C/Heat the body.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 4,
+        "question": "The passage of electrical current through the body may result in severe and sometimes fatal injuries. You are witness to a man getting electric current through his body and is stuck to the dangerous area. It is impossible to switch off the current by any main switch. How can you break the current safely?",
+        "answers": [
+            "Stand on dry insulating material and pull the person away with insulating material.",
+            "Call the electrician immediately.",
+            "Just take the casualty in your arms and pull the person away.",
+            "Apply oil on your hands and cut the cords by the uyse of any metallic pliers."
+        ],
+        "correct_answer": "Stand on dry insulating material and pull the person away with insulating material.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 5,
+        "question": "Who is the leader of the lifeboat drill (abandon ship drill)?",
+        "answers": [
+            "The appointed lifeboat commander.",
+            "Senior deck officer.",
+            "Senior engine officer.",
+            "The first member of the crew arriving at the survival craft."
+        ],
+        "correct_answer": "The appointed lifeboat commander.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 6,
+        "question": "Which position is the best to stop bleeding from the nose?",
+        "answers": [
+            "Sitting on a chair, leaning forward with two fingers pressing the nose together.",
+            "Laying on the back, holding a wet cold towel on top of the nose.",
+            "Sitting with your head down, holding the nose tightly.",
+            "Laying on the back, leaning the head as much as possible."
+        ],
+        "correct_answer": "Sitting on a chair, leaning forward with two fingers pressing the nose together.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 7,
+        "question": "Anyone of the crew who is assigned to watch duties in ports has a number of important tasks to carry out. Which one of the listed tasks has to be included in the watchman’s duties?",
+        "answers": [
+            "Checking the moorings for tightness/slack.",
+            "Checking the safe and secure handling of cargo.",
+            "Checking the number of persons entering/leaving the vessel.",
+            "Checking the trim of the vessel."
+        ],
+        "correct_answer": "Checking the moorings for tightness/slack.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 8,
+        "question": "Unconscious casualties who are breathing and whose hearts are beating should be placed in the recovery position. Why is this position so important?",
+        "answers": [
+            "The position ensures that an open airway is maintained.",
+            "Because it keeps the heart beating.",
+            "The recovery position makes it easy to maintain any kind of bleeding.",
+            "The position prevents the patient from falling asleep."
+        ],
+        "correct_answer": "The position ensures that an open airway is maintained.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 9,
+        "question": "How many rocket parachute flares are carried in each lifeboat?",
+        "answers": [
+            "4.",
+            "6.",
+            "12.",
+            "Nil."
+        ],
+        "correct_answer": "4.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 10,
+        "question": "If mouth-to-mouth (M-T-M) ventilation by itself is unsuccessful and the casualty’s heart stops or has stopped beating, you must perform external chest compression (ECC) in conjunction with M-T-M. What is the complete rate when performing ECC?",
+        "answers": [
+            "Complete 15 compressions at the rate of 80 compressions per minute.",
+            "Complete 10 compressions at the rate of 40 compressions per minute.",
+            "Complete 20 compressions at the rate of 60 compressions per minute.",
+            "Complete 25 compressions at the rate of 75 compressions per minute."
+        ],
+        "correct_answer": "Complete 15 compressions at the rate of 80 compressions per minute.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 11,
+        "question": "What is the general emergency alarm signal to be sounded by the ship’s whistle and alarm bells in case of an emergency situation?",
+        "answers": [
+            "Seven short blasts followed by one prolonged blast.",
+            "Series of long blasts.",
+            "Series of short blasts.",
+            "Only one long blast."
+        ],
+        "correct_answer": "Seven short blasts followed by one prolonged blast.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 12,
+        "question": "When you join a new ship, how are you informed about safety rules, alarm instructions and your own duties in case of an emergency?",
+        "answers": [
+            "By muster lists exhibited in conspicuous places.",
+            "By oral instructions by the captain.",
+            "By folder distributed to each crew member.",
+            "By alarm instructions in all crew cabins."
+        ],
+        "correct_answer": "By muster lists exhibited in conspicuous places.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 13,
+        "question": "What is the absolutely main purpose of fighting a fire onboard?",
+        "answers": [
+            "Rescuing of life.",
+            "To limit the fire.",
+            "Try to put out the fire.",
+            "To put out the fire."
+        ],
+        "correct_answer": "Rescuing of life.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 14,
+        "question": "What shall you do if you see a person falling into the sea?",
+        "answers": [
+            "Throw a lifebuoy overboard and report to the bridge immediately.",
+            "Put on a lifejacket.",
+            "Run aft.",
+            "Launch a lifeboat."
+        ],
+        "correct_answer": "Throw a lifebuoy overboard and report to the bridge immediately.",
+        "images": [],
+        "explanation": "පුද්ගලයෙකු මුහුදට වැටෙනු දුටු සැනින් කළ යුතු පළමු සහ වැදගත්ම කාර්යය වන්නේ ඔහුට පාවී සිටීම සඳහා ජීවිතාරක්ෂක බෝයාවක් (lifebuoy) මුහුදට දැමීම සහ වහාම නැවේ පාලන මැදිරියට (bridge) ඒ පිළිබඳව දැනුම් දීමයි. එවිට නැව හැරවීමට (maneuvering) සහ ගලවා ගැනීමේ මෙහෙයුම් ආරම්භ කිරීමට හැකි වේ. තනිවම බේරා ගැනීමට උත්සාහ කිරීම හෝ එන්ජින් රූම් එකට පමණක් දැනුම් දීම වැනි ක්‍රියාමාර්ග ප්‍රමාදයට හේතු වන බැවින් ඒවා වැරදි වේ."
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 15,
+        "question": "In a distress situation, how many times or for how long should the emergency alarm signal be sounded?",
+        "answers": [
+            "Until all crew members and passengers have reported to their respect muster stations.",
+            "3 minutes.",
+            "3 times.",
+            "Until the signal “risk is over” or the order abandon ship is given."
+        ],
+        "correct_answer": "Until all crew members and passengers have reported to their respect muster stations.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 16,
+        "question": "How often shall each member of the crew participate in an abandon ship drill?",
+        "answers": [
+            "Once every month.",
+            "Once every week.",
+            "Once a year.",
+            "Once every 6 months."
+        ],
+        "correct_answer": "Once every month.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 17,
+        "question": "The muster list shall show the duties assigned to the different members of the crew. Which of the given duties do not necessarily have to be included in the muster list?",
+        "answers": [
+            "Clearing escape routes.",
+            "Preparation and launching of survival crafts.",
+            "Muster of passengers.",
+            "Manning of fire parties assigned to deal with fires."
+        ],
+        "correct_answer": "Clearing escape routes.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 18,
+        "question": "Which of the equipment listed is not included in the fireman’s personal equipment? (SOLAS II-2/17.1.1).",
+        "answers": [
+            "Leather safety boots and gloves.",
+            "An axe.",
+            "An electric safety lamp.",
+            "Protective clothing."
+        ],
+        "correct_answer": "Leather safety boots and gloves.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 19,
+        "question": "In which way make intake of poisonous material occur?",
+        "answers": [
+            "All mentioned.",
+            "By inhalation.",
+            "Swallowing.",
+            "Skin penetration and skin absorption."
+        ],
+        "correct_answer": "All mentioned.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 20,
+        "question": "If you have to carry out hot work close to a smoke detector in the engine room, what precautions should be taken?",
+        "answers": [
+            "Notify master, deck officer and engineers in charge. The loop for this special senseor to be switched off and take normal precautions for hot work.",
+            "Disconnect the smoke detector.",
+            "No special precautions except for having a watchman and a fire extinguisher available.",
+            "Notify Deck officer in charge that a fire alarm may occur."
+        ],
+        "correct_answer": "Notify master, deck officer and engineers in charge. The loop for this special senseor to be switched off and take normal precautions for hot work.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 21,
+        "question": "In case of a fire inside the acetylene-line in the AC/OX gas welding equipment, what action is deemed necessary?",
+        "answers": [
+            "Close the valves on both acetylene and the oxygen bottles.",
+            "Close acetylene valve in the workshop.",
+            "Close oxygen valve.",
+            "Close valves on acetylene bottle(s)."
+        ],
+        "correct_answer": "Close the valves on both acetylene and the oxygen bottles.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 22,
+        "question": "Which one of the listed fire extinguishing medium is most effective against an open oil fire?",
+        "answers": [
+            "Foam.",
+            "Powder.",
+            "Water.",
+            "Gas."
+        ],
+        "correct_answer": "Foam.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 23,
+        "question": "Having a CO2 alarm during normal working hours, what immediate action should be taken?",
+        "answers": [
+            "Get out of the engine room as soon as possible.",
+            "Get into the control room.",
+            "Awaiting further order.",
+            "Ignore the alarm."
+        ],
+        "correct_answer": "Get out of the engine room as soon as possible.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 24,
+        "question": "What kind of safety protection is to be weared during a mooring operation?",
+        "answers": [
+            "Helmet, safety shoes, gloves and protecting cloths.",
+            "No particular protection necessary.",
+            "Safety shoes and boiler suit.",
+            "Gloves and helmet."
+        ],
+        "correct_answer": "Helmet, safety shoes, gloves and protecting cloths.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 25,
+        "question": "In the event of a fire situation, which of the following actions is the first to be taken?",
+        "answers": [
+            "Raise fire alarm.",
+            "Try to kill the fire immediately by use of fire extinguishers or other adequate appliances.",
+            "Call the officer on duty.",
+            "Check all nearby compartments for survivors."
+        ],
+        "correct_answer": "Raise fire alarm.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 26,
+        "question": "An alarm signal consisting of seven short blasts followed by one prolonged blast is sounded by the ship’s whistle and alarm bells. What are you to do?",
+        "answers": [
+            "Go to your lifeboat station.",
+            "Go to the fire station.",
+            "Go to (or remain in) your cabin and await further orders.",
+            "Report on the bridge (Deck crew) or engine room (Engine crew) for further orders."
+        ],
+        "correct_answer": "Go to your lifeboat station.",
+        "images": [],
+        "explanation": "නැවක සයිරන් එකෙන් සහ සීනු මගින් කෙටි නාද හතක් සහ දිගු නාද එකක් නිකුත් කිරීමෙන් සංඥා කරන්නේ පොදු හදිසි අවස්ථාවකි (General Emergency Alarm). මෙවැනි අවස්ථාවකදී ඔබ වහාම ඔබගේ Muster station එකට හෝ Lifeboat station එකට වාර්තා කළ යුතුය. මෙය නැව අත්හැර යාමට දෙන නියෝගයක් නොවන අතර, එන්ජින් රූම් එකට යාම හෝ පාලම් පුවරුවට (bridge) යාම මෙවැනි අවස්ථාවක නියමිත පිළිවෙත නොවේ."
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 27,
+        "question": "Where can you find out if you belong to the forward mooring gang or the aft mooring gang?",
+        "answers": [
+            "Posted on the notice board onboard.",
+            "Deck crew forward and engine crew aft.",
+            "Being distributed for each port.",
+            "Alarm instruction onboard."
+        ],
+        "correct_answer": "Posted on the notice board onboard.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 28,
+        "question": "To get the best possible efficiency from refrigerator evaporators, the superheat should be regulated to:",
+        "answers": [
+            "5-10 °C.",
+            "40-50 °C.",
+            "25-30 °C.",
+            "0-1 °C."
+        ],
+        "correct_answer": "5-10 °C.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 29,
+        "question": "In a two stage compressor, you will find pistons with different diameters (one is bigger than the other). Which one of the following statement is correct?",
+        "answers": [
+            "The smallest diameter piston is the stage two piston.",
+            "A big piston will deliver dryer air into stage one.",
+            "A big piston will give less oil content in the air.",
+            "The biggest diameter piston is the stage two piston."
+        ],
+        "correct_answer": "The smallest diameter piston is the stage two piston.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 30,
+        "question": "Why is the maximum pressure in a plate heat exchanger usually limited to about 10 bar?",
+        "answers": [
+            "Difficult to seal plates above this pressure.",
+            "Possibility of rupturing the plates.",
+            "Pump capacity.",
+            "All the above alternatives."
+        ],
+        "correct_answer": "Difficult to seal plates above this pressure.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 31,
+        "question": "Does liquid turbulence improve the efficiency of a plate heat exchanger?",
+        "answers": [
+            "Yes.",
+            "No.",
+            "Turbulence is not possible in a plate heat exchanger.",
+            "Makes no difference."
+        ],
+        "correct_answer": "Yes.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 32,
+        "question": "What is the purpose of the corrugations on a plate heat exchanger?",
+        "answers": [
+            "All of the above.",
+            "Stiffening on the thin metal sheet.",
+            "To increase turbulence in the liquid.",
+            "To increase the surface area."
+        ],
+        "correct_answer": "All of the above.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 33,
+        "question": "What is the reason for too rising cooling water temperature at outlet of individual cylinders?",
+        "answers": [
+            "Cooling water spaces insufficiently vented.",
+            "Compression pressure too low.",
+            "Overload of the engine.",
+            "Fuel pressure of fuel booster pump too high."
+        ],
+        "correct_answer": "Cooling water spaces insufficiently vented.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 34,
+        "question": "Which of the following is true when comparing plate type with shell and tube type heat exchangers?",
+        "answers": [
+            "All of the above.",
+            "The capacity can easily be changed.",
+            "Physically smaller for the same capacity.",
+            "Better sealing between liquids in shell and tube."
+        ],
+        "correct_answer": "All of the above.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 35,
+        "question": "Water hammer is a short lasting pressure peak traveling along the pipe. How can it be avoided in a cooling water system?",
+        "answers": [
+            "Operate valves gradually.",
+            "Start the system with open valves and empty pipes.",
+            "Start pump with closed valves.",
+            "Operate valves quickly."
+        ],
+        "correct_answer": "Operate valves gradually.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 36,
+        "question": "After obtaining permission from the duty deck officer, under what conditions would the process of soot blowing the boiler tubes be most beneficial?",
+        "answers": [
+            "When the boiler is firing on high rate.",
+            "When the boiler is firing on medium rate.",
+            "When the boiler is firing on low rate.",
+            "When the boiler is standing idle."
+        ],
+        "correct_answer": "When the boiler is firing on high rate.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 37,
+        "question": "A water content greater than 2 % is detected in a lubricating oil system. What is the best action to do?",
+        "answers": [
+            "Segregate the oil in a separate tank for continuous purifying.",
+            "Boil out the water by increasing the temperature.",
+            "Continuous purifying the system with the oil pumps running.",
+            "It is no danger, until the water level reach 6-8 %."
+        ],
+        "correct_answer": "Segregate the oil in a separate tank for continuous purifying.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 38,
+        "question": "What is the purpose of hunting hear when referring to a hydraulic steering system?",
+        "answers": [
+            "Provides feedback to the pump control.",
+            "Limits the speed of the rudder movement.",
+            "To transmit hydraulic pressure.",
+            "To control hydraulic motor swash plate movement."
+        ],
+        "correct_answer": "Provides feedback to the pump control.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 39,
+        "question": "The two main types of refrigeration system evaporators are called?",
+        "answers": [
+            "Finned and tube.",
+            "Wet and dry.",
+            "Dry and flooded.",
+            "Short and extended."
+        ],
+        "correct_answer": "Finned and tube.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 40,
+        "question": "The indications of a faulty refrigeration compressor valve are:",
+        "answers": [
+            "Any of the alternatives.",
+            "Gradual or sudden decrease in capacity.",
+            "Continuous running.",
+            "Low head pressure, high suction pressure."
+        ],
+        "correct_answer": "Any of the alternatives.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 41,
+        "question": "What is the main advantage of plate heat exchangers?",
+        "answers": [
+            "More efficient and take up less space.",
+            "Easier to clean.",
+            "Cheaper to install.",
+            "Requires less maintenance."
+        ],
+        "correct_answer": "More efficient and take up less space.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 42,
+        "question": "The Disc type oil separator can usually separate water from oil when processing oils between which density ranges?",
+        "answers": [
+            "0,78 to 0,98.",
+            "0,84 to 0,945.",
+            "0,87 to 0,95.",
+            "0,845 to 0,965."
+        ],
+        "correct_answer": "0,78 to 0,98.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 43,
+        "question": "How is temperature controlled in a steam oil heater?",
+        "answers": [
+            "Steam outlet valve throttled.",
+            "Oil flow increased.",
+            "Steam supply pressure reduced.",
+            "Steam inlet valve throttled."
+        ],
+        "correct_answer": "Steam outlet valve throttled.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 44,
+        "question": "In a refrigeration system, a fluid that serves only as a heat carrier is called the:",
+        "answers": [
+            "Secondary refrigerant.",
+            "Vaporizing refrigerant.",
+            "Primary refrigerant.",
+            "Condensing refrigerant."
+        ],
+        "correct_answer": "Secondary refrigerant.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 45,
+        "question": "What liquid is present in the collecting point at the bottom of the evaporator?",
+        "answers": [
+            "Brine.",
+            "Freshwater.",
+            "Ejector water.",
+            "Sea water."
+        ],
+        "correct_answer": "Brine.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 46,
+        "question": "A receiver in a refrigeration system is used to:",
+        "answers": [
+            "Store the refrigerant.",
+            "Separate oil from the refrigerant.",
+            "Cool the hot gases.",
+            "Condense the refrigerant."
+        ],
+        "correct_answer": "Store the refrigerant.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 47,
+        "question": "What is the required salinity of the fresh water produced as drinking water onboard?",
+        "answers": [
+            "Below 7 ppm.",
+            "Below 20 ppm.",
+            "Below 50 ppm.",
+            "Below 2 ppm."
+        ],
+        "correct_answer": "Below 7 ppm.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 48,
+        "question": "What is the source of energy used to convert salt water into fresh water in the fresh water generator?",
+        "answers": [
+            "The waste heat from the main engine.",
+            "The ejector pump and sea water pump combined.",
+            "The vacuum and ejector pump.",
+            "The sea water pump supplying the evaporating water."
+        ],
+        "correct_answer": "The waste heat from the main engine.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 49,
+        "question": "If the fresh water generator is producing water with salinity of 5 ppm and is changed to produce water of 2 ppm, this is mainly achieved by:",
+        "answers": [
+            "Slowing down production by opening the vacuum breaker valve.",
+            "Throttling sea water feed supply to the evaporator.",
+            "Decreasing production by lowering fresh water supply from main engine.",
+            "Decreasing sea water cooling to the condenser."
+        ],
+        "correct_answer": "Slowing down production by opening the vacuum breaker valve.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 50,
+        "question": "How is a vacuum created in the fresh water generator?",
+        "answers": [
+            "By the vapour eductor driven by the ejector pump.",
+            "By the condensing effect in the condenser.",
+            "By pumping or educting out the brine.",
+            "By the differential temperature of fresh and sea water."
+        ],
+        "correct_answer": "By the vapour eductor driven by the ejector pump.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 51,
+        "question": "What is the purpose of the sea water pump item No 13?",
+        "answers": [
+            "To drive the air ejector of the evaporator.",
+            "To cool the evaporator.",
+            "To supply water to be evaporated.",
+            "To supply sea water to the condenser."
+        ],
+        "correct_answer": "To drive the air ejector of the evaporator.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 52,
+        "question": "On the air compressor crankcase, there is a small valve that let’s off pressure. What should be done if oil is present with air?",
+        "answers": [
+            "Overhaul the compressor unit.",
+            "Check the clearance in the bearing.",
+            "Block off the valve.",
+            "Lower the sump oil level."
+        ],
+        "correct_answer": "Overhaul the compressor unit.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 53,
+        "question": "How far from the coast is it permitted to use low-pressure evaporation to produce drinking water?",
+        "answers": [
+            "20 miles.",
+            "5 miles.",
+            "30 miles.",
+            "12 miles."
+        ],
+        "correct_answer": "20 miles.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 54,
+        "question": "Which of the following is a rotary compressor?",
+        "answers": [
+            "Diesel engine charge air compressor.",
+            "Emergency air compressor.",
+            "Starting air compressor.",
+            "Control air compressor."
+        ],
+        "correct_answer": "Diesel engine charge air compressor.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 55,
+        "question": "What is the BM for a box-shaped vessel in terms of breadth and draught?",
+        "answers": [
+            "Breadth squared / 12 × draught.",
+            "Breadth cubed / 12 × draught.",
+            "Breadth × draught / 10.",
+            "Breadth squared / 6."
+        ],
+        "correct_answer": "Breadth squared / 12 × draught.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 56,
+        "question": "What is the centre of pressure?",
+        "answers": [
+            "It is the pressure in the centre of a specific tank.",
+            "It is the pressure at the centre of flotation.",
+            "It is the part that is least likely to give way to external pressure.",
+            "It is the point where the total thrust of pressure could be considered to act."
+        ],
+        "correct_answer": "It is the point where the total thrust of pressure could be considered to act.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 57,
+        "question": "What effects does freeboard have on a vessel’s dynamical stability?",
+        "answers": [
+            "As freeboard increases, the range of stability also increases, and this in turn leads to a greater dynamical stability.",
+            "Freeboard and dynamical stability are not related in any way.",
+            "It does not have any effect on dynamical stability.",
+            "If freeboard is greater, then dynamical stability is correspondingly reduced."
+        ],
+        "correct_answer": "As freeboard increases, the range of stability also increases, and this in turn leads to a greater dynamical stability.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 58,
+        "question": "What does permeability mean?",
+        "answers": [
+            "The relationship between the volume of a compartment and the volume available for water if bilged.",
+            "To make a compartment water tight.",
+            "The process of making a compartment non-porus.",
+            "The flooding of the engine room compartment."
+        ],
+        "correct_answer": "The relationship between the volume of a compartment and the volume available for water if bilged.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 59,
+        "question": "How would you increase the KG of a ship, loaded with a timber cargo, that has become unstable?",
+        "answers": [
+            "By filing the small divided double bottom tanks on the lower side, while jettisoning the deck cargo from the higher side.",
+            "By filling all wing ballast tanks.",
+            "By completely emptying all partly filled double bottom tanks.",
+            "By jettisoning the entire deck cargo of timber."
+        ],
+        "correct_answer": "By filing the small divided double bottom tanks on the lower side, while jettisoning the deck cargo from the higher side.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 60,
+        "question": "What are “cross curves” of stability used for onboard a ship?",
+        "answers": [
+            "Obtaining statical stability curves at known displacements.",
+            "Giving the capacity of various holds or tanks.",
+            "Similar to a set of Bonjean curves.",
+            "Showing tank calibration values."
+        ],
+        "correct_answer": "Obtaining statical stability curves at known displacements.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 61,
+        "question": "What is the minimum allowable value for GZ?",
+        "answers": [
+            "0,2 m.",
+            "0,15 m.",
+            "0,42 m.",
+            "0,35 m."
+        ],
+        "correct_answer": "0,2 m.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 62,
+        "question": "What is prismatic co-efficient?",
+        "answers": [
+            "Volume of displacement / (midship area × LBP). Also = cb / cm.",
+            "cm / cb.",
+            "The same as block co-efficient.",
+            "A co-efficient for a box shaped vessel only."
+        ],
+        "correct_answer": "Volume of displacement / (midship area × LBP). Also = cb / cm.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 63,
+        "question": "What are “hydrostatic curves” used for in ship calculations?",
+        "answers": [
+            "Mainly for trim calculations for predicting end draughts.",
+            "For hydrostatic pressures on bulkheads.",
+            "Obtaining the shape of the body sections.",
+            "For pressure at various depths in oil fuel bunkers."
+        ],
+        "correct_answer": "Mainly for trim calculations for predicting end draughts.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 64,
+        "question": "What is the “wave period”?",
+        "answers": [
+            "It is the time in seconds between successive wave crests or troughs, passing a fixed point.",
+            "It is the comparison of the height of successive waves.",
+            "It is the time in minutes between successive wave crests, passing a fixed point.",
+            "It is the time interval between the highest waves in a sequence of waves."
+        ],
+        "correct_answer": "It is the time in seconds between successive wave crests or troughs, passing a fixed point.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 65,
+        "question": "What is meant by “synchronism or resonance”?",
+        "answers": [
+            "This is a dangerous condition that occurs when the ship’s still water period and the apparent wave period are equal.",
+            "This is a situation used to describe gentle rolling.",
+            "This is stern used to describe pitching and rolling.",
+            "This is a term used to describe violent rolling."
+        ],
+        "correct_answer": "This is a dangerous condition that occurs when the ship’s still water period and the apparent wave period are equal.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 66,
+        "question": "What is statical stability?",
+        "answers": [
+            "It is the ability of a vessel to return to her initial or upright position, after having been forcibly inclined.",
+            "It is the basic stability information a vessel is required to carry by law.",
+            "It is the relationship between the moment of a couple and the righting lever.",
+            "It is another name for metacentric height."
+        ],
+        "correct_answer": "It is the ability of a vessel to return to her initial or upright position, after having been forcibly inclined.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 67,
+        "question": "What is the formula to calculate the volume of displacement?",
+        "answers": [
+            "B by Km by d by cb.",
+            "L by B by d by cb.",
+            "L by Gm by KG.",
+            "L by 1/2B by draft by freeboard."
+        ],
+        "correct_answer": "B by Km by d by cb.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 68,
+        "question": "What is initial stability?",
+        "answers": [
+            "It is the stability of the vessel in her initial position, and is expressed by metacentric height.",
+            "It is the stability status of the ship, when first delivered to owners from the shipyard.",
+            "It is the vessel’s GM, after completion of loading.",
+            "It is the vessel’s GM, before commencement of loading."
+        ],
+        "correct_answer": "It is the stability of the vessel in her initial position, and is expressed by metacentric height.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 69,
+        "question": "How is a “turning couple” formed?",
+        "answers": [
+            "Couple is formed when two equal parallel forces in a vertical position are acting in opposite direction.",
+            "A couple is formed when two unequal forces in a vertical position are acting in the same direction.",
+            "A couple is formed when two unequal parallel forces are acting in the same direction.",
+            "A couple is formed by joining two vertical posts together."
+        ],
+        "correct_answer": "Couple is formed when two equal parallel forces in a vertical position are acting in opposite direction.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 70,
+        "question": "What is the purpose of performing an inclining experiment or stability test?",
+        "answers": [
+            "It is done to find out the GM of a vessel, place the ship’s lightweight and VCG and LCG at this lightweight.",
+            "To test the safe working load of a derrick or crane.",
+            "There is no need for such an experiment, because the information it gives may be obtained in various other easy ways.",
+            "To determine the maximum angle of heel, before a ship will capsize."
+        ],
+        "correct_answer": "It is done to find out the GM of a vessel, place the ship’s lightweight and VCG and LCG at this lightweight.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 71,
+        "question": "What is a pro-metacenter?",
+        "answers": [
+            "This expresses KM as moving away off the centreline at large angles of heel.",
+            "It is the term used to indicate a vessel has a more than adequate GM.",
+            "It is just another name for metacentric height.",
+            "It is the ability of a vessel to return to an upright position."
+        ],
+        "correct_answer": "This expresses KM as moving away off the centreline at large angles of heel.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 72,
+        "question": "What formula do you use to determine the GM from an inclining experiment?",
+        "answers": [
+            "GM = w by distance by length of plumbline divided by W by deflection of the plumbline.",
+            "There is no formula. You simply measure the deflection of the plumbline with a tape measure.",
+            "GM = KM by d by 1/2 length of plumbline divided by W by length of plumbline.",
+            "GM = w by length of plumbline divided by W by deflection of the plumbline."
+        ],
+        "correct_answer": "GM = w by distance by length of plumbline divided by W by deflection of the plumbline.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 73,
+        "question": "What is the critical time in a dry docking operation?",
+        "answers": [
+            "Just before the ship takes the blocks at the stern.",
+            "As the ship enters the dock gates, to ensure she is not moving too fast.",
+            "After the ship has taken to the blocks, and shores are being put in place.",
+            "When they start to empty the dry dock."
+        ],
+        "correct_answer": "Just before the ship takes the blocks at the stern.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 74,
+        "question": "What is the effect on draft caused by a vessel heeling or listing?",
+        "answers": [
+            "The draft is increased by the difference in the heeled draft measured by a straight line in tangent with the keel, and the draft before heeling.",
+            "The draft is increased by the difference between the high side draft and the low side draft.",
+            "There is no change in draft regardless of the extent of the list.",
+            "The draft is reduced by the amount the high side rises above the upright position."
+        ],
+        "correct_answer": "The draft is increased by the difference in the heeled draft measured by a straight line in tangent with the keel, and the draft before heeling.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 75,
+        "question": "What measures regarding ship stability should be taken in order to make a passenger ship’s able to withstand critical damage?",
+        "answers": [
+            "Maintain sufficient intact stability.",
+            "Damaged stability to be increased by weight redistribution.",
+            "Damaged stability to be increased by use of water ballast.",
+            "Avoid overloading the ship."
+        ],
+        "correct_answer": "Maintain sufficient intact stability.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 76,
+        "question": "How do you ensure reliable results from an inclining experiment?",
+        "answers": [
+            "Perform test in calm conditions, with slack moorings, with minimum number of personnel and minimise free surface effects of liquids.",
+            "No specific preparations are necessary and it can be done even in very windy conditions."
+        ],
+        "correct_answer": "Perform test in calm conditions, with slack moorings, with minimum number of personnel and minimise free surface effects of liquids.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 77,
+        "question": "If your vessel is tending to “synchronise”, what should you do to alter this condition?",
+        "answers": [
+            "You should try to alter the wave period by altering course and by reducing speed.",
+            "You should put your ship’s beam on to the sea and increase speed.",
+            "You should increase your speed to full, whilst maintaining the same course.",
+            "You stop your ship and wait for the synchronizing to stop."
+        ],
+        "correct_answer": "You should try to alter the wave period by altering course and by reducing speed.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 78,
+        "question": "What is the result of a high metacentric height?",
+        "answers": [
+            "The vessel will roll violently.",
+            "The vessel will have a great bending moment.",
+            "The vessel will roll slowly or be unstable.",
+            "The vessel’s tween deck height is too high."
+        ],
+        "correct_answer": "The vessel will roll violently.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 79,
+        "question": "When cross-flooding arrangements to correct unsymmetrical flooding and excessive heel angles in damaged condition are installed in passenger ship’s, what is the maximum time allowed for equalization?",
+        "answers": [
+            "15 minutes.",
+            "20 minutes.",
+            "10 minutes.",
+            "30 minutes."
+        ],
+        "correct_answer": "15 minutes.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 80,
+        "question": "The watertight integrity of a vessel must be intact, when:",
+        "answers": [
+            "When manoeuvring.",
+            "In open waters only.",
+            "Can be relaxed in inshore waters.",
+            "Can be relaxed during spells of fine weather."
+        ],
+        "correct_answer": "When manoeuvring.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 81,
+        "question": "What is the minimum allowable value for GM?",
+        "answers": [
+            "0,15 m.",
+            "0,35 m.",
+            "0,25 m.",
+            "0,45 m."
+        ],
+        "correct_answer": "0,15 m.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 82,
+        "question": "The ship’s training manual must contain instructions and information on the life-saving appliances carried onboard. Which of these duties must also be included?",
+        "answers": [
+            "Correct method of release of survival craft from launching appliances.",
+            "Correct use of oars in survival craft.",
+            "Correct method for use of the on-board communication system.",
+            "Correct donning of fire protective clothing."
+        ],
+        "correct_answer": "Correct method of release of survival craft from launching appliances.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 83,
+        "question": "Which of these requirements regarding lifebuoys corresponds to the SOLAS regulations?",
+        "answers": [
+            "It must be constructed of inherently buoyant material.",
+            "It must have sufficient air.",
+            "If fitted with light or smoke signal, it must have a mass less than 4 kgs.",
+            "It must have a mass greater than 2,5 kgs."
+        ],
+        "correct_answer": "It must be constructed of inherently buoyant material.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 84,
+        "question": "What is the purpose of the control position on an enclosed lifeboat?",
+        "answers": [
+            "It’s the position from which the boat is steered and the safety systems are operated.",
+            "It’s a place reserved for injured persons.",
+            "It is for sending out distress messages giving the ship’s last known position.",
+            "It facilitates entering the names of all persons on-board. This is essential record keeping requirements."
+        ],
+        "correct_answer": "It’s the position from which the boat is steered and the safety systems are operated.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 85,
+        "question": "What is a “Rescue Sub-Centre” (RSC)?",
+        "answers": [
+            "A unit subordinate to a rescue co-ordinating centre.",
+            "A centre established to assist the main national rescue centre.",
+            "A centre for underwater search and rescue operation.",
+            "A national search and rescue centre subordinate to an international search and rescue co-ordinating centre."
+        ],
+        "correct_answer": "A unit subordinate to a rescue co-ordinating centre.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 86,
+        "question": "What is a “Rescue Unit” (RU)?",
+        "answers": [
+            "A unit composed of trained personnel suitability equipped for expeditious search and rescue.",
+            "A unit ready for search and rescue operations at sea any time of the day.",
+            "A permanently manned rescue vessel.",
+            "A unit specializing in search and rescue operations at sea."
+        ],
+        "correct_answer": "A unit composed of trained personnel suitability equipped for expeditious search and rescue.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 87,
+        "question": "Self-igniting lights on lifebuoys must either burn continuously or flash at a specified rate for a period of at least:",
+        "answers": [
+            "2 hours.",
+            "90 minutes.",
+            "1 hour.",
+            "30 minutes."
+        ],
+        "correct_answer": "2 hours.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 88,
+        "question": "The ship’s training manual must contain instructions and information on the life-saving appliances carried onboard. Which of these duties must be included?",
+        "answers": [
+            "Correct donning of life jackets.",
+            "Correct use of oars and sails for survival craft.",
+            "Correct use of communication equipment.",
+            "Correct donning of protective clothing."
+        ],
+        "correct_answer": "Correct donning of life jackets.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 89,
+        "question": "Which of these requirements regarding the launching and recovery arrangements for rescue boats corresponds to the SOLAS regulations?",
+        "answers": [
+            "Rapid recovery shall be possible with the boat’s full complement of persons and equipment.",
+            "Launching shall be possible with a headway speed of up to 5 knots in heavy weather.",
+            "The release mechanism shall be of an automatic type approved by the flag state administration."
+        ],
+        "correct_answer": "Rapid recovery shall be possible with the boat’s full complement of persons and equipment.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 90,
+        "question": "The ship’s training manual must contain instructions and information on the life saving appliances carried onboard. Which of these duties must be included?",
+        "answers": [
+            "Correct launching, boarding and clearing of survival craft and rescue craft.",
+            "Correct method of revival of casualties.",
+            "Correct donning of protective clothing.",
+            "Correct use of oars and sails for survival craft."
+        ],
+        "correct_answer": "Correct launching, boarding and clearing of survival craft and rescue craft.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 91,
+        "question": "How many hand flares should each lifeboat normally carry?",
+        "answers": [
+            "6.",
+            "10.",
+            "4.",
+            "2."
+        ],
+        "correct_answer": "6.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 92,
+        "question": "On a steamship at sea, electricity is supplied by:",
+        "answers": [
+            "Turbo alternators.",
+            "The main engine.",
+            "Gas turbines.",
+            "Diesel engines."
+        ],
+        "correct_answer": "Turbo alternators.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 93,
+        "question": "What part in this diagram is the low pressure turbine?",
+        "answers": [
+            "1.",
+            "2.",
+            "3.",
+            "4."
+        ],
+        "correct_answer": "1.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2024/08/turbine.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 94,
+        "question": "In a modern steam turbine steam is prevented from leaking along the shaft by:",
+        "answers": [
+            "A labyrinth seal.",
+            "High temperature packing.",
+            "The inlet nozzle.",
+            "The blading."
+        ],
+        "correct_answer": "A labyrinth seal.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 95,
+        "question": "Boiler feed water is water:",
+        "answers": [
+            "Taken from the condenser and fed back to the boiler.",
+            "Used to cool steam back into water.",
+            "Used to cool steam turbines.",
+            "Mixed with fuel oil and burnt as waste oil."
+        ],
+        "correct_answer": "Taken from the condenser and fed back to the boiler.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 96,
+        "question": "Regarding feed water, which of the following statements is NOT true?",
+        "answers": [
+            "Feed water in HP boilers is normally pumped with a single stage centrifugal pump.",
+            "Steam turns to feed water in the condenser.",
+            "It is fresh water.",
+            "It is turned into steam in the boiler."
+        ],
+        "correct_answer": "Feed water in HP boilers is normally pumped with a single stage centrifugal pump.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 97,
+        "question": "Which alarm and shut-down device is fitted on the thrust bearing assembly?",
+        "answers": [
+            "The axial clearance alarm.",
+            "The cooling water alarm.",
+            "The steam pressure reducing alarm.",
+            "The low lub oil flow alarm."
+        ],
+        "correct_answer": "The axial clearance alarm.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 98,
+        "question": "The condenser in a steam plant is where:",
+        "answers": [
+            "Steam is turned back into water.",
+            "Electricity is supplied.",
+            "Water is turned into steam.",
+            "Low pressure steam is produced."
+        ],
+        "correct_answer": "Steam is turned back into water.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 99,
+        "question": "What kind of steam is feeding the astern turbine fitted on the same rotor as the LP turbine?",
+        "answers": [
+            "Steam from the main steam manifold via manoeuvring stand.",
+            "Regenerated steam via resuperheater.",
+            "Reduced superheated steam via a pressure reducer.",
+            "Exhaust steam from the high pressure turbine."
+        ],
+        "correct_answer": "Steam from the main steam manifold via manoeuvring stand.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 100,
+        "question": "What kind of shaft seals are used on this high pressure turbine?",
+        "answers": [
+            "Labyrinth seals.",
+            "Counterbalancing seals.",
+            "Vacuum seals.",
+            "Mechanical seals."
+        ],
+        "correct_answer": "Labyrinth seals.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2024/08/high.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 101,
+        "question": "High pressure steam turbines are:",
+        "answers": [
+            "Smaller than low pressure turbines.",
+            "Larger than low pressure turbines.",
+            "Directly coupled to the propeller shaft.",
+            "Powered by feed water."
+        ],
+        "correct_answer": "Smaller than low pressure turbines.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 102,
+        "question": "Which of the following statements regarding steam turbines is NOT true?",
+        "answers": [
+            "From the HP turbine, the steam then goes to the condenser.",
+            "The HP turbine is a faster rotating machine than a diesel engine.",
+            "The HP turbine receives the steam before the LP turbine.",
+            "The HP turbine is smaller than the LP turbine."
+        ],
+        "correct_answer": "From the HP turbine, the steam then goes to the condenser.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 103,
+        "question": "Serious tube leakage in the air ejector condenser assembly will cause:",
+        "answers": [
+            "Loss of vacuum.",
+            "Faulty steam pressure.",
+            "Clogged steam strainers.",
+            "Fouled nozzles."
+        ],
+        "correct_answer": "Loss of vacuum.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 104,
+        "question": "What is part No. 3?",
+        "answers": [
+            "Turbine drive gear train.",
+            "Turbine coupling.",
+            "Turbine bearing.",
+            "Turbine electromagnetic clutch."
+        ],
+        "correct_answer": "Turbine drive gear train.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2024/08/no3.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 105,
+        "question": "Modern high pressure boilers produce which of the following?",
+        "answers": [
+            "Superheated steam.",
+            "Fresh water for drinking.",
+            "Feed water.",
+            "Saturated steam."
+        ],
+        "correct_answer": "Superheated steam.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 106,
+        "question": "Superheated steam is steam:",
+        "answers": [
+            "That has been heated until it is “dry”.",
+            "That has been condensed.",
+            "That is mixed with water vapour.",
+            "That can be used for heating the accommodation."
+        ],
+        "correct_answer": "That has been heated until it is “dry”.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 107,
+        "question": "Which way does the steam pass through in the system?",
+        "answers": [
+            "From the high pressure turbine to the low pressure turbine.",
+            "From the condenser to the low pressure turbine.",
+            "From the supply valve to the high pressure turbine.",
+            "From the low pressure turbine to the high pressure turbine."
+        ],
+        "correct_answer": "From the high pressure turbine to the low pressure turbine.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 108,
+        "question": "Name the two (2) different lubrication oil circuits of a steam turbine:",
+        "answers": [
+            "The bearing and gear oil circuit/the governor oil circuit.",
+            "The reduction gear oil/the turbine shaft bearing oil.",
+            "The front bearing circuit/the rear bearing circuit.",
+            "The thrust bearing and shaft circuit/the front and governor circuit."
+        ],
+        "correct_answer": "The bearing and gear oil circuit/the governor oil circuit.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 109,
+        "question": "Which of the following statements regarding main boilers is NOT true?",
+        "answers": [
+            "The feed water need not be very pure.",
+            "The superheated steam pressure could be as much as 60 bar.",
+            "The burners could be at the top firing down.",
+            "At least two safety valves will be fitted."
+        ],
+        "correct_answer": "The feed water need not be very pure.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 110,
+        "question": "Turbo alternators perform which of the following tasks?",
+        "answers": [
+            "Supplying electricity on steamships when the main boiler is operating.",
+            "Supplying electricity from diesel engines.",
+            "Supplying electricity on steamships when the main boiler is shut down.",
+            "Supplying electricity on a motorship."
+        ],
+        "correct_answer": "Supplying electricity on steamships when the main boiler is operating.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 111,
+        "question": "Which part in this diagram is the high pressure turbine?",
+        "answers": [
+            "2.",
+            "4.",
+            "1.",
+            "6."
+        ],
+        "correct_answer": "2.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2024/08/turbine.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 112,
+        "question": "Your vessel is to turn in a narrow canal by use of one tug (turn to port with the bow). In which position and how would you use the tug? Vessels engine will be used as well.",
+        "answers": [
+            "Make the tug fast on port shoulder to pull.",
+            "Make the tug fast on starboard shoulder to push.",
+            "Make the tug fast aft for pulling.",
+            "Make the tug fast in centre now fairlead for pulling."
+        ],
+        "correct_answer": "Make the tug fast on port shoulder to pull.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 113,
+        "question": "Your vessel is to unmoor. Two tugs will assist at the unmooring. Which position and how do you want to use the tugs?",
+        "answers": [
+            "Fast FWD and AFT in centre lead to pull the vessel out from the jetty and make it in position for voyage.",
+            "Make fast on ship’s.",
+            "Make the tug fast aft for pulling.",
+            "Make the tug fast in centre now fairlead for pulling."
+        ],
+        "correct_answer": "Fast FWD and AFT in centre lead to pull the vessel out from the jetty and make it in position for voyage.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 114,
+        "question": "What is the most dangerous overtaking situation shown on the sketches?",
+        "answers": [
+            "A large vessel overtaking a small vessel with a little difference in speed between the two vessels.",
+            "A small vessel overtaking a large vessel with a little difference in speed between the two vessels.",
+            "A large vessel overtaking a small vessel with big difference in speed between the two vessels.",
+            "A small vessel overtaking a large vessel with big difference in speed between the two vessels."
+        ],
+        "correct_answer": "A large vessel overtaking a small vessel with a little difference in speed between the two vessels.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2024/08/overtaking-transformed.jpeg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 115,
+        "question": "Your ship is going astern right-handed propeller as sketched below. How is the ship most likely to react?",
+        "answers": [
+            "The stern will back into the wind.",
+            "The bow will go to port.",
+            "The ship will go straight astern.",
+            "The stern will fall off to starboard."
+        ],
+        "correct_answer": "The stern will back into the wind.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2024/08/prop.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 116,
+        "question": "The vessel will anchor with pilot onboard. You are the duty officer on the bridge. What is your main duty?",
+        "answers": [
+            "Check the position only.",
+            "Follow the master’s order.",
+            "No duty when pilot is onboard.",
+            "Follow pilots order."
+        ],
+        "correct_answer": "Check the position only.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 117,
+        "question": "How is bank effect felt in a vessel?",
+        "answers": [
+            "The vessel’s bow is pushed away from the nearest bank.",
+            "The vessel’s stern is pushed away from the nearest bank.",
+            "The whole vessel is pushed away parallel to the nearest bank.",
+            "The whole vessel is drawn in parallel to the nearest bank."
+        ],
+        "correct_answer": "The vessel’s bow is pushed away from the nearest bank.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 118,
+        "question": "You want to turn your vessel in a narrow canal by use of two tugs with same power. The wind varies in the range moderate/strong. Where/how will the tugs be used?",
+        "answers": [
+            "Pushing, made fast in the vessel.",
+            "One tug pushing, one tug pulling.",
+            "Pulling, made fast in the vessel."
+        ],
+        "correct_answer": "Pushing, made fast in the vessel.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 119,
+        "question": "How will the ship behave if you have a black out in the situation sketched below?",
+        "answers": [
+            "She will turn to port and the speed will drop gradually.",
+            "The wind will not affect your ship whatsoever.",
+            "She will turn to starboard and the speed will slowly drop.",
+            "She will continue on course and the speed will slowly drop."
+        ],
+        "correct_answer": "She will turn to port and the speed will drop gradually.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2024/08/blackout-transformed.jpeg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 120,
+        "question": "How is shallow water effect felt in a vessel?",
+        "answers": [
+            "The vessel becomes sluggish in responding to the rudder.",
+            "The vessel has a tendency to turn to port (right turning propeller).",
+            "The vessel responds very quickly to the rudder.",
+            "The vessel has a tendency to turn to starboard (left turning propeller)."
+        ],
+        "correct_answer": "The vessel becomes sluggish in responding to the rudder.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 121,
+        "question": "Your ship is operating with a right handed propeller. Before coming astern, how should you apply the rudder?",
+        "answers": [
+            "As with No. 2.",
+            "As with No. 1.",
+            "As with No. 3.",
+            "I think the speed is too slow."
+        ],
+        "correct_answer": "As with No. 2.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2024/08/tinywow_remove_watermark_photo_61544915.png"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 122,
+        "question": "You are berthed with a steady offshore beam wind of 30 knots. This wind suddenly increases to 60 knots. When this happens, the force driving the vessel off-berth will be:",
+        "answers": [
+            "Quadrupled.",
+            "Tripled.",
+            "Doubled.",
+            "Quintupled."
+        ],
+        "correct_answer": "Quadrupled.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 123,
+        "question": "What is the reason for the effect we call squat?",
+        "answers": [
+            "Increased velocity and decreased water pressure around the ship’s hull.",
+            "Decreased velocity and increased water pressure around the ship’s hull.",
+            "Increased effect of gravity due to closeness of the sea bed.",
+            "The bow and stern wave make the ship sink lower in the water."
+        ],
+        "correct_answer": "Increased velocity and decreased water pressure around the ship’s hull.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 124,
+        "question": "You are about to pass another ship in a close situation. What can happen in this situation?",
+        "answers": [
+            "Due to suction, the two ships will be sucked together.",
+            "Your ship will not be affected in this situation.",
+            "The two ships will be pushed toward the banks.",
+            "The bow of your ship will be sucked towards the stern of the other ship."
+        ],
+        "correct_answer": "Due to suction, the two ships will be sucked together.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2024/08/meet.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 125,
+        "question": "How do you consider the indicated speed for berthing?",
+        "answers": [
+            "Too fast.",
+            "It is up to the pilot to decide.",
+            "To be sufficient.",
+            "Too slow."
+        ],
+        "correct_answer": "Too fast.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2024/08/berth.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 126,
+        "question": "You are to release the towing wire with forerunner. You have 3 men with you to do the work. How do you do it in a safe way?",
+        "answers": [
+            "Use the winch. Forerunner and wire stopper to pick up the slack and stop the wire. One man operating each. Make the forerunner fast on the bit, releasing the eye of wire and the stopper, lower the wire easy by forerunner.",
+            "After heaving on the wire by a forerunner, cut the forerunner and so let the wire free.",
+            "With manpower. Two men picking up slack and one man lifts off the eye and let go simultaneously."
+        ],
+        "correct_answer": "Use the winch. Forerunner and wire stopper to pick up the slack and stop the wire. One man operating each. Make the forerunner fast on the bit, releasing the eye of wire and the stopper, lower the wire easy by forerunner.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 127,
+        "question": "How can you minimize the squat effect?",
+        "answers": [
+            "Decrease the speed as much as practicable.",
+            "Maintain your course and speed.",
+            "Do a zig-zag manoeuvre to reduce speed.",
+            "Increase speed if the ship is not already on full ahead."
+        ],
+        "correct_answer": "Decrease the speed as much as practicable.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 128,
+        "question": "What can be used to reduce the effect of the state of sea-waves?",
+        "answers": [
+            "Vegetable/fish oil.",
+            "Foam.",
+            "Fuel oil.",
+            "Crude oil."
+        ],
+        "correct_answer": "Vegetable/fish oil.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 129,
+        "question": "In the shown situation, the bow of your ship is pushed away from the bank. How can you handle this?",
+        "answers": [
+            "Give starboard rudder in order to balance the force of the bank effect and rudder effect.",
+            "Put your engine full astern to stop your ship.",
+            "Give hard port rudder to get the ship back in the middle of the channel.",
+            "Do nothing as the ship will handle itself."
+        ],
+        "correct_answer": "Give starboard rudder in order to balance the force of the bank effect and rudder effect.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2024/08/situ.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 130,
+        "question": "You are underway on a power driven vessel in open water, when you see another power driven vessel approximately five miles straight ahead on an opposite course. What action do you take?",
+        "answers": [
+            "Make a bold alternation to starboard and pass on his port side.",
+            "Make a bold alteration to port and pass on his starboard side.",
+            "Stand on with caution as he will alter course.",
+            "Try and call him on the VHF to decide on what action to take."
+        ],
+        "correct_answer": "Make a bold alternation to starboard and pass on his port side.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2024/08/meet2.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 131,
+        "question": "What is part number 1 called?",
+        "answers": [
+            "The service tank.",
+            "The expansion tank.",
+            "The setting tank.",
+            "The drainage tank."
+        ],
+        "correct_answer": "The service tank.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2024/08/fos.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 132,
+        "question": "What is item No. 9 shown in the diagram, fitted between evaporator and condenser of the fresh water generator?",
+        "answers": [
+            "A water deflector.",
+            "A water filter assembly.",
+            "A heating cap.",
+            "A desalinator unit."
+        ],
+        "correct_answer": "A water deflector.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2024/08/evaporator.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 133,
+        "question": "The diagram shows loadline marks. How is the distance between S and T calculated?",
+        "answers": [
+            "One forty eighth of the summer draft.",
+            "One sixtieth of the summer draft.",
+            "Nine tenths of the FWA.",
+            "Four fifths of the FWA."
+        ],
+        "correct_answer": "One forty eighth of the summer draft.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2024/08/loadline.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 134,
+        "question": "What do the intersecting horizontal lines signify in the diagram?",
+        "answers": [
+            "They show the actual angle of trim.",
+            "The change of draft after trimming.",
+            "The change in the centre of floatation, after trimming.",
+            "They only serve as a base for the two vertical lines."
+        ],
+        "correct_answer": "They show the actual angle of trim.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2024/08/lines.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engineering and Navigation",
+        "index": 135,
+        "question": "Unconscious casualties who are brething and whose hearts are beating should be placed in the recovery position. What is the recovery position?",
+        "answers": [
+            "As shown in figure 1.",
+            "As shown in figure 2.",
+            "As shown in figure 3.",
+            "As shown in figure 4."
+        ],
+        "correct_answer": "As shown in figure 1.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2024/08/first-aid.jpg"
+        ],
+        "explanation": ""
+    }
+]

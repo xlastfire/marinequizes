@@ -1,0 +1,1541 @@
+[
+    {
+        "category": "CES – Engine, Management, Generic",
+        "index": 1,
+        "question": "Which of the following requirements regarding life-buoys correspond to present regulations? (SOLAS III/7.1).",
+        "answers": [
+            "Not less than half the total number of lifebuoys shall be provided with self-ignighting lights.",
+            "All the life-buoys shall be placed in holders with quick-release arrangements.",
+            "At least four life-buoys on each side of the ship shall be fitted with buoyant lifelines.",
+            "At least one lifebuoy with self-activating smoke shall be placed within the vicinity of the stern."
+        ],
+        "correct_answer": "Not less than half the total number of lifebuoys shall be provided with self-ignighting lights.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Generic",
+        "index": 2,
+        "question": "Master of every ship must provide:",
+        "answers": [
+            "A link between the shipboard training officer and the company training officer ashore.",
+            "Facilities to conduct training whenever required by the training officer.",
+            "The training during crews working hours only.",
+            "Proper rest to the crew after each training programme."
+        ],
+        "correct_answer": "A link between the shipboard training officer and the company training officer ashore.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Generic",
+        "index": 3,
+        "question": "Which of the following is not a resistive sensor?",
+        "answers": [
+            "Load resistor.",
+            "Thermistor.",
+            "Photoresistor.",
+            "Strain gauge."
+        ],
+        "correct_answer": "Load resistor.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Generic",
+        "index": 4,
+        "question": "A refrigeration plant is short cycling even though there is plenty of refrigerant in the system and all of the rooms are above temperature. From the options given select the one which is the most likely cause of the problem?",
+        "answers": [
+            "Blocked filter drier causing the automatic low pressure cut out to operate.",
+            "Insufficient cooling water flow through the condenser causing the automatic high pressure cut out to operate.",
+            "Low oil level in the sump causing the automatic low oil pressure cut out to operate.",
+            "Ice formation in the meat room evaporator coil causing the automatic low pressure cut out to operate."
+        ],
+        "correct_answer": "Blocked filter drier causing the automatic low pressure cut out to operate.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Generic",
+        "index": 5,
+        "question": "U-tube manometers are often used to measure differential pressure. Which of the listed pressures are U-tube manometers mostly used for?",
+        "answers": [
+            "Low differential pressures.",
+            "High differential pressures.",
+            "Cargo pressure.",
+            "Absolute zero pressure."
+        ],
+        "correct_answer": "Low differential pressures.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Generic",
+        "index": 6,
+        "question": "What is the minimum furnace temperature that must be reached during start up before waste material can be introduced into an incinerator?",
+        "answers": [
+            "850 °C.",
+            "1 500 °C.",
+            "2 000 °C.",
+            "2 500 °C."
+        ],
+        "correct_answer": "850 °C.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Generic",
+        "index": 7,
+        "question": "In the circuit diagram shown the starter connects between which terminals?",
+        "answers": [
+            "3 and 4.",
+            "7 and 8.",
+            "1 and 2.",
+            "5 and 6."
+        ],
+        "correct_answer": "5 and 6.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2025/05/Screenshot-from-2025-05-16-14-04-17.png"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Generic",
+        "index": 8,
+        "question": "What IMO conventions take care of the human safety at sea?",
+        "answers": [
+            "It is the SOLAS conventions that take care of the human safety at sea.",
+            "It is the MARPOL conventions that take care of the human safety at sea.",
+            "It is the STCW 78/95 that take care of the human safety at sea.",
+            "There are no conventions that take care of the human safety at sea."
+        ],
+        "correct_answer": "It is the SOLAS conventions that take care of the human safety at sea.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Generic",
+        "index": 9,
+        "question": "What is usually the effect on G when the ship is damaged below the waterline, with water ingress?",
+        "answers": [
+            "It lowers.",
+            "It rises.",
+            "It first rises then lowers.",
+            "It is unchanged."
+        ],
+        "correct_answer": "It lowers.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2025/05/Screenshot-from-2025-05-16-14-08-55.png"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Generic",
+        "index": 10,
+        "question": "The torsion meter for the main propeller shaft is reading high. The torque is sensed using the angle of twist principle with two clamp rings attached to the shaft at a fixed distance, with stationary proximity switches for measuring the angle of twist and also shaft speed fixed to a rigid stool. What is the most likely cause of the high reading?",
+        "answers": [
+            "Circumferential slip of the after clamp ring in the opposite direction to shaft rotation.",
+            "Circumferential slip on the forward clamp ring in the opposite direction to shaft rotation.",
+            "Axial slip of one of the clamp rings to move them further apart.",
+            "Axial slip of one the clamp rings to bring them closer together."
+        ],
+        "correct_answer": "Circumferential slip of the after clamp ring in the opposite direction to shaft rotation.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Generic",
+        "index": 11,
+        "question": "Give the meaning of the following symbol:",
+        "answers": [
+            "Survival craft portable radio.",
+            "Rocket parachute flares.",
+            "Survival craft distress pyrotechnic signals.",
+            "EPIRB."
+        ],
+        "correct_answer": "Survival craft portable radio.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2025/05/Screenshot-from-2025-05-16-14-13-19.png"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Generic",
+        "index": 12,
+        "question": "The Training Manual shall contain instructions and information on the life- saving appliances and the best method of survival. The training manual shall contain detailed explanations of crew duties in relation to emergency situations. Which of the following tasks or duties shall be included in the manual according to present regulations?",
+        "answers": [
+            "The use of the ship’s line throwing apparatus.",
+            "The use of navigational equipment for survival crafts.",
+            "The use of escape routes and other escape methodes.",
+            "The use of surface to air visual signals to be used by survivors."
+        ],
+        "correct_answer": "The use of the ship’s line throwing apparatus.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Generic",
+        "index": 13,
+        "question": "The machinery detail plate is missing from a large electric motor and the weight is unknown. As part of a routine maintenance check the motor has to be lifted to access some other equipment. Which of the given options is the correct action that should be taken?",
+        "answers": [
+            "As it is only a routine maintenance and not a breakdown then postpone the task until full details of the motor can be obtained.",
+            "Estimate the weight of the motor and select a chain block and strop with a safe working load of 1,5 times the calculated load.",
+            "Try and lift it with the engine room crane as it is designed to lift the heaviest components in the engine.",
+            "Use the biggest chain blocks and strops available and carry out a trial lift."
+        ],
+        "correct_answer": "As it is only a routine maintenance and not a breakdown then postpone the task until full details of the motor can be obtained.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Generic",
+        "index": 14,
+        "question": "When a pollution incident occurs there is a plan for actions to be undertaken. State which of following priority sequences to be considered?",
+        "answers": [
+            "Stop pumps – report – clean up.",
+            "Clean up – report – stop pumps.",
+            "Report – stop pumps – clean up.",
+            "Stop pumps – clean up – report."
+        ],
+        "correct_answer": "Stop pumps – report – clean up.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Generic",
+        "index": 15,
+        "question": "How will continuous low load operation influence the time between overhauls, tho, for the cylinder covers and associated valves of a 4-stroke diesel engine?",
+        "answers": [
+            "Reduce the time between overhauls due to increased fouling.",
+            "Increase the time between overhauls since the engine is not working as hard.",
+            "Increase the time between overhauls since fuel injectors work better at low load so combustion will be improved and the maintenance will be reduced.",
+            "No influence at all, the required overhauls are unaffected by operating load."
+        ],
+        "correct_answer": "Reduce the time between overhauls due to increased fouling.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Generic",
+        "index": 16,
+        "question": "Consider a vessel with a 6 cylinder main diesel engine operating with one cylinder out of operation. What would you expect to be the approximate maximum reduced engine load to allow safe emergency operation in this condition?",
+        "answers": [
+            "Approximately 70 % of MCR.",
+            "Approximately 90 % of MCR.",
+            "Approximately 50 % of MCR.",
+            "Approximately 30 % of MCR."
+        ],
+        "correct_answer": "Approximately 70 % of MCR.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Generic",
+        "index": 17,
+        "question": "The coil of a 12V, 120mA dc relay must be connected across a 24V supply. What action should be taken?",
+        "answers": [
+            "Install a 100 ohm resistor in series with the coil.",
+            "Install a 100 k ohm resistor in series with the coil.",
+            "Install a 100 k ohm resistor in parallel with the coil.",
+            "Install a 100 ohm resistor in parallel with the coil."
+        ],
+        "correct_answer": "Install a 100 ohm resistor in series with the coil.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Generic",
+        "index": 18,
+        "question": "“Protective discrimination” means the progressive grading of sizes or tripping times of:",
+        "answers": [
+            "Line fuses and overcurrent relays.",
+            "440 V and 220 V transformers.",
+            "Magnetc and thermal current transformers.",
+            "Generators and motors."
+        ],
+        "correct_answer": "Line fuses and overcurrent relays.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2025/05/Screenshot-from-2025-05-16-14-32-02.png"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Generic",
+        "index": 19,
+        "question": "When bunkering through the port side of the bunker manifold what action should be taken with the valves on the starboard side of the manifold prior to bunkering operations commencing?",
+        "answers": [
+            "Blank flanges should be fitted to the closed starboard side manifold valves.",
+            "Just fit the blank flanges then it doesn’t matter if the valves are closed or not.",
+            "The blank flanges should be removed from the starboard side manifold valves to check for any leakage past the closed valves.",
+            "Just check that the valves are closed."
+        ],
+        "correct_answer": "Blank flanges should be fitted to the closed starboard side manifold valves.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Generic",
+        "index": 20,
+        "question": "A diesel engine is operating with retarded fuel timing resulting in increased exhaust gas temperatures. How would you expect this to affect the turbocharger?",
+        "answers": [
+            "Increased turbocharger revolutions.",
+            "Decreased turbocharger revolutions.",
+            "The turbocharger would operate normally.",
+            "Reduced air and gas temperature after turbocharger."
+        ],
+        "correct_answer": "Increased turbocharger revolutions.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Generic",
+        "index": 21,
+        "question": "Select the option which correctly completes the following statement. “Prior to allowing work to proceed in an onboard space testing of the atmosphere should be carried out:”",
+        "answers": [
+            "For any space with limited access or non-continuous ventilation or is suspected of having a hazardous atmosphere.",
+            "Only if the space has contained liquid oil at some point.",
+            "Only if the space has been used to carry any cargo or contains any cargo related equipment.",
+            "Only if the space has a watertight door or watertight access opening."
+        ],
+        "correct_answer": "For any space with limited access or non-continuous ventilation or is suspected of having a hazardous atmosphere.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Generic",
+        "index": 22,
+        "question": "The main propulsion diesel engine is normally started by direct admission of compressed air. Which one of the following statements is correct?",
+        "answers": [
+            "A heavily leaking starting air valve may cause an explosion in the starting air pipe system.",
+            "If the starting air pressure is too low a pressurized oxygen bottle from the welding equipment can be used for an emergency start of the engine.",
+            "If the engine does not turn when the starting air is applied the turning gear can be used together with the starting air to start the engine.",
+            "The starting air admission should continue until the engine has fired."
+        ],
+        "correct_answer": "A heavily leaking starting air valve may cause an explosion in the starting air pipe system.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Generic",
+        "index": 23,
+        "question": "Over a period of a few hours of operation the main diesel engine speed gradually falls off. From the options given what is the most likely cause of this fault?",
+        "answers": [
+            "Fouling of turbocharger intake filters.",
+            "Injection valve opening pressure is too low.",
+            "Water in a cylinder.",
+            "Governor linkage broken."
+        ],
+        "correct_answer": "Fouling of turbocharger intake filters.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Generic",
+        "index": 24,
+        "question": "A two step controller (open/close) has failed and the only available spare controller is a P+I controller. Select, from the options given, how the P+I controller could be set up to achieve approximate two step control.",
+        "answers": [
+            "Set the proportional band to minimum width and the integral action to maximum (repeats per minute).",
+            "Set the proportional band to maximum width and the integral action to minimum (repeats per minute).",
+            "Set the proportional band to minimum width and the integral action to minimum (repeats per minute).",
+            "Set the proportional band to maximum width and the integral action to maximum (repeats per minute)."
+        ],
+        "correct_answer": "Set the proportional band to minimum width and the integral action to maximum (repeats per minute).",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Generic",
+        "index": 25,
+        "question": "What effect would turbulent fluid flow through a heat exchanger have on the efficiency of the heat transfer?",
+        "answers": [
+            "Turbulent fluid flow generally increases heat transfer efficiency.",
+            "Turbulent fluid flow generally reduces heat transfer efficiency.",
+            "Heat transfer efficiency is not affected by the type of fluid flow through the heat exchanger.",
+            "It cannot be determined since it is not possible to generate turbulent fluid flow through a heat exchanger."
+        ],
+        "correct_answer": "Turbulent fluid flow generally increases heat transfer efficiency.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Generic",
+        "index": 26,
+        "question": "When carrying out repair or maintenance tasks involving hot work a hot work permit must be issued. Select the correct option from those given which completes the following statement. The permit for hot work:",
+        "answers": [
+            "Should only cover specific hot work tasks and be valid for a specified time period.",
+            "Is valid for completion of the specific hot work tasks irrespective of the time taken.",
+            "Should only cover specific hot work tasks, be valid for a specified time period and be issued by the person carrying out the work.",
+            "Can cover any additional hot work that arises during the completion of the task during the specified time period."
+        ],
+        "correct_answer": "Should only cover specific hot work tasks and be valid for a specified time period.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Generic",
+        "index": 27,
+        "question": "Some vessels have a central hydraulic system consisting of a number of hydraulic power packs for driving cargo pumps, deck machinery, ship’s cranes etc. Which parameter is normally used to automatically bring the power packs on and off line to match operational demand?",
+        "answers": [
+            "Percentage of available flow.",
+            "Temperature of hydraulic fluid.",
+            "Number of consumers running (pumps, etc.).",
+            "Percentage of maximum pressure being used."
+        ],
+        "correct_answer": "Percentage of available flow.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Generic",
+        "index": 28,
+        "question": "Which of the following terms is used to describe a thermodynamic process in which no heat transfer into or out of the system occurs?",
+        "answers": [
+            "Adiabatic.",
+            "Polytropic.",
+            "Isothermal.",
+            "Isochoric."
+        ],
+        "correct_answer": "Adiabatic.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Generic",
+        "index": 29,
+        "question": "The image shows an indicator diagram taken from a diesel engine cylinder. Which of the following options is the action most likely to identify the fault?",
+        "answers": [
+            "Check if the fuel pump injection is too early, or fuel pump lead is too great, for that cylinder.",
+            "Check that the fuel temperature and viscosity are correct.",
+            "Check the exhaust valve.",
+            "Check if the fuel injection valve is partly blocked."
+        ],
+        "correct_answer": "Check if the fuel pump injection is too early, or fuel pump lead is too great, for that cylinder.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2025/05/diagram.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Generic",
+        "index": 30,
+        "question": "As per SOLAS regulations, the general emergency alarm system must be tested:",
+        "answers": [
+            "Every week.",
+            "Every month.",
+            "Every 2 weeks.",
+            "Every 3 weeks."
+        ],
+        "correct_answer": "Every week.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Generic",
+        "index": 31,
+        "question": "Which one of the listed requirements regarding abandon ship drills corresponds to present SOLAS regulation?",
+        "answers": [
+            "Each lifeboat shall be launched, and maneuvered in the water with its assigned crew at least once every three months during an abandon ship drill.",
+            "Drills shall be conducted when the ship is in a harbour.",
+            "On ships on short international voyages, each lifeboat shall be launched and maneuvered in the water at least every six months.",
+            "All lifeboats shall be lowered during drills."
+        ],
+        "correct_answer": "Each lifeboat shall be launched, and maneuvered in the water with its assigned crew at least once every three months during an abandon ship drill.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Generic",
+        "index": 32,
+        "question": "What manoeuvre should be carried out in case of a fire onboard a ship?",
+        "answers": [
+            "Reduce speed and, if possible, keep the fire zone to the leeward of the ship.",
+            "Keep the system up against the wind if possible.",
+            "Let the ship follow the wind in order to reduce the oxygen supply.",
+            "Continue on course and speed."
+        ],
+        "correct_answer": "Reduce speed and, if possible, keep the fire zone to the leeward of the ship.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Generic",
+        "index": 33,
+        "question": "Which electronic component or system is this graphical symbol illustrating:",
+        "answers": [
+            "3-phase sine-wave generator.",
+            "Bandpass filter.",
+            "Electric heater.",
+            "Transformer with ferromagnetic core."
+        ],
+        "correct_answer": "3-phase sine-wave generator.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2025/05/Screenshot-from-2025-05-17-11-51-11.png"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Generic",
+        "index": 34,
+        "question": "The turbocharger on a diesel engine is surging and making occasional, loud “whoofing” noises. Which one of the options given is the most probable cause of this?",
+        "answers": [
+            "Rapid changes in engine load due to rough sea conditions.",
+            "Exhaust system recently cleaned.",
+            "Air leakage from scavenge receiver.",
+            "Engine on bridge control."
+        ],
+        "correct_answer": "Rapid changes in engine load due to rough sea conditions.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Generic",
+        "index": 35,
+        "question": "The engine turns over normally when starting air is supplied but does not fire even though normal starting rpm is achieved. What could be the probable cause to this?",
+        "answers": [
+            "Air in the fuel oil system.",
+            "The lubricating oil temperature is low.",
+            "The turning gear interlock has operated.",
+            "The turbocharger has not run up to normal full speed."
+        ],
+        "correct_answer": "Air in the fuel oil system.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Generic",
+        "index": 36,
+        "question": "In a closed loop control system, how is the controller output determined by?",
+        "answers": [
+            "It is determined by difference between the process variable and set point.",
+            "It is determined by the process variable and noise.",
+            "It is determined by the set point only.",
+            "It is determined by the final output."
+        ],
+        "correct_answer": "It is determined by difference between the process variable and set point.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Generic",
+        "index": 37,
+        "question": "What is the purpose of the air distributor in a diesel engine air start system?",
+        "answers": [
+            "To ensure the cylinder air start valves operate in the correct sequence and for the correct period.",
+            "To ensure that the automatic valve in the air start system opens and closes at the correct time.",
+            "To ensure the air consumption from each of the main air receivers is equally distributed.",
+            "To ensure that the start air is distributed equally to the each of the engine cylinders."
+        ],
+        "correct_answer": "To ensure the cylinder air start valves operate in the correct sequence and for the correct period.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Generic",
+        "index": 38,
+        "question": "It is noticed that some of the items that were to be used to lift some machinery components during a maintenance routine had not been tested for over 5 years. Which of the options given is the correct action to be taken in a situation like this?",
+        "answers": [
+            "Mark the items as not to be used and store them securely until they can be tested by a competent person.",
+            "Have them inspected immediately by a competent person so that they can be used for the task.",
+            "Return them to the lifting gear locker and make a note in the Register of Lifting Gear that they need to be tested.",
+            "Scrap the items immediately as they are unusable once they have not been tested for 5 years."
+        ],
+        "correct_answer": "Mark the items as not to be used and store them securely until they can be tested by a competent person.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Generic",
+        "index": 39,
+        "question": "The pyrotechnics used to transmit visual signals to other vessels, boats or aircrafts are of the following type:",
+        "answers": [
+            "All of the below mentioned.",
+            "Hand flare.",
+            "Buoyant smoke signal.",
+            "Rocket parachute flare."
+        ],
+        "correct_answer": "All of the below mentioned.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Generic",
+        "index": 40,
+        "question": "The temperature control for a hot water system is very erratic with the temperature gradually rising and then suddenly falling and vice versa even though system demand is fairly constant. Which of the options given is the most likely cause of this problem?",
+        "answers": [
+            "Control valve gland is over tightened.",
+            "Control air pressure supply is too low.",
+            "Control valve actuator diaphragm is ruptured.",
+            "Controller integral action reset time is too fast."
+        ],
+        "correct_answer": "Control valve gland is over tightened.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Generic",
+        "index": 41,
+        "question": "This circuit consists of a voltage source V, a change-over switch S, a resistor R and a capacitor C. The voltage/time figures 1 to 4 show changes in the voltage V(C) when the switch S is suddenly shifted from position 1 to 2 at time t = 0. Only one of the diagrams is correct. Which?",
+        "answers": [
+            "Control valve gland is over tightened.",
+            "Control air pressure supply is too low.",
+            "Control valve actuator diaphragm is ruptured.",
+            "Controller integral action reset time is too fast."
+        ],
+        "correct_answer": "Control valve gland is over tightened.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2025/05/Screenshot-from-2025-05-17-12-23-51.png"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Generic",
+        "index": 42,
+        "question": "Which one of the listed requirements regarding life-saving appliances corresponds to present regulations?",
+        "answers": [
+            "All prescribed life-saving appliances shall be made of non-combustible or fire retardant material.",
+            "All prescribed life-saving appliances shall be fitted with the manufacturers name and Logo.",
+            "All prescribed life-saving appliances shall have marking in red colour.",
+            "All prescribed life-saving appliances shall be of such a colour that they are in contrast to the surrounding colour."
+        ],
+        "correct_answer": "All prescribed life-saving appliances shall be made of non-combustible or fire retardant material.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Generic",
+        "index": 43,
+        "question": "Given a power system having values of apparent and reactive power at 500 kVA and 300 kVAr respectively, what is the power factor valued at?",
+        "answers": [
+            "0,6.",
+            "1,6.",
+            "1,0.",
+            "0,8."
+        ],
+        "correct_answer": "0,6.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Generic",
+        "index": 44,
+        "question": "When selecting switchgear to work with High Voltage it is important to use an appropriate arc quenching medium. What is meant by arc quenching medium?",
+        "answers": [
+            "The gas, liquid or vapour which will minimise creation of an electric arc as contacts open.",
+            "The way in which the contacts separate as the switchgear operates.",
+            "Equipment which communicates information about the arcing.",
+            "A material which assists a welding process."
+        ],
+        "correct_answer": "The gas, liquid or vapour which will minimise creation of an electric arc as contacts open.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Generic",
+        "index": 45,
+        "question": "During maintenance work on the main engine a problem arises regarding the lifting of a main component in that the manufacturer’s instructions ado not apply to the engine as fitted and present a hazard. In which of the information/record sources given in the options, is it most important to record the information relating to this anomaly?",
+        "answers": [
+            "ISM procedures in the ship’s safety manual.",
+            "Engine room log book.",
+            "Safety officers report.",
+            "Engine room planned maintenance schedule."
+        ],
+        "correct_answer": "ISM procedures in the ship’s safety manual.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Generic",
+        "index": 46,
+        "question": "When temperature of a gas is higher than normal temperature, what happens to the viscosity?",
+        "answers": [
+            "Viscosity increases.",
+            "No change in viscisity.",
+            "Viscosity decreases.",
+            "Initial decrease before returning to original viscosity."
+        ],
+        "correct_answer": "Viscosity increases.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Generic",
+        "index": 47,
+        "question": "What is the status of the rules of the SOLAS convention?",
+        "answers": [
+            "Mandatory.",
+            "Should be consulted when the vessel is in distress.",
+            "Must be regarded as guidelines.",
+            "Supplementary to classification rules."
+        ],
+        "correct_answer": "Mandatory.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Generic",
+        "index": 48,
+        "question": "Sometimes an early warning of failure in High Voltage switchboards may produce an unpleasent smell. If the switchboard uses gas circuit breakers, which type of unpleasant smell may indicate a potential problem?",
+        "answers": [
+            "Rotten eggs.",
+            "Gas oil.",
+            "Chlorine.",
+            "Rotten fish."
+        ],
+        "correct_answer": "Rotten eggs.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Generic",
+        "index": 49,
+        "question": "A temperature control system is exhibiting hysteresis. Checks on all of the system components show that they are functioning correctly. Which of the changes/modifications given in the options is most likely to correct this problem?",
+        "answers": [
+            "Fit a valve positioner to the system.",
+            "Increase the pressure of the air supply to the controller.",
+            "Fit a new temperature sensor with a narrower temperature range.",
+            "Slacken off the control valve gland."
+        ],
+        "correct_answer": "Fit a valve positioner to the system.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Generic",
+        "index": 50,
+        "question": "Which of following items shall be included in an abandon ship drill?",
+        "answers": [
+            "Instruction in the use of radio life-saving appliances.",
+            "Checking passenger’s immersion suits.",
+            "Checking the distress signal rockets and other distress signals.",
+            "Checking the lifeboat provisions and supplies."
+        ],
+        "correct_answer": "Instruction in the use of radio life-saving appliances.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Generic",
+        "index": 51,
+        "question": "How is the prime mover load normally kept to a minimum when starting up an electric driven reciprocating type air compressor?",
+        "answers": [
+            "By using an unloading device to keep the compressor suction valves open until the machine is up to speed.",
+            "By keeping the second stage drain valve open until the machine is up to speed.",
+            "By using an unloading device to keep the compressor delivery valves open until the machine is up to speed.",
+            "By keeping the main discharge valve closed until the machine is up to speed."
+        ],
+        "correct_answer": "By using an unloading device to keep the compressor suction valves open until the machine is up to speed.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Generic",
+        "index": 52,
+        "question": "A refrigeration plant is short cycling even though there is plenty of refrigerant in the system and all of the rooms are above temperature. From the options give select the one which is the most likely cause of the problem?",
+        "answers": [
+            "Blocked filter drier causing the automatic low pressure cut out to operate.",
+            "Ice formation in the meat room evaporator coil causing the automatic low pressure cut out to operate.",
+            "Insufficient cooling water flow through the condenser causing the automatic high pressure cut out to operate.",
+            "Low oil level in the sump causing the automatic low oil pressure cut out to operate."
+        ],
+        "correct_answer": "Blocked filter drier causing the automatic low pressure cut out to operate.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Generic",
+        "index": 53,
+        "question": "An Oil Record Book, Part 1,shall be provided to every ship of 400 tons gross tonnage and above to record machinery space operations.Out of below mentioned operations, it is compulsory to record:",
+        "answers": [
+            "Bunkering of bulk lubricating oil.",
+            "Purification of HFO.",
+            "Discharge of water from Aft, Peak Tank.",
+            "Transfer of oil from settling – to daytank."
+        ],
+        "correct_answer": "Bunkering of bulk lubricating oil.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Generic",
+        "index": 54,
+        "question": "Give the meaning of the following symbol:",
+        "answers": [
+            "Line throwing appliance.",
+            "Survival craft distress pyrotechnic signals.",
+            "Rocket parachute flares.",
+            "Lifeboat hand flare."
+        ],
+        "correct_answer": "Line throwing appliance.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2025/12/rocket.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Generic",
+        "index": 55,
+        "question": "A cable has a resistance of 100 milli-ohms. It supplies a 300 A load over a distance of 100 metres. What is the voltage drop along it’s length?",
+        "answers": [
+            "300 volts.",
+            "30 volts.",
+            "3,0 volts.",
+            "300 milli-volts."
+        ],
+        "correct_answer": "300 volts.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Generic",
+        "index": 56,
+        "question": "When starting air is applied to a diesel engine the engine fails to turn over but is seen to oscillate back and forth. What is the most likely cause of this problem?",
+        "answers": [
+            "One or more cylinder air start valves are stuck open.",
+            "The automatic valve has failed to open.",
+            "Starting air pressure is too low.",
+            "An interlock is blocking the air to the starting air distributor."
+        ],
+        "correct_answer": "One or more cylinder air start valves are stuck open.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Generic",
+        "index": 57,
+        "question": "When starting up an aerobic type sewage unit for the first time, or after manual cleaning, how should the bacterial process be initiated?",
+        "answers": [
+            "By adding an activating agent to the inflowing sewage.",
+            "By bypassing the grey water inflow and operating only with black water.",
+            "By filling the unit with sewage and bubbling air through it for 48 hours prior to starting the discharge pump.",
+            "By shutting off the air flow."
+        ],
+        "correct_answer": "By adding an activating agent to the inflowing sewage.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Generic",
+        "index": 58,
+        "question": "A 250 V contactor has been fitted to a 220 V supply. Which of the following symptoms might be observed?",
+        "answers": [
+            "Contactor chattering (vibrating).",
+            "Contactor constantly on.",
+            "Contactor overheating.",
+            "Contactor wont operate."
+        ],
+        "correct_answer": "Contactor chattering (vibrating).",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Generic",
+        "index": 59,
+        "question": "A positive displacement type flow meter is defective and cannot be repaired. It is to be replaced with a new instrument which uses a Venturi type sensor. Which of the pneumatic relays given in the options will be required in order for this type of instrument to function correctly?",
+        "answers": [
+            "Square root extractor relay.",
+            "Summation relay.",
+            "Multiplier relay.",
+            "Subtraction relay."
+        ],
+        "correct_answer": "Square root extractor relay.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Generic",
+        "index": 60,
+        "question": "On all UMS operated vessels and also on most other vessels the engine room is equipped with fire detectors. What requirements of testing and checking of the detectors are to be observed?",
+        "answers": [
+            "All the mentioned alternatives.",
+            "Check the detector with heat and/or smoke (in accordance with instructions in its manual).",
+            "When testing detectors by suitable equipment (smoke and heat) check that the sensors self controlling system, e. g. a flashing control light etc. is functioning.",
+            "Check that the actual detector is giving appropriate signals to the central control unit and that all electric connections are in good order."
+        ],
+        "correct_answer": "All the mentioned alternatives.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Generic",
+        "index": 61,
+        "question": "Some ships generate electrical power at 440 Volts, but then step up this voltage to supply specific electrical equipment. One common example may be to feed a large bow thruster. Why is this done?",
+        "answers": [
+            "The overall ship’s electrical load does not justify High Voltage generating plant. This method allows more power to be delivered to the bow thruster at low running cost.",
+            "The shipyard could not purchase High Voltage generating plant at the time of manufacture, so they used what was available at the time.",
+            "A large bow thruster will draw very large currents at low voltage. Being typically remote from the generator, significant voltage drops would occur at low voltage.",
+            "Manufacturers can supply High Voltage bow thrusters at less cost, and the power factor is improved."
+        ],
+        "correct_answer": "A large bow thruster will draw very large currents at low voltage. Being typically remote from the generator, significant voltage drops would occur at low voltage.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Generic",
+        "index": 62,
+        "question": "The mandatory color of a hand flare is:",
+        "answers": [
+            "Red.",
+            "Green.",
+            "White.",
+            "Yellow."
+        ],
+        "correct_answer": "Red.",
+        "images": [],
+        "explanation": "ජාත්‍යන්තර මුහුදු ආරක්‍ෂක නීති (SOLAS) සහ ජීවිත ආරක්ෂණ සම්මුතීන්ට අනුව හදිසි අවස්ථාවකදී භාවිත කරන 'Hand flare' එකක වර්ණය අනිවාර්යයෙන්ම රතු (Red) විය යුතුය. රතු පැහැය දුර සිට පැහැදිලිව පෙනෙන අතර එය ජාත්‍යන්තරව හදිසි අනතුරක් (Distress signal) ලෙස පිළිගැනේ. කොළ හෝ සුදු වැනි අනෙකුත් වර්ණ වෙනත් නාවික සංඥා සඳහා භාවිතා වන බැවින් හදිසි අනතුරකදී ඒවා භාවිතා කළ නොහැක."
+    },
+    {
+        "category": "CES – Engine, Management, Generic",
+        "index": 63,
+        "question": "A compressed air supply system has two automatically controlled air compressors. When demand is high both compressors are needed to meet the delivery requirements. What is the best method for controlling the compressors to meet a varying, but intermittent demand?",
+        "answers": [
+            "Sequential start initiated by pressure switches set at different switching pressures.",
+            "Start and stop of the compressors controlled by timer switches.",
+            "One compressor running continuously with the other on standby.",
+            "Continuous running of both compressors and the use of unloading devices."
+        ],
+        "correct_answer": "Sequential start initiated by pressure switches set at different switching pressures.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Generic",
+        "index": 64,
+        "question": "Which ships does the ISM code apply to:",
+        "answers": [
+            "All passenger ships, all cargo ships of 500 GRT or above.",
+            "All craft above 300 GRT.",
+            "Only tankers and Ro-ros.",
+            "Only passenger vessels."
+        ],
+        "correct_answer": "All passenger ships, all cargo ships of 500 GRT or above.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Generic",
+        "index": 65,
+        "question": "Telephones are being used to communicate between personnel onboard and ashore during a bunkering operation. What instruction would you give to ship personnel regarding action to take in the event of failure of the telephone communication during the operation:",
+        "answers": [
+            "Slow down the bunkering rate until alternative reliable communications are established.",
+            "Call the electrician, and get him to repair the telephone while the bunkering operation continues.",
+            "Stop the bunkering until alternative reliable communication are established.",
+            "Use a crewmember as a messenger between personnel involved in the operation."
+        ],
+        "correct_answer": "Stop the bunkering until alternative reliable communication are established.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Generic",
+        "index": 66,
+        "question": "Which cell voltage is required to trickle charge a lead acid battery?",
+        "answers": [
+            "2,15 V.",
+            "2,0 V.",
+            "1,2 V.",
+            "2,5 V."
+        ],
+        "correct_answer": "2,15 V.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Generic",
+        "index": 67,
+        "question": "Ordinary thyristors (SCR) must often be protected against reverse overvoltage transients. This is because they can be damaged by over- voltage, even if it is of extremely short duration. These SCRs have been given such over-voltage protection, but only one of them is correct. Which ones it?",
+        "answers": [
+            "Figure 4.",
+            "Figure 3.",
+            "Figure 2.",
+            "Figure 1."
+        ],
+        "correct_answer": "Figure 4.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2025/12/scheme-1.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Generic",
+        "index": 68,
+        "question": "In terms of automated control systems, what is applicable for a continuous control system?",
+        "answers": [
+            "Automatic control in which the controlled quantity is measured continuously and corrections are a continuous function of the deviation.",
+            "It is not possible to have a stable process.",
+            "The output signal is equal to the input signal.",
+            "The control valve will always be changing position."
+        ],
+        "correct_answer": "Automatic control in which the controlled quantity is measured continuously and corrections are a continuous function of the deviation.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Generic",
+        "index": 69,
+        "question": "The majority of marine diesel engines operate with either a pulse or a constant pressure turbocharging system. What is the main difference between these two systems?",
+        "answers": [
+            "Constant pressure systems have all engine cylinder exhaust connected to a common large exhaust gas manifold.",
+            "Pulse systems have all of the cylinder exhaust connected to a common large exhaust gas manifold.",
+            "Pulse systems always have a turbocharger for each group of three cylinders.",
+            "Constant pressure systems only ever have a single turbocharger irrespective of the number of cylinders on the engine."
+        ],
+        "correct_answer": "Constant pressure systems have all engine cylinder exhaust connected to a common large exhaust gas manifold.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Generic",
+        "index": 70,
+        "question": "What would be the preferred colour to use when maintaining the paint on shell, plating, structure and bottom/tanktop in the engine room?",
+        "answers": [
+            "White or light grey to ensure all minor spills and leakages are noticed and dealt with.",
+            "Dark brown/red colour to camuflage any minor leakages and oil spills.",
+            "The same colour as machinery and equipment.",
+            "Whatever paint is available."
+        ],
+        "correct_answer": "White or light grey to ensure all minor spills and leakages are noticed and dealt with.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Generic",
+        "index": 71,
+        "question": "Fluid flow is measured using a pneumatic differential pressure transmitter and is indicated on a direct reading instrument. The indicator is reading zero even though fluid is flowing through the system. When the flow rate changes the indicator initially registers a reading but then gradually returns to zero. From the options given select the probable cause of this condition.",
+        "answers": [
+            "Diaphragm in the differential pressure transmitter is perforated.",
+            "The connection to the differential pressure transmitter low pressure bellows is blocked.",
+            "The connection to the differential pressure transmitter high pressure bellows is blocked.",
+            "The I/P converter is faulted."
+        ],
+        "correct_answer": "Diaphragm in the differential pressure transmitter is perforated.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Generic",
+        "index": 72,
+        "question": "The HP discharge valves of a 2 stage air compressor suffer from build up of carbon deposits even though the correct maintenance is carried out on them. What is the most likely cause of this problem?",
+        "answers": [
+            "Worn scraper and piston rings.",
+            "Water in the compressor lubricating oil.",
+            "Compressor cooling water temperatrue too low.",
+            "Ineffective air intake filter."
+        ],
+        "correct_answer": "Worn scraper and piston rings.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Generic",
+        "index": 73,
+        "question": "When temperature of a liquid is higher than normal temperature, what happens to the viscosity?",
+        "answers": [
+            "Viscosity decreases.",
+            "Viscosity increases.",
+            "Initial decrease before returning to original viscosity.",
+            "No change in viscosity."
+        ],
+        "correct_answer": "Viscosity decreases.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Generic",
+        "index": 74,
+        "question": "Which organization or administration is responsible for surveys and inspections of ships, and the issue of Safety Certificates?",
+        "answers": [
+            "Ships Classification Associations (Lloyd’s, American Bureau of Shipping, The Norwegian Veritas, Germanische Lloyd’s, etc.).",
+            "International Maritime Organization (IMO).",
+            "International Labor Organization (ILO).",
+            "Government Authorities of the Flag State."
+        ],
+        "correct_answer": "Government Authorities of the Flag State.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Generic",
+        "index": 75,
+        "question": "Select the option which correctly completes the following statement. “Prior to allowing work to proceed in an onboard space testing of the atmosphere should be carried out …“.",
+        "answers": [
+            "For any space with limited access or non-continuous ventilation or is suspected of having a hazardous atmosphere.",
+            "Only if the space has a watertight door or watertight access opening.",
+            "Only if the space has contained liquid oil at some point.",
+            "Only if the space has been used to carry any cargo or contains any cargo related equipment."
+        ],
+        "correct_answer": "Only if the space has a watertight door or watertight access opening.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Generic",
+        "index": 76,
+        "question": "What should the expansion valve superheat setting be in order to get the best possible efficiency from a refrigerator evaporator?",
+        "answers": [
+            "5-10 degrees Celsius.",
+            "25-30 degrees Celsius.",
+            "40-50 degrees Celsius.",
+            "Minus 18 degrees Celsius."
+        ],
+        "correct_answer": "5-10 degrees Celsius.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Generic",
+        "index": 77,
+        "question": "What is usually the effect on G when the ship is damaged below the waterline, with water ingress?",
+        "answers": [
+            "It lowers.",
+            "It rises.",
+            "It first rises then lowers.",
+            "It is unchanged."
+        ],
+        "correct_answer": "It lowers.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2025/12/scheme2.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Generic",
+        "index": 78,
+        "question": "A vessel which normally operates with the engine room in UMS mode is unable to do so because of defects to some of the critical alarm functions. What are the main considerations that the Chief Engineer must take into account when planning alternative arrangements to cover the engine room requirements until the defects are cleared?",
+        "answers": [
+            "A work rota is established to ensure full coverage of engine room watchkeeping duties and adequate rest periods for the engineering staff.",
+            "A work rota is established to ensure at least one person is in the engine room at alltimes while the defects exist.",
+            "A work rota is established to ensure that the necessary repairs can be carried out as soond as possible.",
+            "A work rota is established to ensure that normal routine maintenance is carried out on time in accordance with the planned maintenance schedule."
+        ],
+        "correct_answer": "A work rota is established to ensure full coverage of engine room watchkeeping duties and adequate rest periods for the engineering staff.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Generic",
+        "index": 79,
+        "question": "The inductance which will induce an EMF of 1 Volt in a conductor when the current is changing at a rate of 1 Amp per second, is defined as:",
+        "answers": [
+            "One milliHenry.",
+            "One Reactance Unit.",
+            "One Farad.",
+            "One Henry."
+        ],
+        "correct_answer": "One Henry.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Generic",
+        "index": 80,
+        "question": "To avoid overbunkering and oil spill, it is very important that we closely monitor the progress of the bunkering operation. What is the safest method to use to minimise the risk of overflow and spillage?",
+        "answers": [
+            "Continuously monitor remote gauge readings and confirm with regular sounding of the fuel tanks.",
+            "The remote gauge system will provide us with the necessary information.",
+            "Open all the bunker tank lids to manually watch them filling.",
+            "Use the predicted loading rate to calculate how much oil is being received."
+        ],
+        "correct_answer": "Continuously monitor remote gauge readings and confirm with regular sounding of the fuel tanks.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Generic",
+        "index": 81,
+        "question": "Some new maintenance routines are being planned and a risk assessment is necessary so that the required procedures can be entered into the Snips Safety Management manual. Which of the following should be the first step in this risk assessment process?",
+        "answers": [
+            "Identify the hazards that may exist which may affect personnel involved with the maintenance routines.",
+            "Identify the safety precautions that may be necessary to prevent injury of harm to personnel carrying out the routines.",
+            "Identify who may be harmed or injured in carrying out the maintenance routines.",
+            "Identify how much it will cost to implement the necessary precautions to prevent injury to personnel."
+        ],
+        "correct_answer": "Identify the hazards that may exist which may affect personnel involved with the maintenance routines.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Generic",
+        "index": 82,
+        "question": "What type of dynamic forces may cause indent in plating on forecastle deck and main deck in way of pillars inside forecastle?",
+        "answers": [
+            "Pressure forces caused by green water on deck.",
+            "Impact pressure forces in way of abrupt or flared bow.",
+            "Forces created by waves on the forecastle.",
+            "Slamming in way of flat bottom forward of light draught."
+        ],
+        "correct_answer": "Pressure forces caused by green water on deck.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Generic",
+        "index": 83,
+        "question": "Shortly after starting up a fuel oil purifier oil is seen to be trickling out of the sludge outlet. Which of the options given is the most likely cause of this problem?",
+        "answers": [
+            "Damaged bowl seal.",
+            "Incorrect gravity disc fitted.",
+            "Excessive back pressure in the clean oil outlet.",
+            "Insufficient seal water supplied during start up."
+        ],
+        "correct_answer": "Damaged bowl seal.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Generic",
+        "index": 84,
+        "question": "The cold room temperature is almost at the cut out point in a vapour-compression refrigeration system. What should the refrigerant state be just after the evaporator if the system is correctly set up?",
+        "answers": [
+            "Slightly superheated low pressure gas.",
+            "Cold liquid at high pressure.",
+            "Wet vapour at high pressure.",
+            "Sub-cooled liquid at low pressure."
+        ],
+        "correct_answer": "Slightly superheated low pressure gas.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Generic",
+        "index": 85,
+        "question": "From the options given, select the one which is most likely to result in a high exhaust temperature in one cylinder of a diesel engine.",
+        "answers": [
+            "Scavenge ports of the one cylinder are dirty.",
+            "Nozzle ring of turbocharger fouled or partially choked.",
+            "Compression pressure too low.",
+            "Speed governor defective."
+        ],
+        "correct_answer": "Scavenge ports of the one cylinder are dirty.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Generic",
+        "index": 86,
+        "question": "After a couple of hours of operation the failure alarm sounds for a heavy fuel oil purifier which is operating on a timed automatic sludge cycle. Upon investigation the purifier is found to be running slowly and when opened up the casing and sludge outlet is heavily fouled with sludge in contact with the bowl. From the options given what is the most likely cause of this problem?",
+        "answers": [
+            "The heavy fuel is unstable leading to excessive high viscosity sludge formation.",
+            "The clutch for the drive shaft is worn and slipping.",
+            "The purifier bowl has not closed properly.",
+            "The dirty oil throughput is excessive."
+        ],
+        "correct_answer": "The heavy fuel is unstable leading to excessive high viscosity sludge formation.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Generic",
+        "index": 87,
+        "question": "Which of the following test results obtained using a Digital Multi-Meter shows that a diode in good working condition?",
+        "answers": [
+            "With + to Anode a reading of about 0,6 V and with probes reversed a reading of O/L.",
+            "With + to Cathode good continuity (low ohms) and with the probes reversed a reading of infinity.",
+            "With + to Anode good continuity (low ohms) and with the probes reversed a reading of infinity.",
+            "With + to Cathode a reading of about 0,6 V and with probes reversed a reading of O/L."
+        ],
+        "correct_answer": "With + to Anode a reading of about 0,6 V and with probes reversed a reading of O/L.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Generic",
+        "index": 88,
+        "question": "During maintenance work on the main engine a problem arises regarding the lifting of a main component in that the manufacturer’s instructions and not apply to the engine as fitted and present a hazard. In which of the information/record sources given in the options, is it most important to record the information relating to this anomaly?",
+        "answers": [
+            "ISM procedures in the ship’s safety manual.",
+            "Safety officers report.",
+            "Engine room planned maintenance schedule.",
+            "Engine room log book."
+        ],
+        "correct_answer": "ISM procedures in the ship’s safety manual.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Generic",
+        "index": 89,
+        "question": "Poster or signs shall be provided on or in the vicinity of survival craft and their launching controls. Which one of the following requirements has to be included?",
+        "answers": [
+            "Give relevant instructions and warnings.",
+            "Give an overview of location of all lifesaving appliances.",
+            "Give information on survival craft speed and seaworthiness.",
+            "Give information on survival craft capacity."
+        ],
+        "correct_answer": "Give relevant instructions and warnings.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2025/12/symbol.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Generic",
+        "index": 90,
+        "question": "The pressure control of a vessel’s domestic water system, which includes a hydrophore tank pressurised by air, is achieved by stop/start of the fresh water pumps using pressure switches. How should the system be prepared for first use to give correct operation of the pressure control?",
+        "answers": [
+            "Pressurise the hydrophore tank with air to approximately 50 % of the pump cut out pressure and then allow the pump to fill the tank until it cuts out.",
+            "Fill the hydrophore tank to approximately 75 % full with water and then pressurise with air up to the pump cut out point.",
+            "Fill the hydrophore tank completely with water and then pressurise with air up to the pump cut out point."
+        ],
+        "correct_answer": "Pressurise the hydrophore tank with air to approximately 50 % of the pump cut out pressure and then allow the pump to fill the tank until it cuts out.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Generic",
+        "index": 91,
+        "question": "What is the main theme of modern safety practice?",
+        "answers": [
+            "Making use of Risk Assessment as a means to improving safety.",
+            "Use the same practice that has been in place for some time.",
+            "Health & Safety at Work Act.",
+            "Consult the chief officer before commencing work."
+        ],
+        "correct_answer": "Making use of Risk Assessment as a means to improving safety.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Generic",
+        "index": 92,
+        "question": "A tachometer for a diesel engine is reading erratically. The tachometer is of the non-contact type using magnetic proximity switches to generate the signal. What is the most likely cause of this problem?",
+        "answers": [
+            "The proximity switch has dirt on the outside casing.",
+            "The shaft magnet has become demagnetised.",
+            "The shaft magnet has fallen off.",
+            "The proximity switch is loose on its mounting."
+        ],
+        "correct_answer": "The proximity switch has dirt on the outside casing.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Generic",
+        "index": 93,
+        "question": "For a search to be effective it must be:",
+        "answers": [
+            "Centrally controlled.",
+            "Organized haphazardly.",
+            "Conducted by personnel with limited knowledge of the ship’s layout.",
+            "Inclusive of all personnel."
+        ],
+        "correct_answer": "Centrally controlled.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Generic",
+        "index": 94,
+        "question": "The exhaust temperature on one cylinder of a diesel engine is high; what is the most likely cause of this?",
+        "answers": [
+            "Leaking exhaust valves.",
+            "Insufficient cylinder lubricating oil feed to the cylinder.",
+            "Reduced fuel delivery from fuel injection pump.",
+            "Leaking inlet valves."
+        ],
+        "correct_answer": "Leaking exhaust valves.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Generic",
+        "index": 95,
+        "question": "In the event of a diesel engine crankcase explosion which of the safety devices fitted to the engine is designed to minimise the risk of a secondary explosion?",
+        "answers": [
+            "Crankcase relief valves/doors.",
+            "Main bearing temperature monitoring equipment.",
+            "Crankcase oil mist detector.",
+            "Crankcase extraction fan."
+        ],
+        "correct_answer": "Crankcase relief valves/doors.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Generic",
+        "index": 96,
+        "question": "What should be the healthy continuity resistance of a 220 V, 2,2 kW, 10 A heating element, when checked near to it’s rated operating temperature?",
+        "answers": [
+            "22 Ohms.",
+            "220 Ohms.",
+            "0,1 Ohms.",
+            "10 Ohms."
+        ],
+        "correct_answer": "22 Ohms.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Generic",
+        "index": 97,
+        "question": "On-board training in the use of davit-launched liferafts (including inflation and lowering whenever practicable) must take place:",
+        "answers": [
+            "Every 4 months.",
+            "Every 3 months.",
+            "Every 2 months.",
+            "Every month."
+        ],
+        "correct_answer": "Every 4 months.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Generic",
+        "index": 98,
+        "question": "Which one of the given requirements regarding survival craft muster and embarkation arrangements corresponds to the present SOLAS regulations?",
+        "answers": [
+            "Muster and embarkation stations shall be readily accessible from accommodation and work areas.",
+            "Davit-launched survival craft muster and embarkation stations shall be arranged to enable stretchers to be placed in survival craft.",
+            "Muster and embarkation stations are to be arranged separately to improve working conditions.",
+            "Searchlights to be provided at the launching station."
+        ],
+        "correct_answer": "Muster and embarkation stations shall be readily accessible from accommodation and work areas.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Generic",
+        "index": 99,
+        "question": "A motor is found to be overheated. A maintenance check was done and there was no overload. What is remedy to resolve the overheating?",
+        "answers": [
+            "Ventilation passages may be blocked and should be blown out with compressed air.",
+            "Check state of brushes and slip rings.",
+            "Replace with new cables of sufficient current carrying capacity.",
+            "Replace with new rotor."
+        ],
+        "correct_answer": "Ventilation passages may be blocked and should be blown out with compressed air.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Generic",
+        "index": 100,
+        "question": "A mechanical-hydraulic speed control governor fitted to an auxiliary engine is giving erratic speed control causing the engine to hunt wildly even when there is only a small load change. From the options given which is the most likely cause of this condition?",
+        "answers": [
+            "Compensation needle valve is open too much.",
+            "Speed droop setting set too high.",
+            "Speed droop setting set too low.",
+            "Compensation needle valve is not open enough."
+        ],
+        "correct_answer": "Compensation needle valve is open too much.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Generic",
+        "index": 101,
+        "question": "In a PID controller the setting of the Proportional band (P), the Reset time (I) and the Rate time (D) may be adjusted. Please indicate which curve shows the typical response to a change in input, if the setting of the proportional band is too wide.",
+        "answers": [
+            "Figure 1.",
+            "Figure 2.",
+            "Figure 3.",
+            "Figure 4."
+        ],
+        "correct_answer": "Figure 1.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2025/12/graphs.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Generic",
+        "index": 102,
+        "question": "Part way through a profiling interview with a supplier, the package the individual is carrying arouses your suspicion. What do you do?",
+        "answers": [
+            "Discreetly inform someone of your suspicions so he or she can get assistance.",
+            "Take the package and open it.",
+            "Confront the individual and demand that he open the package.",
+            "Call for help on the radio."
+        ],
+        "correct_answer": "Discreetly inform someone of your suspicions so he or she can get assistance.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Generic",
+        "index": 103,
+        "question": "Identify symbol shown below:",
+        "answers": [
+            "Diaphragm.",
+            "Solenoid.",
+            "Motor.",
+            "Spring."
+        ],
+        "correct_answer": "Diaphragm.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2025/12/Screenshot-from-2025-12-23-08-56-02.png"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Generic",
+        "index": 104,
+        "question": "The continuity resistance of a 100 m long × 25 sq. mm cable (rated at 100 A) is to be checked. Which of the following results would you anticipate?",
+        "answers": [
+            "Between 0,1 and 1,0 ohm.",
+            "Greater than 1 M ohms.",
+            "Between 0,1 micro ohm and 1,0 micro ohm.",
+            "Between 0,1 and 1,0 M ohm."
+        ],
+        "correct_answer": "Between 0,1 and 1,0 ohm.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Generic",
+        "index": 105,
+        "question": "Why is it important to make weekly/routine rounds in the accommodation areas?",
+        "answers": [
+            "To ensure that cabins and common spaces are maintained in a clean, safe and hygienic condition.",
+            "To search for any contraband goods hidden on board.",
+            "To check for alcohol in cabins.",
+            "It is a requirement as per flag state."
+        ],
+        "correct_answer": "To ensure that cabins and common spaces are maintained in a clean, safe and hygienic condition.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Generic",
+        "index": 106,
+        "question": "What is the normal slow down/shutdown temperature for the jacket cooling water outlet from a diesel engine cylinder?",
+        "answers": [
+            "95-98 °C.",
+            "105-108 °C.",
+            "85-88 °C.",
+            "75-78 °C."
+        ],
+        "correct_answer": "95-98 °C.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Generic",
+        "index": 107,
+        "question": "In the type of fluorescent lamp system shown in the illustration, which of the following indicates the purpose of the starter?",
+        "answers": [
+            "To pass current through the lamp heaters, and then interrupt the inductive striking current.",
+            "To create a high starting current.",
+            "To charge the ballast to a high inductive current, and then divert this current through the lamp.",
+            "To switch on current through the lamp, and to disconnect the ballast once the lamp has started."
+        ],
+        "correct_answer": "To pass current through the lamp heaters, and then interrupt the inductive striking current.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2025/12/Screenshot-from-2025-12-23-09-03-09.png"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Engine, Management, Generic",
+        "index": 108,
+        "question": "Which of the options given is the most likely reason for a drop in pressure at the charge air manifold of a diesel engine?",
+        "answers": [
+            "Air filter to turbocharger fouled or obstructed.",
+            "Charge air cooler fouled on waterside.",
+            "Increased engine load.",
+            "Air passageways or ports to the engine cylinders partly blocked due to fouling."
+        ],
+        "correct_answer": "Air filter to turbocharger fouled or obstructed.",
+        "images": [],
+        "explanation": ""
+    }
+]

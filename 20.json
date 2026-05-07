@@ -1,0 +1,1681 @@
+[
+    {
+        "category": "CES – Maritime English",
+        "index": 1,
+        "question": "The training course lasts 3 days, from Tuesday to ____.",
+        "answers": [
+            "Saturday.",
+            "Thursday.",
+            "Monday.",
+            "Wednesday."
+        ],
+        "correct_answer": "Thursday.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Maritime English",
+        "index": 2,
+        "question": "Excessive amounts of grease do not ensure that wire ropes are ____ corrosion and may in fact hide corrosion deficiencies.",
+        "answers": [
+            "Protected with.",
+            "Protected from.",
+            "Protect by.",
+            "Protection of."
+        ],
+        "correct_answer": "Protected from.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Maritime English",
+        "index": 3,
+        "question": "It is important ____ on board the originals of all your certificates and endorsements.",
+        "answers": [
+            "To cry.",
+            "Carrying.",
+            "To carry.",
+            "To carried."
+        ],
+        "correct_answer": "To carry.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Maritime English",
+        "index": 4,
+        "question": "Please listen to the audio clip and select the correct answer.",
+        "answers": [
+            "I see that, I’ll use both hands on the railings.",
+            "Thanks, I can get my medical at the next port.",
+            "What happened to the lifeboat, it’s missing?",
+            "Has the meeting started yet?"
+        ],
+        "correct_answer": "I see that, I’ll use both hands on the railings.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Maritime English",
+        "index": 5,
+        "question": "Please view the image, listen to each audio clip and then select the correct answer.",
+        "answers": [
+            "",
+            "",
+            ""
+        ],
+        "correct_answer": "",
+        "images": [
+            "/files/img/else/no_smoking.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Maritime English",
+        "index": 6,
+        "question": "Remember ____ the expiry date on all certificates and documents as expired certificates are not valid for service on-board.",
+        "answers": [
+            "Then.",
+            "That.",
+            "To check.",
+            "To ignore."
+        ],
+        "correct_answer": "To check.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Maritime English",
+        "index": 7,
+        "question": "The bosun, who was in charge of the operation, ____ the cargo net to the launch.",
+        "answers": [
+            "Lowered.",
+            "Towered.",
+            "Powered.",
+            "Cowered."
+        ],
+        "correct_answer": "Lowered.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Maritime English",
+        "index": 8,
+        "question": "Masters and crew must have a zero ____ of unplanned entry into enclosed spaces.",
+        "answers": [
+            "Tolerance.",
+            "Risking.",
+            "To risk.",
+            "Aptitude."
+        ],
+        "correct_answer": "Tolerance.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Maritime English",
+        "index": 9,
+        "question": "Please listen to the audio clip and select the correct answer.",
+        "answers": [
+            "The weather doesn’t look good.",
+            "Be careful, those pipes are hot.",
+            "Yes, the kettle is full, let’s have some coffee.",
+            "Yes, it was sent by the chandler yesterday."
+        ],
+        "correct_answer": "Yes, it was sent by the chandler yesterday.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Maritime English",
+        "index": 10,
+        "question": "Enclosed space openings ____ rigorously controlled.",
+        "answers": [
+            "Need to be.",
+            "Is need.",
+            "Is needing.",
+            "Had needing be."
+        ],
+        "correct_answer": "Need to be.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Maritime English",
+        "index": 11,
+        "question": "We lost total power when the ____ occured.",
+        "answers": [
+            "Blackout.",
+            "Blockout.",
+            "Blanked.",
+            "Blackeye."
+        ],
+        "correct_answer": "Blackout.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Maritime English",
+        "index": 12,
+        "question": "Please listen to the audio clip and select the correct answer.",
+        "answers": [
+            "It was just before the change of watch.",
+            "Yes, all the lights were working properly.",
+            "There’s plenty of room on the starboard side.",
+            "Yes, we had all available hands deployed."
+        ],
+        "correct_answer": "Yes, all the lights were working properly.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Maritime English",
+        "index": 13,
+        "question": "Please view the image, listen to each audio clip and then select the correct answer.",
+        "answers": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct_answer": "",
+        "images": [
+            "/files/img/else/noizy.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Maritime English",
+        "index": 14,
+        "question": "The master ____ evacuate the engine room, shut down ventilation and operate the fixed CO2 fire extinguishing system.",
+        "answers": [
+            "Handle the.",
+            "And control.",
+            "Decided to.",
+            "Decision of."
+        ],
+        "correct_answer": "Decided to.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Maritime English",
+        "index": 15,
+        "question": "Marine engineers are ____ the operation and maintenance of the vessel’s engines, as well as the electrical and electronic equipment.",
+        "answers": [
+            "Responsible for.",
+            "To be responsive.",
+            "To respond.",
+            "Responding about."
+        ],
+        "correct_answer": "Responsible for.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Maritime English",
+        "index": 16,
+        "question": "It was shaking badly; everyone could feel the ____.",
+        "answers": [
+            "Vaccination.",
+            "Evacuation.",
+            "Vacation.",
+            "Vibration."
+        ],
+        "correct_answer": "Vibration.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Maritime English",
+        "index": 17,
+        "question": "Please view the image, listen to each audio clip and then select the correct answer.",
+        "answers": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct_answer": "",
+        "images": [
+            "/files/img/else/shower.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Maritime English",
+        "index": 18,
+        "question": "MARPOL: The International Convention for the ____ of Pollution from Ships.",
+        "answers": [
+            "Pretension.",
+            "Prevention.",
+            "Protection.",
+            "Promotion."
+        ],
+        "correct_answer": "Prevention.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Maritime English",
+        "index": 19,
+        "question": "Vessel personnel must react immediately to any suspected ____ of security.",
+        "answers": [
+            "Brackets.",
+            "Closeness.",
+            "Personnel.",
+            "Breaches."
+        ],
+        "correct_answer": "Breaches.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Maritime English",
+        "index": 20,
+        "question": "STCW: The International Convention on ____ of Training, Certification and Watchkeeping.",
+        "answers": [
+            "Standards.",
+            "Seafarer.",
+            "Section.",
+            "System."
+        ],
+        "correct_answer": "Standards.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Maritime English",
+        "index": 21,
+        "question": "Please view the image, listen to each audio clip and then select the correct answer.",
+        "answers": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct_answer": "",
+        "images": [
+            "/files/img/else/worker.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Maritime English",
+        "index": 22,
+        "question": "The person assigned to keep ____ should not attend to any other duties during the period of hot work.",
+        "answers": [
+            "Fire watch.",
+            "Drinking.",
+            "Cooling.",
+            "Fire hazard."
+        ],
+        "correct_answer": "Fire watch.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Maritime English",
+        "index": 23,
+        "question": "We painted the ship’s main deck early in the ____ before the sun got too hot.",
+        "answers": [
+            "Afternoon.",
+            "Home leave.",
+            "Morning.",
+            "Evening."
+        ],
+        "correct_answer": "Morning.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Maritime English",
+        "index": 24,
+        "question": "Please listen to the audio clip and select the correct answer.",
+        "answers": [
+            "Yes it is slippy, be careful.",
+            "Is the paint store this way?",
+            "Hang your overalls there.",
+            "What’s the cook making, it smells great?"
+        ],
+        "correct_answer": "Yes it is slippy, be careful.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Maritime English",
+        "index": 25,
+        "question": "The reason the vessel grounded was ____ under keel clearance.",
+        "answers": [
+            "Inefficient.",
+            "Over efficient.",
+            "Efficient.",
+            "Insufficient."
+        ],
+        "correct_answer": "Insufficient.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Maritime English",
+        "index": 26,
+        "question": "Any training that is carried out onboard, as part of an approved training programme, must be ____ in a training record book.",
+        "answers": [
+            "Recorded.",
+            "Routed.",
+            "Rounded.",
+            "Rendered."
+        ],
+        "correct_answer": "Recorded.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Maritime English",
+        "index": 27,
+        "question": "Please listen to the audio clip and select the correct answer.",
+        "answers": [
+            "Of course, I will put it on the agenda.",
+            "Can we make the pilotage in time?",
+            "It is time to alter course.",
+            "Make sure we order plenty of fresh food at the next port."
+        ],
+        "correct_answer": "Of course, I will put it on the agenda.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Maritime English",
+        "index": 28,
+        "question": "Please listen to the audio clip and select the correct answer.",
+        "answers": [
+            "Have you got any cigarettes?",
+            "I’m not sure what the time is, no.",
+            "We should stop and finish the job later.",
+            "The VHF transmitter is working now."
+        ],
+        "correct_answer": "We should stop and finish the job later.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Maritime English",
+        "index": 29,
+        "question": "The ship’s engineers decided to carry out a ____ to locate any leaks.",
+        "answers": [
+            "Pressure test.",
+            "Have you got any cigarettes?",
+            "I’m not sure what the time is, no.",
+            "The VHF transmitter is working now."
+        ],
+        "correct_answer": "Pressure test.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Maritime English",
+        "index": 30,
+        "question": "Pilots provide a vital service to seafarers by assisting with the safe navigation of vessels at the ____ stages of the voyage.",
+        "answers": [
+            "Most critical.",
+            "Most lowest.",
+            "Most criticised.",
+            "Highest."
+        ],
+        "correct_answer": "Most critical.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Maritime English",
+        "index": 31,
+        "question": "Please view the image, listen to each audio clip and then select the correct answer.",
+        "answers": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct_answer": "",
+        "images": [
+            "/files/img/else/welding.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Maritime English",
+        "index": 32,
+        "question": "Drills and contingency plans are needed to better prepare crews to ____ propulsion failures.",
+        "answers": [
+            "Deal with.",
+            "Evacuate.",
+            "Dealing.",
+            "Conduct."
+        ],
+        "correct_answer": "Deal with.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Maritime English",
+        "index": 33,
+        "question": "Crew members assigned to the engine room must be alert and prepared for risks ____ hot spots.",
+        "answers": [
+            "Associated with.",
+            "Contained with.",
+            "Assessment.",
+            "Assured by."
+        ],
+        "correct_answer": "Associated with.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Maritime English",
+        "index": 34,
+        "question": "Please listen to the audio clip and select the correct answer.",
+        "answers": [
+            "Call the mate for the 04:00 watch now please.",
+            "Make sure you stay clear of the snap back zone.",
+            "Just one more checklist then we’re done.",
+            "The pilot has ordered a speed reduction."
+        ],
+        "correct_answer": "Just one more checklist then we’re done.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Maritime English",
+        "index": 35,
+        "question": "The Bosun ____ the access hatch of the tank to start ventilating it with air.",
+        "answers": [
+            "Opened.",
+            "Closed.",
+            "Draped.",
+            "Dropped."
+        ],
+        "correct_answer": "Opened.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Maritime English",
+        "index": 36,
+        "question": "It looked like a ____ from this distance, at least there seemed to be pipework on deck.",
+        "answers": [
+            "Tanker.",
+            "Fishing vessel.",
+            "Container ship.",
+            "Sailing vessel."
+        ],
+        "correct_answer": "Tanker.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Maritime English",
+        "index": 37,
+        "question": "Sometimes we had a barbecue on the ____.",
+        "answers": [
+            "Main engine.",
+            "Two cadets.",
+            "Poop deck.",
+            "Port state inspection."
+        ],
+        "correct_answer": "Poop deck.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Maritime English",
+        "index": 38,
+        "question": "STCW requires all seafarers to receive familiarisation and basic safety training or instruction ____ section A-VI/1 of the STCW Code.",
+        "answers": [
+            "Inaction with.",
+            "Interaction with.",
+            "Accordingly.",
+            "In accordance with."
+        ],
+        "correct_answer": "In accordance with.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Maritime English",
+        "index": 39,
+        "question": "Please listen to the audio clip and select the correct answer.",
+        "answers": [
+            "Stop cargo operations.",
+            "Are fenders on the berth?",
+            "Is the radar operational?",
+            "The engine is on bridge control."
+        ],
+        "correct_answer": "Stop cargo operations.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Maritime English",
+        "index": 40,
+        "question": "Please view the image, listen to each audio clip and then select the correct answer.",
+        "answers": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct_answer": "",
+        "images": [
+            "/files/img/else/crew.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Maritime English",
+        "index": 41,
+        "question": "____ of alcohol or illegal drugs can severely impair any seafarer’s fitness for duty.",
+        "answers": [
+            "Consumption.",
+            "Commitment.",
+            "Resumption.",
+            "Possession."
+        ],
+        "correct_answer": "Consumption.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Maritime English",
+        "index": 42,
+        "question": "“Go to the port bow and check the clearance”, the Master ordered. So we went ____.",
+        "answers": [
+            "Forward.",
+            "Aft.",
+            "Down below.",
+            "Aloft."
+        ],
+        "correct_answer": "Forward.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Maritime English",
+        "index": 43,
+        "question": "Under the STCW Convention, all seafarers ____ minimum standards of competence, age, medical fitness, and approved sea-going service.",
+        "answers": [
+            "Need to meet.",
+            "On condition.",
+            "Have meeting.",
+            "Are met."
+        ],
+        "correct_answer": "Need to meet.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Maritime English",
+        "index": 44,
+        "question": "The vessel is owned by a Greek company but flagged in ____.",
+        "answers": [
+            "Panama.",
+            "Bank of America.",
+            "ECDIS.",
+            "Ship chandler."
+        ],
+        "correct_answer": "Panama.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Maritime English",
+        "index": 45,
+        "question": "Please listen to the audio clip and select the correct answer.",
+        "answers": [
+            "Nearly, it’ll be done shortly.",
+            "The Bosun has a torch.",
+            "I can see smoke, sound the alarm.",
+            "I’m not sure what’s for lunch."
+        ],
+        "correct_answer": "Nearly, it’ll be done shortly.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Maritime English",
+        "index": 46,
+        "question": "No sudden or unusual ship movements ____ at the time of the accident.",
+        "answers": [
+            "Were reported.",
+            "Quickly.",
+            "Were reacted.",
+            "Are report."
+        ],
+        "correct_answer": "Were reported.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Maritime English",
+        "index": 47,
+        "question": "Please view the image, listen to each audio clip and then select the correct answer.",
+        "answers": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct_answer": "",
+        "images": [
+            "/files/img/else/goggles.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Maritime English",
+        "index": 48,
+        "question": "Please view the image, listen to each audio clip and then select the correct answer.",
+        "answers": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct_answer": "",
+        "images": [
+            "/files/img/else/lifeboat.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Maritime English",
+        "index": 49,
+        "question": "Please view the image, listen to each audio clip and then select the correct answer.",
+        "answers": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct_answer": "",
+        "images": [
+            "/files/img/else/cask.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Maritime English",
+        "index": 50,
+        "question": "Later in the day the weather ____ bad again.",
+        "answers": [
+            "Burned.",
+            "Gained.",
+            "Turned.",
+            "Tuned."
+        ],
+        "correct_answer": "Turned.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Maritime English",
+        "index": 51,
+        "question": "Three crew members ____ the rescue boat.",
+        "answers": [
+            "Boarded.",
+            "Was boarding.",
+            "Has board.",
+            "Has boarded."
+        ],
+        "correct_answer": "Boarded.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Maritime English",
+        "index": 52,
+        "question": "Basic safety familiarisation will enable you to take immediate action upon ____ an accident or other medical emergency.",
+        "answers": [
+            "Encountering.",
+            "Counting.",
+            "Reacting.",
+            "Countering."
+        ],
+        "correct_answer": "Encountering.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Maritime English",
+        "index": 53,
+        "question": "It is essential to avoid dehydration: ____.",
+        "answers": [
+            "Drink water.",
+            "Eat breakfast.",
+            "Send an email.",
+            "Enter in the logbook."
+        ],
+        "correct_answer": "Drink water.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Maritime English",
+        "index": 54,
+        "question": "Crew members, of all ranks, should feel empowered ____ inappropriate decisions.",
+        "answers": [
+            "Strictly.",
+            "And corrective.",
+            "For repeating.",
+            "To challenge."
+        ],
+        "correct_answer": "To challenge.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Maritime English",
+        "index": 55,
+        "question": "Once a fire has been contained, smoke boundaries ____ to identify the furthest the team can progress towards a fire in fresh air.",
+        "answers": [
+            "Are established.",
+            "Are estimable.",
+            "Establishing.",
+            "Are establishment."
+        ],
+        "correct_answer": "Are established.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Maritime English",
+        "index": 56,
+        "question": "Ballast is intended to provide ____.",
+        "answers": [
+            "Are established.",
+            "Are estimable.",
+            "Establishing.",
+            "Are establishment."
+        ],
+        "correct_answer": "Are established.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Maritime English",
+        "index": 57,
+        "question": "The crew must be thoroughly ____ on proper garbage collection, segregation, storage and disposal procedures.",
+        "answers": [
+            "Drilled.",
+            "Pierced.",
+            "Penetrated.",
+            "Punctured."
+        ],
+        "correct_answer": "Drilled.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Maritime English",
+        "index": 58,
+        "question": "Please listen to the audio clip and select the correct answer.",
+        "answers": [
+            "Not yet, the AB is arranging it now.",
+            "The sun is in my eyes.",
+            "The paint is stored over there.",
+            "It’s only Thursday, it’ll take another week."
+        ],
+        "correct_answer": "Not yet, the AB is arranging it now.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Maritime English",
+        "index": 59,
+        "question": "Do not mix bunkers from two ____ suppliers in the same tanks.",
+        "answers": [
+            "Different.",
+            "Simulator.",
+            "Alternator.",
+            "Strange."
+        ],
+        "correct_answer": "Different.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Maritime English",
+        "index": 60,
+        "question": "We need ____ to hold on to the handrail, it was icy.",
+        "answers": [
+            "Gloves.",
+            "Hard hats.",
+            "Overalls.",
+            "Safety boots."
+        ],
+        "correct_answer": "Gloves.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Maritime English",
+        "index": 61,
+        "question": "Please view the image, listen to each audio clip and then select the correct answer.",
+        "answers": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct_answer": "",
+        "images": [
+            "/files/img/else/suit.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Maritime English",
+        "index": 62,
+        "question": "Please listen to the audio clip and select the correct answer.",
+        "answers": [
+            "I don’t mind if you use the mobile phone.",
+            "Yes, we’re getting into some fog now.",
+            "Can you check the portside liferafts please?",
+            "I’m just going to take a rest."
+        ],
+        "correct_answer": "Yes, we’re getting into some fog now.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Maritime English",
+        "index": 63,
+        "question": "The ____ hit hard just as we arrived in port, it was a blizzard.",
+        "answers": [
+            "Snow.",
+            "Tug.",
+            "Jetty.",
+            "Sunshine."
+        ],
+        "correct_answer": "Snow.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Maritime English",
+        "index": 64,
+        "question": "All joining crew need to complete a period of ship-specific and security familiarisation training before ____ any shipboard functions.",
+        "answers": [
+            "Being boarded.",
+            "Being assigned.",
+            "Begin assigned.",
+            "Boarding."
+        ],
+        "correct_answer": "Being boarded.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Maritime English",
+        "index": 65,
+        "question": "Understand where the risk of an eye injury exists and ____ suitable protection to prevent such injury.",
+        "answers": [
+            "Identify.",
+            "Indemnify.",
+            "Identity.",
+            "Indented."
+        ],
+        "correct_answer": "Identify.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Maritime English",
+        "index": 66,
+        "question": "Please listen to the audio clip and select the correct answer.",
+        "answers": [
+            "The Surveyor is down below with the Electrician.",
+            "The fresh supplies have arrived, get them on board.",
+            "Yes the doctor saw him and dressed the wound.",
+            "We can take on a maintenance team for that job."
+        ],
+        "correct_answer": "Yes the doctor saw him and dressed the wound.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Maritime English",
+        "index": 67,
+        "question": "Please listen to the audio clip and select the correct answer.",
+        "answers": [
+            "You can get one on the crew launch.",
+            "The weather looks good, we should start the painting today.",
+            "The crew’s lunch starts around 11:30.",
+            "The airport isn’t far, the agent will take you."
+        ],
+        "correct_answer": "You can get one on the crew launch.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Maritime English",
+        "index": 68,
+        "question": "Please view the image, listen to each audio clip and then select the correct answer.",
+        "answers": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct_answer": "",
+        "images": [
+            "/files/img/else/stairs.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Maritime English",
+        "index": 69,
+        "question": "After the rescue boat was loaded it was ____ to the water by lifting the brake.",
+        "answers": [
+            "Cowered.",
+            "Powdered.",
+            "Flowered.",
+            "Lowered."
+        ],
+        "correct_answer": "Lowered.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Maritime English",
+        "index": 70,
+        "question": "Please view the image, listen to each audio clip and then select the correct answer.",
+        "answers": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct_answer": "",
+        "images": [
+            "/files/img/else/vahta.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Maritime English",
+        "index": 71,
+        "question": "Replacing or repairing equipment without reference to technical documentation ____ a high risk.",
+        "answers": [
+            "Is always.",
+            "Can being.",
+            "Lowering.",
+            "Complaints."
+        ],
+        "correct_answer": "Is always.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Maritime English",
+        "index": 72,
+        "question": "Ratings forming part of a navigational watch are ____ able to comply with helm orders issued in English.",
+        "answers": [
+            "Required to be.",
+            "Refused to be.",
+            "Not requested.",
+            "To require."
+        ],
+        "correct_answer": "Required to be.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Maritime English",
+        "index": 73,
+        "question": "All team members must maintain a high level of ____ at all times.",
+        "answers": [
+            "Working aloft.",
+            "Situational awareness.",
+            "Alcohol.",
+            "Carbon dioxide."
+        ],
+        "correct_answer": "Situational awareness.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Maritime English",
+        "index": 74,
+        "question": "Please listen to the audio clip and select the correct answer.",
+        "answers": [
+            "Is there any space in the paint locker?",
+            "I’m sorry, you can’t smoke here.",
+            "There’s a drydock coming up next month.",
+            "Yes of course, it’s really a two man job."
+        ],
+        "correct_answer": "Yes of course, it’s really a two man job.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Maritime English",
+        "index": 75,
+        "question": "Please listen to the audio clip and select the correct answer.",
+        "answers": [
+            "The Chief Engineer has gone back to the control room.",
+            "OK, I’ll move it now.",
+            "I know, the game starts at 8.",
+            "Is there any bottled water available?"
+        ],
+        "correct_answer": "The Chief Engineer has gone back to the control room.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Maritime English",
+        "index": 76,
+        "question": "Please view the image, listen to each audio clip and then select the correct answer.",
+        "answers": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct_answer": "",
+        "images": [
+            "/files/img/else/shoes.jpg"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Maritime English",
+        "index": 77,
+        "question": "Please listen to the audio clip and select the correct answer.",
+        "answers": [
+            "Yes, I will, some deck areas need another coat.",
+            "The bailed garbage needs to go ashore.",
+            "Can we finish cargo operations today?",
+            "There’s a delivery of food waiting to load."
+        ],
+        "correct_answer": "Yes, I will, some deck areas need another coat.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Maritime English",
+        "index": 78,
+        "question": "The problem of piracy is ____ differently by companies depending on the type of ship and its trading routes.",
+        "answers": [
+            "Being dealt with.",
+            "Dealing with.",
+            "Dealing without.",
+            "Terrible."
+        ],
+        "correct_answer": "Being dealt with.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Maritime English",
+        "index": 79,
+        "question": "The ____ was getting worse, a cyclone was forming.",
+        "answers": [
+            "Weather.",
+            "Communication.",
+            "Engine fire.",
+            "Cooking."
+        ],
+        "correct_answer": "Weather.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Maritime English",
+        "index": 80,
+        "question": "Under the STCW Convention, all officers in charge of a watch must have a good ____ of spoken and written English.",
+        "answers": [
+            "Compound.",
+            "Comment.",
+            "Command.",
+            "Communication."
+        ],
+        "correct_answer": "Compound.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Maritime English",
+        "index": 81,
+        "question": "Ballast is intended to provide ____.",
+        "answers": [
+            "Stability.",
+            "Suitability.",
+            "Ability.",
+            "Compatability."
+        ],
+        "correct_answer": "Stability.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Maritime English",
+        "index": 82,
+        "question": "Crewmembers must be ____ for hazardous conditions and be prepared to report them.",
+        "answers": [
+            "Alert.",
+            "Ahead.",
+            "Always.",
+            "Astern."
+        ],
+        "correct_answer": "Alert.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Maritime English",
+        "index": 83,
+        "question": "Hot work must be planned and supervised and crew should be fully aware of the ____ system.",
+        "answers": [
+            "Permit to work.",
+            "Smoke break.",
+            "Permission to speak.",
+            "Dehydration."
+        ],
+        "correct_answer": "Permit to work.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Maritime English",
+        "index": 84,
+        "question": "The rigging of pilot ladders should be ____ under the supervision of a responsible officer.",
+        "answers": [
+            "Performed.",
+            "Performance.",
+            "Perfumed.",
+            "Proofed."
+        ],
+        "correct_answer": "Performed.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Maritime English",
+        "index": 85,
+        "question": "The bosun, who was in charge of the operation, ____ the cargo net the launch.",
+        "answers": [
+            "Cowered.",
+            "Powered.",
+            "Lowered.",
+            "Towered."
+        ],
+        "correct_answer": "Lowered.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Maritime English",
+        "index": 86,
+        "question": "The bunker barge is expected at noon, we’ll need to be ready beforehead at ____.",
+        "answers": [
+            "11:30.",
+            "12:30.",
+            "13:00.",
+            "00:30."
+        ],
+        "correct_answer": "11:30.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Maritime English",
+        "index": 87,
+        "question": "It is vital to ensure the correct maintenance of all equipment, according to the manufaturer’s ____, to limit risk of operational failures.",
+        "answers": [
+            "Guidance.",
+            "Trademark.",
+            "Prospect.",
+            "Modification."
+        ],
+        "correct_answer": "Guidance.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Maritime English",
+        "index": 88,
+        "question": "Do not be afraid to ask questions2 if you have ____ about your duties, safe working practices or emergency procedures.",
+        "answers": [
+            "Any doubts.",
+            "Questioning.",
+            "Finished.",
+            "Known."
+        ],
+        "correct_answer": "Any doubts.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Maritime English",
+        "index": 89,
+        "question": "The socket and adaptor ____ and led to a fire.",
+        "answers": [
+            "Overheated.",
+            "Offered.",
+            "Open-hearted.",
+            "Oven ready."
+        ],
+        "correct_answer": "Overheated.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Maritime English",
+        "index": 90,
+        "question": "The chief engineer ____ to the master that there was a fire and a large volume of smoke in the engine room.",
+        "answers": [
+            "Investigated and reported.",
+            "Extinguished.",
+            "And the oiler.",
+            "Decided to look."
+        ],
+        "correct_answer": "Investigated and reported.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Maritime English",
+        "index": 91,
+        "question": "Waxing in fuels ____ filter blockage and combustion problems.",
+        "answers": [
+            "Can cause.",
+            "Engine.",
+            "Will.",
+            "Because."
+        ],
+        "correct_answer": "Can cause.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Maritime English",
+        "index": 92,
+        "question": "What is the correct name of the tool shown in the illustration?",
+        "answers": [
+            "Adjustable wrench.",
+            "Chisel.",
+            "Open end wrench.",
+            "Pilers."
+        ],
+        "correct_answer": "Adjustable wrench.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2025/08/Screenshot-from-2025-08-05-10-08-00.png"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Maritime English",
+        "index": 93,
+        "question": "What is the correct name of the part highlighted in the illustration?",
+        "answers": [
+            "Piston.",
+            "Main bearing.",
+            "Cylinder liner.",
+            "Exhaust valve."
+        ],
+        "correct_answer": "Piston.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2025/08/Screenshot-from-2025-08-05-10-14-19.png"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Maritime English",
+        "index": 94,
+        "question": "What is the correct name of the part highlighted in the illustration?",
+        "answers": [
+            "Fuel injector.",
+            "Cylinder relief valve.",
+            "Cylinder lubricator.",
+            "Cylinder air start valve."
+        ],
+        "correct_answer": "Fuel injector.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2025/08/Screenshot-from-2025-08-05-10-30-10.png"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Maritime English",
+        "index": 95,
+        "question": "What is the correct name of the tool shown in the illustration?",
+        "answers": [
+            "Flat file.",
+            "Grinding machine.",
+            "Chisel.",
+            "Pilers."
+        ],
+        "correct_answer": "Flat file.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2025/08/Screenshot-from-2025-08-05-10-31-59.png"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Maritime English",
+        "index": 96,
+        "question": "Which is the “STARBOARD QUARTER”, in the figure?",
+        "answers": [
+            "The Starboard quarter is A, in the figure.",
+            "The Starboard quarter is B, in the figure.",
+            "The Starboard quarter is C, in the figure.",
+            "The Starboard quarter is D, in the figure."
+        ],
+        "correct_answer": "The Starboard quarter is C, in the figure.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2025/08/Screenshot-from-2025-08-05-10-35-03.png"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Maritime English",
+        "index": 97,
+        "question": "What is the room often called where the crew eat their meals?",
+        "answers": [
+            "The crew mess.",
+            "The crew galley.",
+            "The crew cafe.",
+            "The crew restaurant."
+        ],
+        "correct_answer": "The crew mess.",
+        "images": [],
+        "explanation": "නැවක කාර්ය මණ්ඩලය ආහාර ගන්නා ස්ථානය හැඳින්වීමට භාවිතා කරන නිවැරදි නාවික පාරිභාෂිත වචනය වන්නේ 'Mess' (Crew mess) යන්නයි. 'Dining room' යන වචනය සාමාන්‍යයෙන් මගී නැව්වල හෝ නිවාසවල භාවිතා වන අතර, නැවක කාර්ය මණ්ඩලය සඳහා වෙන් කර ඇති කොටසට 'Mess room' යැයි කියනු ලැබේ. 'Kitchen' යන්න නැවකදී 'Galley' ලෙස හඳුන්වනු ලබන අතර එය ආහාර පිසින ස්ථානයයි. එබැවින් කාර්ය මණ්ඩලය ආහාර ගන්නා ස්ථානය නිවැරදිව 'Crew mess' ලෙස හඳුන්වයි."
+    },
+    {
+        "category": "CES – Maritime English",
+        "index": 98,
+        "question": "What is the correct name of the part highlighted in the illustration?",
+        "answers": [
+            "Exhaust valve.",
+            "Fuel injector.",
+            "Air inlet valve.",
+            "Air starting valve."
+        ],
+        "correct_answer": "Exhaust valve.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2025/08/Screenshot-from-2025-08-05-10-42-22.png"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Maritime English",
+        "index": 99,
+        "question": "What is “DRAUGHT”, in the figure?",
+        "answers": [
+            "Draught is A, in the figure.",
+            "Draught is B, in the figure.",
+            "Draught is C, in the figure.",
+            "Draught is D, in the figure."
+        ],
+        "correct_answer": "Draught is D, in the figure.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2025/08/Screenshot-from-2025-08-05-10-43-52.png"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Maritime English",
+        "index": 100,
+        "question": "What is the correct name of the part highlighted in the illustration?",
+        "answers": [
+            "Turbocharger.",
+            "Air cooler.",
+            "Crankshaft.",
+            "Cylinder head."
+        ],
+        "correct_answer": "Turbocharger.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2025/08/Screenshot-from-2025-08-05-10-48-55.png"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Maritime English",
+        "index": 101,
+        "question": "What is the correct name of the part highlighted in the illustration?",
+        "answers": [
+            "Connecting rod.",
+            "Main bearing.",
+            "Rocker Arm.",
+            "Push rod."
+        ],
+        "correct_answer": "Connecting rod.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2025/08/Screenshot-from-2025-08-05-10-50-42.png"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Maritime English",
+        "index": 102,
+        "question": "What do you understand by: Rig the accommodation ladder in combination with the pilot ladder?",
+        "answers": [
+            "Rig the accommodation ladder in combination with the pilot ladder means: lower the accommodation ladder and rig the pilot ladder right next to it.",
+            "Rig the accommodation ladder in combination with the pilot ladder means: lower the gangway and rig the pilot ladder forward of the accommodation.",
+            "Rig the accommodation ladder in combination with the pilot ladder means: lower the gangway and rig the pilot ladder from the gangway.",
+            "Rig the accommodation ladder in combination with the pilot ladder means: lower the gangway."
+        ],
+        "correct_answer": "Rig the accommodation ladder in combination with the pilot ladder means: lower the accommodation ladder and rig the pilot ladder right next to it.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Maritime English",
+        "index": 103,
+        "question": "Is it always possible to use the word “ship” instead of the word “boat”?",
+        "answers": [
+            "Normally a small vessel is called a “boat” rather than a “ship” otherwise it is not important.",
+            "A large vessel is always called a “ship” an never a “boat”.",
+            "A boat can only be used for vessels under 50 metres in length.",
+            "Either can be used anytime."
+        ],
+        "correct_answer": "Normally a small vessel is called a “boat” rather than a “ship” otherwise it is not important.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Maritime English",
+        "index": 104,
+        "question": "What action should be taken by the engine room rating if a piece of machinery is not functioning properly?",
+        "answers": [
+            "If machinery does not function properly the duty Engineer should be informed immediately so that plans for further action can be made.",
+            "If machinery does not function properly, the Chief Engineer should be called out immediately.",
+            "If machinery does not function properly it should be immediately stopped every time.",
+            "If machinery does not function properly, it should be stopped and serviced immediately."
+        ],
+        "correct_answer": "If machinery does not function properly the duty Engineer should be informed immediately so that plans for further action can be made.",
+        "images": [],
+        "explanation": "එන්ජින් රූම් එකක සේවය කරන රේටින් (Rating) කෙනෙකු යම් යන්ත්‍රයක හෝ උපාංගයක දෝෂයක් දුටු විට වහාම ඒ බව රාජකාරියේ නියුතු ඉංජිනේරුවරයාට (Duty Engineer) දැනුම් දිය යුතුය. මන්දයත්, සුළු දෝෂයක් විශාල යාන්ත්‍රික බිඳවැටීමකට හෝ නැවේ ආරක්ෂාවට තර්ජනයක් වන අනතුරකට හේතු විය හැකි බැවිනි. දෝෂය තනිවම පිළිසකර කිරීමට උත්සාහ කිරීම හෝ නොසලකා හැරීම භයානක විය හැකි අතර, ඉංජිනේරුවරයාට දැනුම් දීමෙන් පසු ඔහු විසින් නිසි පියවර ගනු ඇත."
+    },
+    {
+        "category": "CES – Maritime English",
+        "index": 105,
+        "question": "Read this text and answer the question. It is recommended that every prospective seafarer should, before being employed in a sea-going ship, receive proper training in personal survival techniques. In respect of such training several recommendations are made. To whom should training in personal survival techniques be given?",
+        "answers": [
+            "To all seafarers.",
+            "To all ratings.",
+            "To officers only.",
+            "To deck hands mainly."
+        ],
+        "correct_answer": "To all seafarers.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Maritime English",
+        "index": 106,
+        "question": "What is the meaning of “make fast”?",
+        "answers": [
+            "To secure a rope.",
+            "To coil a rope.",
+            "To avoid all meals.",
+            "To act quickly."
+        ],
+        "correct_answer": "To secure a rope.",
+        "images": [],
+        "explanation": "නාවික පාරිභාෂික ශබ්ද මාලාවට අනුව \"make fast\" යන්නෙහි තේරුම වන්නේ ලණුවක් හෝ රැහැනක් (rope) ආරක්ෂිතව ගැටගැසීම හෝ සවි කිරීමයි. නැවක් ජැටියකට තැබීමේදී හෝ වෙනත් උපකරණයක් රඳවා තැබීමේදී මෙම විධානය බහුලව භාවිතා වේ. මෙහිදී ලණුව වේගයෙන් ඇදීමක් හෝ අත්හැරීමක් අදහස් නොවන අතර, එය ස්ථාවරව රඳවා තැබීම පමණක් අදහස් කෙරේ. නැව් මෙහෙයුම් වලදී නිරවද්‍ය සන්නිවේදනය සඳහා මෙවැනි යෙදුම් නිවැරදිව වටහා ගැනීම වැදගත්ය."
+    },
+    {
+        "category": "CES – Maritime English",
+        "index": 107,
+        "question": "With reference to engine room operations, what does the term “Stand By” mean?",
+        "answers": [
+            "“Stand By” means that the engineers should be ready to respond to bridge requirements.",
+            "“Stand By” means that someone should stand close to the watch-keeping engineer.",
+            "“Stand By” means that one should continue with ones’ work.",
+            "“Stand By” means that someone is relieved of his duties."
+        ],
+        "correct_answer": "“Stand By” means that the engineers should be ready to respond to bridge requirements.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Maritime English",
+        "index": 108,
+        "question": "Where is the “BRIDGE”, in the figure?",
+        "answers": [
+            "The Bridge is A, in the figure.",
+            "The Bridge is B, in the figure.",
+            "The Bridge is C, in the figure.",
+            "The Bridge is D, in the figure."
+        ],
+        "correct_answer": "The Bridge is A, in the figure.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2025/08/Screenshot-from-2025-08-05-11-06-15.png"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Maritime English",
+        "index": 109,
+        "question": "What is the correct name of the part highlighted in the illustration?",
+        "answers": [
+            "Crankshaft.",
+            "Push rod.",
+            "Connecting rod.",
+            "Camshaft."
+        ],
+        "correct_answer": "Crankshaft.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2025/08/Screenshot-from-2025-08-05-11-08-07.png"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Maritime English",
+        "index": 110,
+        "question": "What is the objective of the merchant navy?",
+        "answers": [
+            "To safely transport goods by sea.",
+            "To transport and deliver goods as quickly as possible.",
+            "To earn money for the shipowner.",
+            "To provide employment for persons who wish to become seafarers."
+        ],
+        "correct_answer": "To safely transport goods by sea.",
+        "images": [],
+        "explanation": "වෙළඳ නාවික ක්ෂේත්‍රයේ (Merchant Navy) මූලිකම සහ එකම ප්‍රධාන අරමුණ වන්නේ ලොව පුරා විවිධ රටවල් අතර භාණ්ඩ (Goods/Cargo) ආරක්ෂිතව සහ කාර්යක්ෂමව මුහුදු මාර්ගයෙන් ප්‍රවාහනය කිරීමයි. මෙය ගෝලීය වෙළඳාමේ කොන්ද පණ ගැන්වීම ලෙස සැලකේ. අනෙකුත් විකල්ප වන හමුදාමය ආරක්ෂාව සැපයීම (Navy වල කාර්යයකි) හෝ විනෝදය සඳහා යාත්‍රා කිරීම වැනි කරුණු මෙහි ප්‍රාථමික අරමුණ නොවේ. භාණ්ඩ වලට හානියක් නොවී සහ නියමිත කාලයට ගමනාන්තය වෙත ළඟා වීම මෙහිදී අතිශය වැදගත් වේ."
+    },
+    {
+        "category": "CES – Maritime English",
+        "index": 111,
+        "question": "What is the correct name of the part highlighted in the illustration?",
+        "answers": [
+            "Exhaust valve.",
+            "Air inlet valve.",
+            "Cylinder head.",
+            "Cylinder relief valve."
+        ],
+        "correct_answer": "Exhaust valve.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2025/08/Screenshot-from-2025-08-05-11-10-51.png"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Maritime English",
+        "index": 112,
+        "question": "What does the word “pirates” mean?",
+        "answers": [
+            "Pirates are persons who attempt to board and take over a ship at sea.",
+            "Pirates are special cargo lashings on container ships.",
+            "Pirates are another word for helmsmen.",
+            "Pirates are official people who board the ship while in port."
+        ],
+        "correct_answer": "Pirates are persons who attempt to board and take over a ship at sea.",
+        "images": [],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Maritime English",
+        "index": 113,
+        "question": "What is the correct name of the part highlighted in the illustration?",
+        "answers": [
+            "Push rod.",
+            "Connecting rod.",
+            "Crankshaft.",
+            "Piston rod."
+        ],
+        "correct_answer": "Push rod.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2025/08/Screenshot-from-2025-08-05-11-13-51.png"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Maritime English",
+        "index": 114,
+        "question": "What is the correct name of the equipment shown in the illustration?",
+        "answers": [
+            "Pedestal drill.",
+            "File.",
+            "Shaping machine.",
+            "Chisel."
+        ],
+        "correct_answer": "Pedestal drill.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2025/08/Screenshot-from-2025-08-05-11-14-55.png"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Maritime English",
+        "index": 115,
+        "question": "What is the correct name of the part highlighted in the illustration?",
+        "answers": [
+            "Camshaft.",
+            "Crankcase relief valve.",
+            "Crankshaft.",
+            "Push rod."
+        ],
+        "correct_answer": "Camshaft.",
+        "images": [
+            "https://sea-man.org/wp-content/uploads/2025/08/Screenshot-from-2025-08-05-11-16-05.png"
+        ],
+        "explanation": ""
+    },
+    {
+        "category": "CES – Maritime English",
+        "index": 116,
+        "question": "Select from the options given the statement that best describes the main duties of an engine room rating who is part of an engine room watch?",
+        "answers": [
+            "Engine room ratings forming part of an engine room watch should verify that the operational parameters of all items of machinery conform to manufacturers’ instructions.",
+            "Engine room ratings forming part of an engine room watch should make the tea for the Engineers.",
+            "Engine room ratings forming part of an engine room watch should only clean the engine room floor plates.",
+            "Engine room ratings forming part of an engine room watch should assist in efficient and safe watch-keeping routines."
+        ],
+        "correct_answer": "Engine room ratings forming part of an engine room watch should verify that the operational parameters of all items of machinery conform to manufacturers’ instructions.",
+        "images": [],
+        "explanation": ""
+    }
+]
