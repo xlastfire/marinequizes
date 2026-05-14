@@ -332,7 +332,7 @@
         ],
         "correct_answer": "Potentiometer, 10 kilo-ohms.",
         "images": [
-            "/files/img/else/transistor.jpg"
+            "https://i.ibb.co/wrC63R2w/transistor.jpg"
         ],
         "explanation": ""
     },
@@ -348,7 +348,7 @@
         ],
         "correct_answer": "Zener diode.",
         "images": [
-            "/files/img/else/zener.jpg"
+            "https://i.ibb.co/vC3YBjjy/zener.jpg"
         ],
         "explanation": ""
     },
@@ -392,7 +392,7 @@
         ],
         "correct_answer": "Figure 2.",
         "images": [
-            "/files/img/else/thyristor.jpg"
+            "https://i.ibb.co/nN6VnT1G/thyristor.jpg"
         ],
         "explanation": ""
     },
@@ -702,7 +702,7 @@
         ],
         "correct_answer": "EPIRB.",
         "images": [
-            "/files/img/else/epirb.jpg"
+            "https://i.ibb.co/bjtJW52s/epirb.jpg"
         ],
         "explanation": ""
     },

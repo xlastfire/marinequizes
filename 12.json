@@ -136,7 +136,7 @@
         ],
         "correct_answer": "Relatively non linear characteristic.",
         "images": [],
-        "explanation": ""
+        "explanation": "Thermistors යනු උෂ්ණත්වය අනුව ප්‍රතිරෝධය (Resistance) වෙනස් වන Semiconductor උපාංග වේ. මෙහිදී Positive Temperature Coefficient (PTC) thermistor එකක විශේෂත්වය වන්නේ උෂ්ණත්වය වැඩිවත්ම එහි Resistance අගයද වැඩි වීමයි.  මෙම Resistance වෙනස් වීම උෂ්ණත්වය සමඟ සෘජු රේඛීයව (Linear) සිදු නොවන අතර, යම් නිශ්චිත උෂ්ණත්ව සීමාවකදී (Switching point) ප්‍රතිරෝධය ඉතා වේගයෙන් හා විශාල ලෙස වෙනස් වන 'Relatively non-linear characteristic' එකක් පෙන්නුම් කරයි. මේ නිසා මේවා ප්‍රධාන වශයෙන් Motor winding protection වැනි අවස්ථාවලදී 'Thermal switch' එකක් ලෙස බහුලව භාවිතා වේ.\n\nඅනෙකුත් පිළිතුරු වැරදි වීමට හේතු:\n\n* Relatively linear characteristic: මෙය වැරදිය. Thermistor වල ප්‍රතිචාරය (Response) සාමාන්‍යයෙන් Exponential වන අතර Linear characteristic එකක් දක්නට ලැබෙන්නේ Platinum RTD (Resistance Temperature Detectors) වැනි සංවේදක වල පමණි.\n* Inaccurate measurement: Thermistor වල ඉතා ඉහළ Sensitivity එකක් පවතින බැවින් කුඩා උෂ්ණත්ව වෙනසකට වුවද විශාල ප්‍රතිරෝධී වෙනසක් පෙන්වයි. එම නිසා ඒවා මැනීමේදී නිවැරදි (Accurate) වේ.\n* Variable reliability: Thermistor යනු ඉතා විශ්වසනීය (Reliable) සහ කල් පවතින උපාංග වේ. ඒවායේ ක්‍රියාකාරිත්වය කාලයත් සමඟ විශාල ලෙස වෙනස් නොවන බැවින් මෙම පිළිතුර වැරදිය."
     },
     {
         "category": "CES – Engine, Operational, Slow speed",
@@ -150,7 +150,7 @@
         ],
         "correct_answer": "30 minutes.",
         "images": [],
-        "explanation": ""
+        "explanation": "SOLAS (Safety of Life at Sea) රෙගුලාසි වලට අනුව, නෞකාවක ගිනි ආරක්ෂණ පද්ධතිවල ඇති 'B' Class divisions ලෙස හඳුන්වනු ලබන බාධක (Bulkheads/Ceilings), සම්මත ගිනි පරීක්ෂණයකදී (Standard fire test) අවම වශයෙන් මුල් විනාඩි 30 (30 minutes) පුරා දැල්ල (Flame) පැතිරීම වැළැක්විය හැකි වන ලෙස නිර්මාණය කර තිබිය යුතුය. මෙම කොටස් සෑදීම සඳහා අනුමත කරන ලද දැවෙන සුළු නොවන (Non-combustible) ද්‍රව්‍ය භාවිතා කිරීම අනිවාර්ය වේ.\n\n\n\nඅනෙකුත් පිළිතුරු වැරදි වීමට හේතු:\n\n* 60 minutes: මෙය 'A' Class divisions සඳහා අදාළ වන පරීක්ෂණ කාලසීමාවයි. 'A' class කොටස් විනාඩි 60 ක කාලයක් දැල්ල සහ දුම පාලනය කිරීමට සමත් විය යුතුය.\n* 45 minutes: SOLAS හෝ FTP Code මගින් නියම කර ඇති ප්‍රධාන ගිනි ආරක්ෂණ වර්ගීකරණයන් (A, B, හෝ C class) සඳහා විනාඩි 45 ක කාලසීමාවක් සම්මත පරීක්ෂණ අගයක් ලෙස භාවිතා නොවේ.\n* 15 minutes: සමහර 'B' class කොටස්වල උෂ්ණත්වය ඉහළ යාම පාලනය කිරීම (Insulation value) අනුව B-15 ලෙස හැඳින්වුවද, 'Standard fire test' එකකදී දැල්ල පැතිරීම වැළැක්වීමේ මූලික අවශ්‍යතාවය සියලුම B class divisions සඳහා විනාඩි 30 ක් වේ."
     },
     {
         "category": "CES – Engine, Operational, Slow speed",
@@ -374,7 +374,7 @@
         ],
         "correct_answer": "Pressure indicator, installed on panel/console.",
         "images": [
-            "/files/img/else/indicator.jpg"
+            "https://i.ibb.co/Z6pz39dJ/indicator.jpg"
         ],
         "explanation": ""
     },
@@ -418,7 +418,7 @@
         ],
         "correct_answer": "Inverting amplifier.",
         "images": [
-            "/files/img/else/circuit.jpg"
+            "https://i.ibb.co/FkgB0GVb/circuit.jpg"
         ],
         "explanation": ""
     },
@@ -434,7 +434,7 @@
         ],
         "correct_answer": "Soak the plates in recommended cleaning solution and then use a soft brush or pressure cleaner.",
         "images": [],
-        "explanation": ""
+        "explanation": "Plate Heat Exchanger (PHE) එකක ඇති Plate සාදා ඇත්තේ ඉතා තුනී Titanium හෝ Stainless Steel ලෝහයෙනි. මේවා මත තැන්පත් වී ඇති දෘඩ තට්ටු (Heavy scale) හෝ අපද්‍රව්‍ය (Fouling) ඉවත් කිරීමේදී ඉතා ප්‍රවේශම් විය යුතුය. මෙයට වඩාත්ම සුදුසු ක්‍රමය වන්නේ ප්‍රථමයෙන් නිෂ්පාදකයා නිර්දේශ කරන ලද පිරිසිදු කිරීමේ දියරයක (Chemical cleaning solution) ඒවා බහා තැබීම (Soaking) මගින් එම ස්ථර මෘදු කර ගැනීමයි. ඉන්පසුව Soft brush එකක් හෝ සාමාන්‍ය Pressure cleaner එකක් භාවිතා කර ඒවා සෝදා හැරීමෙන් Plate එකේ මතුපිටට හානි නොවී පිරිසිදු කරගත හැකිය.\n\nඅනෙකුත් පිළිතුරු වැරදි වීමට හේතු:\n\n* Use high-pressure cleaner with abrasive additives: Abrasive additives (වැලි වැනි දේ) භාවිතා කිරීමෙන් Plate එකේ මතුපිට සීරීමට (Scratches) ලක්විය හැකිය. එමගින් පසුව ගොඩගැසෙන තැන්පතු වේගවත් වීම සහ Corrosion ඇතිවීමට ඉඩ ඇත.\n* Renew the plates: මෙය ඉතා අධික පිරිවැයක් (High cost) යන කාර්යයකි. සාමාන්‍යයෙන් Plate එකක් සිදුරු වී ඇත්නම් හෝ දැඩි ලෙස විකෘති වී ඇත්නම් මිස පිරිසිදු කිරීම සඳහා පමණක් Plate අලුතින් දැමීම සිදු නොකරයි.\n* Use wire-brush metal scrapers and chipping guns: ලෝහමය Wire-brush හෝ Chipping guns භාවිතා කිරීම PHE ප්ලේට් සඳහා කිසිසේත්ම සුදුසු නැත. මෙහිදී Plate එක සිදුරු වීමට හෝ ගෑස්කට් (Gasket) සඳහා ඇති Groove එකට හානි වී කාන්දු වීම් (Leakages) ඇති වීමට ඉඩ ඇත."
     },
     {
         "category": "CES – Engine, Operational, Slow speed",
@@ -560,7 +560,7 @@
         ],
         "correct_answer": "It satisfies the SOLAS requirements for ship safety.",
         "images": [],
-        "explanation": ""
+        "explanation": "නෞකාවක 'Emergency source of electrical power' එකක් තිබීම ජාත්‍යන්තර මුහුදු ගමන් සුරක්ෂිතතා සම්මුතිය හෙවත් SOLAS (Safety of Life at Sea) රෙගුලාසි අනුව අනිවාර්ය අවශ්‍යතාවයකි. ප්‍රධාන බලශක්ති ප්‍රභවය (Main Power) අක්‍රිය වූ අවස්ථාවකදී (Blackout), නෞකාවේ සුරක්ෂිතතාවයට සහ සංඥා පද්ධති පවත්වාගෙන යාමට අවශ්‍ය Emergency lighting, Navigation equipment, Steering gear සහ Fire pumps වැනි අත්‍යවශ්‍ය සේවාවන් සඳහා බලය ලබා දීම මෙහි මූලික අරමුණයි. \n\nඅනෙකුත් පිළිතුරු වැරදි වීමට හේතු:\n\n* The ships total load can be shared between main and emergency generators: මෙය වැරදිය. Emergency generator එක සාමාන්‍යයෙන් Main switchboard එක සමඟ parallel කර Load share කිරීමට භාවිතා නොකරයි. එය ක්‍රියාත්මක වන්නේ Main power බිඳ වැටුණු විට අත්‍යවශ්‍ය Emergency switchboard එකට පමණක් බලය ලබා දීමටයි.\n* The main diesel generator(s) can be taken out of service for overhaul or repair: Main generator එකක් නඩත්තු (Overhaul) කරන විට භාවිතා කරන්නේ ඉතිරිව ඇති අනෙකුත් Main generators මිස Emergency generator එක නොවේ. Emergency generator එක නිර්මාණය කර ඇත්තේ කෙටි කාලීන හදිසි අවශ්‍යතා සඳහා පමණි.\n* It satisfies the need to be environmentally “friendly”: මෙය වැරදිය. Emergency source එකක් පවත්වාගෙන යන්නේ පාරිසරික හේතූන් මත නොව, හුදෙක් නෞකාවේ සහ එහි සිටින පුද්ගලයින්ගේ ආරක්ෂාව (Safety) සහතික කිරීම සඳහාය."
     },
     {
         "category": "CES – Engine, Operational, Slow speed",
@@ -574,7 +574,7 @@
         ],
         "correct_answer": "Generator overload due to many motors starting at simultaneously.",
         "images": [],
-        "explanation": ""
+        "explanation": "නෞකාවක Blackout එකකින් පසුව නැවත Main Power ලැබුණු විට, සියලුම මෝටර් (Auxiliaries) එකවර ක්‍රියාත්මක නොකර 'Timed sequential restart' (කාලානුරූපී අනුපිළිවෙලකට පණ ගැන්වීම) ක්‍රමයක් භාවිතා කරයි. මෙයට ප්‍රධාන තාක්ෂණික හේතුව වන්නේ Induction motor එකක් පණගන්වන අවස්ථාවේදී (Starting), එය සාමාන්‍යයෙන් ක්‍රියා කරන ධාරාව (Full load current) මෙන් 6-8 ගුණයක් පමණ ඉහළ 'Starting current' හෙවත් 'Inrush current' එකක් ලබා ගැනීමයි. සියලුම මෝටර් එකවර පණගැන්වුවහොත්, එම සමස්ත අධික ධාරා ඉල්ලුම නිසා Generator එක අධික ලෙස Overload වී, Voltage සහ Frequency පහත වැටී නැවතත් Trip වීමට (Secondary Blackout) ඉඩ ඇත. \n\nඅනෙකුත් පිළිතුරු වැරදි වීමට හේතු:\n\n* Overloading creating earth faults: Overload වීම සහ Earth fault අතර සෘජු සම්බන්ධයක් නැත. Earth fault එකක් ඇති වන්නේ සන්නායකයක Insulation එක බිඳ වැටී එය නෞකාවේ ලෝහමය ව්‍යුහය (Hull) සමඟ ස්පර්ශ වීමෙනි.\n* Over-frequency due to overspeed of generator: අධික Load එකක් එකවර පද්ධතියට පැමිණි විට ඇත්ත වශයෙන්ම සිදුවන්නේ Generator එකේ වේගය අඩු වී Frequency එක පහත වැටීමයි (Under-frequency). වේගය වැඩි වීමක් මෙහිදී සිදු නොවේ.\n* Overvoltage due to current surges: මෝටර් ආරම්භ කිරීමේදී විශාල ධාරාවක් ලබා ගන්නා නිසා පද්ධතියේ Voltage එක තාවකාලිකව පහත වැටීමක් (Voltage dip) මිස Overvoltage තත්ත්වයක් ඇති නොවේ."
     },
     {
         "category": "CES – Engine, Operational, Slow speed",
@@ -1216,7 +1216,7 @@
         ],
         "correct_answer": "G = 1/R.",
         "images": [
-            "https://sea-man.org/wp-content/uploads/2024/07/siemens.jpg"
+            "https://i.ibb.co/5g90ZBYd/siemens.jpg"
         ],
         "explanation": ""
     },
@@ -1344,7 +1344,7 @@
         ],
         "correct_answer": "L(S) = 4 H.",
         "images": [
-            "https://sea-man.org/wp-content/uploads/2024/07/inductor.jpg"
+            "https://i.ibb.co/tPb35KDp/inductor.jpg"
         ],
         "explanation": ""
     },
@@ -1360,7 +1360,7 @@
         ],
         "correct_answer": "Figure 2.",
         "images": [
-            "https://sea-man.org/wp-content/uploads/2024/07/thyristor.jpg"
+            "https://i.ibb.co/XrspK25c/thyristor.jpg"
         ],
         "explanation": ""
     },
@@ -1432,7 +1432,7 @@
         ],
         "correct_answer": "Start engine.",
         "images": [
-            "https://sea-man.org/wp-content/uploads/2024/07/engx.jpg"
+            "https://i.ibb.co/rKVSCTns/engx.jpg"
         ],
         "explanation": ""
     },
@@ -1518,7 +1518,7 @@
         ],
         "correct_answer": "Pressure-reducing regulator.",
         "images": [
-            "https://sea-man.org/wp-content/uploads/2024/07/press.jpg"
+            "https://i.ibb.co/JwqR9B0d/press.jpg"
         ],
         "explanation": ""
     },
@@ -1674,7 +1674,7 @@
         ],
         "correct_answer": "To monitor the cable/wires for break.",
         "images": [
-            "https://sea-man.org/wp-content/uploads/2024/07/resistor.jpg"
+            "https://i.ibb.co/5XbW6SDZ/resistor.jpg"
         ],
         "explanation": ""
     },
@@ -1718,7 +1718,7 @@
         ],
         "correct_answer": "Water Pump Pliers.",
         "images": [
-            "https://sea-man.org/wp-content/uploads/2024/07/pliers.jpg"
+            "https://i.ibb.co/qLM93Dwh/pliers.jpg"
         ],
         "explanation": ""
     },
@@ -1734,7 +1734,7 @@
         ],
         "correct_answer": "Connecting rod.",
         "images": [
-            "https://sea-man.org/wp-content/uploads/2024/07/connection.jpg"
+            "https://i.ibb.co/tpV7PYQr/connection.jpg"
         ],
         "explanation": ""
     },
@@ -1764,7 +1764,7 @@
         ],
         "correct_answer": "Flat file.",
         "images": [
-            "https://sea-man.org/wp-content/uploads/2024/07/flat.jpg"
+            "https://i.ibb.co/ZzZKsRGb/flat.jpg"
         ],
         "explanation": ""
     },
@@ -1780,7 +1780,7 @@
         ],
         "correct_answer": "Turbocharger.",
         "images": [
-            "https://sea-man.org/wp-content/uploads/2024/07/turbo.jpg"
+            "https://i.ibb.co/v4rJvPf4/turbo.jpg"
         ],
         "explanation": ""
     },
@@ -1796,7 +1796,7 @@
         ],
         "correct_answer": "Crankshaft.",
         "images": [
-            "https://sea-man.org/wp-content/uploads/2024/07/crank.jpg"
+            "https://i.ibb.co/xKy5TMYH/crank.jpg"
         ],
         "explanation": ""
     },
@@ -1826,7 +1826,7 @@
         ],
         "correct_answer": "Adjustable wrench.",
         "images": [
-            "https://sea-man.org/wp-content/uploads/2024/07/wrench.jpg"
+            "https://i.ibb.co/JjHgRbmz/wrench.jpg"
         ],
         "explanation": ""
     },
@@ -1842,7 +1842,7 @@
         ],
         "correct_answer": "Monkey wrench.",
         "images": [
-            "https://sea-man.org/wp-content/uploads/2024/07/wr1.jpg"
+            "https://i.ibb.co/tPcrPw96/wr1.jpg"
         ],
         "explanation": ""
     },
@@ -1858,7 +1858,7 @@
         ],
         "correct_answer": "Camshaft.",
         "images": [
-            "https://sea-man.org/wp-content/uploads/2024/07/cam.jpg"
+            "https://i.ibb.co/rGvQPM8X/cam.jpg"
         ],
         "explanation": ""
     },
@@ -1874,7 +1874,7 @@
         ],
         "correct_answer": "Exhaust valve.",
         "images": [
-            "https://sea-man.org/wp-content/uploads/2024/07/exh.jpg"
+            "https://i.ibb.co/1GL9Z2Nk/exh.jpg"
         ],
         "explanation": ""
     },
@@ -1890,7 +1890,7 @@
         ],
         "correct_answer": "Crosshead.",
         "images": [
-            "https://sea-man.org/wp-content/uploads/2024/07/cross.jpg"
+            "https://i.ibb.co/B2TfQKJs/cross.jpg"
         ],
         "explanation": ""
     },
@@ -2102,7 +2102,7 @@
         ],
         "correct_answer": "Short sharp period of roll associated with breaking lashings and shifting cargo.",
         "images": [
-            "https://sea-man.org/wp-content/uploads/2024/12/diagram.jpg"
+            "https://i.ibb.co/VpwQ9L8V/diagram.jpg"
         ],
         "explanation": "විශාල GM (Metacentric Height) අගයක් ඇති නැවක් 'Stiff ship' ලෙස හැඳින්වේ. මෙහිදී නැව රළ පහරකට හසු වූ විට ඉතා වේගයෙන් සහ තියුණු ලෙස දෙපසට වැනේ (short sharp period of roll). මෙහි ප්‍රතිඵලයක් ලෙස භාණ්ඩ රඳවා ඇති ලැෂින් (lashings) කැඩී යාමට සහ භාණ්ඩ පෙරලීමට (cargo shifting) වැඩි ඉඩක් ඇත. දිගු rolling period එකක් ඇති වන්නේ GM අගය අඩු වූ විට (Tender ship) ය."
     },
@@ -2272,7 +2272,7 @@
         ],
         "correct_answer": "OR.",
         "images": [
-            "https://sea-man.org/wp-content/uploads/2024/12/scheme-4.jpg"
+            "https://i.ibb.co/xK3wPRYt/scheme-4.jpg"
         ],
         "explanation": ""
     },
@@ -2316,7 +2316,7 @@
         ],
         "correct_answer": "Line currents: 0 A, 180 A, 180 A. Trip condition: trip on overload.",
         "images": [
-            "https://sea-man.org/wp-content/uploads/2024/12/scheme-1-2.jpg"
+            "https://i.ibb.co/qF9W5Qcc/scheme-1-2.jpg"
         ],
         "explanation": ""
     },
@@ -2388,7 +2388,7 @@
         ],
         "correct_answer": "Transistor.",
         "images": [
-            "https://sea-man.org/wp-content/uploads/2024/12/scheme-2-1.jpg"
+            "https://i.ibb.co/LhbPN45M/scheme-2-1.jpg"
         ],
         "explanation": ""
     },
@@ -2418,7 +2418,7 @@
         ],
         "correct_answer": "Muster station.",
         "images": [
-            "https://sea-man.org/wp-content/uploads/2024/12/station.jpg"
+            "https://i.ibb.co/2HH9Vx4/station.jpg"
         ],
         "explanation": ""
     },
@@ -2574,7 +2574,7 @@
         ],
         "correct_answer": "Bimetallic strips need time to cool down.",
         "images": [
-            "https://sea-man.org/wp-content/uploads/2024/12/scheme6.jpg"
+            "https://i.ibb.co/pj2Zqn9T/scheme6.jpg"
         ],
         "explanation": "තාප අධිබාර රිලේ (thermal overcurrent relay) එකක් ක්‍රියාත්මක වූ පසු එය වහාම රීසෙට් (reset) කළ නොහැක්කේ එහි ක්‍රියාකාරිත්වයට යොදාගන්නා ද්වි-ලෝහ පටි (bimetallic strips) අධික රශ්මිය නිසා නැමී ඇති බැවිනි. ඒවා නැවත මුල් පිහිටීමට පැමිණීමට නම් සිසිල් වීමට කාලය අවශ්‍ය වේ. මෙය ආරක්ෂක පියවරක් ද වන අතර එමගින් දෝෂය පවතිද්දීම නැවත නැවතත් මෝටරය පණගැන්වීම වළක්වයි. ස්විචයේ දෝෂ හෝ පරිවාරක දෝෂ තිබිය හැකි වුවත්, රීසෙට් කිරීමට නොහැකි වීමට සෘජු හේතුව මෙම භෞතික සිසිල් වීමේ අවශ්‍යතාවයයි."
     },
@@ -2660,7 +2660,7 @@
         ],
         "correct_answer": "Start air supply.",
         "images": [
-            "https://sea-man.org/wp-content/uploads/2024/12/symbol-1.jpg"
+            "https://i.ibb.co/HDTdDzwR/symbol-1.jpg"
         ],
         "explanation": ""
     },
@@ -3064,7 +3064,7 @@
         ],
         "correct_answer": "Gas detector.",
         "images": [
-            "https://sea-man.org/wp-content/uploads/2025/06/Screenshot-2025-06-10-at-13-47-31-Wrong-answer-summary-ilide.info-ces-wrong-answer-summary-a6f90d33-0953-4f98-ab6d-c557f409f1e3-pr_fc5008f8400ed2ede217eca5364486d7.pdf.png"
+            "https://i.ibb.co/VWvxZ3BW/Screenshot-2025-06-10-at-13-47-31-Wrong-answer-summary-ilide-info-ces-wrong-answer-summary-a6f90d33.png"
         ],
         "explanation": ""
     },
@@ -3551,7 +3551,7 @@
         ],
         "correct_answer": "Leakage of sea water from the central coolers.",
         "images": [
-            "https://sea-man.org/wp-content/uploads/2025/06/ris-98.jpg"
+            "https://i.ibb.co/9k3p7Twf/ris-98.jpg"
         ],
         "explanation": ""
     },
@@ -3609,7 +3609,7 @@
         ],
         "correct_answer": "Reactive load (kVAR).",
         "images": [
-            "https://sea-man.org/wp-content/uploads/2025/06/ris99.jpg"
+            "https://i.ibb.co/JWmWqKb8/ris99.jpg"
         ],
         "explanation": ""
     },
@@ -3625,7 +3625,7 @@
         ],
         "correct_answer": "Varying the excitation field strength by regulating excitation voltage/current.",
         "images": [
-            "https://sea-man.org/wp-content/uploads/2025/06/ris99.jpg"
+            "https://i.ibb.co/JWmWqKb8/ris99.jpg"
         ],
         "explanation": ""
     },
@@ -3711,7 +3711,7 @@
         ],
         "correct_answer": "No.2 generator trips on reverse power.",
         "images": [
-            "https://sea-man.org/wp-content/uploads/2025/06/ris-100-1.jpg"
+            "https://i.ibb.co/DfhXTjfR/ris-100-1.jpg"
         ],
         "explanation": "ජෙනරේටර් දෙකක් සමාන්තරව (Parallel) ක්‍රියා කරන විට, දෙවන ජෙනරේටරයේ ප්‍රයිම්-මූවර් (Prime-mover) එකට ඉන්ධන සැපයුම නැති වුවහොත්, පළමු ජෙනරේටරයෙන් දෙවන ජෙනරේටරය කරකැවීමට උත්සාහ කරයි (Motorizing effect). එවිට දෙවන ජෙනරේටරය හරහා විදුලිය ආපසු ගලා යන බැවින් 'Reverse Power Relay' මගින් දෙවන ජෙනරේටරය විසන්ධි (Trip) කරනු ලබයි. මෙය පද්ධතියේ ආරක්ෂාව සඳහා සිදු වේ."
     },
@@ -3769,7 +3769,7 @@
         ],
         "correct_answer": "Resistance temperature sensor.",
         "images": [
-            "https://sea-man.org/wp-content/uploads/2025/06/ris-101-1.jpg"
+            "https://i.ibb.co/wr8Whm6V/ris-101-1.jpg"
         ],
         "explanation": ""
     },
@@ -3785,7 +3785,7 @@
         ],
         "correct_answer": "Pressure-reducing regulator.",
         "images": [
-            "https://sea-man.org/wp-content/uploads/2025/06/ris-102-1.jpg"
+            "https://i.ibb.co/7JQykyMv/ris-102-1.jpg"
         ],
         "explanation": ""
     },
@@ -3815,7 +3815,7 @@
         ],
         "correct_answer": "To monitor the cable/wires for break.",
         "images": [
-            "https://sea-man.org/wp-content/uploads/2025/06/ris-103-1.jpg"
+            "https://i.ibb.co/YFdGYkZ6/ris-103-1.jpg"
         ],
         "explanation": ""
     },
@@ -3845,7 +3845,7 @@
         ],
         "correct_answer": "A compressor in which the compressed air from the first stage is further compressed in the second stage before being delivered to the air receiver.",
         "images": [
-            "https://sea-man.org/wp-content/uploads/2025/06/ris-104-1.jpg"
+            "https://i.ibb.co/mFNp7vrS/ris-104-1.jpg"
         ],
         "explanation": ""
     },
@@ -3861,7 +3861,7 @@
         ],
         "correct_answer": "In conjunction with the senior watchkeeper and electrician, isolate valves, electrical supply, automatics and post ‘Do not operate‘ signs before commencing work.",
         "images": [
-            "https://sea-man.org/wp-content/uploads/2025/06/ris-105-1.jpg"
+            "https://i.ibb.co/RkxG6Ry8/ris-105-1.jpg"
         ],
         "explanation": ""
     },
@@ -3891,7 +3891,7 @@
         ],
         "correct_answer": "TC.",
         "images": [
-            "https://sea-man.org/wp-content/uploads/2025/06/ris-106-1.jpg"
+            "https://i.ibb.co/v7FMtD1/ris-106-1.jpg"
         ],
         "explanation": ""
     },
@@ -3907,7 +3907,7 @@
         ],
         "correct_answer": "The process will oscillate and get out of control.",
         "images": [
-            "https://sea-man.org/wp-content/uploads/2025/06/ris-108-1.jpg"
+            "https://i.ibb.co/svHMGgNy/ris-108-1.jpg"
         ],
         "explanation": "උෂ්ණත්ව පාලකයක (temperature controller) Amplification හෙවත් Gain අගය ඉතා ඉහළ මට්ටමක පවතින විට, පද්ධතිය සුළු වෙනසකට පවා ඉතා තදින් ප්‍රතිචාර දක්වයි. මෙහි ප්‍රතිඵලයක් ලෙස උෂ්ණත්වය නියමිත අගයට වඩා වැඩි වීම සහ අඩු වීම (hunting/oscillation) නිරන්තරයෙන් සිදුවන අතර, පද්ධතිය ස්ථායීව තබා ගැනීමට නොහැකි වේ. Gain අගය නිවැරදිව සැකසීමෙන් පමණක් උච්චාවචනයන් පාලනය කර පද්ධතිය ස්ථාවර කළ හැක."
     },
@@ -4048,7 +4048,7 @@
         ],
         "correct_answer": "Air, Breathing, Circulation.",
         "images": [
-            "https://sea-man.org/wp-content/uploads/2025/06/ris-109-1.jpg"
+            "https://i.ibb.co/TMTmxXWF/ris-109-1.jpg"
         ],
         "explanation": "ප්‍රථමාධාර වලදී භාවිතා වන ABC යන කෙටි නාමය Airway (ශ්වාසනාලය), Breathing (ශ්වසනය), සහ Circulation (රුධිර සංසරණය) යන්න නිරූපණය කරයි. හදිසි අනතුරකට ලක් වූ අයෙකු පරීක්ෂා කිරීමේදී මුලින්ම ඔහුගේ වාතය ගමන් කරන මාර්ගය විවෘත දැයි බැලිය යුතුය, පසුව ඔහු හුස්ම ගන්නේදැයි පරීක්ෂා කළ යුතුය, අවසානයේ හදවත ගැහෙන්නේදැයි බලා රුධිර සංසරණය තහවුරු කළ යුතුය. අනෙකුත් විකල්ප වචන ජීවිතාරක්ෂක මූලධර්ම සමඟ නොගැලපෙන බැවින් ඒවා වැරදි වේ."
     },
@@ -4063,7 +4063,7 @@
         ],
         "correct_answer": "Lifeboat.",
         "images": [
-            "https://sea-man.org/wp-content/uploads/2025/06/ris-110-1.jpg"
+            "https://i.ibb.co/8D7b6h6G/ris-110-1.jpg"
         ],
         "explanation": ""
     },
@@ -4091,7 +4091,7 @@
         ],
         "correct_answer": "No.",
         "images": [
-            "https://sea-man.org/wp-content/uploads/2025/06/ris-111-1.jpg"
+            "https://i.ibb.co/M55fp8y8/ris-111-1.jpg"
         ],
         "explanation": ""
     },
@@ -4106,7 +4106,7 @@
         ],
         "correct_answer": "30 minutes.",
         "images": [
-            "https://sea-man.org/wp-content/uploads/2025/06/ris-112-1.jpg"
+            "https://i.ibb.co/JwcZJTF3/ris-112-1.jpg"
         ],
         "explanation": ""
     },
@@ -4147,7 +4147,7 @@
         ],
         "correct_answer": "Survival craft portable radio.",
         "images": [
-            "https://sea-man.org/wp-content/uploads/2025/06/ris-113.jpg"
+            "https://i.ibb.co/dsx3bmH7/ris-113.jpg"
         ],
         "explanation": ""
     },
@@ -4188,7 +4188,7 @@
         ],
         "correct_answer": "Emergency generator.",
         "images": [
-            "https://sea-man.org/wp-content/uploads/2025/06/iz-1.jpg"
+            "https://i.ibb.co/BVXN06L8/iz-1.jpg"
         ],
         "explanation": ""
     },
@@ -4255,7 +4255,7 @@
         ],
         "correct_answer": "6,6 kV.",
         "images": [
-            "https://sea-man.org/wp-content/uploads/2025/06/iz-2.jpg"
+            "https://i.ibb.co/LDvQVhmP/iz-2.jpg"
         ],
         "explanation": "නෞකාවල විද්‍යුත් පද්ධති (Electrical systems) ගැන කතා කිරීමේදී, සාමාන්‍යයෙන් වෝල්ටීයතාවය 1000V AC (1kV) ට වඩා වැඩි මට්ටම් 'අධි වෝල්ටීයතා' (High Voltage) ලෙස හැඳින්වේ. මෙම ප්‍රශ්නයේ දී ලබා දී ඇති 6.6 kV යනු නෞකාවල ජනක යන්ත්‍ර සහ ප්‍රධාන පද්ධති සඳහා බහුලව භාවිතා වන ප්‍රමිතියකි. 440V වැනි වෝල්ටීයතා 'අඩු වෝල්ටීයතා' (Low Voltage) ගණයට වැටෙන අතර, 6.6 kV යනු ආරක්ෂිත පියවරයන් සහ උපකරණ සැලසුම් කිරීමේදී විශේෂිත වූ HV නීතිරීති අනුගමනය කළ යුතු මට්ටමකි."
     },
@@ -4270,7 +4270,7 @@
         ],
         "correct_answer": "Arcing at badly connected bus bars.",
         "images": [
-            "https://sea-man.org/wp-content/uploads/2025/06/iz-3.jpg"
+            "https://i.ibb.co/k2gv9DKt/iz-3.jpg"
         ],
         "explanation": "අධි වෝල්ටීයතා (High Voltage) ස්විචර් රූම් එකක ඕසෝන් (Ozone) ගඳක් දැනේ නම්, එය බොහෝ විට සිදුවන්නේ බස් බාර් (bus bars) නිසි ලෙස සම්බන්ධ නොවීම නිසා ඇතිවන විද්‍යුත් චාප (arcing) හෝ කොරෝනා විමෝචනය (corona discharge) හේතුවෙනි. මෙම විද්‍යුත් විසර්ජන මගින් වාතයේ ඇති ඔක්සිජන් අණු ඕසෝන් බවට පත් කරයි. කේබල් පිළිස්සීමෙන් ඇතිවන්නේ රබර් හෝ ප්ලාස්ටික් පිළිස්සෙන ගඳක් බැවින් ඕසෝන් ගඳ සඳහා හේතුව ආර්කින් (arcing) තත්ත්වයයි."
     },
@@ -4285,7 +4285,7 @@
         ],
         "correct_answer": "Raise alarm, identify means of isolation and apply before approaching victim.",
         "images": [
-            "https://sea-man.org/wp-content/uploads/2025/06/iz-4.jpg"
+            "https://i.ibb.co/21bhgw4n/iz-4.jpg"
         ],
         "explanation": "අධි වෝල්ටීයතා (High Voltage) කාමරයක පුද්ගලයෙකු සිහිසුන්ව සිටිනු දුටු විට මුලින්ම කළ යුත්තේ අනතුරු ඇඟවීමේ ශබ්දය (alarm) නිකුත් කර උදව් ඉල්ලා සිටීමයි. ඉන්පසු, වහාම අදාළ විදුලි සැපයුම විසන්ධි කරන මාර්ගය (means of isolation) හඳුනාගෙන එය ක්‍රියාවිරහිත කළ යුතුය. එසේ නොකර රෝගියා වෙත ගියහොත්, එම පුද්ගලයා තවමත් විදුලි ධාරාව සමඟ සම්බන්ධ වී සිටී නම් උපකාර කිරීමට යන පුද්ගලයාටද විදුලි සැර වැදී අනතුරට පත්විය හැකිය. එබැවින් පළමුව ආරක්ෂාව තහවුරු කර ගැනීම අනිවාර්ය වේ. කෙලින්ම රෝගියා ඇල්ලීමට යාම වැනි විකල්ප අතිශය අනතුරුදායකය."
     },
@@ -4482,7 +4482,7 @@
         ],
         "correct_answer": "Draught is indicated by D, in the figure.",
         "images": [
-            "https://sea-man.org/wp-content/uploads/2025/06/iz-5.jpg"
+            "https://i.ibb.co/N6cZtws8/iz-5.jpg"
         ],
         "explanation": ""
     },

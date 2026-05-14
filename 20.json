@@ -57,21 +57,6 @@
     },
     {
         "category": "CES – Maritime English",
-        "index": 5,
-        "question": "Please view the image, listen to each audio clip and then select the correct answer.",
-        "answers": [
-            "",
-            "",
-            ""
-        ],
-        "correct_answer": "",
-        "images": [
-            "/files/img/else/no_smoking.jpg"
-        ],
-        "explanation": ""
-    },
-    {
-        "category": "CES – Maritime English",
         "index": 6,
         "question": "Remember ____ the expiry date on all certificates and documents as expired certificates are not valid for service on-board.",
         "answers": [
@@ -170,22 +155,6 @@
     },
     {
         "category": "CES – Maritime English",
-        "index": 13,
-        "question": "Please view the image, listen to each audio clip and then select the correct answer.",
-        "answers": [
-            "",
-            "",
-            "",
-            ""
-        ],
-        "correct_answer": "",
-        "images": [
-            "/files/img/else/noizy.jpg"
-        ],
-        "explanation": ""
-    },
-    {
-        "category": "CES – Maritime English",
         "index": 14,
         "question": "The master ____ evacuate the engine room, shut down ventilation and operate the fixed CO2 fire extinguishing system.",
         "answers": [
@@ -228,22 +197,6 @@
     },
     {
         "category": "CES – Maritime English",
-        "index": 17,
-        "question": "Please view the image, listen to each audio clip and then select the correct answer.",
-        "answers": [
-            "",
-            "",
-            "",
-            ""
-        ],
-        "correct_answer": "",
-        "images": [
-            "/files/img/else/shower.jpg"
-        ],
-        "explanation": ""
-    },
-    {
-        "category": "CES – Maritime English",
         "index": 18,
         "question": "MARPOL: The International Convention for the ____ of Pollution from Ships.",
         "answers": [
@@ -282,22 +235,6 @@
         ],
         "correct_answer": "Standards.",
         "images": [],
-        "explanation": ""
-    },
-    {
-        "category": "CES – Maritime English",
-        "index": 21,
-        "question": "Please view the image, listen to each audio clip and then select the correct answer.",
-        "answers": [
-            "",
-            "",
-            "",
-            ""
-        ],
-        "correct_answer": "",
-        "images": [
-            "/files/img/else/worker.jpg"
-        ],
         "explanation": ""
     },
     {
@@ -428,22 +365,6 @@
     },
     {
         "category": "CES – Maritime English",
-        "index": 31,
-        "question": "Please view the image, listen to each audio clip and then select the correct answer.",
-        "answers": [
-            "",
-            "",
-            "",
-            ""
-        ],
-        "correct_answer": "",
-        "images": [
-            "/files/img/else/welding.jpg"
-        ],
-        "explanation": ""
-    },
-    {
-        "category": "CES – Maritime English",
         "index": 32,
         "question": "Drills and contingency plans are needed to better prepare crews to ____ propulsion failures.",
         "answers": [
@@ -556,22 +477,6 @@
     },
     {
         "category": "CES – Maritime English",
-        "index": 40,
-        "question": "Please view the image, listen to each audio clip and then select the correct answer.",
-        "answers": [
-            "",
-            "",
-            "",
-            ""
-        ],
-        "correct_answer": "",
-        "images": [
-            "/files/img/else/crew.jpg"
-        ],
-        "explanation": ""
-    },
-    {
-        "category": "CES – Maritime English",
         "index": 41,
         "question": "____ of alcohol or illegal drugs can severely impair any seafarer’s fitness for duty.",
         "answers": [
@@ -652,54 +557,6 @@
         ],
         "correct_answer": "Were reported.",
         "images": [],
-        "explanation": ""
-    },
-    {
-        "category": "CES – Maritime English",
-        "index": 47,
-        "question": "Please view the image, listen to each audio clip and then select the correct answer.",
-        "answers": [
-            "",
-            "",
-            "",
-            ""
-        ],
-        "correct_answer": "",
-        "images": [
-            "/files/img/else/goggles.jpg"
-        ],
-        "explanation": ""
-    },
-    {
-        "category": "CES – Maritime English",
-        "index": 48,
-        "question": "Please view the image, listen to each audio clip and then select the correct answer.",
-        "answers": [
-            "",
-            "",
-            "",
-            ""
-        ],
-        "correct_answer": "",
-        "images": [
-            "/files/img/else/lifeboat.jpg"
-        ],
-        "explanation": ""
-    },
-    {
-        "category": "CES – Maritime English",
-        "index": 49,
-        "question": "Please view the image, listen to each audio clip and then select the correct answer.",
-        "answers": [
-            "",
-            "",
-            "",
-            ""
-        ],
-        "correct_answer": "",
-        "images": [
-            "/files/img/else/cask.jpg"
-        ],
         "explanation": ""
     },
     {
@@ -858,22 +715,6 @@
     },
     {
         "category": "CES – Maritime English",
-        "index": 61,
-        "question": "Please view the image, listen to each audio clip and then select the correct answer.",
-        "answers": [
-            "",
-            "",
-            "",
-            ""
-        ],
-        "correct_answer": "",
-        "images": [
-            "/files/img/else/suit.jpg"
-        ],
-        "explanation": ""
-    },
-    {
-        "category": "CES – Maritime English",
         "index": 62,
         "question": "Please listen to the audio clip and select the correct answer.",
         "answers": [
@@ -958,22 +799,6 @@
     },
     {
         "category": "CES – Maritime English",
-        "index": 68,
-        "question": "Please view the image, listen to each audio clip and then select the correct answer.",
-        "answers": [
-            "",
-            "",
-            "",
-            ""
-        ],
-        "correct_answer": "",
-        "images": [
-            "/files/img/else/stairs.jpg"
-        ],
-        "explanation": ""
-    },
-    {
-        "category": "CES – Maritime English",
         "index": 69,
         "question": "After the rescue boat was loaded it was ____ to the water by lifting the brake.",
         "answers": [
@@ -984,22 +809,6 @@
         ],
         "correct_answer": "Lowered.",
         "images": [],
-        "explanation": ""
-    },
-    {
-        "category": "CES – Maritime English",
-        "index": 70,
-        "question": "Please view the image, listen to each audio clip and then select the correct answer.",
-        "answers": [
-            "",
-            "",
-            "",
-            ""
-        ],
-        "correct_answer": "",
-        "images": [
-            "/files/img/else/vahta.jpg"
-        ],
         "explanation": ""
     },
     {
@@ -1070,22 +879,6 @@
         ],
         "correct_answer": "The Chief Engineer has gone back to the control room.",
         "images": [],
-        "explanation": ""
-    },
-    {
-        "category": "CES – Maritime English",
-        "index": 76,
-        "question": "Please view the image, listen to each audio clip and then select the correct answer.",
-        "answers": [
-            "",
-            "",
-            "",
-            ""
-        ],
-        "correct_answer": "",
-        "images": [
-            "/files/img/else/shoes.jpg"
-        ],
         "explanation": ""
     },
     {
@@ -1310,7 +1103,7 @@
         ],
         "correct_answer": "Adjustable wrench.",
         "images": [
-            "https://sea-man.org/wp-content/uploads/2025/08/Screenshot-from-2025-08-05-10-08-00.png"
+            "https://i.ibb.co/xtrf7zXY/Screenshot-from-2025-08-05-10-08-00.png"
         ],
         "explanation": ""
     },
@@ -1326,7 +1119,7 @@
         ],
         "correct_answer": "Piston.",
         "images": [
-            "https://sea-man.org/wp-content/uploads/2025/08/Screenshot-from-2025-08-05-10-14-19.png"
+            "https://i.ibb.co/fYrPMJ6r/Screenshot-from-2025-08-05-10-14-19.png"
         ],
         "explanation": ""
     },
@@ -1342,7 +1135,7 @@
         ],
         "correct_answer": "Fuel injector.",
         "images": [
-            "https://sea-man.org/wp-content/uploads/2025/08/Screenshot-from-2025-08-05-10-30-10.png"
+            "https://i.ibb.co/WW1Td2xY/Screenshot-from-2025-08-05-10-30-10.png"
         ],
         "explanation": ""
     },
@@ -1358,7 +1151,7 @@
         ],
         "correct_answer": "Flat file.",
         "images": [
-            "https://sea-man.org/wp-content/uploads/2025/08/Screenshot-from-2025-08-05-10-31-59.png"
+            "https://i.ibb.co/nsQLxbV5/Screenshot-from-2025-08-05-10-31-59.png"
         ],
         "explanation": ""
     },
@@ -1374,7 +1167,7 @@
         ],
         "correct_answer": "The Starboard quarter is C, in the figure.",
         "images": [
-            "https://sea-man.org/wp-content/uploads/2025/08/Screenshot-from-2025-08-05-10-35-03.png"
+            "https://i.ibb.co/1JZLGxvp/Screenshot-from-2025-08-05-10-35-03.png"
         ],
         "explanation": ""
     },
@@ -1404,7 +1197,7 @@
         ],
         "correct_answer": "Exhaust valve.",
         "images": [
-            "https://sea-man.org/wp-content/uploads/2025/08/Screenshot-from-2025-08-05-10-42-22.png"
+            "https://i.ibb.co/Z608rTJM/Screenshot-from-2025-08-05-10-42-22.png"
         ],
         "explanation": ""
     },
@@ -1420,7 +1213,7 @@
         ],
         "correct_answer": "Draught is D, in the figure.",
         "images": [
-            "https://sea-man.org/wp-content/uploads/2025/08/Screenshot-from-2025-08-05-10-43-52.png"
+            "https://i.ibb.co/Q7xXnBC1/Screenshot-from-2025-08-05-10-43-52.png"
         ],
         "explanation": ""
     },
@@ -1436,7 +1229,7 @@
         ],
         "correct_answer": "Turbocharger.",
         "images": [
-            "https://sea-man.org/wp-content/uploads/2025/08/Screenshot-from-2025-08-05-10-48-55.png"
+            "https://i.ibb.co/d02qTzjt/Screenshot-from-2025-08-05-10-48-55.png"
         ],
         "explanation": ""
     },
@@ -1452,7 +1245,7 @@
         ],
         "correct_answer": "Connecting rod.",
         "images": [
-            "https://sea-man.org/wp-content/uploads/2025/08/Screenshot-from-2025-08-05-10-50-42.png"
+            "https://i.ibb.co/fYDrnTS1/Screenshot-from-2025-08-05-10-50-42.png"
         ],
         "explanation": ""
     },
@@ -1552,7 +1345,7 @@
         ],
         "correct_answer": "The Bridge is A, in the figure.",
         "images": [
-            "https://sea-man.org/wp-content/uploads/2025/08/Screenshot-from-2025-08-05-11-06-15.png"
+            "https://i.ibb.co/6S0SXYv/Screenshot-from-2025-08-05-11-06-15.png"
         ],
         "explanation": ""
     },
@@ -1568,7 +1361,7 @@
         ],
         "correct_answer": "Crankshaft.",
         "images": [
-            "https://sea-man.org/wp-content/uploads/2025/08/Screenshot-from-2025-08-05-11-08-07.png"
+            "https://i.ibb.co/kV3t1M4v/Screenshot-from-2025-08-05-11-08-07.png"
         ],
         "explanation": ""
     },
@@ -1598,7 +1391,7 @@
         ],
         "correct_answer": "Exhaust valve.",
         "images": [
-            "https://sea-man.org/wp-content/uploads/2025/08/Screenshot-from-2025-08-05-11-10-51.png"
+            "https://i.ibb.co/BH8cq6ZB/Screenshot-from-2025-08-05-11-10-51.png"
         ],
         "explanation": ""
     },
@@ -1628,7 +1421,7 @@
         ],
         "correct_answer": "Push rod.",
         "images": [
-            "https://sea-man.org/wp-content/uploads/2025/08/Screenshot-from-2025-08-05-11-13-51.png"
+            "https://i.ibb.co/ZRB4sw0R/Screenshot-from-2025-08-05-11-13-51.png"
         ],
         "explanation": ""
     },
@@ -1644,7 +1437,7 @@
         ],
         "correct_answer": "Pedestal drill.",
         "images": [
-            "https://sea-man.org/wp-content/uploads/2025/08/Screenshot-from-2025-08-05-11-14-55.png"
+            "https://i.ibb.co/7xzksy0H/Screenshot-from-2025-08-05-11-14-55.png"
         ],
         "explanation": ""
     },
@@ -1660,7 +1453,7 @@
         ],
         "correct_answer": "Camshaft.",
         "images": [
-            "https://sea-man.org/wp-content/uploads/2025/08/Screenshot-from-2025-08-05-11-16-05.png"
+            "https://i.ibb.co/zW6KVjMt/Screenshot-from-2025-08-05-11-16-05.png"
         ],
         "explanation": ""
     },

@@ -249,7 +249,7 @@
         ],
         "correct_answer": "Pedestal drill.",
         "images": [
-            "/files/img/else/drill.jpg"
+            "https://i.ibb.co/mVJ1dBrT/drill.jpg"
         ],
         "explanation": ""
     },
@@ -391,7 +391,7 @@
         ],
         "correct_answer": "G = 1/R.",
         "images": [
-            "/files/img/else/circuit2.jpg"
+            "https://i.ibb.co/twppdckZ/circuit2.jpg"
         ],
         "explanation": ""
     },
@@ -743,7 +743,7 @@
         ],
         "correct_answer": "Foam release station.",
         "images": [
-            "/files/img/else/f_symbol.jpg"
+            "https://i.ibb.co/0VDKw7Rp/f-symbol.jpg"
         ],
         "explanation": ""
     },
@@ -1207,7 +1207,7 @@
         ],
         "correct_answer": "Child’s lifejacket.",
         "images": [
-            "/files/img/else/child.jpg"
+            "Muster station for unaccompanied minors (UM)."
         ],
         "explanation": ""
     },
@@ -1335,7 +1335,7 @@
         ],
         "correct_answer": "Fuel injector.",
         "images": [
-            "/files/img/else/injector.jpg"
+            "https://i.ibb.co/1fkhmtzX/injector.jpg"
         ],
         "explanation": ""
     },
@@ -1617,7 +1617,7 @@
         ],
         "correct_answer": "It can cause fouling of the charge air with wet sludge lodging between the fins.",
         "images": [],
-        "explanation": ""
+        "explanation": "Diesel engine turbocharger එකක compressor side එක ජලය සහ chemical යොදා සේදීම (Water washing) වර්තමානයේ බොහෝ නිෂ්පාදකයින් නිර්දේශ නොකරයි. මෙයට ප්‍රධානම හේතුව වන්නේ සේදීමේදී ඉවත් වන කුණු සහ තෙල් මිශ්‍රිත රොඩු (Wet sludge), charge air cooler එකේ පවතින සිහින් fins (වරල්) අතර රැඳී fouling (අපවිත්‍ර වීම) ඇති කිරීමයි. මෙලෙස සිසිලන පද්ධතිය අවහිර වීම නිසා engine එකට ලැබෙන වාතයේ ප්‍රමාණය අඩුවන අතර intake air temperature එක ඉහළ යයි. එබැවින් වර්තමානයේ බොහෝ විට compressor පිරිසිදු කිරීමට dry cleaning ක්‍රම භාවිතා කරනු ලබයි.\n\n\n\nඅනෙකුත් පිළිතුරු වැරදි වීමට හේතු:\n1. The chemicals are too expensive: Chemicals වල මිල තාක්ෂණිකව සේදීම නතර කිරීමට ප්‍රධාන හේතුවක් නොවේ; මෙහෙයුම් කාර්යක්ෂමතාව (Operational efficiency) මිලට වඩා වැදගත් වේ.\n2. It leads to corrosion of the compressor casing and parts: නියමිත පිරිවිතරයන්ට අනුව (Correct specifications) පිරිසිදු කිරීමේ ද්‍රව්‍ය භාවිතා කළහොත් විඛාදනය (Corrosion) ක්ෂණිකව සිදු නොවේ. ප්‍රධාන ගැටලුව වන්නේ fouling ඇතිවීමයි.\n3. It uses too much water as the chemicals have to be flushed through: මෙහිදී භාවිතා වන ජල ප්‍රමාණය එතරම් විශාල නොවන අතර, පද්ධතියක් නඩත්තු කිරීමේදී වැයවන ජල ප්‍රමාණයට වඩා එහි ඇතිවන කාර්මික දෝෂ වැළැක්වීම ඉංජිනේරුවරුන්ගේ මූලික අවධානයට ලක් වේ."
     },
     {
         "category": "CES – Engine, Operational, Medium Speed",
@@ -1659,7 +1659,7 @@
         ],
         "correct_answer": "Wear skin protection and a facemask.",
         "images": [],
-        "explanation": ""
+        "explanation": "නාවික ක්ෂේත්‍රයේදී නීතිවිරෝධී මත්ද්‍රව්‍ය (Illegal drugs) හෝ සැකකටයුතු රසායනික ද්‍රව්‍ය හැසිරවීමේදී පෞද්ගලික ආරක්ෂක උපකරණ (PPE) භාවිතා කිරීම අත්‍යවශ්‍ය වේ. සමහර මත්ද්‍රව්‍ය සම හරහා ශරීරයට අවශෝෂණය විය හැකි අතර, ඒවායේ කුඩු (Powder) හෝ වාෂ්ප (Fumes) ආශ්වාස කිරීම මාරාන්තික විය හැක. එබැවින් 'Wear skin protection and a facemask' යන්න නිවැරදි පිළිතුර වේ.\n\nඅනෙකුත් පිළිතුරු වැරදි වීමට හේතු:\n1. Briefly inhale powders, fumes or vapours: මෙය ඉතාමත් භයානක ක්‍රියාවකි. Fentanyl වැනි ප්‍රබල මත්ද්‍රව්‍ය ඉතා කුඩා ප්‍රමාණයක් ආශ්වාස කිරීම පවා මරණයට හේතු විය හැක. කිසිම අවස්ථාවක ආශ්වාස කිරීමෙන් ද්‍රව්‍ය පරීක්ෂා නොකළ යුතුය.\n2. Test out the potency of the drug: මත්ද්‍රව්‍යයක ප්‍රබලතාවය (Potency) පරීක්ෂා කිරීම නැවක කාර්ය මණ්ඩලයේ වගකීමක් නොවන අතර එය නීතිවිරෝධී මෙන්ම ජීවිත අවදානමක් සහිත ක්‍රියාවකි.\n3. Shut off the ventilation: වාතාශ්‍රය (Ventilation) අක්‍රිය කිරීම මගින් එම කාමරය තුළ විෂ වාෂ්ප සාන්ද්‍රණය (Concentration) ඉහළ යා හැක. මෙය එම ස්ථානයට ඇතුළු වන පුද්ගලයාගේ ජීවිතයට තර්ජනයක් වේ. ඒ වෙනුවට කළ යුත්තේ ආරක්ෂිත ක්‍රමවේද අනුගමනය කරමින් අදාළ බලධාරීන් දැනුවත් කිරීමයි."
     },
     {
         "category": "CES – Engine, Operational, Medium Speed",
@@ -1841,7 +1841,7 @@
         ],
         "correct_answer": "Inverting amplifier.",
         "images": [
-            "https://sea-man.org/wp-content/uploads/2024/12/scheme-1.jpg"
+            "https://i.ibb.co/Q7N0jvtb/scheme-1.jpg"
         ],
         "explanation": ""
     },
@@ -2053,7 +2053,7 @@
         ],
         "correct_answer": "Remote level controller with indicator.",
         "images": [
-            "https://sea-man.org/wp-content/uploads/2024/12/sign-1.jpg"
+            "https://i.ibb.co/67y5Qcmd/sign-1.jpg"
         ],
         "explanation": ""
     },
@@ -2195,7 +2195,7 @@
         ],
         "correct_answer": "1 M ohm.",
         "images": [
-            "https://sea-man.org/wp-content/uploads/2024/12/resistor.jpg"
+            "https://i.ibb.co/CsBZwYD2/resistor.jpg"
         ],
         "explanation": ""
     },
@@ -2309,7 +2309,7 @@
         ],
         "correct_answer": "Hotter due to increased current.",
         "images": [
-            "https://sea-man.org/wp-content/uploads/2024/12/scheme2-1.jpg"
+            "https://i.ibb.co/PZTQgCGR/scheme2-1.jpg"
         ],
         "explanation": ""
     },
@@ -2771,7 +2771,7 @@
         ],
         "correct_answer": "EPIRB.",
         "images": [
-            "https://sea-man.org/wp-content/uploads/2025/01/radar1.jpg"
+            "https://i.ibb.co/XrVc6mS1/radar1.jpg"
         ],
         "explanation": ""
     },
@@ -2787,7 +2787,7 @@
         ],
         "correct_answer": "Gently heat the bearing in an oil bath and use a bearing puller to draw it onto the shaft.",
         "images": [],
-        "explanation": ""
+        "explanation": "මෙම සංකේතයෙන් (Symbol) අදහස් කරන්නේ Bearing එකක් එහි shaft එක මතට නිවැරදිව සවි කිරීම සඳහා අනුගමනය කළ යුතු පියවරයි. Bearing එකක් shaft එකකට සවි කිරීමේදී එය රත් කිරීමෙන් ප්‍රසාරණය (Thermal expansion) වීමට සැලැස්වීම සාමාන්‍ය ක්‍රමයකි. මෙහිදී 'Oil bath' එකක් භාවිතා කර මෘදු ලෙස රත් කිරීමෙන් Bearing එකට හානි නොවී පහසුවෙන් shaft එක මතට ඇතුල් කිරීමට හෝ 'Bearing puller' එකක් ආධාරයෙන් ඇද ගැනීමට (Draw onto the shaft) හැකි වේ.\n\nඅනෙකුත් පිළිතුරු වැරදි වීමට හේතු:\n1. Use a hammer and a pipe: මිටියකින් තට්ටු කිරීමෙන් (Hammering) Bearing එකේ ඇතුළත ඇති සියුම් කොටස් වලට හෝ race එකට ස්ථිර හානි සිදුවිය හැක. මෙය වැරදි ඉංජිනේරු පුරුද්දකි.\n2. Use emery cloth on the inner ring: Bearing එකක ඇතුළත වළල්ල (Inner ring) 'Emery cloth' (වැලි කඩදාසි) යොදා මැදීමෙන් එහි නිශ්චිත මිනුම් (Tolerances) වෙනස් වී Bearing එක බුරුල් වීමට ඉඩ ඇත. මෙය කිසිසේත් නොකළ යුතුය.\n3. Use emery cloth on the bearing surface on the shaft: Shaft එකේ මතුපිට Emery cloth යොදා මැදීමෙන් එහි මතුපිට නිමාව (Surface finish) සහ විෂ්කම්භය (Diameter) අඩු විය හැකි අතර, එමඟින් Bearing එක සහ shaft එක අතර තිබිය යුතු තද සම්බන්ධතාවය (Interference fit) අහිමි වේ."
     },
     {
         "category": "CES – Engine, Operational, Medium Speed",
@@ -2801,7 +2801,7 @@
         ],
         "correct_answer": "Lifebuoy with light and smoke.",
         "images": [
-            "https://sea-man.org/wp-content/uploads/2025/01/buoy.jpg"
+            "https://i.ibb.co/ymqL93qF/buoy.jpg"
         ],
         "explanation": ""
     },
@@ -3053,7 +3053,7 @@
         ],
         "correct_answer": "A zener barrier is a unit made to obtained intrinsic safety in installations for instrumentation in hazardous areas.",
         "images": [],
-        "explanation": ""
+        "explanation": "Zener Barrier එකක් යනු අනතුරුදායක ප්‍රදේශ (Hazardous areas) වල ස්ථාපනය කර ඇති උපකරණ සඳහා 'Intrinsic Safety' (සහජ ආරක්ෂාව) ලබා දීමට භාවිතා කරන ආරක්ෂක ඒකකයකි. මෙහි ප්‍රධාන කාර්යය වන්නේ විදුලි පද්ධතියක දෝෂයක් ඇති වුවහොත්, එම අනතුරුදායක පරිසරයේ ඇති වායූන් ඇවිලවීමට තරම් ප්‍රමාණවත් විදුලි ශක්තියක් (Voltage or Current) උපකරණ වෙත ගලා යාම වැළැක්වීමයි. \n\nඅනෙකුත් පිළිතුරු වැරදි වීමට හේතු:\n1. A device that allows current to pass only one direction: මෙය සාමාන්‍ය Diode එකක කාර්යයයි. Zener barrier එකක් යනු Diode එකකට වඩා සංකීර්ණ, Fuse සහ Resistors අන්තර්ගත ආරක්ෂක පරිපථයකි.\n2. A diode bridge used in rectifiers: Rectifier එකක් මගින් කරන්නේ AC ධාරාව DC බවට පත් කිරීමයි. එය Zener barrier එකක කාර්යයට වඩා සම්පූර්ණයෙන්ම වෙනස් වේ.\n3. A device which limits the current drawn by an induction motor: Induction motor එකක ධාරාව පාලනය කිරීමට Motor starters හෝ Variable Frequency Drives (VFD) භාවිතා කරයි. Zener barriers භාවිතා කරන්නේ අඩු වෝල්ටීයතාවයකින් ක්‍රියා කරන Instrumentation පද්ධති වල ආරක්ෂාව සඳහා පමණි."
     },
     {
         "category": "CES – Engine, Operational, Medium Speed",
@@ -3123,7 +3123,7 @@
         ],
         "correct_answer": "Indicates manual starting direction of the engine.",
         "images": [
-            "https://sea-man.org/wp-content/uploads/2025/01/sign.jpg"
+            "https://i.ibb.co/V0TcWh85/sign.jpg"
         ],
         "explanation": ""
     },
@@ -3139,7 +3139,7 @@
         ],
         "correct_answer": "A transducer that converts a known electric current to a pressure proportional to the current.",
         "images": [
-            "https://sea-man.org/wp-content/uploads/2025/01/scheme.jpg"
+            "https://i.ibb.co/0RxkdNhy/scheme.jpg"
         ],
         "explanation": ""
     },
@@ -3224,7 +3224,7 @@
         ],
         "correct_answer": "Intrinsically safe.",
         "images": [
-            "https://sea-man.org/wp-content/uploads/2025/01/exi.jpg"
+            "https://i.ibb.co/LdYvVtg0/exi.jpg"
         ],
         "explanation": ""
     },
@@ -3463,7 +3463,7 @@
         ],
         "correct_answer": "Light earth – hard earth – no fault.",
         "images": [
-            "https://sea-man.org/wp-content/uploads/2025/01/lights.jpg"
+            "https://i.ibb.co/352H6cdc/lights.jpg"
         ],
         "explanation": ""
     },
@@ -3702,7 +3702,7 @@
         ],
         "correct_answer": "Hotter due to increased current.",
         "images": [],
-        "explanation": ""
+        "explanation": "සමාන්තරගතව (Parallel) ක්‍රියා කරන Generator දෙකක සක්‍රීය බලය (Active power - kW) සමාන වුවද, Power factor එක අඩු Generator එක වැඩිපුර 'Reactive power' (kVAr) ප්‍රමාණයක් ලබා දෙයි. Apparent power (kVA) සූත්‍රයට අනුව ($$kVA = \frac{kW}{Power Factor}$$), Power factor එක අඩුවන විට kVA අගය ඉහළ යයි. Current ($$I$$) යනු kVA අගයට සෘජුවම සමානුපාතික වන බැවින්, අඩු Power factor එකක් ඇති Generator එක හරහා වැඩි විදුලි ධාරාවක් (Increased current) ගලා යයි. මෙම වැඩිපුර ධාරාව නිසා $I^2R$ loss (Copper losses) වැඩි වන අතර එය Generator එක වැඩිපුර රත් වීමට (Hotter) හේතු වේ.\n\nඅනෙකුත් පිළිතුරු වැරදි වීමට හේතු:\n1. Cooler due to lower current: මෙය සම්පූර්ණයෙන්ම වැරදියි. Power factor එක අඩු වන විට සැබවින්ම සිදුවන්නේ Current එක වැඩි වීම මිස අඩු වීම නොවේ. \n2. More efficiently due to better load sharing: අඩු Power factor එකකදී වැඩිපුර තාපය පිටවන බැවින් කාර්යක්ෂමතාව (Efficiency) අඩු වේ. මෙය Load sharing වලට වාසියක් නොවන අතර පද්ධතියේ පාඩුවකි.\n3. At a higher voltage due to power factor correction: සමාන්තරගතව ඇති Generator දෙකක terminal voltage එක සැමවිටම සමාන විය යුතුය. Power factor වෙනස් වීම සිදු වන්නේ excitation වෙනස් වීමෙන් මිස voltage එක ඉහළ යාමෙන් නොවේ."
     },
     {
         "category": "CES – Engine, Operational, Medium Speed",
@@ -3842,7 +3842,7 @@
         ],
         "correct_answer": "Zener diode.",
         "images": [
-            "https://sea-man.org/wp-content/uploads/2025/01/diod.jpg"
+            "https://i.ibb.co/d0YSNfCF/diod.jpg"
         ],
         "explanation": ""
     },
@@ -3877,7 +3877,7 @@
     {
         "category": "CES – Engine, Operational, Medium Speed",
         "index": 276,
-        "question": "Code: 7bM6qtxu What is the main purpose for taking diesel engine crankshaft deflections?",
+        "question": "What is the main purpose for taking diesel engine crankshaft deflections?",
         "answers": [
             "To check for weardown of the main bearings.",
             "To determine the engine’s fuel efficiency.",
@@ -3886,7 +3886,7 @@
         ],
         "correct_answer": "To check for weardown of the main bearings.",
         "images": [],
-        "explanation": ""
+        "explanation": "Crankshaft deflections මැනීමේ ප්‍රධානතම අරමුණ වන්නේ එන්ජිමේ Main bearings ගෙවී ඇති ප්‍රමාණය (Weardown) සහ Crankshaft එකෙහි පෙළගැස්ම (Alignment) පරීක්ෂා කිරීමයි. Main bearing එකක් අධික ලෙස ගෙවුණු විට Crankshaft එක මඳක් පහත් වන අතර, එමඟින් Crank webs අතර පරතරය වෙනස් වේ. Dial gauge එකක් මඟින් මෙම පරතරය මැනීමෙන් Crankshaft එක නැවී ඇත්දැයි හඳුනාගත හැකිය. මෙය නිසි ලෙස පරීක්ෂා නොකළහොත් Crankshaft එක කැඩී යාමට පවා ඉඩ ඇත.\n\nඅනෙකුත් පිළිතුරු වැරදි වීමට හේතු:\n1. To determine the engine’s fuel efficiency: එන්ජිමේ ඉන්ධන කාර්යක්ෂමතාව මැනීමට indicator cards හෝ fuel flow meters භාවිතා කරන අතර, ඒ සඳහා deflection මැනීම සම්බන්ධ නොවේ.\n2. To monitor exhaust emissions and engine performance: පිටාර වායු (Exhaust emissions) මැනීම සඳහා වෙනම analyzer භාවිතා කරන අතර එය Crankshaft එකෙහි යාන්ත්‍රික පෙළගැස්ම සමඟ සෘජුව සම්බන්ධ නැත.\n3. To assess the quality of the engine oil: එන්ජින් ඔයිල් වල ගුණාත්මකභාවය පරීක්ෂා කරනු ලබන්නේ රසායනාගාර පරීක්ෂණ (Lube oil analysis) මගින් මිස Crankshaft deflection මැනීමෙන් නොවේ."
     },
     {
         "category": "CES – Engine, Operational, Medium Speed",
@@ -3970,7 +3970,7 @@
         ],
         "correct_answer": "TC.",
         "images": [
-            "https://sea-man.org/wp-content/uploads/2025/01/ts.jpg"
+            "https://i.ibb.co/TBZmLyMf/ts.jpg"
         ],
         "explanation": ""
     },
@@ -4126,7 +4126,7 @@
         ],
         "correct_answer": "EPIRB.",
         "images": [
-            "https://sea-man.org/wp-content/uploads/2025/01/simvol-3.jpg"
+            "https://i.ibb.co/1YYt5b1K/simvol-3.jpg"
         ],
         "explanation": ""
     },
@@ -4266,7 +4266,7 @@
         ],
         "correct_answer": "Bipolar transistor.",
         "images": [
-            "https://sea-man.org/wp-content/uploads/2025/01/tranzistor.jpg"
+            "https://i.ibb.co/TBZHzVX2/tranzistor.jpg"
         ],
         "explanation": ""
     },
@@ -4371,7 +4371,7 @@
     {
         "category": "CES – Engine, Operational, Medium Speed",
         "index": 311,
-        "question": "Code: GJTmMzRB Many medium and high-speed marine diesel engines have connecting rods with an obliquely (angled) split in way of the bottom end, which may have serrated faces. What is the main reason that the connecting rods are manufactured with this oblique split?",
+        "question": "Many medium and high-speed marine diesel engines have connecting rods with an obliquely (angled) split in way of the bottom end, which may have serrated faces. What is the main reason that the connecting rods are manufactured with this oblique split?",
         "answers": [
             "It allows the bottom end bearing to be large but still allows the piston to be withdrawn from the top of the cylinder.",
             "It provides additional strength to the connecting rod during the power stroke.",
@@ -4380,12 +4380,12 @@
         ],
         "correct_answer": "It allows the bottom end bearing to be large but still allows the piston to be withdrawn from the top of the cylinder.",
         "images": [],
-        "explanation": ""
+        "explanation": "මධ්‍යම සහ අධිවේගී එන්ජින්වල Connecting rod එකෙහි පහළ කොටස (Bottom end) ඇලයට හෝ ආනතව (Oblique split) සකස් කර ඇත්තේ නඩත්තු කටයුතු පහසු කිරීම සඳහාය. එන්ජිමක Crankpin එක විශාල වන තරමට Bearing එකට ඔරොත්තු දිය හැකි පීඩනය වැඩි වේ. නමුත් Bottom end එක සාමාන්‍ය පරිදි තිරස් අතට (Horizontally) බෙදා තිබුණහොත්, එම විශාල කොටස Cylinder liner එක හරහා ඉහළට ඇද ගැනීමට නොහැකි වේ. ඇලයට කැපූ (Oblique split) සැකසුම මගින් Bottom end එකෙහි පළල අඩු වන බැවින්, මුළු Connecting rod එකම Cylinder liner එක හරහා ඉහළට ගලවා ගැනීමට (Withdraw from the top) හැකියාව ලැබේ. මෙහි ඇති 'Serrated faces' මගින් කොටස් දෙක තදින් සහ නිවැරදිව සම්බන්ධ වී පැවතීම සහතික කරයි.\n\n\n\nඅනෙකුත් පිළිතුරු වැරදි වීමට හේතු:\n1. It provides additional strength: ආනත කැපුම ශක්තිමත් බව (Strength) වැඩි කිරීමට වඩා යාන්ත්‍රික ඉඩකඩ (Clearance) කළමනාකරණය කිරීමට භාවිතා කරයි. ඇත්ත වශයෙන්ම මෙවැනි සන්ධියකදී බෝල්ට් (Bolts) මත ඇතිවන ආතතිය වැඩි විය හැක.\n2. It reduces the overall weight: ඇලයට කැපීම නිසා බරෙහි සැලකිය යුතු අඩුවීමක් සිදු නොවේ. බර අඩු කිරීම සඳහා සාමාන්‍යයෙන් භාවිතා කරන්නේ සැහැල්ලු ලෝහ වර්ග හෝ වෙනත් ව්‍යුහාත්මක වෙනස්කම්ය.\n3. It helps in reducing the wear and tear: මෙය සිලින්ඩර් ලයිනර් සහ පිස්ටනය අතර ගෙවීම් අවම කිරීමට සෘජුව දායක නොවේ. එම ගෙවීම් පාලනය කරනු ලබන්නේ ලිහිසි තෙල් (Lubrication) සහ ප්ලාස්ටන් රින්ග්ස් (Piston rings) මගිනි."
     },
     {
         "category": "CES – Engine, Operational, Medium Speed",
         "index": 312,
-        "question": "Code: fVchNsc0 A new joint is required for a seawater pipe flange and there are no ready-made spares. What is the best method for making a new joint from a sheet of rubber insertion?",
+        "question": "A new joint is required for a seawater pipe flange and there are no ready-made spares. What is the best method for making a new joint from a sheet of rubber insertion?",
         "answers": [
             "Measure the flange diameter, PCD, and bore using a ruler and callipers and then mark out the jointing. Use jointing scissors and hole punches to cut the new joint.",
             "Use the old joint as a template, place it on the rubber sheet, and trace around it before cutting the new joint.",
@@ -4394,7 +4394,7 @@
         ],
         "correct_answer": "Measure the flange diameter, PCD, and bore using a ruler and callipers and then mark out the jointing. Use jointing scissors and hole punches to cut the new joint.",
         "images": [],
-        "explanation": ""
+        "explanation": "මුහුදු ජල නල පද්ධතියක (Seawater pipe) flange එකක් සඳහා අලුතින් joint එකක් (Gasket) සෑදීමේදී වඩාත් නිවැරදි සහ වෘත්තීයමය ක්‍රමය වන්නේ flange එකෙහි මිනුම් නිවැරදිව ලබා ගැනීමයි. මෙහිදී flange diameter (පිටත විෂ්කම්භය), PCD (Pitch Circle Diameter - බෝල්ට් සිදුරු පිහිටා ඇති වෘත්තයේ විෂ්කම්භය) සහ bore (ඇතුළත විෂ්කම්භය) ruler සහ callipers භාවිතයෙන් මැනිය යුතුය. ඉන්පසු එම මිනුම් rubber sheet එක මත ලකුණු කර (Marking), jointing scissors සහ hole punches භාවිතයෙන් සිදුරු විදීමෙන් ඉතා නිවැරදි නිමාවක් සහිත joint එකක් ලබා ගත හැක. මෙය කාන්දුවීම් (Leaks) අවම කිරීමට උපකාරී වේ.\n\nඅනෙකුත් පිළිතුරු වැරදි වීමට හේතු:\n1. Use the old joint as a template: පැරණි joint එක සාමාන්‍යයෙන් භාවිතයේදී ඇදී හෝ විකෘති වී තිබිය හැක. එබැවින් එය අච්චුවක් (Template) ලෙස භාවිතා කිරීමෙන් නව joint එකේ මිනුම් වැරදි වීමට ඉඩ ඇත.\n2. Cut the rubber sheet without measuring: මිනුම් ලබා නොගෙන කැපීමෙන් joint එක flange එකට නිසි ලෙස නොගැලපෙන අතර එය අධික ජල පීඩනය යටතේ කාන්දු වීමට (Blowout) හේතු වේ.\n3. Use a machine without manual measurements: සාමාන්‍යයෙන් නැවක joint එකක් හදිසියේ සකස් කිරීමේදී එවැනි ස්වයංක්‍රීය යන්ත්‍ර (Machines) නොමැති අතර, මිනුම් රහිතව යන්ත්‍රයක් භාවිතා කිරීම ද ප්‍රායෝගික නොවේ."
     },
     {
         "category": "CES – Engine, Operational, Medium Speed",
@@ -4604,7 +4604,7 @@
         ],
         "correct_answer": "The pressure switch has contact(s) that will change between open and closed position. The pressure transmitter converts a pressure signal into an electric signal.",
         "images": [
-            "https://sea-man.org/wp-content/uploads/2025/05/Screenshot-from-2025-05-14-08-31-33.png"
+            "https://i.ibb.co/zh7nHVZ8/Screenshot-from-2025-05-14-08-31-33.png"
         ],
         "explanation": ""
     },
@@ -4620,7 +4620,7 @@
         ],
         "correct_answer": "Short sharp period of roll associated with breaking lashings and shifting cargo.",
         "images": [
-            "https://sea-man.org/wp-content/uploads/2025/05/scheme1-1.jpg"
+            "https://i.ibb.co/Mk2FT8bg/scheme1-1.jpg"
         ],
         "explanation": "විශාල GM (Metacentric Height) අගයක් ඇති නැවක් 'Stiff ship' ලෙස හැඳින්වේ. මෙහිදී නැව රළ පහරකට හසු වූ විට ඉතා වේගයෙන් සහ තියුණු ලෙස දෙපසට වැනේ (short sharp period of roll). මෙහි ප්‍රතිඵලයක් ලෙස භාණ්ඩ රඳවා ඇති ලැෂින් (lashings) කැඩී යාමට සහ භාණ්ඩ පෙරලීමට (cargo shifting) වැඩි ඉඩක් ඇත. දිගු rolling period එකක් ඇති වන්නේ GM අගය අඩු වූ විට (Tender ship) ය."
     },
@@ -4720,7 +4720,7 @@
         ],
         "correct_answer": "Line-throwing appliance.",
         "images": [
-            "https://sea-man.org/wp-content/uploads/2025/05/lta.jpeg"
+            "https://i.ibb.co/4R8YMKvJ/lta.jpg"
         ],
         "explanation": ""
     },
@@ -4736,7 +4736,7 @@
         ],
         "correct_answer": "Resistance sensors.",
         "images": [
-            "https://sea-man.org/wp-content/uploads/2025/05/tempers.jpg"
+            "https://i.ibb.co/CszcJWV5/tempers.jpg"
         ],
         "explanation": ""
     },
@@ -4752,7 +4752,7 @@
         ],
         "correct_answer": "1 M ohm.",
         "images": [
-            "https://sea-man.org/wp-content/uploads/2025/05/resistor.jpg"
+            "https://i.ibb.co/bTycvpM/resistor.jpg"
         ],
         "explanation": ""
     },
@@ -4978,7 +4978,7 @@
         ],
         "correct_answer": "Radar transponder.",
         "images": [
-            "https://sea-man.org/wp-content/uploads/2025/05/radar.jpg"
+            "https://i.ibb.co/WvJ7bG8N/radar.jpg"
         ],
         "explanation": ""
     },
@@ -4994,7 +4994,7 @@
         ],
         "correct_answer": "Resistor, 3 300 ohms.",
         "images": [
-            "https://sea-man.org/wp-content/uploads/2025/05/Screenshot-from-2025-05-14-10-44-19.png"
+            "https://i.ibb.co/LhBP3GqX/Screenshot-from-2025-05-14-10-44-19.png"
         ],
         "explanation": ""
     },
@@ -5010,7 +5010,7 @@
         ],
         "correct_answer": "Rocket parachute flares.",
         "images": [
-            "https://sea-man.org/wp-content/uploads/2025/05/flare.png"
+            "https://i.ibb.co/kVKYyFJw/flare.png"
         ],
         "explanation": ""
     },
@@ -5124,7 +5124,7 @@
         ],
         "correct_answer": "Relatively non linear characteristic.",
         "images": [],
-        "explanation": ""
+        "explanation": "Positive Temperature Coefficient (PTC) Thermistors කියනුයේ උෂ්ණත්වය (Temperature) ඉහළ යන විට ඒවායේ ප්‍රතිරෝධය (Resistance) වැඩි වන උපාංග වේ. සාමාන්‍යයෙන් PTC Thermistors වල Resistance vs Temperature ප්‍රස්තාරය (Graph) සරල රේඛාවක් නොවෙයි; එය ඉතාමත් 'Non-linear' (අරේඛීය) ස්වභාවයක් ගනී. විශේෂයෙන්ම යම් නිශ්චිත උෂ්ණත්වයකදී (Curie point) ප්‍රතිරෝධය එකවරම ඉතා සීග්‍රයෙන් ඉහළ යන බැවින් මෙහි ලක්ෂණ 'Relatively non-linear characteristic' ලෙස හඳුන්වයි. \n\nඅනෙකුත් පිළිතුරු වැරදි වීමට හේතු:\n1. Relatively linear characteristic: මෙය වැරදියි, මන්ද Thermistors (විශේෂයෙන්ම PTC) නිර්මාණය කර ඇත්තේ ඉතා සංවේදී වෙනස්කම් පෙන්වීමට බැවින් ඒවායේ ක්‍රියාකාරිත්වය රේඛීය (Linear) නොවේ. RTD (Resistance Temperature Detectors) වැනි උපාංග සාපේක්ෂව රේඛීය ලක්ෂණ පෙන්වයි.\n2. Variable reliability: Thermistors ඉතා විශ්වාසදායක (Reliable) උපාංග වන අතර ඒවායේ විශ්වාසනීයත්වය වෙනස් වන සුළු (Variable) නොවේ.\n3. Inaccurate measurement: Thermistors ඉතාමත් නිවැරදි (Accurate) සහ සංවේදී (Sensitive) මිනුම් ලබා දෙන උපාංග වේ. එම නිසා ඒවා වැරදි මිනුම් ලබා දෙන බව පැවසීම අසත්‍යයකි."
     },
     {
         "category": "CES – Engine, Operational, Medium Speed",
