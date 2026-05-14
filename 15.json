@@ -1,17 +1,17 @@
 [
     {
-        "category": "CES – Engine, Support level",
-        "index": 1,
-        "question": "An immersion suit will not sustain burning or continue melting after being totally enveloped in a fire for a period of:",
         "answers": [
             "2 sec.",
             "1 min.",
             "20 sec.",
             "10 sec."
         ],
+        "category": "CES – Engine, Support level",
         "correct_answer": "2 sec.",
+        "explanation": "ජාත්‍යන්තර ජීවිතාරක්ෂක උපකරණ කේතයට (LSA Code) අනුව, ගිල්වීමේ ඇඳුමක් (Immersion suit) ගින්නකට හසු වූ විට, එය තත්පර 2කට වඩා වැඩි කාලයක් දැවී යාම හෝ දියවීම සිදු නොවිය යුතුය. මෙය හදිසි අවස්ථාවකදී ගින්නක් මැදින් ගමන් කිරීමට සිදුවුවහොත් ඇඳුම පැළඳ සිටින පුද්ගලයාගේ ආරක්ෂාව තහවුරු කිරීම සඳහා පනවා ඇති අනිවාර්ය ප්‍රමිතියකි.",
         "images": [],
-        "explanation": ""
+        "index": 1,
+        "question": "An immersion suit will not sustain burning or continue melting after being totally enveloped in a fire for a period of:"
     },
     {
         "category": "CES – Engine, Support level",
@@ -28,59 +28,58 @@
         "explanation": "ජීවිතාරක්ෂක පහුරකට (Liferaft) නැඟුණු පසු, ඔබ ප්‍රධාන වශයෙන් කළ යුත්තේ අවට නිරීක්ෂණය සඳහා පිරිසක් යෙදවීම (Lookout), හැකි නම් අනෙකුත් පහුරු සමඟ සම්බන්ධ වීම සහ මුහුදු නැංගුරම (Sea anchor) භාවිත කිරීමයි. මුහුදු නැංගුරම මගින් පහුර ගසාගෙන යාම පාලනය කරන අතර ස්ථායීතාවය වැඩි කරයි. අනෙක් අතට, කිසිදු ඉලක්කයකින් තොරව හබල් ගෑම හෝ ආහාර වැඩිපුර පරිභෝජනය කිරීම වැනි ක්‍රියා මගින් දිවි ගලවා ගැනීමේ අවස්ථාව අඩු වේ."
     },
     {
-        "category": "CES – Engine, Support level",
-        "index": 3,
-        "question": "Where do you find instructions for tasks and duties in case of an emergency?",
         "answers": [
             "In the muster list.",
             "On posters at the lifeboat station.",
             "In instruction notices posted in the crew’s cabins."
         ],
+        "category": "CES – Engine, Support level",
         "correct_answer": "In the muster list.",
-        "images": [],
-        "explanation": ""
+        "explanation": "නැවක හදිසි අවස්ථාවකදී කාර්ය මණ්ඩලයේ සෑම සාමාජිකයෙකුම ඉටු කළ යුතු කාර්යයන් සහ වගකීම් පිළිබඳ උපදෙස් ඇතුළත් වන්නේ 'Muster List' හෙවත් හදිසි රාජකාරි ලැයිස්තුවේය. SOLAS සම්මුතියට අනුව, මෙම ලැයිස්තුව නැවේ ප්‍රධාන ස්ථානවල ප්‍රදර්ශනය කළ යුතු අතර, සෑම කාර්ය මණ්ඩල සාමාජිකයෙකුම තමාට පැවරී ඇති රාජකාරි සහ හදිසි සංඥා පිළිබඳව මනාව දැනුවත් විය යුතුය.",
+        "index": 3,
+        "question": "Where do you find instructions for tasks and duties in case of an emergency?"
     },
     {
-        "category": "CES – Engine, Support level",
-        "index": 4,
-        "question": "What is the minimum distance between the helmet and the head of the wearer supposed to be?",
         "answers": [
             "3 cm.",
             "No minimum distance.",
             "1 cm.",
             "7,5 cm."
         ],
+        "category": "CES – Engine, Support level",
         "correct_answer": "3 cm.",
+        "explanation": "ආරක්ෂිත හිස්වැස්මක් (Safety helmet) පැළඳීමේදී හිස්වැස්මේ ඇතුළත සහ හිස අතර අවම වශයෙන් සෙන්ටිමීටර 3ක පරතරයක් තිබිය යුතුය. මෙම පරතරය මගින් යම් වස්තුවක් හිස්වැස්ම මත ගැටුණු විට ඇතිවන කම්පනය අවශෝෂණය කර ගැනීමටත්, හිසට සිදුවිය හැකි බරපතල තුවාල අවම කිරීමටත් උපකාරී වේ.",
         "images": [],
-        "explanation": ""
+        "index": 4,
+        "question": "What is the minimum distance between the helmet and the head of the wearer supposed to be?"
     },
     {
-        "category": "CES – Engine, Support level",
-        "index": 5,
-        "question": "What kind of permits have to be obtained before starting cold work in tanks?",
         "answers": [
             "Cold work permit + Permit for entry.",
             "Cold work permit.",
             "Hot + Cold work permit.",
             "Hot work permit."
         ],
+        "category": "CES – Engine, Support level",
         "correct_answer": "Cold work permit + Permit for entry.",
+        "explanation": "නැවක ටැංකියක් තුළ සීතල වැඩක් (Cold work) ආරම්භ කිරීමට පෙර, ආරක්ෂිත පියවරක් ලෙස එම ටැංකිය තුළට ඇතුළු වීමට අවසර ලබා දෙන 'Permit for entry' (ටැංකියට ඇතුළු වීමේ බලපත්‍රය) සහ අදාළ කාර්යය සඳහා වන 'Cold work permit' යන බලපත්‍ර දෙකම ලබා ගැනීම අනිවාර්ය වේ. ටැංකියක් යනු සංවෘත අවකාශයක් (Enclosed space) වන බැවින්, එහි වාතයේ තත්ත්වය පරීක්ෂා කර ආරක්ෂිත බව තහවුරු කර ගැනීමෙන් පසුව පමණක් ඇතුළු වීමට අවසර ලබා දෙනු ලැබේ.",
         "images": [],
-        "explanation": ""
+        "index": 5,
+        "question": "What kind of permits have to be obtained before starting cold work in tanks?"
     },
     {
-        "category": "CES – Engine, Support level",
-        "index": 6,
-        "question": "Which of these are indications that a parcel is suspicious?",
         "answers": [
             "The parcel is addressed to no one in particular, arrives unexpectedly and seems heavy for its size.",
             "The parcel smells like chocolate.",
             "The parcel is wrapped in clean, brown paper and is addressed to a crewmember from his wife.",
             "The parcel came from Joe in the safety department and arrived quicker than expected."
         ],
+        "category": "CES – Engine, Support level",
         "correct_answer": "The parcel is addressed to no one in particular, arrives unexpectedly and seems heavy for its size.",
+        "explanation": "නැවක ආරක්ෂාව සම්බන්ධයෙන් සැක සහිත පාර්සලයක් හඳුනා ගැනීමට උපකාරී වන ප්‍රධාන කරුණු කිහිපයක් තිබේ. යම් පාර්සලයක් කිසිවෙකුට විශේෂයෙන් ලිපිනයක් නොමැතිව ලැබීම, අනපේක්ෂිත ලෙස පැමිණීම සහ එහි ප්‍රමාණයට වඩා බරින් වැඩි බවක් දැනීම වැනි කරුණු එම පාර්සලය තුළ අනතුරුදායක ද්‍රව්‍යයක් තිබිය හැකි බවට ප්‍රබල ඉඟි සපයයි. අනෙක් විකල්පයන් සාමාන්‍ය තැපැල් හෝ පුද්ගලික පාර්සල් සඳහා පොදු ලක්ෂණ වන අතර ඒවා සැක සහිත ලෙස නොසැලකේ.",
         "images": [],
-        "explanation": ""
+        "index": 6,
+        "question": "Which of these are indications that a parcel is suspicious?"
     },
     {
         "category": "CES – Engine, Support level",
@@ -97,18 +96,18 @@
         "explanation": "මත්ද්‍රව්‍ය ජාවාරම්කරුවන් හඳුනා ගැනීමේ එක් ප්‍රධාන ලක්ෂණයක් වන්නේ ඔවුන් ශරීරයට වඩා විශාල හෝ කාලගුණයට නොගැලපෙන ඝන ඇඳුම් (Bulky clothing) ඇඳ සිටීමයි. මෙසේ කරන්නේ මත්ද්‍රව්‍ය පාර්සල් හෝ වෙනත් නීතිවිරෝධී ද්‍රව්‍ය සිරුරේ සඟවාගෙන යාමට පහසු වන බැවිනි. සාමාන්‍ය මගියෙකු හෝ සේවකයෙකු මෙවැනි සැකකටයුතු අයුරින් ඇඳුම් අඳින්නේ නැත. අනෙකුත් සාමාන්‍ය හැසිරීම් පමණක් මත්ද්‍රව්‍ය ජාවාරම්කරුවෙකු බව තහවුරු කිරීමට ප්‍රමාණවත් සාක්ෂි නොවේ."
     },
     {
-        "category": "CES – Engine, Support level",
-        "index": 8,
-        "question": "Steam escaping from the area of the bottom water header handhole doors of a high pressure boiler generating superheated steam is observed by the engine rating on watch. What action should be taken?",
         "answers": [
             "Immediately inform the Officer of the Watch.",
             "Use the hand to have a feel around the area to try and locate the exact position of the leak.",
             "Check the area where it is thought the leak may be using a cloth on the end of a broom handle.",
             "Pass the information that there is a leak to the relief at the end of the watch."
         ],
+        "category": "CES – Engine, Support level",
         "correct_answer": "Immediately inform the Officer of the Watch.",
+        "explanation": "අධි පීඩන බොයිලේරු පද්ධතියක වාෂ්ප කාන්දුවක් සිදුවීම ඉතා භයානක තත්ත්වයකි. අධි පීඩන වාෂ්ප මගින් බරපතල පිළිස්සුම් තුවාල ඇති කළ හැකි අතර, එය පද්ධතියේ අඛණ්ඩතාවයට තර්ජනයක් විය හැකිය. එබැවින්, එවැනි කාන්දුවක් දුටු වහාම වගකිවයුතු නිලධාරියාට (Officer of the Watch) දැනුම් දීම අනිවාර්ය වේ. අතින් හෝ වෙනත් උපකරණවලින් කාන්දුව පරීක්ෂා කිරීමට උත්සාහ කිරීමෙන් පුද්ගලයාට අනතුරක් සිදුවිය හැකි අතර, එය ආරක්ෂිත ක්‍රියා පටිපාටියට පටහැනි වේ.",
         "images": [],
-        "explanation": ""
+        "index": 8,
+        "question": "Steam escaping from the area of the bottom water header handhole doors of a high pressure boiler generating superheated steam is observed by the engine rating on watch. What action should be taken?"
     },
     {
         "category": "CES – Engine, Support level",
@@ -125,46 +124,46 @@
         "explanation": "බොයිලේරු බර්නර් නොසල් (burner nozzles) පිරිසිදු කිරීමේදී, එහි සිදුරු වලට හානි නොවන පරිදි කටයුතු කිරීම අත්‍යවශ්‍ය වේ. මේ සඳහා වඩාත්ම සුදුසු ක්‍රමය වන්නේ කුඩා ප්‍රමාණයේ සිට නොසල් සිදුරේ නියමිත ප්‍රමාණය දක්වා ක්‍රමයෙන් විශාල වන පිරිසිදු කිරීමේ කම්බි (cleaning wires) භාවිතා කිරීමයි. පිහි හෝ දෘඩ ලෝහ කූරු භාවිතයෙන් සිදුරේ හැඩය වෙනස් විය හැකි අතර, එමගින් ඉන්ධන දහනය අක්‍රමවත් වී බොයිලේරුවේ කාර්යක්ෂමතාව අඩු වේ."
     },
     {
-        "category": "CES – Engine, Support level",
-        "index": 10,
-        "question": "While assisting the watchkeeper with routine cleaning of the fuel oil separator the watch rating is requested to clean the plate stack. Which one is the preferred method for this task?",
         "answers": [
             "Soak the plates in a suitable solvent until all of the dirt has loosened off and wipe clean with rags.",
             "With the plate stack in position fill the purifier bowl with clean diesel oil and quickly switch it on and off to wash the plates.",
             "Soak the dirty plates in a solvent for an hour and then stand them on the engine room deck to drain off.",
             "Scrape the plates as clean as possible with a packing knife and then wash them with a high pressure water hose."
         ],
+        "category": "CES – Engine, Support level",
         "correct_answer": "Soak the plates in a suitable solvent until all of the dirt has loosened off and wipe clean with rags.",
+        "explanation": "ඉන්ධන තෙල් බෙදුම්කාරකයක (Fuel oil separator) ඇති තහඩු තොගය (plate stack) පිරිසිදු කිරීමේදී, තහඩු වලට හානි නොවන පරිදි සුදුසු ද්‍රාවකයක (solvent) පොඟවා අපිරිසිදු ද්‍රව්‍ය ඉවත් කිරීම වඩාත් සුදුසු සහ ආරක්ෂිත ක්‍රමය වේ. පිහියක් වැනි තියුණු ආයුධ භාවිතා කිරීමෙන් තහඩු වල මතුපිට සීරීමට ලක්විය හැකි අතර, එමගින් බෙදුම්කාරකයේ කාර්යක්ෂමතාව අඩුවිය හැක. අධි පීඩන ජල හෝස් භාවිතා කිරීමෙන් තහඩු වල හැඩය වෙනස් විය හැකි බැවින් එය නුසුදුසුය.",
         "images": [],
-        "explanation": ""
+        "index": 10,
+        "question": "While assisting the watchkeeper with routine cleaning of the fuel oil separator the watch rating is requested to clean the plate stack. Which one is the preferred method for this task?"
     },
     {
-        "category": "CES – Engine, Support level",
-        "index": 11,
-        "question": "As part of the routine duties a rating on boiler watch is requested to assist with the daily chemical treatment for the boiler and feed water systems. Where will the rating find the information relating to the hazards associated with the chemicals involved in this task?",
         "answers": [
             "The material safety data sheets supplied with the chemicals.",
             "The Chief Engineer’s standing orders.",
             "The Code of Safe Working Practices for Merchant Seaman.",
             "The engine room log book."
         ],
+        "category": "CES – Engine, Support level",
         "correct_answer": "The material safety data sheets supplied with the chemicals.",
+        "explanation": "ඕනෑම රසායනික ද්‍රව්‍යයක් භාවිතා කිරීමේදී එහි ඇති විය හැකි අනතුරුදායක තත්ත්වයන්, ඒවා හැසිරවිය යුතු ආකාරය සහ හදිසි අනතුරකදී ගත යුතු පියවර පිළිබඳ සවිස්තරාත්මක තොරතුරු අඩංගු වන්නේ එම රසායනික ද්‍රව්‍ය සමඟ සපයනු ලබන 'Material Safety Data Sheet' (MSDS) හෙවත් ද්‍රව්‍ය ආරක්ෂණ දත්ත පත්‍රිකාව තුළය. එබැවින්, බොයිලේරු ජල පිරිපහදු රසායනික ද්‍රව්‍ය භාවිතා කිරීමේදී ආරක්ෂාව තහවුරු කර ගැනීමට මෙම පත්‍රිකාව කියවා අවබෝධ කර ගැනීම අනිවාර්ය වේ.",
         "images": [],
-        "explanation": ""
+        "index": 11,
+        "question": "As part of the routine duties a rating on boiler watch is requested to assist with the daily chemical treatment for the boiler and feed water systems. Where will the rating find the information relating to the hazards associated with the chemicals involved in this task?"
     },
     {
-        "category": "CES – Engine, Support level",
-        "index": 12,
-        "question": "When checking the diesel engine jacket water header tanks as part of the routine watch checks the engine room watch rating finds the level is well below normal. After topping up the tank and checking around the engine a leak is found. What action should be taken?",
         "answers": [
             "Try and quickly stop the leak and then inform the engineer on watch of what has happened.",
             "Put a bucket under the leak and refill the header tank with the water that collects in the bucket to save water.",
             "Leave the filling valve open a little bit to make up for the leakage.",
             "Check the tank and top it up more frequently."
         ],
+        "category": "CES – Engine, Support level",
         "correct_answer": "Try and quickly stop the leak and then inform the engineer on watch of what has happened.",
+        "explanation": "නැවක එන්ජින් කාමරයේදී ජැකට් වෝටර් පද්ධතියක කාන්දුවක් හඳුනාගත් විට, පළමු පියවර විය යුත්තේ එම කාන්දුව හැකි ඉක්මනින් පාලනය කිරීම හෝ නැවැත්වීමයි. ඉන්පසු වහාම රාජකාරියේ නියුතු ඉංජිනේරුවරයාට (Engineer on watch) ඒ පිළිබඳව දැනුම් දිය යුතුය. මෙය ආරක්ෂිත මෙහෙයුම් පටිපාටියක් වන අතර, පද්ධතියේ පීඩනය සහ සිසිලන ජල මට්ටම පවත්වා ගැනීමට සහ වැඩිදුර හානි වළක්වා ගැනීමට අත්‍යවශ්‍ය වේ. අනෙක් විකල්පයන් මගින් ගැටලුවට ස්ථිර විසඳුමක් නොලැබෙන අතර, එය එන්ජිමේ ආරක්ෂාවට තර්ජනයක් විය හැකිය.",
         "images": [],
-        "explanation": ""
+        "index": 12,
+        "question": "When checking the diesel engine jacket water header tanks as part of the routine watch checks the engine room watch rating finds the level is well below normal. After topping up the tank and checking around the engine a leak is found. What action should be taken?"
     },
     {
         "category": "CES – Engine, Support level",
@@ -195,17 +194,17 @@
         "explanation": "අඩු පීඩන වාෂ්ප වෑල්ව (Low pressure steam valves) සඳහා ග්‍රැෆයිට් ෆයිබර් පැකින් (Graphite fibre packing) වඩාත් සුදුසු වේ. ග්‍රැෆයිට් වලට ඉහළ උෂ්ණත්වයන්ට ඔරොත්තු දීමේ හැකියාව ඇති අතර එය ස්වයං-ලිහිස්සි ද්‍රව්‍යයක් (Self-lubricating) ලෙස ක්‍රියා කරයි. කපු (Cotton) හෝ හෙම්ප් (Hemp) වැනි ද්‍රව්‍ය වාෂ්ප වල උෂ්ණත්වය නිසා ඉක්මනින් පිලිස්සී ගොස් කාන්දු වීම් ඇති විය හැක. PTFE පැකින් ද භාවිතා කළ හැකි වුවත්, වාෂ්ප පද්ධති සඳහා වඩාත් විශ්වාසදායක වන්නේ ග්‍රැෆයිට් ය."
     },
     {
-        "category": "CES – Engine, Support level",
-        "index": 15,
-        "question": "During maintenance work at sea an engine room rating is moving a heavy component to the workshop using a chain block attached to an overhead trolley on a rail. Part way through the operation the rating is asked by the engineer to go immediately to the store for some equipment. What should the rating do?",
         "answers": [
             "Continue with the moving operation until the component is properly secured in the workshop before going to the store for the equipment.",
             "Immediately land the component on the deck and secure it to a hand rail stanchion and go and get the equipment from the store.",
             "Leave the component suspended from the chain block and go and collect the equipment from the store."
         ],
+        "category": "CES – Engine, Support level",
         "correct_answer": "Continue with the moving operation until the component is properly secured in the workshop before going to the store for the equipment.",
+        "explanation": "නැවක එන්ජින් කාමරයක බර උපාංගයක් චේන් බ්ලොක් එකක් මගින් ගෙනයාමේදී ආරක්ෂාව ඉතා වැදගත් වේ. බරක් එල්ලා ඇති විට එය අතරමග අතහැර යාම හෝ එල්ලා තැබීම අනතුරුදායකය. නැවක චලනයන් (rolling/pitching) නිසා එල්ලා ඇති බරක් පැද්දීමෙන් බරපතල අනතුරු සිදුවිය හැකිය. එබැවින්, කාර්යය ආරම්භ කළ පසු එය ආරක්ෂිතව වැඩමුළුවට (workshop) ගෙන ගොස් ස්ථාවර කරන තුරු එය අතහැර නොයා යුතුය. මෙය නාවික ආරක්ෂක රෙගුලාසිවලට අනුකූල වන අතර අනතුරු වළක්වා ගැනීමට අත්‍යවශ්‍ය වේ.",
         "images": [],
-        "explanation": ""
+        "index": 15,
+        "question": "During maintenance work at sea an engine room rating is moving a heavy component to the workshop using a chain block attached to an overhead trolley on a rail. Part way through the operation the rating is asked by the engineer to go immediately to the store for some equipment. What should the rating do?"
     },
     {
         "category": "CES – Engine, Support level",
@@ -219,7 +218,7 @@
         ],
         "correct_answer": "Make a new gasket from old chart paper or other similar material of the same thickness as the original gasket.",
         "images": [],
-        "explanation": ""
+        "explanation": "පොම්පයක කවරයක් සඳහා භාවිතා කරන ගෑස්කට් එකක් හානි වූ විට සහ අමතර ගෑස්කට් නොමැති විට, නිවැරදිම ක්‍රමය වන්නේ මුල් ගෑස්කට් එකේ ඝනකමට සමාන සුදුසු ද්‍රව්‍යයක් (උදාහරණයක් ලෙස චාට් පත්‍රයක්) භාවිතා කර නව ගෑස්කට් එකක් සාදා ගැනීමයි. ගෑස්කට් එකක ඝනකම ඉතා වැදගත් වන්නේ එය පොම්පයේ අභ්‍යන්තර කොටස්වල නිෂ්කාශනය (clearance) පවත්වා ගැනීමට සහ කාන්දුවීම් වැළැක්වීමට උපකාරී වන බැවිනි. සිලිකන් හෝ ජොයින්ටින් කම්පවුන්ඩ් පමණක් භාවිතා කිරීමෙන් නිසි මුද්‍රාවක් (seal) නොලැබිය හැකි අතර, එය පොම්පයේ ක්‍රියාකාරිත්වයට හානි කළ හැකිය."
     },
     {
         "category": "CES – Engine, Support level",
@@ -250,46 +249,46 @@
         "explanation": "High speed diesel එන්ජින් වල bottom end bolts යනු ඉතා ඉහළ පීඩනයකට ලක්වන කොටසකි. එහි දිග නියමිත ප්‍රමාණයට වඩා වැඩි වී ඇත්නම් (elongation limit), එයින් අදහස් වන්නේ එම බෝල්ට් එකේ ශක්තිය දුර්වල වී ඇති බවයි. මෙවැනි අවස්ථාවක එක් බෝල්ට් එකක් පමණක් මාරු කිරීම ප්‍රමාණවත් නොවේ, මන්ද අනෙක් බෝල්ට් එකද සමාන ආතතියකට ලක්ව ඇති බැවිනි. එබැවින් බෝල්ට් යුගලයම (pair) අලුත් ඒවා මගින් මාරු කිරීම ආරක්ෂිතම ක්‍රමයයි. එසේ නොකිරීමෙන් ඉදිරියේදී බෝල්ට් එක කැඩී එන්ජිමට දැඩි හානි සිදුවිය හැක."
     },
     {
-        "category": "CES – Engine, Support level",
-        "index": 19,
-        "question": "The holding down arrangement for a large 2-stroke diesel engine consists of steel chocks and hydraulically tightened holding down bolts. When carrying out routine maintenance of the arrangement which method, from those given in the options, should be adopted to check that it is in good order.",
         "answers": [
             "Check the hydraulic release pressure for the holding down bolts.",
             "Tap the steel chocks with a hammer to see if they move.",
             "Tap the holding down bolts with a hammer to see if they “ring”.",
             "Measure the length of the holding down bolts to make sure they have the correct extension for the recommended tension."
         ],
+        "category": "CES – Engine, Support level",
         "correct_answer": "Check the hydraulic release pressure for the holding down bolts.",
+        "explanation": "විශාල 2-stroke ඩීසල් එන්ජිමක holding down bolts හයිඩ්‍රොලික් ක්‍රමයට තද කර ඇති විට, ඒවායේ නිසි ආතතිය (tension) පවතින්නේ දැයි පරීක්ෂා කිරීමට ඇති වඩාත්ම නිවැරදි සහ තාක්ෂණික ක්‍රමය වන්නේ එම බෝල්ට් ලිහිල් කිරීම සඳහා අවශ්‍ය වන හයිඩ්‍රොලික් පීඩනය (hydraulic release pressure) මැන බැලීමයි. මෙම පීඩනය නිෂ්පාදකයා විසින් නිර්දේශිත අගයට සමාන නම්, බෝල්ට් එකේ ආතතිය නිවැරදි බව තහවුරු කර ගත හැකිය. අනෙක් ක්‍රම (hammer tapping) මගින් බෝල්ට් එකක හෝ චොක් එකක නිවැරදි ආතතිය හෝ තද බව නිවැරදිව මැනිය නොහැක.",
         "images": [],
-        "explanation": ""
+        "index": 19,
+        "question": "The holding down arrangement for a large 2-stroke diesel engine consists of steel chocks and hydraulically tightened holding down bolts. When carrying out routine maintenance of the arrangement which method, from those given in the options, should be adopted to check that it is in good order."
     },
     {
-        "category": "CES – Engine, Support level",
-        "index": 20,
-        "question": "Following repair and refitting of the seawater pipe for the fresh water generator feed line the rating assisting with the work notices that one of the flange joints is leaking. What action should be taken by the rating?",
         "answers": [
             "Check the bolts are correctly tightened before informing the engineer so that the flange faces can be cleaned and re-jointed if necessary.",
             "Shut off the water and apply silicon or other sealing compound to the outer edge of the flange joint.",
             "Use a spanner with an extension pipe to try and stop the leak by tightening the flange bolts as much as possible.",
             "Use a hammer and flogging spanner to try and stop the leak by tightening the flange bolts as much as possible."
         ],
+        "category": "CES – Engine, Support level",
         "correct_answer": "Check the bolts are correctly tightened before informing the engineer so that the flange faces can be cleaned and re-jointed if necessary.",
+        "explanation": "නැවක නල පද්ධතියක ෆ්ලැන්ජ් (flange) සම්බන්ධතාවයකින් කාන්දුවක් සිදුවන විට, පළමුව බෝල්ට් නිසි පරිදි තද වී ඇත්දැයි පරීක්ෂා කළ යුතුය. එයින් කාන්දුව නතර නොවන්නේ නම්, වහාම ඒ පිළිබඳව ඉංජිනේරුවරයා දැනුවත් කළ යුතුය. ඉන්පසු ෆ්ලැන්ජ් මුහුණත් පිරිසිදු කර නව ගෑස්කට් එකක් (joint) යෙදීම වැනි නිසි අලුත්වැඩියා ක්‍රියාවලියක් සිදු කළ යුතුය. අනවසරයෙන් බාහිර සීලන්ට් (sealant) යෙදීම හෝ අධික බලයක් යොදා බෝල්ට් තද කිරීමට උත්සාහ කිරීම මගින් ෆ්ලැන්ජ් එකට හානි සිදුවිය හැකි අතර එය ආරක්ෂිත නොවේ.",
         "images": [],
-        "explanation": ""
+        "index": 20,
+        "question": "Following repair and refitting of the seawater pipe for the fresh water generator feed line the rating assisting with the work notices that one of the flange joints is leaking. What action should be taken by the rating?"
     },
     {
-        "category": "CES – Engine, Support level",
-        "index": 21,
-        "question": "During maintenance work on a fuel tank the engine room ratings are removing scale in preparation for re-coating. One of the ratings suddenly notices the smell of fumes even though the atmosphere had been satisfactorily tested before the work started. What action should the ratings take?",
         "answers": [
             "Leave the tank immediately and have the atmosphere retested.",
             "Stop work until the smell disappears and then carry on removing the scale.",
             "Ask for another fan to be switched on to increase the ventilation in the tank.",
             "Put on breathing apparatus and carry on with the task."
         ],
+        "category": "CES – Engine, Support level",
         "correct_answer": "Leave the tank immediately and have the atmosphere retested.",
+        "explanation": "ඉන්ධන ටැංකියක් තුළ වැඩ කරන අතරතුර අසාමාන්‍ය දුර්ගන්ධයක් දැනේ නම්, එයින් අදහස් වන්නේ වායුගෝලයේ අන්තරායකර වායූන් හෝ වාෂ්ප සාන්ද්‍රණය වී ඇති බවයි. පෙර පරීක්ෂණවලදී වායුගෝලය ආරක්ෂිත බව තහවුරු වුවද, වැඩ කිරීමේදී (scale ඉවත් කිරීමේදී) ටැංකියේ පතුලේ හෝ බිත්තිවල සිරවී තිබූ වායූන් පිටතට පැමිණිය හැකිය. එබැවින්, ආරක්ෂාව සඳහා වහාම ටැංකියෙන් පිටවී, නැවතත් වායුගෝලීය පරීක්ෂණයක් (Atmosphere testing) සිදු කිරීම අනිවාර්ය වේ. මෙය කාර්ය මණ්ඩලයේ ජීවිත ආරක්ෂාව සඳහා අනුගමනය කළ යුතු මූලික ආරක්ෂක පියවරකි.",
         "images": [],
-        "explanation": ""
+        "index": 21,
+        "question": "During maintenance work on a fuel tank the engine room ratings are removing scale in preparation for re-coating. One of the ratings suddenly notices the smell of fumes even though the atmosphere had been satisfactorily tested before the work started. What action should the ratings take?"
     },
     {
         "category": "CES – Engine, Support level",
@@ -306,58 +305,58 @@
         "explanation": "UMS (Unattended Machinery Space) මෙහෙයුමකදී යම් වැරදීමකින් තෙල් ටැංකියක් පුරවන වෑල්වයක් (Valve) විවෘතව තබා ගියහොත්, ඒ පිළිබඳව වහාම රාජකාරියේ නියුතු ඉංජිනේරුවරයා දැනුවත් කළ යුතුය. ඉන්පසු නියමිත ආරක්ෂිත ක්‍රමවේද අනුගමනය කර නැවත එන්ජින් රූම් එකට ඇතුළු වී වෑල්වය වසා දැමිය යුතුය. එසේ නොකළහොත් තෙල් පිටාර ගලා (Overflow) ගිනි ගැනීමක් වැනි විශාල විනාශයක් සිදුවීමට ඉඩ ඇත."
     },
     {
-        "category": "CES – Engine, Support level",
-        "index": 23,
-        "question": "A spare cylinder head for the generator needs to be lifted from its storage cradle to the generator flat. Because of its location the engine room crane cannot be positioned directly above it. What method should be used to bring the cylinder head into position?",
         "answers": [
             "Rig chain blocks to lift the cylinder head from its cradle and then transfer it gradually over to the crane hook by working the chain blocks.",
             "Use a block and tackle to drag the head across to a position beneath the crane.",
             "Use crow bars to lever the cylinder cover across the deck until it is in position below the crane."
         ],
+        "category": "CES – Engine, Support level",
         "correct_answer": "Rig chain blocks to lift the cylinder head from its cradle and then transfer it gradually over to the crane hook by working the chain blocks.",
+        "explanation": "නැවක එන්ජින් කාමරයක බර උසුලන උපකරණයක් (Cylinder head වැනි) එසවීමේදී ආරක්ෂාව ඉතා වැදගත් වේ. දොඹකරය (Crane) කෙලින්ම ඉහළින් පිහිටා නොමැති විට, බර ඇදගෙන යාම (Dragging) හෝ ලීවර භාවිතයෙන් තල්ලු කිරීම අනතුරුදායක වන අතර එමගින් උපකරණයට හෝ තට්ටුවට හානි සිදුවිය හැක. දාම බ්ලොක් (Chain blocks) කිහිපයක් භාවිතයෙන් බර ක්‍රමයෙන් එසවීමට සහ පාලනය කරමින් දොඹකරයේ කොක්ක වෙත මාරු කිරීමට හැකිවීම වඩාත් ආරක්ෂිත සහ නිවැරදි ක්‍රමයයි.",
         "images": [],
-        "explanation": ""
+        "index": 23,
+        "question": "A spare cylinder head for the generator needs to be lifted from its storage cradle to the generator flat. Because of its location the engine room crane cannot be positioned directly above it. What method should be used to bring the cylinder head into position?"
     },
     {
-        "category": "CES – Engine, Support level",
-        "index": 24,
-        "question": "During overhaul of some plate type compressor valves the engine room rating is asked to clean the valve plates and seat. Some of the valve plates are heavily marked. What action should be taken?",
         "answers": [
             "Discard the defective valve plates and replace them with new spares.",
             "Skim the valve plates in the lathe to remove all of the marks.",
             "Dress the valve plates up using a portable grinder."
         ],
+        "category": "CES – Engine, Support level",
         "correct_answer": "Discard the defective valve plates and replace them with new spares.",
+        "explanation": "සම්පීඩක කපාට (Compressor valves) යනු ඉතා ඉහළ නිරවද්‍යතාවයකින් යුතුව ක්‍රියාත්මක වන කොටස් වේ. කපාට තහඩු (Valve plates) මත ගැඹුරු සලකුණු හෝ හානි සිදුවී ඇත්නම්, ඒවා නැවත ඔප දැමීමෙන් හෝ ඇඹරීමෙන් (grinding/skimming) ඒවායේ මුල් ඝනකම සහ හැඩය වෙනස් විය හැකි අතර, එමගින් කපාටයේ ක්‍රියාකාරීත්වයට සහ මුද්‍රා තැබීමට (sealing) බාධා ඇති වේ. එබැවින්, ආරක්ෂාව සහ කාර්යක්ෂමතාව සහතික කිරීම සඳහා හානි වූ කපාට තහඩු ඉවත් කර නව අමතර කොටස් (new spares) භාවිතා කිරීම නියමිත නඩත්තු ක්‍රියාපටිපාටිය වේ.",
         "images": [],
-        "explanation": ""
+        "index": 24,
+        "question": "During overhaul of some plate type compressor valves the engine room rating is asked to clean the valve plates and seat. Some of the valve plates are heavily marked. What action should be taken?"
     },
     {
-        "category": "CES – Engine, Support level",
-        "index": 25,
-        "question": "Most of the engine makers recommend to change the cylinder head gaskets each time a piston overhaul is carried out. Why?",
         "answers": [
             "To obtain a proper sealing and correct distance between piston and cover in TDC position.",
             "To avoid heat transfer to the cylinder head.",
             "To be granted a proper sealing with a new gasket.",
             "To increase the consumption of parts so they can make more money."
         ],
+        "category": "CES – Engine, Support level",
         "correct_answer": "To obtain a proper sealing and correct distance between piston and cover in TDC position.",
+        "explanation": "සිලින්ඩර හිස ගෑස්කට් (Cylinder head gasket) මගින් සිලින්ඩර හිස සහ සිලින්ඩර ලයිනරය අතර වායු කාන්දුවක් නොවන පරිදි මුද්‍රා තැබීම සිදු කරයි. පිස්ටනයක් අලුත්වැඩියා කිරීමේදී (Overhaul) එහි උසෙහි සිදුවිය හැකි සුළු වෙනස්කම් සහ ගෑස්කට් එකෙහි සම්පීඩනය (Compression) සැලකිල්ලට ගෙන, පිස්ටනය ඉහළම ස්ථානයේ (TDC - Top Dead Center) පවතින විට පිස්ටනය සහ සිලින්ඩර හිස අතර තිබිය යුතු නිවැරදි පරතරය (Compression clearance) පවත්වා ගැනීමට නව ගෑස්කට් එකක් භාවිතා කිරීම අත්‍යවශ්‍ය වේ. පැරණි ගෑස්කට් එකක් නැවත භාවිතා කිරීමෙන් මෙම පරතරය වෙනස් වී එන්ජිමේ ක්‍රියාකාරිත්වයට හානි සිදුවිය හැක.",
         "images": [],
-        "explanation": ""
+        "index": 25,
+        "question": "Most of the engine makers recommend to change the cylinder head gaskets each time a piston overhaul is carried out. Why?"
     },
     {
-        "category": "CES – Engine, Support level",
-        "index": 26,
-        "question": "A new gasket has been fitted to the manhole cover of a ballast tank. Which of the options given would be a suitable test that the new gasket is correctly fitted?",
         "answers": [
             "Carry out a hose test on the manhole cover.",
             "Carry out an air pressure test on the ballast tank.",
             "Fill the tank with water up to capacity.",
             "Fill the tank with water until it overflows through the air vent."
         ],
+        "category": "CES – Engine, Support level",
         "correct_answer": "Carry out a hose test on the manhole cover.",
+        "explanation": "බැලස්ට් ටැංකියක මෑන්හෝල් කවරයකට නව ගෑස්කට් එකක් සවි කිරීමෙන් පසු එහි කාන්දුවක් නොමැති බව තහවුරු කර ගැනීමට වඩාත් සුදුසු සහ ආරක්ෂිතම ක්‍රමය වන්නේ 'හෝස් ටෙස්ට්' (Hose test) කිරීමයි. මෙහිදී අධි පීඩනයකින් ජලය මෑන්හෝල් කවරයේ සන්ධි දෙසට යොමු කිරීමෙන් ගෑස්කට් එක නිසි ලෙස සවි වී ඇත්දැයි පරීක්ෂා කළ හැකිය. ටැංකිය සම්පූර්ණයෙන්ම ජලයෙන් පිරවීම හෝ වායු පීඩන පරීක්ෂණ සිදු කිරීම සමහර අවස්ථාවලදී ටැංකියේ ව්‍යුහයට අනවශ්‍ය පීඩනයක් ඇති කළ හැකි අතර, හෝස් ටෙස්ට් එක මගින් සෘජුවම එම සන්ධිය පමණක් පරීක්ෂා කර බැලීමට හැකි වේ.",
         "images": [],
-        "explanation": ""
+        "index": 26,
+        "question": "A new gasket has been fitted to the manhole cover of a ballast tank. Which of the options given would be a suitable test that the new gasket is correctly fitted?"
     },
     {
         "category": "CES – Engine, Support level",
@@ -371,7 +370,7 @@
         ],
         "correct_answer": "Fit new gaskets to the each of the plates.",
         "images": [],
-        "explanation": ""
+        "explanation": "තහඩු ආකාරයේ තාප හුවමාරුක (Plate heat exchangers) වල කාන්දුවීම් වැළැක්වීම සඳහා තහඩු අතර රබර් ගෑස්කට් (Gaskets) භාවිතා වේ. නිෂ්පාදකයාගේ උපදෙස් පරිදි නැවත එකලස් කිරීමෙන් පසුවත් කාන්දුව පවතී නම්, එයින් අදහස් වන්නේ ගෑස්කට් දිරාපත් වී හෝ ඒවායේ නම්‍යශීලී බව නැති වී ඇති බවයි. මෙවැනි අවස්ථාවකදී තහඩු තවදුරටත් තද කිරීමෙන් තහඩු වලට හානි විය හැකි බැවින්, නිවැරදි විසඳුම වන්නේ පැරණි ගෑස්කට් ඉවත් කර අලුත් ගෑස්කට් කට්ටලයක් සවි කිරීමයි."
     },
     {
         "category": "CES – Engine, Support level",
@@ -388,18 +387,18 @@
         "explanation": "පොම්පයක ආවරණයේ ඇති පිත්තල ඇණ (Brass nuts) තද කිරීම සඳහා මුදු හැඩැති යතුරක් (Ring spanner) භාවිතා කිරීමට ප්‍රධාන හේතුව වන්නේ, එමගින් ඇණය මතුපිටින් යතුර ලිස්සා යාම හෝ ඇණයට හානි වීම (Rounding off) අවම කිරීමයි. පිත්තල යනු සාපේක්ෂව මෘදු ලෝහයක් බැවින්, සාමාන්‍ය විවෘත යතුරු (Open-ended spanners) මගින් ඇණයේ දාරවලට හානි වීමේ වැඩි ඉඩක් ඇත. මුදු යතුරක් මගින් ඇණයේ සියලුම පෘෂ්ඨයන්ට සමාන බලයක් ලබා දෙයි."
     },
     {
-        "category": "CES – Engine, Support level",
-        "index": 29,
-        "question": "Why should engine and boiler rooms be kept clean and any oil spillage cleaned up immediately?",
         "answers": [
             "To reduce risk of fire and the risk of slipping.",
             "To avoid being fined by the port state control.",
             "To reduce the premium to be paid to the insurance company.",
             "To prevent oil spillage from damaging deck paint coatings."
         ],
+        "category": "CES – Engine, Support level",
         "correct_answer": "To reduce risk of fire and the risk of slipping.",
+        "explanation": "එන්ජින් සහ බොයිලර් කාමර පිරිසිදුව තබා ගැනීම සහ තෙල් කාන්දුවීම් වහාම පිරිසිදු කිරීම අත්‍යවශ්‍ය වන්නේ ප්‍රධාන වශයෙන් ගිනි අනතුරු අවම කර ගැනීමට සහ ලිස්සා යාමෙන් සිදුවිය හැකි අනතුරු වළක්වා ගැනීමටය. තෙල් යනු ඉතා පහසුවෙන් ගිනි ඇවිලෙන ද්‍රව්‍යයක් වන අතර, බිම තෙල් තැවරී තිබීමෙන් කාර්ය මණ්ඩලයට ලිස්සා වැටී බරපතල තුවාල සිදුවීමේ අවදානම ඉහළ යයි. එමනිසා, ආරක්ෂිත සේවා පරිසරයක් පවත්වා ගැනීමට මෙය අත්‍යවශ්‍ය වේ.",
         "images": [],
-        "explanation": ""
+        "index": 29,
+        "question": "Why should engine and boiler rooms be kept clean and any oil spillage cleaned up immediately?"
     },
     {
         "category": "CES – Engine, Support level",
@@ -413,7 +412,7 @@
         ],
         "correct_answer": "The drill should be a smaller size than the diameter of the tap.",
         "images": [],
-        "explanation": ""
+        "explanation": "වානේ තහඩුවක අභ්‍යන්තර නූල් කැපීම සඳහා ටැප් එකක් (tap) භාවිතා කිරීමට පෙර විදිනු ලබන සිදුරේ විෂ්කම්භය, ටැප් එකේ විෂ්කම්භයට වඩා කුඩා විය යුතුය. මෙයට හේතුව වන්නේ ටැප් එක මගින් ලෝහය කපා නූල් (threads) නිර්මාණය කිරීමට අවශ්‍ය ද්‍රව්‍යය සිදුර තුළ ඉතිරි කර ගත යුතු බැවිනි. සාමාන්‍යයෙන් මෙම සිදුරේ ප්‍රමාණය 'Tap Drill Size' ලෙස හඳුන්වන අතර, එය ටැප් එකේ නාමික විෂ්කම්භයෙන් නූල් අතර පරතරය (pitch) අඩු කිරීමෙන් ලබා ගන්නා අගයට ආසන්න වේ."
     },
     {
         "category": "CES – Engine, Support level",
@@ -427,7 +426,7 @@
         ],
         "correct_answer": "Completely filling the bearing with grease.",
         "images": [],
-        "explanation": ""
+        "explanation": "බෝල බෙයාරිං (ball bearing) එකක් ග්‍රීස් වලින් සම්පූර්ණයෙන්ම පිරවීම නිසා එය අධික ලෙස රත් විය හැක. මෙයට හේතුව වන්නේ බෙයාරිං එක කැරකෙන විට අතිරික්ත ග්‍රීස් නිසා ඇතිවන ප්‍රතිරෝධය (churning) මගින් තාපය ජනනය වීමයි. සාමාන්‍යයෙන් බෙයාරිං එකක ඉඩ ප්‍රමාණයෙන් 1/3 ක් හෝ 1/2 ක් පමණක් ග්‍රීස් වලින් පිරවීම ප්‍රමාණවත් වේ. සම්පූර්ණයෙන්ම පිරවූ විට තාපය පිටවීමට ඉඩක් නොමැති වීමෙන් බෙයාරිං එක ඉක්මනින් අක්‍රිය විය හැක."
     },
     {
         "category": "CES – Engine, Support level",
@@ -441,7 +440,7 @@
         ],
         "correct_answer": "Move the pilot ladder means to shift the pilot ladder to a new position.",
         "images": [],
-        "explanation": ""
+        "explanation": "නාවික පරිචයන්ට අනුව 'Move the pilot ladder' යනුවෙන් අදහස් කරන්නේ නියමු ඉණිමඟ (pilot ladder) දැනට පවතින ස්ථානයෙන් වෙනත් සුදුසු ස්ථානයකට මාරු කිරීමයි. මෙය සාමාන්‍යයෙන් සිදු කරනු ලබන්නේ නෞකාවට ගොඩවන නියමුවාට (pilot) වඩාත් ආරක්ෂිතව හෝ පහසුවෙන් නැවට ගොඩවීමට අවශ්‍ය වන විටදීය. මෙහිදී ඉණිමඟ සම්පූර්ණයෙන්ම ඉවත් කිරීමක් හෝ වෙනත් පැත්තකට මාරු කිරීමක් පමණක් නොව, අවශ්‍යතාවය අනුව එහි පිහිටීම වෙනස් කිරීම අදහස් වේ."
     },
     {
         "category": "CES – Engine, Support level",
@@ -455,7 +454,7 @@
         ],
         "correct_answer": "Open the port windlass brake.",
         "images": [],
-        "explanation": ""
+        "explanation": "නැව් මෙහෙයුම් වලදී 'Let go the port anchor' යනුවෙන් අදහස් කරන්නේ වරාය පැත්තේ (port side) නැංගුරම මුදා හැරීමයි. මෙය සිදු කිරීම සඳහා වින්ඩ්ලස් (windlass) යන්ත්‍රයේ තිරිංගය (brake) ලිහිල් කළ යුතුය. එවිට නැංගුරම එහි බරින් මුහුදු පතුලට නිදහසේ වැටේ. එබැවින් නිවැරදි පිළිතුර වන්නේ වරාය පැත්තේ වින්ඩ්ලස් තිරිංගය විවෘත කිරීමයි."
     },
     {
         "category": "CES – Engine, Support level",
@@ -469,7 +468,7 @@
         ],
         "correct_answer": "The respiratory centre in the brain.",
         "images": [],
-        "explanation": ""
+        "explanation": "මිනිස් සිරුරේ ස්වසන ක්‍රියාවලිය පාලනය කරනු ලබන්නේ මොළයේ පිහිටි ස්වසන මධ්‍යස්ථානය (Respiratory centre) මගිනි. රුධිරයේ ඇති කාබන් ඩයොක්සයිඩ් මට්ටම සහ pH අගය මත පදනම්ව, මෙම මධ්‍යස්ථානය මගින් ස්වසන වේගය සහ ගැඹුර ස්වයංක්‍රීයව පාලනය කරයි. පෙනහළු සහ බ්‍රොන්කියා ස්වසන පද්ධතියේ කොටස් වුවද, ඒවා ක්‍රියාත්මක වීමට අවශ්‍ය සංඥා ලබා දෙන්නේ මොළය මගිනි."
     },
     {
         "category": "CES – Engine, Support level",
@@ -483,7 +482,7 @@
         ],
         "correct_answer": "Start heart compression and artificial respiration.",
         "images": [],
-        "explanation": ""
+        "explanation": "පුද්ගලයෙකුගේ ස්පන්දනය (pulse) නොමැති විට, එයින් අදහස් වන්නේ හෘද ස්පන්දනය නතර වී ඇති බවයි. එවැනි අවස්ථාවක මොළයට සහ අනෙකුත් වැදගත් අවයවවලට ඔක්සිජන් සහිත රුධිරය සැපයීම සඳහා වහාම හෘද සම්පීඩනය (chest compressions) සහ කෘතිම ශ්වසනය (artificial respiration) හෙවත් CPR ආරම්භ කිරීම අත්‍යවශ්‍ය වේ. මෙය ජීවිතයක් බේරා ගැනීම සඳහා සිදුකරන මූලික ප්‍රථමාධාර ක්‍රියාවලියයි."
     },
     {
         "category": "CES – Engine, Support level",
@@ -511,7 +510,7 @@
         ],
         "correct_answer": "Inspect and detain ship that are not meeting the requirements until they are able to demonstrate compliance with the regulations.",
         "images": [],
-        "explanation": ""
+        "explanation": "Port State Control (PSC) නිලධාරීන්ට ජාත්‍යන්තර සමුද්‍රීය ප්‍රමිතීන්ට (IMO සම්මුතීන්) අනුකූල නොවන නැව් පරීක්ෂා කිරීමට සහ එම අඩුපාඩු නිවැරදි කර නැවත අනුකූලතාව තහවුරු කරන තෙක් එම නැව් රඳවා තබා ගැනීමට (Detain) නීතිමය බලය ඇත. ඔවුන්ට තෙල් වාර්තා පොතේ (Oil Record Book) අත්සන් තැබීමට හෝ අනුකූල වන නැව් නිරන්තරයෙන් පරීක්ෂා කිරීමට අවශ්‍යතාවයක් නොමැත. එසේම, නැවක් රඳවා තබා ගැනීම සඳහා දින 30ක අවම කාලයක් නියම කර නොමැති අතර, එය රඳවා තබා ගනු ලබන්නේ අදාළ අඩුපාඩු නිවැරදි කරන තෙක් පමණි."
     },
     {
         "category": "CES – Engine, Support level",
@@ -525,7 +524,7 @@
         ],
         "correct_answer": "Have blank flanges fitted with gaskets and tightened with all bolts in place.",
         "images": [],
-        "explanation": ""
+        "explanation": "නැවක බංකර් මැනිෆෝල්ඩ් (Bunker manifold) එකක් භාවිතයේ නොමැති විට, ඉන්ධන කාන්දු වීම් වැළැක්වීම සඳහා එය නිසි ලෙස වසා තැබීම අනිවාර්ය වේ. මෙහිදී 'Blank flange' එකක් භාවිතා කර, ඒ අතරට නිසි ප්‍රමාණයේ 'Gasket' එකක් දමා, සියලුම බෝල්ට් (all bolts) දමා තද කිරීම මගින් පමණක් පීඩනය යටතේ ඉන්ධන කාන්දු වීම සම්පූර්ණයෙන්ම වළක්වා ගත හැක. බෝල්ට් කිහිපයක් පමණක් දැමීම හෝ ගෑස්කට් එකක් නොමැතිව තද කිරීම මගින් කාන්දුවීම් ඇති විය හැකි අතර එය ආරක්ෂිත නොවේ."
     },
     {
         "category": "CES – Engine, Support level",
@@ -553,7 +552,7 @@
         "images": [
             "https://i.ibb.co/0R34k9MM/plate.jpg"
         ],
-        "explanation": ""
+        "explanation": "මෙම රූපයේ දැක්වෙන්නේ 'Plate Heat Exchanger' එකකි. මෙහි තාප හුවමාරුව සිදුවන්නේ එකිනෙක මත අසුරා ඇති ලෝහ තහඩු (plates) මාලාවක් හරහාය. මෙම තහඩු මගින් උණුසුම් සහ සිසිල් තරල එකිනෙක මිශ්‍ර නොවී තාපය හුවමාරු කර ගැනීමට ඉඩ සලසයි. Shell and tube වර්ගයේදී සිලින්ඩරාකාර බාහිර ආවරණයක් තුළ නල මාලාවක් භාවිතා කරන අතර, මෙහි දැක්වෙන්නේ තහඩු මගින් සමන්විත ව්‍යුහයක් බැවින් මෙය Plate heat exchanger ලෙස හඳුනාගත හැකිය."
     },
     {
         "category": "CES – Engine, Support level",
@@ -581,7 +580,7 @@
         ],
         "correct_answer": "Leakage of sea water from the central coolers.",
         "images": [],
-        "explanation": ""
+        "explanation": "මධ්‍යම සිසිලන පද්ධතියක (Central cooling system) ඇති මිරිදියෙහි ක්ලෝරයිඩ් (Chloride) මට්ටම ඉහළ යාමට ප්‍රධානතම හේතුව වන්නේ මුහුදු ජලය කාන්දු වීමයි. මන්ද මුහුදු ජලයේ ක්ලෝරයිඩ් සාන්ද්‍රණය ඉතා ඉහළ බැවිනි. මධ්‍යම සිසිලන පද්ධතියේ ඇති සිසිලනකාරක (Central coolers) හරහා මුහුදු ජලය ගමන් කරන අතර, එහි ඇති ටියුබ් හෝ සීල් වල කාන්දුවක් ඇති වූ විට මුහුදු ජලය මිරිදිය පද්ධතියට එක්වේ. අනෙක් විකල්පයන් වැරදි වීමට හේතු: තෙල් සිසිලනකාරකයකින් (Oil cooler) කාන්දුවක් සිදුවුවහොත් පද්ධතියට එක්වන්නේ තෙල් මිස ක්ලෝරයිඩ් නොවේ. රසායනික ප්‍රතිකාර ප්‍රමාණවත් නොවීම නිසා ක්ලෝරයිඩ් මට්ටම ඉහළ නොයන අතර, එයින් සිදුවන්නේ විඛාදනය හෝ පරිමාණයන් තැන්පත් වීමයි. පිටාර වායු (Exhaust gas) කාන්දුවක් සිදුවුවහොත් පද්ධතියට එක්වන්නේ කාබන් ඩයොක්සයිඩ් හෝ සල්ෆර් ඔක්සයිඩ් වැනි වායුන් මිස ක්ලෝරයිඩ් නොවේ."
     },
     {
         "category": "CES – Engine, Support level",
@@ -647,7 +646,7 @@
         ],
         "correct_answer": "It is an oil scraper ring.",
         "images": [],
-        "explanation": ""
+        "explanation": "ට්‍රන්ක් පිස්ටන් එන්ජින්වල භාවිතා වන මෙම විශේෂිත පිස්ටන් රින් එක 'oil scraper ring' හෙවත් තෙල් පිසදමන රින් එක ලෙස හැඳින්වේ. මෙහි ඇති ස්ලොට් (slotted) මගින් සිලින්ඩර් බිත්තියේ ඇති අතිරික්ත ලිහිසි තෙල් ඉවත් කර නැවත ක්‍රෑන්ක් කේස් එකට යැවීමට පහසුකම් සලසයි. අභ්‍යන්තර ස්ප්‍රින් එක (expander spring) මගින් සිලින්ඩර් බිත්තිය මත රින් එකේ පීඩනය වැඩි කර, තෙල් කාන්දු වීම වැළැක්වීමට සහ දහන කුටීරයට තෙල් ඇතුළු වීම පාලනය කිරීමට උපකාරී වේ."
     },
     {
         "category": "CES – Engine, Support level",
@@ -660,7 +659,7 @@
         ],
         "correct_answer": "That the combustion chamber of the boiler is checked being empty for oil and that the pre-ventilation function prior to ignition is functioning.",
         "images": [],
-        "explanation": ""
+        "explanation": "බොයිලේරු පද්ධතියක් නැවත ආරම්භ කිරීමට පෙර ආරක්ෂාව අතිශයින්ම වැදගත් වේ. දහන කුටීරය තුළ ඉන්ධන එකතු වී ඇත්නම්, එය දැල්වීමේදී පිපිරීමක් සිදුවීමට ඉඩ ඇත. එබැවින්, දහන කුටීරය හිස් බව තහවුරු කර ගැනීම සහ දැල්වීමට පෙර වාතාශ්‍රය ලබා දීමේ ක්‍රියාවලිය (pre-ventilation/purging) නිසි ලෙස ක්‍රියාත්මක වීම අනිවාර්ය වේ. මෙය බොයිලේරු මෙහෙයුම් වලදී සිදුවිය හැකි අනතුරු වළක්වා ගැනීමට ඇති ප්‍රධානතම ආරක්ෂක පියවරයි."
     },
     {
         "category": "CES – Engine, Support level",
@@ -673,7 +672,7 @@
         ],
         "correct_answer": "To keep the valve in correct position and to maintain proper sealing.",
         "images": [],
-        "explanation": ""
+        "explanation": "ඉන්ධන ඉන්ජෙක්ටරය සහ සිලින්ඩර් හිස අතර ඇති තඹ ගෑස්කට් එක (Copper gasket) ඉතා වැදගත් වන්නේ එය ඉන්ජෙක්ටරය නිවැරදි උසකින් සහ පිහිටීමකින් තබා ගැනීමට උපකාරී වන බැවිනි. මෙය ඉන්ධන ඉසින රටාව (spray pattern) දහන කුටීරය තුළ නිවැරදිව සිදුවීමට අත්‍යවශ්‍ය වේ. මීට අමතරව, එය දහන කුටීරයේ අධික පීඩනය පිටතට කාන්දු වීම වැළැක්වීම සඳහා නිසි මුද්‍රා තැබීමක් (sealing) ලබා දෙයි. වැරදි ගෑස්කට් එකක් භාවිතා කිරීමෙන් ඉන්ජෙක්ටරයේ පිහිටීම වෙනස් වී දහන ක්‍රියාවලිය අසාර්ථක විය හැකිය."
     },
     {
         "category": "CES – Engine, Support level",
@@ -686,7 +685,7 @@
         ],
         "correct_answer": "A thorough ventilation of the combustion chamber before the ignition takes place.",
         "images": [],
-        "explanation": ""
+        "explanation": "බොයිලේරු දහන කුටීරය (combustion chamber) තුළ ඉන්ධන දැල්වීමට පෙර හොඳින් වාතාශ්‍රය ලබා දීම (purging) අතිශය වැදගත් වේ. මෙයට හේතුව වන්නේ දහන කුටීරය තුළ ඉතිරි වී තිබිය හැකි දහනය නොවූ ඉන්ධන වාෂ්ප හෝ වායූන් ඉවත් කිරීමයි. එසේ නොකළහොත්, දැල්වීමේදී පිපිරීමක් (furnace explosion) සිදුවීමට ඉඩ ඇත. අනෙක් විකල්ප වැරදි වන්නේ: බොයිලේරුවේ ජල මට්ටම පරීක්ෂා කිරීම වැදගත් වුවත්, එය 'bottom-blowing' මගින් සිදු නොකරන අතර, ප්‍රධාන වාෂ්ප කපාටය (main steam valve) විවෘත කළ යුත්තේ බොයිලේරුව ක්‍රියාත්මක වී පීඩනය නිසි මට්ටමට පැමිණි පසුව මිස ආරම්භයේදී නොවේ."
     },
     {
         "category": "CES – Engine, Support level",
@@ -699,7 +698,7 @@
         ],
         "correct_answer": "An atomization of the fuel injected into the combustion chamber.",
         "images": [],
-        "explanation": ""
+        "explanation": "එන්ජිමක දහනය (combustion) කාර්යක්ෂමව සිදුවීම සඳහා ඉන්ධන ඉතා කුඩා බිඳිති ලෙස දහන කුටීරයට ඉසීම (atomization) අත්‍යවශ්‍ය වේ. මෙසේ ඉන්ධන පරමාණුකරණය වීම මගින් වාතය සහ ඉන්ධන හොඳින් මිශ්‍ර වී සම්පූර්ණ දහනයක් සිදුවේ. අනෙක් පිළිතුරු වැරදි වන්නේ: 'ඝන ඉන්ධන ධාරාවක් ලෙස පිස්ටනය මතට වැටීම' මගින් අසම්පූර්ණ දහනයක් සිදුවන අතර එමගින් පිස්ටනයට හානි විය හැක. 'ඉන්ධන පිටාර නළයට යැවීම' යනු දහනයට අදාළ ක්‍රියාවලියක් නොව ඉන්ධන පද්ධතියේ අතිරික්තය ඉවත් කිරීමක් පමණි."
     },
     {
         "category": "CES – Engine, Support level",
@@ -712,7 +711,7 @@
         ],
         "correct_answer": "To be sure that we do not have water collected in the cylinders.",
         "images": [],
-        "explanation": ""
+        "explanation": "එන්ජිම ආරම්භ කිරීමට පෙර 'slow turning' කිරීමේ ප්‍රධාන අරමුණ වන්නේ සිලින්ඩර තුළ ජලය හෝ වෙනත් ද්‍රවයක් (උදාහරණයක් ලෙස ඉන්ධන හෝ සිසිලන ජලය) එකතු වී ඇත්දැයි පරීක්ෂා කිරීමයි. ද්‍රව අසම්පීඩ්‍ය (incompressible) බැවින්, පිස්ටනය ඉහළට එන විට සිලින්ඩරය තුළ ජලය තිබුණහොත් එය 'hydraulic lock' තත්ත්වයක් ඇති කර සම්බන්ධක දණ්ඩ (connecting rod) හෝ සිලින්ඩර් හෙඩ් එකට බරපතල හානි සිදු කළ හැකිය. අනෙක් පිළිතුරු වැරදි වන්නේ, නැවුම් වාතය ලබා ගැනීම එන්ජිම ක්‍රියාත්මක වන විට සිදුවන සාමාන්‍ය ක්‍රියාවලියක් වන අතර, එන්ජිම අවහිර වී ඇත්දැයි බැලීම සඳහා 'turning gear' භාවිතා කරන බැවිනි."
     },
     {
         "category": "CES – Engine, Support level",
@@ -738,7 +737,7 @@
         ],
         "correct_answer": "To get the oil into the cylinder when the piston is in the right position.",
         "images": [],
-        "explanation": ""
+        "explanation": "සිලින්ඩර ලිහිසි තෙල් (cylinder oil) එන්ජිමේ පිස්ටනය නිවැරදි ස්ථානයේ පවතින විට සිලින්ඩරය තුළට ඇතුළු කිරීම ඉතා වැදගත් වේ. මෙයට හේතුව වන්නේ පිස්ටන් මුදු (piston rings) සහ සිලින්ඩර බිත්තිය අතර ඇති ඝර්ෂණය අවම කර ගැනීමටත්, දහන කුටීරය තුළ තෙල් නිසි ලෙස බෙදා හැරීමටත් පිස්ටනයේ පිහිටීම අනුව තෙල් එන්නත් කිරීමේ කාලය (timing) තීරණය වීමයි. අනෙක් පිළිතුරු වැරදි වීමට හේතුව: 'අධික ලිහිසි තෙල් භාවිතය වැළැක්වීම' සහ 'නිවැරදි තෙල් ප්‍රමාණය ලබා ගැනීම' යනු ලිහිසි තෙල් පද්ධතියේ වැදගත් අංග වුවද, 'ටයිමින්' (timing) යන්නෙහි මූලික අරමුණ වන්නේ තෙල් එන්නත් කරන නිවැරදි මොහොත තීරණය කිරීමයි."
     },
     {
         "category": "CES – Engine, Support level",
@@ -764,7 +763,7 @@
         ],
         "correct_answer": "Water leaking into the combustion chamber.",
         "images": [],
-        "explanation": ""
+        "explanation": "4-stroke ඩීසල් එන්ජිමක පිටවන දුම සුදු හෝ ලා අළු පැහැයෙන් දිස්වීමට ප්‍රධානම හේතුව වන්නේ දහන කුටීරයට (combustion chamber) ජලය කාන්දු වීමයි. මෙහිදී සිදුවන්නේ සිලින්ඩරය තුළට ඇතුළු වන ජලය වාෂ්ප බවට පත්වීම නිසා පිටවන දුම සුදු පැහැයෙන් දිස්වීමයි. අනෙක් විකල්පයන් සලකා බැලූ විට: ඉන්ධන එන්නත් කිරීමේ කපාටයේ (fuel injection valve) දෝෂයක් තිබේ නම් සාමාන්‍යයෙන් පිටවන්නේ කළු පැහැති දුමකි (අසම්පූර්ණ දහනය නිසා). එන්ජිම ලිහිසි තෙල් දහනය කරන්නේ නම් (burning lubrication oil), පිටවන දුම සාමාන්‍යයෙන් නිල් පැහැයට හුරු අළු පැහැයක් ගනී. එබැවින් ජලය කාන්දු වීම වඩාත් නිවැරදි පිළිතුර වේ."
     },
     {
         "category": "CES – Engine, Support level",
@@ -805,7 +804,7 @@
         ],
         "correct_answer": "To avoid accidental intake of water into the engine room in case of valve or pipeline failure.",
         "images": [],
-        "explanation": ""
+        "explanation": "බිල්ජ් (bilge) හෝ බැලස්ට් (ballast) පොම්ප කිරීමේ කටයුතු අවසන් වූ පසු සියලුම කපාට (valves) වසා දැමීම අත්‍යවශ්‍ය වන්නේ, යම් හෙයකින් පයිප්ප පද්ධතියේ හෝ කපාටයක දෝෂයක් ඇති වුවහොත්, පිටතින් අනවශ්‍ය ලෙස එන්ජින් කාමරයට ජලය ඇතුළු වීම වැළැක්වීම සඳහාය. මෙය නැවක ආරක්ෂාව සඳහා ඉතා වැදගත් පියවරකි. අනෙක් පිළිතුරු වැරදි වන්නේ: පොම්පයේ නිවාසය (pump housing) පිරී තබා ගැනීම පොම්ප කිරීමේ කාර්යයට අදාළ නොවන අතර, කපාට සිරවීම වැළැක්වීම සඳහා ඒවා වසා තැබීම ප්‍රධාන හේතුව නොවේ. එසේම, මෙවැනි මෙහෙයුම්වලදී කපාටවල තත්ත්වය නොසලකා හැරීම නැවක ආරක්ෂාවට බරපතල තර්ජනයකි."
     },
     {
         "category": "CES – Engine, Support level",
@@ -819,7 +818,7 @@
         ],
         "correct_answer": "Feed-check valve.",
         "images": [],
-        "explanation": ""
+        "explanation": "Feed-check valve (පෝෂක පරීක්ෂක කපාටය) යනු බොයිලේරුව තුළ පවතින අධික පීඩනය නිසා ජලය නැවත පෝෂක නල මාර්ගයට (feed-water line) ගලා ඒම වළක්වන ස්වයංක්‍රීය නොවන ආපසු නොඑන කපාටයකි (non-return valve). අනෙක් විකල්ප වැරදි වන්නේ: Bottom-blow valve යනු බොයිලේරුවේ පතුලේ ඇති අපද්‍රව්‍ය ඉවත් කිරීමට භාවිතා කරන කපාටයකි. Feed-stop valve යනු පෝෂක ජල සැපයුම සම්පූර්ණයෙන්ම නතර කිරීමට භාවිතා කරන කපාටයකි. Skin valve යනු නැවක බඳ හරහා ජලය ඇතුළු වීමට හෝ පිටවීමට ඉඩ සලසන කපාටයකි."
     },
     {
         "category": "CES – Engine, Support level",
@@ -846,7 +845,7 @@
         ],
         "correct_answer": "They should see it on the tank top or in the bilge well during regular inspections.",
         "images": [],
-        "explanation": ""
+        "explanation": "එන්ජින් කාමරයේ මුර සංචාරයේ යෙදෙන නිලධාරීන්ගේ ප්‍රධාන වගකීම වන්නේ නිරන්තර පරීක්ෂාවන් සිදු කිරීමයි. කාන්දුවක් සිදුවූ විට එය මුලින්ම හඳුනාගත හැක්කේ ටැංකි මුදුන්වල (tank top) හෝ බිල්ජ් (bilge well) ප්‍රදේශවල ද්‍රව තැන්පත්වීම නිරීක්ෂණය කිරීමෙනි. අනෙක් පිළිතුරු වැරදි වන්නේ, බිල්ජ් පොම්පය ස්වයංක්‍රීයව ක්‍රියාත්මක වීම යනු දැනටමත් කාන්දුවක් සිදුවී බිල්ජ් එකේ ජලය හෝ තෙල් එකතු වී ඇති බවට පසුව ලැබෙන සංඥාවකි. එසේම, ටැංකියක මට්ටම පහළ යාමේ අනතුරු ඇඟවීම (low level alarm) ලැබෙන්නේ ටැංකියේ ද්‍රව මට්ටම සැලකිය යුතු ලෙස අඩුවූ පසුව පමණි. එබැවින්, දෘශ්‍ය පරීක්ෂාව මගින් කාන්දුවක් මුල් අවස්ථාවේදීම හඳුනා ගැනීම වඩාත් සුදුසු සහ ආරක්ෂිත ක්‍රමය වේ."
     },
     {
         "category": "CES – Engine, Support level",
@@ -860,7 +859,7 @@
         ],
         "correct_answer": "Act according to instructions given in the fire plan.",
         "images": [],
-        "explanation": ""
+        "explanation": "නැවක ගින්නක් ඇති වූ විට අනුගමනය කළ යුතු නිවැරදිම සහ ආරක්ෂිතම ක්‍රියාමාර්ගය වන්නේ නැවේ ඇති 'Fire Plan' (ගිනි නිවීමේ සැලැස්ම) අනුව කටයුතු කිරීමයි. මන්ද එම සැලැස්ම මගින් එක් එක් කාර්ය මණ්ඩල සාමාජිකයාගේ වගකීම් සහ අනුගමනය කළ යුතු නිශ්චිත ක්‍රියා පටිපාටි පැහැදිලිව දක්වා ඇත. අනෙක් විකල්ප වැරදි වන්නේ: ගින්නක් ඇති වූ විට තනිවම ගින්න සෙවීමට යාම අනතුරුදායක විය හැකි නිසාත්, සියලු දෙනා එකවර ආරක්ෂක මධ්‍යස්ථානයට රැස්වීමෙන් ගිනි නිවීමේ කටයුතු අඩාල විය හැකි නිසාත්, ගිනි පොම්පය ක්‍රියාත්මක කිරීම වැනි කාර්යයන් නියමිත පුද්ගලයා විසින් පමණක් සිදු කළ යුතු නිසාත්ය."
     },
     {
         "category": "CES – Engine, Support level",
@@ -874,7 +873,7 @@
         ],
         "correct_answer": "Gear pump.",
         "images": [],
-        "explanation": ""
+        "explanation": "Gear pump යනු ධනාත්මක විස්ථාපන පොම්පයක් (Positive displacement pump) වේ. මෙම පොම්පය ක්‍රියාත්මක වන විට පිටවන කපාටය (discharge valve) වසා දැමුවහොත්, පොම්පය මගින් අඛණ්ඩව ද්‍රවය තල්ලු කිරීමට උත්සාහ කරන අතර පිටවීමට මාර්ගයක් නොමැති වීම නිසා පීඩනය අසාමාන්‍ය ලෙස ඉහළ යයි. මෙය පොම්පයේ අභ්‍යන්තර කොටස්වලට හානි කිරීමට හෝ මෝටරය අධික ලෙස රත් වීමට හේතු වේ. අනෙක් විකල්ප වන Turbine pump සහ Propeller pump යනු ගතික පොම්ප (Dynamic pumps) වන අතර, ඒවායේ පිටවන කපාටය වසා දැමූ විට පීඩනය ඉහළ ගියද, Gear pump එකකට සිදුවන ආකාරයේ ක්ෂණික යාන්ත්‍රික හානියක් සාමාන්‍යයෙන් සිදු නොවේ. Screw pump ද ධනාත්මක විස්ථාපන පොම්පයක් වුවද, ප්‍රශ්නයේ අසන ලද සන්දර්භය තුළ Gear pump එක වඩාත් අවදානම් සහගත වේ."
     },
     {
         "category": "CES – Engine, Support level",
@@ -902,7 +901,7 @@
         ],
         "correct_answer": "Prevent against corrosion.",
         "images": [],
-        "explanation": ""
+        "explanation": "සමුද්‍රීය තාප හුවමාරුකාරකවල (heat exchangers) සින්ක් ඇනෝඩ භාවිතා කරනුයේ ගැල්වනික් විඛාදනය (galvanic corrosion) වැළැක්වීම සඳහාය. සින්ක් යනු යකඩ හෝ තඹ මිශ්‍ර ලෝහවලට වඩා ඉහළ විද්‍යුත් රසායනික ක්‍රියාකාරීත්වයක් ඇති ලෝහයක් බැවින්, එය 'ත්‍යාගශීලී ඇනෝඩයක්' (sacrificial anode) ලෙස ක්‍රියා කරමින් ප්‍රධාන ලෝහ කොටස් විඛාදනයෙන් ආරක්ෂා කරයි. අනෙක් පිළිතුරු වැරදි වන්නේ: 'Scaling' වැළැක්වීම සඳහා රසායනික ද්‍රව්‍ය හෝ යාන්ත්‍රික පිරිසිදු කිරීම අවශ්‍ය වේ. 'Salinity' හෙවත් ලවණතාවය අඩු කිරීම ඇනෝඩ මගින් සිදු නොවේ. 'Marine growth' හෙවත් මුහුදු ජීවීන් බැඳීම වැළැක්වීමට ඇනෝඩ දායක නොවන අතර ඒ සඳහා විශේෂිත ආලේපන (anti-fouling paints) භාවිතා කරයි."
     },
     {
         "category": "CES – Engine, Support level",
@@ -915,7 +914,7 @@
         ],
         "correct_answer": "The Fitter should be asked to check the level of hydraulic oil in the header tank.",
         "images": [],
-        "explanation": ""
+        "explanation": "නැවක එන්ජින් කාමරයේදී ෆිටර්වරයෙකු (Fitter) විසින් සිදු කළ යුතු කාර්යයන් තාක්ෂණික සහ ආරක්ෂිත ප්‍රමිතීන්ට අනුකූල විය යුතුය. හයිඩ්‍රොලික් තෙල් මට්ටම පරීක්ෂා කිරීම යනු එන්ජින් කාමරයේ නඩත්තු කටයුත්තක් වන අතර එය ෆිටර්වරයෙකුගේ රාජකාරියට අයත් වේ. අනෙක් විකල්ප දෙක වැරදි වන්නේ: 1. හිස් තෙල් බැරල් ෆෝකසල් (forecastle) මත ගොඩගැසීම නාවික ආරක්ෂක රෙගුලාසිවලට පටහැනි වන අතර එය නැවේ ස්ථාවරත්වයට සහ ආරක්ෂාවට තර්ජනයකි. 2. හිස් තෙල් බැරල් මුහුදට දැමීම MARPOL වැනි ජාත්‍යන්තර සමුද්‍රීය දූෂණ වැළැක්වීමේ සම්මුතීන් උල්ලංඝනය කිරීමකි. එබැවින්, නිවැරදි සහ වෘත්තීයමය වශයෙන් පිළිගත හැකි එකම කාර්යය වන්නේ හයිඩ්‍රොලික් තෙල් මට්ටම පරීක්ෂා කිරීමයි."
     },
     {
         "category": "CES – Engine, Support level",
@@ -928,7 +927,7 @@
         ],
         "correct_answer": "Fit a driver in the crankshaft oil hole which bears against the edge of the bottom half shell and turn the engine.",
         "images": [],
-        "explanation": ""
+        "explanation": "මධ්‍යම වේගයේ ඩීසල් එන්ජිමක ප්‍රධාන බෙයාරින් (Main bearing) පහළ කොටස ඉවත් කිරීම සඳහා වඩාත් සුදුසු සහ බහුලව භාවිතා වන ක්‍රමය වන්නේ ක්‍රෑන්ක්ෂාෆ්ට් එකේ ඇති තෙල් සිදුරට (Oil hole) විශේෂිත 'ඩ්‍රයිවර්' (Driver) උපකරණයක් සවි කර, එන්ජිම සෙමින් කරකැවීමයි. මෙහිදී එම ඩ්‍රයිවර් එක බෙයාරින් ෂෙල් එකේ කෙළවරේ ගැටී එය තල්ලු කරමින් බෙයාරින් පොකට් එකෙන් පිටතට ගෙන එයි. අනෙක් ක්‍රම වැරදි වීමට හේතු: ක්‍රෑන්ක්ෂාෆ්ට් එක ජැක් එකකින් එසවීම (Jack up) ඉතා අපහසු සහ අනතුරුදායක කාර්යයක් වන අතර, එයින් බෙයාරින් එකට හානි විය හැකිය. එසේම, මුළු ක්‍රෑන්ක්ෂාෆ්ට් එකම ඉවත් කිරීම (Remove the crankshaft) යනු ඉතා විශාල සහ කාලය ගතවන කාර්යයක් වන අතර, එක් බෙයාරින් එකක් මාරු කිරීමට පමණක් එය කිසිසේත්ම ප්‍රායෝගික නොවේ."
     },
     {
         "category": "CES – Engine, Support level",
@@ -967,7 +966,7 @@
         ],
         "correct_answer": "To control the weardown of the main bearings.",
         "images": [],
-        "explanation": ""
+        "explanation": "ක්‍රෑන්ක්ෂාෆ්ට් ඩිෆ්ලෙක්ෂන් (Crankshaft deflection) පරීක්ෂා කිරීමේ ප්‍රධාන අරමුණ වන්නේ ප්‍රධාන බෙයාරිං (Main bearings) වල ගෙවී යාම හෙවත් 'weardown' මැන බැලීමයි. බෙයාරිං ගෙවී ගිය විට ක්‍රෑන්ක්ෂාෆ්ට් එකේ පිහිටීම වෙනස් වන අතර, එය ඩිෆ්ලෙක්ෂන් කියවීම් මගින් හඳුනාගත හැකිය. අනෙක් පිළිතුරු වැරදියි: ඉන්ධන දහන වේලාව (Ignition timing) පාලනය කිරීම සඳහා ක්‍රෑන්ක්ෂාෆ්ට් ඩිෆ්ලෙක්ෂන් භාවිතා නොකරන අතර, එය ඉන්ධන පද්ධතියට හෝ ටයිමින් ගියර් වලට සම්බන්ධ වේ. එමෙන්ම, ක්‍රෑන්ක්ෂාෆ්ට් එකේ නම්‍යශීලීභාවය (Flexibility) පාලනය කිරීම සඳහා මෙම පරීක්ෂණය සිදු නොකරන අතර, එය නිර්මාණයේදී තීරණය වන භෞතික ගුණාංගයකි."
     },
     {
         "category": "CES – Engine, Support level",
@@ -993,7 +992,7 @@
         ],
         "correct_answer": "Engine room ratings forming part of an engine room watch should assist in efficient and safe watch-keeping routines.",
         "images": [],
-        "explanation": ""
+        "explanation": "එන්ජින් කාමරයේ මුර සේවයේ (Engine room watch) නිරත වන ශ්‍රේණිගත සේවකයෙකුගේ (Rating) ප්‍රධාන වගකීම වන්නේ ආරක්ෂිත සහ කාර්යක්ෂම මුර සේවාවක් පවත්වාගෙන යාම සඳහා ඉංජිනේරුවන්ට සහාය වීමයි. අනෙක් විකල්පයන් වැරදි වන්නේ: තේ සාදා දීම යනු ඔවුන්ගේ වෘත්තීය රාජකාරියක් නොවන අතර, යන්ත්‍රෝපකරණවල මෙහෙයුම් පරාමිතීන් නිෂ්පාදකයාගේ උපදෙස් අනුව පවතීදැයි පරීක්ෂා කිරීම ප්‍රධාන වශයෙන් සහතික ලත් ඉංජිනේරුවරයෙකුගේ (Watchkeeping Engineer) වගකීමක් වන බැවිනි."
     },
     {
         "category": "CES – Engine, Support level",
@@ -1006,7 +1005,7 @@
         ],
         "correct_answer": "Legs bent, back straight, using leg muscles to lift.",
         "images": [],
-        "explanation": ""
+        "explanation": "නිවැරදි බර එසවීමේ ක්‍රමවේදය වන්නේ දණහිස් නවා, කොන්ද කෙලින් තබාගෙන, කකුල්වල මාංශ පේශිවල ශක්තිය භාවිතා කර බර එසවීමයි. මෙය කොඳු ඇට පෙළට සිදුවන අනතුරු අවම කරයි. අනෙක් පිළිතුරු දෙක වැරදියි. මන්ද, කොන්ද නවා බර එසවීමෙන් කොඳු ඇට පෙළට දැඩි පීඩනයක් ඇති වී තුවාල සිදුවිය හැකි අතර, බර එසවීමේදී කොන්ද කරකැවීම (Twisting) මගින් කොඳු ඇට පෙළේ තැටි (discs) වලට බරපතල හානි සිදුවිය හැකි බැවිනි."
     },
     {
         "category": "CES – Engine, Support level",
@@ -1019,7 +1018,7 @@
         ],
         "correct_answer": "The water can be applied in a fine spray starting from the front in a sweeping motion.",
         "images": [],
-        "explanation": ""
+        "explanation": "තෙල් ගින්නක් නිවීමේදී ජලය භාවිතා කිරීමේදී ඉතා ප්‍රවේශම් විය යුතුය. ජල ජෙට් (Jet) එකක් කෙලින්ම තෙල් මතට ගැසීමෙන් තෙල් විසිරී ගොස් ගින්න තවදුරටත් පැතිර යා හැක. එබැවින්, ජලය 'Fine spray' (සිහින් ඉසින) ආකාරයෙන් භාවිතා කිරීමෙන් ගින්නෙහි උෂ්ණත්වය අඩු කර ගින්න නිවා දැමිය හැක. ඉදිරිපස සිට අතුගාන ආකාරයට (Sweeping motion) ජලය ඉසීමෙන් ගින්න පාලනය කර නිවා දැමීම වඩාත් ආරක්ෂිත වේ. අනෙක් විකල්ප දෙක වැරදියි, මන්ද ජල ජෙට් එකක් භාවිතා කිරීමෙන් තෙල් විසිරී ගොස් ගින්න විශාල වීමට සහ අනතුරුදායක තත්ත්වයක් ඇති වීමට ඉඩ ඇති බැවිනි."
     },
     {
         "category": "CES – Engine, Support level",
@@ -1032,7 +1031,7 @@
         ],
         "correct_answer": "Smoking in bed; covering of electric fires with blankets; overloading electric plugs.",
         "images": [],
-        "explanation": ""
+        "explanation": "නැවක නවාතැන් පහසුකම් (accommodation) තුළ ගින්නක් ඇතිවීමට ප්‍රධානතම හේතු ලෙස ඇඳේ සිට දුම්පානය කිරීම, විදුලි හීටර් මත රෙදි හෝ බ්ලැන්කට් දැමීම නිසා අධික උණුසුම ඇතිවීම සහ විදුලි පේනු (electric plugs) මත අධික බරක් පැටවීම (overloading) හඳුනාගත හැකිය. මෙම කරුණු තුනම ගින්නක් ඇතිවීමට සෘජුවම බලපාන අනතුරුදායක ක්‍රියාවන් වේ. අනෙක් විකල්ප දෙකෙහි ඇත්තේ මෙම හේතු වලින් එකක් හෝ දෙකක් පමණක් වන අතර, පළමු විකල්පය මගින් සියලුම ප්‍රධාන හේතු ආවරණය වන බැවින් එය වඩාත් නිවැරදි පිළිතුර වේ."
     },
     {
         "category": "CES – Engine, Support level",
@@ -1045,7 +1044,7 @@
         ],
         "correct_answer": "At the beginning of every watch.",
         "images": [],
-        "explanation": ""
+        "explanation": "නැවක බොයිලේරු (Boiler) වල ජල මට්ටම නිවැරදිව පෙන්වනු ලබන බව සහතික කර ගැනීම සඳහා 'Gauge glass' නිතර පරීක්ෂා කිරීම අත්‍යවශ්‍ය වේ. සෑම මුරයකදීම (Watch) වැඩ භාර ගන්නා ඉංජිනේරුවරයා විසින් බොයිලේරු ජල මට්ටම නිවැරදි දැයි තහවුරු කර ගැනීමට 'Blow down' කිරීම සිදු කළ යුතුය. මෙය සිදු කිරීමෙන් වීදුරු නලයේ අවහිරතා ඉවත් කර ජල මට්ටම නිවැරදිව පෙන්වන බව තහවුරු වේ. අනෙක් විකල්පයන් වන 'දිනකට වරක්' හෝ 'පැයකට වරක්' යනු ආරක්ෂිත මෙහෙයුම් ක්‍රියා පටිපාටියට අනුව ප්‍රමාණවත් නොවන හෝ අනිවාර්ය නොවන කාල පරාසයන් වේ. එබැවින් සෑම මුරයකම ආරම්භයේදී මෙය සිදු කිරීම අනිවාර්ය වේ."
     },
     {
         "category": "CES – Engine, Support level",
@@ -1097,7 +1096,7 @@
         ],
         "correct_answer": "Solid, liquid and gases.",
         "images": [],
-        "explanation": ""
+        "explanation": "ගිනි නිවන කාරක (extinguishing agents) ඒවායේ භෞතික ස්වභාවය අනුව ඝන (Solid), ද්‍රව (Liquid) සහ වායු (Gases) ලෙස වර්ගීකරණය කළ හැක. උදාහරණ ලෙස ඝන ද්‍රව්‍ය සඳහා වියළි රසායනික කුඩු (Dry chemical powder), ද්‍රව සඳහා ජලය හෝ පෙන (Foam), සහ වායු සඳහා කාබන් ඩයොක්සයිඩ් (CO2) දැක්විය හැක. අනෙක් විකල්ප දෙක වන 'Proteinic' සහ 'Synthetic' යනු ගිනි නිවන පෙන (Foam) වර්ගීකරණය සඳහා පමණක් භාවිතා වන පාරිභාෂිතයන් වන අතර, ඒවා සමස්ත ගිනි නිවන කාරක වර්ගීකරණය සඳහා ප්‍රමාණවත් නොවේ."
     },
     {
         "category": "CES – Engine, Support level",
@@ -1110,7 +1109,7 @@
         ],
         "correct_answer": "By cooling, smothering, unfeeding (combustible suppression), inhibition.",
         "images": [],
-        "explanation": ""
+        "explanation": "ගින්නක් නිවා දැමීමේදී ගිනි නිවන කාරක (extinguishing agents) ප්‍රධාන ක්‍රම හතරක් මගින් ක්‍රියා කරයි. 1. සිසිලනය (Cooling): ඉන්ධනවල උෂ්ණත්වය ජ්වලන ලක්ෂයට වඩා පහළට අඩු කිරීම. 2. හුස්ම හිර කිරීම (Smothering): ඔක්සිජන් සැපයුම විසන්ධි කිරීම. 3. ඉන්ධන ඉවත් කිරීම (Unfeeding/Starvation): දහනය වන ද්‍රව්‍ය ඉවත් කිරීම. 4. රසායනික නිෂේධනය (Inhibition): දාම ප්‍රතික්‍රියාව බිඳ දැමීම. අනෙක් පිළිතුරු අසම්පූර්ණ වේ; 'ignifugation' යනු ද්‍රව්‍යයක් ගින්නට ඔරොත්තු දෙන ලෙස සැකසීමයි (fireproofing), එය ගින්නක් නිවන ක්‍රමයක් නොවේ. 'Inhibition' යනු ක්‍රම හතරෙන් එකක් පමණක් වන බැවින් එය සම්පූර්ණ පිළිතුර නොවේ."
     },
     {
         "category": "CES – Engine, Support level",
@@ -1123,7 +1122,7 @@
         ],
         "correct_answer": "The person who is designated in the muster list.",
         "images": [],
-        "explanation": ""
+        "explanation": "නැවක ගින්නක් හටගත් විට, ගිනි නිවීමේ මෙහෙයුම් භාරව කටයුතු කළ යුත්තේ 'Muster List' හෙවත් කාර්ය මණ්ඩල රාජකාරි ලැයිස්තුවේ ඒ සඳහා නම් කර ඇති නිලධාරියාය. මෙය ජාත්‍යන්තර නාවික රෙගුලාසිවලට (SOLAS) අනුව තීරණය කරනු ලබන අතර, එමගින් මෙහෙයුම විධිමත් සහ ආරක්ෂිත බව සහතික කෙරේ. අනෙක් පිළිතුරු වැරදි වන්නේ, පළමුව එම ස්ථානයට පැමිණෙන පුද්ගලයා හෝ නිලධාරියාට එම වගකීම පැවරීමෙන් මෙහෙයුමේ අවුල් සහගත බවක් ඇති විය හැකි බැවිනි. හදිසි අවස්ථාවකදී සෑම කෙනෙකුම තමන්ට නියමිත රාජකාරිය සහ නායකත්වය යටතේ ක්‍රියා කිරීම අනිවාර්ය වේ."
     },
     {
         "category": "CES – Engine, Support level",
@@ -1136,7 +1135,7 @@
         ],
         "correct_answer": "In a continuous way so that the powder spray is in the same direction as the one of the flame.",
         "images": [],
-        "explanation": ""
+        "explanation": "C වර්ගයේ ගින්නක් (විද්‍යුත් උපකරණ ආශ්‍රිත ගිනි) නිවා දැමීමේදී වියළි රසායනික කුඩු (Dry Chemical Powder) භාවිතා කරන්නේ නම්, කුඩු ඉසිනු ලැබිය යුත්තේ ගිනිදැල්වල දිශාවටම අඛණ්ඩවය. මෙය සිදු කරන්නේ ගින්නෙහි මූලාශ්‍රය වෙත කුඩු ඵලදායී ලෙස යොමු කර ඔක්සිජන් සැපයුම කපා හැරීමට සහ රසායනික ප්‍රතික්‍රියාව නැවැත්වීමටය. අනෙක් පිළිතුරු වැරදියි: 'Across the flame, sweeping it' යනු සාමාන්‍යයෙන් A හෝ B වර්ගයේ ගිනි සඳහා භාවිතා කරන ක්‍රමයක් වන අතර, C වර්ගයේ ගිනි සඳහා එය එතරම් ඵලදායී නොවේ. එමෙන්ම වියළි රසායනික කුඩු C වර්ගයේ ගිනි නිවා දැමීමට ඉතා සුදුසු මාධ්‍යයකි."
     },
     {
         "category": "CES – Engine, Support level",
@@ -1150,7 +1149,7 @@
         ],
         "correct_answer": "To transfer heat from one fluid to another.",
         "images": [],
-        "explanation": ""
+        "explanation": "තාප හුවමාරුකාරකයක (Heat Exchanger) ප්‍රධාන කාර්යය වන්නේ එක් තරලයක (fluid) ඇති තාපය තවත් තරලයකට හුවමාරු කිරීමයි. එන්ජින් සිසිලන පද්ධතියකදී, එන්ජිමෙන් උණුසුම් වූ ජලය සිසිල් කිරීම සඳහා මුහුදු ජලය හෝ වෙනත් සිසිලන මාධ්‍යයක් භාවිතා කර තාපය ඉවත් කරනු ලබයි. අනෙක් පිළිතුරු වැරදි වන්නේ: 'අපද්‍රව්‍ය පෙරීම' සිදු කරන්නේ පෙරහන් (Filters) මගිනි. 'රසායනික ද්‍රව්‍ය එකතු කිරීම' සිදු කරන්නේ ජල පිරිපහදු පද්ධති මගිනි. 'තාප හුවමාරුවකින් තොරව ජලය සංසරණය කිරීම' යනු තාප හුවමාරුකාරකයක මූලික අරමුණට පටහැනි ක්‍රියාවකි."
     },
     {
         "category": "CES – Engine, Support level",
@@ -1166,7 +1165,7 @@
         "images": [
             "https://i.ibb.co/VWmgsKnN/plastina-2.jpg"
         ],
-        "explanation": ""
+        "explanation": "මෙම රූපයේ දැක්වෙන්නේ 'Plate Heat Exchanger' එකකි. මෙහි ලෝහ තහඩු කිහිපයක් එකිනෙක මත අසුරා ඇති අතර, එම තහඩු අතරින් ද්‍රව ගලා යාමෙන් තාප හුවමාරුව සිදු වේ. අනෙක් විකල්ප වැරදි වීමට හේතු: 'Shell and tube' යනු සිලින්ඩරාකාර බාහිර ආවරණයක් තුළ නල පද්ධතියක් ඇති වර්ගයකි. 'Air-cooled' යනු වාතය මගින් සිසිලනය වන වර්ගයකි. 'Spiral' යනු සර්පිලාකාරව ඔතා ඇති තහඩු සහිත වර්ගයකි. රූපයේ ඇති ව්‍යුහය පැහැදිලිවම තහඩු (plates) එකිනෙක සම්බන්ධ කර ඇති ආකාරය පෙන්වන බැවින් 'Plate' යනු නිවැරදි පිළිතුරයි."
     },
     {
         "category": "CES – Engine, Support level",
@@ -1182,7 +1181,7 @@
         "images": [
             "https://i.ibb.co/PGv3BH06/detal-2.jpg"
         ],
-        "explanation": ""
+        "explanation": "පෙන්වා ඇති රූපයේ දැක්වෙන්නේ ඉන්ධන එන්නත්කාරකය (Fuel injector) වේ. මෙය එන්ජිමක දහන කුටීරයට ඉන්ධන ඉතා සියුම් මීදුමක් ලෙස ඉසීම සඳහා භාවිතා කරන උපාංගයකි. අනෙක් විකල්ප වැරදි වන්නේ: Carburetor යනු පැරණි එන්ජින්වල වාතය සහ ඉන්ධන මිශ්‍ර කිරීමට භාවිතා කළ උපකරණයකි. Spark plug යනු පෙට්‍රල් එන්ජින්වල දහනය ආරම්භ කිරීමට ගිනි පුපුරක් ලබා දෙන උපාංගයකි. Air filter යනු එන්ජිමට ඇතුළු වන වාතයේ ඇති අපද්‍රව්‍ය පෙරීම සඳහා භාවිතා කරන කොටසකි."
     },
     {
         "category": "CES – Engine, Support level",
@@ -1196,7 +1195,7 @@
         ],
         "correct_answer": "15 ppm.",
         "images": [],
-        "explanation": ""
+        "explanation": "MARPOL 73/78 සම්මුතියේ I වන උපග්‍රන්ථයට (Annex I) අනුව, නැවක යන්ත්‍ර කාමරයේ ඇති බිල්ජ් ජලය (bilge water) මුහුදට බැහැර කිරීමේදී තෙල් සාන්ද්‍රණය කොටස් මිලියනයකට 15 (15 ppm) ට වඩා වැඩි නොවිය යුතුය. මෙය තෙල් වෙන්කරන උපකරණ (Oily Water Separator - OWS) හරහා යාමෙන් පසු අනිවාර්යයෙන්ම පවත්වාගත යුතු උපරිම සීමාවයි. අනෙක් පිළිතුරු (5 ppm, 50 ppm, 100 ppm) වැරදි වන්නේ ඒවා ජාත්‍යන්තර නීති රීතිවලට අනුව නියම කර ඇති ප්‍රමිතීන් නොවන බැවිනි."
     },
     {
         "category": "CES – Engine, Support level",
@@ -1224,7 +1223,7 @@
         ],
         "correct_answer": "Near to the entrance to the space.",
         "images": [],
-        "explanation": ""
+        "explanation": "ගිනි නිවන උපකරණ (Portable fire extinguishers) සාමාන්‍යයෙන් අවකාශයක පිවිසුම් දොරටුව අසල තබනු ලබන්නේ හදිසි අවස්ථාවකදී එම ස්ථානයට ඇතුළු වන පුද්ගලයෙකුට ගින්නක් ඇති වුවහොත් වහාම එය ලබාගෙන භාවිත කිරීමට හැකි වන පරිදිය. අනෙක් විකල්ප වැරදි වන්නේ: අවකාශයක මධ්‍යයේ තැබීමෙන් ගින්නක් ඇති වූ විට එය වෙත ළඟා වීම අපහසු විය හැකි වීම, විදුලි පුවරු අසල පමණක් තැබීමෙන් අනෙකුත් ප්‍රදේශවල ඇති වන ගින්නකට එය ප්‍රමාදයකින් තොරව ලබා ගැනීමට නොහැකි වීම සහ ඉහළම ස්ථානයක තැබීමෙන් උස වැඩි පුද්ගලයින්ට පමණක් එය ලබා ගැනීමට හැකි වීම හෝ එය ලබා ගැනීමට අපහසු වීම වැනි හේතු නිසාය."
     },
     {
         "category": "CES – Engine, Support level",
@@ -1238,7 +1237,7 @@
         ],
         "correct_answer": "The air start valve for the cylinder is leaking or stuck open.",
         "images": [],
-        "explanation": ""
+        "explanation": "එන්ජිමක් ආරම්භ කිරීමෙන් පසු සිලින්ඩරයක වායු ආරම්භක පයිප්පය (start air pipe) සාමාන්‍යයට වඩා රත් වී ඇත්නම්, එයට ප්‍රධාන හේතුව වන්නේ එම සිලින්ඩරයේ ඇති වායු ආරම්භක කපාටය (air start valve) නිසි ලෙස වැසී නොතිබීම හෝ කාන්දු වීමයි. එන්ජිම ක්‍රියාත්මක වන විට සිලින්ඩරය තුළ ඇති අධික උෂ්ණත්වයක් සහිත දහන වායූන් කාන්දු වන කපාටය හරහා වායු ආරම්භක පයිප්පයට ඇතුළු වීම නිසා පයිප්පය රත් වේ. අනෙක් පිළිතුරු වැරදි වීමට හේතු: ඉන්ධන ඉන්ජෙක්ටරයේ දෝෂයක් නිසා පයිප්පය රත් නොවේ; පයිප්පයේ අවහිරයක් තිබුණහොත් එය රත් නොවී සිසිල්ව පවතිනු ඇත; සිසිලන පද්ධතියේ පීඩනය අඩු වීම මුළු එන්ජිමේම උෂ්ණත්වයට බලපාන අතර එය එක් පයිප්පයක් පමණක් රත් වීමට හේතුවක් නොවේ."
     },
     {
         "category": "CES – Engine, Support level",
@@ -1266,7 +1265,7 @@
         ],
         "correct_answer": "The atmosphere via the atmospheric line.",
         "images": [],
-        "explanation": ""
+        "explanation": "බොයිලේරු ආරක්ෂිත කපාට (Boiler safety valves) ක්‍රියාත්මක වන්නේ බොයිලේරුවේ පීඩනය ආරක්ෂිත සීමාව ඉක්මවා ගිය විටය. මෙහිදී අතිරික්ත වාෂ්ප ඉවත් කිරීම මගින් බොයිලේරුවේ පීඩනය අඩු කර පිපිරීමක් වළක්වා ගැනීම සිදු කෙරේ. මෙම වාෂ්ප කෙලින්ම වායුගෝලයට මුදා හැරීම සඳහා 'Atmospheric line' හෙවත් වායුගෝලීය නල මාර්ගය භාවිතා කරයි. අනෙක් විකල්ප වැරදි වීමට හේතු: 1. Feedwater පද්ධතියට වාෂ්ප මුදා හැරීමෙන් පීඩනය අඩු නොවන අතර එය පද්ධතියට හානි කරයි. 2. Superheater වෙත වාෂ්ප යැවීමෙන් පීඩනය තවදුරටත් වැඩි විය හැක. 3. Exhaust පද්ධතිය එන්ජිමේ දහන වායු සඳහා මිස බොයිලේරු වාෂ්ප සඳහා නොවේ."
     },
     {
         "category": "CES – Engine, Support level",
@@ -1294,7 +1293,7 @@
         ],
         "correct_answer": "Over tightening of the gland packing.",
         "images": [],
-        "explanation": ""
+        "explanation": "කේන්ද්‍රාපසාරී පොම්පයක (Centrifugal pump) ස්ටෆින් බොක්ස් (stuffing box) ප්‍රදේශයේ පතුවළ (shaft) අධික ලෙස ගෙවී යාමට ප්‍රධානතම හේතුව වන්නේ ග්ලෑන්ඩ් පැකින් (gland packing) අධික ලෙස තද කිරීමයි. ග්ලෑන්ඩ් පැකින් අධික ලෙස තද කළ විට පතුවළ මත ඇතිවන ඝර්ෂණය වැඩි වන අතර, එමගින් පතුවළේ මතුපිට ගෙවී යාම සිදුවේ. අනෙක් විකල්පයන් වැරදි වීමට හේතු: 1. ප්‍රමාණවත් තරම් ලිහිසි තෙල් නොමැති වීම (Insufficient lubrication) යම් බලපෑමක් ඇති කළ හැකි වුවද, ප්‍රධාන හේතුව වන්නේ පැකින් තද කිරීමයි. 2. පතුවළේ වැරදි පෙළගැස්ම (Incorrect alignment) නිසා කම්පනය සහ දරණ (bearings) වලට හානි සිදුවිය හැකි නමුත්, ස්ටෆින් බොක්ස් ප්‍රදේශයේ පමණක් විශේෂිත ගෙවීමක් සිදුවීම පැකින් තද කිරීම නිසාම සිදුවේ. 3. අධික උෂ්ණත්වය (High operating temperature) නිසා පැකින් දිරාපත් විය හැකි නමුත්, එය පතුවළේ භෞතික ගෙවීමට සෘජු හේතුවක් නොවේ."
     },
     {
         "category": "CES – Engine, Support level",
@@ -1324,7 +1323,7 @@
         "images": [
             "https://i.ibb.co/xKLT1n3c/klapan-3.jpg"
         ],
-        "explanation": ""
+        "explanation": "මෙම රූපයේ දැක්වෙන්නේ අභ්‍යන්තර දහන එන්ජිමක සිලින්ඩර් හිසෙහි (Cylinder head) සවි කර ඇති පිටාර කපාටය (Exhaust valve) වේ. මෙහි නිවැරදි පිළිතුර 'Exhaust valve' වේ. අනෙකුත් පිළිතුරු වැරදි වීමට හේතු: 1. Intake valve: මෙය වාතය ඇතුළු වීමට භාවිතා කරන කපාටය වන අතර, සාමාන්‍යයෙන් පිටාර කපාටයට වඩා ප්‍රමාණයෙන් විශාල වේ. 2. Fuel injector: මෙය ඉන්ධන සිලින්ඩරය තුළට ඉසින උපකරණයකි, එය කපාටයක හැඩයක් නොගනී. 3. Camshaft: මෙය කපාට විවෘත කිරීම සහ වැසීම පාලනය කරන කැරකෙන පතුවළකි, එය කපාටයක් නොවේ."
     },
     {
         "category": "CES – Engine, Support level",
@@ -1340,7 +1339,7 @@
         "images": [
             "https://i.ibb.co/WWM5qw4G/val-1.jpg"
         ],
-        "explanation": ""
+        "explanation": "නිවැරදි පිළිතුර වන්නේ Crankshaft (ක්‍රෑන්ක්ෂාෆ්ට්) ය. එන්ජිමක පිස්ටන් මගින් සිදුවන රේඛීය චලිතය (linear motion) භ්‍රමණ චලිතයක් (rotary motion) බවට පත් කරන්නේ මෙම කොටස මගිනි. අනෙක් විකල්ප වැරදි වීමට හේතු: Piston යනු සිලින්ඩරය තුළ ඉහළ පහළ යන කොටසයි. Timing belt යනු කැම්ෂාෆ්ට් සහ ක්‍රෑන්ක්ෂාෆ්ට් අතර සම්බන්ධීකරණය පවත්වා ගන්නා රබර් පටියකි. Connecting rod යනු පිස්ටනය සහ ක්‍රෑන්ක්ෂාෆ්ට් එක සම්බන්ධ කරන දණ්ඩයි. රූපයේ දැක්වෙන්නේ එන්ජිමේ ප්‍රධාන භ්‍රමණ අක්ෂය වන ක්‍රෑන්ක්ෂාෆ්ට් එක බැවින් එය නිවැරදි වේ."
     },
     {
         "category": "CES – Engine, Support level",
@@ -1354,7 +1353,7 @@
         ],
         "correct_answer": "Report to bridge or duty officer, actuate the fire alarm, call the persons around the fire and join the fire squad.",
         "images": [],
-        "explanation": ""
+        "explanation": "නැවක ගින්නක් හටගත් විට අනුගමනය කළ යුතු නිවැරදිම ක්‍රියාමාර්ගය වන්නේ වහාම පාලම් මැදිරියට (Bridge) හෝ රාජකාරියේ නියුතු නිලධාරියාට දැනුම් දීම, ගිනි අනතුරු ඇඟවීමේ සීනුව (Fire alarm) ක්‍රියාත්මක කිරීම, අවට සිටින අයට අනතුරු ඇඟවීම සහ ගිනි නිවන කණ්ඩායමට සම්බන්ධ වීමයි. මෙය නැවක ආරක්ෂාව සඳහා අත්‍යවශ්‍ය මූලික පියවර වේ. අනෙක් පිළිතුරු වැරදි වීමට හේතු: 1. කිසිවෙකුට නොදන්වා ඉවත් වීමෙන් ගින්න පාලනයෙන් තොරව පැතිර යා හැක. 2. උපකරණ නොමැතිව තනිව ගින්න නිවීමට යාම ඉතා අනතුරුදායක වන අතර එයින් තමාගේ ජීවිතයට හානි සිදුවිය හැක. 3. උපදෙස් ලැබෙන තුරු බලා සිටීමෙන් වටිනා කාලය අපතේ යන අතර ගින්න විශාල වීමට ඉඩ ඇත."
     },
     {
         "category": "CES – Engine, Support level",
@@ -1368,7 +1367,7 @@
         ],
         "correct_answer": "Extinguishing attempt is started immediately.",
         "images": [],
-        "explanation": ""
+        "explanation": "ගින්නක් හටගත් විට එය නිවා දැමීමට ගතවන කාලය ඉතා තීරණාත්මක වේ. ගින්නක් ආරම්භක අවස්ථාවේදී ඉතා කුඩාව පවතින බැවින්, වහාම එය නිවා දැමීමට උත්සාහ කිරීම (Extinguishing attempt is started immediately) මගින් ගින්න පැතිරීම වළක්වා ගත හැකි අතර එය වඩාත් සාර්ථක වේ. අනෙක් විකල්ප වැරදි වීමට හේතු: 1. උපදෙස් ලැබෙන තෙක් බලා සිටීමෙන් ගින්න විශාල වීමට ඉඩ ඇත. 2. ගින්නක් පවතින අවස්ථාවක වාතාශ්‍රය ලබා දීම (Ventilating) මගින් ඔක්සිජන් සැපයුම වැඩි වී ගින්න තවත් දරුණු විය හැක. 3. කාර්ය මණ්ඩලය ඉවත් කිරීම වැදගත් වුවත්, ගින්න නිවා දැමීමට උත්සාහ නොකර ඉවත් වීමෙන් ගින්න පාලනය කළ නොහැකි තත්ත්වයට පත්විය හැක."
     },
     {
         "category": "CES – Engine, Support level",
@@ -1384,7 +1383,7 @@
         "images": [
             "https://i.ibb.co/S7vsRRcM/shlyupka-jpg-1.jpg"
         ],
-        "explanation": ""
+        "explanation": "මෙම සංකේතය මගින් නෞකාවක ඇති 'Lifeboat' හෙවත් ජීවිතාරක්ෂක බෝට්ටුව පිහිටි ස්ථානය නිරූපණය කරයි. මෙය IMO (International Maritime Organization) ප්‍රමිතීන්ට අනුව නෞකාවක ආරක්ෂාව සඳහා යොදාගන්නා සංකේතයකි. අනෙක් පිළිතුරු වැරදි වීමට හේතු: 'Fire extinguisher' සඳහා ගිනි නිවන උපකරණයක් නිරූපණය කරන වෙනම සංකේතයක් ඇත. 'Lifejacket storage' සඳහා ජීවිතාරක්ෂක කබායක් සහිත සංකේතයක් භාවිතා වේ. 'Emergency exit' සඳහා හදිසි පිටවීමේ දොරටුවක් නිරූපණය කරන වෙනම සංකේතයක් භාවිතා වේ."
     },
     {
         "category": "CES – Engine, Support level",
@@ -1412,7 +1411,7 @@
         ],
         "correct_answer": "Too much combustion air.",
         "images": [],
-        "explanation": ""
+        "explanation": "බොයිලේරු පිටාර වායුව සුදු පැහැයෙන් පිටවීමට ප්‍රධානතම හේතුව වන්නේ දහන ක්‍රියාවලිය සඳහා අවශ්‍ය ප්‍රමාණයට වඩා වැඩි වාතයක් (Excess air) සැපයීමයි. මෙහිදී අතිරික්ත වාතය නිසා දහන උෂ්ණත්වය අඩු වී, වාෂ්පීකරණය වූ ඉන්ධන අංශු සම්පූර්ණයෙන් දැවී නොගොස් සුදු පැහැති දුමාරයක් ලෙස පිටවේ. අනෙක් පිළිතුරු වැරදි වීමට හේතු: 1. ඉන්ධන දූෂණය වීම සාමාන්‍යයෙන් කළු හෝ අළු පැහැති දුමාරයක් ඇති කරයි. 2. අසම්පූර්ණ දහනය (Incomplete combustion) නිසා සාමාන්‍යයෙන් කළු පැහැති දුමාරයක් (Black smoke) ඇතිවේ. 3. බොයිලේරුවේ සබන් තැන්පත් වීම (Soot deposits) නිසා සාමාන්‍යයෙන් කළු පැහැති දුමාරයක් පිටවන අතර එය දහන කාර්යක්ෂමතාව අඩු කරයි."
     },
     {
         "category": "CES – Engine, Support level",
@@ -1440,7 +1439,7 @@
         ],
         "correct_answer": "Secure all of the burners.",
         "images": [],
-        "explanation": ""
+        "explanation": "බොයිලේරු ජල මට්ටම දර්ශක වීදුරුවෙන් (gauge glass) අතුරුදහන් වූ විට, එයින් අදහස් වන්නේ බොයිලේරුවේ ජල මට්ටම අනතුරුදායක ලෙස පහළ ගොස් ඇති බවයි. මෙවැනි අවස්ථාවකදී පළමු පියවර ලෙස සියලුම දාහක (burners) වහාම නිවා දැමිය යුතුය. මෙයට හේතුව වන්නේ ජලය නොමැතිව බොයිලේරු නල රත් වීමෙන් ඒවා පුපුරා යාමට හෝ දියවී යාමට (overheating) ඇති ඉඩකඩ වැළැක්වීමයි. අනෙක් පිළිතුරු වැරදි වීමට හේතු: 1. ජල සැපයුම වහාම වැඩි කිරීම (Increase feedwater) ඉතා භයානක විය හැක, මන්ද රත් වූ ලෝහ මතට සිසිල් ජලය එකවර වැටීමෙන් තාප කම්පනය (thermal shock) ඇති වී බොයිලේරුව පුපුරා යා හැක. 2. වාෂ්ප පිට කිරීම (Open steam vent) මගින් පීඩනය අඩු කිරීමට උත්සාහ කිරීමෙන් ජල මට්ටම තවදුරටත් පහළ යා හැක. 3. බ්ලෝ ඩවුන් කිරීම (Blow down) මගින් දැනටමත් අඩු වී ඇති ජල මට්ටම තවදුරටත් අඩු කරන අතර එය කිසිසේත් නොකළ යුතුය."
     },
     {
         "category": "CES – Engine, Support level",
@@ -1454,7 +1453,7 @@
         ],
         "correct_answer": "All the mentioned alternatives.",
         "images": [],
-        "explanation": ""
+        "explanation": "ගින්නක් ඇතිවීම යනු රසායනික, තාප සහ ඔක්සිකරණ ක්‍රියාවලීන් එකිනෙක බැඳී පවතින සංකීර්ණ ක්‍රියාවලියකි. 1. රසායනික ක්‍රියාවලියක් ලෙස: ගින්න යනු ඉන්ධන සහ ඔක්සිජන් අතර සිදුවන රසායනික ප්‍රතික්‍රියාවකි. 2. ඔක්සිකරණ ක්‍රියාවලියක් ලෙස: දහනය යනු ද්‍රව්‍යයක් ඔක්සිජන් සමඟ වේගයෙන් ප්‍රතික්‍රියා කර තාපය සහ ආලෝකය පිටකරන ඔක්සිකරණ ක්‍රියාවලියකි. 3. තාප ක්‍රියාවලියක් ලෙස: මෙම ප්‍රතික්‍රියාව මගින් විශාල තාප ශක්තියක් පිටකරන අතර එය දාම ප්‍රතික්‍රියාවක් ලෙස අඛණ්ඩව පවත්වා ගනී. එබැවින් ඉහත සඳහන් සියලුම විකල්ප නිවැරදි වේ. අනෙක් විකල්පයන් ගින්නෙහි එක් පැතිකඩක් පමණක් විස්තර කරන බැවින්, 'All the mentioned alternatives' යන්න වඩාත් නිවැරදි පිළිතුර වේ."
     },
     {
         "category": "CES – Engine, Support level",
@@ -1463,12 +1462,12 @@
         "answers": [
             "To have a hot-work permit.",
             "To rely on natural ventilation.",
-            "To notify the ship’s cook.",
+            "To notify the ship's cook.",
             "To carry out the work without any precautions."
         ],
         "correct_answer": "To have a hot-work permit.",
         "images": [],
-        "explanation": ""
+        "explanation": "නැවක් වරායකදී උණුසුම් වැඩ (Hot work) සිදු කිරීමේදී ආරක්ෂාව සහතික කිරීම සඳහා 'Hot-work permit' එකක් ලබා ගැනීම අනිවාර්ය වේ. මෙය සිදු කරනු ලබන්නේ එම කාර්යය සඳහා අවදානම් තක්සේරුවක් සිදු කර, ගිනි නිවන උපකරණ සූදානම් කර සහ ආරක්ෂිත පියවරයන් තහවුරු කර ගැනීමෙන් පසුවය. අනෙක් පිළිතුරු වැරදි වීමට හේතු: 1. ස්වභාවික වාතාශ්‍රය මත පමණක් යැපීම ප්‍රමාණවත් නොවේ, මන්ද උණුසුම් වැඩ වලදී විෂ වායු හෝ ගිනි ගැනීමේ අවදානමක් ඇති විය හැකි බැවිනි. 2. නැවේ කුක් දැනුවත් කිරීමෙන් ආරක්ෂාව සම්බන්ධ කිසිදු ප්‍රායෝගික පියවරක් ඉටු නොවේ. 3. කිසිදු පූර්වාරක්ෂාවකින් තොරව වැඩ කිරීම ඉතා භයානක වන අතර එය නැවේ සහ කාර්ය මණ්ඩලයේ ජීවිත අවදානමට ලක් කරයි."
     },
     {
         "category": "CES – Engine, Support level",
@@ -1498,7 +1497,7 @@
         "images": [
             "https://i.ibb.co/pTBWqDL/panel.jpg"
         ],
-        "explanation": ""
+        "explanation": "මෙම සංකේතය මගින් නිරූපණය කරන්නේ 'Fire alarm panel' හෙවත් ගිනි අනතුරු ඇඟවීමේ පුවරුවයි. නෞකාවක ගිනි නිවීමේ පද්ධතියේ ප්‍රධාන පාලන ඒකකය මෙය වන අතර, ගින්නක් ඇති වූ විට අනතුරු ඇඟවීම් ලබා දීමට සහ පද්ධතිය පාලනය කිරීමට මෙය භාවිතා කරයි. අනෙකුත් පිළිතුරු වැරදි වීමට හේතු: 'Emergency exit sign' යනු හදිසි පිටවීමේ දොරටු හඳුනා ගැනීමට භාවිතා කරන සංකේතයකි. 'Fire extinguisher location' යනු ගිනි නිවන උපකරණ ඇති ස්ථානය පෙන්වන සංකේතයකි. 'Smoke detector' යනු දුම හඳුනා ගන්නා සංවේදකය වන අතර එය පුවරුවක් නොවේ."
     },
     {
         "category": "CES – Engine, Support level",
@@ -1512,7 +1511,7 @@
         ],
         "correct_answer": "1 Min.",
         "images": [],
-        "explanation": ""
+        "explanation": "SOLAS (Safety of Life at Sea) රෙගුලාසිවලට අනුව, ඕනෑම පුද්ගලයෙකුට ජීවිතාරක්ෂක කබායක් (Lifejacket) කිසිදු සහායකයෙකු නොමැතිව මිනිත්තුවක් (1 Min) ඇතුළත නිවැරදිව පැළඳ ගැනීමට හැකි විය යුතුය. මෙය හදිසි අවස්ථාවකදී ඉක්මනින් ක්‍රියාත්මක වීමට අත්‍යවශ්‍ය වේ. අනෙක් විකල්පයන් වන මිනිත්තු 3, මිනිත්තු 5 සහ තත්පර 10 යන කාලසීමාවන් SOLAS ප්‍රමිතීන්ට අනුකූල නොවේ. තත්පර 10 යනු ඉතා කෙටි කාලයක් වන අතර මිනිත්තු 3 හෝ 5 යනු හදිසි අවස්ථාවකදී ඉතා දීර්ඝ කාලයක් බැවින් එම පිළිතුරු වැරදිය."
     },
     {
         "category": "CES – Engine, Support level",
@@ -1526,7 +1525,7 @@
         ],
         "correct_answer": "Is fitted with a light and a whistle.",
         "images": [],
-        "explanation": ""
+        "explanation": "SOLAS රෙගුලාසිවලට අනුව, ඕනෑම ප්‍රති-නිරාවරණ ඇඳුමක් (anti-exposure suit) හදිසි අවස්ථාවකදී පුද්ගලයෙකු සොයා ගැනීමට උපකාරී වන ආලෝකයක් (light) සහ විසිල් පතක් (whistle) වලින් සමන්විත විය යුතුය. අනෙක් විකල්ප වැරදි වන්නේ: කපු රෙදි (cotton) ජලයේදී තාපය රඳවා නොගන්නා අතර ඉක්මනින් තෙත් වේ. සියලුම ප්‍රති-නිරාවරණ ඇඳුම්වලට අනිවාර්යයෙන්ම පාවෙන උපකරණයක් (flotation device) තිබිය යුතු වුවත්, SOLAS ප්‍රමිතීන්ට අනුව වඩාත් මූලික සහ අනිවාර්ය ආරක්ෂක උපාංග ලෙස ආලෝකය සහ විසිල් පත හඳුනා ගැනේ. තවද, මෙම ඇඳුම් නිර්මාණය කර ඇත්තේ සීතල ජලයේදී ශරීර උෂ්ණත්වය ආරක්ෂා කර ගැනීමට මිස උණුසුම් කාලගුණය සඳහා නොවේ."
     },
     {
         "category": "CES – Engine, Support level",
@@ -1540,7 +1539,7 @@
         ],
         "correct_answer": "Horizontal.",
         "images": [],
-        "explanation": ""
+        "explanation": "දිගු වේලාවක් මුහුදේ සිටි පුද්ගලයෙකු ජලයෙන් ගොඩගැනීමේදී ඔහුව තිරස් අතට (Horizontal) එසවීම අනිවාර්ය වේ. මෙයට ප්‍රධාන හේතුව වන්නේ දිගු වේලාවක් ජලයේ සිටීම නිසා ශරීරයේ රුධිර සංසරණය සහ හෘදයේ ක්‍රියාකාරිත්වය දුර්වල වී තිබීමයි. පුද්ගලයෙකු සිරස් අතට (Vertically) එසවූ විට, ගුරුත්වාකර්ෂණය නිසා රුධිරය පහළට ගමන් කර හෘදයට ලැබෙන රුධිර ප්‍රමාණය හදිසියේ අඩු විය හැක. මෙය 'Circulatory collapse' නම් තත්ත්වයට සහ හෘදයාබාධයකට හේතු විය හැක. එබැවින්, රුධිර පීඩනය ස්ථාවරව තබා ගැනීමට සහ හෘදයට ඇතිවන පීඩනය අවම කිරීමට තිරස් අතට එසවීම ආරක්ෂිතම ක්‍රමයයි. අනෙක් විකල්පයන් වන සිරස් අතට (Vertically), විකර්ණව (Diagonally) හෝ වාඩි වී සිටින ඉරියව්වෙන් (Sitting position) එසවීම මගින් රුධිර සංසරණ පද්ධතියට දැඩි බලපෑමක් ඇති විය හැකි බැවින් ඒවා වැරදි සහ අනතුරුදායක ක්‍රම වේ."
     },
     {
         "category": "CES – Engine, Support level",
@@ -1554,7 +1553,7 @@
         ],
         "correct_answer": "None.",
         "images": [],
-        "explanation": ""
+        "explanation": "SOLAS B PACK යනු සාමාන්‍යයෙන් වෙරළාසන්න ගමන් සඳහා භාවිතා කරන ජීවිතාරක්ෂක පරාල (liferafts) සඳහා වන පිරිවිතරයකි. SOLAS රෙගුලාසිවලට අනුව, B PACK සහිත පරාලවල ආහාර සපයනු නොලැබේ. මෙයට හේතුව වන්නේ මෙම පරාල භාවිතා කරන ප්‍රදේශවල ගලවා ගැනීමේ කටයුතු ඉක්මනින් සිදුවනු ඇතැයි අපේක්ෂා කිරීමයි. අනෙක් පිළිතුරු වැරදි වන්නේ SOLAS B PACK සඳහා ආහාර සැපයුමක් අනිවාර්ය කර නොමැති බැවිනි. SOLAS A PACK සඳහා පමණක් ආහාර සලාක ඇතුළත් වේ."
     },
     {
         "category": "CES – Engine, Support level",
@@ -1568,7 +1567,7 @@
         ],
         "correct_answer": "1.",
         "images": [],
-        "explanation": ""
+        "explanation": "SOLAS (Safety of Life at Sea) රෙගුලාසිවලට අනුව, SOLAS B pack එකක් සහිත ජීවිතාරක්ෂක පරාලයක (liferaft) අඩංගු විය යුතු පාවෙන දුම් සංඥා (buoyant smoke signals) ගණන 1 කි. SOLAS A pack එකක සාමාන්‍යයෙන් දුම් සංඥා 2ක් අඩංගු වන නමුත්, B pack එක යනු සීමිත උපකරණ සහිත පැකේජයක් බැවින් එහි අඩංගු වන්නේ එක් දුම් සංඥාවක් පමණි. අනෙක් පිළිතුරු (2, 3, 4) වැරදි වන්නේ ඒවා SOLAS B pack සඳහා නියමිත ප්‍රමිතියට නොගැලපෙන බැවිනි."
     },
     {
         "category": "CES – Engine, Support level",
@@ -1596,7 +1595,7 @@
         ],
         "correct_answer": "Flash point.",
         "images": [],
-        "explanation": ""
+        "explanation": "නිවැරදි පිළිතුර වන්නේ 'Flash point' ය. ද්‍රවයකින් වාෂ්ප පිටවී වාතය සමඟ දැවෙන සුළු මිශ්‍රණයක් සෑදිය හැකි අවම උෂ්ණත්වය 'Flash point' ලෙස හැඳින්වේ. අනෙකුත් විකල්පයන් වැරදි වීමට හේතු: 1. Boiling point (තාපාංකය): මෙය ද්‍රවයක් වාෂ්ප බවට පත්වන උෂ්ණත්වයයි, එය දැවෙන සුළු මිශ්‍රණයක් සෑදීම සමඟ කෙලින්ම සම්බන්ධ නොවේ. 2. Ignition point (ජ්වලන ලක්ෂ්‍යය): මෙය ද්‍රවයක් බාහිර ගිනිදැල්ලක් නොමැතිව ස්වයංක්‍රීයව දැල්වීමට පටන් ගන්නා උෂ්ණත්වයයි. 3. Fire point (ගිනි ලක්ෂ්‍යය): මෙය ද්‍රවයක් දැල්වී අඛණ්ඩව දහනය වීමට අවශ්‍ය අවම උෂ්ණත්වයයි, එය Flash point එකට වඩා තරමක් වැඩි අගයකි."
     },
     {
         "category": "CES – Engine, Support level",
@@ -1666,7 +1665,7 @@
         ],
         "correct_answer": "Use cleaning wires starting with a small gauge and gradually work up to the full size of the nozzle hole.",
         "images": [],
-        "explanation": ""
+        "explanation": "බොයිලේරු දාහක තුණ්ඩ (burner nozzles) පිරිසිදු කිරීමේදී ඉතා සියුම් සිදුරු වලට හානි නොවන පරිදි පිරිසිදු කිරීම අත්‍යවශ්‍ය වේ. නිවැරදි ක්‍රමය වන්නේ කුඩා ප්‍රමාණයේ සිට ක්‍රමයෙන් නියමිත ප්‍රමාණය දක්වා වූ පිරිසිදු කිරීමේ කම්බි (cleaning wires) භාවිතා කිරීමයි. මෙය සිදුරේ ඇති තැන්පතු ආරක්ෂිතව ඉවත් කිරීමට උපකාරී වේ. අනෙක් ක්‍රම වැරදි වන්නේ: අධි පීඩන ජල ජෙට් (high-pressure water jet) භාවිතය මගින් තුණ්ඩයේ මතුපිටට හානි විය හැකි අතර එය කාර්යක්ෂම නොවේ. ලෝහ දණ්ඩක් (metal rod) බලහත්කාරයෙන් ඇතුළු කිරීමෙන් සිදුරේ හැඩය වෙනස් වී ඉන්ධන ඉසීමේ රටාව (spray pattern) විකෘති වේ. ප්‍රබල අම්ල ද්‍රාවණ (strong acid solution) භාවිතය මගින් තුණ්ඩයේ ලෝහමය කොටස් විඛාදනයට ලක්වී තුණ්ඩය ස්ථිරවම අබලන් විය හැක."
     },
     {
         "category": "CES – Engine, Support level",
@@ -1680,7 +1679,7 @@
         ],
         "correct_answer": "Put it straight into the dirty oil tank for incineration at the next opportunity.",
         "images": [],
-        "explanation": ""
+        "explanation": "MARPOL සම්මුතියට අනුව ඕනෑම තෙල් සහිත අපද්‍රව්‍යයක් මුහුදට බැහැර කිරීම තහනම් වේ. එබැවින්, අපිරිසිදු ඩීසල් තෙල් නැවේ ඇති අපද්‍රව්‍ය තෙල් ටැංකියට (Dirty oil tank) දමා පසුව එය දහනය කිරීම (Incineration) නීත්‍යානුකූල සහ ආරක්ෂිත ක්‍රමයයි. අනෙක් විකල්ප වැරදි වන්නේ: 1) මුහුදට බැහැර කිරීම MARPOL නීති උල්ලංඝනය කිරීමකි. 3) තට්ටුවේ තබා යාම ගිනි අනතුරු සහ පාරිසරික දූෂණයට හේතු විය හැක. 4) ජලය සමග මිශ්‍ර කර මුහුදට දැමීම ද දැඩි ලෙස තහනම් ක්‍රියාවකි."
     },
     {
         "category": "CES – Engine, Support level",
@@ -1694,7 +1693,7 @@
         ],
         "correct_answer": "Inform the duty engineer immediately so that the engine room can be re-entered and the valve can be shut.",
         "images": [],
-        "explanation": ""
+        "explanation": "UMS (Unattended Machinery Space) මෙහෙයුම් කාලසීමාවකදී එන්ජින් කාමරයේ ආරක්ෂාව සහ පාරිසරික සුරක්ෂිතතාව ඉතා වැදගත් වේ. තෙල් ටැංකියක පිරවුම් කපාටයක් (filling valve) විවෘතව තිබීම තෙල් කාන්දුවකට හෝ ටැංකිය පිටාර ගැලීමට හේතු විය හැකි බැවින් එය ඉතා බරපතල තත්ත්වයකි. නිවැරදි ක්‍රියාමාර්ගය වන්නේ වහාම රාජකාරි ඉංජිනේරුවරයා දැනුවත් කිරීමයි. එමගින් එන්ජින් කාමරයට නැවත ඇතුළු වී කපාටය වසා දැමීමට පියවර ගත හැකිය. අනෙක් විකල්ප වැරදි වීමට හේතු: 1. ඊළඟ මුරය මාරුවන තෙක් බලා සිටීමෙන් තෙල් කාන්දුවක් වැනි අනතුරක් සිදුවීමට ඉඩ ඇත. 2. පාලක පුවරුවෙන් පමණක් කපාටය වැසීමට උත්සාහ කිරීම ප්‍රායෝගික නොවන අතර, යාන්ත්‍රික දෝෂයක් තිබේ නම් එයින් කපාටය වැසී ඇති බවට සහතික විය නොහැක. 3. මෙය නොසලකා හැරීම නාවික ආරක්ෂක රෙගුලාසි උල්ලංඝනය කිරීමක් වන අතර විශාල පාරිසරික හානියකට මග පෑදිය හැක."
     },
     {
         "category": "CES – Engine, Support level",
@@ -1766,7 +1765,7 @@
         "images": [
             "https://i.ibb.co/gL07t4Kt/tsentrif.jpg"
         ],
-        "explanation": ""
+        "explanation": "මෙම රූපයේ දැක්වෙන්නේ කේන්ද්‍රාපසාරී පොම්පයක් (Centrifugal pump) වේ. මෙහි ප්‍රධාන කොටස වන ඉම්පෙලර් (Impeller) එක මගින් ද්‍රවය කේන්ද්‍රාපසාරී බලය භාවිතයෙන් පිටතට තල්ලු කරනු ලබයි. අනෙක් විකල්ප වැරදි වීමට හේතු: 1. ඩයප්‍රෑම් පොම්ප (Diaphragm pump) ක්‍රියා කරන්නේ නම්‍යශීලී පටලයක් මගිනි, මෙහි එවැනි කොටසක් නොමැත. 2. ගියර් පොම්ප (Gear pump) වල ද්‍රවය ගමන් කරන්නේ ගියර් දත් අතරින් වන අතර මෙහි එවැනි ගියර් පද්ධතියක් නොමැත. 3. ස්ක්‍රූ පොම්ප (Screw pump) වල ද්‍රවය ගමන් කරන්නේ භ්‍රමණය වන ඉස්කුරුප්පු වැනි කොටස් හරහා වන අතර, රූපයේ ඇත්තේ කේන්ද්‍රාපසාරී පොම්පයකට ආවේණික වූ වොලියුට් (Volute) හැඩැති නිවාසයකි."
     },
     {
         "category": "CES – Engine, Support level",
@@ -1780,7 +1779,7 @@
         ],
         "correct_answer": "A set of feeler gauges.",
         "images": [],
-        "explanation": ""
+        "explanation": "මෝටරයක් සහ පොම්පයක් පෙළගැස්වීමේදී (alignment), කප්ලිං මුහුණත් අතර පරතරය මැනීම සඳහා 'feeler gauges' භාවිතා කිරීම සම්ප්‍රදායික සහ නිවැරදි ක්‍රමයයි. මෙහිදී පරතරය සෑම පැත්තකින්ම සමාන දැයි පරීක්ෂා කරනු ලැබේ. අනෙක් විකල්පයන් වැරදි වීමට හේතු: 1. Torque wrench භාවිතා කරන්නේ බෝල්ට් තද කිරීමේ බලය මැනීමට මිස පරතරය මැනීමට නොවේ. 2. Laser alignment tool යනු වඩාත් නවීන සහ නිරවද්‍ය උපකරණයක් වුවද, ප්‍රශ්නයේ අසන ලද 'කප්ලිං මුහුණත් අතර පරතරය මැනීම' සඳහා මූලිකවම භාවිතා කරන්නේ feeler gauges වේ. 3. Caliper යනු වස්තුවක පිටත හෝ ඇතුළත විෂ්කම්භය මැනීමට භාවිතා කරන උපකරණයක් වන අතර, කප්ලිං පරතරය මැනීමට එය සුදුසු නොවේ."
     },
     {
         "category": "CES – Engine, Support level",
@@ -1794,7 +1793,7 @@
         ],
         "correct_answer": "Split dies.",
         "images": [],
-        "explanation": ""
+        "explanation": "වානේ පයිප්පයක පිටතින් අලුත් නූල් (external thread) කැපීම සඳහා වඩාත්ම සුදුසු මෙවලම වන්නේ 'Split dies' වේ. මෙහිදී අනෙකුත් විකල්ප වැරදි වීමට හේතු: 1. 'A tap' යනු පයිප්පයක හෝ සිදුරක ඇතුළත නූල් (internal thread) කැපීමට භාවිතා කරන මෙවලමකි. 2. 'A hacksaw' යනු ලෝහ කැපීම සඳහා භාවිතා කරන කියතකි, එයින් නූල් කැපිය නොහැක. 3. 'A pipe cutter' යනු පයිප්පයක් නිශ්චිත දිගකට කැපීම සඳහා භාවිතා කරන මෙවලමකි, එයින් නූල් කැපීම සිදු නොකෙරේ. 'Split dies' මගින් පයිප්පයක පිටත පෘෂ්ඨය මත නූල් කැපීම ඉතා නිවැරදිව සිදු කළ හැක."
     },
     {
         "category": "CES – Engine, Support level",
@@ -1808,7 +1807,7 @@
         ],
         "correct_answer": "Pirates are persons who attempt to board and take over a ship at sea.",
         "images": [],
-        "explanation": ""
+        "explanation": "මුහුදු කොල්ලකරුවන් (Pirates) යනු නීති විරෝධී ලෙස මුහුදේදී නැවකට ගොඩවී එය අත්පත් කර ගැනීමට උත්සාහ කරන පුද්ගලයන් වේ. අනෙක් පිළිතුරු වැරදි වන්නේ: ධීවර බෝට්ටුවල වැඩ කරන අය ධීවරයන් ලෙස හැඳින්වේ. වෙළඳපොලේ භාණ්ඩ විකුණන්නන් වෙළඳුන් ලෙස හැඳින්වේ. නැව් ආරක්ෂිතව මෙහෙයවන අය නාවිකයන් හෝ නියමුවන් ලෙස හැඳින්වේ."
     },
     {
         "category": "CES – Engine, Support level",
@@ -1822,7 +1821,7 @@
         ],
         "correct_answer": "The wide rung on a pilot ladder that prevents it from twisting is called a «Spreader».",
         "images": [],
-        "explanation": ""
+        "explanation": "නියමු ඉණිමඟක (Pilot ladder) කරකැවීම වැළැක්වීම සඳහා භාවිතා කරන පළල් පඩිපෙළ 'Spreader' ලෙස හැඳින්වේ. මෙය සාමාන්‍ය පඩිපෙළවල් වලට වඩා දිගින් වැඩි වන අතර, ඉණිමඟ නැවෙහි පැත්තට තදින් ඇලී සිටීමට සහ සුළඟ හෝ වෙනත් සාධක නිසා එය කරකැවීම වැළැක්වීමට උපකාරී වේ. අනෙක් විකල්පයන් වන Stabilizer, Support සහ Brace යන වචන තාක්ෂණික වශයෙන් වැරදි වන අතර, ඒවා නියමු ඉණිමඟක මෙම විශේෂිත කොටස හැඳින්වීමට භාවිතා නොකරයි."
     },
     {
         "category": "CES – Engine, Support level",
@@ -1836,7 +1835,7 @@
         ],
         "correct_answer": "Move the pilot ladder to the other side, means: to shift the pilot ladder to the opposite side of the ship.",
         "images": [],
-        "explanation": ""
+        "explanation": "මෙම විධානයෙන් අදහස් කරන්නේ නෞකාවේ එක් පැත්තක ඇති නියමු ඉණිමඟ (pilot ladder) ගලවා අනෙක් පැත්තට මාරු කරන ලෙසයි. මෙය සාමාන්‍යයෙන් සිදු කරන්නේ නෞකාවට පැමිණෙන නියමුවා (pilot) නෞකාවට ගොඩවීමට වඩාත් සුදුසු පැත්ත තෝරාගත් විටය. අනෙක් පිළිතුරු වැරදි වන්නේ: 1. ඉණිමඟ ඉහළට එසවීම යනු 'raise' කිරීමයි, පැත්ත මාරු කිරීම නොවේ. 2. ඉණිමඟ සම්පූර්ණයෙන්ම ඉවත් කිරීම යනු 'remove' කිරීමයි. 3. කෝණය වෙනස් කිරීම යනු 'adjust' කිරීමයි. එබැවින් නිවැරදි පිළිතුර වන්නේ ඉණිමඟ නෞකාවේ ප්‍රතිවිරුද්ධ පැත්තට මාරු කිරීමයි."
     },
     {
         "category": "CES – Engine, Support level",
@@ -1850,7 +1849,7 @@
         ],
         "correct_answer": "If I saw a person falling overboard I would shout repeatedly, «Man overboard».",
         "images": [],
-        "explanation": ""
+        "explanation": "නැවක සිටින පුද්ගලයෙකු මුහුදට වැටුණු විට (Man overboard) වහාම අවට සිටින අයට දැනුම් දීම සඳහා 'Man overboard' යැයි නැවත නැවතත් කෑගැසීම අනිවාර්ය වේ. මෙය ක්ෂණිකව අවධානය යොමු කර ගැනීමට ඇති වේගවත්ම සහ ඵලදායී ක්‍රමයයි. අනෙක් විකල්ප වැරදි වන්නේ: නැවේ සීනුව නාද කිරීම හෝ විසිල් එකක් භාවිතා කිරීම මගින් නිශ්චිත සිදුවීම කුමක්දැයි අන් අයට වහාම වටහා ගැනීමට අපහසු විය හැකි අතර, එය කාලය අපතේ යාමට හේතු වේ. තවද, වෙනත් අයෙකු දකින තුරු බලා සිටීම ඉතා භයානක වන අතර එමගින් පුද්ගලයා බේරා ගැනීමට ඇති අවස්ථාව අහිමි විය හැක."
     },
     {
         "category": "CES – Engine, Support level",
@@ -1866,7 +1865,7 @@
         "images": [
             "https://i.ibb.co/DPtrtTvS/polozhenie-2.jpg"
         ],
-        "explanation": ""
+        "explanation": "සිහිසුන්ව සිටින නමුත් ස්වසනය පවතින පුද්ගලයෙකු 'Recovery Position' හෙවත් සුවය ලැබීමේ ඉරියව්වට පත් කිරීම අනිවාර්ය වේ. මෙයට හේතුව වන්නේ එම පුද්ගලයාගේ දිව පසුපසට ගොස් ස්වසන මාර්ගය අවහිර වීම වැළැක්වීම සහ වමනය වැනි ද්‍රවයක් පිට වුවහොත් එය ස්වසන මාර්ගයට ඇතුළු නොවී පිටතට ගලා යාමට සැලැස්වීමයි. අනෙක් විකල්ප වැරදි වන්නේ: පිට මත තැබීමෙන් (On their back) දිව පසුපසට වැටී ස්වසන මාර්ගය අවහිර විය හැකි අතර වමනය පෙනහළු තුළට යාමේ අවදානමක් ඇත. වාඩි කරවීම (Sitting position) සිහිසුන් පුද්ගලයෙකුට කළ නොහැකි අතර එය රුධිර සංසරණයට බාධාවක් විය හැකිය. උඩුකුරුව හෝ මුනින් අතට (Flat on their stomach) තැබීමෙන් ස්වසනය පවත්වා ගැනීමට අපහසු විය හැකි අතර ගෙල ප්‍රදේශයට හානි සිදුවිය හැකිය."
     },
     {
         "category": "CES – Engine, Support level",
@@ -1880,7 +1879,7 @@
         ],
         "correct_answer": "Fractured spine.",
         "images": [],
-        "explanation": ""
+        "explanation": "කොඳු ඇට පෙළේ අස්ථි බිඳීමක් (Fractured spine) සැක කෙරෙන රෝගියෙකු නොසැලකිලිමත් ලෙස චලනය කිරීම ඉතා භයානක ය. එසේ කිරීමෙන් කොඳු ඇට පෙළේ ඇති ස්නායු පද්ධතියට (spinal cord) ස්ථිර හානි සිදුවී අංශභාග තත්ත්වයක් ඇති විය හැකිය. අනෙක් විකල්පයන් වන වළලුකර උළුක්කුවීම (Sprained ankle), සුළු කැපුම් තුවාල (Minor cuts and bruises) හෝ හිසරදය (Headache) වැනි අවස්ථාවලදී රෝගියා චලනය කිරීමෙන් කොඳු ඇට පෙළට මෙවැනි බරපතල හානි සිදුවීමේ අවදානමක් නොමැත. එබැවින් කොඳු ඇට පෙළේ ආබාධයක් සැක කෙරෙන විට රෝගියා චලනය කිරීමේදී විශේෂිත වෛද්‍ය උපකරණ සහ පුහුණුවක් සහිතව ඉතා ප්‍රවේශමෙන් කටයුතු කළ යුතුය."
     },
     {
         "category": "CES – Engine, Support level",
@@ -1894,7 +1893,7 @@
         ],
         "correct_answer": "Low sulphur fuels reduce emissions of volatile organic compounds.",
         "images": [],
-        "explanation": ""
+        "explanation": "අඩු සල්ෆර් අඩංගු ඉන්ධන (Low sulphur fuels) භාවිතය මගින් දහනයේදී පිටවන සල්ෆර් ඔක්සයිඩ් (SOx) සහ වාෂ්පශීලී කාබනික සංයෝග (VOCs) වැනි හානිකර විමෝචන මට්ටම සැලකිය යුතු ලෙස අඩු කර ගත හැක. අනෙක් පිළිතුරු වැරදි වීමට හේතු: 1. අධික සල්ෆර් අඩංගු ඉන්ධන මගින් පරිසරයට වැඩි හානියක් සිදු කරයි, එබැවින් ඒවා විමෝචනය අඩු කිරීමට සුදුසු නොවේ. 2. විමෝචන පාලනයන් ඩීසල් එන්ජින් වලට පමණක් නොව, බොයිලේරු සහ අනෙකුත් දහන උපකරණ සඳහාද අදාළ වේ. 3. ඉන්ධන වල ඇති සල්ෆර් සහ අනෙකුත් අපද්‍රව්‍ය ප්‍රමාණය අනුව පිටවන විමෝචන මට්ටම වෙනස් වේ, එබැවින් සියලුම ඉන්ධන එකම මට්ටමේ විමෝචනයක් ඇති නොකරයි."
     },
     {
         "category": "CES – Engine, Support level",
@@ -1908,7 +1907,7 @@
         ],
         "correct_answer": "No it is not – two hands should always be used to climb the ladder.",
         "images": [],
-        "explanation": ""
+        "explanation": "සිරස් ඉණිමඟක (vertical ladder) නැගීමේදී ආරක්ෂාව සඳහා අත් දෙකම භාවිතා කිරීම අනිවාර්ය වේ. මෙයට හේතුව වන්නේ ඉණිමඟේ නැගීමේදී ශරීරයේ සමබරතාවය පවත්වා ගැනීමට සහ ලිස්සා යාමකින් තොරව ස්ථාවරව සිටීමට අත් දෙකම රේල් පීලිවල හෝ පඩිවල තදින් අල්ලාගෙන සිටීම අත්‍යවශ්‍ය වීමයි. අතේ බෑගයක් හෝ වෙනත් උපකරණයක් රැගෙන යාමෙන් එක් අතක් නිදහස් නොවන බැවින්, එය වැටීමකට හෝ බරපතල අනතුරකට තුඩු දිය හැකිය. අනෙක් විකල්පයන් වැරදි වන්නේ: බෑගය සැහැල්ලු වුවත්, එය අතේ තබාගෙන නැගීමෙන් සමබරතාවය ගිලිහී යා හැකිය. 'පරිස්සමෙන් සිටීම' යනු ආරක්ෂිත ක්‍රමවේදයක් නොවන අතර, උරහිසේ බෑගය තබා ගැනීමෙන් ශරීරයේ ගුරුත්වාකර්ෂණ කේන්ද්‍රය වෙනස් වී අනතුරු සිදුවිය හැකිය. මෙවැනි අවස්ථාවලදී උපකරණ ඉහළට යැවීමට වෙනත් ආරක්ෂිත ක්‍රමයක් (උදාහරණයක් ලෙස ලණුවක් භාවිතා කිරීම) අනුගමනය කළ යුතුය."
     },
     {
         "category": "CES – Engine, Support level",
@@ -1936,7 +1935,7 @@
         ],
         "correct_answer": "The heat transfer surfaces should be cleaned.",
         "images": [],
-        "explanation": ""
+        "explanation": "තාප හුවමාරුකාරකයක (Heat exchanger) කාර්යක්ෂමතාව අඩුවීමට ප්‍රධානතම හේතුව වන්නේ එහි නල තුළ හෝ පිටත තැන්පත් වන අපද්‍රව්‍ය, තෙල් තැන්පතු හෝ පරිමාණයන් (scaling/fouling) වේ. මේවා තාප හුවමාරුවට බාධාවක් වන පරිවාරක තට්ටුවක් ලෙස ක්‍රියා කරයි. එබැවින්, තාප හුවමාරු පෘෂ්ඨයන් පිරිසිදු කිරීම මගින් තාප හුවමාරු ධාරිතාව නැවත යථා තත්ත්වයට පත් කළ හැක. අනෙක් පිළිතුරු වැරදි වන්නේ: තෙල් ප්‍රවාහය වැඩි කිරීමෙන් පීඩන අලාභය වැඩි වන අතර ගැටලුව විසඳෙන්නේ නැත. සිසිලනකාරක එකතු කිරීමෙන් තාප හුවමාරු ධාරිතාව වැඩි නොවේ. පීඩනය අඩු කිරීමෙන් තාප හුවමාරුවට කිසිදු ධනාත්මක බලපෑමක් සිදු නොවන අතර එය පද්ධතියේ ක්‍රියාකාරිත්වයට බාධාවක් විය හැක."
     },
     {
         "category": "CES – Engine, Support level",
@@ -1950,7 +1949,7 @@
         ],
         "correct_answer": "Cooling water velocity too high.",
         "images": [],
-        "explanation": ""
+        "explanation": "තාප හුවමාරුකාරකයක (Heat exchanger) නල ඛාදනය වීමට (Erosion) ප්‍රධානතම හේතුව වන්නේ සිසිලන ජලයේ ප්‍රවාහ වේගය අධික වීමයි. ජලයේ වේගය ඉතා වැඩි වූ විට, නල තුළ ඇති ද්‍රව්‍යවල භෞතික හානි සිදුවන අතර එය 'Impingement attack' ලෙස හැඳින්වේ. අනෙක් විකල්පයන් සලකා බලමු: 1. ජල පීඩනය අඩු වීමෙන් ඛාදනය සිදු නොවේ, එය බොහෝ විට වායු බුබුලු සෑදීමට (Cavitation) හේතු විය හැක. 2. ජල පිරියම් කිරීමේ අඩුපාඩු නිසා නල තුළ තැන්පතු (Scaling) ඇති වේ, නමුත් මෙය ඛාදනය නොව විඛාදනයට (Corrosion) හෝ අවහිර වීමට හේතු වේ. 3. අධික උෂ්ණත්වය නිසා ද්‍රව්‍යවල ආතතිය වැඩි විය හැකි නමුත්, එය කෙලින්ම ඛාදනයට හේතු නොවේ."
     },
     {
         "category": "CES – Engine, Support level",
@@ -1978,7 +1977,7 @@
         ],
         "correct_answer": "1 000 000 Ohms.",
         "images": [],
-        "explanation": ""
+        "explanation": "නාවික ප්‍රමිතීන්ට අනුව (IEEE සහ අනෙකුත් නියාමන ආයතන), විදුලි ජනක යන්ත්‍රයක (Generator) පරිවාරක ප්‍රතිරෝධය (Insulation Resistance) අවම වශයෙන් වෝල්ටීයතාවයේ සෑම කිලෝ වෝල්ට් එකකටම 1 Megaohm (1,000,000 Ohms) බැගින් තිබිය යුතුය. මෙහිදී 450V යනු 0.45kV වේ. කෙසේ වෙතත්, සාමාන්‍ය නාවික භාවිතයේදී සහ ආරක්ෂිත මෙහෙයුම් සඳහා 1 Megaohm යනු අවම පිළිගත හැකි මට්ටම ලෙස සැලකේ. අනෙක් පිළිතුරු වැරදි වන්නේ: 100,000 Ohms (0.1 MΩ) සහ 500,000 Ohms (0.5 MΩ) යනු ඉතා අඩු අගයන් වන අතර එමඟින් විදුලි කාන්දුවක් හෝ කෙටි පරිපථයක් ඇතිවීමේ අවදානම ඉහළ යයි. 2,000,000 Ohms (2 MΩ) යනු හොඳ අගයක් වුවද, එය අවම පිළිගත හැකි අගය නොවේ."
     },
     {
         "category": "CES – Engine, Support level",
@@ -2020,7 +2019,7 @@
         ],
         "correct_answer": "He shall have all the knowledge as listed in the other alternatives.",
         "images": [],
-        "explanation": ""
+        "explanation": "නැවක රාජකාරි භාර ඉංජිනේරුවරයෙකු (Engineer on Duty) ලෙස පත් වීමට පෙර, ඔහුට නැවේ එන්ජින් කාමරයේ ඇති සියලුම ප්‍රධාන පද්ධති සහ උපකරණ පිළිබඳ මූලික දැනුමක් තිබීම අනිවාර්ය වේ. මෙහිදී නිවැරදි පිළිතුර වන්නේ අනෙක් සියලුම විකල්පයන්හි සඳහන් කරුණු ඇතුළත් විය යුතු බවයි. එනම්, හදිසි ගිනි නිවන පොම්පය (emergency fire pump), සුක්කානම් පද්ධතිය (steering gear), ප්‍රධාන එන්ජිම (main engine), සහායක පද්ධති (auxiliary systems) මෙන්ම එන්ජින් අධීක්ෂණ පද්ධති (monitoring systems) සහ සන්නිවේදන ක්‍රමවේදයන් පිළිබඳව ඔහුට මනා අවබෝධයක් තිබිය යුතුය. අනෙක් විකල්පයන් වැරදි වන්නේ ඒවා මගින් සම්පූර්ණ දැනුම ආවරණය නොකර එක් අංශයකට පමණක් සීමා වී ඇති බැවිනි. එන්ජින් කාමරයේ ආරක්ෂාව සහ කාර්යක්ෂමතාව සඳහා මෙම සියලුම පද්ධති පිළිබඳ දැනුම අත්‍යවශ්‍ය වේ."
     },
     {
         "category": "CES – Engine, Support level",
@@ -2034,7 +2033,7 @@
         ],
         "correct_answer": "By muster lists exhibited in conspicuous places.",
         "images": [],
-        "explanation": ""
+        "explanation": "නැවකට අලුතින් සම්බන්ධ වූ විට හදිසි අවස්ථාවකදී අනුගමනය කළ යුතු ආරක්ෂක නීති, අනතුරු ඇඟවීමේ සංඥා (alarm instructions) සහ ඔබේ රාජකාරි පිළිබඳව දැනුවත් කිරීම සඳහා ප්‍රධානතම සහ අනිවාර්ය ක්‍රමය වන්නේ 'Muster List' වේ. SOLAS සම්මුතියට අනුව, මෙම Muster List නැවේ කාර්ය මණ්ඩලයට පහසුවෙන් දැකගත හැකි ස්ථානවල (conspicuous places) ප්‍රදර්ශනය කළ යුතුය. අනෙක් පිළිතුරු වැරදි වන්නේ: වාචික උපදෙස් (verbal instructions) පමණක් ප්‍රමාණවත් නොවන අතර ඒවා මතක තබා ගැනීමට අපහසුය. හදිසි අවස්ථා වීඩියෝවක් (emergency response video) යනු අමතර පුහුණු ක්‍රමයක් පමණි. සියලුම කාර්ය මණ්ඩලයට අත්පොත් (manuals) ලබා දීම අනිවාර්ය නොවන අතර, Muster List එක මගින් සෑම කෙනෙකුටම තමන්ගේ නිශ්චිත රාජකාරිය සහ ස්ථානය පිළිබඳව පැහැදිලි අවබෝධයක් ලබා දෙයි."
     },
     {
         "category": "CES – Engine, Support level",
@@ -2048,7 +2047,7 @@
         ],
         "correct_answer": "«Dead Ship» means that the machinery and boilers are inoperational due to lack of electrical power.",
         "images": [],
-        "explanation": ""
+        "explanation": "නාවික ක්ෂේත්‍රයේ 'Dead Ship' යන පදය මගින් අදහස් කරන්නේ නැවක ප්‍රධාන එන්ජිම, බොයිලේරු සහ අනෙකුත් සහායක යන්ත්‍රෝපකරණ ක්‍රියාත්මක කිරීමට අවශ්‍ය විදුලි බලය නොමැති වීම නිසා නැව සම්පූර්ණයෙන්ම අක්‍රිය වී ඇති තත්ත්වයයි. මෙවැනි අවස්ථාවකදී නැව නැවත පණ ගැන්වීම සඳහා හදිසි ජනක යන්ත්‍රයක් (Emergency Generator) හෝ වෙනත් බාහිර බලශක්ති ප්‍රභවයක් භාවිතා කළ යුතුය. අනෙක් පිළිතුරු වැරදි වන්නේ: 1) නැවක් අතහැර දැමීම (Abandoned) යනු කාර්ය මණ්ඩලය නැවෙන් ඉවත් වීමයි, එය 'Dead Ship' තත්ත්වයට සමාන නොවේ. 2) සේවයෙන් ඉවත් කළ නැවක් (Decommissioned) යනු නැවත කිසිදා භාවිතා නොකරන නැවකි. 3) කාර්ය මණ්ඩලය රාජකාරියෙන් නිදහස් කිරීම යනු නැවේ තාක්ෂණික තත්ත්වයට සම්බන්ධ දෙයක් නොවේ."
     },
     {
         "category": "CES – Engine, Support level",
@@ -2062,7 +2061,7 @@
         ],
         "correct_answer": "The rotor blades are damaged or the blades are not properly cleaned.",
         "images": [],
-        "explanation": ""
+        "explanation": "ටර්බෝචාජර් එකක් වතුරෙන් සේදීමේදී (water-washing) එහි තල (blades) මත තැන්පත් වී තිබූ කාබන් හෝ අපද්‍රව්‍ය අසමාන ලෙස ඉවත් වීම හෝ සේදීමේදී තලවලට හානි සිදුවීම නිසා රොටරයේ සමතුලිතතාවය (balance) බිඳ වැටේ. මෙය අධික කම්පනයකට (vibration) හේතු වේ. අනෙක් විකල්ප වැරදි වීමට හේතු: 1. අධික උෂ්ණත්වය නිසා සිදුවන ප්‍රසාරණය සාමාන්‍ය ක්‍රියාකාරීත්වයේදී සිදුවන්නකි, එය හදිසි කම්පනයකට හේතු නොවේ. 2. ලිහිසි තෙල් පීඩනය අඩු වීම bearings වලට හානි කළ හැකි වුවත්, එය සේදීමේ ක්‍රියාවලිය සමඟ සෘජුව සම්බන්ධ නොවේ. 3. පිටාර කපාට (exhaust valve) කාලසටහන වෙනස් වීම ටර්බෝචාජර් සේදීමෙන් සිදුවන දෙයක් නොවේ."
     },
     {
         "category": "CES – Engine, Support level",
@@ -2076,7 +2075,7 @@
         ],
         "correct_answer": "To avoid pollution.",
         "images": [],
-        "explanation": ""
+        "explanation": "නැවක සිදුවන ඕනෑම දූෂණයක් ඇති කළ හැකි ක්‍රියාවලියක් (උදාහරණයක් ලෙස ඉන්ධන පිරවීම හෝ අපද්‍රව්‍ය බැහැර කිරීම) සුදුසුකම් ලත් නිලධාරියෙකු විසින් අධීක්ෂණය කළ යුත්තේ පරිසර දූෂණය වැළැක්වීම සඳහාය. මෙය ජාත්‍යන්තර සමුද්‍රීය නීති (MARPOL) අනුව අනිවාර්ය වේ. අනෙක් පිළිතුරු වැරදි වන්නේ: කාලය ඉතිරි කිරීම (shortest time), වියදම් අඩු කිරීම (reduce costs) හෝ කාර්ය මණ්ඩලය එකම ක්‍රමවේදයක් අනුගමනය කිරීම (same procedure) යනු මෙහි මූලික අරමුණ නොවන බැවිනි. මෙම ක්‍රියාවලීන්හිදී ආරක්ෂාව සහ පරිසරය ආරක්ෂා කිරීම ප්‍රධාන අරමුණ වන අතර, සුදුසුකම් ලත් නිලධාරියෙකුගේ අධීක්ෂණය මගින් වැරදි සිදුවීම අවම කර පරිසර දූෂණය වළක්වා ගත හැකිය."
     },
     {
         "category": "CES – Engine, Support level",
@@ -2090,7 +2089,7 @@
         ],
         "correct_answer": "It satisfies the SOLAS (and other) requirements for ship safety.",
         "images": [],
-        "explanation": ""
+        "explanation": "නැවක හදිසි විදුලි බල ප්‍රභවයක් (Emergency Generator) අනිවාර්ය කර ඇත්තේ SOLAS (Safety of Life at Sea) සම්මුතියේ නීති රීතිවලට අනුව නැවක ආරක්ෂාව තහවුරු කිරීම සඳහාය. ප්‍රධාන විදුලි උත්පාදක යන්ත්‍ර අසාර්ථක වූ විට, හදිසි අවස්ථාවකදී නැවේ ආරක්ෂාවට අත්‍යවශ්‍ය උපකරණ (උදා: හදිසි ආලෝකකරණය, ගිනි නිවන පොම්ප, සන්නිවේදන උපකරණ සහ සුක්කානම් පද්ධති) ක්‍රියාත්මක කිරීම මෙහි මූලික අරමුණයි. අනෙක් පිළිතුරු වැරදි වන්නේ: 1. හදිසි බලය ලබා දෙන්නේ අත්‍යවශ්‍ය නොවන පද්ධති සඳහා නොවේ. 2. එය නාවික උපකරණ සඳහා පමණක් නොව, ආරක්ෂාවට අදාළ සියලුම අත්‍යවශ්‍ය පද්ධති සඳහා වේ. 4. නඩත්තු කටයුතු සඳහා වායු සමීකරණ පද්ධති ක්‍රියාත්මක කිරීම හදිසි බල ප්‍රභවයේ කාර්යයක් නොවේ."
     },
     {
         "category": "CES – Engine, Support level",
@@ -2132,7 +2131,7 @@
         ],
         "correct_answer": "Incoming machine picks up as a generator.",
         "images": [],
-        "explanation": ""
+        "explanation": "ජනක යන්ත්‍රයක් (Generator) පද්ධතියට සම්බන්ධ කිරීමේදී (Synchronizing), එය බස් බාර් (Bus bar) සංඛ්‍යාතයට වඩා තරමක් වේගයෙන් (slightly fast) ධාවනය කිරීම අත්‍යවශ්‍ය වේ. මෙසේ කිරීමෙන් එම ජනක යන්ත්‍රය පද්ධතියට සම්බන්ධ වූ වහාම විද්‍යුත් බලය නිපදවන යන්ත්‍රයක් (Generator) ලෙස ක්‍රියා කිරීමට පටන් ගනී. එය එසේ නොවී බස් බාර් සංඛ්‍යාතයට වඩා මන්දගාමී වුවහොත්, එම යන්ත්‍රය මෝටරයක් (Motor) ලෙස ක්‍රියා කරමින් පද්ධතියෙන් බලය ලබා ගැනීමට උත්සාහ කරයි, මෙය ඉතා භයානක තත්ත්වයකි. අනෙක් පිළිතුරු වැරදි වන්නේ: 'ලෝඩ් අවශ්‍යතා සපුරාලීම' යනු ජනක යන්ත්‍රය සම්බන්ධ කිරීමෙන් පසු සිදුවන ක්‍රියාවලියකි. 'බස් බාර් සංඛ්‍යාතය වැඩි වීම' යනු ජනක යන්ත්‍රයේ වේගය මත පමණක් රඳා පවතින දෙයක් නොවේ. 'කෙටි පරිපථයක් (Short circuit) වැළැක්වීම' සඳහා ප්‍රධාන වශයෙන් අවශ්‍ය වන්නේ වෝල්ටීයතාවය, සංඛ්‍යාතය සහ ෆේස් කෝණය (Phase angle) සමාන කිරීමයි, නමුත් 'fast' ලෙස ධාවනය කිරීමේ ප්‍රධාන අරමුණ වන්නේ යන්ත්‍රය ජනක යන්ත්‍රයක් ලෙසම ක්‍රියා කිරීම සහතික කිරීමයි."
     },
     {
         "category": "CES – Engine, Support level",
@@ -2160,7 +2159,7 @@
         ],
         "correct_answer": "Changing of the filter element can be carried out without interrupting engine operation.",
         "images": [],
-        "explanation": ""
+        "explanation": "නැව් එන්ජින්වල ලිහිසි තෙල් පද්ධතියේ 'Duplex filters' භාවිතා කිරීමේ ප්‍රධාන අරමුණ වන්නේ එන්ජිම ක්‍රියාත්මක වන අතරතුරම ෆිල්ටරය පිරිසිදු කිරීමට හෝ මාරු කිරීමට ඉඩ ලබා දීමයි. මෙහිදී එක් ෆිල්ටරයක් ක්‍රියාත්මක වන විට අනෙක හුදකලා කර තැබිය හැකි බැවින් එන්ජිම නැවැත්වීමකින් තොරව නඩත්තු කටයුතු සිදු කළ හැකිය. අනෙක් පිළිතුරු වැරදි වන්නේ: Duplex ෆිල්ටරයක් භාවිතා කිරීමෙන් පමණක් පෙරීමේ කාර්යක්ෂමතාව වැඩි නොවේ (එය රඳා පවතින්නේ ෆිල්ටර් මූලද්‍රව්‍යයේ වර්ගය මතය), ප්‍රවාහ අනුපාතය (flow rate) වැඩි වීම ෆිල්ටරයේ ප්‍රමාණය මත මිස Duplex වීම මත පමණක් තීරණය නොවේ, සහ නඩත්තු කිරීමේ පහසුව යනු මෙහි ප්‍රධාන අරමුණ නොව අඛණ්ඩ ක්‍රියාකාරිත්වය සහතික කිරීමයි."
     },
     {
         "category": "CES – Engine, Support level",
@@ -2188,7 +2187,7 @@
         ],
         "correct_answer": "Conductivity test.",
         "images": [],
-        "explanation": ""
+        "explanation": "බොයිලේරු ජලයේ ඇති දියවී ඇති ඝන ද්‍රව්‍ය (Total Dissolved Solids - TDS) මැනීම සඳහා වඩාත් ඵලදායී ක්‍රමය වන්නේ සන්නායකතා පරීක්ෂණය (Conductivity test) වේ. ජලයේ දියවී ඇති ලවණ ප්‍රමාණය වැඩි වන විට එහි විද්‍යුත් සන්නායකතාවයද වැඩි වේ. එබැවින් සන්නායකතාවය මැනීම මගින් TDS අගය නිවැරදිව තීරණය කළ හැක. අනෙක් පිළිතුරු වැරදි වන්නේ: pH මට්ටම පරීක්ෂණය මගින් ජලයේ ආම්ලික හෝ භාෂ්මික ස්වභාවය මිස TDS මනිනු නොලැබේ. තෙල් අන්තර්ගත පරීක්ෂණය මගින් ජලයේ තෙල් මිශ්‍ර වී ඇත්දැයි පරීක්ෂා කරන අතර උෂ්ණත්ව මිනුම මගින් තාපය මිස TDS මැනිය නොහැක."
     },
     {
         "category": "CES – Engine, Support level",
@@ -2202,7 +2201,7 @@
         ],
         "correct_answer": "Warm nutritious drinks.",
         "images": [],
-        "explanation": ""
+        "explanation": "ශීතලට නිරාවරණය වූ පුද්ගලයෙකුට උණුසුම් සහ පෝෂ්‍යදායී පානයක් ලබා දීම වඩාත් සුදුසු වේ. එය ශරීරයේ අභ්‍යන්තර උෂ්ණත්වය ක්‍රමයෙන් ඉහළ නැංවීමට සහ රුධිර සංසරණය යථා තත්ත්වයට පත් කිරීමට උපකාරී වේ. අනෙක් පිළිතුරු වැරදි වීමට හේතු: 1. සීතල පාන වර්ග ලබා දීමෙන් ශරීර උෂ්ණත්වය තවදුරටත් පහත වැටී හයිපෝතර්මියාව (hypothermia) වැනි තත්ත්වයන් උග්‍ර විය හැක. 2. අධික සීනි සහිත කෙටි ආහාර ශක්තිය ලබා දුන්නද, ශරීර උෂ්ණත්වය ඉහළ නැංවීමට ඒවා ප්‍රමාණවත් නොවේ. 3. මධ්‍යසාර පානය කිරීමෙන් රුධිර වාහිනී ප්‍රසාරණය වී ශරීරයේ තාපය ඉක්මනින් පිටවීමට ඉඩ ඇති බැවින්, එය ශීතලට නිරාවරණය වූවන්ට ඉතා අහිතකර වේ."
     },
     {
         "category": "CES – Engine, Support level",
@@ -2232,7 +2231,7 @@
         "images": [
             "https://i.ibb.co/q38Yqt9s/simvol-41.jpg"
         ],
-        "explanation": ""
+        "explanation": "මෙම සංකේතය මගින් නිරූපණය කරන්නේ 'Potentiometer' එකකි. මෙහි ඇති ඊතල ලකුණ මගින් පෙන්නුම් කරන්නේ එහි ප්‍රතිරෝධය (resistance) වෙනස් කළ හැකි බවයි. 10kΩ යනු එහි උපරිම ප්‍රතිරෝධක අගයයි. අනෙක් විකල්ප වැරදි වන්නේ: 'Resistor' යනු ස්ථාවර ප්‍රතිරෝධකයක් වන අතර එහි ඊතලයක් නොමැත. 'Capacitor' සංකේතය සමාන්තර තහඩු දෙකකින් නිරූපණය වේ. 'Inductor' සංකේතය දඟරයක හැඩයෙන් (coils) නිරූපණය වේ."
     },
     {
         "category": "CES – Engine, Support level",
@@ -2248,7 +2247,7 @@
         "images": [
             "https://i.ibb.co/M576SLDB/zener.jpg"
         ],
-        "explanation": ""
+        "explanation": "මෙම සංකේතය Zener diode එකක් නිරූපණය කරයි. Zener diode එකක සංකේතය සාමාන්‍ය diode එකකට සමාන වන අතර එහි කැතෝඩය (cathode) 'Z' අකුරක හැඩයට සමාන නැමුණු රේඛා දෙකකින් සමන්විත වේ. අනෙක් විකල්ප වැරදි වීමට හේතු: 1. Light-emitting diode (LED) සංකේතයේ diode එකෙන් පිටතට විහිදෙන ඊතල දෙකක් ඇත. 2. Light-dependent resistor (LDR) යනු ප්‍රතිරෝධකයක් වන අතර එහි සංකේතය සෘජුකෝණාස්‍රයකින් සහ ආලෝකය වැටෙන බව පෙන්වන ඊතල වලින් සමන්විත වේ. 3. Schottky diode සංකේතයේ කැතෝඩය 'S' අකුරක හැඩයට සමාන වක්‍ර රේඛා දෙකකින් සමන්විත වේ."
     },
     {
         "category": "CES – Engine, Support level",
@@ -2276,7 +2275,7 @@
         ],
         "correct_answer": "Bulkheads constructed of approved non-combustible materials but do not meet any of the requirements relative to smoke and flame nor limitations relative to temperature rise.",
         "images": [],
-        "explanation": ""
+        "explanation": "SOLAS රෙගුලාසි වලට අනුව, 'C' පන්තියේ බල්ක්හෙඩ් (Class C bulkheads) යනු අනුමත නොවන දහනය කළ හැකි ද්‍රව්‍ය වලින් සාදන ලද බිත්ති වේ. නමුත් ඒවා දුම හෝ ගින්න පැතිරීම වැළැක්වීම සඳහා හෝ උෂ්ණත්වය ඉහළ යාම සීමා කිරීම සඳහා කිසිදු විශේෂිත අවශ්‍යතාවයක් සපුරාලන්නේ නැත. අනෙක් පිළිතුරු වැරදියි: දෙවන පිළිතුර 'B' පන්තියේ බල්ක්හෙඩ් වලට අදාළ වේ, මන්ද ඒවා ගින්න සහ දුම වැළැක්වීම සඳහා පරීක්ෂා කරනු ලැබේ. තුන්වන සහ හතරවන පිළිතුරු 'A' පන්තියේ බල්ක්හෙඩ් වලට අදාළ වේ, මන්ද ඒවා ගින්න පැතිරීම වැළැක්වීම සඳහා නිශ්චිත කාලයක් තාපයට ඔරොත්තු දිය යුතු බැවිනි."
     },
     {
         "category": "CES – Engine, Support level",
@@ -2292,7 +2291,7 @@
         "images": [
             "https://i.ibb.co/60wYLky7/ris-2.jpg"
         ],
-        "explanation": ""
+        "explanation": "Thyristor (SCR - Silicon Controlled Rectifier) එකක සංකේතය වන්නේ Figure 2 වේ. මෙහි ඇනෝඩය (Anode), කැතෝඩය (Cathode) සහ ගේට්ටුව (Gate) යන පර්යන්ත තුන පැහැදිලිව දැක්වේ. අනෙක් රූප සටහන් වැරදි වීමට හේතු: Figure 1 යනු සාමාන්‍ය ඩයෝඩයක (Diode) සංකේතයයි, එහි ගේට්ටුවක් නොමැත. Figure 3 යනු ට්‍රාන්සිස්ටරයක (Transistor) හෝ වෙනත් අර්ධ සන්නායක උපාංගයක සංකේතයක් විය හැකි අතර, Figure 4 යනු සාමාන්‍යයෙන් වෙනත් විද්‍යුත් සංරචකයක් නිරූපණය කරයි. Thyristor එකක් යනු පාලනය කළ හැකි ස්විචයක් ලෙස ක්‍රියා කරන අර්ධ සන්නායක උපාංගයකි."
     },
     {
         "category": "CES – Engine, Support level",
@@ -2306,7 +2305,7 @@
         ],
         "correct_answer": "Tell the person to sit down and lean forward with the head between the knees taking deep breaths.",
         "images": [],
-        "explanation": ""
+        "explanation": "මූර්ඡා වීමක් (fainting) සිදුවන්නේ මොළයට රුධිරය ගමන් කිරීම තාවකාලිකව අඩුවීම නිසාය. නිවැරදි ක්‍රමය වන්නේ පුද්ගලයා වාඩි කරවා හිස දණහිස් අතරට පහත් කිරීමයි. මෙයින් ගුරුත්වාකර්ෂණය මගින් මොළයට රුධිරය ගලා යාම පහසු කරයි. අනෙක් පිළිතුරු වැරදි වන්නේ: 1) වැතිරී කකුල් ඉහළට එසවීම (Elevate legs) මගින් රුධිරය මොළයට යැවිය හැකි වුවත්, හදිසි අවස්ථාවකදී වාඩි කරවා හිස පහත් කිරීම වඩාත් ඉක්මන් සහ ප්‍රායෝගික ක්‍රමයයි. 2) සිසිල් බීම ලබා දීමෙන් රුධිර සංසරණය ක්ෂණිකව වැඩි නොවන අතර, සිහිය නැති වීමට යන පුද්ගලයෙකුට දියර වර්ග දීම හුස්ම හිරවීමට හේතු විය හැක. 3) සිටගෙන සිටීමට හෝ ඇවිදීමට පැවසීම මගින් පුද්ගලයා ඇද වැටී තුවාල වීමේ අවදානම වැඩි කරයි."
     },
     {
         "category": "CES – Engine, Support level",
@@ -2320,7 +2319,7 @@
         ],
         "correct_answer": "To prevent the steam and water in the boiler from discharging out through the feed line if the feed line fractures or a joint in the line blows.",
         "images": [],
-        "explanation": ""
+        "explanation": "බොයිලේරු පෝෂක පද්ධතියේ (Feed check valve) ඇති Non-return valve එකේ ප්‍රධාන කාර්යය වන්නේ බොයිලේරුව තුළ ඇති අධික පීඩනය සහිත ජලය සහ වාෂ්ප, පෝෂක නල මාර්ගයේ (feed line) යම් බිඳීමක් හෝ කාන්දුවක් සිදු වූ විට ආපසු පිටතට පැමිණීම වැළැක්වීමයි. මෙය ආරක්ෂිත පියවරකි. අනෙක් පිළිතුරු වැරදි වන්නේ: 'වාෂ්ප නිදහසේ ගලා යාමට ඉඩ දීම' යනු මෙම කපාටයේ කාර්යයක් නොවේ, මන්ද එය ජලය පෝෂණය කිරීම සඳහා පමණක් භාවිතා කරන බැවිනි. 'නල මාර්ගයේ පීඩනය නියතව තබා ගැනීම' යනු පීඩන නියාමකයක කාර්යයකි. 'ජල ප්‍රවාහය පාලනය කිරීම' සිදු කරන්නේ Screw lift valve එක මගිනි, Non-return valve එක මගින් නොවේ."
     },
     {
         "category": "CES – Engine, Support level",
@@ -2334,7 +2333,7 @@
         ],
         "correct_answer": "9-11.",
         "images": [],
-        "explanation": ""
+        "explanation": "තෙල් දහනය වන වාෂ්ප බොයිලේරු (oil fired steam boiler) වල ජලයේ pH අගය 9ත් 11ත් අතර පවත්වා ගැනීම අනිවාර්ය වේ. මෙයට හේතුව වන්නේ ක්ෂාරීය (alkaline) තත්ත්වයක් පවත්වා ගැනීම මගින් බොයිලේරු බටවල සහ ඇතුළත කොටස්වල විඛාදනය (corrosion) අවම කර ගැනීමයි. pH අගය 7ට වඩා අඩු නම් (අම්ලමය තත්ත්වය) එය ලෝහ කොටස් වේගයෙන් විඛාදනය වීමට හේතු වේ. 7-9 පරාසය බොයිලේරු ජලයට ප්‍රමාණවත් තරම් ක්ෂාරීය නොවන අතර, 11ට වඩා වැඩි අගයක් (11-13) මගින් 'caustic embrittlement' වැනි හානිකර තත්ත්වයන් ඇති විය හැක. එබැවින් 9-11 පරාසය වඩාත් සුදුසු සහ ආරක්ෂිත පරාසය වේ."
     },
     {
         "category": "CES – Engine, Support level",
@@ -2348,7 +2347,7 @@
         ],
         "correct_answer": "Re-pack the stuffing box loosely with the correct size packing at the earliest opportunity.",
         "images": [],
-        "explanation": ""
+        "explanation": "කේන්ද්‍රාපසාරී පොම්පයක (Centrifugal pump) ග්‍රන්ථි ඇසුරුම් (Gland packing) තද කිරීමෙන් පසුවත් කාන්දු වීම සිදුවේ නම්, එයින් අදහස් වන්නේ ඇසුරුම් ද්‍රව්‍ය ගෙවී ගොස් ඇති බව හෝ එහි ප්‍රත්‍යාස්ථතාව නැති වී ඇති බවයි. නිවැරදි ක්‍රියාව වන්නේ හැකි ඉක්මනින් එම පැරණි ඇසුරුම් ඉවත් කර නිවැරදි ප්‍රමාණයේ නව ඇසුරුම් යෙදීමයි. පළමු පිළිතුර වැරදියි, මන්ද දැනටමත් තද කර ඇති ග්‍රන්ථිය තවදුරටත් තද කිරීමෙන් පතුවළ (Shaft) අධික ලෙස රත් වීමට සහ හානි වීමට ඉඩ ඇති බැවිනි. දෙවන පිළිතුර වැරදියි, මන්ද සීලන්ට් (Sealant) භාවිතය මගින් ඇසුරුම්වල ක්‍රියාකාරිත්වය නිසි ලෙස සිදු නොවන අතර එය තාවකාලික විසඳුමක් පමණි. තුන්වන පිළිතුර වැරදියි, මන්ද සුළු කාන්දුවක් සඳහා මුළු පොම්පයම මාරු කිරීම අනවශ්‍ය සහ වියදම් අධික ක්‍රියාවකි."
     },
     {
         "category": "CES – Engine, Support level",
@@ -2390,7 +2389,7 @@
         ],
         "correct_answer": "A leak of exhaust gas from a boiler or diesel engine exhaust.",
         "images": [],
-        "explanation": ""
+        "explanation": "එන්ජින් කාමරයේ ඉහළ කොටසේ (upper casing) 'කුණු වූ බිත්තර' සුවඳක් දැනේ නම්, එයට ප්‍රධාන හේතුව වන්නේ සල්ෆර් අඩංගු දහන වායු (exhaust gas) කාන්දුවීමයි. ඉන්ධන දහනය වීමේදී සල්ෆර් ඩයොක්සයිඩ් සහ හයිඩ්‍රජන් සල්ෆයිඩ් වැනි වායු නිපදවෙන අතර, ඒවායේ සුවඳ කුණු වූ බිත්තරවලට සමාන වේ. අනෙක් විකල්ප වැරදි වන්නේ: බිල්ජ් පොම්පයක ගැටලුවක් නිසා ඇතිවන අපද්‍රව්‍ය සුවඳ මීට වඩා වෙනස් වේ. රසායනික ද්‍රව්‍ය කාන්දුවීමක් සාමාන්‍යයෙන් එන්ජින් කාමරයේ සිදු නොවන අතර, ඉන්ධන තෙල් කාන්දුවීමකින් මෙවැනි සුවඳක් ඇති නොවේ."
     },
     {
         "category": "CES – Engine, Support level",
@@ -2418,7 +2417,7 @@
         ],
         "correct_answer": "Comparing input and output values against a documented standard.",
         "images": [],
-        "explanation": ""
+        "explanation": "මිනුම් උපකරණ ක්‍රමාංකනය (Calibration) යනු එම උපකරණය මගින් ලබාදෙන අගයන්, ජාත්‍යන්තරව හෝ පිළිගත් ප්‍රමිතියකට (Standard) අනුව නිවැරදි දැයි තහවුරු කර ගැනීම සඳහා සැසඳීමයි. නිවැරදි පිළිතුර මෙයයි. අනෙක් විකල්ප වැරදි වීමට හේතු: 1. නිෂ්පාදකයා ලබාදෙන ඕනෑම අගයකට සකස් කිරීම යනු ක්‍රමාංකනය නොවේ, එය වැරදි අගයක් විය හැකිය. 2. උපකරණය ක්‍රියාත්මක දැයි පරීක්ෂා කිරීම යනු නඩත්තු පරීක්ෂාවක් (Function test) මිස ක්‍රමාංකනය නොවේ. 3. අමතර කොටස් මාරු කිරීම යනු අලුත්වැඩියාවක් (Repair) මිස ක්‍රමාංකනය නොවේ."
     },
     {
         "category": "CES – Engine, Support level",
@@ -2446,7 +2445,7 @@
         ],
         "correct_answer": "Water-tube boilers are more efficient and generally contain less water than fire tube boilers. They are prone to major damage when run dry during operation.",
         "images": [],
-        "explanation": ""
+        "explanation": "Water-tube boilers (ජල නල බොයිලේරු) ඉහළ පීඩනයක් සහ කාර්යක්ෂමතාවයක් ලබා දෙන අතර, ඒවායේ අඩංගු ජල පරිමාව Fire-tube බොයිලේරු වලට වඩා අඩුය. ජලය අඩු බැවින්, බොයිලේරුව වියළී ගියහොත් (run dry) නල ඉක්මනින් අධික උෂ්ණත්වයට පත්වී බරපතල හානි සිදුවේ. පළමු පිළිතුර වැරදියි, මන්ද Fire-tube බොයිලේරු වල ජල පරිමාව වැඩියි. දෙවන පිළිතුර වැරදියි, මන්ද Water-tube බොයිලේරු නඩත්තු කිරීම සංකීර්ණ වේ. තුන්වන පිළිතුර වැරදියි, මන්ද ජලය අඩු Water-tube බොයිලේරු වියළී යාමේදී සිදුවන හානිය Fire-tube බොයිලේරු වලට වඩා බෙහෙවින් වැඩිය."
     },
     {
         "category": "CES – Engine, Support level",
@@ -2460,7 +2459,7 @@
         ],
         "correct_answer": "In a clarifier only solids are removed from the oil, whereas in a purifier both solids and water are removed from the oil.",
         "images": [],
-        "explanation": ""
+        "explanation": "නැව් එන්ජින් වල ඉන්ධන සහ ලිහිසි තෙල් පිරිසිදු කිරීමේදී 'Purifier' සහ 'Clarifier' යන දෙකම කේන්ද්‍රාපසාරී බලය (Centrifugal force) භාවිතා කරයි. Purifier එකක් මගින් තෙල් වල ඇති අපද්‍රව්‍ය (solids) මෙන්ම ජලය (water) ද ඉවත් කරනු ලබයි. Clarifier එකක් මගින් ප්‍රධාන වශයෙන් ඉවත් කරනු ලබන්නේ තෙල් වල ඇති ඝන අපද්‍රව්‍ය (solids) පමණි. අනෙක් පිළිතුරු වැරදි වන්නේ: දෙවන පිළිතුර Purifier සහ Clarifier වල ක්‍රියාකාරිත්වය මාරු කර දක්වා ඇති නිසාය. තුන්වන පිළිතුර වැරදියි, මන්ද Clarifier එකක් ජලය ඉවත් කිරීමට නිර්මාණය කර නොමැති බැවිනි. හතරවන පිළිතුර වැරදියි, මන්ද Purifier සහ Clarifier යන දෙකම ඉන්ධන සහ ලිහිසි තෙල් යන දෙවර්ගය සඳහාම භාවිතා කළ හැකි බැවිනි."
     },
     {
         "category": "CES – Engine, Support level",
@@ -2488,7 +2487,7 @@
         ],
         "correct_answer": "Maximum is 30 litres per nautical mile and total is 1/30 000 part of full cargo on the ballast voyage.",
         "images": [],
-        "explanation": ""
+        "explanation": "MARPOL 73/78 සම්මුතියේ ඇමුණුම I (Annex I) අනුව, තෙල් සහිත අපද්‍රව්‍ය හෝ ස්ලජ් (sludge) මුහුදට බැහැර කිරීම සඳහා දැඩි නීති රීති පවතී. නිවැරදි පිළිතුර වන්නේ නාවික සැතපුමකට ලීටර් 30කට වඩා වැඩි නොවිය යුතු බව සහ බැලස්ට් ගමනේදී මුළු ප්‍රමාණය නැවේ සම්පූර්ණ භාණ්ඩ ධාරිතාවයෙන් 1/30,000 පංගුවට වඩා වැඩි නොවිය යුතු බවයි. අනෙක් පිළිතුරු වැරදි වන්නේ: ස්ලජ් වරායේදී පමණක් බැහැර කළ යුතු යැයි පැවසීම වැරදිය, මන්ද නීත්‍යානුකූලව පිරිපහදු කළ පසු මුහුදේදී බැහැර කළ හැකි බැවිනි. ස්ලජ් බැහැර කිරීම සීමාවකින් තොරව සිදු කළ හැකි බව පැවසීම සම්පූර්ණයෙන්ම වැරදිය, මන්ද එය සාගර දූෂණයට හේතු වන බැවිනි. ජාත්‍යන්තර ජලයේදී සීමාවකින් තොරව බැහැර කළ හැකි යැයි පැවසීමද වැරදිය, මන්ද සෑම විටම MARPOL නීතිවලට අනුකූල විය යුතු බැවිනි."
     },
     {
         "category": "CES – Engine, Support level",
@@ -2530,7 +2529,7 @@
         ],
         "correct_answer": "1 N/mm2.",
         "images": [],
-        "explanation": ""
+        "explanation": "ජාත්‍යන්තර වෙරළ සම්බන්ධතාවයේ (International Shore Connection - ISC) අවම ක්‍රියාකාරී පීඩනය 1 N/mm2 (හෝ 10 bar) ලෙස SOLAS රෙගුලාසි මගින් නියම කර ඇත. මෙය ගිනි නිවීමේ පද්ධතිවලදී වෙරළාසන්න පහසුකම්වලින් නැවට ජලය සැපයීමේදී ආරක්ෂිතව ක්‍රියාත්මක වීමට අවශ්‍ය අවම පීඩනයයි. අනෙක් පිළිතුරු වැරදි වන්නේ: 0.5 N/mm2 යනු ප්‍රමාණවත් පීඩනයක් නොවන අතර, 1.5 N/mm2 සහ 2 N/mm2 යනු ජාත්‍යන්තර ප්‍රමිතීන්ට අනුව නියම කර ඇති අවම අගය ඉක්මවා යන අගයන් වේ."
     },
     {
         "category": "CES – Engine, Support level",
@@ -2546,7 +2545,7 @@
         "images": [
             "https://i.ibb.co/zW5w1ZBs/b-klass-1jpg.jpg"
         ],
-        "explanation": ""
+        "explanation": "නැව්වල ගිනි ආරක්ෂණ රෙගුලාසි (SOLAS) අනුව, B Class divisions යනු ගින්න පැතිරීම වැළැක්වීම සඳහා නිර්මාණය කර ඇති කොටස් වේ. මේවා මිනිත්තු 30ක සම්මත ගිනි පරීක්ෂණයකට (standard fire test) ඔරොත්තු දෙන පරිදි සකස් කර ඇත. අනෙක් විකල්ප වැරදි වන්නේ: 60 minutes යනු A Class divisions සඳහා වන පරීක්ෂණ කාල සීමාවන් සමඟ සම්බන්ධ විය හැකි අගයකි. 15 සහ 45 minutes යනු B Class divisions සඳහා නියමිත සම්මත පරීක්ෂණ කාලය නොවේ."
     },
     {
         "category": "CES – Engine, Support level",
@@ -2560,7 +2559,7 @@
         ],
         "correct_answer": "Rescue boat.",
         "images": [],
-        "explanation": ""
+        "explanation": "SOLAS රෙගුලාසිවලට අනුව, ගලවා ගැනීමේ බෝට්ටුවක් (Rescue boat) සතුව අවම වශයෙන් මීටර් 50ක් දිග, ජීවිතාරක්ෂක පරාලයක් (liferaft) ඇදගෙන යාමට ප්‍රමාණවත් ශක්තියක් සහිත පාවෙන ලණුවක් (buoyant line) තිබිය යුතුය. මෙය හදිසි අවස්ථාවකදී පරාලවල සිටින පුද්ගලයින් ආරක්ෂිත ස්ථානයකට ගෙන යාමට අත්‍යවශ්‍ය වේ. අනෙක් විකල්පයන් වැරදි වන්නේ: 1. Lifeboat: ජීවිතාරක්ෂක බෝට්ටු ප්‍රධාන වශයෙන් නිර්මාණය කර ඇත්තේ නැව අතහැර යාම සඳහා වන අතර, ඒවාට මෙවැනි විශේෂිත ඇදගෙන යාමේ ලණුවක් අනිවාර්ය නොවේ. 2. Survival capsule: මෙය විශේෂිත වර්ගයේ ජීවිතාරක්ෂක යාත්‍රාවක් වන අතර, එය සාමාන්‍යයෙන් Rescue boat එකක් ලෙස භාවිතා නොවේ. 3. Inflatable raft: පරාලයක් යනු ඇදගෙන යා යුතු යාත්‍රාව මිස, වෙනත් යාත්‍රාවක් ඇදගෙන යාමට අවශ්‍ය උපකරණ සහිත යාත්‍රාවක් නොවේ."
     },
     {
         "category": "CES – Engine, Support level",
@@ -2575,7 +2574,7 @@
         "images": [
             "https://i.ibb.co/F43nbnpB/SIMVOL-5.jpg"
         ],
-        "explanation": ""
+        "explanation": "EPIRB යනු Emergency Position Indicating Radio Beacon යන්නෙහි කෙටි යෙදුමයි. මෙය නෞකාවක් අනතුරට ලක්වූ විට චන්ද්‍රිකා හරහා ආපදා සංඥා යැවීමට භාවිතා කරන උපකරණයකි. අනෙක් විකල්ප දෙක වන 'Emergency Personal Identification Rescue Beacon' සහ 'Emergency Protocol Information Relay Beacon' යන ඒවා වැරදි වන්නේ ඒවා EPIRB යන කෙටි යෙදුමේ නිවැරදි අර්ථ දැක්වීම් නොවන බැවිනි. EPIRB යනු ජාත්‍යන්තර සමුද්‍රීය ආරක්ෂණ ප්‍රමිතීන්ට අනුව පිළිගත් නිවැරදි තාක්ෂණික පදයයි."
     },
     {
         "category": "CES – Engine, Support level",
@@ -2589,7 +2588,7 @@
         ],
         "correct_answer": "1 Min.",
         "images": [],
-        "explanation": ""
+        "explanation": "LSA (Life-Saving Appliance) කේතයට අනුව, අතින් අල්ලාගෙන භාවිතා කරන ගිනි සිළුවක් (Hand flare) අවම වශයෙන් විනාඩි 1ක කාලයක් දැවිය යුතුය. මෙය හදිසි අවස්ථාවකදී ගලවා ගැනීමේ කණ්ඩායම්වලට නැව හෝ ජීවිතාරක්ෂක බෝට්ටුව සොයා ගැනීමට ප්‍රමාණවත් කාලයක් ලබා දෙයි. අනෙක් විකල්ප වැරදි වන්නේ: තත්පර 30 යනු ප්‍රමාණවත් කාලයක් නොවේ, විනාඩි 2 සහ විනාඩි 5 යන කාලසීමාවන් අදාළ ජාත්‍යන්තර ප්‍රමිතීන්ට (SOLAS/LSA Code) අනුව අනිවාර්ය අවම කාලය නොවන බැවිනි."
     },
     {
         "category": "CES – Engine, Support level",
@@ -2603,7 +2602,7 @@
         ],
         "correct_answer": "All passenger ships, all cargo ships of 500 GRT or above.",
         "images": [],
-        "explanation": ""
+        "explanation": "ISM Code (International Safety Management Code) යනු නෞකාවන්හි ආරක්ෂිත ක්‍රියාකාරිත්වය සහ දූෂණය වැළැක්වීම සඳහා වන ජාත්‍යන්තර ප්‍රමිතියකි. SOLAS සම්මුතියේ 9 වන පරිච්ඡේදයට අනුව, මෙම කේතය සියලුම මගී නෞකාවන්ට (ප්‍රමාණය නොසලකා) සහ දළ දේශීය ටොන් ප්‍රමාණය (GRT) 500 හෝ ඊට වැඩි භාණ්ඩ ප්‍රවාහන නෞකාවන්ට අනිවාර්ය වේ. අනෙක් පිළිතුරු වැරදි වන්නේ: 1000 GRT හෝ ඊට වැඩි භාණ්ඩ නෞකා පමණක් යැයි පැවසීම සාවද්‍යය, මන්ද 500 GRT සිට ඉහළ සියල්ල ඇතුළත් විය යුතුය. ධීවර යාත්‍රා සඳහා ISM කේතය අනිවාර්ය නොවේ. මගී නෞකා සඳහා 300 GRT සීමාවක් නොමැති අතර, මගී නෞකා සියල්ලම එහි විෂය පථයට අයත් වේ."
     },
     {
         "category": "CES – Engine, Support level",
@@ -2617,7 +2616,7 @@
         ],
         "correct_answer": "When it is fitted with a guard or similar device which prevents foreseeable contact between a person, his clothing or items held in his hands, whilst it is in operation.",
         "images": [],
-        "explanation": ""
+        "explanation": "ආරක්ෂිතව ආරක්ෂා කර ඇති (securely guarded) යන්ත්‍රයක් යනු යන්ත්‍රය ක්‍රියාත්මක වන විට පුද්ගලයෙකුට, ඔහුගේ ඇඳුම්වලට හෝ අතේ ඇති දේවලට යන්ත්‍රයේ චලනය වන කොටස් සමඟ සම්බන්ධ වීමට නොහැකි වන පරිදි ආරක්ෂිත ආවරණයක් හෝ උපකරණයක් සවි කර ඇති යන්ත්‍රයකි. පළමු විකල්පය වැරදියි, මන්ද යන්ත්‍රයක් ක්‍රියා විරහිත කිරීමෙන් පමණක් එය ක්‍රියාත්මක වන විට සිදුවිය හැකි අනතුරු වළක්වා ගත නොහැක. තුන්වන විකල්පය වැරදියි, මන්ද ආරක්ෂක නිලධාරියෙකු සිටීමෙන් පමණක් යන්ත්‍රයක යාන්ත්‍රික ආරක්ෂාව සහතික නොවේ. හතරවන විකල්පය වැරදියි, මන්ද යන්ත්‍රයක් කාමරයක අගුලු දැමීමෙන් එය ක්‍රියාත්මක වන විට අසල සිටින පුද්ගලයින්ට සිදුවිය හැකි අනතුරු වළක්වා ගත නොහැක."
     },
     {
         "category": "CES – Engine, Support level",
@@ -2645,7 +2644,7 @@
         ],
         "correct_answer": "Wear skin protection and a facemask.",
         "images": [],
-        "explanation": ""
+        "explanation": "ඖෂධ (drugs) හැසිරවීමේදී ඒවා සම හරහා අවශෝෂණය වීම හෝ ශ්වසන මාර්ගයට ඇතුළු වීම වැළැක්වීම සඳහා සම ආරක්ෂා කරන ඇඳුම් (gloves/protective clothing) සහ මුහුණු ආවරණයක් (facemask) පැළඳීම අනිවාර්ය වේ. අනෙක් විකල්ප වැරදි වන්නේ: 'Only wear gloves' යනු ප්‍රමාණවත් නොවේ මන්ද ශ්වසන මාර්ගය ආරක්ෂා නොවන බැවිනි. 'No special precautions are needed' යනු ඉතා භයානක වැරදි මතයකි, මන්ද ඖෂධ මගින් අසාත්මිකතා හෝ විෂවීම් ඇති විය හැකි බැවිනි. 'Wear a lab coat only' යනු ශ්වසන මාර්ගය සහ අත් ආරක්ෂා නොකරන බැවින් ප්‍රමාණවත් ආරක්ෂාවක් නොවේ."
     },
     {
         "category": "CES – Engine, Support level",
@@ -2675,7 +2674,7 @@
         "images": [
             "https://i.ibb.co/CK9XkZ2w/TERMISTR.jpg"
         ],
-        "explanation": ""
+        "explanation": "තර්මිස්ටර් (Thermistor) යනු උෂ්ණත්වය වෙනස් වන විට එහි විද්‍යුත් ප්‍රතිරෝධය වෙනස් වන උපකරණයකි. PTC (Positive Temperature Coefficient) තර්මිස්ටර් වලදී උෂ්ණත්වය වැඩි වන විට ප්‍රතිරෝධය වැඩි වේ. මෙම ප්‍රතිරෝධය වෙනස් වීම උෂ්ණත්වය සමඟ රේඛීය (Linear) නොවන අතර එය වක්‍ර හැඩයක් ගනී. එබැවින් 'Relatively non linear characteristic' යනු නිවැරදි පිළිතුරයි. අනෙක් පිළිතුරු වැරදි වන්නේ: 'A linear characteristic' යනු වැරදියි, මන්ද තර්මිස්ටර් වල ප්‍රතිචාරය රේඛීය නොවන බැවිනි. 'A constant resistance' යනු වැරදියි, මන්ද තර්මිස්ටර් වල ප්‍රධාන කාර්යය උෂ්ණත්වය අනුව ප්‍රතිරෝධය වෙනස් කිරීමයි. 'A negative temperature coefficient' යනු වැරදියි, මන්ද එය NTC තර්මිස්ටර් සඳහා පමණක් අදාළ වන අතර PTC සඳහා ප්‍රතිවිරුද්ධ ක්‍රියාවලියක් සිදු වේ."
     },
     {
         "category": "CES – Engine, Support level",
@@ -2717,7 +2716,7 @@
         ],
         "correct_answer": "Grinding the valve against the valve seat, usually manually, to obtain a uniform sealing surface across the seat.",
         "images": [],
-        "explanation": ""
+        "explanation": "ඩීසල් එන්ජින් කපාට (valves) නඩත්තු කිරීමේදී 'lapping in' යනු කපාටය සහ එහි ආසනය (valve seat) අතර වායු රහිතව මුද්‍රා තැබීම (sealing) සහතික කිරීම සඳහා සිදුකරන ක්‍රියාවලියකි. මෙහිදී උල්ෙල්ඛ පේස්ට් (grinding paste) භාවිතා කරමින් කපාටය ආසනය මත තබා කරකවමින් ඔප දැමීම සිදු කරයි. අනෙක් පිළිතුරු වැරදි වන්නේ: 1. වාෂ්ප භාවිතයෙන් පිරිසිදු කිරීම යනු ලැපින් කිරීමක් නොවේ. 3. කපාටය රත් කිරීමෙන් ප්‍රසාරණය කිරීම යනු වැරදි ක්‍රියාවලියකි, එයින් හානි සිදුවිය හැක. 4. ලිහිසි තෙල් යෙදීම යනු ක්‍රියාකාරීත්වය සඳහා මිස මුද්‍රා තැබීම සඳහා කරන ලැපින් කිරීමක් නොවේ."
     },
     {
         "category": "CES – Engine, Support level",
@@ -2731,7 +2730,7 @@
         ],
         "correct_answer": "When you are working with power tools or chemicals.",
         "images": [],
-        "explanation": ""
+        "explanation": "ආරක්ෂිත කණ්නාඩි (Safety goggles) පැළඳීම අනිවාර්ය වන්නේ ඇස්වලට හානි විය හැකි අවදානම් සහිත කාර්යයන් වලදීය. විදුලි මෙවලම් (Power tools) භාවිතා කිරීමේදී ලෝහ කැබලි හෝ දූවිලි ඇසට විසිවිය හැකි අතර, රසායනික ද්‍රව්‍ය (Chemicals) සමඟ වැඩ කිරීමේදී ඒවා ඇසට ඉසීමෙන් බරපතල හානි සිදුවිය හැක. අනෙක් විකල්පයන් වන සාමාන්‍ය පරීක්ෂාවන් (Routine inspections), එන්ජින් කාමරය හරහා ගමන් කිරීම හෝ පාලන මැදිරියේ (Control room) උපකරණ නිරීක්ෂණය කිරීම වැනි කාර්යයන් වලදී සාමාන්‍යයෙන් ඇස්වලට හානි වීමේ අවදානමක් නොමැති බැවින් සෑම විටම ආරක්ෂිත කණ්නාඩි පැළඳීම අවශ්‍ය නොවේ."
     },
     {
         "category": "CES – Engine, Support level",
@@ -2745,7 +2744,7 @@
         ],
         "correct_answer": "The foam should be aimed at the bulkhead behind the fire and allowed to spread out slowly over the fire.",
         "images": [],
-        "explanation": ""
+        "explanation": "තෙල් ගින්නක් නිවීමේදී අඩු ප්‍රසාරණ පෙන (Low expansion foam) භාවිතා කිරීමේදී, ගින්න මතට කෙලින්ම පෙන ඉසීමෙන් තෙල් විසිරී ගින්න තවදුරටත් පැතිර යා හැක. එබැවින්, පෙන බිත්තියට (bulkhead) එල්ල කර එය බිත්තිය දිගේ පහළට ගලා යාමට සැලැස්වීමෙන්, ගින්න මත පෙන තට්ටුවක් මෘදු ලෙස නිර්මාණය වී ඔක්සිජන් සැපයුම වළක්වා ගින්න නිවා දමයි. අනෙක් පිළිතුරු වැරදි වන්නේ: 1. කෙලින්ම ගින්නට ඉසීමෙන් තෙල් විසිරී ගින්න වැඩි විය හැක. 2. අහඹු ලෙස ඉසීමෙන් ගින්න නිවීමට අවශ්‍ය පෙන තට්ටුවක් නොලැබේ. 3. ඉහළ සිට බලයෙන් ඉසීමෙන්ද තෙල් විසිරී යාමේ අවදානම පවතී."
     },
     {
         "category": "CES – Engine, Support level",
@@ -2759,7 +2758,7 @@
         ],
         "correct_answer": "To check condensate returns for oil.",
         "images": [],
-        "explanation": ""
+        "explanation": "බොයිලේරු පෝෂක පද්ධතියක (boiler feed system) නිරීක්ෂණ ටැංකියේ (observation tank) ප්‍රධාන අරමුණ වන්නේ බොයිලේරුව වෙත නැවත පැමිණෙන ඝනීභවනය වූ ජලය (condensate) තුළ තෙල් මිශ්‍ර වී ඇත්දැයි පරීක්ෂා කිරීමයි. බොයිලේරු ජලයට තෙල් මිශ්‍ර වීම ඉතා භයානක වන්නේ එය තාප හුවමාරු පෘෂ්ඨ මත තැන්පත් වී අධික උණුසුම (overheating) නිසා නල පිපිරීමට හේතු විය හැකි බැවිනි. අනෙක් පිළිතුරු වැරදි වන්නේ: ජලය ගබඩා කිරීම සඳහා 'feed water tank' භාවිතා කරන බැවිනි. පීඩනය වැඩි කිරීම සඳහා 'feed pump' භාවිතා කරයි. වායු බුබුලු ඉවත් කිරීම සඳහා 'deaerator' භාවිතා කරන බැවිනි."
     },
     {
         "category": "CES – Engine, Support level",
@@ -2773,7 +2772,7 @@
         ],
         "correct_answer": "It is important that the rotation direction is correct to avoid dry running.",
         "images": [],
-        "explanation": ""
+        "explanation": "කේන්ද්‍රාපසාරී පොම්පයක (Centrifugal pump) භ්‍රමණ දිශාව නිවැරදි වීම අත්‍යවශ්‍ය වේ. වැරදි දිශාවට භ්‍රමණය වීමෙන් පොම්පය මගින් ද්‍රවය නිසි ලෙස උරා නොගන්නා අතර, එමගින් පොම්පය වියළි තත්ත්වයෙන් (dry running) ක්‍රියාත්මක වී යාන්ත්‍රික මුද්‍රා (mechanical seals) සහ අභ්‍යන්තර කොටස් වලට හානි සිදුවිය හැක. අනෙක් පිළිතුරු වැරදි වන්නේ: 'පොම්පය ප්‍රයිම් (priming) නොකර ක්‍රියාත්මක කළ නොහැක', 'වියළි තත්ත්වයෙන් ක්‍රියාත්මක වීමෙන් පොම්පයට හානි සිදුවේ', සහ 'පොම්පය ආරම්භ කිරීමේදී විසර්ජන කපාටය (discharge valve) අර්ධ වශයෙන් වසා තිබීම මගින් මෝටරය මත ඇතිවන බර අඩු කර ගත යුතුය'."
     },
     {
         "category": "CES – Engine, Support level",
@@ -2787,21 +2786,21 @@
         ],
         "correct_answer": "Prime the pump with seawater from the main inlet valve.",
         "images": [],
-        "explanation": ""
+        "explanation": "කේන්ද්‍රාපසාරී පොම්පයක් (Centrifugal pump) ටැංකියේ මට්ටමට වඩා ඉහළින් පිහිටා ඇති විට, එයට වාතය ඉවත් කර දියරය පොම්පය වෙත ඇද ගැනීමට (suction) නොහැකි විය හැක. මෙවැනි අවස්ථාවක පොම්පය 'Prime' කිරීම අත්‍යවශ්‍ය වේ. එනම්, පොම්පයේ අභ්‍යන්තරය දියරයෙන් පුරවා වාතය ඉවත් කිරීමයි. මෙය සිදු කිරීම සඳහා මුහුදු ජල ප්‍රධාන ඇතුල්වීමේ කපාටය (main inlet valve) හරහා ජලය ලබා ගැනීම නිවැරදි ක්‍රමයයි. අනෙක් පිළිතුරු වැරදි වන්නේ: 1. විසර්ජන කපාටය (discharge valve) සම්පූර්ණයෙන් විවෘත කිරීමෙන් පොම්පයේ පීඩනය අඩු වනවා මිස වාතය ඉවත් නොවේ. 2. පොම්පය ප්‍රතිවිරුද්ධ දිශාවට කරකැවීමෙන් පොම්පයට හානි සිදුවන අතර එයින් කිසිදු ප්‍රයෝජනයක් නොලැබේ. 3. මෝටරයේ අධි බර (overload) පරීක්ෂා කිරීමෙන් පොම්පයේ වාතය ඉවත් කිරීමේ ගැටලුව විසඳෙන්නේ නැත."
     },
     {
         "category": "CES – Engine, Support level",
         "index": 201,
         "question": "Which statement is true in relation to the operating parameters for a marine diesel engine?",
         "answers": [
-            "The fuel temperature before injection should always exceed 90 °C.",
-            "The normal temperature of the lub oil after the cooler is approximately 45 °C.",
-            "The cooling water temperature in the engine jacket should be below 20 °C.",
-            "The exhaust gas temperature should never exceed 50 °C under any conditions."
+            "The fuel temperature before injection should always exceed 90°C.",
+            "The normal temperature of the lub oil after the cooler is approximately 45°C.",
+            "The cooling water temperature in the engine jacket should be below 20°C.",
+            "The exhaust gas temperature should never exceed 50°C under any conditions."
         ],
-        "correct_answer": "The normal temperature of the lub oil after the cooler is approximately 45 °C.",
+        "correct_answer": "The normal temperature of the lub oil after the cooler is approximately 45°C.",
         "images": [],
-        "explanation": ""
+        "explanation": "නාවික ඩීසල් එන්ජිමක ලිහිසි තෙල් (Lub oil) සිසිලනකාරකයෙන් (Cooler) පිටවන විට එහි සාමාන්‍ය උෂ්ණත්වය සෙල්සියස් අංශක 40ත් 50ත් අතර පරාසයක පවතී. එබැවින් 45°C යනු නිවැරදි අගයකි. අනෙක් පිළිතුරු වැරදි වීමට හේතු: 1) ඉන්ධන උෂ්ණත්වය සැමවිටම 90°C ට වඩා වැඩි විය යුතු නැත, එය ඉන්ධන වර්ගය මත රඳා පවතී. 2) එන්ජින් ජැකට් සිසිලන ජල උෂ්ණත්වය 20°C ට වඩා අඩු වීම එන්ජිමේ කාර්යක්ෂමතාවයට හානි කරයි, එය සාමාන්‍යයෙන් 70°C-85°C අතර පවත්වා ගනී. 3) පිටාර වායු උෂ්ණත්වය (Exhaust gas temperature) 50°C ට වඩා බෙහෙවින් වැඩි අගයක් ගනී (සාමාන්‍යයෙන් 250°C-450°C), එබැවින් 50°C යනු කළ නොහැකි අගයකි."
     },
     {
         "category": "CES – Engine, Support level",
@@ -2815,7 +2814,7 @@
         ],
         "correct_answer": "Trying to ignite burner from hot brickwork.",
         "images": [],
-        "explanation": ""
+        "explanation": "වාෂ්ප බොයිලේරු උදුනක 'blowback' එකක් ඇතිවීමට ප්‍රධාන හේතුව වන්නේ දහන කුටීරය තුළ ඉන්ධන වාෂ්ප එකතු වී තිබියදී හදිසියේ දැල්වීමයි. උදුන තුළ ගඩොල් වැඩ (brickwork) අධික ලෙස රත්වී ඇති විට, ඉන්ධන ඉසින ලද වහාම එය පාලනයකින් තොරව පුපුරා යා හැකිය. මෙය බරපතල අනතුරකි. අනෙක් පිළිතුරු වැරදි වන්නේ: ඉන්ධන සැපයුම් මාර්ගයට ලිහිසි තෙල් එකතු කිරීමෙන් දහනයට බාධා ඇති වුවද එය blowback එකකට සෘජු හේතුවක් නොවේ. ඉන්ධන උෂ්ණත්වය අඩු වීමෙන් සිදුවන්නේ දුර්වල දහනයක් මිස පිපිරීමක් නොවේ. නිසි ලෙස ක්‍රියාත්මක වන ජ්වලන පද්ධතියක් (ignition system) මගින් ආරක්ෂිතව දහනය ආරම්භ කරන බැවින් එය blowback එකකට හේතුවක් නොවේ."
     },
     {
         "category": "CES – Engine, Support level",
@@ -2829,7 +2828,7 @@
         ],
         "correct_answer": "A blocked bilge suction strainer.",
         "images": [],
-        "explanation": ""
+        "explanation": "බිල්ජ් පොම්ප කිරීමේදී චූෂණ මාපකයේ (suction gauge) ඉහළ රික්තකයක් (high vacuum) පෙන්නුම් කරන්නේ නම්, එයින් අදහස් වන්නේ පොම්පයට අවශ්‍ය තරම් ද්‍රව ප්‍රමාණයක් ඇද ගැනීමට නොහැකි වී ඇති බවයි. මෙයට ප්‍රධානතම හේතුව වන්නේ බිල්ජ් සුක්ෂන් ස්ට්‍රේනරය (bilge suction strainer) අපද්‍රව්‍යවලින් අවහිර වී තිබීමයි. මෙහිදී පොම්පය ද්‍රව ඇද ගැනීමට උත්සාහ කළත්, අවහිරය නිසා මාර්ගය පටු වී ඇති බැවින් රික්තකය ඉහළ යයි. අනෙක් පිළිතුරු වැරදි වීමට හේතු: 1. පොම්පයේ වාතය සිරවීම (Air trapped) නිසා පොම්පය ප්‍රයිම් (prime) නොවීමක් සිදු විය හැකි නමුත්, එය සාමාන්‍යයෙන් රික්තක මාපකයේ අස්ථායී බවක් මිස නිරන්තර ඉහළ රික්තකයක් ඇති නොකරයි. 2. පොම්පය ප්‍රතිවිරුද්ධ දිශාවට භ්‍රමණය වීම (Running in reverse) නිසා පොම්පය කිසිසේත්ම ද්‍රව ඇද නොගන්නා අතර, එවිට රික්තකයක් ඇති නොවී පීඩනයක් නොමැති වීමක් සිදු වේ. 3. බිල්ජ් ටැංකියේ ජල මට්ටම අඩු වීම (Low water level) නිසා පොම්පය වාතය ඇද ගැනීමට පටන් ගනී (air suction), එවිට රික්තකය ඉහළ යාම වෙනුවට මාපකයේ කියවීම පහත වැටීමක් හෝ අස්ථායී වීමක් සිදු වේ."
     },
     {
         "category": "CES – Engine, Support level",
@@ -2843,7 +2842,7 @@
         ],
         "correct_answer": "Operate valves slowly.",
         "images": [],
-        "explanation": ""
+        "explanation": "ජල මිටි ප්‍රයෝගය (Water hammer) යනු පද්ධතියක ද්‍රව ප්‍රවාහයක් හදිසියේ නතර කිරීම හෝ වෙනස් කිරීම නිසා ඇතිවන අධික පීඩන තරංගයකි. මෙය වළක්වා ගැනීමට ඇති හොඳම ක්‍රමය වන්නේ කපාට (valves) සෙමින් ක්‍රියාත්මක කිරීමයි. එමගින් පද්ධතියේ පීඩනය ක්‍රමයෙන් වෙනස් වන අතර හදිසි කම්පන ඇති නොවේ. අනෙක් පිළිතුරු වැරදි වන්නේ: කපාට එකවර සම්පූර්ණයෙන් විවෘත කිරීමෙන් පීඩන වෙනස්වීම් වේගවත් වී හානි සිදුවිය හැක. පොම්ප උපරිම වේගයෙන් ධාවනය කිරීමෙන් පීඩනය පාලනය කළ නොහැක. කපාට වහාම වැසීමෙන් ජල මිටි ප්‍රයෝගය තවත් උග්‍ර වේ."
     },
     {
         "category": "CES – Engine, Support level",
@@ -2857,7 +2856,7 @@
         ],
         "correct_answer": "The ship will receive fuel and diesel oil bunkers.",
         "images": [],
-        "explanation": ""
+        "explanation": "මෙම ප්‍රශ්නයට අදාළ නිවැරදි පිළිතුර වන්නේ නෞකාව රොටර්ඩෑම් වෙත පැමිණි පසු ඉන්ධන (fuel) සහ ඩීසල් තෙල් (diesel oil) ලබා ගැනීමයි. රොටර්ඩෑම් යනු ලෝකයේ ප්‍රධානතම බංකර් සැපයුම් මධ්‍යස්ථානයක් වන බැවින් නෞකා බොහෝ විට එහිදී ඉන්ධන ලබා ගනී. අනෙක් පිළිතුරු වැරදි වීමට හේතු: 1. වියළි තටාකගත කිරීම (dry-docking) යනු නෞකාවක නඩත්තුව සඳහා වසර කිහිපයකට වරක් සිදුකරන විශේෂ ක්‍රියාවලියක් වන අතර එය සෑම ගමනකදීම සිදු නොවේ. 2. භාණ්ඩ බෑම (cargo unloading) සෑම විටම වරායට පැමිණි වහාම සිදු නොවන අතර එය නෞකාවේ වර්ගය සහ වරායේ සැලසුම් මත රඳා පවතී. 3. කාර්ය මණ්ඩල වෙනස් කිරීම් සහ ආගමන විගමන පරීක්ෂණ (crew change) සාමාන්‍ය ක්‍රියාවලියක් වුවද, මෙම විශේෂිත සන්දර්භය තුළ ඉන්ධන ලබා ගැනීම ප්‍රධාන මෙහෙයුම් කාර්යය ලෙස සැලකේ."
     },
     {
         "category": "CES – Engine, Support level",
@@ -2873,7 +2872,7 @@
         "images": [
             "https://i.ibb.co/YFcWFvJR/Screenshot-2026-03-25-at-09-29-08-Wrong-answer-summary-ilide-info-engine-support-level-4-pr-f7d1fa90.png"
         ],
-        "explanation": ""
+        "explanation": "නිවැරදි පිළිතුර වන්නේ Connecting rod (සම්බන්ධක දණ්ඩ) ය. මෙහි දැක්වෙන කොටස පිස්ටනය සහ ක්‍රෑන්ක්ෂාෆ්ට් එක අතර සම්බන්ධ කරමින් පිස්ටනයේ රේඛීය චලිතය ක්‍රෑන්ක්ෂාෆ්ට් එකේ භ්‍රමණ චලිතය බවට පත් කිරීමට උපකාරී වේ. අනෙක් විකල්ප වැරදි වන්නේ: Crankshaft යනු එන්ජිමේ පහළ කොටසේ ඇති භ්‍රමණය වන ප්‍රධාන පතුවළයි. Piston යනු සිලින්ඩරය තුළ ඉහළ පහළ යන කොටසයි. Cylinder liner යනු සිලින්ඩරයේ අභ්‍යන්තර බිත්තිය ලෙස ක්‍රියා කරන සිලින්ඩරාකාර කොටසයි."
     },
     {
         "category": "CES – Engine, Support level",
@@ -2889,7 +2888,7 @@
         "images": [
             "https://i.ibb.co/hR5HsJYK/Screenshot-2026-03-25-at-09-34-30-Wrong-answer-summary-ilide-info-engine-support-level-4-pr-f7d1fa90.png"
         ],
-        "explanation": ""
+        "explanation": "නිවැරදි පිළිතුර වන්නේ Crankshaft (ක්‍රෑන්ක්ෂාෆ්ට්) ය. එන්ජිමක පිස්ටනය මගින් ලබාදෙන රේඛීය චලිතය (linear motion) භ්‍රමණ චලිතයක් (rotary motion) බවට පත් කරන්නේ මෙම කොටස මගිනි. අනෙකුත් විකල්ප වැරදි වීමට හේතු: 1. Connecting rod: මෙය පිස්ටනය සහ ක්‍රෑන්ක්ෂාෆ්ට් එක සම්බන්ධ කරන දණ්ඩයි. 2. Piston: මෙය සිලින්ඩරය තුළ ඉහළ පහළ යන සිලින්ඩරාකාර කොටසයි. 3. Cylinder liner: මෙය පිස්ටනය ගමන් කරන සිලින්ඩරයේ අභ්‍යන්තර බිත්තිය සාදන සිලින්ඩරාකාර කොටසයි."
     },
     {
         "category": "CES – Engine, Support level",
@@ -2905,7 +2904,7 @@
         "images": [
             "https://i.ibb.co/Z1VgBgGk/Screenshot-2026-03-25-at-09-45-04-Wrong-answer-summary-ilide-info-engine-support-level-4-pr-f7d1fa90.png"
         ],
-        "explanation": ""
+        "explanation": "මෙම සංකේතය මගින් නිරූපණය කරන්නේ 'Lifebuoy with light and smoke' හෙවත් ආලෝකය සහ දුම් සංඥා සහිත ජීවිතාරක්ෂක වළල්ලයි. මෙය සාමාන්‍යයෙන් නැවක පාලම් තට්ටුවේ (Bridge wing) සවි කර ඇති අතර, යම් පුද්ගලයෙකු මුහුදට වැටුණු විට (Man overboard) වහාම දියට දැමීම සඳහා භාවිතා කරයි. අනෙක් පිළිතුරු වැරදි වන්නේ: 'Lifeboat station' යනු ජීවිතාරක්ෂක බෝට්ටු ස්ථානයයි, 'Emergency exit' යනු හදිසි පිටවීමේ දොරටුවයි, සහ 'Muster station' යනු නැවේ සියලුම කාර්ය මණ්ඩලය හදිසි අවස්ථාවකදී රැස්විය යුතු ස්ථානයයි. මේවා සඳහා වෙනත් ජාත්‍යන්තරව පිළිගත් සංකේත භාවිතා වේ."
     },
     {
         "category": "CES – Engine, Support level",
@@ -2921,7 +2920,7 @@
         "images": [
             "https://i.ibb.co/vKm6hBK/Screenshot-2026-03-25-at-09-48-49-Wrong-answer-summary-ilide-info-engine-support-level-4-pr-f7d1fa90.png"
         ],
-        "explanation": ""
+        "explanation": "මෙම සංකේතය මගින් නිරූපණය කරන්නේ 'Line-throwing appliance' හෙවත් නෞකාවක හදිසි අවස්ථාවකදී ගලවා ගැනීමේ කඹයක් විදින උපකරණයයි. අනෙක් පිළිතුරු වැරදි වන්නේ: 'Fire extinguisher' සඳහා ගිනි නිවන උපකරණයක් නිරූපණය කරන වෙනම සංකේතයක් භාවිතා කරයි. 'Lifebuoy station' සඳහා ජීවිතාරක්ෂක වළල්ලක් (Lifebuoy) සහිත සංකේතයක් භාවිතා වේ. 'Emergency escape route' සඳහා හදිසි පිටවීමේ මාර්ගය පෙන්වන ඊතල සහිත සංකේත භාවිතා කරන බැවිනි."
     },
     {
         "category": "CES – Engine, Support level",
@@ -2935,7 +2934,7 @@
         ],
         "correct_answer": "1,5 litre.",
         "images": [],
-        "explanation": ""
+        "explanation": "මුහුදේදී දිවි ගලවා ගැනීමේ උපකරණ පිළිබඳ SOLAS රෙගුලාසිවලට අනුව, මුහුදු ජලය පිරිසිදු කරන උපකරණයක් (Desalting apparatus) නොමැති සෑම ජීවිතාරක්ෂක පරුවකම එක් පුද්ගලයෙකුට ලීටර් 1.5 ක අවම පානීය ජල ප්‍රමාණයක් තිබිය යුතුය. මෙම ජලය කුඩා පැකට් හෝ ටින් වල අසුරා ඇති අතර, සාමාන්‍යයෙන් පළමු පැය 24 තුළ ජලය පානය නොකර සිටීමට උපදෙස් දෙනු ලැබේ. ඉන්පසුව සලාක ක්‍රමයට (Rationing) මෙම ජලය භාවිතා කළ යුතුය. මෙම ප්‍රමාණය තීරණය කර ඇත්තේ මුහුදේ අතරමං වූ පුද්ගලයෙකුට සහන කණ්ඩායම් පැමිණෙන තෙක් අවම දින කිහිපයක් ජීවත් වීමට අවශ්‍ය මූලික අවශ්‍යතාවය සලකා බැලීමෙනි."
     },
     {
         "category": "CES – Engine, Support level",
@@ -2949,7 +2948,7 @@
         ],
         "correct_answer": "Metals.",
         "images": [],
-        "explanation": ""
+        "explanation": "ගිනි වර්ගීකරණයට අනුව 'D' කාණ්ඩයේ ගින්නක් (Class D fire) ලෙස හඳුන්වන්නේ දැවෙන සුළු ලෝහ (Combustible metals) සම්බන්ධ ගිනි ගැනීම් වේ. මින් මැග්නීසියම්, සෝඩියම්, පොටෑසියම් සහ ලිතියම් වැනි ලෝහ ප්‍රධාන වේ. මෙම ලෝහ ගිනි ගත් විට ඉතා අධික උෂ්ණත්වයක් ජනනය වන අතර ඒවා නිවීමට සාමාන්‍ය ජලය හෝ පෙන (Foam) භාවිතා කළ නොහැක. මක්නිසාද යත් ජලය සමග මෙම ලෝහ ප්‍රතික්‍රියා කර හයිඩ්‍රජන් වායුව පිට කරමින් පිපිරීම් ඇති කළ හැකි බැවිනි. මේ සඳහා විශේෂිත වූ 'Dry Powder' ගිනි නිවන ද්‍රව්‍ය භාවිතා කළ යුතුය."
     },
     {
         "category": "CES – Engine, Support level",
@@ -2963,7 +2962,7 @@
         ],
         "correct_answer": "Powder.",
         "images": [],
-        "explanation": ""
+        "explanation": "ප්‍රධාන ස්විච් පුවරුවක් (Main switchboard) වැනි විදුලි පද්ධතියක ගින්නක් ඇතිවූ විට, ඒ සඳහා වඩාත් සුදුසු ගිනි නිවන ද්‍රව්‍යය වන්නේ 'Dry Powder' වේ. විදුලි ගිනි ගැනීම්වලදී ජලය හෝ පෙන භාවිතා කිරීම අතිශයින්ම භයානක වන්නේ ඒවා විදුලිය සන්නයනය කරන බැවින් ගිනි නිවන පුද්ගලයාට විදුලි සැර වැදීමට ඉඩ ඇති බැවිනි. කාබන් ඩයොක්සයිඩ් (CO2) ද විදුලි ගිනි සඳහා භාවිතා කළ හැකි වුවද, විශාල විදුලි පද්ධතියක පවතින ගින්නක් ඉක්මනින් පාලනය කිරීමට පවුඩර් වඩාත් ඵලදායී වේ. පවුඩර් මගින් විදුලිය සන්නයනය නොකරන අතර ගින්න වටා ආවරණයක් සාදා ඔක්සිජන් සැපයුම නතර කර ගින්න නිවා දමයි."
     },
     {
         "category": "CES – Engine, Support level",
@@ -2977,7 +2976,7 @@
         ],
         "correct_answer": "At the highest point of the steam drum.",
         "images": [],
-        "explanation": ""
+        "explanation": "වාෂ්ප බෝයිලරයක 'Air vent cock' එක සෑම විටම වාෂ්ප බෙරයේ (Steam drum) ඉහළම ස්ථානයේ සවිකර තිබේ. මෙයට ප්‍රධාන හේතු දෙකක් ඇත: පළමුව, බෝයිලරය ජලයෙන් පුරවන විට ඇතුළත ඇති වාතය ඉහළට තෙරපෙන බැවින් එය පිට කිරීමට මෙම ස්ථානය වඩාත් සුදුසු වේ. දෙවනුව, බෝයිලරය රත් කර වාෂ්ප නිපදවීමට පටන් ගන්නා විට මුල් අවස්ථාවේදී ඇතිවන වාතය (Non-condensable gases) පිට කිරීම සඳහා මෙය භාවිතා කරයි. බෝයිලරය තුළ පීඩනය යම් මට්ටමකට (සාමාන්‍යයෙන් 0.5 - 1 bar) පැමිණෙන තෙක් මෙය විවෘතව තැබිය යුතු අතර, පසුව වසා දමනු ලැබේ."
     },
     {
         "category": "CES – Engine, Support level",
@@ -2991,7 +2990,7 @@
         ],
         "correct_answer": "BLEVE.",
         "images": [],
-        "explanation": ""
+        "explanation": "BLEVE (Boiling Liquid Expanding Vapor Explosion) යනු ද්‍රවීකෘත වායූන් අඩංගු ටැංකියක් අධික තාපයට (සාමාන්‍යයෙන් පිටතින් ඇති ගින්නකට) හසුවූ විට සිදුවන දරුණු පිපිරීමකි. මෙහිදී සිදුවන්නේ ටැංකිය තුළ ඇති ද්‍රවයේ උෂ්ණත්වය ඉහළ ගොස් එහි පීඩනය දරාගත නොහැකි මට්ටමට පත්වී ටැංකිය එකවරම පුපුරා යාමයි. එවිට ඇතුළත තිබූ ද්‍රවය ක්ෂණිකව වාෂ්ප වී විශාල ගිනිබෝලයක් (Fireball) නිර්මාණය කරමින් වටා ඇති ප්‍රදේශයට දැවැන්ත හානියක් සිදු කරයි. මෙය නාවික ක්ෂේත්‍රයේදී ගෑස් ප්‍රවාහනය කරන නෞකාවල (LPG/LNG tankers) සිදුවිය හැකි දරුණුතම අනතුරක් ලෙස සැලකේ."
     },
     {
         "category": "CES – Engine, Support level",
@@ -3007,7 +3006,7 @@
         "images": [
             "https://i.ibb.co/xqWW8RWz/Screenshot-2026-03-25-at-10-22-01-Wrong-answer-summary-ilide-info-engine-support-level-4-pr-f7d1fa90.png"
         ],
-        "explanation": ""
+        "explanation": "මෙම සංකේතය මගින් නිරූපණය කරන්නේ 'Foam release station' හෙවත් පෙන (Foam) මුදාහරින ස්ථානයයි. නෞකාවක ගිනි නිවීමේ පද්ධතිවලදී විශේෂයෙන්ම ඉන්ධන හෝ තෙල් ආශ්‍රිත ගින්නක් නිවා දැමීම සඳහා මෙම පද්ධතිය භාවිතා කරයි. අනෙක් පිළිතුරු වැරදි වීමට හේතු: 1. Fire alarm (ගිනි අනතුරු ඇඟවීම) සඳහා සාමාන්‍යයෙන් සීනුවක හෝ ගිනි දැල්ලක සංකේතයක් භාවිතා කරයි. 2. Fire hose station (ගිනි හෝස් ස්ථානය) සඳහා හෝස් රීලයක සංකේතයක් භාවිතා කරයි. 3. Emergency exit (හදිසි පිටවීමේ දොරටුව) සඳහා දොරක් සහ ඊතලයක් සහිත සංකේතයක් භාවිතා කරයි."
     },
     {
         "category": "CES – Engine, Support level",
@@ -3039,7 +3038,7 @@
         "images": [
             "https://i.ibb.co/zhThgP1H/Screenshot-2026-03-25-at-10-29-09-Wrong-answer-summary-ilide-info-engine-support-level-4-pr-f7d1fa90.png"
         ],
-        "explanation": ""
+        "explanation": "මෙම සංකේතය මගින් නිරූපණය කරන්නේ 'ළමුන් සඳහා වන ජීවිතාරක්ෂක කබාය' (Child’s lifejacket) ය. IMO (International Maritime Organization) ප්‍රමිතීන්ට අනුව, මෙම සංකේතය මගින් ළමුන් සඳහා වෙන් කර ඇති ජීවිතාරක්ෂක උපකරණ ගබඩා කර ඇති ස්ථානය හඳුනා ගනී. අනෙක් පිළිතුරු වැරදි වීමට හේතු: 'Adult lifejacket' යනු වැඩිහිටියන් සඳහා වන කබායයි, එහි සංකේතය ළමා කබායට වඩා වෙනස් වේ. 'Lifebuoy station' යනු ජීවිතාරක්ෂක වළලු (Lifebuoy) ඇති ස්ථානයයි. 'Muster station' යනු හදිසි අවස්ථාවකදී කාර්ය මණ්ඩලය සහ මගීන් රැස්විය යුතු ස්ථානයයි, එහි සංකේතය සම්පූර්ණයෙන්ම වෙනස් වේ."
     },
     {
         "category": "CES – Engine, Support level",
@@ -3053,7 +3052,7 @@
         ],
         "correct_answer": "Use a rope ladder close to the raft to climb down and board.",
         "images": [],
-        "explanation": ""
+        "explanation": "නැවක් අතහැර යාමේදී (Abandon ship) ජලයට පැනීම අවසාන විකල්පය ලෙස තබා ගත යුතුය. ජලය ඉතා සීතල විය හැකි අතර, ජලයට පැනීමේදී තුවාල සිදුවීමට හෝ දියේ ගිලීමට ඇති අවදානම වැඩිය. එම නිසා, රෙදි හෝ ලණු ඉණිමඟක් (Rope ladder/Jacobs ladder) භාවිතා කර ආරක්ෂිතව පහළට බැස පරුවට (Liferaft) ගොඩවීම වඩාත් සුදුසු ක්‍රමයයි. මෙලෙස සිදු කිරීමෙන් සිරුර තෙත්වීම වළක්වා ගත හැකි අතර, එමගින් හයිපෝතර්මියාව (Hypothermia) වැනි මාරාන්තික තත්ත්වයන්ගෙන් ආරක්ෂා විය හැක. පරුව තට්ටුව මතට (Deck) පහත් කිරීම ප්‍රායෝගික නොවන අතර එය ජලයේ පාවෙමින් තිබියදී ගොඩවීම වඩාත් ආරක්ෂිත වේ."
     },
     {
         "category": "CES – Engine, Support level",
@@ -3062,12 +3061,12 @@
         "answers": [
             "1 second.",
             "2 seconds.",
-            "5 seconds.",
+            "2 seconds.",
             "10 seconds."
         ],
         "correct_answer": "2 seconds.",
         "images": [],
-        "explanation": ""
+        "explanation": "ජීවිතාරක්ෂක කබා (Lifejackets) නිෂ්පාදනය කර ඇත්තේ දැඩි ආරක්ෂක ප්‍රමිතීන්ට අනුවය. SOLAS රෙගුලාසි වලට අනුව, ජීවිතාරක්ෂක කබායක් සම්පූර්ණයෙන්ම ගින්නකට හසුවුවහොත්, තත්පර 2 ක කාලයකට පසුව එය දිගින් දිගටම දැවෙමින් පැවතීම හෝ දියවීම (Melting) සිදු නොවිය යුතුය. මක්නිසාද යත්, නැවක ගින්නක් ඇතිවූ අවස්ථාවකදී ජීවිතාරක්ෂක කබාය පැළඳ සිටින පුද්ගලයා කෙටි වෙලාවක් ගිනිදැල් අතරින් ගමන් කිරීමට සිදු වුවහොත්, එමගින් කබායට හානි වී ඔහුගේ ආරක්ෂාව තර්ජනයට ලක් නොවිය යුතු බැවිනි. මෙය ජීවිතාරක්ෂක මෙවලම්වල තිබිය යුතු අත්‍යාවශ්‍ය ගුණාංගයකි."
     },
     {
         "category": "CES – Engine, Support level",
@@ -3081,7 +3080,7 @@
         ],
         "correct_answer": "12 h.",
         "images": [],
-        "explanation": ""
+        "explanation": "ජීවිතාරක්ෂක පරුවක පිටත සවිකර ඇති ලාම්පුව රාත්‍රී කාලයේදී මුදාගැනීමේ කණ්ඩායම්වලට (Rescue teams) පරුව හඳුනා ගැනීමට උපකාරී වේ. මෙම ලාම්පුව අවම වශයෙන් පැය 12 ක (12 hours) කාලයක් අඛණ්ඩව ක්‍රියාත්මක වීමේ ධාරිතාවකින් යුක්ත විය යුතුය. මෙයට හේතුව වන්නේ හදිසි අනතුරක් සිදුවූ පසු මුදාගැනීමේ කණ්ඩායම් පැමිණීමට සැලකිය යුතු කාලයක් ගතවිය හැකි බැවින්, අවම වශයෙන් මුළු රාත්‍රී කාලය පුරාම ආලෝකය පවත්වා ගැනීම අත්‍යාවශ්‍ය වීමයි. මෙම ආලෝකය නාවික සැතපුම් 2 ක දුරකට පැහැදිලිව පෙනිය යුතු බවටද නීති පවතී."
     },
     {
         "category": "CES – Engine, Support level",
@@ -3095,7 +3094,7 @@
         ],
         "correct_answer": "Measure oxygen contents in the atmosphere.",
         "images": [],
-        "explanation": ""
+        "explanation": "ඔක්සිජන් විශ්ලේෂකය (Oxygen analyzer) යනු වායුගෝලයේ ඇති ඔක්සිජන් ප්‍රතිශතය මැනීම සඳහා භාවිතා කරන උපකරණයකි. නැවක ටැංකි (Tanks) හෝ සංවෘත අවකාශයන් (Confined spaces) තුළට ඇතුළු වීමට පෙර එහි ප්‍රමාණවත් ඔක්සිජන් ප්‍රමාණයක් (සාමාන්‍යයෙන් 21%) පවතීදැයි පරීක්ෂා කිරීම මෙහි ප්‍රධාන අරමුණයි. ඔක්සිජන් මට්ටම අඩු ස්ථානයක වැඩ කිරීමෙන් සිහි නැති වීම හෝ මරණය පවා සිදුවිය හැක. දැවෙනසුලු වායූන් මැනීම සඳහා 'Explosimeter' භාවිතා කරන අතර, කාබන් ඩයොක්සයිඩ් මැනීමට වෙනත් විශේෂිත උපකරණ භාවිතා කරයි. එම නිසා ආරක්ෂිතව වැඩ කිරීමට නම් ඔක්සිජන් මට්ටම නිවැරදිව මැන බැලීම අනිවාර්ය වේ."
     },
     {
         "category": "CES – Engine, Support level",
@@ -3109,7 +3108,7 @@
         ],
         "correct_answer": "For as long as people are working in the tank.",
         "images": [],
-        "explanation": ""
+        "explanation": "සංවෘත අවකාශයක් හෙවත් ටැංකියක් තුළ පුද්ගලයන් වැඩ කරන මුළු කාලය පුරාම (For as long as people are working) වාතාශ්‍රය (Ventilation) අඛණ්ඩව ලබා දීම අනිවාර්ය වේ. වැඩ ආරම්භ කිරීමට පෙර පමණක් වාතාශ්‍රය ලබා දීම ප්‍රමාණවත් නොවේ, මන්දයත් වැඩ කරන අතරතුරදී (උදාහරණ ලෙස වෙල්ඩින් කිරීමේදී හෝ පිරිසිදු කිරීමේදී) විෂ වායූන් ජනනය වීමට හෝ ඔක්සිජන් මට්ටම අඩු වීමට ඉඩ ඇති බැවිනි. අඛණ්ඩ වාතාශ්‍රය මගින් පිරිසිදු වාතය ඇතුළට ලැබෙන බවත්, අපිරිසිදු වාතය ඉවත් වන බවත් සහතික කෙරේ. මෙය නැවක ආරක්ෂාව සම්බන්ධයෙන් අනුගමනය කළ යුතු අත්‍යාවශ්‍යම රීතියකි."
     },
     {
         "category": "CES – Engine, Support level",
@@ -3123,7 +3122,7 @@
         ],
         "correct_answer": "Security Level 3.",
         "images": [],
-        "explanation": ""
+        "explanation": "ISPS (International Ship and Port Facility Security) කේතයට අනුව ආරක්ෂක මට්ටම් තුනක් පවතී. ඉන් ඉහළම ආරක්ෂක අවදානම සහ දැඩිම ආරක්ෂක විධිවිධාන ක්‍රියාත්මක වන්නේ ආරක්ෂක මට්ටම 3 (Security Level 3) යටතේය. මෙම මට්ටම ප්‍රකාශ කරනු ලබන්නේ යම් නිශ්චිත ආරක්ෂක තර්ජනයක් (Security incident) සිදුවීමට ආසන්නව ඇති විට හෝ සිදුවෙමින් පවතින විටය. මට්ටම 1 යනු සාමාන්‍ය මට්ටම වන අතර, මට්ටම 2 මගින් ඉහළ ගිය අවදානමක් පෙන්වයි. 'Security Level 4' කියා මට්ටමක් ISPS කේතය තුළ නොමැත. එබැවින් මට්ටම 3 යනු උපරිම ආරක්ෂක සීරුවෙන් සිටිය යුතු අවස්ථාවයි."
     },
     {
         "category": "CES – Engine, Support level",
@@ -3137,7 +3136,7 @@
         ],
         "correct_answer": "Confirm with their search partner that the object found is suspicious.",
         "images": [],
-        "explanation": ""
+        "explanation": "නැවක් පරීක්ෂා කිරීමේදී සැකකටයුතු පාර්සලයක් හෝ බෝම්බයක් යැයි සැක කළ හැකි වස්තුවක් හමුවුවහොත්, කළ යුතු පළමු සහ ආරක්ෂිතම දේ වන්නේ තමා සමග පරීක්ෂාවේ යෙදෙන සහකරුට (Search partner) එය පෙන්වා ස්ථිර කර ගැනීමයි. එම වස්තුව කිසිසේත්ම ස්පර්ශ කිරීම, සෙලවීම හෝ විවෘත කිරීම නොකළ යුතුය, මන්ද යම් පීඩනයක් හෝ චලනයක් නිසා එය පිපිරී යාමට ඉඩ ඇති බැවිනි. ස්ථිර කර ගැනීමෙන් පසු වහාම ආරක්ෂක නිලධාරියාට (SSO) දැනුම් දී, අදාළ ස්ථානය සලකුණු කර එම ප්‍රදේශයෙන් ඉවත් විය යුතුය. වස්තුව එහා මෙහා කිරීම අතිශයින්ම භයානක ක්‍රියාවකි."
     },
     {
         "category": "CES – Engine, Support level",
@@ -3179,7 +3178,7 @@
         ],
         "correct_answer": "Steel drill bit.",
         "images": [],
-        "explanation": ""
+        "explanation": "පෙඩස්ටල් ග්‍රයින්ඩර් (Pedestal grinder) එකක් මගින් ආරක්ෂිතව මුවහත් කළ හැක්කේ වානේ වලින් නිම කරන ලද ඩ්‍රිල් බිට් (Steel drill bit) වැනි ලෝහමය ආයුධ පමණි. දැව කැපීමට ගන්නා නියන (Wooden chisel) මෙහිදී මුවහත් කිරීමට උත්සාහ කළහොත් එහි ඇති මෘදු වානේ අධික ලෙස රත් වී එහි ස්වභාවය (Temper) වෙනස් වී කැපුම් දාරය අඩාල විය හැක. ප්ලාස්ටික් හෝ ඇලුමිනියම් වැනි ද්‍රව්‍ය ග්‍රයින්ඩර් එකෙහි ඇති ගලෙහි (Grinding wheel) තැන්පත් වී එහි සිදුරු වැසී යාම (Clogging/Loading) සිදු වේ. මෙලෙස සිදුරු වැසුණු ගලක් පසුව භාවිතා කරන විට එය අධික ලෙස රත් වී පුපුරා යාමට (Burst) ඉඩ ඇති බැවින් එය ඉතා භයානක ය. එබැවින් වානේ ආයුධ පමණක් මේ සඳහා භාවිතා කිරීම නියමිත ප්‍රමිතියයි."
     },
     {
         "category": "CES – Engine, Support level",
@@ -3189,11 +3188,11 @@
             "Tape the damaged section with electrical tape and continue use.",
             "Ignore the damage as the inner insulation is intact.",
             "Label the damaged extension as unfit for use and return it to the store for testing and get a replacement extension.",
-            "Only use the extension for low-power tools."
+            "Only use the replacement extension for low-power tools."
         ],
         "correct_answer": "Label the damaged extension as unfit for use and return it to the store for testing and get a replacement extension.",
         "images": [],
-        "explanation": ""
+        "explanation": "විදුලි දිගු රැහැනක (Extension cable) පිටත ආවරණය (Outer insulation) පළුදු වී ඇති බව දුටු විට, එය වහාම භාවිතයෙන් ඉවත් කර 'භාවිතයට නුසුදුසුයි' (Unfit for use) යනුවෙන් ලේබල් කර ගබඩාව වෙත භාර දීම නිවැරදි ආරක්ෂක පියවරයි. ඇතුළත ආවරණ හොඳින් ඇති බව පෙනුණද, පිටත ආවරණය කැඩී තිබීම නිසා තෙතමනය හෝ තෙල් ඇතුළතට කාන්දු වී කෙටි පරිපථයක් (Short circuit) හෝ විදුලි සැර වැදීමක් (Electric shock) සිදුවීමට ඉහළ අවදානමක් ඇත. විදුලි ටේප් (Electrical tape) මගින් එවැනි හානියක් තාවකාලිකව වැසීම ප්‍රමාණවත් නොවන අතර, විශේෂයෙන්ම එන්ජින් කාමරයක් වැනි තෙල් සහ තාපය සහිත ස්ථානයකදී එය වඩාත් භයානක විය හැක. සියලුම විදුලි උපකරණ නියමිත පරීක්ෂාවන්ට (Testing) ලක් කර සහතික කිරීමෙන් පසුව පමණක් නැවත භාවිතයට ගත යුතුය."
     },
     {
         "category": "CES – Engine, Support level",
@@ -3221,7 +3220,7 @@
         ],
         "correct_answer": "Ships Safety Management Manual (ISM Code procedures).",
         "images": [],
-        "explanation": ""
+        "explanation": "නැවක සිදු කරන ඕනෑම නඩත්තු හෝ අලුත්වැඩියා කටයුත්තකදී ගත යුතු ආරක්ෂිත පියවර (Precautions) සහ අවදානම් තක්සේරු කිරීම් (Risk Assessments) පිළිබඳ නිල තොරතුරු අඩංගු වන්නේ නැවේ ආරක්ෂක කළමනාකරණ අත්පොත (Ships Safety Management Manual) තුළය. මෙය ජාත්‍යන්තර ආරක්ෂක කළමනාකරණ කේතය (ISM Code) යටතේ සකස් කර ඇති ලේඛනයකි. මෙහි සෑම කාර්යයක් සඳහාම අනුගමනය කළ යුතු සම්මත මෙහෙයුම් පටිපාටි (SOPs) සහ භාවිතා කළ යුතු පුද්ගලික ආරක්ෂක උපකරණ (PPE) පිළිබඳ විස්තරාත්මකව සඳහන් වේ. හුදෙක් සගයන්ගෙන් ඇසීමෙන් හෝ දැන්වීම් පුවරුවලින් ලැබෙන තොරතුරු අසම්පූර්ණ විය හැකි බැවින්, නිවැරදි සහ නීත්‍යානුකූල ආරක්ෂක උපදෙස් ලබා ගැනීමට මෙම අත්පොත පරිශීලනය කිරීම අනිවාර්ය වේ. එන්ජින් රූම් රේටින් (Rating) කෙනෙකු ලෙස වැඩ ආරම්භ කිරීමට පෙර අදාළ 'Permit to Work' එකෙහි සඳහන් උපදෙස් මෙම අත්පොතේ ඇති ක්‍රියා පටිපාටිවලට අනුකූල දැයි තහවුරු කර ගැනීම වෘත්තීය ආරක්ෂාව සඳහා ඉතා වැදගත් වේ."
     },
     {
         "category": "CES – Engine, Support level",
@@ -3251,7 +3250,7 @@
         "images": [
             "https://i.ibb.co/JjrXkhMW/Screenshot-2026-03-25-at-11-09-45-Wrong-answer-summary-ilide-info-engine-support-level-4-pr-f7d1fa90.png"
         ],
-        "explanation": ""
+        "explanation": "මෙම රූපයේ දැක්වෙන්නේ කේන්ද්‍රාපසාරී පොම්පයක් (Centrifugal pump) වේ. මෙහි ප්‍රධාන කොටස වන ඉම්පෙලර් (Impeller) එක මගින් ද්‍රවය භ්‍රමණය කරමින් කේන්ද්‍රාපසාරී බලය මගින් පීඩනය ලබා දීම සිදු කරයි. අනෙක් විකල්ප වැරදි වීමට හේතු: 1. Gear pump: මෙහි ගියර් දෙකක් එකිනෙක ගැටෙමින් ද්‍රවය ගමන් කරවයි, රූපයේ එවැනි ගියර් පද්ධතියක් නොමැත. 2. Diaphragm pump: මෙහි නම්‍යශීලී පටලයක් (diaphragm) මගින් ද්‍රවය තල්ලු කරයි, රූපයේ එවැනි පටලයක් නොමැත. 4. Piston pump: මෙහි පිස්ටනයක් සිලින්ඩරයක් තුළ චලනය වීමෙන් ද්‍රවය පොම්ප කරයි, රූපයේ පිස්ටන් යාන්ත්‍රණයක් නොමැත."
     },
     {
         "category": "CES – Engine, Support level",
@@ -3265,7 +3264,7 @@
         ],
         "correct_answer": "Gradually tighten the gland follower with the pump running until leakage at the gland stops.",
         "images": [],
-        "explanation": ""
+        "explanation": "කේන්ද්‍රාපසාරී පොම්පයක (Centrifugal pump) ග්ලෑන්ඩ් පැකින් (Gland packing) අලුතින් යෙදූ පසු, එය ක්‍රියාත්මක වන විට පොම්පයේ පතුවළ (Shaft) අධික ලෙස රත් වීම වැළැක්වීමට විශේෂ ක්‍රමවේදයක් අනුගමනය කළ යුතුය. පොම්පය පණගැන්වූ පසු, ග්ලෑන්ඩ් ෆලෝවර් (Gland follower) එක ක්‍රමයෙන් තද කළ යුතු අතර, එහිදී ස්වල්ප වශයෙන් ජලය කාන්දු වීමට ඉඩ හැරීම වැදගත් වේ. මෙම කාන්දු වන ජලය පැකින් සහ පතුවළ අතර ඇතිවන ඝර්ෂණය (Friction) අඩු කරන ලිහිසිකාරකයක් මෙන්ම සිසිලනකාරකයක් ලෙසද ක්‍රියා කරයි. පොම්පය පණගැන්වීමට පෙර මෙය සම්පූර්ණයෙන්ම තද කළහොත්, ලිහිසිකරණය සඳහා ජලය නොමැති වීම නිසා අධික තාපයක් ජනනය වී පතුවළට හෝ එහි ස්ලීව් (Sleeve) එකට බරපතල හානි සිදු විය හැක. එබැවින් කාන්දුව නතර වන තෙක් ක්‍රමයෙන් තද කිරීම (Gradual tightening) මගින් පතුවළ රත් නොවී ආරක්ෂිතව පවත්වා ගත හැක."
     },
     {
         "category": "CES – Engine, Support level",
@@ -3307,7 +3306,7 @@
         ],
         "correct_answer": "Rinsing of the eye with water.",
         "images": [],
-        "explanation": ""
+        "explanation": "ඇසට බාහිර ද්‍රව්‍යයක් (Foreign body) ඇතුළු වූ විට ගත යුතු වැදගත්ම සහ ප්‍රාථමික පියවර වන්නේ පිරිසිදු ජලයෙන් ඇස සේදීමයි (Rinsing of the eye with water). ඇස ඉතා සංවේදී ඉන්ද්‍රියයක් බැවින්, ඇතුළු වූ දූවිලි අංශුවක් හෝ රසායනික ද්‍රව්‍යයක් ඉවත් කිරීමට ඇස පිරිමැදීම (Rubbing) හෝ කපු පුළුන් කැබැල්ලකින් (Cotton swab) ඇදීමට උත්සාහ කිරීම නොකළ යුතුය. එසේ කිරීමෙන් ඇසේ කළු ඉංගිරියාවට (Cornea) සීරීම් සිදු වී ස්ථිර පෙනීමේ ආබාධ ඇති විය හැක. පිරිසිදු ජලය හෝ 'Eye wash station' එකක් භාවිතා කර මෘදු ලෙස ඇස සේදීමෙන් ඇසට හානියක් නොවී අදාළ ද්‍රව්‍යය ඉවත් කර ගත හැක. ඇසට පැච් එකක් (Eye patch) දැමීම කළ යුත්තේ ඇස සේදීමෙන් පසුවත් වේදනාව පවතින්නේ නම් වෛද්‍ය ප්‍රතිකාර සඳහා යන අතරතුරදී පමණි."
     },
     {
         "category": "CES – Engine, Support level",
@@ -3321,7 +3320,7 @@
         ],
         "correct_answer": "Stop the bleeding.",
         "images": [],
-        "explanation": ""
+        "explanation": "දරුණු ලෙස ලේ ගැලීමකදී (Major bleeding) ප්‍රථමාධාරකරුගේ ප්‍රමුඛතම කාර්යය විය යුත්තේ ලේ ගැලීම පාලනය කිරීම හෝ නැවැත්වීමයි (Stop the bleeding). ශරීරයෙන් කෙටි කාලයක් තුළ අධික ලෙස රුධිරය වහනය වීමෙන් පුද්ගලයෙකු කම්පනයට (Shock) පත්වීමට හෝ මිය යාමට පවා ඉඩ ඇත. තුවාලය පිරිසිදු කිරීම (Clean the wound) වැදගත් වුවද, එය ලේ ගැලීම නැවැත්වීමෙන් පසුව කළ යුතු දෙයකි. අතපය ඉහළට එසවීම (Raise the limb) මගින් රුධිර පීඩනය අඩු කර ලේ ගැලීම පාලනය කිරීමට උදව් විය හැකි නමුත්, එය මූලික පියවර නොවේ. සෘජු පීඩනය (Direct pressure) යෙදීම මගින් ලේ ගැලීම නැවැත්වීම ජීවිතය බේරා ගැනීමට ඇති වැදගත්ම ක්‍රමයයි."
     },
     {
         "category": "CES – Engine, Support level",
@@ -3335,7 +3334,7 @@
         ],
         "correct_answer": "The technical file for the engine.",
         "images": [],
-        "explanation": ""
+        "explanation": "EIAPP (Engine International Air Pollution Prevention) සහතිකය සමග අනිවාර්යයෙන්ම තිබිය යුතු ලේඛනය වන්නේ එම එන්ජිමට අදාළ 'Technical File' එකයි. මාපෝල් (MARPOL Annex VI) රෙගුලාසිවලට අනුව, නයිට්‍රජන් ඔක්සයිඩ් (NOx) විමෝචනය පාලනය කිරීම සඳහා එන්ජිමේ ඇති සියලුම තාක්ෂණික විස්තර, අමතර කොටස්වල අනුකූලතාවය සහ එන්ජිමේ පරාමිතීන් (Parameters) මෙම ගොනුව තුළ අඩංගු විය යුතුය. නැව පරීක්ෂා කිරීමට පැමිණෙන නිලධාරීන් (Port State Control) EIAPP සහතිකය පරීක්ෂා කරන විට මෙම Technical File එක ද ඉල්ලා සිටින අතර, එහි ඇති දත්තවලට අනුව එන්ජිම ක්‍රියාත්මක වන බව ඔවුන් තහවුරු කර ගනී. නඩත්තු කාලසටහන් හෝ කාර්ය මණ්ඩල පුහුණු වාර්තා මෙහි කොටසක් නොවේ."
     },
     {
         "category": "CES – Engine, Support level",
@@ -3349,7 +3348,7 @@
         ],
         "correct_answer": "At least twelve months.",
         "images": [],
-        "explanation": ""
+        "explanation": "නැවකට ඉන්ධන ලබා ගැනීමේදී (Bunkering) ලබා ගන්නා ඉන්ධන සාම්පල (Bunker fuel samples) අවම වශයෙන් මාස දොළහක් (At least twelve months) නැව තුළ සුරක්ෂිතව තබා ගත යුතුය. මෙය MARPOL Annex VI රෙගුලාසි යටතේ එන අනිවාර්ය නීතියකි. මෙලෙස සාම්පල තබා ගන්නේ අදාළ ඉන්ධන භාවිතා කිරීමේදී එන්ජිමට හානි සිදුවුවහොත් හෝ විමෝචන මට්ටම් (Emissions) පිළිබඳව ගැටලුවක් මතු වුවහොත් පරීක්ෂා කිරීම සඳහාය. එමෙන්ම පරීක්ෂක නිලධාරියෙකුට ඕනෑම අවස්ථාවක මෙම සාම්පල බැලීමට අයිතියක් ඇත. මාස 6 ක් හෝ 3 ක් වැනි කෙටි කාලයකදී සාම්පල ඉවත් කිරීම නීති විරෝධී වන අතර, එමගින් නැවට දඩ මුදල් හෝ නීතිමය ගැටලු ඇති විය හැක."
     },
     {
         "category": "CES – Engine, Support level",
@@ -3377,7 +3376,7 @@
         ],
         "correct_answer": "Use a suitable chain block suspended from the crane hook to «break» the motor free after slackening all of the retaining bolts.",
         "images": [],
-        "explanation": ""
+        "explanation": "විශාල විදුලි මෝටරයක් වැනි බරැති උපකරණයක් ඉවත් කිරීමේදී එය නිකම්ම එන්ජින් රූම් ක්‍රේන් (Crane) එක මගින් එසවීමට උත්සාහ කිරීම භයානක විය හැක. මෝටරය සහ පොම්පය අතර ඇති මතුපිටවල් කාලයක් තිස්සේ එකට තිබීම නිසා ඇලී පැවතිය හැක (Seized). ක්‍රේන් එක මගින් කෙලින්ම ඉහළට ඇදීමට උත්සාහ කළහොත්, මෝටරය එක්වරම ගැලවී ඉහළට විසිවීමට (Jerking) ඉඩ ඇති අතර එමගින් ක්‍රේන් එකට හෝ අවට සේවකයන්ට හානි විය හැක. එබැවින් ක්‍රේන් කොක්කේ (Crane hook) සුදුසු 'Chain block' එකක් එල්ලා, එමගින් ඉතා සියුම් ලෙස සහ පාලනයකින් යුතුව මෝටරය පොම්පයෙන් නිදහස් කර ගැනීම (Break free) වඩාත් ආරක්ෂිත ක්‍රමයයි. මෙලෙස බුරුල් කරගත් පසු ආරක්ෂිතව ක්‍රේන් එක මගින් මෝටරය ඉවතට ගත හැක."
     },
     {
         "category": "CES – Engine, Support level",
@@ -3391,7 +3390,7 @@
         ],
         "correct_answer": "Shims should be fitted between the motor and compressor feet and the skid to ensure correct vertical, horizontal and parallel alignment of the coupling halves before it is bolted up.",
         "images": [],
-        "explanation": ""
+        "explanation": "වායු සම්පීඩකයක් (Air compressor) සහ මෝටරයක් එකිනෙකට සම්බන්ධ කිරීමේදී ඒවායේ අක්ෂ (Shafts) ඉතා නිවැරදිව එකම මට්ටමක පිහිටිය යුතුය (Alignment). මේ සඳහා තුනී ලෝහ තහඩු හෙවත් 'Shims' මෝටරයේ හෝ කොම්ප්‍රෙෂරයේ පාද සහ ඒවා සවිකර ඇති පදනම (Skid) අතරට ඇතුළු කිරීම සිදු කරනු ලබයි. මෙමගින් සිරස් (Vertical), තිරස් (Horizontal) සහ සමාන්තර (Parallel) පෙළගැස්ම නිවැරදිව සකසා ගත හැක. 'Flexible coupling' එකක් භාවිතා කළද, පෙළගැස්ම වැරදි වුවහොත් අධික කම්පනය (Vibration) ඇති වී බෙයාරින් (Bearings) වලට හානි සිදු විය හැක. Resilient mountings (කම්පන අවශෝෂක) මගින් සිදු කරන්නේ මුළු උපකරණයම තට්ටුවෙන් වෙන් කිරීම මිස උපකරණ දෙක අතර පෙළගැස්ම සැකසීම නොවේ. එමෙන්ම 'Coupling' එක බෝල්ට් කර තද කිරීමට පෙර මෙම පෙළගැස්ම පරීක්ෂා කර තහවුරු කර ගත යුතුය."
     },
     {
         "category": "CES – Engine, Support level",
@@ -3489,7 +3488,7 @@
         ],
         "correct_answer": "Back pressure control valve.",
         "images": [],
-        "explanation": ""
+        "explanation": "නැවක ශීතකරණ පද්ධතියක (Refrigeration system) එළවළු ගබඩා කරන කාමරය (Vegetable room) වැනි ස්ථානවල උෂ්ණත්වය සාමාන්‍යයෙන් සෙන්ටිග්‍රේඩ් 4ක් වැනි මට්ටමක පවත්වා ගත යුතුය. මෙහිදී 'Back pressure control valve' (හෝ Evaporator Pressure Regulator) මගින් සිදු කරන්නේ එවාපරේටර් දඟර (Evaporator coils) තුළ ඇති පීඩනය යම් මට්ටමකට වඩා අඩු වීමට ඉඩ නොදී පවත්වා ගැනීමයි. පීඩනය අධික ලෙස අඩු වුවහොත් වාෂ්පීකරණ උෂ්ණත්වය (Saturation temperature) සෘණ අගයක් දක්වා පහත වැටෙන අතර, එවිට දඟර මත අයිස් තට්ටු (Frost) බැඳීම ආරම්භ වේ. කාමරයේ උෂ්ණත්වය නිවැරදි මට්ටමට පැමිණ 'Liquid line valve' එක වැසුණු පසුවත් මෙලෙස අයිස් බැඳෙන්නේ නම්, එයින් අදහස් වන්නේ Back pressure control valve එක නිවැරදිව ක්‍රියා නොකිරීම නිසා පීඩනය පාලනයෙන් තොරව පහත වැටී ඇති බවයි. Expansion valve එක වැරදි නම් සාමාන්‍යයෙන් සිසිලනය අඩාල වන අතර, Thermostat එක මගින් සිදු කරන්නේ කාමරයේ උෂ්ණත්වය අනුව පද්ධතිය ක්‍රියා විරහිත කිරීමයි. Solenoid valve එක දෝෂ සහිත නම් දියර ගලා යාම නතර නොවන නමුත්, මෙහි ගැටලුව වන්නේ උෂ්ණත්වය නිවැරදි මට්ටමේ තිබියදීත් අයිස් බැඳීමයි."
     },
     {
         "category": "CES – Engine, Support level",
@@ -3503,7 +3502,7 @@
         ],
         "correct_answer": "Use ultrasound equipment.",
         "images": [],
-        "explanation": ""
+        "explanation": "ප්‍රධාන වාෂ්ප බෝයිලරයක (Main steam boiler) වාෂ්ප බෙරයේ (Steam drum) ඝනකම පරීක්ෂා කිරීම සඳහා වඩාත්ම දියුණු සහ නිවැරදි ක්‍රමය වන්නේ අතිධ්වනික උපකරණ (Ultrasound equipment/Ultrasonic Thickness Gauging) භාවිතයයි. බෝයිලරය භාවිත කරන විට අධික පීඩනය සහ උෂ්ණත්වය නිසා මෙන්ම ජලයෙහි ඇති රසායනික ප්‍රතික්‍රියා නිසා ලෝහ මතුපිට තුනී වීමට (Corrosion/Erosion) ඉඩ ඇත. අතිධ්වනික තරංග මගින් ලෝහයට හානි නොකර (Non-destructive testing), එහි ඇතුළත ඝනකම මිලිමීටරයෙන් දශමයකට පවා නිවැරදිව මැනිය හැක. බෝරොස්කෝප් (Boroscope) එකකින් කළ හැක්කේ මතුපිට දෘශ්‍ය පරීක්ෂාවක් පමණි. මැග්නටික් පාටිකල් ටෙස්ටින් (Magnetic particle testing) භාවිතා කරන්නේ මතුපිට ඇති ඉරිතැලීම් (Cracks) සෙවීමට මිස ඝනකම මැනීමට නොවේ. හැමර් ටෙස්ටින් (Hammer testing) යනු ලෝහයේ ශබ්දය අනුව දළ නිගමනයකට එන පැරණි ක්‍රමයක් වන අතර එය නිරවද්‍යතාවයෙන් ඉතා අඩුය."
     },
     {
         "category": "CES – Engine, Support level",
@@ -3517,7 +3516,7 @@
         ],
         "correct_answer": "The capacity of the safety valve to relieve pressure.",
         "images": [],
-        "explanation": ""
+        "explanation": "ඇකියුමිලේෂන් ටෙස්ට් (Accumulation Test) එකක් මගින් මූලිකවම පරීක්ෂා කරනු ලබන්නේ බෝයිලරයක ඇති ආරක්ෂක වෑල්ව (Safety valves) වලට, බෝයිලරය උපරිම ධාරිතාවෙන් ක්‍රියා කරන විට ඇතිවන අතිරික්ත පීඩනය ආරක්ෂිතව පිට කිරීමට ඇති හැකියාවයි. මෙහිදී බෝයිලරයේ වාෂ්ප පිටවන ප්‍රධාන වෑල්වය (Main stop valve) වසා දමා, උපරිම ලෙස ඉන්ධන දහනය කරමින් වාෂ්ප ජනනය කරයි. එවිට ආරක්ෂක වෑල්ව විවෘත වී පීඩනය පිට කළ යුතු අතර, කිසිදු අවස්ථාවක බෝයිලරය තුළ පීඩනය සැලසුම් කළ උපරිම සේවා පීඩනයෙන් (Maximum Working Pressure) 10% කට වඩා වැඩි නොවිය යුතුය. මෙය බෝයිලරයේ ව්‍යුහය හෝ කාර්යක්ෂමතාව මැනීමක් නොව, හදිසි අවස්ථාවකදී බෝයිලරය පුපුරා යාම වැළැක්වීමට ආරක්ෂක පද්ධතියට ඇති හැකියාව තහවුරු කිරීමකි."
     },
     {
         "category": "CES – Engine, Support level",
@@ -3531,7 +3530,7 @@
         ],
         "correct_answer": "Silica gel.",
         "images": [],
-        "explanation": ""
+        "explanation": "බෝයිලරයක් දීර්ඝ කාලයක් ක්‍රියා විරහිත කර තබන විට (Dry lay up), එහි ඇතුළත මලකඩ කෑම වැළැක්වීම සඳහා තෙතමනය සම්පූර්ණයෙන්ම ඉවත් කළ යුතුය. මේ සඳහා වාතයේ ඇති තෙතමනය උරා ගන්නා (Desiccant) ද්‍රව්‍යයක් ලෙස සිලිකා ජෙල් (Silica gel) භාවිතා කරයි. සිලිකා ජෙල් බන්දේසි මත තබා බෝයිලරයේ බෙර (Drums) තුළ තැන්පත් කර බෝයිලරය වාතය ඇතුළු නොවන සේ වසා තබයි. සෝඩියම් හයිඩ්‍රොක්සයිඩ් (Sodium hydroxide) සාමාන්‍යයෙන් භාවිතා කරන්නේ තෙත් ක්‍රමයට (Wet lay up) බෝයිලර් තැබීමේදී ජලයේ ඇති ආම්ලිකතාවය පාලනය කිරීමට මිස තෙතමනය උරා ගැනීමට නොවේ. කැල්සියම් කාබනේට් සහ ඇමෝනියම් සල්ෆේට් මෙම කාර්යය සඳහා කිසිසේත්ම සුදුසු නොවන අතර ඒවායින් ලෝහ මතුපිටට අහිතකර බලපෑම් ඇති විය හැක."
     },
     {
         "category": "CES – Engine, Support level",
@@ -3601,7 +3600,7 @@
         ],
         "correct_answer": "1 000 Volts ac or 1 500 Volts dc.",
         "images": [],
-        "explanation": ""
+        "explanation": "ජාත්‍යන්තර ප්‍රමිතීන්ට අනුව සහ නාවික ක්ෂේත්‍රයේදී (Maritime standards), අධි වෝල්ටීයතාව (High Voltage) ලෙස අර්ථ දක්වන්නේ ප්‍රත්‍යාවර්ත ධාරා (AC) යටතේ වෝල්ට් 1,000 කට වඩා වැඩි හෝ සෘජු ධාරා (DC) යටතේ වෝල්ට් 1,500 කට වඩා වැඩි මට්ටමක ක්‍රියාත්මක වන පද්ධති වේ. මීට අඩු මට්ටම් අඩු වෝල්ටීයතා (Low Voltage) පද්ධති ලෙස හැඳින්වේ. වර්තමානයේ විශාල නෞකාවල විදුලි අවශ්‍යතාවය ඉහළ ගොස් ඇති බැවින් (විශේෂයෙන්ම විශාල මෝටර් සහ ප්‍රචාලන පද්ධති සඳහා), විදුලි රැහැන්වල ප්‍රමාණය සහ බර අඩු කර ගැනීම සඳහා මෙවැනි අධි වෝල්ටීයතා පද්ධති බහුලව භාවිතා කරයි. මෙවැනි පද්ධති නඩත්තු කිරීමේදී සහ ක්‍රියාත්මක කිරීමේදී විශේෂිත ආරක්ෂක විධිවිධාන (Safety protocols) සහ අදාළ සහතික ලත් නිලධාරීන් සිටීම අනිවාර්ය වේ, මන්ද එහිදී ඇතිවන විදුලි චාප (Arc flash) සහ විදුලි සැර වැදීමේ අවදානම සාමාන්‍ය පද්ධතිවලට වඩා ඉතා ඉහළ බැවිනි."
     },
     {
         "category": "CES – Engine, Support level",
@@ -3629,7 +3628,7 @@
         ],
         "correct_answer": "My vessel has lost containers with dangerous goods of IMDG Class….in position…»",
         "images": [],
-        "explanation": ""
+        "explanation": "නැවකින් අනතුරුදායක භාණ්ඩ (Dangerous Goods) අඩංගු කන්ටේනර් මුහුදට වැටුණු අවස්ථාවකදී, ඒ පිළිබඳව වාර්තා කිරීමේදී අනුගමනය කළ යුතු සම්මත ජාත්‍යන්තර ක්‍රමවේදයක් පවතී. මෙහිදී වඩාත්ම වැදගත් වන්නේ අදාළ භාණ්ඩය කුමන වර්ගයේ අනතුරක් ඇති කළ හැකිද යන්න හැඳින්වෙන 'IMDG Class' එක සහ එය සිදුවූ නිශ්චිත ස්ථානය (Position) සඳහන් කිරීමයි. මෙවැනි වාර්තා කිරීමක් මගින් අවට යාත්‍රා කරන අනෙකුත් නැව්වලට සහ වෙරළාරක්ෂක බලකායන්ට එම ස්ථානය පිළිබඳව දැනුවත් වී අවශ්‍ය ආරක්ෂක පියවර ගැනීමට සහ පරිසර හානිය අවම කිරීමට හැකියාව ලැබේ. 'Misplaced' හෝ 'Lost some containers' වැනි අපැහැදිලි ප්‍රකාශ භාවිතා කිරීමෙන් අනතුරේ බරපතලකම වටහා ගත නොහැකි අතර, එය නාවික ආරක්ෂාවට බරපතල තර්ජනයක් විය හැක. එබැවින් නිවැරදි IMDG කාණ්ඩය සහ පිහිටීම සහිතව පණිවුඩය නිකුත් කිරීම අනිවාර්ය වේ."
     },
     {
         "category": "CES – Engine, Support level",
@@ -3657,7 +3656,7 @@
         ],
         "correct_answer": "Should be secured before working from it.",
         "images": [],
-        "explanation": ""
+        "explanation": "නැවක වැඩ කරන විට භාවිතා කරන ඕනෑම අතේ ගෙන යා හැකි ඉණිමඟක් (Portable ladder), ඒ මත නැගීමට පෙර නිසි ලෙස ස්ථාවර කර තැබීම හෝ ගැටගසා සුරක්ෂිත කිරීම (Secured) අතිශයින්ම වැදගත් වේ. නැවක් යනු නිරන්තරයෙන් සෙලවීමට (Rolling and Pitching) ලක්වන ස්ථානයක් බැවින්, ඉණිමඟ ලිස්සා යාමට හෝ පෙරළීමට ඇති ඉඩකඩ ගොඩබිමට වඩා වැඩිය. ඉණිමඟක ආරක්ෂාව තහවුරු කිරීමේදී එය තබා ඇති කෝණය (Angle) නිවැරදි විය යුතු අතර, එහි මුදුන සහ පාදය ලිස්සා නොයන ලෙස තබා ගැනීම හෝ වෙනත් පුද්ගලයෙකු ලවා අල්ලාගෙන සිටීම සිදු කළ යුතුය. කිසිදු ආරක්ෂක පියවරක් නොමැතිව (Without safety measures) ඉණිමඟක් භාවිතා කිරීම බරපතල අනතුරු වලට මග පාදයි. ඉණිමඟේ දිග හෝ කාලගුණයට වඩා එහි ඇති ස්ථාවරභාවය සහ එය සවිකර ඇති ආකාරය වැඩ කරන පුද්ගලයාගේ ආරක්ෂාව කෙරෙහි සෘජුවම බලපායි."
     },
     {
         "category": "CES – Engine, Support level",
@@ -3671,7 +3670,7 @@
         "images": [
             "https://i.ibb.co/fzm68yvk/Screenshot-2025-06-03-at-13-38-00-Wrong-answer-summary-ilide-info-ces-wrong-answer-summary-pr-7108a5.png"
         ],
-        "explanation": ""
+        "explanation": "මෙම රූප සටහනේ දැක්වෙන්නේ ඉන්ධන ඉන්ජෙක්ටරය (Fuel injector) වේ. මෙහි කාර්යය වන්නේ අධි පීඩනය යටතේ ඉන්ධන සිලින්ඩරය තුළට ඉතා සියුම් ලෙස ඉසීමයි. අනෙක් විකල්පය වන 'Cylinder air start valve' යනු එන්ජිම ආරම්භ කිරීම සඳහා සම්පීඩිත වාතය සිලින්ඩරයට ඇතුළු කරන කපාටයකි. එහි ව්‍යුහය සහ ක්‍රියාකාරිත්වය ඉන්ධන ඉන්ජෙක්ටරයකට වඩා සම්පූර්ණයෙන්ම වෙනස් වේ. එබැවින් ඉන්ධන ඉන්ජෙක්ටරය නිවැරදි පිළිතුර වේ."
     },
     {
         "category": "CES – Engine, Support level",
@@ -3685,7 +3684,7 @@
         ],
         "correct_answer": "A Cadet will expect to find machinery spare parts in the engine room store.",
         "images": [],
-        "explanation": ""
+        "explanation": "නැවක එන්ජින් කාමර ගබඩාව (Engine room store) යනු යන්ත්‍රෝපකරණ නඩත්තු කිරීම සඳහා අවශ්‍ය අමතර කොටස් (Machinery spare parts) ක්‍රමවත්ව ගබඩා කර ඇති ස්ථානයයි. මෙහිදී සිලින්ඩර් ලයිනර්, පිස්ටන් රින්ග්ස්, බෙයාරින්ග්ස්, වෑල්ව් සහ විවිධ වර්ගයේ ගෑස්කට් වැනි කොටස් සොයාගත හැකිය. කැඩෙට් නිලධාරියෙකු මෙම ගබඩාව පිළිබඳව මනා අවබෝධයක් තිබීම වැදගත් වන්නේ, නඩත්තු කටයුත්තක් ආරම්භ කිරීමට පෙර අවශ්‍ය කොටස් නිවැරදිව හඳුනාගෙන ඒවා ලබාගැනීමට සිදුවන බැවිනි. අමතර ප්‍රොපෙලර් (Spare propeller) වැනි විශාල උපාංග සාමාන්‍යයෙන් තට්ටුව මත (On deck) හෝ විශේෂිත ස්ථානවල තබන අතර ඒවා ගබඩාව තුළ තැබීමට තරම් කුඩා නොවේ. ඉන්ධන තෙල් (Fuel oil) ගබඩා කරන්නේ විශාල ටැංකි (Tanks) තුළ මිස සාමාන්‍ය ගබඩා කාමරයක නොවේ. පිරිසිදු කිරීමේ ද්‍රව්‍ය (Cleaning supplies) සඳහා වෙනම කුඩා ගබඩාවක් පවතින අතර, ප්‍රධාන 'Engine Room Store' එක මූලික වශයෙන් වෙන් කර ඇත්තේ ඉංජිනේරු අමතර කොටස් සඳහාය."
     },
     {
         "category": "CES – Engine, Support level",
@@ -3699,7 +3698,7 @@
         "images": [
             "https://i.ibb.co/VcNNzTzL/piston.jpg"
         ],
-        "explanation": ""
+        "explanation": "මෙම රූපයේ ඉස්මතු කර ඇති කොටසෙහි නිවැරදි නාමය වන්නේ 'පිස්ටනය' (Piston) ය. පිස්ටනය යනු අභ්‍යන්තර දහන එන්ජිමක (internal combustion engine) අත්‍යවශ්‍ය කොටසකි. එය සිලින්ඩරය (cylinder) තුළ ඉහළට සහ පහළට චලනය වන අතර, දහනයෙන් ඇතිවන වායු පීඩනය යාන්ත්‍රික ශක්තියක් බවට පරිවර්තනය කරයි. මෙම ශක්තිය සම්බන්ධක දණ්ඩ (connecting rod) හරහා දොඹකරයට (crankshaft) සම්ප්‍රේෂණය කර එන්ජිම ක්‍රියාත්මක කරයි. පිස්ටනය සාමාන්‍යයෙන් ඇලුමිනියම් මිශ්‍ර ලෝහයකින් හෝ විශාල සමුද්‍ර එන්ජින් සඳහා වාත්තු යකඩ හෝ වානේ වලින් සාදා ඇත. එහි ඉහළ කොටස (crown) දහන කුටීරය සමඟ සම්බන්ධ වන අතර, පහළ කොටස (skirt) සිලින්ඩර බිත්තියට ආධාරකයක් සපයයි. පිස්ටන් මුදු (piston rings) පිස්ටනය වටා සවි කර ඇති අතර, ඒවා දහන වායු කාන්දු වීම වැළැක්වීමට, තාපය සිලින්ඩර බිත්තියට මාරු කිරීමට සහ ලිහිසි තෙල් පාලනය කිරීමට උපකාරී වේ. රූපයේ පැහැදිලිව පෙනෙන්නේ සිලින්ඩරය තුළ ඉහළට සහ පහළට චලනය වන මෙම කොටසයි.\n\nවැරදි පිළිතුරු පැහැදිලි කිරීම:\n\n'සිලින්ඩර ලයිනරය' (Cylinder liner) යනු පිස්ටනය චලනය වන සිලින්ඩරයේ අභ්‍යන්තර බිත්තියයි. එය සිලින්ඩර බ්ලොක් එක තුළට ඇතුල් කර ඇති අතර, පිස්ටනයට ලිස්සා යාමට ඔරොත්තු දෙන මතුපිටක් සපයයි. සිලින්ඩර ලයිනරය දහන වායු රඳවා තබා ගන්නා අතර තාපය සිසිලන පද්ධතියට මාරු කිරීමට උපකාරී වේ. රූපයේ ඉස්මතු කර ඇති කොටස චලනය වන කොටස වන පිස්ටනය මිස, පිස්ටනය චලනය වන ස්ථාවර අභ්‍යන්තර බිත්තිය නොවේ."
     },
     {
         "category": "CES – Engine, Support level",
@@ -3713,7 +3712,7 @@
         ],
         "correct_answer": "Ensuring that all persons avoid smoking in bed.",
         "images": [],
-        "explanation": ""
+        "explanation": "නැවක කැබින් එකක් (Cabin) තුළ ගින්නක් ඇතිවීමට බලපාන ප්‍රධානතම මානුෂීය හේතුවක් වන්නේ ඇඳ මත සිට දුම්පානය කිරීමයි. පුද්ගලයෙකුට නින්ද ගියහොත් පත්තුවූ දුම්වැටිය මෙට්ටය හෝ ඇතිරිලි මත වැටී ඉතා ඉක්මනින් ගින්නක් හටගත හැක. මෙය වැළැක්වීම ගින්නක් ඇතිවීමට ඇති ඉඩකඩ සෘජුවම නැති කරන වඩාත් කාර්යක්ෂම පියවරයි. අළු බඳුන් (Ashtrays) ඉවත් කිරීමෙන් මිනිසුන් බිමට හෝ කුණු කූඩයට අළු දැමීමට පෙළඹිය හැකි බැවින් එය අවදානම වැඩි කරයි. දුම් අනාවරක (Smoke detectors) මගින් සිදු කරන්නේ ගින්නක් ඇතිවූ පසු එය දැනුම් දීම මිස ගින්න වැළැක්වීම නොවේ. දහනය වන ද්‍රව්‍ය තාප ප්‍රභවයන්ගෙන් ඈත් කිරීම වැදගත් වුවද, සංඛ්‍යාලේඛනවලට අනුව කැබින් තුළ සිදුවන දරුණු ගිනිගැනීම් බොහොමයකට මූලික වන්නේ ඇඳ මත දුම්පානය කිරීමයි."
     },
     {
         "category": "CES – Engine, Support level",
@@ -3727,7 +3726,7 @@
         ],
         "correct_answer": "At least once a day.",
         "images": [],
-        "explanation": ""
+        "explanation": "බෝයිලරයක ජල මට්ටම නිවැරදිව පෙන්වන බව සහතික කිරීම සඳහා අවම වශයෙන් දිනකට වරක්වත් (At least once a day) 'Blowing through' ක්‍රියාවලිය සිදු කළ යුතුය. බෝයිලර් ජලයේ ඇති රසායනික ද්‍රව්‍ය හෝ අපද්‍රව්‍ය නිසා Gauge glass එකට සම්බන්ධ නල අවහිර වීමට ඉඩ ඇත. එසේ වුවහොත් වීදුරුව තුළ පෙන්වන ජල මට්ටම බෝයිලරය තුළ ඇති සැබෑ ජල මට්ටමට වඩා වෙනස් විය හැකි අතර, එය බෝයිලරය පුපුරා යාම වැනි දරුණු අනතුරකට මග පෑදිය හැක. සතියකට හෝ මාසයකට වරක් පරීක්ෂා කිරීම ප්‍රමාණවත් නොවේ, මන්ද අවහිර වීමක් ඕනෑම මොහොතක සිදුවිය හැකි බැවිනි. විශේෂයෙන්ම රාජකාරිය භාරගන්නා සෑම වාරයකදීම (Watchkeeping) මෙය පරීක්ෂා කිරීම මරීන් ඉංජිනේරු විද්‍යාවේ යහපත් පුරුද්දකි."
     },
     {
         "category": "CES – Engine, Support level",
@@ -3741,7 +3740,7 @@
         ],
         "correct_answer": "Gases, flames, smoke and heat.",
         "images": [],
-        "explanation": ""
+        "explanation": "දැවීමක් (Combustion) සිදුවීමේදී අතුරුඵල ලෙස වායූන් (Gases), දැල් (Flames), දුම (Smoke) සහ තාපය (Heat) යන හතරම එකවර ජනනය වේ. ගින්නකදී ඇතිවන CO සහ CO2 වැනි වායූන් මිනිස් ජීවිතයට වඩාත් තර්ජනාත්මක වන අතර, දුමාරය නිසා පෙනීම අඩාල වේ. දැල් මගින් ගින්න තවදුරටත් ව්‍යාප්ත වන අතර අධික තාපය මගින් අවට ඇති වස්තූන්ගේ උෂ්ණත්වය ඉහළ නංවා ඒවාද ගිනි ගැනීමට සලස්වයි. 'Ashes and soot' යනු ගින්න නිවී යාමට ආසන්නයේ හෝ අවසානයේ ඉතිරි වන දේ මිස ගින්නක් පවතින විට ඇතිවන ප්‍රධාන ලක්ෂණ නොවේ. එමනිසා පූර්ණ දහනයකදී හෝ අසම්පූර්ණ දහනයකදී ඉහත සඳහන් සාධක හතරම ඇතිවීම අනිවාර්ය වේ."
     },
     {
         "category": "CES – Engine, Support level",
@@ -3755,7 +3754,7 @@
         ],
         "correct_answer": "1 litre.",
         "images": [],
-        "explanation": ""
+        "explanation": "සෝලාස් (SOLAS) රෙගුලාසිවලට අනුව, අතේ ගෙන යා හැකි පෙන යෙදුම් කට්ටලයක (Portable Foam Applicator) අඩංගු විය යුතු අවම පෙන සාන්ද්‍රණ (Foam concentrate) ප්‍රමාණය ලීටර් 20 ක් වුවද, එහි ඇති අතේ ගෙන යා හැකි ටැංකියේ (Portable tank) අවම ධාරිතාව ලෙස ලීටර් 1 ක ප්‍රමාණයක් සඳහන් වේ. මෙම පද්ධතිය ප්‍රධාන වශයෙන් එන්ජින් කාමරවල සහ බෝයිලර් කාමරවල කුඩා තෙල් ගිනි ගැනීම් පාලනය කිරීමට යොදා ගනී. මෙහිදී ඉඩකඩ සීමිත බැවින් සහ ක්‍රියාකරුට පහසුවෙන් හැසිරවීමට හැකි විය යුතු බැවින්, ටැංකියේ ප්‍රමාණය ප්‍රශස්ත ලෙස තබා ගැනීම වැදගත් වේ. ලීටර් 5 හෝ 10 වැනි විශාල ප්‍රමාණ අතේ ගෙන යාමේදී ක්‍රියාකරුට බාධාවක් විය හැක."
     },
     {
         "category": "CES – Engine, Support level",
@@ -3769,7 +3768,7 @@
         ],
         "correct_answer": "All alternatives. It is enough that one of the mentioned elements are removed.",
         "images": [],
-        "explanation": ""
+        "explanation": "ගින්නක් පවත්වාගෙන යාම සඳහා මූලික සාධක හතරක් අවශ්‍ය වේ: තාපය (Heat), ඉන්ධන (Fuel), ඔක්සිජන් (Oxygen) සහ රසායනික දාම ප්‍රතික්‍රියාව (Chemical chain reaction). මෙයට 'ගිනි චතුරස්‍රය' (Fire Tetrahedron) යැයි කියනු ලැබේ.  ගින්නක් නිවා දැමීමට නම් මෙම සාධක හතරෙන් ඕනෑම එක් සාධකයක් ඉවත් කිරීම ප්‍රමාණවත් වේ. උදාහරණයක් ලෙස ජලය යෙදීමෙන් 'තාපය' ඉවත් වන අතර, CO2 හෝ පෙන යෙදීමෙන් 'ඔක්සිජන්' සැපයුම නතර වේ. රසායනික දාම ප්‍රතික්‍රියාව නැවැත්වීම සඳහා Dry Chemical Powder (DCP) භාවිතා කරයි. එබැවින් මෙම ඕනෑම විකල්පයක් (All alternatives) ගින්නක් නිවා දැමීම සඳහා නිවැරදි තාක්ෂණික පියවරක් වේ."
     },
     {
         "category": "CES – Engine, Support level",
@@ -3783,7 +3782,7 @@
         ],
         "correct_answer": "3 min.",
         "images": [],
-        "explanation": ""
+        "explanation": "නැවක් අතහැර යාමකදී (Abandon ship) කාලය ඉතා වැදගත් සාධකයකි. SOLAS රෙගුලාසි අනුව, ඩේවිට් (Davit) මගින් පහත් කරන ජීවිතාරක්ෂක පරුවකට (Liferaft) නියමිත සම්පූර්ණ පිරිස විනාඩි 3 කට (3 minutes) අඩු කාලයකදී ගොඩ විය හැකි පරිදි සියලු කටයුතු සූදානම් කර තිබිය යුතුය.  මෙයට හේතුව හදිසි අවස්ථාවකදී නැව වේගයෙන් ගිලී යාමට හෝ ගිනි ගැනීමට ඉඩ ඇති බැවින්, උපරිම වේගයකින් සහ ආරක්ෂිතව මිනිසුන් පරුව තුළට ඇතුළු කර පහත් කිරීමට හැකි විය යුතු බැවිනි. විනාඩි 5 ක් යනු වැඩි කාලයක් ලෙස සලකන අතර, විනාඩි 1 ක් වැනි කාලයක් තුළ විශාල පිරිසක් පරුවට නැගීම ප්‍රායෝගිකව අපහසු විය හැක. එබැවින් විනාඩි 3 ක කාලය ජාත්‍යන්තර ප්‍රමිතිය ලෙස පිළිගැනේ."
     },
     {
         "category": "CES – Engine, Support level",
@@ -3797,7 +3796,7 @@
         ],
         "correct_answer": "To wear a lifejacket inside.",
         "images": [],
-        "explanation": ""
+        "explanation": "සෝලාස් (SOLAS) රෙගුලාසිවලට අනුව, Thermal Protective Aid (TPA) එකක් නිර්මාණය කර ඇත්තේ ශරීරයේ උෂ්ණත්වය ආරක්ෂා කර ගැනීමටයි. මෙය පාවෙන උපකරණයක් නොවන බැවින්, එය පළඳින පුද්ගලයෙකුට ඒ තුළින් ජීවිතාරක්ෂක කබායක් (Lifejacket) පැළඳීමට හැකියාව තිබිය යුතුය. TPA එකක් යනු සාමාන්‍යයෙන් විශාල බෑගයක් වැනි ඇඳුමක් වන අතර, එහි ඇති සීමිත ඉඩකඩ සහ ස්වභාවය නිසා සිරස් ඉණිමඟවල් දිගේ ඉහළට හෝ පහළට යාම (Climbing) ඉතා අපහසු මෙන්ම භයානක විය හැක. එසේම මෙවැනි ඇඳුමක් ඇඳගෙන පිහිනීම (Swimming) ප්‍රායෝගික නොවන අතර එය නිර්මාණය කර ඇත්තේ ජීවිතාරක්ෂක බෝට්ටුවක් (Lifeboat) හෝ පරුවක් (Liferaft) තුළ සිටින පුද්ගලයෙකු සීතලෙන් ආරක්ෂා කිරීමට පමණි."
     },
     {
         "category": "CES – Engine, Support level",
@@ -3811,7 +3810,7 @@
         ],
         "correct_answer": "It lessens the survivor’s heat escape.",
         "images": [],
-        "explanation": ""
+        "explanation": "මුහුදේදී සිදුවන අනතුරකදී ශරීර උෂ්ණත්වය අඩුවීම හෙවත් 'Hypothermia' තත්ත්වය වළක්වා ගැනීමට 'HELP' (Heat Escape Lessening Posture) ඉරියව්ව ඉතා වැදගත් වේ. මෙම ඉරියව්වේදී දණහිස් පපුව ප්‍රදේශයට ලං කර තබා ගැනීමෙන් ශරීරයෙන් තාපය පිටවන ප්‍රධාන ස්ථාන (ඉකිළිය, කිහිල්ල සහ පපුව) ආවරණය කරනු ලබයි. එමගින් ශරීර උෂ්ණත්වය වැඩි වේලාවක් පවත්වා ගත හැක. මෙය ජලය තුළ පහසුවෙන් චලනය වීමට (Movement) උපකාරී නොවන අතර එහි ප්‍රධාන අරමුණ වන්නේ තාපය ඉතිරි කර ගැනීමයි. රුධිරය පහළට ගලා යාම වැළැක්වීම මෙහි මූලික අරමුණ නොවන අතර, ගලවා ගැනීමේ සංඥා ලබා දීමට ද මෙය වඩාත් සුදුසු ඉරියව්වක් නොවේ."
     },
     {
         "category": "CES – Engine, Support level",
@@ -3825,7 +3824,7 @@
         ],
         "correct_answer": "Just prior to reaching the water, the lanyard should be pulled. This sets the hook which will automatically release once the raft is waterborne.",
         "images": [],
-        "explanation": ""
+        "explanation": "ඩේවිට් (Davit) ආධාරයෙන් පහත් කරන ජීවිතාරක්ෂක පරුවක (Liferaft) කොක්ක (Hook) නිදහස් කිරීම ස්වයංක්‍රීය ක්‍රියාවලියකි. පරුව ජලය මතුපිටට පතිත වීමට මද වේලාවකට පෙර එහි ඇති රේඛාව (Lanyard) ඇදිය යුතුය. මෙය සිදු කළ විට කොක්කෙහි ඇති අගුළු පද්ධතිය 'Set' වන අතර, පරුව ජලය මත පාවීමට පටන් ගෙන කොක්කෙහි ඇති බර (Load) ඉවත් වූ සැණින් එය ස්වයංක්‍රීයවම ගැලවී යයි. මෙය පරුව ජලයට පතිත වූ පසු අතින් ගලවා දැමීමට (Manually pull) උත්සාහ කිරීම භයානක විය හැක, මන්ද රළ පහර නිසා පරුව ඉහළ පහළ යන විට කොක්කෙන් හානි සිදුවිය හැකි බැවිනි. ෂැකල් පින් (Shackle pin) ගැලවීම වැනි ක්‍රම හදිසි අවස්ථාවකදී ප්‍රායෝගික නොවන අතර එය කාලය නාස්ති කරන්නකි."
     },
     {
         "category": "CES – Engine, Support level",
@@ -3839,7 +3838,7 @@
         ],
         "correct_answer": "Get out of the engine room as soon as possible.",
         "images": [],
-        "explanation": ""
+        "explanation": "එන්ජින් කාමරය තුළ CO2 එලාම් එකක් (CO2 Flooding Alarm) නාද වන ඕනෑම අවස්ථාවක ගත යුතු පළමු සහ වැදගත්ම පියවර වන්නේ වහාම එන්ජින් කාමරයෙන් පිටවීමයි. කාබන් ඩයොක්සයිඩ් (CO2) යනු වර්ණයක් හෝ ගන්ධයක් නොමැති වායුවක් වන අතර එය වාතයේ ඇති ඔක්සිජන් විස්ථාපනය කරමින් ගින්න නිවා දැමීමට යොදා ගනී. මිනිසෙකුට මෙවැනි පරිසරයක හුස්ම ගැනීම කළ නොහැකි අතර තත්පර කිහිපයක් ඇතුළත සිහි නැති වී මරණය පවා සිදු විය හැක. පාලක මැදිරියට (Control Room) යාම ආරක්ෂිත නොවේ, මන්ද එයද එන්ජින් කාමරය තුළම පිහිටා ඇති බැවිනි. පද්ධතිය ක්‍රියාත්මක කිරීමට පෙර සියලු දෙනා ඉවත් වී ඇති බව සහතික කළ යුතු අතර, කපිතාන් දැනුවත් කිරීම වැදගත් වුවද තමාගේ ජීවිතය ආරක්ෂා කර ගැනීම ප්‍රමුඛ වේ."
     },
     {
         "category": "CES – Engine, Support level",
@@ -3853,7 +3852,7 @@
         ],
         "correct_answer": "Voyage itinerary and departure and arrival times.",
         "images": [],
-        "explanation": ""
+        "explanation": "නාවික ආරක්ෂාව (Maritime Security) සම්බන්ධයෙන් ගත් කල, නැවක් ගමන් කරන මාර්ගය (Voyage itinerary) සහ පිටත්වන/පැමිණෙන වේලාවන් අතිශය සංවේදී තොරතුරු ලෙස සලකනු ලබයි. මුහුදු කොල්ලකරුවන් (Pirates) හෝ ත්‍රස්තවාදී කණ්ඩායම් වලට නැවක් ඉලක්ක කිරීමට මෙම දත්ත ඉතා ප්‍රයෝජනවත් වේ. එබැවින් ISPS කේතය යටතේ මෙවැනි තොරතුරු බාහිර පාර්ශවයන්ට ලබා දීම සීමා කර ඇත. කාර්ය මණ්ඩලයේ නම් හෝ නඩත්තු වාර්තා (Maintenance logs) වැදගත් වුවද, නැවේ ගමන් මග තරම් ඒවා ආරක්ෂාවට සෘජු තර්ජනයක් එල්ල නොකරයි. නැවක ගමන් විස්තර රහසිගතව තබා ගැනීම මුහුදේදී සිදුවන පැහැරගැනීම් සහ වෙනත් අනතුරු වළක්වා ගැනීමට මහෝපකාරී වේ."
     },
     {
         "category": "CES – Engine, Support level",
@@ -3867,7 +3866,7 @@
         ],
         "correct_answer": "Pallet scanner",
         "images": [],
-        "explanation": ""
+        "explanation": "නැවකට පටවනු ලබන විශාල බඩු තොග (Ship's stores) තුළ සඟවා ඇති මත්ද්‍රව්‍ය හෝ වෙනත් තහනම් ද්‍රව්‍ය හඳුනා ගැනීමට 'Pallet scanner' යන්ත්‍රය භාවිතා කරයි. මෙම යන්ත්‍රය මගින් මුළු පැලට් (Pallet) එකම එක්වරම ස්කෑන් කර එහි ඇතුළත ඇති ද්‍රව්‍යවල ඝනත්වය සහ ස්වභාවය අනුව සැකකටයුතු දේවල් හඳුනා ගනී. 'Cargo x-ray machine' යනු සාමාන්‍යයෙන් විශාල කන්ටේනර් සඳහා භාවිතා කරන පද්ධතියකි. 'Security container' යනු භාණ්ඩ ගබඩා කරන පෙට්ටියක් පමණක් වන අතර එයට සෝදිසි කිරීමේ හැකියාවක් නොමැත. 'Delivery inspection tool' යනු පොදු නාමයක් මිස නිශ්චිත තාක්ෂණික උපාංගයක් නොවේ. එබැවින් ගබඩා බඩු (Stores) පරීක්ෂා කිරීමේදී Pallet scanner එක වඩාත් කාර්යක්ෂම හා නිවැරදි මෙවලම වේ."
     },
     {
         "category": "CES – Engine, Support level",
@@ -3923,7 +3922,7 @@
         ],
         "correct_answer": "They should be placed in a clean box or tin and covered over.",
         "images": [],
-        "explanation": ""
+        "explanation": "හයිඩ්‍රොලික් පොම්පයක් (Hydraulic pump) වැනි ඉතා සියුම් කොටස් සහිත යන්ත්‍රයක් ගැලවීමේදී (Overhaul) ඉවත් කරන කුඩා උපාංග, පිරිසිදු පෙට්ටියක හෝ භාජනයක බහා හොඳින් වසා තැබීම අනිවාර්ය වේ. හයිඩ්‍රොලික් පද්ධති ඉතා සංවේදී බැවින් කුඩා දූවිලි අංශුවක් හෝ අපද්‍රව්‍යයක් ඇතුළු වීමෙන් පවා පද්ධතියේ ක්‍රියාකාරීත්වය අඩාල වී හෝ මුද්‍රා (Seals) වලට හානි වී කාන්දු (Leaks) ඇති විය හැක. බොයිලර් සූට් (Boiler suit) සාක්කුවල දැමීමෙන් ඒවා පහසුවෙන් නැති විය හැකි අතර රෙදිවල ඇති කෙඳි හෝ දූවිලි කොටස්වල තැවරිය හැක. Workbench එකක් මත තැබීමෙන් ඒවා වැටීමට හෝ වෙනත් අපද්‍රව්‍ය සමග මිශ්‍ර වීමට ඉඩ පවතී. එම නිසා පිරිසිදු භාජනයක බහා වසා තැබීමෙන් පිරිසිදුකම මෙන්ම කොටස් අතුරුදහන් වීම වැළැක්වීම යන කරුණු දෙකම සපිරේ."
     },
     {
         "category": "CES – Engine, Support level",
@@ -3937,7 +3936,7 @@
         ],
         "correct_answer": "Ships Safety Management Manual (ISM Code procedures)",
         "images": [],
-        "explanation": ""
+        "explanation": "නැවක සිදුවන නඩත්තු කටයුත්තකදී ගත යුතු ආරක්ෂිත පියවරයන් (Precautions) පිළිබඳව නිල වශයෙන් සඳහන් වන්නේ නැවේ ආරක්ෂක කළමනාකරණ අත්පොත (Ships Safety Management Manual) තුළයි. මෙය ජාත්‍යන්තර ආරක්ෂක කළමනාකරණ කේතය (ISM Code) යටතේ සකස් කර ඇති අතර, සෑම කාර්යයකටම අදාළ 'Standard Operating Procedures' (SOP) සහ අවදානම් ඇගයීම් ක්‍රමවේද මෙහි අඩංගු වේ. Engine room rating කෙනෙකුට තමා කරන්නට යන කාර්යයට අදාළ නීතිමය සහ තාක්ෂණික ආරක්ෂණ පියවරයන් මෙයින් අධ්‍යයනය කළ හැක. Chief Engineer’s standing orders යනු එදිනෙදා සාමාන්‍ය මෙහෙයුම් උපදෙස් වන අතර, Logbook එකේ සටහන් කරන්නේ සිදුකළ වැඩ කටයුතු පමණි. Checklist එකක් මගින් උපකරණ පරීක්ෂාව සිදු කළත්, සමස්ත ආරක්ෂණ ක්‍රියාවලිය (Safety Procedure) විස්තර කර ඇත්තේ ISM අත්පොතේය."
     },
     {
         "category": "CES – Engine, Support level",
@@ -3951,7 +3950,7 @@
         ],
         "correct_answer": "Hacksaw",
         "images": [],
-        "explanation": ""
+        "explanation": "Angle iron හෙවත් යකඩ පට්ටියක් වැනි ලෝහමය ද්‍රව්‍යයක් කැපීම සඳහා වඩාත්ම ගැලපෙන අතින් ක්‍රියා කරන මෙවලම වන්නේ Hacksaw එකයි. මෙහි ඇති තලය (Blade) විශේෂයෙන්ම ලෝහ කැපීමට හැකි වන පරිදි කුඩා හා දැඩි දත් සහිතව නිර්මාණය කර ඇත. 'Rip saw' යනු ලී කැපීම සඳහා භාවිතා කරන කියතක් වන අතර, එයින් ලෝහ කැපීමට උත්සාහ කළහොත් එහි දත් වහාම මොට වේ. 'Band saw' එකක් විශාල කර්මාන්තශාලාවල ලෝහ කැපීමට භාවිතා කළ හැකි වුවද, නැවක එදිනෙදා අතින් සිදුකරන වැඩකදී වඩාත් ප්‍රායෝගික වන්නේ Hacksaw එකයි. 'Jigsaw' එකක් සාමාන්‍යයෙන් භාවිතා කරන්නේ තුනී ලෑලි හෝ ප්ලාස්ටික් වැනි ද්‍රව්‍ය සංකීර්ණ හැඩතලවලට කැපීමටය. එබැවින් ඝන වානේ වලින් නිමවා ඇති Angle iron කැපීම සඳහා අතින් ක්‍රියා කරන මෙවලම් අතරින් Hacksaw එක අසමසම වේ."
     },
     {
         "category": "CES – Engine, Support level",
@@ -3965,7 +3964,7 @@
         "images": [
             "https://i.ibb.co/5g10xntZ/pump.jpg"
         ],
-        "explanation": ""
+        "explanation": "මෙම රූපයේ දැක්වෙන්නේ කේන්ද්‍රාපසාරී පොම්පයකි (centrifugal pump). නෞකාවල බහුලව භාවිතා වන පොම්ප වර්ගයක් වන මෙය, ද්‍රවයක් චලනය කිරීමට කේන්ද්‍රාපසාරී බලය (centrifugal force) භාවිතා කරයි. පොම්පය තුළ ඇති භ්‍රමණය වන ඉම්පෙලරය (impeller) මගින් ද්‍රවයට ශක්තිය ලබා දෙන අතර, එමගින් ද්‍රවය පොම්පයේ පිටත දෙසට තල්ලු වී, පීඩනය වැඩි වී, පොම්පයෙන් පිටතට ගලා යයි. මෙම පොම්පය සාමාන්‍යයෙන් විශාල ප්‍රවාහ අනුපාත (flow rates) සඳහා සුදුසු වන අතර, සිසිලන ජලය, බැලස්ට් ජලය, සහ සාමාන්‍ය සේවා සඳහා නෞකාවල බහුලව භාවිතා වේ. රූපයේ පැහැදිලිව පෙනෙන වොලියුට් කවරය (volute casing) සහ ඉම්පෙලරය (impeller) කේන්ද්‍රාපසාරී පොම්පයක ලක්ෂණ වේ.A. A centrifugal pump. (කේන්ද්‍රාපසාරී පොම්පයක්.) - මෙය නිවැරදි පිළිතුරයි. රූපයේ දැක්වෙන පොම්පයේ ව්‍යුහය, එනම් වොලියුට් කවරය සහ ඉම්පෙලරය, කේන්ද්‍රාපසාරී පොම්පයකට ආවේණික වේ. මෙම පොම්ප ද්‍රව චලනය සඳහා කේන්ද්‍රාපසාරී බලය භාවිතා කරයි.B. A gear pump. (ගියර් පොම්පයක්.) - මෙය වැරදි පිළිතුරකි. ගියර් පොම්ප යනු ධනාත්මක විස්ථාපන පොම්ප (positive displacement pumps) වන අතර, ඒවා ද්‍රවය චලනය කිරීමට භ්‍රමණය වන ගියර් යුගලයක් භාවිතා කරයි. ගියර් පොම්පයක ව්‍යුහය රූපයේ දැක්වෙන පොම්පයට වඩා බෙහෙවින් වෙනස් වන අතර, එහි ගියර් පැහැදිලිව දැකගත හැකිය. ගියර් පොම්ප සාමාන්‍යයෙන් ඉහළ පීඩනයක් සහ අඩු ප්‍රවාහ අනුපාතයක් අවශ්‍ය වන තෙල් හයිඩ්‍රොලික් පද්ධති වැනි යෙදුම් සඳහා භාවිතා වේ."
     },
     {
         "category": "CES – Engine, Support level",
@@ -3979,7 +3978,7 @@
         ],
         "correct_answer": "Bend the inner tab up against one flat of the nut and the other tab down over the edge of the component.",
         "images": [],
-        "explanation": ""
+        "explanation": "Tab washer එකක් නිවැරදිව භාවිත කිරීමේදී එහි එක් පැත්තක් ඇණයේ මතුපිටට (Nut flat) තබා ඉහළට නැමිය යුතු අතර, අනෙක් පැත්ත අදාළ උපාංගයේ දාරයෙන් (Edge of the component) පහළට නැමිය යුතුය. එවිට ඇණය කැරකීමට උත්සාහ කරන විට washer එක මගින් එය වළක්වයි. ටැබ් දෙකම ඉහළට නැමීමෙන් (Both tabs up) හෝ පහළට නැමීමෙන් (Both tabs down) ඇණය කැරකීම වැළැක්වීමට අවශ්‍ය ස්ථාවර පදනමක් නොලැබේ. එක් ටැබ් එකක් කෙලින්ම තැබීමෙන් (Leave straight) ද කිසිදු ආරක්ෂාවක් නොලැබෙන අතර කම්පනය නිසා ඇණය බුරුල් විය හැක."
     },
     {
         "category": "CES – Engine, Support level",
@@ -3993,12 +3992,12 @@
         ],
         "correct_answer": "Split dies",
         "images": [],
-        "explanation": ""
+        "explanation": "වානේ බටයක (Steel pipe) පිටතින් අලුතින් නූල් (External thread) කැපීම සඳහා 'Split dies' භාවිතා කරයි. මෙහි ඇති 'Split' ස්වභාවය නිසා නූල්වල ප්‍රමාණය (Depth) සියුම් ලෙස වෙනස් කර ගනිමින් නියමිත ප්‍රමාණයට නූල් කැපීමට ඉඩ ලබා දේ. 'Taps' භාවිතා කරන්නේ සිදුරක් තුළ ඇතුළත නූල් (Internal threads) කැපීමටය. 'Thread chaser' යනු දැනට පවතින හානි වූ නූල් පිරිසිදු කිරීමට ගන්නා මෙවලමක් මිස අලුතින් නූල් කැපීමට ගන්නා මෙවලමක් නොවේ. 'Pipe wrench' යනු බට තද කිරීමට හෝ ලිහිල් කිරීමට ගන්නා අඬුවක් පමණි."
     },
     {
         "category": "CES – Engine, Support level",
         "index": 286,
-        "question": "Where is the “FORECASTLE“, in the figure?",
+        "question": "Where is the “FORECASTLE“ in the figure?",
         "answers": [
             "The Forecastle is B, in the figure",
             "The Forecastle is A, in the figure.",
@@ -4009,7 +4008,7 @@
         "images": [
             "https://i.ibb.co/qLX3z3Jq/scheme.jpg"
         ],
-        "explanation": ""
+        "explanation": "නැවක ඉදිරිපස ඉහළ කොටස හෙවත් නැවේ මුදුනත 'Forecastle' (Fo'c'sle) ලෙස හැඳින්වේ. ලබා දී ඇති රූප සටහනේ B මගින් දැක්වෙන්නේ නැවේ ඉදිරිපස කොටසයි. අනෙක් විකල්ප වැරදි වන්නේ ඒවා නැවේ වෙනත් කොටස් (උදාහරණයක් ලෙස A, C හෝ D මගින් නැවේ මැද කොටස, පසුපස කොටස හෝ වෙනත් ව්‍යුහයන්) නිරූපණය කරන බැවිනි. Forecastle යනු නැවේ නැංගුරම් උපකරණ සහ අනෙකුත් ඉදිරිපස මෙහෙයුම් සඳහා භාවිතා වන ප්‍රධාන වේදිකාවයි."
     },
     {
         "category": "CES – Engine, Support level",
@@ -4023,7 +4022,7 @@
         "images": [
             "https://i.ibb.co/N6KRfjNH/photo.jpg"
         ],
-        "explanation": ""
+        "explanation": "නැව් තට්ටුවේ හෝ කාගෝ හෝල්ඩ් (Cargo hold) එකක පිරිසිදු කිරීමේ කටයුතු සිදු කිරීම නාවික මෙහෙයුම්වල අනිවාර්ය අංගයකි. පින්තූරයේ සිටින පුද්ගලයින් ආරක්ෂිත ඇඳුම් පැළඳුම් සහ උපකරණ භාවිතයෙන් ජල පීඩනය යොදා පිරිසිදු කිරීමේ කාර්යයක නිරත වන බව පැහැදිලිය. එබැවින් 'The people are hosing down the cargo hold to clean it' යන්න නිවැරදි පිළිතුර වේ. අනෙක් විකල්පය වන 'The people are playing with water' යන්න වැරදිය. මන්ද යත්, නැවක කාර්ය මණ්ඩලය වැඩ කරන වේලාවක මෙවැනි වෘත්තීයමය පරිසරයක සෙල්ලම් කිරීමේ නිරත නොවන අතර, ඔවුන්ගේ ක්‍රියාවන් වෘත්තීයමය පිරිසිදු කිරීමේ ක්‍රියාවලියකට අනුකූල වේ."
     },
     {
         "category": "CES – Engine, Support level",
@@ -4037,7 +4036,7 @@
         ],
         "correct_answer": "The respiratory centre in the brain",
         "images": [],
-        "explanation": ""
+        "explanation": "මිනිස් සිරුරේ හුස්ම ගැනීම පාලනය කරනු ලබන්නේ මොළයේ පිහිටා ඇති 'Respiratory centre' (ශ්වසන මධ්‍යස්ථානය) මගිනි. මෙය ස්වයංක්‍රීයව රුධිරයේ ඇති කාබන් ඩයොක්සයිඩ් මට්ටම නිරීක්ෂණය කර පෙනහළු සහ දියපටලය (Diaphragm) වෙත පණිවුඩ යවමින් හුස්ම ගැනීමේ වේගය පාලනය කරයි. පෙනහළු (Lungs) සහ දියපටලය ශ්වසන ක්‍රියාවලියට සක්‍රීයව දායක වන අවයව මිස ඒවා පාලන මධ්‍යස්ථාන නොවේ. හදවත (Heart) මගින් සිදු කරන්නේ රුධිර සංසරණය පාලනය කිරීමයි."
     },
     {
         "category": "CES – Engine, Support level",
@@ -4051,7 +4050,7 @@
         ],
         "correct_answer": "Mouth, nose and throat",
         "images": [],
-        "explanation": ""
+        "explanation": "මිනිස් ශ්වසන පද්ධතියේ ඉහළ කොටස (Upper airway) ලෙස සලකනු ලබන්නේ මුඛය (Mouth), නාසය (Nose) සහ උගුර (Throat) යන කොටස්ය. ශ්වාසනාලය (Trachea) සහ පෙනහළු (Lungs) අයත් වන්නේ පහළ ශ්වසන පද්ධතියට (Lower airway) වේ. දියපටලය (Diaphragm) යනු ශ්වසන මාර්ගයේ කොටසක් නොව හුස්ම ගැනීමට උදව් වන පේශියකි. ප්‍රථමාධාර ලබා දීමේදී (First Aid) විශේෂයෙන්ම හුස්ම හිරවීමකදී පරීක්ෂා කරනු ලබන්නේ මෙම ඉහළ ශ්වසන මාර්ගය අවහිර වී ඇත්ද යන්නයි."
     },
     {
         "category": "CES – Engine, Support level",
@@ -4065,7 +4064,7 @@
         ],
         "correct_answer": "Ready for immediate use",
         "images": [],
-        "explanation": ""
+        "explanation": "තෙල් පැටවීමේදී හෝ බංකර් කිරීමේදී (Bunkering) ඉතා කුඩා තෙල් කාන්දුවක් පවා ක්ෂණිකව පාලනය කළ යුතු බැවින්, SOPEP (Shipboard Oil Pollution Emergency Plan) උපකරණ ඇතුළු සියලුම තෙල් පාලන උපකරණ වහාම භාවිතයට ගත හැකි පරිදි සූදානම් කර තිබිය යුතුය. කාන්දුවක් සිදුවූ පසු ඒවා ගබඩා කාමරවල (Store room) සෙවීම ප්‍රායෝගික නොවන අතර එමගින් සිදුවන පරිසර හානිය වැඩි වේ. නඩත්තු කටයුතු (Maintenance) මෙවැනි සංවේදී මෙහෙයුම් අතරතුර සිදු නොකළ යුතුය. ආරක්ෂාව සඳහා ගබඩා කර තැබීම (Stored away) මෙහෙයුම අවසන් වූ පසු සිදු කරන්නකි."
     },
     {
         "category": "CES – Engine, Support level",
@@ -4079,6 +4078,6 @@
         ],
         "correct_answer": "Open mesh grating",
         "images": [],
-        "explanation": ""
+        "explanation": "නැවක Cargo manifold ප්‍රදේශය තෙල් හෝ ජලය නිසා ලිස්සා යාමට (Slip hazard) වැඩි ඉඩක් ඇති ස්ථානයකි. 'Open mesh grating' භාවිතා කිරීමෙන් එම මතුපිට මත දියර වර්ග එකතු වීම වැළැක්වෙන අතර සේවකයන්ට වඩාත් ආරක්ෂිත පදනමක් (Better grip) සපයයි. 'Solid steel plate' එකක් භාවිතා කළහොත් තෙල් ස්වල්පයක් වැටුණු සැණින් එය ලිස්සන සුළු භයානක මතුපිටක් බවට පත්වේ. 'Wooden planks' හෙවත් ලී ලෑලි ගිනි අනතුරු (Fire hazard) වලදී අවදානම් සහගත වන අතර තෙල් උරා ගැනීම නිසා ඉක්මනින් අපවිත්‍ර වේ. 'Perforated steel sheet' වල සිදුරු කුඩා බැවින් ඝන අපද්‍රව්‍ය මගින් ඒවා පහසුවෙන් අවහිර විය හැක."
     }
 ]
