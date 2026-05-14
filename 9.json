@@ -701,7 +701,7 @@
         ],
         "correct_answer": "Making use of Risk Assessment as a means to improving safety.",
         "images": [],
-        "explanation": ""
+        "explanation": "නවීන ආරක්ෂණ ක්‍රමවේදයන්හි මූලික සිද්ධාන්තය වන්නේ 'පූර්ව ආරක්ෂණ පියවර' (Proactive approach) ගැනීමයි. මෙහිදී Risk Assessment මගින් කාර්යයක් ආරම්භ කිරීමට පෙර එහි ඇති අවදානම් හඳුනාගෙන ඒවා අවම කිරීමට පියවර ගනු ලබයි. පැරණි ක්‍රමවේද (Old practices) මත පමණක් විශ්වාසය තැබීම වැරදිය, මන්ද නවීන එන්ජින් කාමර පද්ධතිවල පවතින සංකීර්ණ අවදානම් ඒවායින් ආවරණය නොවන බැවිනි. Health & Safety at Work Act යනු හුදෙක් නීතිමය රාමුවක් පමණක් වන අතර, Chief Officer හමුවීම පරිපාලනමය පියවරක් පමණි; එයින් ක්ෂේත්‍රයේ පවතින ප්‍රායෝගික අවදානම් ස්වයංක්‍රීයව කළමනාකරණය නොවේ."
     },
     {
         "category": "CES – Engine, Management, Slow Speed",
@@ -1411,7 +1411,7 @@
         ],
         "correct_answer": "Operating water supplied to bowl to close it.",
         "images": [],
-        "explanation": ""
+        "explanation": "Centrifuge පද්ධතියක් පිරිසිදු කිරීමෙන් පසු හෝ ආරම්භයේදී එහි 'Bowl' එක විවෘතව පවතී. එම නිසා වෙන් කිරීමේ ක්‍රියාවලිය (Separation) ආරම්භ කිරීමට පෙර, Bowl එක සම්පූර්ණයෙන්ම වැසී පවතින බව සහතික කළ යුතුය. මෙහිදී පළමු පියවර ලෙස 'Operating water' ලබා දී Bowl එක වසා දමනු ලබයි (Closing of the bowl). Bowl එක වැසීමට පෙර Sealing water ලබා දිය නොහැක, මන්ද එසේ කළහොත් එම ජලය කෙලින්ම Sludge port හරහා පිටතට ගලා යන බැවිනි. තවද, Bowl එක නිසි ලෙස වසා නොමැතිව ඉන්ධන (Fuel oil) ඇතුළු කළහොත් ඉන්ධන අපතේ යාමක් (Carry over) සිදුවේ. එබැවින් ආරම්භක අනුපිළිවෙලෙහි (Start-up sequence) මූලිකම ක්‍රියාව වන්නේ Bowl එක වැසීමයි."
     },
     {
         "category": "CES – Engine, Management, Slow Speed",
@@ -1467,7 +1467,7 @@
         ],
         "correct_answer": "All of the above.",
         "images": [],
-        "explanation": ""
+        "explanation": "බැටරියක ඉලෙක්ට්‍රොලයිට් (Electrolyte) මට්ටම අඩුවීමට ඉහත සඳහන් සියලුම කරුණු බලපායි. බැටරියක් 'Overcharge' වීමේදී හෝ 'Over voltage' ලබා දීමේදී බැටරිය තුළ ඇති ජලය ඔක්සිජන් සහ හයිඩ්‍රජන් ලෙස විද්‍යුත් විච්ඡේදනය (Electrolysis) වී වාෂ්ප ලෙස පිටවේ. එසේම බැටරිය ආරෝපණය වන විට ඇතිවන අධික උෂ්ණත්වය (High temperature) මගින් ද ඉලෙක්ට්‍රොලයිට් වාෂ්පීකරණය වේ. Decompression හෙවත් පීඩනය අඩු වීම මගින් ද දියර වාෂ්ප බවට පත්වීම වේගවත් කරයි. 'Faulty charger' එකක් මගින් පාලනයකින් තොරව ධාරාව ලබා දීම නිසා ද මෙම තත්ත්වයන් උග්‍ර වේ. මේ හේතු නිසා ඉහත සියල්ලම නිවැරදි පිළිතුරු වේ."
     },
     {
         "category": "CES – Engine, Management, Slow Speed",
@@ -1495,7 +1495,7 @@
         ],
         "correct_answer": "Faulty contactor coil.",
         "images": [],
-        "explanation": ""
+        "explanation": "මෝටර් ස්ටාටර් එකකට විදුලිය ලැබෙමින් පවතින විටත්, Start button එක එබූ සැණින් කිසිදු ක්‍රියාවක් (ශබ්දයක් හෝ චලනයක්) සිදු නොවන්නේ නම්, එයට ප්‍රධානතම හේතුව Contactor coil එක දෝෂ සහිත වීමයි. ස්ටාටර් එකක ඇති Contactor එක ක්‍රියාත්මක වී මෝටරයට බලය ලබා දෙන්නේ මෙම Coil එක මගින් ඇති කරන චුම්බක ක්ෂේත්‍රයෙනි. එය පිලිස්සී හෝ කැඩී ඇත්නම් Contactor එක ක්‍රියාත්මක නොවේ. 'Faulty overcurrent relay' එකක් තිබේ නම් සාමාන්‍යයෙන් එය reset කළ යුතු අතර, 'Open circuit' එකක් මෝටර් කේබල් එකක තිබුණහොත් Contactor එක ක්‍රියාත්මක වුවද මෝටරය කැරකෙන්නේ නැත. මෝටර් කේබලයේ ප්‍රමාණය (Undersized) මෝටරය පණගැන්වීමට බාධාවක් නොවන නමුත් පසුව රත් වීමට හේතු විය හැක."
     },
     {
         "category": "CES – Engine, Management, Slow Speed",
@@ -1737,7 +1737,7 @@
         ],
         "correct_answer": "Start the system up in manual mode and gradually increase the controller output signal until the temperature reaches the required value before changing over to automatic control.",
         "images": [],
-        "explanation": ""
+        "explanation": "සීතල තත්වයක (Cold state) පවතින පද්ධතියක් ආරම්භ කිරීමේදී එය 'Manual mode' එකෙන් ආරම්භ කිරීම වඩාත් සුදුසුය. මන්ද, 'Automatic mode' එකෙන් ආරම්භ කළහොත්, දැනට පවතින අඩු උෂ්ණත්වය සහ අපේක්ෂිත උෂ්ණත්වය (Set point) අතර විශාල පරතරයක් ඇති බැවින් Control valve එක එකවරම සම්පූර්ණයෙන්ම විවෘත වේ. මෙහිදී අධික වාෂ්ප ප්‍රමාණයක් පද්ධතියට ඇතුළු වීමෙන් 'Thermal stress' හෝ 'Water hammer' වැනි හානි සිදුවිය හැක. එබැවින් හස්තීයව (Manual) උෂ්ණත්වය ක්‍රමයෙන් වැඩි කර අවශ්‍ය මට්ටමට පැමිණි පසු ස්වයංක්‍රීය පාලනයට (Automatic control) මාරු කිරීම මගින් පද්ධතියේ ආරක්ෂාව තහවුරු වේ. Hand jack භාවිතය හෝ වාෂ්ප සැපයුම throttle කිරීම ප්‍රායෝගිකව පාලනය අපහසු කරන අතර, ක්ෂණිකව උෂ්ණත්වය ලබා ගැනීමට උත්සාහ කිරීම (Automatic mode with normal set point) පද්ධතිය අනතුරේ හෙළීමකි."
     },
     {
         "category": "CES – Engine, Management, Slow Speed",
@@ -1919,7 +1919,7 @@
         ],
         "correct_answer": "5-10 °C.",
         "images": [],
-        "explanation": ""
+        "explanation": "ශීතකරණ පද්ධතියක උපරිම කාර්යක්ෂමතාව ලබා ගැනීම සඳහා 'Thermostatic Expansion Valve' (TEV) එකෙහි Superheat අගය 5-10 °C අතර පවත්වා ගත යුතුය. Superheat යනු වාෂ්පීකරණයේදී (Evaporator) ද්‍රව අවස්ථාවේ සිට වායු අවස්ථාවට පත් වූ රෙෆ්‍රිජරන්ට් වායුව, තවදුරටත් රත් වන උෂ්ණත්ව පරතරයයි. මෙම අගය ඉතා අඩු වුවහොත් (උදා: 0 °C ට ආසන්න නම්), ද්‍රව රෙෆ්‍රිජරන්ට් කොම්ප්‍රෙෂරය තුළට ගලා ගොස් (Liquid carryover) එයට හානි විය හැක. අනෙක් අතට, Superheat අගය අධික ලෙස වැඩි වුවහොත් (උදා: 25-30 °C හෝ 40-50 °C), වාෂ්පීකරණ දඟරයෙන් (Evaporator coils) ලැබෙන සිසිලනය අඩු වී පද්ධතියේ කාර්යක්ෂමතාව පහත වැටේ. එබැවින් 5-10 °C යනු කොම්ප්‍රෙෂරයේ ආරක්ෂාවත්, උපරිම සිසිලන කාර්යක්ෂමතාවත් සහතික කරන ප්‍රශස්ත මට්ටමයි."
     },
     {
         "category": "CES – Engine, Management, Slow Speed",
@@ -2047,7 +2047,7 @@
         ],
         "correct_answer": "Bunkering of bulk lubricating oil.",
         "images": [],
-        "explanation": ""
+        "explanation": "MARPOL Annex I රෙගුලාසිවලට අනුව, නැවකට තොග වශයෙන් ලිහිසි තෙල් ලබාගැනීම (Bunkering of bulk lubricating oil) අනිවාර්යයෙන්ම Oil Record Book (ORB) Part 1 හි සටහන් කළ යුතුය. මෙයට හේතුව පරිසරයට තෙල් කාන්දු විය හැකි ප්‍රධාන මෙහෙයුමක් ලෙස මෙය සැලකීමයි. Settling tank එකක සිට Day tank එකකට තෙල් මාරු කිරීම (Internal transfer) සාමාන්‍ය එදිනෙදා මෙහෙයුමක් බැවින් එය ORB හි සටහන් කිරීම අනිවාර්ය නොවේ. HFO පිරිපහදු කිරීම (Purification) ද අභ්‍යන්තර ක්‍රියාවලියකි. එසේම Aft Peak Tank එකෙන් ජලය බැහැර කිරීම තෙල් සම්බන්ධ මෙහෙයුමක් නොවන බැවින් (එහි තෙල් මිශ්‍ර වී නැතිනම්) එය මෙහි වාර්තා නොකෙරේ. නමුත් ඕනෑම ආකාරයක තෙල් වර්ගයක් (Fuel or Lube oil) නැවට පටවා ගැනීම 'Bunkering' ගණයට වැටෙන බැවින් එය අනිවාර්ය වාර්තාවකි."
     },
     {
         "category": "CES – Engine, Management, Slow Speed",
@@ -2061,7 +2061,7 @@
         ],
         "correct_answer": "Reduce the superheat setting on the instrument air refrigeration/dryer unit.",
         "images": [],
-        "explanation": ""
+        "explanation": "නැවක Instrument air පද්ධතියට ජලය ඇතුළු වීම වැළැක්වීමට ඇති ප්‍රධානතම උපාංගය වන්නේ Air dryer unit එකයි. මෙහි ඇති 'Superheat setting' එක අඩු කළ විට, රෙෆ්‍රිජරන්ට් වායුව වඩාත් සිසිල් වන අතර එමගින් වාතයේ ඇති තෙතමනය ඝනීභවනය (Condensation) කර ඉවත් කිරීමේ හැකියාව වැඩි වේ. Cooling water ප්‍රමාණය වැඩි කිරීමෙන් වාතය සිසිල් වුවද, වාතයේ ඇති සියුම් තෙතමනය සම්පූර්ණයෙන්ම ඉවත් කිරීමට එය ප්‍රමාණවත් නොවේ. Receiver එක drain කිරීමෙන් එකතු වූ ජලය ඉවත් කළ හැකි නමුත් වාතය සමග ගලා යන තෙතමනය (Carry over) ඉවත් කළ නොහැක. එසේම Coalescer filter එකක් මගින් ඉවත් කරන්නේ ද්‍රව අවස්ථාවේ ඇති ජලය පමණක් වන අතර, වාෂ්ප අවස්ථාවේ ඇති තෙතමනය පාලනය කිරීමට නම් Dryer unit එකේ ක්‍රියාකාරීත්වය නිසි ලෙස සකස් කළ යුතුය."
     },
     {
         "category": "CES – Engine, Management, Slow Speed",
@@ -2173,7 +2173,7 @@
         ],
         "correct_answer": "By visual and audible signal at the control panel and indicating units.",
         "images": [],
-        "explanation": ""
+        "explanation": "SOLAS රෙගුලාසිවලට අනුව, ගිනි අනාවරකයක් (Detector) හෝ හදිසි ඇමතුම් බොත්තමක් (Manual Call Point) සක්‍රීය වූ විට, ඒ පිළිබඳව පාලක පැනලය (Control panel) සහ අනෙකුත් සංඥා පුවරු (Indicating units) මගින් ශ්‍රව්‍ය (Audible) සහ දෘශ්‍ය (Visual) සංඥා එකවර ලබා දිය යුතුය. මෙයට හේතුව පාලක මැදිරියේ සිටින නිලධාරීන්ට අනතුර සිදුවූ ස්ථානය නිශ්චිතව හඳුනා ගැනීමටත්, ශබ්දය මගින් වහාම අවධානය යොමු කර ගැනීමටත් හැකි විය යුතු බැවිනි. අනතුර සිදුවූ ස්ථානයේ පමණක් විදුලි බුබුළක් දැල්වීම (Flashing light at location only) ප්‍රමාණවත් නොවේ, මන්ද එය දුරින් සිටින නිලධාරීන්ට නොපෙනෙන බැවිනි. එසේම අනාවරකය ක්‍රියාත්මක වූ සැණින් ස්වයංක්‍රීයව ගිනි නිවන පද්ධති (Suppression system) ක්‍රියාත්මක නොවේ; ඒ සඳහා වෙනම පාලන ක්‍රමවේදයක් පවතී."
     },
     {
         "category": "CES – Engine, Management, Slow Speed",
@@ -2259,7 +2259,7 @@
         ],
         "correct_answer": "A signal with discrete levels such as 0 = «low» and 1 = «High».",
         "images": [],
-        "explanation": ""
+        "explanation": "### නිවැරදි පිළිතුර පැහැදිලි කිරීම:\n**A signal with discrete levels such as 0 = «low» and 1 = «High»:**\nඩිජිටල් සංඥාවක් (Digital Signal) යනු අඛණ්ඩව විචලනය වන එකක් නොව, පැහැදිලිව වෙන් කර හඳුනාගත හැකි මට්ටම් (Discrete levels) පවතින සංඥාවකි. මැරීන් පාලන පද්ධතිවලදී (Control Systems) බොහෝ විට මෙහි මට්ටම් දෙකක් භාවිතා වේ: '0' (Off/Low) සහ '1' (On/High). උදාහරණයක් ලෙස, එන්ජිමක පීඩනය නියමිත මට්ටමට වඩා වැඩි වූ විට ලැබෙන 'High Pressure Alarm' එකක් ඩිජිටල් සංඥාවකි.\n\n### අනෙක් පිළිතුරු වැරදි වීමට හේතුව:\n* **A continuously varying signal that represents analog data:** මෙය වැරදිය. මෙය ඇනලොග් සංඥාවක (Analog Signal) ලක්ෂණයකි. උදාහරණයක් ලෙස එන්ජින් ඔයිල් උෂ්ණත්වය 0°C සිට 100°C දක්වා ක්‍රමයෙන් ඉහළ යන විට ලැබෙන විචල්‍ය සංඥාව ඇනලොග් වේ. \n* **A signal that combines analog and digital characteristics simultaneously:** මෙය වැරදිය. සාමාන්‍යයෙන් මිනුම් උපකරණ පද්ධතියක සංඥාව එක්කෝ ඇනලොග් හෝ ඩිජිටල් විය යුතුය. මේ දෙකේම මිශ්‍රණයක් පද්ධතියක තාර්කිකව (Logic) ක්‍රියාත්මක නොවේ (දත්ත සම්ප්‍රේෂණයේදී ඇතැම් විට දෙකම භාවිත වුවද මූලික මිනුම් ඒකකයක් ලෙස මෙය වැරදිය)."
     },
     {
         "category": "CES – Engine, Management, Slow Speed",
@@ -2272,7 +2272,7 @@
         ],
         "correct_answer": "Stand behind the casualty. Clench your fist with the thumb inwards in the center of the upper abdomen. Grasp your fist with your other hand and pull quickly inwards.",
         "images": [],
-        "explanation": ""
+        "explanation": "### නිවැරදි පිළිතුර පැහැදිලි කිරීම:\n**Stand behind the casualty. Clench your fist with the thumb inwards...:**\nමෙය 'Heimlich Maneuver' ලෙසද හඳුන්වනු ලබයි. නෞකාවක රාජකාරි කිරීමේදී හෝ ආහාර ගැනීමේදී යමෙකුගේ උගුරේ යමක් සිරවී හුස්ම හිරවීමක් (Choking) සිදු වූ විට මෙය ජීවිතාරක්ෂක ප්‍රථමාධාරයක් ලෙස භාවිතා කරයි. මෙහිදී රෝගියාගේ පිටුපසින් සිටගෙන, ඔබේ එක් අතක මිට මෙලවා (මහපටැඟිල්ල ඇතුළට වන සේ) උදරයේ ඉහළ මැද කොටසට තබා, අනෙක් අතින් එය තදින් අල්ලා ඇතුළට සහ ඉහළට (Inwards and Upwards) වේගයෙන් ඇදීම සිදු කරයි. එවිට පෙනහළු තුළ ඇති වාතය බලහත්කාරයෙන් පිටතට තල්ලු වී සිරවී ඇති ද්‍රව්‍යය ඉවතට විසි වේ.\n\n\n\n### අනෙක් පිළිතුරු වැරදි වීමට හේතුව:\n* **Stand in front of the casualty. Place both hands on the shoulders...:**\nමෙය සම්පූර්ණයෙන්ම වැරදිය. රෝගියා ඉදිරිපස සිට උරහිස් තල්ලු කිරීමෙන් උගුරේ සිරවී ඇති දේ ඉවත් කිරීමට අවශ්‍ය පීඩනය පෙනහළු තුළ ඇති නොවේ. එමෙන්ම මෙය රෝගියා තවදුරටත් අපහසුතාවයට පත් කළ හැකිය.\n* **Kneel beside the casualty and press firmly on the chest...:**\nමෙය පපුව තද කිරීම (Chest Compressions) වන අතර එය සාමාන්‍යයෙන් සිදු කරන්නේ හෘද ස්පන්දනය නතර වූ විට (CPR) ලබා දෙන ප්‍රථමාධාරයක් වශයෙනි. හුස්ම හිරවී ඇති සවිඥානික රෝගියෙකුට (Conscious patient) උදරයට ලබා දෙන තෙරපුම පපුව තද කිරීමට වඩා සාර්ථක වේ."
     },
     {
         "category": "CES – Engine, Management, Slow Speed",
@@ -2324,7 +2324,7 @@
         ],
         "correct_answer": "15 compressions followed by 2 full ventilations.",
         "images": [],
-        "explanation": ""
+        "explanation": "### නිවැරදි පිළිතුර පැහැදිලි කිරීම:\n**15 compressions followed by 2 full ventilations:**\nනෞකාවකදී හදිසි අනතුරක් හෝ රෝගී තත්වයක් හේතුවෙන් පුද්ගලයෙකුගේ හෘද ස්පන්දනය නතර වූ විට (Cardiac Arrest) සිදු කරන මූලික ජීවිතාරක්ෂක පියවර (CPR) මෙහිදී විමසනු ලබයි. එක් ප්‍රථමාධාරකරුවෙකු (One First Aider) පමණක් සිටින අවස්ථාවකදී, පපුව තද කිරීම් (Compressions) 15ක් සිදු කර වහාම කෘතිම හුස්ම වාර (Ventilations) 2ක් ලබා දිය යුතුය. මෙය චක්‍රයක් ලෙස අඛණ්ඩව සිදු කිරීම මඟින් මොළයට සහ ශරීරයේ අනෙකුත් ඉන්ද්‍රියයන්ට අවශ්‍ය ඔක්සිජන් සහිත රුධිරය සැපයීම පවත්වා ගත හැකිය.\n\n### අනෙක් පිළිතුරු වැරදි වීමට හේතුව:\n* **30 compressions followed by 5 full ventilations:** මෙය වැරදිය. වර්තමාන ඇතැම් මාර්ගෝපදේශ වල 30:2 අනුපාතය භාවිතා වුවද, ප්‍රශ්නයට අදාළව compressions 30කට පසුව ventilations 5ක් ලබා දීම ප්‍රමිතියක් නොවේ. එතරම් වැඩි හුස්ම වාර ප්‍රමාණයක් ලබා දීමෙන් පපුව තද කිරීමේ ක්‍රියාවලිය ප්‍රමාද වේ.\n* **10 compressions followed by 1 full ventilation:** මෙයද වැරදිය. පපුව තද කිරීම් 10ක් යනු රුධිර සංසරණය පවත්වා ගැනීමට ප්‍රමාණවත් නොවන අතර, එක් හුස්ම වාරයක් පමණක් ලබා දීමෙන් රුධිරයට ප්‍රමාණවත් ඔක්සිජන් එකතු නොවේ. නිවැරදි රිද්මය පවත්වා ගැනීම රෝගියාගේ ජීවිතය රැක ගැනීමට අතිශය වැදගත් වේ."
     },
     {
         "category": "CES – Engine, Management, Slow Speed",
@@ -2365,7 +2365,7 @@
         ],
         "correct_answer": "Shims should be fitted between the motor and compressor feet and the skid to ensure correct vertical, horizontal and parallel alignment of the coupling halves before it is bolted up.",
         "images": [],
-        "explanation": ""
+        "explanation": "### නිවැරදි පිළිතුර පැහැදිලි කිරීම:\n**Shims should be fitted between the motor and compressor feet and the skid...:**\nමැරීන් එන්ජින් කාමරයක ඇති උපකරණ නඩත්තු කිරීමේදී පෙළගැස්ම (Alignment) ඉතා වැදගත් වේ. මෙහිදී Flexible coupling එකක් භාවිතා කළද, මෝටරය සහ කොම්ප්‍රෙෂරය අතර ඉතා නිවැරදිව පෙළගැස්ම සිදු කළ යුතුය. මේ සඳහා 'Shims' (සිහින් ලෝහ තහඩු) භාවිතා කරමින් සිරස් (Vertical), තිරස් (Horizontal) සහ සමාන්තර (Parallel) පෙළගැස්ම නිවැරදි කරනු ලබයි. නිසි ලෙස පෙළගැස්ම සිදු නොකළහොත් අධික කම්පනය (Vibration), ශබ්දය සහ කප්ලින් එක ඉක්මනින් කැඩී යාම සිදු විය හැකිය.\n\n### අනෙක් පිළිතුරු වැරදි වීමට හේතුව:\n* **The alignment can be disregarded as long as the compressor and motor are mounted securely:** මෙය සම්පූර්ණයෙන්ම වැරදිය. උපකරණ ස්ථිරව සවි කර තිබූ පමණින් එය ක්‍රියා කිරීමට සුදුසු නොවේ. වැරදි පෙළගැස්ම නිසා දරන (Bearings) සහ මුද්‍රා (Seals) ඉක්මනින් ගෙවී විනාශ වේ.\n* **Only horizontal alignment is necessary, vertical and parallel alignment are not critical:** මෙයද වැරදිය. පෙළගැස්මකදී දිශාවන් තුනම (Vertical, Horizontal, and Angular/Parallel) එකසේ වැදගත් වේ. යම් හෙයකින් සිරස් පෙළගැස්ම වැරදි වුවහොත් කප්ලින් එක මත අනවශ්‍ය ආතතියක් (Stress) ඇති වී මුළු පද්ධතියම අකර්මන්‍ය විය හැකිය."
     },
     {
         "category": "CES – Engine, Management, Slow Speed",
@@ -2392,7 +2392,7 @@
         ],
         "correct_answer": "Exhaust gas leakage into the cooling water system.",
         "images": [],
-        "explanation": ""
+        "explanation": "### නිවැරදි පිළිතුර පැහැදිලි කිරීම:\n**Exhaust gas leakage into the cooling water system:**\nඩීසල් එන්ජිමක දහන වායූන් (Exhaust gases) තුළ සල්ෆර් ඩයොක්සයිඩ් ($SO_2$) අඩංගු වේ. යම් හෙයකින් සිලින්ඩර් හෙඩ් එකේ ඇතිවන පිපිරීමක් හෝ ගෑස්කට් (Gasket) එකක දෝෂයක් නිසා මෙම වායූන් සිසිලන ජල පද්ධතියට (Cooling water system) කාන්දු වුවහොත්, එම වායූන් ජලය සමඟ ප්‍රතික්‍රියා කර සල්ෆියුරික් ඇසිඩ් සාදයි. මෙහි ප්‍රතිඵලයක් ලෙස ජලයේ ආම්ලිකතාවය වැඩි වී pH අගය අඩු වන අතර, සල්ෆේට් (Sulphate) ප්‍රමාණය ඉහළ යයි. මෙය එන්ජින් පද්ධතියේ මලබැඳීම (Corrosion) වේගවත් කිරීමට ප්‍රධාන හේතුවකි.\n\n### අනෙක් පිළිතුරු වැරදි වීමට හේතුව:\n* **Contamination from lubricating oil leakage into the cooling system:** ලිහිසි තෙල් (Lube oil) ජලයට මිශ්‍ර වූ විට ජලය මත තෙල් තට්ටුවක් බැඳීම සහ තාප හුවමාරුව අඩුවීම සිදු වේ. නමුත් එයින් සල්ෆේට් ප්‍රමාණය කැපී පෙනෙන ලෙස ඉහළ යන්නේ හෝ pH අගය මේ අයුරින් අඩු වන්නේ නැත.\n* **Excessive evaporation of cooling water during operation:** ජලය වාෂ්ප වීම නිසා ජලයේ ඇති ඛනිජ ලවණ සාන්ද්‍රණය (Concentration) තරමක් වැඩි විය හැකි වුවත්, එය pH අගය තදින්ම අඩු කිරීමට හෝ සල්ෆේට් ප්‍රමාණය විශාල ලෙස වැඩි කිරීමට හේතු නොවේ.\n* **Incorrect mixing of fresh water and seawater in the system:** මුහුදු ජලය මිශ්‍ර වුවහොත් ක්ලෝරයිඩ් (Chloride) ප්‍රමාණය සහ දෘඪතාව (Hardness) ඉහළ යයි. එය සල්ෆේට් වැඩි වීමට වඩා ලවණතාවය (Salinity) ඉහළ නැංවීමට බලපායි."
     },
     {
         "category": "CES – Engine, Management, Slow Speed",
@@ -2420,7 +2420,7 @@
         ],
         "correct_answer": "To relieve excess pressure in the crankcase resulting from a crankcase explosion.",
         "images": [],
-        "explanation": ""
+        "explanation": "### නිවැරදි පිළිතුර පැහැදිලි කිරීම:\n**To relieve excess pressure in the crankcase resulting from a crankcase explosion:**\n2-Stroke විශාල ඩීසල් එන්ජින්වල ක්‍රෑන්ක්කේස් එක තුළ 'Oil mist' (තෙල් මීදුම) පවතී. යම් හෙයකින් Hot spot එකක් (උදා: Bearing එකක් රත් වීම) ඇති වුවහොත් මෙම තෙල් මීදුම ඇවිලී ක්‍රෑන්ක්කේස් පිපිරීමක් (Crankcase explosion) සිදු විය හැකිය. මෙහිදී ඇතිවන අධික පීඩනය නිසා එන්ජින් බඳ පුපුරා යාම වැළැක්වීමට මෙම 'Relief Valves' (සහන කපාට) යොදා ඇත. මෙම කපාට මඟින් ක්ෂණිකව පීඩනය පිටතට මුදා හරින අතර, නැවත වසා ගැනීමෙන් පිටතින් ඔක්සිජන් ඇතුළු වී දෙවන පිපිරීමක් (Secondary explosion) ඇති වීම වළක්වයි.\n\n### අනෙක් පිළිතුරු වැරදි වීමට හේතුව:\n* **To maintain constant lubrication pressure inside the crankcase:** මෙය වැරදිය. ක්‍රෑන්ක්කේස් එක තුළ ලිහිසි තෙල් පීඩනය පාලනය කරන්නේ ලිහිසි තෙල් පොම්පය සහ එයට අදාළ නියාමක කපාට (Regulating valves) මගිනි. රිලීෆ් වෑල්ව් යනු හදිසි ආරක්ෂක පියවරක් මිස සාමාන්‍ය පීඩන පාලකයක් නොවේ.\n* **To improve air circulation for better combustion efficiency:** මෙය වැරදිය. 2-stroke එන්ජිමක දහනය සඳහා අවශ්‍ය වාතය ලබා දෙන්නේ Scavenge air පද්ධතිය මගිනි. ක්‍රෑන්ක්කේස් එක තුළ වාතය සංසරණය කිරීම දහනයට සෘජු බලපෑමක් නොදක්වයි.\n* **To prevent oil leakage from the crankshaft seals:** මෙයද වැරදිය. ක්‍රෑන්ක්ෂාෆ්ට් සීල් මඟින් තෙල් කාන්දු වීම වැළැක්වීම යාන්ත්‍රික මුද්‍රා (Mechanical seals/Glands) මඟින් සිදු කෙරෙන අතර සහන කපාටවල කාර්යය පීඩනය පාලනය කිරීමයි."
     },
     {
         "category": "CES – Engine, Management, Slow Speed",
@@ -2434,7 +2434,7 @@
         ],
         "correct_answer": "85° C.",
         "images": [],
-        "explanation": ""
+        "explanation": "### නිවැරදි පිළිතුර පැහැදිලි කිරීම:\n**85° C:**\nවිශාල 2-stroke මැරීන් එන්ජින්වල තිරස් තෙරපුම (Axial thrust) දරාගන්නා 'Thrust bearing' එකෙහි උෂ්ණත්වය නිරන්තරයෙන් නිරීක්ෂණය කරනු ලබයි. සාමාන්‍යයෙන් මෙවැනි එන්ජින්වල ආරක්ෂාව සඳහා උෂ්ණත්වය 80°C ඉක්මවන විට 'Alarm' එකක් නාද වන අතර, එය තවත් ඉහළ ගොස් 85°C සීමාවට පැමිණි විට එන්ජිම ස්වයංක්‍රීයව අක්‍රිය (Shut down) වීමට සකස් කර ඇත. මීට වඩා වැඩි උෂ්ණත්වයකදී බෙයාරින් එකෙහි ඇති 'White metal' තට්ටුව දිය වී යාමේ (Melting) අවදානමක් පවතින බැවින් මෙම අගය ඉතා තීරණාත්මක වේ.\n\n### අනෙක් පිළිතුරු වැරදි වීමට හේතුව:\n* **65° C:** මෙම උෂ්ණත්වය එන්ජිම සාමාන්‍යයෙන් ක්‍රියාත්මක වන උෂ්ණත්ව පරාසයට (Running temperature) ඉතා ආසන්න අගයකි. එබැවින් එන්ජිම අක්‍රිය කිරීමට මෙය යොදා නොගනී.\n* **105° C:** මෙම අගය බෙයාරින් එකක් සඳහා ඉතාමත් ඉහළ උෂ්ණත්වයකි. උෂ්ණත්වය මෙතරම් ඉහළ යන තෙක් සිටියහොත් බෙයාරින් මතුපිට සම්පූර්ණයෙන්ම විනාශ වී ක්‍රෑන්ක්ෂාෆ්ට් (Crankshaft) එකට බරපතල හානි සිදු විය හැකිය.\n* **45° C:** මෙය එන්ජිම ක්‍රියාත්මක වීමට පෙර පවතින සාමාන්‍ය උෂ්ණත්වයක් හෝ ලිහිසි තෙල්වල මූලික උෂ්ණත්වය විය හැකිය. ආරක්ෂක සීමාවක් (Safety limit) ලෙස මෙය ප්‍රායෝගික නොවේ."
     },
     {
         "category": "CES – Engine, Management, Slow Speed",
@@ -2462,7 +2462,7 @@
         ],
         "correct_answer": "Scavenge air pressure lower than normal.",
         "images": [],
-        "explanation": ""
+        "explanation": "### නිවැරදි පිළිතුර පැහැදිලි කිරීම:\n**Scavenge air pressure lower than normal:**\nඑන්ජිම ක්‍රියාත්මක වන විට ඒ අවට ස්ප්‍රේ පේන්ට් (Spray painting) කිරීමේදී, වාතයේ පාවෙන තීන්ත අංශු ටර්බෝචාජර් එකේ ඉන්ටේක් ෆිල්ටර් (Intake filter) මඟින් උරා ගනු ලබයි. මෙම තීන්ත අංශු ෆිල්ටරයේ දැල මත තැන්පත් වී එය අවහිර (Clogging) කරයි. මෙලෙස ෆිල්ටරය අවහිර වූ විට ටර්බෝචාජරයට එන්ජිම තුළට අවශ්‍ය වාතය නිසි පරිදි ඇද ගැනීමට නොහැකි වන අතර, එහි ප්‍රතිඵලයක් ලෙස ස්කැවෙන්ජ් එයාර් පීඩනය (Scavenge air pressure) සාමාන්‍ය මට්ටමට වඩා අඩු වේ.\n\n\n\n### අනෙක් පිළිතුරු වැරදි වීමට හේතුව:\n* **Increase in exhaust gas temperature beyond normal limits:** වාතය අඩුවීම නිසා දහනය අසම්පූර්ණ වී පිටවන වායුවේ උෂ්ණත්වය (Exhaust temp) ඉහළ යා හැකි වුවත්, මෙම ප්‍රශ්නයේදී සෘජුවම සහ මුලින්ම බලපාන සාධකය වන්නේ වායු පීඩනය අඩුවීමයි.\n* **Excessive vibration in the turbocharger assembly:** ෆිල්ටරය අවහිර වීම නිසා කම්පනයක් (Vibration) ඇති වීමට වඩා ටර්බෝචාජරය 'Surging' තත්වයට පත් විය හැකිය. නමුත් කම්පනය යනු මෙහි ප්‍රධාන ප්‍රතිඵලය නොවේ.\n* **Higher than normal lubricating oil pressure:** ලිහිසි තෙල් පීඩනය (Lube oil pressure) පාලනය වන්නේ වෙනම පද්ධතියකින් වන අතර, ටර්බෝචාජර් ෆිල්ටරය අවහිර වීම එයට බලපෑමක් ඇති නොකරයි."
     },
     {
         "category": "CES – Engine, Management, Slow Speed",
@@ -2476,7 +2476,7 @@
         ],
         "correct_answer": "Water present in the lubricating oil during service.",
         "images": [],
-        "explanation": ""
+        "explanation": "### නිවැරදි පිළිතුර පැහැදිලි කිරීම:\n**Water present in the lubricating oil during service:**\nමැරීන් එන්ජින්වල භාවිතා වන 'White metal' බෙයාරින් (Tin-based alloys) ජලය මිශ්‍ර වූ ලිහිසි තෙල් සමඟ දීර්ඝ කාලයක් ප්‍රතික්‍රියා කළ විට 'Tin Oxide' නමැති ඉතා තද කළු පැහැති ස්ථරයක් සාදයි. මෙය 'Black Scab' හෝ 'Tin Oxide Corrosion' ලෙස හඳුන්වයි. මෙම කළු පැහැති ස්ථරය සාමාන්‍ය වයිට් මෙටල් එකට වඩා ඉතා තද (Hard) බැවින්, එය ජර්නල් එක (Journal) මතුපිට ගැටීමේදී එහි සීරීම් හෝ ඉරි (Grooves) ඇති කරයි. ලිහිසි තෙල් පද්ධතියට මුහුදු ජලය හෝ මිරිදිය කාන්දු වීම මෙයට ප්‍රධානතම හේතුවයි.\n\n### අනෙක් පිළිතුරු වැරදි වීමට හේතුව:\n* **Insufficient lubrication due to low oil pressure:** තෙල් පීඩනය අඩු වූ විට සාමාන්‍යයෙන් සිදු වන්නේ බෙයාරින් එක රත් වී වයිට් මෙටල් දිය වී යාමයි (Wiping/Melting). මෙහිදී මතුපිට කළු වී තද ස්ථරයක් සෑදීම සිදු නොවේ.\n* **Normal wear and tear of the bearing over time:** සාමාන්‍ය ගෙවී යාමකදී බෙයාරින් මතුපිට ඒකාකාරී ලෙස ගෙවී යන අතර එහි වර්ණය මෙලෙස කළු වී තද ස්ථර සෑදෙන්නේ නැත.\n* **Contamination of the bearing with soot particles from exhaust gases:** දහන වායූන්ගෙන් ලැබෙන කාබන් අංශු (Soot) නිසා තෙල් අපිරිසිදු වී බෙයාරින් ගෙවී යා හැකි වුවත්, වයිට් මෙටල් රසායනිකව වෙනස් වී ඉතා තද කළු ස්ථරයක් (Tin oxide) නිර්මාණය කරන්නේ ජලය පවතින විටදී පමණි."
     },
     {
         "category": "CES – Engine, Management, Slow Speed",
@@ -2518,7 +2518,7 @@
         ],
         "correct_answer": "Discharge to a shore facility only.",
         "images": [],
-        "explanation": ""
+        "explanation": "### නිවැරදි පිළිතුර පැහැදිලි කිරීම:\n**Discharge to a shore facility only:**\nMARPOL Annex V රෙගුලාසිවලට අනුව ප්ලාස්ටික් අඩංගු අපද්‍රව්‍ය නෞකාවකදී දහනය කළ විට (Incineration), එමඟින් ලැබෙන අළු (Ashes) මුහුදට දැමීම සපුරා තහනම් වේ. ප්ලාස්ටික් දහනය කිරීමේදී විෂ සහිත රසායනික ද්‍රව්‍ය අළු සමඟ ඉතිරි විය හැකි බැවින්, එම අළු විශේෂිත බෑග්වල බහා සුරක්ෂිතව තබාගෙන ගොඩබිම පිහිටි පිළිගත් අපද්‍රව්‍ය බැහැර කිරීමේ මධ්‍යස්ථානයකට (Shore Reception Facility) පමණක් භාර දිය යුතුය. මෙය සාගර පරිසර පද්ධතිය ආරක්ෂා කිරීම සඳහා පනවා ඇති දැඩි නීතියකි.\n\n### අනෙක් පිළිතුරු වැරදි වීමට හේතුව:\n* **Discharge the ashes directly into the sea in deep water:** මෙය වැරදිය. ප්ලාස්ටික් අඩංගු අළු කිසිදු ලෙසකින් (ගැඹුරු මුහුදේ වුවද) මුහුදට දැමීමට MARPOL නීති ඉඩ නොදේ.\n* **Store the ashes in the engine room until next port:** අළු ගබඩා කර තැබිය යුතු වුවත්, ඒවා එන්ජින් කාමරයේ ලිහිල්ව තැබීම ආරක්ෂිත නැත. ඒවා නියමිත බඳුන්වල බහා ඊළඟ වරායේදී ගොඩබිමට (Shore facility) භාර දිය යුතුය.\n* **Mix the ashes with general waste and dispose overboard:** මෙය සම්පූර්ණයෙන්ම නීති විරෝධී ක්‍රියාවකි. ප්ලාස්ටික් අංශු සහිත කිසිදු අපද්‍රව්‍යයක් සාමාන්‍ය කුණු සමඟ මිශ්‍ර කර මුහුදට දැමීමට අවසර නැත."
     },
     {
         "category": "CES – Engine, Management, Slow Speed",
@@ -2620,7 +2620,7 @@
         ],
         "correct_answer": "4 A.",
         "images": [],
-        "explanation": ""
+        "explanation": "### නිවැරදි පිළිතුර පැහැදිලි කිරීම:\n**4 A:**\nට්‍රාන්ස්ෆෝමරයක (Transformer) ශක්ති හානියක් සිදු නොවේ නම්, ප්‍රාථමික (Primary) සහ ද්විතීයික (Secondary) දඟරවල ඇති වෝල්ටීයතාවය සහ ධාරාව අතර සම්බන්ධය දඟර සංඛ්‍යාවට (Turns) ප්‍රතිලෝමව සමානුපාතික වේ. මේ සඳහා අපට $\\frac{I_1}{I_2} = \frac{N_2}{N_1}$ යන සූත්‍රය භාවිතා කළ හැකිය.\nමෙහිදී:\n$N_1 = 2000$\n$N_2 = 1000$\n$I_1 = 2 A$\n\nඑවිට: $2 / I_2 = 1000 / 2000$\n$2 / I_2 = 1 / 2$\n$I_2 = 2 \\times 2 = 4 A$\n\nදඟර සංඛ්‍යාව අඩකින් අඩු වන විට වෝල්ටීයතාව අඩකින් අඩු වන නමුත්, ශක්ති සංරක්ෂණ නියමයට අනුව ධාරාව දෙගුණයක් විය යුතුය.\n\n### අනෙක් පිළිතුරු වැරදි වීමට හේතුව:\n* **1 A:** මෙය වැරදිය. දඟර සංඛ්‍යාව අඩු වන විට (Step-down) ධාරාව වැඩි විය යුතුය. මෙය ධාරාව අඩුවීමක් පෙන්වයි.\n* **2 A:** මෙය වැරදිය. දඟර සංඛ්‍යාව වෙනස් වන විට ධාරාව සමානව පැවතිය නොහැක.\n* **8 A:** මෙය වැරදිය. මෙය දඟර සංඛ්‍යාව සහ ධාරාව අතර අනුපාතය වැරදි ලෙස ගණනය කිරීමකි (ධාරාව 4 ගුණයකින් වැඩි වී ඇති ලෙස පෙන්වයි)."
     },
     {
         "category": "CES – Engine, Management, Slow Speed",
@@ -2634,7 +2634,7 @@
         ],
         "correct_answer": "2,2 Ohms.",
         "images": [],
-        "explanation": ""
+        "explanation": "### නිවැරදි පිළිතුර පැහැදිලි කිරීම:\n**2,2 Ohms:**\nට්‍රාන්ස්ෆෝමරය සම්පූර්ණයෙන්ම ලෝඩ් වී ඇති විට (Fully loaded), එහි රේටින් එකට (22 kVA) සමාන ක්ෂමතාවයක් ද්විතීයික පාර්ශවයෙන් (Low tension side) ලබා ගනී. \n1. ප්‍රථමයෙන් ද්විතීයික ධාරාව ($I$) සොයමු: $S = V \\times I$ (මෙහි $S$ යනු Apparent Power).\n$22,000 VA = 220 V \\times I$\n$I = 22,000 / 220 = 100 A$\n\n2. දැන් ඕම්ගේ නියමය ($V = I \\times Z$) භාවිතයෙන් සම්බාධකය ($Z$ - Impedance) සොයමු:\n$220 V = 100 A \\times Z$\n$Z = 220 / 100 = 2.2 \\Omega$\n\n### අනෙක් පිළිතුරු වැරදි වීමට හේතුව:\n* **1,1 Ohms:** මෙහිදී ලෝඩ් එක වැඩි වන අතර ධාරාව $200 A$ දක්වා ඉහළ යයි. එය ට්‍රාන්ස්ෆෝමරයේ රේටින් එක ඉක්මවා යාමකි (Overload).\n* **4,4 Ohms:** මෙහිදී ධාරාව $50 A$ දක්වා අඩු වන බැවින් ට්‍රාන්ස්ෆෝමරය සම්පූර්ණයෙන් ලෝඩ් නොවේ (Half loaded).\n* **0,5 Ohms:** මෙය ඉතා අඩු ප්‍රතිරෝධයක් වන අතර එවිට ඉතා අධික ධාරාවක් ගලා ගොස් ට්‍රාන්ස්ෆෝමරය පිළිස්සීමට ඉඩ ඇත."
     },
     {
         "category": "CES – Engine, Management, Slow Speed",
@@ -2680,7 +2680,7 @@
         ],
         "correct_answer": "All the mentioned alternatives.",
         "images": [],
-        "explanation": ""
+        "explanation": "### නිවැරදි පිළිතුර පැහැදිලි කිරීම:\n**All the mentioned alternatives:**\nනොකඩවා මිනිස් මැදිහත් වීමක් රහිතව ක්‍රියා කරන (UMS - Unattended Machinery Space) නෞකාවල ගිනි අනාවරක (Fire detectors) පද්ධතියේ විශ්වාසනීයත්වය අතිශය තීරණාත්මක වේ. SOLAS සහ SMS (Safety Management System) රෙගුලාසිවලට අනුව, මෙම පද්ධති නියමිත කාල පරාසයන් තුළ පරීක්ෂා කළ යුතුය. මෙයට සතිපතා සිදු කරන ක්‍රියාකාරී පරීක්ෂණ (Weekly tests using smoke/heat simulators), මාසික දෘශ්‍ය පරීක්ෂණ (Monthly visual inspections) සහ අනතුරු ඇඟවීමක් සිදු වූ සෑම අවස්ථාවකම පද්ධතියේ නිවැරදි ක්‍රියාකාරිත්වය තහවුරු කිරීම ඇතුළත් වේ.\n\n### අනෙක් පිළිතුරු වැරදි වීමට හේතුව:\nමෙහි දක්වා ඇති සියලුම විකල්පයන් (අනතුරු ඇඟවීමකදී පරීක්ෂා කිරීම, සතිපතා පරීක්ෂා කිරීම සහ මාසික පරීක්ෂාව) එකසේ වැදගත් වන අතර, ඒවායින් එකක් පමණක් සිදු කිරීම ප්‍රමාණවත් නොවේ. නෞකාවක ආරක්ෂාව තහවුරු කිරීමට මෙම ක්‍රියාවලීන් සියල්ලම ඒකාබද්ධව සිදු කළ යුතුය."
     },
     {
         "category": "CES – Engine, Management, Slow Speed",
@@ -2694,7 +2694,7 @@
         ],
         "correct_answer": "One or more cylinder air start valves are stuck open.",
         "images": [],
-        "explanation": ""
+        "explanation": "### නිවැරදි පිළිතුර පැහැදිලි කිරීම:\n**One or more cylinder air start valves are stuck open:**\nඩීසල් එන්ජිමක් පණ ගැන්වීමේදී 'Starting air' ලබා දුන් විට එන්ජිම කරකැවෙනවා වෙනුවට දෙපසට වැනීමට (Oscillate) ප්‍රධානතම හේතුව වන්නේ එක් සිලින්ඩරයක හෝ කිහිපයක එයාර් ස්ටාර්ට් වෑල්ව් (Air start valve) විවෘතව පැවතීමයි. එවිට පණ ගැන්වීමේ වාතය එකවර සිලින්ඩර කිහිපයකට ඇතුළු වී පිස්ටන් මත ප්‍රතිවිරුද්ධ බලයන් (Opposing forces) ඇති කරයි. මෙහි ප්‍රතිඵලයක් ලෙස එන්ජිමට අවශ්‍ය දිශාවට කැරකීමට නොහැකිව දෙපසට වැනීම සිදු වේ. \n\n### අනෙක් පිළිතුරු වැරදි වීමට හේතුව:\n* **Low starting air pressure:** වායු පීඩනය අඩු වූ විට සාමාන්‍යයෙන් සිදු වන්නේ එන්ජිම ඉතා සෙමින් කැරකීම හෝ කිසිසේත්ම චලනය නොවීමයි. එය මෙලෙස දෙපසට වැනීමට හේතුවක් නොවේ.\n* **Fuel injector timing incorrect:** එන්ජිම පණ ගැන්වීමේ (Starting) මුල් පියවර වාතය මඟින් සිදුවන බැවින්, ඉන්ධන ඉන්ජෙක්ටර් වල දෝෂයක් එන්ජිම කරකැවෙන අවස්ථාවේදී මෙවැනි වැනීමකට බලපාන්නේ නැත.\n* **Crankshaft or bearings seized:** ක්‍රෑන්ක්ෂාෆ්ට් එක හෝ බෙයාරින් හිර වී (Seized) ඇත්නම් එන්ජිම කිසිසේත්ම චලනය නොවන අතර දෙපසට වැනීමක් සිදු විය නොහැක."
     },
     {
         "category": "CES – Engine, Management, Slow Speed",
@@ -2724,7 +2724,7 @@
         ],
         "correct_answer": "Adiabatic.",
         "images": [],
-        "explanation": ""
+        "explanation": "### නිවැරදි පිළිතුර පැහැදිලි කිරීම:\n**Adiabatic:**\nතාප ගති විද්‍යාවේදී (Thermodynamics), පද්ධතියක් සහ අවට පරිසරය අතර තාපය හුවමාරු නොවන ක්‍රියාවලියක් 'Adiabatic process' එකක් ලෙස හඳුන්වයි ($Q = 0$). මැරීන් එන්ජිමක සිලින්ඩරය තුළ වාතය සම්පීඩනය වීම (Compression) සහ ප්‍රසාරණය වීම (Expansion) ඉතා වේගයෙන් සිදුවන බැවින්, එම කෙටි කාලය තුළ සැලකිය යුතු තාප හුවමාරුවක් සිදු නොවේ යැයි උපකල්පනය කර මෙය ඇඩියාබැටික් ක්‍රියාවලියක් ලෙස සලකනු ලබයි.\n\n### අනෙක් පිළිතුරු වැරදි වීමට හේතුව:\n* **Isothermal:** මෙහිදී උෂ්ණත්වය නියතව පවතී ($T = constant$). නමුත් මෙහිදී තාප හුවමාරුව සිදු විය හැකිය.\n* **Isochoric:** මෙහිදී පරිමාව (Volume) නියතව පවතී. පද්ධතිය තුළ කාර්යයක් (Work done) සිදු නොවේ.\n* **Isobaric:** මෙහිදී පීඩනය (Pressure) නියතව පවතී. උදාහරණයක් ලෙස විවෘත භාජනයක ජලය රත් කිරීම isobaric ක්‍රියාවලියකි."
     },
     {
         "category": "CES – Engine, Management, Slow Speed",
@@ -2738,7 +2738,7 @@
         ],
         "correct_answer": "A calculation example showing the use of «KG» limitation curves.",
         "images": [],
-        "explanation": ""
+        "explanation": "### නිවැරදි පිළිතුර පැහැදිලි කිරීම:\n**A calculation example showing the use of «KG» limitation curves:**\nනෞකාවක ස්ථාවරත්වය (Stability) පිළිබඳ ජාත්‍යන්තර රෙගුලාසිවලට අනුව, නෞකාවේ ගුරුත්ව කේන්ද්‍රයේ උස ($KG$) සහ උපරිම අවසර ලත් $KG$ සීමාවන් (Limitation curves) දැක්වෙන ගණනය කිරීම් නෞකාව සතුව තිබිය යුතුය. මෙම සීමාවන් මඟින් නෞකාව පෙරලීමේ අවදානමක් නොමැතිව ආරක්ෂිතව පැවතිය හැකි උපරිම බර ව්‍යාප්තිය තීරණය කරයි.\n\n### අනෙක් පිළිතුරු වැරදි වීමට හේතුව:\n* **GM limitation curves:** $GM$ (Metacentric height) යනු ස්ථාවරත්වයේ මිනුමක් වුවද, වර්තමාන රෙගුලාසිවලදී බර පැටවීමේ සීමාවන් පෙන්වීමට වඩාත් ප්‍රායෝගිකව භාවිතා කරන්නේ $KG$ සීමා වක්‍රයන් (KG limiting curves) වේ.\n* **Draft / Displacement limitation curves:** මේවා නෞකාවේ ගිල්ම (Draft) සහ විස්ථාපනය (Displacement) පාලනය කරන සීමාවන් වුවද, නෞකාවක මූලික ස්ථාවරත්වය (Initial stability) සහතික කරන ප්‍රධානතම දත්තය වන්නේ $KG$ අගයයි."
     },
     {
         "category": "CES – Engine, Management, Slow Speed",
@@ -2752,7 +2752,7 @@
         ],
         "correct_answer": "Zero-point is accurate, but 100 % input is not giving 100 % output.",
         "images": [],
-        "explanation": ""
+        "explanation": "### නිවැරදි පිළිතුර පැහැදිලි කිරීම:\n**Zero-point is accurate, but 100 % input is not giving 100 % output:**\nමිනුම් උපකරණ පද්ධතියක (Instrumentation) 'Span' යනු එම උපකරණයට මැනිය හැකි අවම සහ උපරිම අගයන් අතර පරාසයයි. 'Span fault' එකක් පවතින විට, උපකරණයේ බිංදු අගය (Zero-point) නිවැරදිව පෙන්වුවද, ආදානය (Input) වැඩි වන විට ලැබෙන ප්‍රතිදානය (Output) නිවැරදි අගයෙන් බැහැර වේ. එනම්, උපරිම ආදානය ලබා දුන් විට උපරිම ප්‍රතිදානය (100% full scale) නොලැබී යයි. මෙය බොහෝ විට සිදුවන්නේ උපකරණයේ සංවේදීතාව (Gain) වෙනස් වීම නිසාය.\n\n### අනෙක් පිළිතුරු වැරදි වීමට හේතුව:\n* **Zero-point is not correct, but full-scale output is accurate:** මෙය 'Zero shift' ලෙස හඳුන්වයි. මෙහිදී මුළු පරාසයම එකම අගයකින් විස්ථාපනය වී ඇත.\n* **The instrument output fluctuates randomly:** මෙය සංඥා අතර පවතින බාධා (Noise) හෝ ලිහිල් සම්බන්ධතා (Loose connections) නිසා සිදුවන්නකි.\n* **Instrument fails to respond to any input:** මෙයින් අදහස් වන්නේ උපකරණය සම්පූර්ණයෙන්ම අක්‍රිය වී ඇති බව (Dead instrument) හෝ බල සැපයුම බිඳ වැටී ඇති බවයි."
     },
     {
         "category": "CES – Engine, Management, Slow Speed",
@@ -2766,7 +2766,7 @@
         ],
         "correct_answer": "Faulty cylinder component (piston rings, liner, etc.).",
         "images": [],
-        "explanation": ""
+        "explanation": "### නිවැරදි පිළිතුර පැහැදිලි කිරීම:\n**Faulty cylinder component (piston rings, liner, etc.):**\nDraw card එකක් මඟින් සිලින්ඩරයක් තුළ දහනය සිදුවන ආකාරය පරීක්ෂා කළ හැකිය. එක් සිලින්ඩරයක පමණක් සම්පීඩන පීඩනය (Compression pressure) සහ උපරිම පීඩනය (Maximum pressure) යන දෙකම අඩු වී ඇත්නම්, එයින් අදහස් වන්නේ එම සිලින්ඩරය තුළින් වාතය කාන්දු වන බවයි. පිස්ටන් රින්ග්ස් (Piston rings) ගෙවී යාම, සිලින්ඩර් ලයිනර් (Liner) එක අධික ලෙස ගෙවී යාම හෝ එක්සෝස්ට් වෑල්ව් එක (Exhaust valve) හරියට නොවැසීම මීට ප්‍රධාන හේතු වේ. අනෙක් සිලින්ඩර සාමාන්‍ය පරිදි ක්‍රියා කිරීම නිසා මෙය පොදු පද්ධතියක දෝෂයක් නොවන බව තහවුරු වේ.\n\n### අනෙක් පිළිතුරු වැරදි වීමට හේතුව:\n* **Low fuel injection pressure:** මෙහිදී උපරිම පීඩනය (Pmax) අඩු විය හැකි නමුත්, සම්පීඩන පීඩනය (Pcomp) කෙරෙහි එය බලපාන්නේ නැත (සම්පීඩනය සිදුවන්නේ ඉන්ධන විදීමට පෙර බැවිනි).\n* **Air start valve malfunction:** මෙය එන්ජිම පණ ගැන්වීමට පමණක් බලපාන අතර, එන්ජිම ධාවනය වන විට මෙවැනි පීඩන අඩුවීමකට ප්‍රධාන හේතුව නොවේ.\n* **Turbocharger failure:** ටර්බෝචාජර් එකේ දෝෂයක් ඇත්නම්, එයින් සියලුම සිලින්ඩරවල පීඩනය අඩු වේ. මෙහිදී එක් සිලින්ඩරයක පමණක් දෝෂයක් ඇති බැවින් මෙය අදාළ නොවේ."
     },
     {
         "category": "CES – Engine, Management, Slow Speed",
@@ -2780,7 +2780,7 @@
         ],
         "correct_answer": "Within 200 nm of US waters including Guam, Hawaii, Alaska and San Juan.",
         "images": [],
-        "explanation": ""
+        "explanation": "### නිවැරදි පිළිතුර පැහැදිලි කිරීම:\n**Within 200 nm of US waters including Guam, Hawaii, Alaska and San Juan:**\nOPA-90 (Oil Pollution Act of 1990) යනු ඇමරිකා එක්සත් ජනපදය විසින් පනවන ලද දැඩි සමුද්‍රීය නීතියකි. මෙය ප්‍රධාන වශයෙන් බලපාන්නේ ඇමරිකානු මුහුදු සීමාව තුළ සිදුවන තෙල් කාන්දුවීම් වැළැක්වීමට සහ ඒවාට වන්දි ගෙවීමටයි. මෙම නීතිය ඇමරිකානු වෙරළේ සිට නාවික සැතපුම් 200ක (200 nm) සීමාවක් සහිත සුවිශේෂී ආර්ථික කලාපය (EEZ) පුරා ක්‍රියාත්මක වන අතර එයට ගුවාම්, හවායි, ඇලස්කාව සහ සැන් ජුවාන් වැනි කලාපද ඇතුළත් වේ.\n\n### අනෙක් පිළිතුරු වැරදි වීමට හේතුව:\n* **Worldwide, in all international waters:** මෙය වැරදිය. OPA-90 යනු එක්සත් ජනපදයේ ජාතික නීතියක් වන අතර එය ලොව පුරා ජාත්‍යන්තර මුහුදු සීමාවලට අදාළ නොවේ. ජාත්‍යන්තර මට්ටමින් ක්‍රියාත්මක වන්නේ MARPOL රෙගුලාසි වේ.\n* **Only within 12 nm of the US coast:** නාවික සැතපුම් 12 සීමාව යනු භූමියට අයත් මුහුදු සීමාව (Territorial sea) වන නමුත්, OPA-90 හි බලපෑම ඊට වඩා බොහෝ ඔබ්බට (නාවික සැතපුම් 200 දක්වා) විහිදේ.\n* **In US inland waters only:** මෙය වැරදිය. මෙම නීතිය රට අභ්‍යන්තර ජල මාර්ගවලට මෙන්ම වෙරළෙන් ඔබ්බට ඇති විවෘත මුහුදු කලාපවලටද අදාළ වේ."
     },
     {
         "category": "CES – Engine, Management, Slow Speed",
@@ -2794,7 +2794,7 @@
         ],
         "correct_answer": "All the listed answers.",
         "images": [],
-        "explanation": ""
+        "explanation": "### නිවැරදි පිළිතුර පැහැදිලි කිරීම:\n**All the listed answers:**\nනෞකාවක හදිසි අවස්ථාවක් (Emergency) ඇති වූ විට එය සාර්ථකව පාලනය කිරීමට නම් සාධක කිහිපයක් එකවර සම්පූර්ණ විය යුතුය. කාර්ය මණ්ඩලය නිසි ලෙස පුහුණු වී සිටීම (Training), හදිසි අවස්ථාවලදී භාවිතා කරන උපකරණ (උදා: Fire pumps, Lifeboats) නියමිත පරිදි නඩත්තු කර තිබීම (Maintenance) සහ අනුගමනය කළ යුතු පියවර සියලු දෙනා දැන සිටීම (Procedures) යන මේ සියල්ලම සාර්ථක මැදිහත් වීමකට අත්‍යවශ්‍ය වේ.\n\n### අනෙක් පිළිතුරු වැරදි වීමට හේතුව:\nමෙහි දක්වා ඇති පුහුණුව, නඩත්තුව සහ කාර්ය පටිපාටිය යන කරුණු තුනම එකසේ වැදගත් වන අතර, ඉන් එකක් හෝ අඩු වුවහොත් හදිසි අවස්ථාවකදී කාර්යක්ෂමව ක්‍රියා කිරීමට නොහැකි වේ. එබැවින් මෙම සියලුම පිළිතුරු නිවැරදි පිළිතුරට ඇතුළත් වේ."
     },
     {
         "category": "CES – Engine, Management, Slow Speed",
@@ -2808,7 +2808,7 @@
         ],
         "correct_answer": "Action to be taken by crew and passengers.",
         "images": [],
-        "explanation": ""
+        "explanation": "### නිවැරදි පිළිතුර පැහැදිලි කිරීම:\n**Action to be taken by crew and passengers:**\nමස්ටර් ලිස්ට් (Muster List) එකක් යනු නෞකාවක හදිසි අවස්ථාවකදී (ගින්නක් හෝ නැවෙන් ඉවත් වීමේදී) එක් එක් පුද්ගලයා කළ යුතු රාජකාරිය පැහැදිලිව සඳහන් කර ඇති ලේඛනයකි. මෙහි කාර්ය මණ්ඩලයේ වගකීම් මෙන්ම මගීන් (Passengers) රැස්විය යුතු ස්ථාන සහ ඔවුන් අනුගමනය කළ යුතු උපදෙස් පැහැදිලිව දක්වා තිබිය යුතුය. මෙය නෞකාවේ සෑම තැනකම ප්‍රදර්ශනය කර තිබීම අනිවාර්ය වේ.\n\n### අනෙක් පිළිතුරු වැරදි වීමට හේතුව:\n* **The ship’s trading area and routes:** මෙය නෞකාවේ ගමන් මාර්ගයට (Passage plan) අදාළ කරුණක් වන අතර එය මස්ටර් ලිස්ට් එකට ඇතුළත් නොවේ.\n* **Engine room operating procedures:** එන්ජින් කාමරයේ ක්‍රියාකාරී පටිපාටීන් තාක්ෂණික අත්පොත්වල (Manuals) සඳහන් වන අතර ඒවා හදිසි අවස්ථා මස්ටර් ලිස්ට් එකක කොටසක් නොවේ.\n* **Maintenance schedule for safety equipment:** ආරක්ෂක උපකරණ නඩත්තු කාලසටහන් පවත්වාගෙන යනු ලබන්නේ වෙනම නඩත්තු වාර්තා (Maintenance logs) මගිනි."
     },
     {
         "category": "CES – Engine, Management, Slow Speed",
@@ -2836,7 +2836,7 @@
         ],
         "correct_answer": "All of the below mentioned.",
         "images": [],
-        "explanation": ""
+        "explanation": "### නිවැරදි පිළිතුර පැහැදිලි කිරීම:\n**All of the below mentioned:**\nනාවික අනතුරු ඇඟවීමේ සංඥා හෙවත් 'Pyrotechnics' වර්ග කිහිපයක් පවතින අතර, මේවා විවිධ අවස්ථාවලදී භාවිතා වේ. 'Rocket parachute flares' මඟින් ඉහළ අහසට සංඥා යවා දුර පරාසයකට දෘශ්‍යතාව ලබා දෙන අතර, 'Hand flares' මඟින් සමීපයේ සිටින යාත්‍රා වෙත සිය පිහිටීම දැනුම් දෙයි. 'Buoyant smoke signals' ප්‍රධාන වශයෙන් දිවා කාලයේදී තැඹිලි පැහැති දුමාරයක් නිකුත් කරමින් ගලවා ගැනීමේ යාත්‍රා හෝ ගුවන් යානා වෙත ඉලක්කය පෙන්වීමට භාවිතා කරයි. මේ සියල්ලම නෞකාවක තිබිය යුතු අනිවාර්ය ජීවිතාරක්ෂක උපකරණ වේ.\n\n### අනෙක් පිළිතුරු වැරදි වීමට හේතුව:\n* **Hand flares only / Rocket parachute flares only / Buoyant smoke signals only:** මෙම පිළිතුරු අසම්පූර්ණයි. ජීවිතාරක්ෂක පද්ධතියක කාර්යක්ෂමතාව සඳහා මෙම සියලුම සංඥා මාධ්‍යයන්ගේ එකතුවක් අවශ්‍ය වේ. එකක් පමණක් තිබීමෙන් විවිධ කාලගුණ හෝ දෘශ්‍යතා තත්වයන් යටතේ (උදා: දිවා/රාත්‍රී) සාර්ථකව සංඥා නිකුත් කිරීමට නොහැකි විය හැකිය."
     },
     {
         "category": "CES – Engine, Management, Slow Speed",
@@ -2850,7 +2850,7 @@
         ],
         "correct_answer": "In the SOLAS convention and its annex.",
         "images": [],
-        "explanation": ""
+        "explanation": "### නිවැරදි පිළිතුර පැහැදිලි කිරීම:\n**In the SOLAS convention and its annex:**\nනෞකාවක සිදු කළ යුතු අවම පුහුණු අභ්‍යාස (Drills) පිළිබඳ නීති රීති පනවනු ලබන්නේ SOLAS (Safety of Life at Sea) සම්මුතිය මඟිනි. SOLAS හි 3 වන පරිච්ඡේදය (Chapter III) යටතේ ජීවිතාරක්ෂක උපකරණ සහ අභ්‍යාස පිළිබඳව සඳහන් වේ. උදාහරණයක් ලෙස, සෑම සේවකයෙකුම අවම වශයෙන් මසකට වරක්වත් 'Abandon ship drill' සහ 'Fire drill' සඳහා සහභාගී විය යුතු බවට වන මූලික අවශ්‍යතාවය මෙහි දක්වා ඇත.\n\n### අනෙක් පිළිතුරු වැරදි වීමට හේතුව:\n* **In the STCW Convention:** STCW මඟින් ප්‍රධාන වශයෙන් සිදු කරන්නේ නාවිකයන්ගේ පුහුණුව, සහතික කිරීම සහ මුර සේවය (Watchkeeping) පිළිබඳ ප්‍රමිතීන් පැනවීමයි. එය පුහුණු අභ්‍යාසවල වාර ගණන තීරණය කරන මූලික සම්මුතිය නොවේ.\n* **In the company safety management manual only:** සමාගම් අත්පොත්වල මෙම තොරතුරු තිබිය හැකි වුවද, ඒවා සකස් කර ඇත්තේ SOLAS මඟින් පනවා ඇති ජාත්‍යන්තර අවම අවශ්‍යතාවලට අනුකූලවය. එබැවින් මූලාශ්‍රය වන්නේ SOLAS ය.\n* **In the MARPOL Convention:** MARPOL සම්මුතිය සම්පූර්ණයෙන්ම අදාළ වන්නේ සාගර පරිසරය දූෂණය වීම වැළැක්වීම පිළිබඳ නීති රීති සඳහා වන අතර, එයට ආරක්ෂක අභ්‍යාස (Safety drills) අදාළ නොවේ."
     },
     {
         "category": "CES – Engine, Management, Slow Speed",
@@ -2878,7 +2878,7 @@
         ],
         "correct_answer": "Monthly.",
         "images": [],
-        "explanation": ""
+        "explanation": "### නිවැරදි පිළිතුර පැහැදිලි කිරීම:\n**Monthly:**\nSOLAS (Safety of Life at Sea) සම්මුතියේ III වන පරිච්ඡේදයේ 19 වන රෙගුලාසියට අනුව, භාණ්ඩ ප්‍රවාහන නෞකාවක (Cargo ship) සේවය කරන සෑම කාර්ය මණ්ඩල සාමාජිකයෙකුම මසකට වරක්වත් අවම වශයෙන් එක් 'Abandon ship drill' එකකට සහ එක් 'Fire drill' එකකට සහභාගී විය යුතුය. මීට අමතරව, නෞකාවේ කාර්ය මණ්ඩලයෙන් 25%කට වඩා වැඩි ප්‍රමාණයක් වෙනස් වූ අවස්ථාවකදී, නෞකාව වරායෙන් පිටත් වී පැය 24ක් ඇතුළත මෙම අභ්‍යාස පැවැත්විය යුතුය.\n\n### අනෙක් පිළිතුරු වැරදි වීමට හේතුව:\n* **Weekly:** මගී නෞකාවල (Passenger ships) ඇතැම් අභ්‍යාස සතිපතා පැවැත්විය යුතු වුවත්, සාමාන්‍ය භාණ්ඩ ප්‍රවාහන නෞකාවල පුද්ගලයෙකුට අදාළ වන අවම අවශ්‍යතාවය මාසික වේ.\n* **Every three months:** මෙය ඉතා දීර්ඝ කාලයකි. හදිසි අවස්ථාවකදී ක්‍රියා කිරීමට අවශ්‍ය පුහුණුව අමතක වීමට ඉඩ ඇති බැවින් රෙගුලාසි මඟින් මාසිකව මෙය සිදු කිරීමට බලකරයි.\n* **Twice a year:** මෙය රෙගුලාසිවලට අනුකූල නොවන ඉතා අඩු වාර ගණනකි. නෞකාවක ආරක්ෂාව තහවුරු කිරීමට වසරකට දෙවතාවක් පුහුණුවීම කිසිසේත්ම ප්‍රමාණවත් නොවේ."
     },
     {
         "category": "CES – Engine, Management, Slow Speed",
@@ -2892,7 +2892,7 @@
         ],
         "correct_answer": "The main supply line to be blanked off prior to the work.",
         "images": [],
-        "explanation": ""
+        "explanation": "### නිවැරදි පිළිතුර පැහැදිලි කිරීම:\n**The main supply line to be blanked off prior to the work:**\nCO2 ස්ථාවර ගිනි නිවන පද්ධතියක (Fixed Fire Fighting System) නඩත්තු කටයුතු සිදු කරන විට, අත්වැරදීමකින් හෝ පද්ධතියේ දෝෂයකින් එන්ජින් කාමරය තුළට CO2 වායුව මුදා හැරීම වැළැක්විය යුතුය. CO2 යනු මිනිස් ජීවිතයට ඉතා භයානක වායුවකි. එබැවින් වඩාත්ම සුරක්ෂිත ක්‍රමය වන්නේ CO2 සිලින්ඩර් ගබඩාවේ සිට එන්ජින් කාමරයට යන ප්‍රධාන සැපයුම් නළය 'Blank off' කිරීම (නළය අතරට ලෝහ තහඩුවක් දමා අවහිර කිරීම) හෝ පද්ධතිය යාන්ත්‍රිකව හුදකලා (Isolate) කිරීමයි.\n\n### අනෙක් පිළිතුරු වැරදි වීමට හේතුව:\n* **Shut down all engine room machinery before starting work:** යන්ත්‍රෝපකරණ නැවැත්වීමෙන් ජීවිත ආරක්ෂාව තහවුරු නොවේ. වායුව කාන්දු වුවහොත් මිනිසුන් හුස්ම හිරවී මිය යා හැකිය.\n* **Post warning signs only:** අනතුරු ඇඟවීමේ පුවරු ප්‍රදර්ශනය කිරීම අත්‍යවශ්‍ය වුවත්, එයින් පද්ධතියේ ඇති විය හැකි යාන්ත්‍රික වැරදීමක් හෝ අත්වැරදීමකින් සිදුවන වායුව මුදා හැරීමක් වළක්වා ගත නොහැක.\n* **Increase ventilation in the engine room:** වාතාශ්‍රය වැඩි කිරීමෙන් කාන්දු වන වායුව යම් ප්‍රමාණයකට ඉවත් කළ හැකි වුවත්, විශාල CO2 ප්‍රමාණයක් එකවර මුදා හැරුණු විට එය ප්‍රමාණවත් නොවේ. එබැවින් හොඳම පූර්ව ආරක්ෂාව වන්නේ වායුව මුදා හැරීමට ඇති හැකියාව සම්පූර්ණයෙන් නැවැත්වීමයි."
     },
     {
         "category": "CES – Engine, Management, Slow Speed",
@@ -2920,7 +2920,7 @@
         ],
         "correct_answer": "Ensure the witness to the discovery signs your incident report.",
         "images": [],
-        "explanation": ""
+        "explanation": "### නිවැරදි පිළිතුර පැහැදිලි කිරීම:\n**Ensure the witness to the discovery signs your incident report:**\nනෞකාවක් තුළ නීති විරෝධී මත්ද්‍රව්‍ය සොයාගත් අවස්ථාවකදී, එය නීතිමය වශයෙන් ඉතා සංකීර්ණ තත්ත්වයකි. එහිදී අනුගමනය කළ යුතු ප්‍රධාන පියවර වන්නේ එම සොයාගැනීම නිවැරදිව ලේඛනගත කිරීමයි (Documentation). මෙහිදී සිද්ධිය ඇසින් දුටු සාක්ෂිකරුවෙකු ලවා වාර්තාවට අත්සන් ලබා ගැනීම අත්‍යවශ්‍ය වේ. මෙය පසුව සිදුවන නීතිමය පරීක්ෂණවලදී අදාළ නිලධාරියාගේ හෝ සොයාගත් පුද්ගලයාගේ නිර්දෝෂීභාවය ඔප්පු කිරීමට සහ මත්ද්‍රව්‍ය සොයාගත් නිවැරදි ස්ථානය හා වේලාව තහවුරු කිරීමට උපකාරී වේ.\n\n### අනෙක් පිළිතුරු වැරදි වීමට හේතුව:\n* **Dispose of them immediately overboard:** මෙය ඉතා භයානක සහ නීති විරෝධී ක්‍රියාවකි. සාක්ෂි විනාශ කිරීම (Destruction of evidence) බරපතල අපරාධයක් ලෙස සැලකෙන අතර එය නෞකාවේ නිලධාරීන් සැකයට භාජනය වීමට හේතු වේ.\n* **Ignore the situation and continue operations:** මත්ද්‍රව්‍ය ජාවාරම් පිළිබඳ තොරතුරු දැනගෙන නිහඬව සිටීම එම වරදට හවුල් වීමක් (Complicity) ලෙස සැලකිය හැකිය. මෙය නෞකාව අත්අඩංගුවට ගැනීමට පවා හේතු විය හැක.\n* **Keep the discovery confidential and do not report it:** රහසිගතව තබා ගැනීම වරාය බලධාරීන් සහ ආරක්ෂක අංශ සමඟ ගැටලු ඇති කරයි. ISPS කේතය සහ ජාත්‍යන්තර නීති අනුව මෙවැනි සිදුවීම් වහාම නෞකාවේ ආරක්ෂක නිලධාරියා (SSO) හරහා සමාගමට සහ අදාළ බලධාරීන්ට වාර්තා කළ යුතුය."
     },
     {
         "category": "CES – Engine, Management, Slow Speed",
@@ -2948,7 +2948,7 @@
         ],
         "correct_answer": "850 °C.",
         "images": [],
-        "explanation": ""
+        "explanation": "### නිවැරදි පිළිතුර පැහැදිලි කිරීම:\n**850 °C:**\nMARPOL Annex VI රෙගුලාසිවලට අනුව, නෞකාවක ඉන්සිනරේටර් (Incinerator) එකක් තුළ අපද්‍රව්‍ය දහනය කිරීම ආරම්භ කිරීමට පෙර එහි දහන කුටීරයේ (Combustion chamber) උෂ්ණත්වය අවම වශයෙන් 850 °C දක්වා ඉහළ නැංවිය යුතුය. මෙයට ප්‍රධාන හේතුව වන්නේ අඩු උෂ්ණත්වයකදී අපද්‍රව්‍ය දහනය කළහොත් පරිසරයට හානිකර විෂ වායූන් (Dioxins සහ Furans වැනි) නිකුත් වීමට ඉඩ තිබීමයි. මෙම ඉහළ උෂ්ණත්වය මඟින් අපද්‍රව්‍ය සම්පූර්ණයෙන්ම සහ පිරිසිදුව දහනය වන බව තහවුරු කරයි.\n\n\n\n### අනෙක් පිළිතුරු වැරදි වීමට හේතුව:\n* **650 °C / 750 °C:** මෙම උෂ්ණත්ව මට්ටම් ප්ලාස්ටික් හෝ විෂ සහිත ද්‍රව්‍ය සම්පූර්ණයෙන් විනාශ කිරීමට ප්‍රමාණවත් නොවන අතර, එමඟින් කළු දුමාරය සහ විෂ වායූන් පිට විය හැකිය.\n* **950 °C:** මෙය ඉන්සිනරේටරය ක්‍රියාත්මක වන උපරිම උෂ්ණත්ව පරාසයට ආසන්න අගයක් වුවද, අපද්‍රව්‍ය ඇතුළු කිරීම ආරම්භ කිරීමට අවශ්‍ය *අවම* නීත්‍යානුකූල උෂ්ණත්වය 850 °C වේ."
     },
     {
         "category": "CES – Engine, Management, Slow Speed",
@@ -2992,7 +2992,7 @@
         ],
         "correct_answer": "22 Ohms.",
         "images": [],
-        "explanation": ""
+        "explanation": "### නිවැරදි පිළිතුර පැහැදිලි කිරීම:\n**22 Ohms:**\nඕම්ගේ නියමය (Ohm's Law) භාවිතා කර මෙම අගය ඉතා පහසුවෙන් ගණනය කළ හැකිය. ඕම්ගේ නියමයට අනුව $V = I \\times R$ වේ. මෙහිදී අපට ප්‍රතිරෝධය (Resistance) සෙවීමට අවශ්‍ය බැවින් සූත්‍රය $R = V / I$ ලෙස සකස් කරගත හැක.\n\nමෙහි ලබා දී ඇති දත්ත:\n* වෝල්ටීයතාව ($V$) = 220 V\n* ධාරාව ($I$) = 10 A\n\nඑවිට: $R = 220 / 10 = 22 \\Omega$\n\nඑසේම ක්ෂමතාවය (Power) ඇසුරින්ද මෙය ගණනය කළ හැකිය ($P = V \\times I$):\n$2.2 kW = 2200 W$\n$R = V^2 / P = (220 \\times 220) / 2200 = 48400 / 2200 = 22 \\Omega$\n\nහීටින් එලිමන්ට් එකක ප්‍රතිරෝධය එහි ක්‍රියාකාරී උෂ්ණත්වයට ආසන්නව පවතින විට ලබා දෙන නිවැරදි අගය මෙයයි.\n\n### අනෙක් පිළිතුරු වැරදි වීමට හේතුව:\n* **18 Ohms / 25 Ohms / 30 Ohms:** මෙම අගයන් ලබා දී ඇති වෝල්ටීයතාවය (220V) සහ ධාරාව (10A) අතර පවතින ගණිතමය සම්බන්ධතාවයට අනුකූල නොවේ. හීටරය නිසි පරිදි ක්‍රියා කරන්නේ නම් එය අනිවාර්යයෙන්ම ඕම්ගේ නියමයට අනුව 22 Ohms අගයක් පෙන්විය යුතුය."
     },
     {
         "category": "CES – Engine, Management, Slow Speed",
@@ -3020,7 +3020,7 @@
         ],
         "correct_answer": "100 M Ohms.",
         "images": [],
-        "explanation": ""
+        "explanation": "### නිවැරදි පිළිතුර පැහැදිලි කිරීම:\n**100 M Ohms:**\nනෞකාවල භාවිතා වන අධි වෝල්ටීයතා (High Voltage - සාමාන්‍යයෙන් 1kV ට වැඩි) පද්ධතිවල ආරක්ෂාව සඳහා පරිවාරක ප්‍රතිරෝධය (Insulation Resistance) ඉතා ඉහළ මට්ටමක පැවතිය යුතුය. ජාත්‍යන්තර ප්‍රමිතීන්ට සහ වර්ගීකරණ සමිති (Classification Societies) රෙගුලාසිවලට අනුව, HV උපකරණ සඳහා පිළිගත හැකි අවම පරිවාරක ප්‍රතිරෝධ අගය 100 MΩ වේ. මීට වඩා අඩු අගයක් ලැබෙන්නේ නම්, එයින් අදහස් වන්නේ පරිවාරක ස්ථරය දුර්වල වී ඇති බව හෝ තෙතමනය/අපිරිසිදු ද්‍රව්‍ය නිසා කාන්දු වන ධාරාවක් (Leakage current) පවතින බවයි.\n\n### අනෙක් පිළිතුරු වැරදි වීමට හේතුව:\n* **10 M Ohms / 50 M Ohms:** මෙම අගයන් අඩු වෝල්ටීයතා (Low Voltage) පද්ධති සඳහා ප්‍රමාණවත් විය හැකි නමුත්, අධි වෝල්ටීයතා පද්ධතිවලදී මෙය අනතුරුදායක ලෙස සලකනු ලබයි.\n* **200 M Ohms:** මෙය ඉතා හොඳ පරිවාරක මට්ටමක් වුවද, ප්‍රශ්නයෙන් විමසන්නේ පිළිගත හැකි *අවම* සීමාව පිළිබඳවයි. නීත්‍යානුකූල අවම සීමාව ලෙස නියම කර ඇත්තේ 100 MΩ අගයයි."
     },
     {
         "category": "CES – Engine, Management, Slow Speed",
@@ -3034,7 +3034,7 @@
         ],
         "correct_answer": "3 failed start attempts.",
         "images": [],
-        "explanation": ""
+        "explanation": "### නිවැරදි පිළිතුර පැහැදිලි කිරීම:\n**3 failed start attempts:**\nනෞකාවක බ්‍රිජ් (Bridge) එකේ සිට ස්වයංක්‍රීයව එන්ජිම පණ ගැන්වීමේදී, පාලන පද්ධතිය (Automation system) විසින් එන්ජිම පණ ගැන්වීමට කිහිප වරක් උත්සාහ කරයි. සාමාන්‍යයෙන් මෙලෙස පිට පිට 3 වතාවක් එන්ජිම පණ ගැන්වීමට උත්සාහ කර එය අසාර්ථක වුවහොත් (3 failed attempts), පද්ධතිය විසින් «Engine Failed to Start» යන අනතුරු ඇඟවීම නිකුත් කර බ්‍රිජ් එකෙන් පාලනය කිරීම අක්‍රිය (Lockout) කරයි. මින් පසුව එන්ජිම පරීක්ෂා කර බලා දෝෂය නිවැරදි කරන තෙක් නැවත ස්වයංක්‍රීයව පණ ගැන්වීමට ඉඩ ලබා නොදෙන්නේ පණ ගැන්වීමේ වාතය (Starting air) අනවශ්‍ය ලෙස නාස්ති වීම වැළැක්වීමටයි.\n\n### අනෙක් පිළිතුරු වැරදි වීමට හේතුව:\n* **Low fuel pressure:** ඉන්ධන පීඩනය අඩු වීම නිසා එන්ජිම පණ ගැන්වීමට නොහැකි විය හැකි වුවත්, ඇලම් එකක් සහ ලොක් අවුට් (Lockout) එකක් ඇති වීමට බලපාන සෘජු හේතුව වන්නේ අසාර්ථක වූ උත්සාහයන් ගණනයි.\n* **Air supply failure:** වායු සැපයුම නැති වූ විට එන්ජිම කැරකෙන්නේ නැත. නමුත් ලොක් අවුට් එක සිදුවන්නේ පද්ධතිය විසින් නියමිත වාර ගණන උත්සාහ කිරීමෙන් පසුවය.\n* **Electrical starter motor fault:** විශාල 2-stroke එන්ජින් පණ ගන්වන්නේ පීඩනය කළ වාතය (Compressed air) මගින් මිස විද්‍යුත් මෝටර් (Electrical starter motor) මගින් නොවේ."
     },
     {
         "category": "CES – Engine, Management, Slow Speed",
@@ -3048,7 +3048,7 @@
         ],
         "correct_answer": "To ensure the cylinder air start valves operate in the correct sequence and for the correct period.",
         "images": [],
-        "explanation": ""
+        "explanation": "### නිවැරදි පිළිතුර පැහැදිලි කිරීම:\n**To ensure the cylinder air start valves operate in the correct sequence and for the correct period:**\nඩීසල් එන්ජිමක් පණ ගැන්වීමේදී, වාතය මඟින් පිස්ටන් පහළට තල්ලු කර ක්‍රෑන්ක්ෂාෆ්ට් එක කරකැවිය යුතුය. මෙහිදී එක් එක් සිලින්ඩරයට වාතය ඇතුළු කළ යුත්තේ එම සිලින්ඩරයේ පිස්ටනය නිවැරදි ස්ථානයේ (Firing order එකට අනුව) ඇති විට පමණි. එයාර් ඩිස්ට්‍රිබියුටර් (Air distributor) එක මඟින් සිදු කරන්නේ, එන්ජිමේ කැරකෙන දිශාවට අනුව නිවැරදි පිළිවෙලින් (Sequence) සහ නියමිත කාල සීමාවක් (Period) තුළ පමණක් සිලින්ඩර් හෙඩ් එකේ ඇති එයාර් ස්ටාර්ට් වෑල්ව් විවෘත කිරීමට අවශ්‍ය පාලක වාතය (Control air/Pilot air) යැවීමයි.\n\n### අනෙක් පිළිතුරු වැරදි වීමට හේතුව:\n* **To increase the air pressure for starting:** වායු පීඩනය වැඩි කරනු ලබන්නේ එයාර් කොම්ප්‍රෙෂර් (Air compressor) මඟිනි, ඩිස්ට්‍රිබියුටරයෙන් නොවේ.\n* **To supply air to the governor:** ගවනර් (Governor) එක ක්‍රියා කරන්නේ එන්ජිමේ වේගය පාලනය කිරීමට වන අතර එයට වාතය සැපයීම ඩිස්ට්‍රිබියුටරයේ කාර්යයක් නොවේ.\n* **To lubricate the air start system:** වායු පද්ධතිය ලිහිසි කිරීම සඳහා වෙනම 'Line lubricators' භාවිතා කරන අතර ඩිස්ට්‍රිබියුටරයට එම කාර්යය අදාළ නොවේ."
     },
     {
         "category": "CES – Engine, Management, Slow Speed",
@@ -3060,9 +3060,9 @@
             "A reduced temperature difference between the seawater inlet and outlet and also between the lubricating oil inlet and outlet.",
             "A sudden rise in seawater inlet temperature."
         ],
+        "explanation": "### නිවැරදි පිළිතුර පැහැදිලි කිරීම:\n**A reduced temperature difference between the seawater inlet and outlet and also between the lubricating oil inlet and outlet:**\nහීට් එක්ස්චේන්ජර් (Heat Exchanger) එකක නළ පද්ධතියේ පිටත හෝ ඇතුළත කුණු තැන්පත් වීම (Fouling/Scaling) යනු තාප හුවමාරුවට බාධා පමුණුවන පරිවාරක ස්ථරයක් සෑදීමයි. එවිට තෙල්වල ඇති තාපය මුහුදු ජලයට කාර්යක්ෂමව ගලා නොයයි. මෙහි ප්‍රතිඵලයක් ලෙස මුහුදු ජලයේ ඇතුළුවන සහ පිටවන උෂ්ණත්වයන් අතර වෙනස (Seawater temperature rise) මෙන්ම, තෙල්වල ඇතුළුවන සහ පිටවන උෂ්ණත්වයන් අතර වෙනසද (Oil temperature drop) අඩු වේ. නළ සම්පූර්ණයෙන් අවහිර (Blocked) වූවා නම් සිදු වන්නේ දියර ගලා යාමේ වේගය (Flow rate) අඩුවීමයි. නමුත් මෙහිදී සිදුවන්නේ තාප හුවමාරුවේ කාර්යක්ෂමතාව අඩුවීමයි.\n\n### අනෙක් පිළිතුරු වැරදි වීමට හේතුව:\n* **A reduced seawater flow rate only:** මෙය සාමාන්‍යයෙන් සිදුවන්නේ නළ පද්ධතිය අවහිර (Blocked) වූ විට හෝ පොම්පයේ දෝෂයක් ඇති විටය.\n* **A sudden increase in oil pressure drop across the exchanger:** මෙය තෙල් ගලා යන මාර්ගයේ ඇති වන සෘජු අවහිරතාවයක් පෙන්වයි.\n* **A sudden rise in seawater inlet temperature:** මෙය අවට පරිසරයේ හෝ මුහුදු ජලයේ උෂ්ණත්වය වෙනස් වීමක් මිස එක්ස්චේන්ජරයේ දෝෂයක් නොවේ.",
         "correct_answer": "A reduced temperature difference between the seawater inlet and outlet and also between the lubricating oil inlet and outlet.",
-        "images": [],
-        "explanation": ""
+        "images": []
     },
     {
         "category": "CES – Engine, Management, Slow Speed",
@@ -3076,7 +3076,7 @@
         ],
         "correct_answer": "Integral action reset time is set too fast.",
         "images": [],
-        "explanation": ""
+        "explanation": "### නිවැරදි පිළිතුර පැහැදිලි කිරීම:\n**Integral action reset time is set too fast:**\n'2 term controller' එකක් යනු සාමාන්‍යයෙන් P+I (Proportional + Integral) පාලක පද්ධතියකි. මෙහි 'Hunting' යනුවෙන් අදහස් කරන්නේ පාලනය කළ යුතු අගය (උෂ්ණත්වය) නියත මට්ටමක පවතින්නේ නැතිව ඉහළ පහළ යමින් නිතර වෙනස් වීමයි. Integral action එකක කාර්යය වන්නේ 'Offset' එක නැති කර අගය නිවැරදි මට්ටමට ගෙන ඒමයි. නමුත් මෙහි 'Reset time' එක ඉතා වේගවත් (Fast) ලෙස සකසා ඇති විට, පද්ධතිය සුළු වෙනසකදී පවා අධික ලෙස ප්‍රතිචාර දක්වයි (Over-corrects). මෙහි ප්‍රතිඵලයක් ලෙස පද්ධතිය අස්ථාවර වී උෂ්ණත්වය නිරන්තරයෙන් දෝලනය (Hunting) වීමට පටන් ගනී.\n\n### අනෙක් පිළිතුරු වැරදි වීමට හේතුව:\n* **Sensor malfunction:** සංවේදකය අක්‍රිය වුවහොත් සාමාන්‍යයෙන් පෙන්වන්නේ වැරදි ස්ථාවර අගයක් හෝ 'Zero/Full scale' අගයකි. එය අනිවාර්යයෙන්ම දෝලනය වීමට හේතුවක් නොවේ.\n* **Heater output is insufficient for the load:** හීටරයේ ධාරිතාව මදි වූ විට උෂ්ණත්වය නියමිත මට්ටමට වඩා අඩුවෙන් පවතිනවා මිස, එය නියමිත අගය වටා ඉහළ පහළ යන්නේ නැත.\n* **Control valve is sticking intermittently:** පාලක කපාටය (Valve) හිර වූ විට උෂ්ණත්වය වෙනස් වීම අක්‍රමවත් වේ. නමුත් 'Hunting' යනු පාලන පද්ධතියේ ඇති වැරදි සැකසුම් (Tuning) නිසා සිදුවන ක්‍රමවත් දෝලනයකි."
     },
     {
         "category": "CES – Engine, Management, Slow Speed",
@@ -3102,9 +3102,9 @@
             "Fracture surface shows only crystalline appearance without burnished areas.",
             "Fracture surface exhibits uniform ductile stretching along the rod."
         ],
-        "correct_answer": "Part of the fracture surface would be uneven but smooth (burnished) with the remainder crystalline with part «cup and cone» shape.",
+        "correct_answer": "Part of the fracture structure would be uneven but smooth (burnished) with the remainder crystalline with part «cup and cone» shape.",
         "images": [],
-        "explanation": ""
+        "explanation": "### නිවැරදි පිළිතුර පැහැදිලි කිරීම:\n**Part of the fracture surface would be uneven but smooth (burnished) with the remainder crystalline with part «cup and cone» shape:**\nතීව්‍ර විඩම්භන ආතතිය (Fatigue stress) නිසා ලෝහයක් බිඳී ගිය විට, එම බිඳුණු මතුපිට සුවිශේෂී ලක්ෂණ දෙකක් පෙන්වයි. මුලින්ම ඇති වන කුඩා ඉරිතැලීම කාලයත් සමඟ ක්‍රමයෙන් වර්ධනය වන අතර, එම කොටස් එකිනෙක ඇතිල්ලීම නිසා මතුපිට ඔප දැමූ ස්වභාවයක් (Burnished/Smooth) ගනී. අවසානයේදී ඉතිරි වී ඇති ලෝහ කොටසට එන්ජිමේ පවතින අධික බලය දරාගත නොහැකි වූ විට එය ක්ෂණිකව බිඳී යයි (Final failure). මෙම අවසාන බිඳීම සිදුවන කොටස ස්ඵටිකරූපී (Crystalline) හෝ 'Cup and cone' හැඩයක් ගනී. මෙය තී රොඩ් (Tie rod) එකක සිදුවන විඩම්භන බිඳීමක් හඳුනාගත හැකි ප්‍රධාන ලක්ෂණයයි.\n\n### අනෙක් පිළිතුරු වැරදි වීමට හේතුව:\n* **Entire fracture surface appears rough and jagged:** මෙය සාමාන්‍යයෙන් සිදුවන්නේ අධික බරක් නිසා ලෝහය එකවර බිඳී ගිය විටයි (Brittle fracture). විඩම්භන බිඳීමකදී මතුපිටින් කොටසක් සිනිඳුව පවතී.\n* **Fracture surface shows only crystalline appearance:** ඔප දැමූ (Burnished) ප්‍රදේශයක් නොමැති නම් එය 'Fatigue failure' එකක් ලෙස සැලකිය නොහැක.\n* **Uniform ductile stretching:** මෙය ප්ලාස්ටික් විකෘතියක් (Ductile failure) පෙන්වන ලක්ෂණයකි. තී රොඩ් එකක් මෙලෙස ඇදී බිඳී යාම කලාතුරකින් සිදුවන්නකි."
     },
     {
         "category": "CES – Engine, Management, Slow Speed",
@@ -3118,7 +3118,7 @@
         ],
         "correct_answer": "Recondition the rod by surface grinding and build up using plasma spraying with metal similar to the original.",
         "images": [],
-        "explanation": ""
+        "explanation": "### නිවැරදි පිළිතුර පැහැදිලි කිරීම:\n**Recondition the rod by surface grinding and build up using plasma spraying with metal similar to the original:**\nපිස්ටන් රොඩ් එකක ස්ටෆින් බොක්ස් (Stuffing box) එක ගැටෙන ප්‍රදේශය සීරීම් වලට (Scoring) ලක් වූ විට, එය පිළිසකර කිරීමට ඇති හොඳම තාක්ෂණික ක්‍රමය වන්නේ ප්ලාස්මා ස්ප්‍රේයිං (Plasma spraying) තාක්ෂණයයි. මෙහිදී ප්‍රථමයෙන් හානියට පත් මතුපිට මට්ටම් කිරීමට 'Grinding' කරනු ලබන අතර, ඉන්පසු ඉතා ඉහළ උෂ්ණත්වයක පවතින ප්ලාස්මා දැල්ලක් මඟින් ලෝහ කුඩු විදීමෙන් (Spraying) නැවත මුල් මට්ටමට ගොඩනගනු ලබයි. මෙය පෑස්සීමට (Welding) වඩා සුදුසු වන්නේ රොඩ් එකේ හැඩය වෙනස් වීම (Distortion) හෝ ලෝහයේ ගුණාංග වලට හානි වීම වැළැක්වීමට හැකි බැවිනි.\n\n### අනෙක් පිළිතුරු වැරදි වීමට හේතුව:\n* **Replace the piston rod entirely with a new one:** ප්‍රශ්නයට අනුව රොඩ් එක පිළිසකර කිරීම (Recondition) ආර්ථික වශයෙන් වාසිදායක බව තීරණය කර ඇති බැවින් අලුතින්ම එකක් දැමීම මෙහිදී අදාළ නොවේ.\n* **Weld the scored areas and polish manually:** පිස්ටන් රොඩ් වැනි අධික තාපයකට සහ ආතතියකට ලක්වන කොටස් පෑස්සීමෙන් (Welding) ඉරිතැලීම් ඇති විය හැක. එසේම අතින් පොලිෂ් කිරීමෙන් මතුපිට නියමිත නිවැරදි මට්ටමට (Tolerance) ලබා ගත නොහැක.\n* **Apply a high-temperature coating without grinding:** මතුපිට මට්ටම් නොකර කෝටින් එකක් යෙදීමෙන් සාර්ථක ප්‍රතිඵලයක් නොලැබේ. කෝටින් එක ලෝහය සමඟ හොඳින් බැඳීමට නම් මතුපිට පිරිසිදු කර මට්ටම් කළ යුතුය."
     },
     {
         "category": "CES – Engine, Management, Slow Speed",
@@ -3132,7 +3132,7 @@
         ],
         "correct_answer": "The filament is contaminated due to too high a concentration of hydrocarbons.",
         "images": [],
-        "explanation": ""
+        "explanation": "### නිවැරදි පිළිතුර පැහැදිලි කිරීම:\n**The filament is contaminated due to too high a concentration of hydrocarbons:**\nකැටලිටික් ෆිලමන්ට් (Catalytic filament) වර්ගයේ ගෑස් දර්ශක ක්‍රියා කරන්නේ වාතයේ ඇති හයිඩ්‍රොකාබන් වායූන් ෆිලමන්ට් එක මත දහනය වීමට සැලැස්වීමෙනි. නමුත් ඉන්ධන ටැංකියක් වැනි සංවෘත ස්ථානයක හයිඩ්‍රොකාබන් සාන්ද්‍රණය (Concentration) ඉතා ඉහළ මට්ටමක පවතින විට, එම වායූන් දහනය වීමට අවශ්‍ය ඔක්සිජන් ප්‍රමාණය ප්‍රමාණවත් නොවේ. එවිට මීටරය මුලින් ඉහළ අගයක් පෙන්වා පසුව වේගයෙන් බිංදුවට වැටේ. මෙයට හේතුව අධික වායු සාන්ද්‍රණය නිසා ෆිලමන්ට් එක 'Contaminate' වීම හෝ ඔක්සිජන් නොමැති වීම නිසා දහනය නතර වීමයි. මෙය ඉතා භයානක තත්ත්වයක් වන්නේ මීටරය 'Zero' පෙන්වූවත් එහි ඇත්ත වශයෙන්ම අධික ලෙස පුපුරණ සුලු වායූන් පවතින බැවිනි.\n\n### අනෙක් පිළිතුරු වැරදි වීමට හේතුව:\n* **Sensor wiring is broken or loose:** වයර් බිඳී ඇත්නම් මීටරය මුලින් ඉහළ ගොස් පසුව පහළ වැටීමක් සිදු නොවේ. එය ආරම්භයේ සිටම කිසිදු අගයක් පෙන්වන්නේ නැත.\n* **Battery of the instrument is low:** බැටරිය අඩු වූ විට සාමාන්‍යයෙන් 'Low Battery' අනතුරු ඇඟවීමක් පෙන්වන අතර, කියවීම් මෙලෙස ඉහළ පහළ යාම සිදු නොවේ.\n* **Instrument calibration is out of date:** ක්‍රමාංකනය (Calibration) පරණ වූ විට මීටරය පෙන්වන අගය සත්‍ය අගයට වඩා වෙනස් විය හැකි නමුත්, එය මෙලෙස අසාමාන්‍ය ලෙස ඉහළ ගොස් බිංදුවට වැටීමට ප්‍රධාන හේතුව නොවේ."
     },
     {
         "category": "CES – Engine, Management, Slow Speed",
@@ -3146,7 +3146,7 @@
         ],
         "correct_answer": "Refill the manometer with liquid with a higher density.",
         "images": [],
-        "explanation": ""
+        "explanation": "### නිවැරදි පිළිතුර පැහැදිලි කිරීම:\n**Refill the manometer with liquid with a higher density:**\nU-ටියුබ් මැනෝමීටරයක් (Manometer) මඟින් පීඩනය මනින්නේ එහි ඇති දියර කඳේ උස ($h$) මගිනි. පීඩනය සඳහා සූත්‍රය $P = \\rho gh$ වේ (මෙහි $\\rho$ යනු දියරයේ ඝනත්වයයි). පීඩනය ($P$) වැඩි වූ විට දියර කඳේ උස ($h$) වැඩි වේ. දියරය මැනෝමීටරයෙන් පිටතට විසි වන්නේ නම්, එයින් අදහස් වන්නේ පවතින පීඩනය දියර කඳේ උපරිම උසට වඩා වැඩි බවයි. මෙයට පිළියමක් ලෙස වැඩි ඝනත්වයකින් (Higher density) යුත් දියරයක් (උදා: ජලය වෙනුවට රසදිය) භාවිතා කළ හැකිය. එවිට එකම පීඩනය මැනීමට අවශ්‍ය වන දියර කඳේ උස ($h$) අඩු වන බැවින් දියරය පිටතට විසි නොවේ.\n\n### අනෙක් පිළිතුරු වැරදි වීමට හේතුව:\n* **Reduce the fan speed:** පංකාවේ වේගය අඩු කළහොත් අපට අවශ්‍ය උපරිම පීඩනය මැනීමට නොහැකි වේ. එය මිනුම් උපකරණයේ ගැටලුවට විසඳුමක් නොවේ.\n* **Pressure relief valve:** මෙය පීඩනය අඩු කිරීමට භාවිතා කරන්නකි. නමුත් අපට අවශ්‍ය වන්නේ පවතින පීඩනය නිවැරදිව මැනීමයි.\n* **Increase the diameter of the tube:** නළයේ විෂ්කම්භය (Diameter) වැඩි කිරීම පීඩනය මැනීමට අවශ්‍ය දියර කඳේ උස ($h$) කෙරෙහි බලපෑමක් ඇති නොකරයි. පීඩනය රඳා පවතින්නේ දියරයේ උස සහ ඝනත්වය මත පමණි."
     },
     {
         "category": "CES – Engine, Management, Slow Speed",
@@ -3174,7 +3174,7 @@
         ],
         "correct_answer": "Annual.",
         "images": [],
-        "explanation": ""
+        "explanation": "### නිවැරදි පිළිතුර පැහැදිලි කිරීම:\n**Annual:**\nනෞකාවක යන්ත්‍රෝපකරණ පරීක්ෂා කිරීමේ ක්‍රියාවලිය පහසු කිරීම සඳහා 'Continuous Survey of Machinery' (CSM) ක්‍රමය භාවිතා වේ. මෙහිදී වර්ගීකරණ සමිතිය (Classification Society) විසින් අවසර ලබා දී ඇති පරිදි, ප්‍රධාන ඉංජිනේරුවරයාට (Chief Engineer) ඇතැම් පරීක්ෂාවන් සිදු කර වාර්තා කළ හැකිය. කෙසේ වෙතත්, මෙම ක්‍රියාවලියේ විනිවිදභාවය සහ ප්‍රමිතිය තහවුරු කිරීම සඳහා වර්ගීකරණ සමිතියේ සමීක්ෂකවරයෙකු (Surveyor) වසරකට වරක් (Annual Audit) පැමිණ අදාළ ලේඛන සහ නඩත්තු වාර්තා පරීක්ෂා කිරීම අනිවාර්ය වේ.\n\n### අනෙක් පිළිතුරු වැරදි වීමට හේතුව:\n* **Every six months:** මෙය සාමාන්‍ය රෙගුලාසිවලට අනුව ඉතා කෙටි කාල පරාසයකි. වාර්ෂික පරීක්ෂාව ප්‍රමිතියක් ලෙස පිළිගැනේ.\n* **Every two years / Three years:** මෙම කාල පරාසයන් ඉතා දීර්ඝ බැවින් නෞකාවේ යන්ත්‍රෝපකරණවල ආරක්ෂාව සහ නීත්‍යානුකූල භාවය තහවුරු කිරීමට ප්‍රමාණවත් නොවේ."
     },
     {
         "category": "CES – Engine, Management, Slow Speed",
@@ -3188,7 +3188,7 @@
         ],
         "correct_answer": "Mark the items as not to be used and store them securely until they can be tested by a competent person.",
         "images": [],
-        "explanation": ""
+        "explanation": "### නිවැරදි පිළිතුර පැහැදිලි කිරීම:\n**Mark the items as not to be used and store them securely until they can be tested by a competent person:**\nනෞකාවක බර එසවීම සඳහා භාවිතා කරන උපකරණ (Lifting gear - උදා: Shackles, Slings, Chain blocks) වසර 5ක් තිස්සේ පරීක්ෂා කර නොමැති නම්, ඒවා භාවිතා කිරීම අතිශයින්ම අනතුරුදායකය. නීත්‍යානුකූලව සහ ආරක්ෂක රෙගුලාසි (Safety regulations) අනුව, එවැනි උපකරණ වහාම භාවිතයෙන් ඉවත් කර, ඒවා භාවිතා නොකළ යුතු බවට ලකුණු (Tag/Mark) කර ආරක්ෂිතව තැබිය යුතුය. නැවත භාවිතා කළ හැක්කේ සුදුසුකම් ලත් පුද්ගලයෙකු (Competent person) විසින් පරීක්ෂා කර සහතික කිරීමෙන් (Load testing & certification) පසුව පමණි.\n\n### අනෙක් පිළිතුරු වැරදි වීමට හේතුව:\n* **Use the items carefully under supervision:** කොතරම් ප්‍රවේශමෙන් භාවිතා කළත්, උපකරණයේ දරාගත හැකි උපරිම බර (SWL) සහතික කර නොමැති නම් එය බිඳී ගොස් මාරාන්තික අනතුරු සිදු විය හැකිය.\n* **Test the items yourself before use:** බර එසවීමේ උපකරණ පරීක්ෂා කිරීමට විශේෂිත දැනුමක් සහ උපකරණ අවශ්‍ය වේ. නෞකාවේ කාර්ය මණ්ඩලයට එවැනි පරීක්ෂණ සහතික කිරීමට නීත්‍යානුකූල බලයක් නැත.\n* **Replace the items immediately without testing:** අලුතින්ම උපකරණ ලබා ගැනීම විකල්පයක් වුවද, පවතින උපකරණ පිළිබඳව ප්‍රශ්නය විමසන බැවින්, පවතින දේ සම්බන්ධයෙන් ගත යුතු නිවැරදි ආරක්ෂක පියවර වන්නේ ඒවා භාවිතයෙන් ඉවත් කර ලේබල් කිරීමයි."
     },
     {
         "category": "CES – Engine, Management, Slow Speed",
@@ -3202,7 +3202,7 @@
         ],
         "correct_answer": "The sensing bulb for the remote gauge is placed in a relative «local hot spot» inside the meat room.",
         "images": [],
-        "explanation": ""
+        "explanation": "### නිවැරදි පිළිතුර පැහැදිලි කිරීම:\n**The sensing bulb for the remote gauge is placed in a relative «local hot spot» inside the meat room:**\nප්‍රශ්නයට අනුව, දුරස්ථ උෂ්ණත්ව මානය (Remote gauge) ගලවා පරීක්ෂා කළ විට එය නිවැරදිව ක්‍රියා කරන බව තහවුරු වී ඇත. නමුත් එය මස් ගබඩා කාමරයේ (Meat room) සවිකර ඇති විට සාමාන්‍ය උෂ්ණත්වමානයට වඩා වැඩි අගයක් පෙන්වයි. මෙයට හේතුව වන්නේ එම මානයේ සංවේදකය (Sensing bulb) කාමරය තුළ වාතය හොඳින් සංසරණය නොවන හෝ තාපය රැඳී පවතින ස්ථානයක (Local hot spot) සවිකර තිබීමයි. එවිට කාමරයේ සාමාන්‍ය උෂ්ණත්වයට වඩා වැඩි උෂ්ණත්වයක් එම ස්ථානයේ පවතින බැවින් මානය මඟින් වැඩි අගයක් පෙන්වනු ලබයි.\n\n### අනෙක් පිළිතුරු වැරදි වීමට හේතුව:\n* **The remote gauge is faulty:** මානය ගලවා පරීක්ෂා කළ විට එය නිවැරදි (Accurate) බව සොයාගෙන ඇති බැවින් මෙය වැරදිය.\n* **The liquid in glass thermometer is malfunctioning:** සාමාන්‍යයෙන් ද්‍රව වීදුරු උෂ්ණත්වමාන (Liquid in glass) ඉතා සරල සහ විශ්වාසදායක උපකරණ වන අතර, දුරස්ථ මානය නිවැරදි බව පවසා ඇති බැවින් ගැටලුව ඇත්තේ උපකරණයේ නොව ඒවා පිහිටි ස්ථානයේය.\n* **Electrical interference:** විද්‍යුත් බාධා (Interference) නිසා කියවීම් වෙනස් විය හැකි වුවත්, මෙහිදී වඩාත් ප්‍රායෝගික සහ මූලික හේතුව වන්නේ සංවේදකය පිහිටි ස්ථානයේ උෂ්ණත්වය සැබවින්ම වැඩි වීමයි (Hot spot)."
     },
     {
         "category": "CES – Engine, Management, Slow Speed",
@@ -3230,7 +3230,7 @@
         ],
         "correct_answer": "It is an integral part of the overall training plan.",
         "images": [],
-        "explanation": ""
+        "explanation": "### නිවැරදි පිළිතුර පැහැදිලි කිරීම:\n**It is an integral part of the overall training plan:**\nනෞකාවක සිදුකරන පුහුණුවීම් (Onboard training) අහඹු ලෙස හෝ ඉඩක් ලැබුණු විට පමණක් සිදු කරන්නක් නොවිය යුතුය. එය නෞකාවේ සමස්ත පුහුණු සැලැස්මේ (Overall training plan) අනිවාර්ය සහ ඒකාබද්ධ කොටසක් විය යුතුය. මෙයින් අදහස් කරන්නේ කාර්ය මණ්ඩලයේ දක්ෂතා වර්ධනය කිරීම, ආරක්ෂක පියවරයන් සහ තාක්ෂණික දැනුම යාවත්කාලීන කිරීම ක්‍රමානුකූල වැඩපිළිවෙලකට අනුව සිදුවිය යුතු බවයි.\n\n### අනෙක් පිළිතුරු වැරදි වීමට හේතුව:\n* **It is carried out only when there is spare time:** පුහුණුව යනු අමතර වැඩක් නොවේ. එය රාජකාරියේම කොටසක් විය යුතුය.\n* **It focuses solely on emergency drills:** හදිසි අභ්‍යාස වැදගත් වුවද, එදිනෙදා තාක්ෂණික මෙහෙයුම්, නඩත්තු කටයුතු සහ පාරිසරික ආරක්ෂාව වැනි අනෙකුත් අංශද පුහුණුවට ඇතුළත් විය යුතුය.\n* **It is optional for experienced crew members:** අත්දැකීම් බහුල නිලධාරීන්ට පවා නව තාක්ෂණය සහ වෙනස් වන රෙගුලාසි පිළිබඳ පුහුණුව අනිවාර්ය වේ."
     },
     {
         "category": "CES – Engine, Management, Slow Speed",
@@ -3244,7 +3244,7 @@
         ],
         "correct_answer": "Ex i.",
         "images": [],
-        "explanation": ""
+        "explanation": "### නිවැරදි පිළිතුර පැහැදිලි කිරීම:\n**Ex i:**\n'Zone 0' යනු පුපුරණ සුලු වායූන් හෝ වාෂ්ප නිරන්තරයෙන් හෝ දීර්ඝ කාලයක් පවතින අතිශය අනතුරුදායක කලාපයකි (උදා: ඉන්ධන ටැංකියක් ඇතුළත). මෙවැනි ස්ථානයක භාවිතා කළ හැක්කේ ඉහළම ආරක්ෂිත ප්‍රමිතියක් සහිත උපකරණ පමණි. 'Ex i' (Intrinsically Safe) උපකරණ මෙයට සුදුසු වන්නේ ඒවා ක්‍රියා කරන විද්‍යුත් ශක්තිය ඉතා අඩු මට්ටමක පවතින පරිදි නිර්මාණය කර ඇති බැවිනි. එමඟින් ගිනි පුපුරක් (Spark) හෝ තාපයක් උත්පාදනය වී වායුව ජ්වලනය වීමේ හැකියාව සම්පූර්ණයෙන්ම වළක්වයි.\n\n### අනෙක් පිළිතුරු වැරදි වීමට හේතුව:\n* **Ex d (Flameproof):** ගිනි පුපුරක් ඇති වුවහොත් එය උපකරණය තුළම රඳවා ගැනීමට සමත් වුවද, එය සාමාන්‍යයෙන් භාවිතා වන්නේ Zone 1 සහ 2 සඳහාය.\n* **Ex e (Increased Safety):** මෙය ගිනි පුපුරු ඇති නොවන ලෙස ආරක්ෂාව වැඩි කළ උපකරණ වන අතර Zone 1 සහ 2 සඳහා සුදුසුය.\n* **Ex n (Non-sparking):** මෙය අවම ආරක්ෂාවක් සහිත උපකරණ වන අතර භාවිතා කළ හැක්කේ Zone 2 කලාපවල පමණි."
     },
     {
         "category": "CES – Engine, Management, Slow Speed",
@@ -3258,7 +3258,7 @@
         ],
         "correct_answer": "500 V.",
         "images": [],
-        "explanation": ""
+        "explanation": "### නිවැරදි පිළිතුර පැහැදිලි කිරීම:\n**500 V:**\nසාමාන්‍යයෙන් 1000 V ට වඩා අඩු වෝල්ටීයතාවයකින් ක්‍රියා කරන පද්ධතිවල පරිවාරක ප්‍රතිරෝධය (Insulation Resistance) පරීක්ෂා කිරීමේදී භාවිතා කරන 'Insulation Tester' (Megger) උපකරණයේ අවම වෝල්ටීයතාවය 500 V DC විය යුතුය. 690 V ස්විච්බෝඩ් එකක් සඳහාද මෙම 500 V අගය සම්මත පරීක්ෂණ වෝල්ටීයතාවය ලෙස සලකනු ලබයි. එමඟින් පරිවාරකයේ ඇති දුර්වලතා හඳුනා ගැනීමට ප්‍රමාණවත් විද්‍යුත් පීඩනයක් ලබා දෙයි.\n\n### අනෙක් පිළිතුරු වැරදි වීමට හේතුව:\n* **250 V:** මෙම වෝල්ටීයතාවය 690 V වැනි පද්ධතියක පරිවාරක දෝෂ නිවැරදිව හඳුනා ගැනීමට තරම් ප්‍රමාණවත් නොවේ.\n* **1 000 V:** මෙය අධි වෝල්ටීයතා පරීක්ෂණ සඳහා භාවිතා කළ හැකි වුවද, 690 V පද්ධතියක සාමාන්‍ය නඩත්තු පරීක්ෂණ සඳහා අවශ්‍ය වන *අවම* වෝල්ටීයතාවය 500 V වේ.\n* **750 V:** මෙය පරීක්ෂණ වෝල්ටීයතාවයක් ලෙස සම්මතව භාවිතා කරන අගයක් නොවේ."
     },
     {
         "category": "CES – Engine, Management, Slow Speed",
@@ -3272,7 +3272,7 @@
         ],
         "correct_answer": "It will automatically start the next generator in the start sequence.",
         "images": [],
-        "explanation": ""
+        "explanation": "### නිවැරදි පිළිතුර පැහැදිලි කිරීම:\n**It will automatically start the next generator in the start sequence:**\nPower Management System (PMS) එකක ප්‍රධාන කාර්යය වන්නේ නෞකාවේ විදුලි සැපයුම බාධාවකින් තොරව පවත්වා ගැනීමයි. ක්‍රියාත්මක වන ජෙනරේටරයක් අධික ලෙස බර (Overload) වුවහොත් හෝ එහි දෝෂයක් (Fault) ඇති වුවහොත්, PMS මඟින් ස්වයංක්‍රීයව පෝලිමේ (Start sequence) ඇති ඊළඟ ජෙනරේටරය පණ ගන්වනු ලබයි. ඉන්පසු එය ප්‍රධාන ස්විච්බෝඩ් එක සමඟ සම්බන්ධ කර (Synchronize), පවතින විදුලි බර බෙදා ගැනීමට සලස්වයි. මෙය 'Blackout' එකක් වළක්වා ගැනීමට ගන්නා ක්ෂණික ක්‍රියාමාර්ගයකි.\n\n### අනෙක් පිළිතුරු වැරදි වීමට හේතුව:\n* **It will sound an alarm only:** අනතුරු ඇඟවීමක් නිකුත් කිරීම සිදු වුවද, පද්ධතිය ස්වයංක්‍රීයව ක්‍රියා නොකළහොත් නෞකාව අඳුරේ වැටීමට (Blackout) ඉඩ ඇත.\n* **It will shut down all generators immediately:** සියලුම ජෙනරේටර් නැවැත්වීමෙන් නෞකාවේ සියලුම පද්ධති අක්‍රිය වන බැවින් එය විසඳුමක් නොවේ.\n* **It will reduce the load manually:** PMS යනු ස්වයංක්‍රීය පද්ධතියක් බැවින් එය මිනිස් මැදිහත් වීමකින් තොරව (Automatically) විසඳුම් ලබා දිය යුතුය."
     },
     {
         "category": "CES – Engine, Management, Slow Speed",
@@ -3298,7 +3298,7 @@
         ],
         "correct_answer": "Near the bottom of the liner.",
         "images": [],
-        "explanation": ""
+        "explanation": "### නිවැරදි පිළිතුර පැහැදිලි කිරීම:\n**Near the bottom of the liner:**\nනව පිස්ටන් රින්ග්ස් (Piston rings) සවිකිරීමට පෙර ඒවායේ 'Butt gap' එක පරීක්ෂා කිරීමේදී සිලින්ඩර් ලයිනරයේ (Cylinder liner) පහළම කොටස භාවිතා කළ යුතුය. මෙයට හේතුව වන්නේ ලයිනරයක් භාවිතයේදී වැඩිපුරම ගෙවීමට (Wear) ලක්වන්නේ එහි ඉහළ කොටස වීමයි. ලයිනරයේ පහළ කොටස අවම වශයෙන් ගෙවීමට ලක්වන බැවින්, එහි විශ්කම්භය මුල් ප්‍රමාණයට (Original diameter) ඉතා සමීපව පවතී. රින්ග් එකක අවම පරතරය (Minimum clearance) මැනීමට නම් එය ලයිනරයේ පටුම ස්ථානයේ (Least worn part) තබා පරීක්ෂා කළ යුතුය. එමඟින් එන්ජිම ක්‍රියාත්මක වී රින්ග් එක රත් වී ප්‍රසාරණය වන විට එය හිර නොවී පවතින බව තහවුරු කරගත හැක.\n\n### අනෙක් පිළිතුරු වැරදි වීමට හේතුව:\n* **Near the top of the liner:** ලයිනරයේ ඉහළ කොටස උපරිම ලෙස ගෙවී ඇති බැවින් එහි විශ්කම්භය වැඩිය. එහි තබා මනින පරතරය (Gap) සත්‍ය අවම අගයට වඩා වැඩි අගයක් පෙන්වයි.\n* **In the middle of the liner:** ලයිනරයේ මැද කොටසද යම් ප්‍රමාණයකට ගෙවී තිබිය හැකි බැවින් නිවැරදිම මිනුම් ලබා ගැනීමට එය සුදුසු නැත."
     },
     {
         "category": "CES – Engine, Management, Slow Speed",
@@ -3311,7 +3311,7 @@
         ],
         "correct_answer": "…be fitted with a siphon loop between it and the steam pipe.",
         "images": [],
-        "explanation": ""
+        "explanation": "### නිවැරදි පිළිතුර පැහැදිලි කිරීම:\n**…be fitted with a siphon loop between it and the steam pipe:**\nවාෂ්ප (Steam) පද්ධතියක පීඩන මානයක් (Pressure gauge) සවිකිරීමේදී 'Siphon loop' (හෝ Pigtail siphon) එකක් භාවිතා කිරීම අත්‍යවශ්‍ය වේ. බෝඩන් ටියුබ් (Bourdon tube) වර්ගයේ මාන අධික තාපයට ඉතා සංවේදී වේ. සයිෆන් ලූප් එකක් මඟින් වාෂ්ප කෙලින්ම මානය තුළට ගලා ඒම වළක්වන අතර, එම වක්‍ර කොටස තුළ රැඳෙන ඝනීභවනය වූ ජලය (Condensate) මඟින් තාප බාධකයක් (Thermal barrier) සාදයි. එවිට මානය වෙත යන්නේ පීඩනය පමණක් වන අතර අධික තාපය නිසා එහි අභ්‍යන්තර කොටස් වලට හානි වීම වළකී.\n\n### අනෙක් පිළිතුරු වැරදි වීමට හේතුව:\n* **Heat shield:** හීට් ෂීල්ඩ් එකක් මඟින් පිටතින් එන තාපය වැළැක්විය හැකි වුවත්, නළය ඇතුළතින් කෙලින්ම එන වාෂ්ප තාපයෙන් මානය ආරක්ෂා කිරීමට එයට නොහැක.\n* **Drain valve:** ඩ්‍රේන් වෑල්ව් එකක් භාවිතා කරන්නේ ඝනීභවනය වූ ජලය ඉවත් කිරීමටය. නමුත් මෙහිදී අපට අවශ්‍ය වන්නේ ඝනීභවනය වූ ජලය භාවිතා කර මානය තාපයෙන් ආරක්ෂා කර ගැනීමයි."
     },
     {
         "category": "CES – Engine, Management, Slow Speed",
@@ -3325,7 +3325,7 @@
         ],
         "correct_answer": "Natural rubber sheet of approximately the same thickness and elasticity as the original diaphragm material.",
         "images": [],
-        "explanation": ""
+        "explanation": "### නිවැරදි පිළිතුර පැහැදිලි කිරීම:\n**Natural rubber sheet of approximately the same thickness and elasticity as the original diaphragm material:**\nනියුමැටික් පාලක කපාටයක (Pneumatic control valve) ඩයප්‍රෑම් (Diaphragm) එකක් යනු වායු පීඩනයට අනුව නම්‍යශීලීව හැසිරෙමින් කපාටය ක්‍රියා කරවන ප්‍රධාන කොටසයි. එය ඉරී ගිය අවස්ථාවකදී සහ අමතර කොටස් නොමැති විට තාවකාලිකව පිළියමක් ලෙස ස්වභාවික රබර් තහඩුවක් (Natural rubber sheet) භාවිතා කළ හැකිය. මෙහිදී මුල් ඩයප්‍රෑම් එකේ ඝනකම සහ නම්‍යශීලීතාව (Elasticity) ඇති ද්‍රව්‍යයක් තෝරා ගැනීම වැදගත් වන්නේ, එවිට පමණක් කපාටය පාලනය කරන වායු පීඩනයට නිසි පරිදි ප්‍රතිචාර දැක්වීමට හැකි වන බැවිනි.\n\n### අනෙක් පිළිතුරු වැරදි වීමට හේතුව:\n* **Thin plastic sheet with low elasticity:** ප්ලාස්ටික් තහඩු වල නම්‍යශීලීතාව අඩු බැවින් ඒවා පීඩනය හමුවේ ඉක්මනින් ඉරී යාමට හෝ නිසි පරිදි ක්‍රියා නොකිරීමට ඉඩ ඇත.\n* **Metal foil with high rigidity:** ලෝහ තහඩු ඉතා තද (Rigid) බැවින් ඩයප්‍රෑම් එකක් ලෙස ක්‍රියා කිරීමට අවශ්‍ය නම්‍යශීලී බව ඒවායේ නැත.\n* **Paper sheet:** කඩදාසි මඟින් වායු පීඩනය රඳවා තබා ගත නොහැකි අතර ඒවා ඉතා ඉක්මනින් විනාශ වී යයි."
     },
     {
         "category": "CES – Engine, Management, Slow Speed",
@@ -3353,7 +3353,7 @@
         ],
         "correct_answer": "The message means the yacht has been overturned in heavy seas.",
         "images": [],
-        "explanation": ""
+        "explanation": "### නිවැරදි පිළිතුර පැහැදිලි කිරීම:\n**The message means the yacht has been overturned in heavy seas:**\nසාගරයේදී භාවිතා වන තාක්ෂණික වචනයක් වන 'Capsize' යන්නෙහි තේරුම වන්නේ නෞකාවක් හෝ යාත්‍රාවක් ජලය මත පෙරළීම (Overturn) යන්නයි. බොහෝ විට රළු මුහුදේදී (Heavy seas) ඇතිවන විශාල රළ පහරවල් නිසා යාත්‍රාවක සමබරතාවය ගිලිහී එය උඩුයටිකුරුවීමට හෝ පැත්තකට පෙරළීමට පුළුවන. මෙය ජීවිත හානි සහ දේපල හානි සිදුවිය හැකි ඉතාමත් අවදානම් සහගත හදිසි තත්ත්වයකි.\n\n### අනෙක් පිළිතුරු වැරදි වීමට හේතුව:\n* **Engine failure:** එන්ජිම අක්‍රිය වීම හැඳින්වීමට 'Breakdown' හෝ 'Disabled' යන වචන භාවිතා කරයි.\n* **Stranded on a reef:** ගල්පරයක යාත්‍රාවක් හිරවීම හැඳින්වීමට 'Grounded' හෝ 'Stranded' යන වචන භාවිතා කරයි.\n* **Anchored and unable to move:** නංගුරම් දමා ඇති යාත්‍රාවක් හැඳින්වීමට 'At anchor' යනුවෙන් පවසන අතර, එය 'Capsize' යන්නෙහි තේරුම නොවේ."
     },
     {
         "category": "CES – Engine, Management, Slow Speed",
@@ -3367,7 +3367,7 @@
         ],
         "correct_answer": "There are risks to people at height and anyone below them.",
         "images": [],
-        "explanation": ""
+        "explanation": "### නිවැරදි පිළිතුර පැහැදිලි කිරීම:\n**There are risks to people at height and anyone below them:**\nනෞකාවක උසක වැඩ කිරීමේදී (Working at height) ප්‍රධාන අවදානම් දෙකක් පවතී. පළමුවැන්න, උසක වැඩ කරන පුද්ගලයා බිමට ඇද වැටීමේ අවදානමයි. දෙවැන්න, ඔහු භාවිතා කරන මෙවලම් හෝ ද්‍රව්‍ය අතපසුවීමකින් පහළට වැටීමෙන් එම ස්ථානයට පහළින් සිටින පුද්ගලයින්ට හෝ යන්ත්‍රෝපකරණවලට හානි සිදුවීමේ අවදානමයි. එබැවින් උසක වැඩ කිරීමේදී ආරක්ෂිත පටි (Safety harness) මෙන්ම, පහළ ප්‍රදේශය ආවරණය කිරීම (Cordoning off) සහ මෙවලම් රැඳවුම් (Lanyards) භාවිතා කිරීම අත්‍යවශ්‍ය වේ.\n\n### අනෙක් පිළිතුරු වැරදි වීමට හේතුව:\n* **Only the person working at height is at risk:** මෙය වැරදිය, මන්ද ඉහළ සිට වැටෙන උපකරණ නිසා පහළ සිටින අයටද මාරාන්තික හානි සිදුවිය හැකිය.\n* **Only people below are at risk:** මෙයද වැරදිය, වැඩ කරන පුද්ගලයා වැටීමේ අවදානම සැමවිටම පවතී.\n* **There are no significant risks when proper equipment is used:** උපකරණ නිසි පරිදි භාවිතා කිරීමෙන් අවදානම *අඩු කරගත* හැකි වුවද, අවදානම සම්පූර්ණයෙන්ම නැති වන්නේ නැත."
     },
     {
         "category": "CES – Engine, Management, Slow Speed",
@@ -3381,7 +3381,7 @@
         ],
         "correct_answer": "The heat transfer surfaces should be cleaned.",
         "images": [],
-        "explanation": ""
+        "explanation": "### නිවැරදි පිළිතුර පැහැදිලි කිරීම:\n**The heat transfer surfaces should be cleaned:**\nහීට් එක්ස්චේන්ජර් (Heat exchanger) එකක තාප හුවමාරු ධාරිතාව (Heat transfer capacity) අඩුවීමට ප්‍රධානතම හේතුව වන්නේ එහි නළ (Tubes) හෝ තහඩු (Plates) මත කුණු, මලකඩ හෝ ලවණ තැන්පත් වීමයි (Fouling/Scaling). මෙම තැන්පත් වීම් තාපය ගලා යාමට බාධා පමුණුවන බැවින් තෙල් නිසි පරිදි සිසිල් නොවේ. මෙයට ඇති ස්ථිරසාර විසඳුම වන්නේ එක්ස්චේන්ජරය විවෘත කර එහි තාප හුවමාරු මතුපිටවල් (Heat transfer surfaces) පිරිසිදු කිරීමයි.\n\n### අනෙක් පිළිතුරු වැරදි වීමට හේතුව:\n* **The lubricating oil flow rate should be increased:** තෙල් ගලා යන වේගය වැඩි කිරීමෙන් සිසිලනය වැඩි නොවන අතර, ඇතැම් විට තාපය උරා ගැනීමට ඇති කාලය අඩුවීම නිසා තත්ත්වය තවත් නරක අතට හැරිය හැක.\n* **Additional coolant should be added:** මෙය පද්ධතියේ දියර මට්ටම පවත්වා ගැනීමට මිස තාප හුවමාරු කාර්යක්ෂමතාව වැඩි කිරීමට හේතුවක් නොවේ.\n* **The operating pressure should be reduced:** පීඩනය අඩු කිරීමෙන් තාප හුවමාරුවට සෘජු බලපෑමක් සිදු නොවේ."
     },
     {
         "category": "CES – Engine, Management, Slow Speed",
@@ -3395,7 +3395,7 @@
         ],
         "correct_answer": "Cooling water velocity too high.",
         "images": [],
-        "explanation": ""
+        "explanation": "### නිවැරදි පිළිතුර පැහැදිලි කිරීම:\n**Cooling water velocity too high:**\nහීට් එක්ස්චේන්ජර් (Heat exchanger) එකක නළ (Tubes) තුළින් ගලා යන සිසිලන ජලයේ වේගය (Velocity) නිර්දේශිත මට්ටමට වඩා වැඩි වූ විට 'Erosion' හෙවත් ලෝහය ගෙවී යාම සිදු වේ. මෙහිදී අධික වේගයෙන් ගලා යන ජලය නළයේ අභ්‍යන්තර මතුපිට සහ විශේෂයෙන්ම නළවල කෙළවර (Tube ends) සමඟ ඇතිල්ලීම නිසා ලෝහ ස්ථරය ක්‍රමයෙන් ගැලවී යයි. මීට අමතරව ජලයේ වැලි හෝ වෙනත් කුඩා අංශු අඩංගු නම්, අධික වේගය නිසා ඒවා 'Abrasive' ද්‍රව්‍ය ලෙස ක්‍රියා කරමින් නළ ඉතා ඉක්මනින් තුනී කර සිදුරු වීමට (Puncturing) මඟ පාදයි.\n\n### අනෙක් පිළිතුරු වැරදි වීමට හේතුව:\n* **Low pressure:** ජල පීඩනය අඩු වීමෙන් නළවල ගෙවීමක් සිදු නොවේ. එයින් සිදුවිය හැක්කේ සිසිලන ධාරිතාව අඩුවීම පමණි.\n* **Inadequate water treatment leading to scaling:** ජල පිරිපහදුව නිසි පරිදි සිදු නොවීමෙන් ඇතිවන්නේ 'Scaling' (ලවණ තැන්පත් වීම) මිස 'Erosion' (ගෙවී යාම) නොවේ. Scaling මඟින් තාප හුවමාරුවට බාධා ඇති වේ.\n* **Excessive temperature:** ජලයේ උෂ්ණත්වය අධික වීම නිසා 'Corrosion' (මලකඩ කෑම) වේගවත් විය හැකි වුවත්, නළ මතුපිට යාන්ත්‍රිකව ගෙවී යාමට (Erosion) බලපාන ප්‍රධාන සාධකය වන්නේ ජලයේ වේගයයි."
     },
     {
         "category": "CES – Engine, Management, Slow Speed",
@@ -3423,7 +3423,7 @@
         ],
         "correct_answer": "1 000 000 Ohms.",
         "images": [],
-        "explanation": ""
+        "explanation": "### නිවැරදි පිළිතුර පැහැදිලි කිරීම:\n**1 000 000 Ohms (1 MΩ):**\nනෞකාවක ඇති විද්‍යුත් උපකරණවල පරිවාරක ප්‍රතිරෝධය (Insulation Resistance) මැනීමේදී පොදුවේ පිළිගන්නා රීතියක් වන්නේ පද්ධතියේ ක්‍රියාකාරී වෝල්ටීයතාවයේ සෑම වෝල්ට් එකකටම අවම වශයෙන් ඕම් 1000 ක ($1000\\, \\Omega$ per volt) ප්‍රතිරෝධයක් තිබිය යුතු බවයි. මෙහිදී ජෙනරේටරය 450 V එකක් බැවින්, අවම ප්‍රතිරෝධය $450 \\times 1000 = 450,000\\, \\Omega$ විය යුතුය. කෙසේ වෙතත්, ජාත්‍යන්තර ප්‍රමිතීන් (IEEE සහ මාරයින් රෙගුලාසි) අනුව, ක්‍රියාත්මක කිරීමට පෙර ඕනෑම මැෂිමක තිබිය යුතු අවම ආරක්ෂිත සීමාව ලෙස 1,000,000 Ohms (හෙවත් 1 MΩ) අගය නිර්දේශ කෙරේ. සති කිහිපයක් ක්‍රියා විරහිතව තිබූ ජෙනරේටරයක් නම් තෙතමනය නිසා මෙම අගය අඩු විය හැකි බැවින්, එය 1 MΩ ට වඩා වැඩි බව තහවුරු කර ගැනීම අත්‍යවශ්‍ය වේ.\n\n### අනෙක් පිළිතුරු වැරදි වීමට හේතුව:\n* **100 000 Ohms / 500 000 Ohms:** මෙම අගයන් 450V පද්ධතියක පවතින අවදානම කළමනාකරණය කිරීමට ප්‍රමාණවත් නොවේ. මේවා 'Low insulation' ලෙස සලකන අතර මෙවැනි අගයකදී ජෙනරේටරය ක්‍රියාත්මක කිරීමෙන් 'Short circuit' හෝ 'Earth fault' ඇති විය හැක.\n* **2 000 000 Ohms:** මෙය ඉතා හොඳ තත්ත්වයක් වුවද, ප්‍රශ්නයෙන් විමසන්නේ ක්‍රියාත්මක කිරීමට අවසර දිය හැකි *අවම* (Minimum acceptable) අගය පිළිබඳවයි."
     },
     {
         "category": "CES – Engine, Management, Slow Speed",
@@ -3465,7 +3465,7 @@
         ],
         "correct_answer": "By muster lists exhibited in conspicuous places.",
         "images": [],
-        "explanation": ""
+        "explanation": "### නිවැරදි පිළිතුර පැහැදිලි කිරීම:\n**By muster lists exhibited in conspicuous places:**\nනව නෞකාවකට සම්බන්ධ වූ පසු, හදිසි අවස්ථාවකදී (උදා: ගින්නක් හෝ නෞකාවෙන් ඉවත් වීම) ඔබ කළ යුතු කාර්යයන් සහ අදාළ අනතුරු ඇඟවීමේ සංඥා (Alarms) පිළිබඳව දැනුවත් කරන ප්‍රධානම ක්‍රමය වන්නේ 'Muster List' එකයි. මෙය නෞකාවේ සැමට පෙනෙන පොදු ස්ථානවල (Conspicuous places) ප්‍රදර්ශනය කර ඇත. මෙහි එක් එක් නිලධාරියාගේ සහ සේවකයාගේ නම හෝ පදවිය ඉදිරියෙන් ඔවුන් පෙනී සිටිය යුතු ස්ථානය (Muster station) සහ කළ යුතු විශේෂ රාජකාරිය පැහැදිලිව සටහන් කර ඇත.\n\n### අනෙක් පිළිතුරු වැරදි වීමට හේතුව:\n* **Verbal instructions:** මුඛ වාචික උපදෙස් මත පමණක් විශ්වාසය තැබිය නොහැක, මන්ද හදිසි අවස්ථාවකදී මතකය ගිලිහී යාමට ඉඩ ඇති බැවින් ලිඛිතව ප්‍රදර්ශනය කිරීම අනිවාර්ය වේ.\n* **Emergency response video:** ඇතැම් විට වීඩියෝ දර්ශන පෙන්විය හැකි වුවද, නීත්‍යානුකූලව 'Muster list' එක ප්‍රදර්ශනය කිරීම අත්‍යවශ්‍ය අවශ්‍යතාවයකි.\n* **Emergency manual:** අත්පොත් (Manuals) තිබිය හැකි වුවත්, හදිසි අවස්ථාවකදී ඉක්මනින් කියවා තේරුම් ගැනීමට Muster list එක වඩාත් ප්‍රායෝගික වේ."
     },
     {
         "category": "CES – Engine, Management, Slow Speed",
@@ -3479,7 +3479,7 @@
         ],
         "correct_answer": "«Dead Ship» means that the machinery and boilers are inoperational due to lack of electrical power.",
         "images": [],
-        "explanation": ""
+        "explanation": "### නිවැරදි පිළිතුර පැහැදිලි කිරීම:\n**«Dead Ship» means that the machinery and boilers are inoperational due to lack of electrical power:**\nනෞකා තාක්ෂණික ක්ෂේත්‍රයේ 'Dead Ship' යනුවෙන් හඳුන්වන්නේ නෞකාවේ ප්‍රධාන බලශක්ති ප්‍රභවයන් සියල්ල අක්‍රිය වී ඇති අවස්ථාවකි. මෙහිදී විදුලි ජනක යන්ත්‍ර (Generators) ක්‍රියා නොකරන බැවින් ප්‍රධාන එන්ජිම, බොයිලේරු (Boilers) සහ අනෙකුත් සහායක යන්ත්‍රෝපකරණ පණ ගැන්වීමට අවශ්‍ය විදුලිය හෝ වායු පීඩනය (Compressed air) නොමැති තත්ත්වයක් පවතී. මෙවැනි අවස්ථාවක නෞකාව නැවත පණ ගැන්වීම සඳහා 'Emergency Generator' එක හෝ බැටරි බලය භාවිතා කරමින් මූලික පද්ධති සක්‍රිය කරගත යුතු අතර මෙය 'Dead ship recovery' ලෙස හැඳින්වේ.\n\n### අනෙක් පිළිතුරු වැරදි වීමට හේතුව:\n* **Abandoned at sea:** නෞකාවක් අතහැර දැමීම 'Abandoned ship' ලෙස හඳුන්වනු ලබයි.\n* **Decommissioned:** සේවයෙන් ඉවත් කරන ලද නෞකාවක් 'Scrapped' හෝ 'Decommissioned' ලෙස හඳුන්වයි.\n* **Crew relieved of duty:** කාර්ය මණ්ඩලය රාජකාරියෙන් නිදහස් කිරීම 'Dead ship' යන්නට කිසිදු සම්බන්ධයක් නැත."
     },
     {
         "category": "CES – Engine, Management, Slow Speed",
@@ -3493,7 +3493,7 @@
         ],
         "correct_answer": "To avoid pollution.",
         "images": [],
-        "explanation": ""
+        "explanation": "### නිවැරදි පිළිතුර පැහැදිලි කිරීම:\n**To avoid pollution:**\nනෞකාවක සිදුකරන ඇතැම් මෙහෙයුම් (උදා: Bunkering, Sludge transfer, Bilge water discharge) මගින් පරිසරය දූෂණය වීමේ දැඩි අවදානමක් පවතී. මෙවැනි මෙහෙයුම් අධීක්ෂණය කිරීම සඳහා සුදුසුකම් ලත් නිලධාරියෙකු (Qualified officer) පත් කරනු ලබන්නේ කිසියම් හෝ වැරදීමකින් තෙල් හෝ වෙනත් අපද්‍රව්‍ය මුහුදට එකතු වීම වළක්වා ගැනීමටයි (To avoid pollution). ජාත්‍යන්තර MARPOL රෙගුලාසිවලට අනුව නෞකාවකින් සිදුවන පරිසර දූෂණය වැළැක්වීම අතිශය වැදගත් වන අතර, ඕනෑම අත්වැරදීමක් නිසා නෞකාවට සහ එහි නිලධාරීන්ට දැඩි නීතිමය ක්‍රියාමාර්ග සහ විශාල දඩ මුදල් වලට මුහුණ දීමට සිදු වේ.\n\n### අනෙක් පිළිතුරු වැරදි වීමට හේතුව:\n* **Shortest time possible:** මෙහෙයුමක් වේගයෙන් අවසන් කිරීමට වඩා වැදගත් වන්නේ එය ආරක්ෂිතව සහ පරිසරයට හානි නොවන පරිදි සිදු කිරීමයි. වේගය වැඩි කිරීමට යාමෙන් වැරදි සිදු වීමට ඇති ඉඩකඩ වැඩි වේ.\n* **Efficiency and reduce costs:** පිරිවැය අඩු කිරීම සහ කාර්යක්ෂමතාව වැදගත් වුවද, මෙහිදී මූලිකම පරමාර්ථය වන්නේ පරිසර ආරක්ෂණයයි.\n* **Crew follow the same procedure:** කාර්ය මණ්ඩලය ක්‍රියා පටිපාටි අනුගමනය කිරීම වැදගත්ය, නමුත් එම ක්‍රියා පටිපාටි පවතින අවසාන අරමුණ වන්නේ දූෂණය වැළැක්වීමයි."
     },
     {
         "category": "CES – Engine, Management, Slow Speed",
@@ -3507,7 +3507,7 @@
         ],
         "correct_answer": "It satisfies the SOLAS (and other) requirements for ship safety.",
         "images": [],
-        "explanation": ""
+        "explanation": "### නිවැරදි පිළිතුර පැහැදිලි කිරීම:\n**It satisfies the SOLAS (and other) requirements for ship safety:**\nනෞකාවක හදිසි විදුලි ප්‍රභවයක් (Emergency generator හෝ Batteries) තිබීම ජාත්‍යන්තර මුහුදු ගමන් සුරක්ෂිතතා සම්මුතිය (SOLAS - Safety of Life at Sea) මඟින් අනිවාර්ය කර ඇත. ප්‍රධාන විදුලි ජනක යන්ත්‍ර අක්‍රිය වූ අවස්ථාවකදී (Blackout), නෞකාවේ සහ එහි සිටින පිරිසගේ ආරක්ෂාවට අත්‍යවශ්‍ය වන පද්ධති (උදා: Emergency lighting, Steering gear, Navigation equipment, Fire pumps, Communication) ක්‍රියාත්මක කර තැබීම සඳහා මෙය අත්‍යවශ්‍ය වේ. මෙය හුදෙක් පහසුව සඳහා නොව, ජාත්‍යන්තර නීතිමය සහ ආරක්ෂක අවශ්‍යතාවයක් සපුරාලීම සඳහා පවතින්නකි.\n\n### අනෙක් පිළිතුරු වැරදි වීමට හේතුව:\n* **Continuous operation of non-essential systems:** හදිසි විදුලි පද්ධතිය භාවිතා කරන්නේ 'Non-essential' (අත්‍යවශ්‍ය නොවන) පද්ධති සඳහා නොව, 'Emergency load' හෙවත් අත්‍යවශ්‍ය පද්ධති සඳහා පමණි.\n* **Backup power only for navigation:** මෙය නාවික උපකරණ සඳහා පමණක් සීමා නොවේ. එය සුක්කානම (Steering), ආලෝකය සහ ගිනි නිවීමේ පද්ධති වැනි තවත් බොහෝ අංශ ආවරණය කරයි.\n* **Maintain lighting and AC during maintenance:** නඩත්තු කටයුතු වලදී වායුසමීකරණ (Air conditioning) පවත්වා ගැනීම හදිසි විදුලි ප්‍රභවයක මූලික අරමුණ නොවේ. හදිසි විදුලි ජනකය සාමාන්‍යයෙන් ඒසී (AC) වැනි ඉහළ විදුලි බරක් සහිත අනවශ්‍ය පද්ධති ක්‍රියා කරවන්නේ නැත."
     },
     {
         "category": "CES – Engine, Management, Slow Speed",
@@ -3549,7 +3549,7 @@
         ],
         "correct_answer": "Incoming machine picks up as a generator.",
         "images": [],
-        "explanation": ""
+        "explanation": "### නිවැරදි පිළිතුර පැහැදිලි කිරීම:\n**Incoming machine picks up as a generator:**\nජෙනරේටර් දෙකක් සමාන්තරගත කිරීමේදී (Synchronizing), අලුතින් සම්බන්ධ වන ජෙනරේටරයේ වේගය ප්‍රධාන ස්විච්බෝඩ් එකේ (Bus bar) පවතින සංඛ්‍යාතයට (Frequency) වඩා තරමක් වැඩියෙන් තිබිය යුතුය. මෙයට හේතුව වන්නේ පරිපථය සම්බන්ධ කළ සැණින් (Circuit breaker එක close කළ විට) එම ජෙනරේටරය පද්ධතියේ විදුලි බරෙන් (Load) කොටසක් වහාම ලබා ගැනීමට පටන් ගැනීම තහවුරු කිරීමයි. මීට ප්‍රතිවිරුද්ධව, ජෙනරේටරය බස්-බාර් එකට වඩා වේගයෙන් අඩු වුවහොත්, එය ජෙනරේටරයක් ලෙස ක්‍රියා කරනවා වෙනුවට මෝටරයක් ලෙස ක්‍රියා කිරීමට පටන් ගනී (Reverse Power). මෙය 'Reverse Power Trip' එකක් ඇති කර ජෙනරේටරය අක්‍රිය වීමට හේතු වේ.\n\n### අනෙක් පිළිතුරු වැරදි වීමට හේතුව:\n* **Incoming machine matches the load requirements:** මෙය සිදු වන්නේ සිංක්‍රොනයිස් කිරීමෙන් පසුව සිදු කරන ලෝඩ් ෂෙයාරින් (Load sharing) ක්‍රියාවලියේදීය.\n* **Bus bar frequency increases:** බස්-බාර් එකේ සංඛ්‍යාතය තනි ජෙනරේටරයක වේගය මත පමණක් රඳා නොපවතී. ජෙනරේටරය බස්-බාර් එකට අනුගත විය යුතුය.\n* **Does not cause a short circuit:** ෂෝට් සර්කිට් එකක් නොවීමට නම් වෝල්ටීයතාවය (Voltage) සහ කලාව (Phase sequence) සමාන විය යුතුය. වේගය සුළු වශයෙන් වෙනස් වීමෙන් ෂෝට් සර්කිට් එකක් සිදු නොවේ."
     },
     {
         "category": "CES – Engine, Management, Slow Speed",
@@ -3577,7 +3577,7 @@
         ],
         "correct_answer": "Changing of the filter element can be carried out without interrupting engine operation.",
         "images": [],
-        "explanation": ""
+        "explanation": "### නිවැරදි පිළිතුර පැහැදිලි කිරීම:\n**Changing of the filter element can be carried out without interrupting engine operation:**\nසහායක ඩීසල් එන්ජිමක (Auxiliary engine) ලිහිසි තෙල් පද්ධතිය සඳහා 'Duplex filter' භාවිතා කිරීමේ ප්‍රධානතම වාසිය වන්නේ එන්ජිම ක්‍රියා විරහිත නොකරම ෆිල්ටර් මාරු කිරීමට හෝ පිරිසිදු කිරීමට හැකි වීමයි. ඩියුප්ලෙක්ස් ෆිල්ටරයක එකිනෙකට සමාන්තරව පිහිටි ෆිල්ටර් කූඩු (Chambers) දෙකක් පවතී. එක් ෆිල්ටරයක් අපිරිසිදු වූ විට, එහි ඇති ලීවරය (Changeover valve) මඟින් තෙල් ගලා යන දිශාව අනෙක් පිරිසිදු ෆිල්ටරය දෙසට හරවා, එන්ජිම දිගටම ක්‍රියාත්මක වන අතරතුර අපිරිසිදු වූ ෆිල්ටරය ගලවා පිරිසිදු කළ හැකිය. මෙය නෞකාවක විදුලි උත්පාදනය වැනි අඛණ්ඩව සිදුවිය යුතු ක්‍රියාවලීන් සඳහා ඉතා වැදගත් වේ.\n\n### අනෙක් පිළිතුරු වැරදි වීමට හේතුව:\n* **More effective in removing larger particles:** ෆිල්ටරයක කාර්යක්ෂමතාව රඳා පවතින්නේ එහි ඇති 'Mesh size' හෝ 'Filter element' එක මත මිස එය ඩියුප්ලෙක්ස් ද නැද්ද යන්න මත නොවේ.\n* **Higher flow rate:** ඩියුප්ලෙක්ස් ෆිල්ටරයක් සාමාන්‍යයෙන් නිර්මාණය කර ඇත්තේ වරකට එක ෆිල්ටරයක් පමණක් භාවිතා වන පරිදිය. එබැවින් එයින් ගලා යන වේගය (Flow rate) වැඩි නොවේ.\n* **Easier to maintain:** ඩියුප්ලෙක්ස් ෆිල්ටරයක පද්ධතිය වඩාත් සංකීර්ණ වන අතර නඩත්තු කටයුතු සඳහා සාමාන්‍ය ෆිල්ටරයකට වඩා වැඩි කාලයක් ගත විය හැක, නමුත් එහි ඇති සුවිශේෂී වාසිය වන්නේ 'Online' නඩත්තු කිරීමට හැකි වීමයි."
     },
     {
         "category": "CES – Engine, Management, Slow Speed",
@@ -3605,7 +3605,7 @@
         ],
         "correct_answer": "Conductivity test.",
         "images": [],
-        "explanation": ""
+        "explanation": "### නිවැරදි පිළිතුර පැහැදිලි කිරීම:\n**Conductivity test:**\nබොයිලේරු ජලයේ දියවී ඇති මුළු ඝන ද්‍රව්‍ය ප්‍රමාණය (Total Dissolved Solids - TDS) මැනීමට ඇති වඩාත් ඵලදායී ක්‍රමය වන්නේ සන්නායකතා පරීක්ෂණයයි (Conductivity test). ජලයේ ලවණ සහ අනෙකුත් ඝන ද්‍රව්‍ය වැඩිපුර දියවී ඇති විට, එම ජලය හරහා විදුලිය ගලා යාමේ හැකියාව හෙවත් සන්නායකතාවය වැඩි වේ. මෙම සන්නායකතාවය මැන බැලීමෙන් ජලයේ අඩංගු අපද්‍රව්‍ය මට්ටම නිවැරදිව තීරණය කළ හැකිය. බොයිලේරු පද්ධතිවල 'Blowdown' ක්‍රියාවලිය සිදු කළ යුතු කාලය තීරණය කරන්නේද මෙම අගය මත පදනම්වය.\n\n### අනෙක් පිළිතුරු වැරදි වීමට හේතුව:\n* **pH level test:** මෙයින් මනින්නේ ජලයේ ආම්ලික හෝ භාෂ්මිකතාවයයි. එයින් දියවී ඇති ඝන ද්‍රව්‍ය ප්‍රමාණය මැනිය නොහැක.\n* **Oil content test:** මෙයින් මනින්නේ ජලයට තෙල් මිශ්‍ර වී ඇත්ද යන්න පමණි. \n* **Temperature measurement:** උෂ්ණත්වය මැනීමෙන් ජලයේ අඩංගු රසායනික සංයුතිය හෝ දියවී ඇති ලවණ ප්‍රමාණය දැනගත නොහැක."
     },
     {
         "category": "CES – Engine, Management, Slow Speed",
@@ -3619,7 +3619,7 @@
         ],
         "correct_answer": "Warm nutritious drinks.",
         "images": [],
-        "explanation": ""
+        "explanation": "### නිවැරදි පිළිතුර පැහැදිලි කිරීම:\n**Warm nutritious drinks:**\nදීර්ඝ වේලාවක් අධික සීතලට නිරාවරණය වූ නාවිකයෙකුගේ ශරීර උෂ්ණත්වය යථා තත්ත්වයට පත් කිරීම සඳහා උණුසුම් සහ පෝෂණීය පාන වර්ග ලබා දීම අත්‍යවශ්‍ය වේ. මෙය ශරීරය අභ්‍යන්තරයෙන් උණුසුම් කිරීමටත්, විජලනය වැළැක්වීමටත් උපකාරී වේ. 'Hypothermia' වැනි අවදානම් තත්ත්වයන් මඟහරවා ගැනීමට මෙය ප්‍රථමාධාරයක් ලෙස ඉතා වැදගත් වේ.\n\n### අනෙක් පිළිතුරු වැරදි වීමට හේතුව:\n* **Cold beverages:** ශරීරය දැනටමත් සීතල වී ඇති බැවින් සීතල පාන ලබා දීමෙන් තත්ත්වය තවත් දරුණු විය හැක.\n* **Alcoholic beverages:** මත්පැන් මඟින් සම මතුපිට රුධිර නාල ප්‍රසාරණය කරන බැවින්, ශරීරයේ අභ්‍යන්තර තාපය වේගයෙන් පිටතට ගලා යාමට සලස්වයි. එය සීතලෙන් පීඩා විඳින අයෙකුට ඉතා අනතුරුදායකය.\n* **High-sugar snacks:** ශක්තිය ලබා දුන්නද, ශරීරය උණුසුම් කිරීමට පානයක් තරම් ඉක්මන් ප්‍රතිඵල මෙයින් නොලැබේ."
     },
     {
         "category": "CES – Engine, Management, Slow Speed",
@@ -3633,7 +3633,7 @@
         ],
         "correct_answer": "To reduce risk of fire and the risk of slipping.",
         "images": [],
-        "explanation": ""
+        "explanation": "### නිවැරදි පිළිතුර පැහැදිලි කිරීම:\n**To reduce risk of fire and the risk of slipping:**\nඑන්ජින් රූම් එකක හෝ බොයිලේරු කාමරයක තෙල් හැලී තිබීම ඉතා අනතුරුදායකය. තෙල් පහසුවෙන් ගිනි ගන්නා (Flammable) ද්‍රව්‍යයක් බැවින්, එය උණුසුම් පයිප්පයක් හෝ යන්ත්‍රයක් මත ගෑවුණහොත් විශාල ගින්නක් ඇති විය හැක. එසේම, බිම තෙල් තැවරී තිබීම නිසා සේවකයින් ලිස්සා වැටී (Slip) බරපතල තුවාල සිදුවීමේ අවදානමක් පවතී. එම නිසා ඕනෑම තෙල් කාන්දුවක් දුටු සැණින් පිරිසිදු කිරීම නෞකාවේ මූලික ආරක්ෂක පියවරකි.\n\n### අනෙක් පිළිතුරු වැරදි වීමට හේතුව:\n* **Aesthetic appearance:** පෙනුම ලස්සනට තබා ගැනීම ද්විතීයික කරුණකි; ප්‍රමුඛතාවය හිමිවිය යුත්තේ ආරක්ෂාවටයි.\n* **Smooth operation:** බිම පිරිසිදුව තිබීම යන්ත්‍රවල අභ්‍යන්තර ක්‍රියාකාරිත්වයට සෘජුව බලනොපාන නමුත් සේවකයින්ගේ ආරක්ෂිතව වැඩ කිරීමට බලපායි.\n* **Rust and corrosion:** මලකඩ වැළැක්වීමට තෙල් ආලේප කිරීම ඇතැම් විට සිදු කළද, බිම තෙල් තිබීමෙන් මලකඩ වැළැක්වීමට උත්සාහ නොකරයි."
     },
     {
         "category": "CES – Engine, Management, Slow Speed",
@@ -3707,7 +3707,7 @@
         ],
         "correct_answer": "Bulkheads constructed of approved non-combustible materials but do not meet any of the requirements relative to smoke and flame nor limitations relative to temperature rise.",
         "images": [],
-        "explanation": ""
+        "explanation": "### නිවැරදි පිළිතුර පැහැදිලි කිරීම:\n**Bulkheads constructed of approved non-combustible materials but do not meet any of the requirements relative to smoke and flame nor limitations relative to temperature rise:**\nනෞකාවල ගිනි ආරක්‍ෂණ ප්‍රමිතීන්ට (SOLAS) අනුව බල්ක්හෙඩ් (Bulkheads) වර්ගීකරණය කර ඇත. මෙහිදී 'Class C' ලෙස හඳුන්වන්නේ අවම ආරක්ෂණ මට්ටම සහිත බිත්ති හෝ ආවරණයි. මේවා පිළිගත් 'නොදැවෙන' (Non-combustible) ද්‍රව්‍යවලින් නිපදවිය යුතු වුවත්, ගින්නකදී දුම හෝ දැල්ල පිටවීම වැළැක්වීමට හෝ උෂ්ණත්වය ඉහළ යාම පාලනය කිරීමට මේවාට නිශ්චිත කාල සීමාවක් (උදා: මිනිත්තු 30 හෝ 60 ක් වැනි) ප්‍රමිතියෙන් නියම කර නැත.\n\n### අනෙක් පිළිතුරු වැරදි වීමට හේතුව:\n* **Fire-resistant and tested for smoke/flame:** මෙය සාමාන්‍යයෙන් 'Class A' හෝ 'Class B' බල්ක්හෙඩ් වල ලක්ෂණයකි. ඒවාට නිශ්චිත කාලයක් ගින්න පාලනය කිරීමේ හැකියාව තිබිය යුතුය.\n* **Withstand high heat for extended periods:** මෙය 'Class A' කාණ්ඩයේ බල්ක්හෙඩ් වල ලක්ෂණයකි, මන්ද ඒවා පැයකට වඩා වැඩි කාලයක් ගින්න පාලනය කිරීමට සමත් විය යුතුය.\n* **Designed to prevent spread of fire for a specified duration:** නිශ්චිත කාලයක් ගින්න පැතිරීම වැළැක්වීම 'Class A' සහ 'Class B' බල්ක්හෙඩ් වල මූලික අවශ්‍යතාවයකි, නමුත් 'Class C' සඳහා එවැනි කාල සීමාවන් අදාළ නොවේ."
     },
     {
         "category": "CES – Engine, Management, Slow Speed",
@@ -3737,7 +3737,7 @@
         ],
         "correct_answer": "Tell the person to sit down and lean forward with the head between the knees taking deep breaths.",
         "images": [],
-        "explanation": ""
+        "explanation": "### නිවැරදි පිළිතුර පැහැදිලි කිරීම:\n**Tell the person to sit down and lean forward with the head between the knees taking deep breaths:**\nයමෙකුට ක්ලාන්තය ගතියක් දැනෙන විට (Fainting), එය සිදුවන්නේ මොළයට සැපයෙන රුධිර ප්‍රමාණය තාවකාලිකව අඩුවීම නිසාය. මෙය වැළැක්වීමට ඇති හොඳම ක්‍රමය වන්නේ එම පුද්ගලයා වාඩි කරවා, හිස දණහිස් දෙක අතරට එන සේ ඉදිරියට නමා තැබීමයි. මෙම ඉරියව්ව නිසා ගුරුත්වාකර්ෂණය මඟින් රුධිරය මොළය දෙසට ගලා යාමට පහසු වේ. එසේම ගැඹුරු හුස්ම ගැනීම (Deep breaths) මඟින් රුධිරයේ ඔක්සිජන් මට්ටම ඉහළ නැංවීමට උපකාරී වේ.\n\n### අනෙක් පිළිතුරු වැරදි වීමට හේතුව:\n* **Have the person lie down and elevate their legs:** මෙය ක්ලාන්තය *සිදු වූ පසුව* (After fainting) කරනු ලබන ප්‍රථමාධාරයකි. ප්‍රශ්නයෙන් අසන්නේ ක්ලාන්තය වීමට පෙර එය වළක්වා ගන්නේ කෙසේද යන්නයි.\n* **Drink a cold beverage:** සීතල පානයක් ලබා දීමෙන් මොළයට රුධිරය ගලා යාම ක්ෂණිකව වැඩි කළ නොහැක.\n* **Stay upright and move around:** සිටගෙන සිටීම හෝ ඇවිදීම මඟින් රුධිරය ශරීරයේ පහළ කොටස් වලට ගලා යාම වැඩි වන බැවින්, එමඟින් ක්ලාන්තය වීමේ අවදානම තවත් වැඩි වේ."
     },
     {
         "category": "CES – Engine, Management, Slow Speed",
@@ -3751,7 +3751,7 @@
         ],
         "correct_answer": "To prevent the steam and water in the boiler from discharging out through the feed line if the feed line fractures or a joint in the line blows.",
         "images": [],
-        "explanation": ""
+        "explanation": "### නිවැරදි පිළිතුර පැහැදිලි කිරීම:\n**To prevent the steam and water in the boiler from discharging out through the feed line if the feed line fractures or a joint in the line blows:**\nබොයිලේරු (Boiler) පද්ධතියක 'Feed check valve' එක වැදගත් ආරක්ෂක උපාංගයකි. මෙහි ඇති 'Non-return valve' (නොඑන කපාටය) කොටසෙහි ප්‍රධාන කාර්යය වන්නේ ජලය බොයිලේරුව දෙසට පමණක් ගලා යාමට ඉඩ දී ආපසු ගලා යාම (Backflow) වැළැක්වීමයි. යම් හෙයකින් බොයිලේරුවට ජලය සපයන නළයක් (Feed line) පුපුරා ගියහොත් හෝ එහි සම්බන්ධතාවයක් (Joint) ගිලිහී ගියහොත්, බොයිලේරුව තුළ ඇති අධික පීඩනය සහිත ජලය සහ වාෂ්ප එම සිදුරෙන් පිටතට ඒම මෙම කපාටය මඟින් වහාම නතර කරනු ලබයි. මෙය බොයිලේරුවේ ජල මට්ටම ක්ෂණිකව පහත වැටීම (Dry running) වැළැක්වීමට අත්‍යවශ්‍ය වේ.\n\n### අනෙක් පිළිතුරු වැරදි වීමට හේතුව:\n* **Allow steam to flow freely:** ෆීඩ් චෙක් වෑල්ව් එක භාවිතා කරන්නේ ජලය ඇතුළු කිරීමට මිස වාෂ්ප පිටතට ගැනීමට නොවේ.\n* **Maintain constant pressure:** පීඩනය පාලනය කිරීම මෙහි කාර්යය නොවේ, එය සිදු කරන්නේ 'Feed pump regulator' හෝ 'Safety valves' මඟිනි.\n* **Regulate the flow:** ජල ප්‍රමාණය පාලනය කිරීම සාමාන්‍යයෙන් 'Screw lift valve' එකෙන් හෝ ස්වයංක්‍රීය පාලක පද්ධතියකින් සිදු කෙරේ."
     },
     {
         "category": "CES – Engine, Management, Slow Speed",
@@ -3765,7 +3765,7 @@
         ],
         "correct_answer": "9-11.",
         "images": [],
-        "explanation": ""
+        "explanation": "### නිවැරදි පිළිතුර පැහැදිලි කිරීම:\n**9-11:**\nබොයිලේරු ජලයේ pH අගය සැමවිටම මදක් භාෂ්මික (Alkaline) මට්ටමක පැවතිය යුතුය. සාමාන්‍යයෙන් වාෂ්ප බොයිලේරු සඳහා වඩාත් සුදුසු pH පරාසය වන්නේ 9 ත් 11 ත් අතර අගයකි. මෙම මට්ටම පවත්වා ගැනීමෙන් බොයිලේරුවේ අභ්‍යන්තර ලෝහ මතුපිට මලකඩ කෑම (Corrosion) අවම වන අතර, ජලයේ ඇති ලවණ මඟින් ඇතිවන 'Scale' (තද තැන්පත් වීම්) පාලනය කිරීමටද උපකාරී වේ. pH අගය 7 ට වඩා අඩු වුවහොත් (Acidic) ලෝහය ඉතා ඉක්මනින් දියවී යාමට පටන් ගනී.\n\n### අනෙක් පිළිතුරු වැරදි වීමට හේතුව:\n* **5-7:** මෙය ආම්ලික (Acidic) හෝ උදාසීන පරාසයකි. මෙහිදී ලෝහ ඉතා වේගයෙන් මලකඩ කෑමට ලක් වේ.\n* **7-9:** මෙය මද භාෂ්මිකතාවයක් වුවද, බොයිලේරුවක අධික උෂ්ණත්වය යටතේ මලකඩ වැළැක්වීමට මෙම අගය ප්‍රමාණවත් නොවේ.\n* **11-13:** මෙය ඉතා ඉහළ භාෂ්මිකතාවයකි. pH අගය මෙතරම් වැඩි වීමෙන් 'Caustic embrittlement' වැනි තත්ත්වයන් ඇති වී ලෝහය දුර්වල වීමට ඉඩ ඇත."
     },
     {
         "category": "CES – Engine, Management, Slow Speed",
@@ -3779,7 +3779,7 @@
         ],
         "correct_answer": "Re-pack the stuffing box loosely with the correct size packing at the earliest opportunity.",
         "images": [],
-        "explanation": ""
+        "explanation": "### නිවැරදි පිළිතුර පැහැදිලි කිරීම:\n**Re-pack the stuffing box loosely with the correct size packing at the earliest opportunity:**\nසෙන්ට්‍රිෆියුගල් පම්ප් (Centrifugal pump) එකක තෙල් හෝ ජලය කාන්දු වීම වැළැක්වීමට යොදන 'Gland packing' මඟින් කාන්දුව පාලනය නොවන විටෙක, එය තවදුරටත් තද කිරීම (Tightening) නුසුදුසුය. එයට හේතුව වන්නේ පවතින පැකින් (Packings) දැනටමත් ගෙවී හෝ තද වී (Hardened) තිබීමයි. එම තත්ත්වය යටතේ තවදුරටත් තද කළහොත් පම්ප් එකේ පතුවළ (Shaft) හෝ ස්ලීව් (Sleeve) එක සීරීමට ලක් වී හානි විය හැක. එබැවින් නිවැරදි ක්‍රමය වන්නේ පැරණි පැකින් ඉවත් කර, නිවැරදි ප්‍රමාණයේ නව පැකින් යොදා 'Stuffing box' එක නැවත සැකසීමයි. මෙහිදී මුලින්ම බුරුලට (Loosely) ඇසුරුම් කර පසුව ක්‍රමයෙන් තද කිරීම සිදු කළ යුතුය.\n\n\n\n### අනෙක් පිළිතුරු වැරදි වීමට හේතුව:\n* **Tighten the gland further:** පැකින් ගෙවී ඇති විට තවදුරටත් තද කිරීමෙන් ඝර්ෂණය වැඩි වී ෂාෆ්ට් එක රත් වී හානි විය හැක.\n* **Apply a sealant:** පැකින් ග්ලෑන්ඩ් සඳහා සාමාන්‍යයෙන් සීලන්ට් භාවිතා නොකරන අතර එයින් ස්ථිර විසඳුමක් නොලැබේ.\n* **Replace the entire pump:** පැකින් ගෙවීම යනු සාමාන්‍ය නඩත්තු කටයුත්තක් මිස මුළු පම්ප් එකම මාරු කිරීමට හේතුවක් නොවේ."
     },
     {
         "category": "CES – Engine, Management, Slow Speed",
@@ -3905,7 +3905,7 @@
         ],
         "correct_answer": "Water-tube boilers are more efficient and generally contain less water than fire tube boilers. They are prone to major damage when run dry during operation.",
         "images": [],
-        "explanation": ""
+        "explanation": "### නිවැරදි පිළිතුර පැහැදිලි කිරීම:\n**Water-tube boilers are more efficient and generally contain less water than fire tube boilers...:**\nවෝටර් ටියුබ් බොයිලේරු (Water-tube boilers) නිර්මාණය කර ඇත්තේ නළ තුළින් ජලය ගලා යන ලෙසත්, නළයෙන් පිටතින් ගින්න හෝ උණුසුම් වායූන් පවතින ලෙසත්ය. මෙහිදී ඉතා ඉහළ පීඩනයක් ලබාගත හැකි අතර තාප කාර්යක්ෂමතාවද වැඩිය. කෙසේ වෙතත්, ෆයර් ටියුබ් (Fire-tube) බොයිලේරු සමඟ සසඳන විට මෙහි ඇති ජල ප්‍රමාණය සාපේක්ෂව අඩුය. මේ නිසා, යම් හෙයකින් ජලය නොමැතිව (Run dry) බොයිලේරුව ක්‍රියාත්මක වුවහොත්, අධික උෂ්ණත්වය නිසා නළ ඉතා ඉක්මනින් රත් වී පුපුරා යාම හෝ දියවී යාම වැනි බරපතල හානි සිදුවිය හැක.\n\n\n\n### අනෙක් පිළිතුරු වැරදි වීමට හේතුව:\n* **Fire-tube boilers are more efficient:** මෙය වැරදිය. වෝටර් ටියුබ් බොයිලේරු සාමාන්‍යයෙන් ෆයර් ටියුබ් බොයිලේරුවලට වඩා කාර්යක්ෂමතාවයෙන් වැඩිය.\n* **Water-tube boilers require less maintenance:** වෝටර් ටියුබ් බොයිලේරු වඩාත් සංකීර්ණ වන අතර ඒවායේ ජලයේ ගුණාත්මකභාවය (Water quality) ඉතා ඉහළ මට්ටමක පවත්වා ගත යුතුය. එම නිසා නඩත්තු කටයුතු වඩාත් දැඩි වේ.\n* **Fire-tube boilers are more prone to damage when run dry:** බොයිලේරු දෙවර්ගයටම ජලය නොමැතිව ක්‍රියා කිරීම හානිකර වුවද, වෝටර් ටියුබ් බොයිලේරුවල ඇති අඩු ජල ධාරිතාව නිසා ඒවායේ හානිය ඉතා වේගයෙන් සහ දරුණු ලෙස සිදු වේ."
     },
     {
         "category": "CES – Engine, Management, Slow Speed",
@@ -4049,7 +4049,7 @@
         ],
         "correct_answer": "When it is fitted with a guard or similar device which prevents foreseeable contact between a person, his clothing or items held in his hands, whilst it is in operation.",
         "images": [],
-        "explanation": ""
+        "explanation": "### නිවැරදි පිළිතුර පැහැදිලි කිරීම:\n**When it is fitted with a guard or similar device which prevents foreseeable contact...:**\nයන්ත්‍රයක් 'ආරක්ෂිතව ආවරණය කර ඇත' (Securely guarded) යනුවෙන් හඳුන්වන්නේ එම යන්ත්‍රය ක්‍රියාත්මක වෙමින් පවතින අතරතුර (Whilst it is in operation), කිසියම් පුද්ගලයෙකුට, ඔහුගේ ඇඳුමකට හෝ ඔහු අතේ ඇති භාණ්ඩයකට යන්ත්‍රයේ භ්‍රමණය වන හෝ අනතුරුදායක කොටස් සමඟ ස්පර්ශ වීමට ඇති ඉඩකඩ සම්පූර්ණයෙන් අවහිර කර ඇති අවස්ථාවයි. මෙහිදී යොදන ආරක්ෂක ආවරණ (Safety guards) මඟින් සේවකයා අත්වැරදීමකින් හෝ යන්ත්‍රයට ළඟා වීම වැළැක්විය යුතුය. නෞකාවක එන්ජින් රූම් එකේ ඇති ෆ්ලයිවීල් (Flywheels), පතුවළ (Shafts) සහ බෙල්ට් (Belts) වැනි කොටස් සඳහා මෙවැනි ස්ථාවර ආවරණ තිබීම අනිවාර්ය වේ.\n\n### අනෙක් පිළිතුරු වැරදි වීමට හේතුව:\n* **When it is turned off and unplugged:** යන්ත්‍රය ක්‍රියා විරහිත කර තිබීම 'Isolation' හෙවත් වෙන් කිරීමක් මිස 'Guarding' නොවේ. 'Guarding' යන සංකල්පය අදාළ වන්නේ යන්ත්‍රය ක්‍රියාත්මක වන විටදීය.\n* **When it is monitored by a safety officer:** නිලධාරියෙකු නිරීක්ෂණය කළ පමණින් යන්ත්‍රයක ඇති යාන්ත්‍රික අනතුර ඉවත් නොවේ. ආරක්ෂාව සඳහා භෞතික ආවරණයක් තිබිය යුතුමය.\n* **When it is enclosed in a locked room:** කාමරයක දමා තිබීම යන්ත්‍රය අසල වැඩ කරන සේවකයාට ආරක්ෂාවක් නොවේ. යන්ත්‍රය තිබෙන ස්ථානයේදීම එහි අනතුරුදායක කොටස් ආවරණය කර තිබිය යුතුය."
     },
     {
         "category": "CES – Engine, Management, Slow Speed",
@@ -4233,7 +4233,7 @@
         ],
         "correct_answer": "Use ultrasound equipment.",
         "images": [],
-        "explanation": ""
+        "explanation": "### නිවැරදි පිළිතුර පැහැදිලි කිරීම:\n**Use ultrasound equipment:**\nප්‍රධාන වාෂ්ප බොයිලේරුවක (Main steam boiler) 'Steam drum' එකෙහි බිත්තිවල ඝනකම (Shell thickness) මැනීම සඳහා වඩාත් සුදුසු සහ නිවැරදි ක්‍රමය වන්නේ අතිධ්වනික පරීක්ෂණ (Ultrasonic Testing - UT) උපකරණ භාවිත කිරීමයි. මෙය 'Non-Destructive Testing' (NDT) ක්‍රමයකි. මෙහිදී අතිධ්වනික තරංග ලෝහය හරහා යවා ඒවා ආපසු පරාවර්තනය වීමට ගතවන කාලය මැනීමෙන්, ලෝහය කැපීමකින් තොරව ඉතා නිවැරදිව එහි ඝනකම මැනගත හැක. කාලයත් සමඟ බොයිලේරු බිත්ති මලකඩ කෑම (Corrosion) නිසා සිහින් වී ඇත්දැයි බැලීමට මෙය අත්‍යවශ්‍ය වේ.\n\n\n\n### අනෙක් පිළිතුරු වැරදි වීමට හේතුව:\n* **Visual inspection with a boroscope:** මෙයින් මතුපිට පෙනුම සහ ඉරිතැලීම් නිරීක්ෂණය කළ හැකි වුවද, ලෝහයේ ඇතුළත ඝනකම මැනිය නොහැක.\n* **Magnetic particle testing (MPT):** මෙය භාවිතා කරන්නේ ලෝහ මතුපිට ඇති කුඩා ඉරිතැලීම් (Surface cracks) හඳුනා ගැනීමට මිස ඝනකම මැනීමට නොවේ.\n* **Hammer testing:** මෙය මිටියකින් තට්ටු කර ශබ්දය අනුව ලෝහයේ ශක්තිමත්භාවය ගැන දළ අදහසක් ගැනීමට පැරණි කාලයේ භාවිතා කළ ක්‍රමයකි. නමුත් නවීන ප්‍රමිතීන් අනුව ඝනකම මැනීමට මෙය කිසිසේත් ප්‍රමාණවත් නොවේ."
     },
     {
         "category": "CES – Engine, Management, Slow Speed",
@@ -4401,7 +4401,7 @@
         ],
         "correct_answer": "Identify the hazards that may exist which may affect personnel involved with the maintenance routines.",
         "images": [],
-        "explanation": ""
+        "explanation": "### නිවැරදි පිළිතුර පැහැදිලි කිරීම:\n**Identify the hazards that may exist...:**\nඕනෑම අවදානම් තක්සේරු කිරීමේ (Risk Assessment) ක්‍රියාවලියක මූලිකම සහ පළමු පියවර වන්නේ එම කාර්යයට අදාළ විය හැකි 'අන්තරායන්' (Hazards) හඳුනා ගැනීමයි. අන්තරායක් යනු හානියක් සිදු කිරීමට විභවයක් ඇති ඕනෑම දෙයකි (උදා: විදුලි සැර වැදීම, ලිස්සා වැටීම, රසායනික ද්‍රව්‍ය). හානියක් සිදුවිය හැකි ආකාරය හෝ එය වළක්වන ක්‍රම සෙවීමට පෙර, පවතින අනතුර කුමක්දැයි නිවැරදිව හඳුනාගත යුතුය. නෞකාවේ සුරක්ෂිත කළමනාකරණ පද්ධතිය (Safety Management System - SMS) යටතේ නව නඩත්තු කටයුත්තක් සැලසුම් කිරීමේදී මෙය අනිවාර්ය පියවරකි.\n\n### අනෙක් පිළිතුරු වැරදි වීමට හේතුව:\n* **Identify safety precautions:** ආරක්ෂිත පියවරයන් (Precautions) තීරණය කරන්නේ අන්තරායන් හඳුනා ගැනීමෙන් පසුවය. අනතුර කුමක්දැයි නොදැන එය වළක්වන ක්‍රම සෙවිය නොහැක.\n* **Identify who may be harmed:** මෙය අවදානම් තක්සේරුවේ දෙවන හෝ තෙවන පියවරකි. ප්‍රථමයෙන් අන්තරාය හඳුනාගෙන, පසුව එයින් බලපෑමට ලක්විය හැක්කේ කවුරුන්දැයි සොයා බලනු ලැබේ.\n* **Identify how much it will cost:** අවදානම් තක්සේරුවකදී මූල්‍ය පිරිවැය (Cost) පළමු පියවර ලෙස සලකන්නේ නැත. මෙහි ප්‍රමුඛතාවය හිමිවන්නේ මිනිස් ජීවිත සහ පරිසරය ආරක්ෂා කිරීමටයි."
     },
     {
         "category": "CES – Engine, Management, Slow Speed",
@@ -4420,7 +4420,7 @@
     {
         "category": "CES – Engine, Management, Slow Speed",
         "index": 315,
-        "question": "During a scavenge port inspection of a diesel engine the piston rings on all units were seen to display the signs of the early stages of microseizue. What action should be taken to ensure that the progress of the microseizure is stopped and the rings recover?",
+        "question": "During a scavenge port inspection of a diesel engine the piston rings on all units were seen to display the signs of the early stages of microseizure. What action should be taken to ensure that the progress of the microseizure is stopped and the rings recover?",
         "answers": [
             "Increse cylinder oil feed to all units. Check the fuel quality and operation of fuel oil purifiers and filter.",
             "Decrease cylinder oil feed to all units.",
@@ -4429,7 +4429,7 @@
         ],
         "correct_answer": "Increse cylinder oil feed to all units. Check the fuel quality and operation of fuel oil purifiers and filter.",
         "images": [],
-        "explanation": ""
+        "explanation": "### නිවැරදි පිළිතුර පැහැදිලි කිරීම:\n**Increse cylinder oil feed to all units. Check the fuel quality and operation of fuel oil purifiers and filter:**\nඩීසල් එන්ජිමක පිස්ටන් රින්ග්ස් (Piston rings) වල 'Microseizure' තත්ත්වයක් ඇති වීම යනු ලෝහ මතුපිටවල් අතර ලිහිසි තෙල් පටලය (Lubrication film) බිඳ වැටීම නිසා ඇතිවන අධික ඝර්ෂණයයි. මෙය වළක්වා ගැනීමට ප්‍රථමයෙන්ම සිලින්ඩරයට ලබා දෙන ලිහිසි තෙල් ප්‍රමාණය (Cylinder oil feed rate) වැඩි කළ යුතුය. එමඟින් ලෝහ මතුපිටවල් අතර ආරක්ෂිත පටලයක් නැවත ඇති වේ. එසේම, මෙම තත්ත්වයට හේතුව ඉන්ධනවල ඇති අපද්‍රව්‍ය (උදා: Catalytic fines) විය හැකි බැවින්, ඉන්ධනවල ගුණාත්මකභාවය සහ පියුරිෆයර් (Purifiers) වල ක්‍රියාකාරිත්වය පරීක්ෂා කිරීම අත්‍යවශ්‍ය වේ.\n\n\n\n### අනෙක් පිළිතුරු වැරදි වීමට හේතුව:\n* **Decrease cylinder oil feed:** තෙල් ප්‍රමාණය අඩු කිරීමෙන් ඝර්ෂණය තවත් වැඩි වී එන්ජිමට බරපතල හානි (Scuffing) සිදු විය හැක.\n* **Run at reduced load:** එන්ජිමේ වේගය අඩු කිරීම තාවකාලිකව උදව් විය හැකි වුවත්, මූලික ගැටලුව වන ලිහිසි තෙල් මට්ටම සහ ඉන්ධන පිරිසිදුකම විසඳන්නේ නැතිව මෙය ස්ථිර විසඳුමක් නොවේ.\n* **Replace all of the piston rings:** මෙය ඉතා ඉහළ පිරිවැයක් සහ කාලයක් ගතවන කාර්යයකි. ක්ෂුද්‍ර මට්ටමේ (Micro) සීරීම් තිබෙන අවස්ථාවකදී නිසි ලෙස ලිහිසි තෙල් ලබා දීමෙන් රින්ග්ස් නැවත යථා තත්ත්වයට පත් කර ගත හැකි බැවින් වහාම මාරු කිරීම අවශ්‍ය නොවේ."
     },
     {
         "category": "CES – Engine, Management, Slow Speed",
@@ -4457,7 +4457,7 @@
         ],
         "correct_answer": "The master.",
         "images": [],
-        "explanation": ""
+        "explanation": "### නිවැරදි පිළිතුර පැහැදිලි කිරීම:\n**The master:**\nනෞකාවක ව්‍යුහාත්මක ශක්තිය (Structural strength) පවත්වා ගැනීමේ අවසන් සහ ප්‍රධාන වගකීම පැවරෙන්නේ නෞකාවේ කප්පිත්තා (The Master) වෙතය. විශේෂයෙන්ම භාණ්ඩ පැටවීමේදී සහ බෑමේදී (Loading/Unloading) නෞකාවේ බඳට (Hull) දරාගත නොහැකි පීඩනයක් හෝ නැමීමක් (Stress, Shearing force, Bending moments) ඇති නොවන පරිදි කටයුතු කිරීම ඔහු සතු වගකීමකි. නෞකාව මුහුදේ යාත්‍රා කරන අතරතුර එහි ස්ථායීතාවය සහ ශක්තිය කෙරෙහි බලපාන සියලු තීරණ ගැනීමේ බලය සහ වගකීම ඔහු සතු වේ.\n\n### අනෙක් පිළිතුරු වැරදි වීමට හේතුව:\n* **The classification society:** මොවුන් සිදු කරන්නේ නෞකාව නියමිත ප්‍රමිතීන්ට අනුව පවතීදැයි පරීක්ෂා කර සහතික කිරීම (Survey and Certification) පමණි. එදිනෙදා මෙහෙයුම් කටයුතුවලදී ශක්තිය පවත්වා ගැනීමට ඔවුන් මැදිහත් නොවේ.\n* **The management company:** ඔවුන් නෞකාව නඩත්තු කිරීම සඳහා අවශ්‍ය පහසුකම් සහ උපදෙස් සපයන නමුත්, නෞකාව තුළ සිදුවන ක්‍රියාවලීන්හි සෘජු වගකීම දරන්නේ කප්පිත්තාය.\n* **The flag state administration:** මොවුන් නෞකාව ලියාපදිංචි කර ඇති රටේ නීති රීති සහ ජාත්‍යන්තර සම්මුතීන් ක්‍රියාත්මක වන බවට වගබලා ගන්නා ආයතනයයි."
     },
     {
         "category": "CES – Engine, Management, Slow Speed",
@@ -4513,7 +4513,7 @@
         ],
         "correct_answer": "The return flow meter is giving a low reading due to internal wear.",
         "images": [],
-        "explanation": ""
+        "explanation": "### නිවැරදි පිළිතුර පැහැදිලි කිරීම:\n**The return flow meter is giving a low reading due to internal wear:**\nප්‍රධාන එන්ජිමක ඉන්ධන පරිභෝජනය (Fuel consumption) ගණනය කරනු ලබන්නේ සැපයුම් නළයේ (Supply) සහ ආපසු එන නළයේ (Return) ඇති ෆ්ලෝ මීටර් දෙකෙහි වෙනස මඟිනි ($Consumption = Supply - Return$). මෙහිදී 'Positive displacement' වර්ගයේ මීටර් අභ්‍යන්තරයෙන් ගෙවීමට ලක් වූ විට, එම මීටරය හරහා ගලා යන සැබෑ තෙල් ප්‍රමාණයට වඩා අඩු අගයක් (Under-reading) පෙන්වීමට පටන් ගනී. \n\nආපසු එන මීටරය (Return meter) ගෙවී ඇත්නම්, එය සැබෑවටම ආපසු යන ප්‍රමාණයට වඩා අඩු අගයක් පෙන්වයි. එවිට ඉහත සමීකරණයට අනුව අඩු අගයක් අඩු කරන නිසා, අවසාන ඉන්ධන පරිභෝජනය සැබෑ අගයට වඩා වැඩි අගයක් (High consumption) ලෙස දිස්වේ. ටැංකිවල මට්ටම (Sounding) මැනීමේදී පෙනෙන සැබෑ භාවිතයට වඩා මීටර් මඟින් පෙන්වන අගය වැඩි වීමට ප්‍රධානතම හේතුව මෙයයි.\n\n### අනෙක් පිළිතුරු වැරදි වීමට හේතුව:\n* **Supply flow meter giving too high a reading:** සාමාන්‍යයෙන් මීටරයක් අභ්‍යන්තරයෙන් ගෙවුණු විට එය පෙන්වන්නේ අඩු අගයකි. ගෙවුණු මීටරයකින් වැඩි අගයක් පෙන්වීම සිදු නොවේ.\n* **Tank contents gauges/calibration tables incorrect:** ටැංකිවල මට්ටම මැනීමේ දෝෂ තිබිය හැකි වුවත්, ගැටලුවේ සඳහන් පරිදි 'සෑම විටම' (Consistently) ඉහළ පරිභෝජනයක් පෙන්වන්නේ නම්, එය නිරන්තරයෙන් සිදුවන යාන්ත්‍රික දෝෂයක් වන මීටරයක ගෙවීමක් විය යුතුය."
     },
     {
         "category": "CES – Engine, Management, Slow Speed",
@@ -4527,7 +4527,7 @@
         ],
         "correct_answer": "Measurement of differential pressure.",
         "images": [],
-        "explanation": ""
+        "explanation": "### නිවැරදි පිළිතුර පැහැදිලි කිරීම:\n**Measurement of differential pressure:**\nනෞකාවල ඉන්ධනවල උකු බව පාලනය කරන 'Viscosity controllers' (විස්කොසිටි පාලක) බොහෝමයක් ක්‍රියා කරන්නේ පීඩන වෙනස මැනීමේ (Differential pressure) මූලධර්මය මත පදනම්වය. මෙහිදී ඉන්ධන කුඩා කේශික නළයක් (Capillary tube) හෝ ගියර් පම්ප් එකක් හරහා නියත වේගයකින් ගලා යාමට සලස්වයි. ද්‍රවයේ දුස්ස්රාවිතතාවය (Viscosity) වැඩි වන විට එම නළය හරහා ගලා යාමට ඇති ප්‍රතිරෝධය වැඩි වේ. මෙම ප්‍රතිරෝධය නිසා ඇතිවන පීඩන වෙනස (Differential pressure) මැනීමෙන් ඉන්ධනවල උකු බව නිවැරදිව තීරණය කළ හැකිය. මෙම අගය මත පදනම්ව ඉන්ධන රත් කරන හීටරය (Heater) පාලනය කර දුස්ස්රාවිතතාවය අවශ්‍ය මට්ටමට පත් කරනු ලැබේ.\n\n### අනෙක් පිළිතුරු වැරදි වීමට හේතුව:\n* **Measurement of temperature:** උෂ්ණත්වය මැනීමෙන් පමණක් දුස්ස්රාවිතතාවය නිවැරදිව තීරණය කළ නොහැක, මන්ද විවිධ ඉන්ධන වර්ග එකම උෂ්ණත්වයේදී පවා විවිධ දුස්ස්රාවිතතාවයන් පෙන්වන බැවිනි.\n* **Measurement of two different temperatures:** උෂ්ණත්ව දෙකක් අතර වෙනසෙන් දුස්ස්රාවිතතාවය මැනිය නොහැක.\n* **Measurement of flow:** මෙහිදී සිදුවන්නේ නියත ප්‍රවාහයක් (Constant flow) පවත්වා ගනිමින් පීඩනය මැනීම මිස, ප්‍රවාහ වේගය මැනීම නොවේ."
     },
     {
         "category": "CES – Engine, Management, Slow Speed",
@@ -4541,7 +4541,7 @@
         ],
         "correct_answer": "Level control.",
         "images": [],
-        "explanation": ""
+        "explanation": "### නිවැරදි පිළිතුර පැහැදිලි කිරීම:\n**Level control:**\nස්වයංක්‍රීය පාලන පද්ධතිවල (Automated control systems) 'Time constant' හෙවත් කාල නියතය යනු පද්ධතියක් වෙනස් වීමකට දක්වන ප්‍රතිචාර වේගයයි. මට්ටම පාලනය කිරීමේදී (Level control), උදාහරණයක් ලෙස ටැංකියක ජල මට්ටම, එය සාමාන්‍යයෙන් ඉතා සෙමින් සිදු වන ක්‍රියාවලියකි. ටැංකියේ ධාරිතාවය සාපේක්ෂව විශාල නිසා ජල මට්ටම ක්ෂණිකව වෙනස් නොවේ. එබැවින් මෙම ක්‍රියාවලියේදී පද්ධතියේ ප්‍රතිචාර වේගය (Time constant) එතරම් තීරණාත්මක සාධකයක් නොවේ. \n\n### අනෙක් පිළිතුරු වැරදි වීමට හේතුව:\n* **Flow control:** ද්‍රව ගලා යාමේ වේගය ක්ෂණිකව වෙනස් විය හැකි බැවින් මෙහිදී කාල නියතය ඉතා වැදගත් වේ.\n* **Pressure control:** පීඩනය ඉතා වේගයෙන් වෙනස් විය හැකි අතර එය පාලනය කිරීමට පද්ධතිය ඉතා ඉක්මනින් ප්‍රතිචාර දැක්විය යුතුය.\n* **Temperature control:** උෂ්ණත්වය වෙනස් වීම පමා විය හැකි වුවත් (Time lag), නිවැරදි උෂ්ණත්වය පවත්වා ගැනීමට කාල නියතය සැලකිල්ලට ගත යුතුය. නමුත් මට්ටම පාලනය කිරීමේදී තරම් එය නොසලකා හැරිය නොහැක."
     },
     {
         "category": "CES – Engine, Management, Slow Speed",
@@ -4555,6 +4555,6 @@
         ],
         "correct_answer": "The Document of Compliance.",
         "images": [],
-        "explanation": ""
+        "explanation": "### නිවැරදි පිළිතුර පැහැදිලි කිරීම:\n**The Document of Compliance (DOC):**\nජාත්‍යන්තර සුරක්ෂිත කළමනාකරණ කේතය (ISM Code) යටතේ, සමාගමක සුරක්ෂිත කළමනාකරණ පද්ධතිය (Safety Management System - SMS) නිසි පරිදි ක්‍රියාත්මක වන බව තහවුරු වූ පසු නිකුත් කරන ප්‍රධාන ලේඛනය මෙයයි. මෙය ප්‍රථමයෙන් සමාගමට (Company) ලබා දෙන අතර, ඉන්පසු එම සමාගම යටතේ ඇති සෑම නෞකාවකටම එහි පිටපතක් ලබා දිය යුතුය. මෙය නෞකාව අදාළ ආරක්ෂණ ප්‍රමිතීන්ට අනුකූල බව සහතික කරන ලේඛනයයි.\n\n### අනෙක් පිළිතුරු වැරදි වීමට හේතුව:\n* **The Safety Management Certificate (SMC):** මෙය නිකුත් කරන්නේ විශේෂිතවම එක් එක් නෞකාව (Individual ship) සඳහාය. DOC එක සමාගමට අදාළ වන අතර SMC එක නෞකාවට අදාළ වේ.\n* **The ISM Certificate:** මෙය පොදු නාමයක් මිස නිල ලේඛනයේ නම නොවේ.\n* **The Document of Conformance:** මෙය ISM කේතය යටතේ නිකුත් කරන නිල සහතික පත්‍රයක් නොවේ."
     }
 ]
