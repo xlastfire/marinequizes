@@ -11,7 +11,8 @@
         ],
         "correct_answer": "Not less than half the total number of lifebuoys shall be provided with self-ignighting lights.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -25,7 +26,8 @@
         ],
         "correct_answer": "A link between the shipboard training officer and the company training officer ashore.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -39,7 +41,8 @@
         ],
         "correct_answer": "Load resistor.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -53,7 +56,8 @@
         ],
         "correct_answer": "Blocked filter drier causing the automatic low pressure cut out to operate.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -67,7 +71,8 @@
         ],
         "correct_answer": "Low differential pressures.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -81,7 +86,8 @@
         ],
         "correct_answer": "850 °C.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -97,7 +103,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2025/05/Screenshot-from-2025-05-16-14-04-17.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -111,7 +118,8 @@
         ],
         "correct_answer": "It is the SOLAS conventions that take care of the human safety at sea.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -127,7 +135,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2025/05/Screenshot-from-2025-05-16-14-08-55.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -141,7 +150,8 @@
         ],
         "correct_answer": "Circumferential slip of the after clamp ring in the opposite direction to shaft rotation.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -157,7 +167,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2025/05/Screenshot-from-2025-05-16-14-13-19.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -171,7 +182,8 @@
         ],
         "correct_answer": "The use of the ship’s line throwing apparatus.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -185,7 +197,8 @@
         ],
         "correct_answer": "As it is only a routine maintenance and not a breakdown then postpone the task until full details of the motor can be obtained.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -199,7 +212,8 @@
         ],
         "correct_answer": "Stop pumps – report – clean up.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -213,7 +227,8 @@
         ],
         "correct_answer": "Reduce the time between overhauls due to increased fouling.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -227,7 +242,8 @@
         ],
         "correct_answer": "Approximately 70 % of MCR.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -241,7 +257,8 @@
         ],
         "correct_answer": "Install a 100 ohm resistor in series with the coil.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -257,7 +274,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2025/05/Screenshot-from-2025-05-16-14-32-02.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -271,7 +289,8 @@
         ],
         "correct_answer": "Blank flanges should be fitted to the closed starboard side manifold valves.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -285,7 +304,8 @@
         ],
         "correct_answer": "Increased turbocharger revolutions.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -299,7 +319,8 @@
         ],
         "correct_answer": "For any space with limited access or non-continuous ventilation or is suspected of having a hazardous atmosphere.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -313,7 +334,8 @@
         ],
         "correct_answer": "A heavily leaking starting air valve may cause an explosion in the starting air pipe system.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -327,7 +349,8 @@
         ],
         "correct_answer": "Fouling of turbocharger intake filters.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -341,7 +364,8 @@
         ],
         "correct_answer": "Set the proportional band to minimum width and the integral action to maximum (repeats per minute).",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -355,7 +379,8 @@
         ],
         "correct_answer": "Turbulent fluid flow generally increases heat transfer efficiency.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -369,7 +394,8 @@
         ],
         "correct_answer": "Should only cover specific hot work tasks and be valid for a specified time period.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -383,7 +409,8 @@
         ],
         "correct_answer": "Percentage of available flow.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -397,7 +424,8 @@
         ],
         "correct_answer": "Adiabatic.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -413,7 +441,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2025/05/diagram.jpg"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -427,7 +456,8 @@
         ],
         "correct_answer": "Every week.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -441,7 +471,8 @@
         ],
         "correct_answer": "Each lifeboat shall be launched, and maneuvered in the water with its assigned crew at least once every three months during an abandon ship drill.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -455,7 +486,8 @@
         ],
         "correct_answer": "Reduce speed and, if possible, keep the fire zone to the leeward of the ship.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -471,7 +503,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2025/05/Screenshot-from-2025-05-17-11-51-11.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -485,7 +518,8 @@
         ],
         "correct_answer": "Rapid changes in engine load due to rough sea conditions.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -499,7 +533,8 @@
         ],
         "correct_answer": "Air in the fuel oil system.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -513,7 +548,8 @@
         ],
         "correct_answer": "It is determined by difference between the process variable and set point.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -527,7 +563,8 @@
         ],
         "correct_answer": "To ensure the cylinder air start valves operate in the correct sequence and for the correct period.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -541,7 +578,8 @@
         ],
         "correct_answer": "Mark the items as not to be used and store them securely until they can be tested by a competent person.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -555,7 +593,8 @@
         ],
         "correct_answer": "All of the below mentioned.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -569,7 +608,8 @@
         ],
         "correct_answer": "Control valve gland is over tightened.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -585,7 +625,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2025/05/Screenshot-from-2025-05-17-12-23-51.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -599,7 +640,8 @@
         ],
         "correct_answer": "All prescribed life-saving appliances shall be made of non-combustible or fire retardant material.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -613,7 +655,8 @@
         ],
         "correct_answer": "0,6.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -627,7 +670,8 @@
         ],
         "correct_answer": "The gas, liquid or vapour which will minimise creation of an electric arc as contacts open.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -641,7 +685,8 @@
         ],
         "correct_answer": "ISM procedures in the ship’s safety manual.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -655,7 +700,8 @@
         ],
         "correct_answer": "Viscosity increases.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -669,7 +715,8 @@
         ],
         "correct_answer": "Mandatory.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -683,7 +730,8 @@
         ],
         "correct_answer": "Rotten eggs.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -697,7 +745,8 @@
         ],
         "correct_answer": "Fit a valve positioner to the system.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -711,7 +760,8 @@
         ],
         "correct_answer": "Instruction in the use of radio life-saving appliances.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -725,7 +775,8 @@
         ],
         "correct_answer": "By using an unloading device to keep the compressor suction valves open until the machine is up to speed.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -739,7 +790,8 @@
         ],
         "correct_answer": "Blocked filter drier causing the automatic low pressure cut out to operate.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -753,7 +805,8 @@
         ],
         "correct_answer": "Bunkering of bulk lubricating oil.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -769,7 +822,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2025/12/rocket.jpg"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -783,7 +837,8 @@
         ],
         "correct_answer": "300 volts.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -797,7 +852,8 @@
         ],
         "correct_answer": "One or more cylinder air start valves are stuck open.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -811,7 +867,8 @@
         ],
         "correct_answer": "By adding an activating agent to the inflowing sewage.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -825,7 +882,8 @@
         ],
         "correct_answer": "Contactor chattering (vibrating).",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -839,7 +897,8 @@
         ],
         "correct_answer": "Square root extractor relay.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -853,7 +912,8 @@
         ],
         "correct_answer": "All the mentioned alternatives.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -867,7 +927,8 @@
         ],
         "correct_answer": "A large bow thruster will draw very large currents at low voltage. Being typically remote from the generator, significant voltage drops would occur at low voltage.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -881,7 +942,8 @@
         ],
         "correct_answer": "Red.",
         "images": [],
-        "explanation": "ජාත්‍යන්තර මුහුදු ආරක්‍ෂක නීති (SOLAS) සහ ජීවිත ආරක්ෂණ සම්මුතීන්ට අනුව හදිසි අවස්ථාවකදී භාවිත කරන 'Hand flare' එකක වර්ණය අනිවාර්යයෙන්ම රතු (Red) විය යුතුය. රතු පැහැය දුර සිට පැහැදිලිව පෙනෙන අතර එය ජාත්‍යන්තරව හදිසි අනතුරක් (Distress signal) ලෙස පිළිගැනේ. කොළ හෝ සුදු වැනි අනෙකුත් වර්ණ වෙනත් නාවික සංඥා සඳහා භාවිතා වන බැවින් හදිසි අනතුරකදී ඒවා භාවිතා කළ නොහැක."
+        "explanation": "ජාත්‍යන්තර මුහුදු ආරක්‍ෂක නීති (SOLAS) සහ ජීවිත ආරක්ෂණ සම්මුතීන්ට අනුව හදිසි අවස්ථාවකදී භාවිත කරන 'Hand flare' එකක වර්ණය අනිවාර්යයෙන්ම රතු (Red) විය යුතුය. රතු පැහැය දුර සිට පැහැදිලිව පෙනෙන අතර එය ජාත්‍යන්තරව හදිසි අනතුරක් (Distress signal) ලෙස පිළිගැනේ. කොළ හෝ සුදු වැනි අනෙකුත් වර්ණ වෙනත් නාවික සංඥා සඳහා භාවිතා වන බැවින් හදිසි අනතුරකදී ඒවා භාවිතා කළ නොහැක.",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -895,7 +957,8 @@
         ],
         "correct_answer": "Sequential start initiated by pressure switches set at different switching pressures.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -909,7 +972,8 @@
         ],
         "correct_answer": "All passenger ships, all cargo ships of 500 GRT or above.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -923,7 +987,8 @@
         ],
         "correct_answer": "Stop the bunkering until alternative reliable communication are established.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -937,7 +1002,8 @@
         ],
         "correct_answer": "2,15 V.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -953,7 +1019,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2025/12/scheme-1.jpg"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -967,7 +1034,8 @@
         ],
         "correct_answer": "Automatic control in which the controlled quantity is measured continuously and corrections are a continuous function of the deviation.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -981,7 +1049,8 @@
         ],
         "correct_answer": "Constant pressure systems have all engine cylinder exhaust connected to a common large exhaust gas manifold.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -995,7 +1064,8 @@
         ],
         "correct_answer": "White or light grey to ensure all minor spills and leakages are noticed and dealt with.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -1009,7 +1079,8 @@
         ],
         "correct_answer": "Diaphragm in the differential pressure transmitter is perforated.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -1023,7 +1094,8 @@
         ],
         "correct_answer": "Worn scraper and piston rings.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -1037,7 +1109,8 @@
         ],
         "correct_answer": "Viscosity decreases.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -1051,7 +1124,8 @@
         ],
         "correct_answer": "Government Authorities of the Flag State.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -1065,7 +1139,8 @@
         ],
         "correct_answer": "Only if the space has a watertight door or watertight access opening.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -1079,7 +1154,8 @@
         ],
         "correct_answer": "5-10 degrees Celsius.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -1095,7 +1171,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2025/12/scheme2.jpg"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -1109,7 +1186,8 @@
         ],
         "correct_answer": "A work rota is established to ensure full coverage of engine room watchkeeping duties and adequate rest periods for the engineering staff.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -1123,7 +1201,8 @@
         ],
         "correct_answer": "One Henry.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -1137,7 +1216,8 @@
         ],
         "correct_answer": "Continuously monitor remote gauge readings and confirm with regular sounding of the fuel tanks.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -1151,7 +1231,8 @@
         ],
         "correct_answer": "Identify the hazards that may exist which may affect personnel involved with the maintenance routines.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -1165,7 +1246,8 @@
         ],
         "correct_answer": "Pressure forces caused by green water on deck.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -1179,7 +1261,8 @@
         ],
         "correct_answer": "Damaged bowl seal.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -1193,7 +1276,8 @@
         ],
         "correct_answer": "Slightly superheated low pressure gas.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -1207,7 +1291,8 @@
         ],
         "correct_answer": "Scavenge ports of the one cylinder are dirty.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -1221,7 +1306,8 @@
         ],
         "correct_answer": "The heavy fuel is unstable leading to excessive high viscosity sludge formation.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -1235,7 +1321,8 @@
         ],
         "correct_answer": "With + to Anode a reading of about 0,6 V and with probes reversed a reading of O/L.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -1249,7 +1336,8 @@
         ],
         "correct_answer": "ISM procedures in the ship’s safety manual.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -1265,7 +1353,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2025/12/symbol.jpg"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -1278,7 +1367,8 @@
         ],
         "correct_answer": "Pressurise the hydrophore tank with air to approximately 50 % of the pump cut out pressure and then allow the pump to fill the tank until it cuts out.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -1292,7 +1382,8 @@
         ],
         "correct_answer": "Making use of Risk Assessment as a means to improving safety.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -1306,7 +1397,8 @@
         ],
         "correct_answer": "The proximity switch has dirt on the outside casing.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -1320,7 +1412,8 @@
         ],
         "correct_answer": "Centrally controlled.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -1334,7 +1427,8 @@
         ],
         "correct_answer": "Leaking exhaust valves.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -1348,7 +1442,8 @@
         ],
         "correct_answer": "Crankcase relief valves/doors.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -1362,7 +1457,8 @@
         ],
         "correct_answer": "22 Ohms.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -1376,7 +1472,8 @@
         ],
         "correct_answer": "Every 4 months.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -1390,7 +1487,8 @@
         ],
         "correct_answer": "Muster and embarkation stations shall be readily accessible from accommodation and work areas.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -1404,7 +1502,8 @@
         ],
         "correct_answer": "Ventilation passages may be blocked and should be blown out with compressed air.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -1418,7 +1517,8 @@
         ],
         "correct_answer": "Compensation needle valve is open too much.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -1434,7 +1534,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2025/12/graphs.jpg"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -1448,7 +1549,8 @@
         ],
         "correct_answer": "Discreetly inform someone of your suspicions so he or she can get assistance.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -1464,7 +1566,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2025/12/Screenshot-from-2025-12-23-08-56-02.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -1478,7 +1581,8 @@
         ],
         "correct_answer": "Between 0,1 and 1,0 ohm.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -1492,7 +1596,8 @@
         ],
         "correct_answer": "To ensure that cabins and common spaces are maintained in a clean, safe and hygienic condition.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -1506,7 +1611,8 @@
         ],
         "correct_answer": "95-98 °C.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -1522,7 +1628,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2025/12/Screenshot-from-2025-12-23-09-03-09.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -1536,6 +1643,7 @@
         ],
         "correct_answer": "Air filter to turbocharger fouled or obstructed.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     }
 ]

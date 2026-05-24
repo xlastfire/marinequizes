@@ -11,7 +11,8 @@
         ],
         "correct_answer": "Control valve gland is over tightened.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -25,7 +26,8 @@
         ],
         "correct_answer": "Measurement of differential pressure.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -39,7 +41,8 @@
         ],
         "correct_answer": "Instructions or diagrams printed on its casing by the manufacturer.",
         "images": [],
-        "explanation": "පයිරොටෙක්නික් සංඥා (උදා: දුම් සංඥා, රොකට් flares) විවිධ නිෂ්පාදකයන් විසින් විවිධ මෝස්තරවලින් නිපදවනු ලබයි. මේවා ක්‍රියාත්මක කරන ක්‍රමවේද (උදා: පින් එකක් ඇදීම, කරකැවීම) එකිනෙකට වෙනස් විය හැක. වැරදි ලෙස භාවිතය මගින් සංඥාව ක්‍රියාත්මක නොවීම හෝ පරිශීලකයාට බරපතල තුවාල සිදුවීම විය හැක. එම නිසා එම උපකරණයේ බඳ මත මුද්‍රණය කර ඇති උපදෙස් සහ රූප සටහන් (instructions/diagrams) අනුගමනය කිරීම අත්‍යවශ්‍ය වේ. අනෙකුත් සාමාන්‍ය ක්‍රමවේද මත විශ්වාසය තැබීම අවදානම් සහගතය."
+        "explanation": "පයිරොටෙක්නික් සංඥා (උදා: දුම් සංඥා, රොකට් flares) විවිධ නිෂ්පාදකයන් විසින් විවිධ මෝස්තරවලින් නිපදවනු ලබයි. මේවා ක්‍රියාත්මක කරන ක්‍රමවේද (උදා: පින් එකක් ඇදීම, කරකැවීම) එකිනෙකට වෙනස් විය හැක. වැරදි ලෙස භාවිතය මගින් සංඥාව ක්‍රියාත්මක නොවීම හෝ පරිශීලකයාට බරපතල තුවාල සිදුවීම විය හැක. එම නිසා එම උපකරණයේ බඳ මත මුද්‍රණය කර ඇති උපදෙස් සහ රූප සටහන් (instructions/diagrams) අනුගමනය කිරීම අත්‍යවශ්‍ය වේ. අනෙකුත් සාමාන්‍ය ක්‍රමවේද මත විශ්වාසය තැබීම අවදානම් සහගතය.",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -52,7 +55,8 @@
         ],
         "correct_answer": "Should only cover specific hot work tasks, be valid for a specified time period and be issued by the person carrying out the work.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -66,7 +70,8 @@
         ],
         "correct_answer": "To avoid damage during start of the engine in case water or other liquid has gathered in the cylinders during an extended stop.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -80,7 +85,8 @@
         ],
         "correct_answer": "Qualified Individual.",
         "images": [],
-        "explanation": "ඇමරිකානු මුහුදු තීරයේ (US waters) සිදුවන තෙල් කාන්දුවකදී හෝ දූෂණයකදී, පිරිසිදු කිරීමේ කොන්ත්‍රාත්කරුවන්ට (Cleaning up contractor) ඒ පිළිබඳව දැනුම් දීමට සහ පියවර ගැනීමට නීත්‍යානුකූලව බැඳී සිටින්නේ 'Qualified Individual' (QI) ලෙස හැඳින්වෙන පුද්ගලයාය. මෙය OPA-90 (Oil Pollution Act of 1990) රෙගුලාසිය යටතේ එන අවශ්‍යතාවයකි. නෞකාවේ හිමිකරු විසින් පත් කරන ලද මෙම පුද්ගලයාට පිරිසිදු කිරීමේ කටයුතු සඳහා මුදල් වැය කිරීමට සහ තීරණ ගැනීමට පූර්ණ බලය ඇත. අනෙකුත් නිලධාරීන්ට දැනුම් දීමේ වගකීම තිබිය හැකි නමුත්, කොන්ත්‍රාත්කරු සෘජුව සම්බන්ධ කර ගැනීමේ ප්‍රධාන වගකීම QI සතු වේ."
+        "explanation": "ඇමරිකානු මුහුදු තීරයේ (US waters) සිදුවන තෙල් කාන්දුවකදී හෝ දූෂණයකදී, පිරිසිදු කිරීමේ කොන්ත්‍රාත්කරුවන්ට (Cleaning up contractor) ඒ පිළිබඳව දැනුම් දීමට සහ පියවර ගැනීමට නීත්‍යානුකූලව බැඳී සිටින්නේ 'Qualified Individual' (QI) ලෙස හැඳින්වෙන පුද්ගලයාය. මෙය OPA-90 (Oil Pollution Act of 1990) රෙගුලාසිය යටතේ එන අවශ්‍යතාවයකි. නෞකාවේ හිමිකරු විසින් පත් කරන ලද මෙම පුද්ගලයාට පිරිසිදු කිරීමේ කටයුතු සඳහා මුදල් වැය කිරීමට සහ තීරණ ගැනීමට පූර්ණ බලය ඇත. අනෙකුත් නිලධාරීන්ට දැනුම් දීමේ වගකීම තිබිය හැකි නමුත්, කොන්ත්‍රාත්කරු සෘජුව සම්බන්ධ කර ගැනීමේ ප්‍රධාන වගකීම QI සතු වේ.",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -94,7 +100,8 @@
         ],
         "correct_answer": "Slightly superheated low pressure gas.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -107,7 +114,8 @@
         ],
         "correct_answer": "Set the proportional band to maximum width and the integral action to minimum (repeats per minute).",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -121,7 +129,8 @@
         ],
         "correct_answer": "Yes, within thirty (30) minutes.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -135,7 +144,8 @@
         ],
         "correct_answer": "Increase cylinder oil feed rate slightly and monitor the scavenge space drains.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -149,7 +159,8 @@
         ],
         "correct_answer": "Adjustment of the pressure relief valve to recirculate part of the flow.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -163,7 +174,8 @@
         ],
         "correct_answer": "As soon as possible but not later than 2 weeks after he joins the ship.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -177,7 +189,8 @@
         ],
         "correct_answer": "Faulty cylinder component (piston rings, liner, etc.).",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -191,7 +204,8 @@
         ],
         "correct_answer": "Pressure forces caused by green water on deck.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -205,7 +219,8 @@
         ],
         "correct_answer": "60 ohm.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -219,7 +234,8 @@
         ],
         "correct_answer": "0,2 to 0,5 bar.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -233,7 +249,8 @@
         ],
         "correct_answer": "Apply reduced voltage to the element for a few minutes. Then retest and if ok put into service.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -247,7 +264,8 @@
         ],
         "correct_answer": "Check if the fuel injection pump timing is correct.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -261,7 +279,8 @@
         ],
         "correct_answer": "Slow turning should be set to operate automatically prior to engine start when engine has been stopped for 20 to 30 minutes during manoeuvring.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -275,7 +294,8 @@
         ],
         "correct_answer": "+/- 50 °C.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -289,7 +309,8 @@
         ],
         "correct_answer": "Start with suction valve throttled in to minimise risk of drawing liquid refrigerant into the compressor.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -303,7 +324,8 @@
         ],
         "correct_answer": "Debris from damage to a white metal bearing.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -317,7 +339,8 @@
         ],
         "correct_answer": "The sampling filter is partially blocked giving rise to wide pressure variations in the sampling chamber.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -330,7 +353,8 @@
         ],
         "correct_answer": "Circumferential slip of the after clamp ring in the opposite direction to shaft rotation.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -344,7 +368,8 @@
         ],
         "correct_answer": "To avoid the introduction of non-indigenous species of marine life from one area to another.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -357,7 +382,8 @@
         ],
         "correct_answer": "Each lifeboat shall be launched, and maneuvered in the water with its assigned crew at least once every three months during an abandon ship drill.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -371,7 +397,8 @@
         ],
         "correct_answer": "Ship owner has Document of Compliance issued, and vessel is assessed and holds all statutory certificates.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -385,7 +412,8 @@
         ],
         "correct_answer": "Measure the relative density (specific gravity) of the electrolyte.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -399,7 +427,8 @@
         ],
         "correct_answer": "Concerned personnel carry out the on-board training programme effectively.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -413,7 +442,8 @@
         ],
         "correct_answer": "The heavy fuel is unstable leading to excessive high viscosity sludge formation.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -427,7 +457,8 @@
         ],
         "correct_answer": "Stop bunkering, and establish facts, before bunkering is resumed.",
         "images": [],
-        "explanation": "රාත්‍රී කාලයේදී බන්කර් කිරීමේදී (Bunkering) තත්ත්වය පාලනයෙන් ගිලිහෙන බව දැනුනහොත් ගත යුතු ආරක්ෂිතම පියවර වන්නේ වහාම බන්කර් කිරීම නතර කිරීමයි. ඉන්පසු සියලු කරුණු පරීක්ෂා කර, පද්ධතිය නැවත පාලනයට නතු කර ගැනීමෙන් පසුව පමණක් වැඩ ආරම්භ කළ යුතුය. දිගටම කරගෙන යාමෙන් තෙල් පිටාර ගැලීම (Oil spill) වැනි බරපතල පාරිසරික හානි සිදුවිය හැක. සන්නිවේදනය හෝ වේගය අඩු කිරීම පමණක් මෙහිදී ප්‍රමාණවත් නොවේ."
+        "explanation": "රාත්‍රී කාලයේදී බන්කර් කිරීමේදී (Bunkering) තත්ත්වය පාලනයෙන් ගිලිහෙන බව දැනුනහොත් ගත යුතු ආරක්ෂිතම පියවර වන්නේ වහාම බන්කර් කිරීම නතර කිරීමයි. ඉන්පසු සියලු කරුණු පරීක්ෂා කර, පද්ධතිය නැවත පාලනයට නතු කර ගැනීමෙන් පසුව පමණක් වැඩ ආරම්භ කළ යුතුය. දිගටම කරගෙන යාමෙන් තෙල් පිටාර ගැලීම (Oil spill) වැනි බරපතල පාරිසරික හානි සිදුවිය හැක. සන්නිවේදනය හෝ වේගය අඩු කිරීම පමණක් මෙහිදී ප්‍රමාණවත් නොවේ.",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -441,7 +472,8 @@
         ],
         "correct_answer": "Air in the fuel oil system.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -455,7 +487,8 @@
         ],
         "correct_answer": "Incorrect frequency.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -469,7 +502,8 @@
         ],
         "correct_answer": "0,2 A.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -483,7 +517,8 @@
         ],
         "correct_answer": "22 Ohms.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -497,7 +532,8 @@
         ],
         "correct_answer": "Open circuit winding between W and U.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -511,7 +547,8 @@
         ],
         "correct_answer": "One or more cylinder air start valves are stuck open.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -525,7 +562,8 @@
         ],
         "correct_answer": "To help to maintain the oil/water interface at the correct position.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -539,7 +577,8 @@
         ],
         "correct_answer": "Fuel viscosity.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -553,7 +592,8 @@
         ],
         "correct_answer": "Until all crew members and passengers have reported to their respective muster stations.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -567,7 +607,8 @@
         ],
         "correct_answer": "Maritime Safety, Prevention of Marine pollution, Liability and compensation.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -581,7 +622,8 @@
         ],
         "correct_answer": "Contain any oil-spill onboard the ship.",
         "images": [],
-        "explanation": "නැවක සිදුවන කුඩා තෙල් කාන්දුවීම් වලින් සිදුවන පරිසර දූෂණය වැළැක්වීමේ හොඳම ක්‍රමය වන්නේ එම තෙල් නැව තුළම රඳවා ගැනීමයි (containment). මුහුදට තෙල් කාන්දු වීමට පෙර නැව මතුපිට ඇති scuppers වසා දැමීම, sawdust හෝ oil pads භාවිතා කර තෙල් අවශෝෂණය කිරීම මෙයට අයත් වේ. තෙල් මුහුදට ගිය පසු එය පිරිසිදු කිරීම වඩාත් අපහසු සහ වියදම් අධික කටයුත්තකි. එබැවින් තෙල් කාන්දුව නැවෙන් පිටතට යාම වැළැක්වීම ප්‍රමුඛතම කාර්යය වේ."
+        "explanation": "නැවක සිදුවන කුඩා තෙල් කාන්දුවීම් වලින් සිදුවන පරිසර දූෂණය වැළැක්වීමේ හොඳම ක්‍රමය වන්නේ එම තෙල් නැව තුළම රඳවා ගැනීමයි (containment). මුහුදට තෙල් කාන්දු වීමට පෙර නැව මතුපිට ඇති scuppers වසා දැමීම, sawdust හෝ oil pads භාවිතා කර තෙල් අවශෝෂණය කිරීම මෙයට අයත් වේ. තෙල් මුහුදට ගිය පසු එය පිරිසිදු කිරීම වඩාත් අපහසු සහ වියදම් අධික කටයුත්තකි. එබැවින් තෙල් කාන්දුව නැවෙන් පිටතට යාම වැළැක්වීම ප්‍රමුඛතම කාර්යය වේ.",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -595,7 +637,8 @@
         ],
         "correct_answer": "Turned at intervals of not more than 30 months and renewed every 5 years.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -609,7 +652,8 @@
         ],
         "correct_answer": "56 kW.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -622,7 +666,8 @@
         ],
         "correct_answer": "To relieve excess pressure in the crankcase resulting from a crankcase explosion.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -638,7 +683,8 @@
         "images": [
             "https://i.ibb.co/DgghR4PH/scheme2.jpg"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -652,7 +698,8 @@
         ],
         "correct_answer": "Dirty scavenging air cooler on the air side.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -666,7 +713,8 @@
         ],
         "correct_answer": "Everyone.",
         "images": [],
-        "explanation": "නැවක ආරක්ෂාව තහවුරු කිරීම සඳහා නැවට අලුතින් පැමිණෙන හෝ දැනට සිටින සෑම පුද්ගලයෙකුම (Everyone) හුරුපුරුදු වීමේ පුහුණුව (familiarization training) ලබාගත යුතුය. මෙයට නැව් කාර්ය මණ්ඩලය මෙන්ම වෙනත් සේවා සඳහා පැමිණෙන පුද්ගලයන්ද ඇතුළත් වේ. හදිසි අවස්ථාවකදී ක්‍රියා කළ යුතු ආකාරය සහ ආරක්ෂක උපකරණ පිහිටා ඇති ස්ථාන පිළිබඳව සෑම දෙනාම දැනුවත් වී සිටීම අනිවාර්ය ජාත්‍යන්තර නීතියකි. එන්ජින් කාර්ය මණ්ඩලයට හෝ තෝරාගත් පිරිසකට පමණක් මෙය සීමා කිරීම අනාරක්ෂිතය."
+        "explanation": "නැවක ආරක්ෂාව තහවුරු කිරීම සඳහා නැවට අලුතින් පැමිණෙන හෝ දැනට සිටින සෑම පුද්ගලයෙකුම (Everyone) හුරුපුරුදු වීමේ පුහුණුව (familiarization training) ලබාගත යුතුය. මෙයට නැව් කාර්ය මණ්ඩලය මෙන්ම වෙනත් සේවා සඳහා පැමිණෙන පුද්ගලයන්ද ඇතුළත් වේ. හදිසි අවස්ථාවකදී ක්‍රියා කළ යුතු ආකාරය සහ ආරක්ෂක උපකරණ පිහිටා ඇති ස්ථාන පිළිබඳව සෑම දෙනාම දැනුවත් වී සිටීම අනිවාර්ය ජාත්‍යන්තර නීතියකි. එන්ජින් කාර්ය මණ්ඩලයට හෝ තෝරාගත් පිරිසකට පමණක් මෙය සීමා කිරීම අනාරක්ෂිතය.",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -680,7 +728,8 @@
         ],
         "correct_answer": "Fouling of the hull.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -694,7 +743,8 @@
         ],
         "correct_answer": "The vessel will roll slowly or be unstable.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -708,7 +758,8 @@
         ],
         "correct_answer": "Scavenge ports dirty.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -722,7 +773,8 @@
         ],
         "correct_answer": "120 °C.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -736,7 +788,8 @@
         ],
         "correct_answer": "No.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -750,7 +803,8 @@
         ],
         "correct_answer": "Correct tension ensures that the chain and associated equipment is within normal loading limits.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -764,7 +818,8 @@
         ],
         "correct_answer": "Zero-point is accurate, but 100 % input is not giving 100 % output.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -778,7 +833,8 @@
         ],
         "correct_answer": "22 Ohms.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -792,7 +848,8 @@
         ],
         "correct_answer": "Clearing escape routes.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -806,7 +863,8 @@
         ],
         "correct_answer": "A large bow thruster will draw very large currents at low voltage. Being typically remote from the generator, significant voltage drops would occur at low voltage.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -820,7 +878,8 @@
         ],
         "correct_answer": "To avoid pollution.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -834,7 +893,8 @@
         ],
         "correct_answer": "The blades should be in the zero pitch position.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -848,7 +908,8 @@
         ],
         "correct_answer": "All of the below mentioned.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -862,7 +923,8 @@
         ],
         "correct_answer": "Have the fuel pump phased and calibrated in a test workshop.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -876,7 +938,8 @@
         ],
         "correct_answer": "Replace the damaged chocks with resin based chocks of an appropriate size.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -890,7 +953,8 @@
         ],
         "correct_answer": "A heavily leaking starting air valve may cause an explosion in the starting air pipe system.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -904,7 +968,8 @@
         ],
         "correct_answer": "Company Security Officer.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -918,7 +983,8 @@
         ],
         "correct_answer": "The International Management Code for the Safe Operation of Ships and for Pollution Prevention.",
         "images": [],
-        "explanation": "ISM යන්නෙහි සම්පූර්ණ අර්ථය 'The International Management Code for the Safe Operation of Ships and for Pollution Prevention' යන්නයි. මෙය ජාත්‍යන්තර මුහුදු ගමන් වලදී නැවෙහි ආරක්ෂිත මෙහෙයුම් පවත්වාගෙන යාම සහ සාගර පරිසර දූෂණය වැළැක්වීම සඳහා පනවා ඇති ජාත්‍යන්තර නීති පද්ධතියකි. අනෙකුත් විකල්ප වැරදි වන්නේ ඒවා මෙම නිල අර්ථ දැක්වීමට සමාන නොවන බැවිනි. උදාහරණයක් ලෙස මෙය හුදෙක් කාර්මික කළමනාකරණය හෝ වෙළඳ කළමනාකරණය සඳහා පමණක් නොව, ජීවිත සහ පරිසර ආරක්ෂාව සඳහාම වෙන් වූවකි."
+        "explanation": "ISM යන්නෙහි සම්පූර්ණ අර්ථය 'The International Management Code for the Safe Operation of Ships and for Pollution Prevention' යන්නයි. මෙය ජාත්‍යන්තර මුහුදු ගමන් වලදී නැවෙහි ආරක්ෂිත මෙහෙයුම් පවත්වාගෙන යාම සහ සාගර පරිසර දූෂණය වැළැක්වීම සඳහා පනවා ඇති ජාත්‍යන්තර නීති පද්ධතියකි. අනෙකුත් විකල්ප වැරදි වන්නේ ඒවා මෙම නිල අර්ථ දැක්වීමට සමාන නොවන බැවිනි. උදාහරණයක් ලෙස මෙය හුදෙක් කාර්මික කළමනාකරණය හෝ වෙළඳ කළමනාකරණය සඳහා පමණක් නොව, ජීවිත සහ පරිසර ආරක්ෂාව සඳහාම වෙන් වූවකි.",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -933,7 +999,8 @@
         ],
         "correct_answer": "60 Ohm.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -948,7 +1015,8 @@
         ],
         "correct_answer": "A large bow thruster will draw very large currents at low voltage. Being typically remote from the generator, significant voltage drops would occur at low voltage.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -963,7 +1031,8 @@
         ],
         "correct_answer": "To ensure that no energy remains in the system, and that it cannot be recharged by external influences.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -977,7 +1046,8 @@
         ],
         "correct_answer": "The gas, liquid or vapor, which will minimize creation of an electric arc as contacts open.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -992,7 +1062,8 @@
         ],
         "correct_answer": "Rotten eggs.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -1007,7 +1078,8 @@
         ],
         "correct_answer": "Electric motors will run at reduced speed, and will tend to overheat.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -1022,7 +1094,8 @@
         ],
         "correct_answer": "Reduced current and reduced torque.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -1037,7 +1110,8 @@
         ],
         "correct_answer": "It will allow for inrush current, or motor specific faults.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -1052,7 +1126,8 @@
         ],
         "correct_answer": "30 volts.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -1067,7 +1142,8 @@
         ],
         "correct_answer": "In the event of an earth fault vital equipment will not trip.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -1082,7 +1158,8 @@
         ],
         "correct_answer": "Faulty contactor coil.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -1097,7 +1174,8 @@
         ],
         "correct_answer": "Between 0,1 and 1,0 Ohm.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -1112,7 +1190,8 @@
         ],
         "correct_answer": "Temperature, humidity and surface contamination.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -1127,7 +1206,8 @@
         ],
         "correct_answer": "6 Ohms.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -1142,7 +1222,8 @@
         ],
         "correct_answer": "Open circuit winding between W and U.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -1157,7 +1238,8 @@
         ],
         "correct_answer": "Contactor chattering (vibrating).",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -1172,7 +1254,8 @@
         ],
         "correct_answer": "U-E, V-E, W-E, U-V, V-W, W-U.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -1187,7 +1270,8 @@
         ],
         "correct_answer": "Electrodes.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -1202,7 +1286,8 @@
         ],
         "correct_answer": "The controller will not react to a process change in this range.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -1217,7 +1302,8 @@
         ],
         "correct_answer": "Disconnect the thermocouple lead from the controller, and replace it with a mV source.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -1232,7 +1318,8 @@
         ],
         "correct_answer": "One of the main switching elements in the triac has failed.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -1247,7 +1334,8 @@
         ],
         "correct_answer": "Install a 100 Ohm resistor in series with the coil.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -1262,7 +1350,8 @@
         ],
         "correct_answer": "Apply reduced voltage to the element for a few minutes. Then retest, and if ok put into service.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -1277,7 +1366,8 @@
         ],
         "correct_answer": "Solution of potassium hydroxide (KOH) and water.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -1292,7 +1382,8 @@
         ],
         "correct_answer": "Absolute pressure.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -1307,7 +1398,8 @@
         ],
         "correct_answer": "2,2 Ohms.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -1324,7 +1416,8 @@
         "images": [
             "https://i.ibb.co/q36xTyjX/ces-starter.jpg"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -1339,7 +1432,8 @@
         ],
         "correct_answer": "Better linearity and increased accuracy.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -1354,7 +1448,8 @@
         ],
         "correct_answer": "The slave controller receives the set-point from the output signal of the master controller.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -1369,7 +1464,8 @@
         ],
         "correct_answer": "Adjust the slave controller with the master controller in manual mode.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -1384,7 +1480,8 @@
         ],
         "correct_answer": "The primary controller in a cascade control system.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -1399,7 +1496,8 @@
         ],
         "correct_answer": "Level control.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -1414,7 +1512,8 @@
         ],
         "correct_answer": "It is possible to predict the control mathematically.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -1429,7 +1528,8 @@
         ],
         "correct_answer": "Control of the process inlet side.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -1444,7 +1544,8 @@
         ],
         "correct_answer": "The secondary controller.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -1459,7 +1560,8 @@
         ],
         "correct_answer": "Capillary tube.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -1476,7 +1578,8 @@
         "images": [
             "https://i.ibb.co/XfDcrMxv/ces-accuracy.jpg"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -1491,7 +1594,8 @@
         ],
         "correct_answer": "In a pressure transmitter.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -1505,7 +1609,8 @@
         ],
         "correct_answer": "Flammable mixture is continuously present or present for long periods.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -1519,7 +1624,8 @@
         ],
         "correct_answer": "ISM procedures in the ship’s safety manual.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -1533,7 +1639,8 @@
         ],
         "correct_answer": "A large temperature drop across the drier.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -1547,7 +1654,8 @@
         ],
         "correct_answer": "Reduce the time between overhauls due to increasing fouling.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -1561,7 +1669,8 @@
         ],
         "correct_answer": "The pressure is greater than the pressure in the lubricating system and varies with the journal load.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -1575,7 +1684,8 @@
         ],
         "correct_answer": "The performance of the engine will be reduced noticeably.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -1589,7 +1699,8 @@
         ],
         "correct_answer": "Seek advice from your superior before attempting to operate it.",
         "images": [],
-        "explanation": "ඔබ නොදන්නා හෝ හුරුපුරුදු නැති යාන්ත්‍රික උපකරණයක් ක්‍රියාත්මක කිරීමට පැවසුවහොත්, එය කිරීමට පෙර වහාම ඔබේ ඉහළ නිලධාරියාගෙන් උපදෙස් ලබා ගත යුතුය. වැරදි ලෙස ක්‍රියාත්මක කිරීමෙන් උපකරණ වලට හානි සිදුවිය හැකි අතර ඔබේ ජීවිතයටද අනතුරක් විය හැක. තනිව උත්සාහ කිරීම හෝ උපදෙස් නොමැතිව ක්‍රියා කිරීම බරපතල අනතුරු වලට මග පාදයි."
+        "explanation": "ඔබ නොදන්නා හෝ හුරුපුරුදු නැති යාන්ත්‍රික උපකරණයක් ක්‍රියාත්මක කිරීමට පැවසුවහොත්, එය කිරීමට පෙර වහාම ඔබේ ඉහළ නිලධාරියාගෙන් උපදෙස් ලබා ගත යුතුය. වැරදි ලෙස ක්‍රියාත්මක කිරීමෙන් උපකරණ වලට හානි සිදුවිය හැකි අතර ඔබේ ජීවිතයටද අනතුරක් විය හැක. තනිව උත්සාහ කිරීම හෝ උපදෙස් නොමැතිව ක්‍රියා කිරීම බරපතල අනතුරු වලට මග පාදයි.",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -1603,7 +1714,8 @@
         ],
         "correct_answer": "Activate the nearest fire alarm button and advise bridge of the location of the fire.",
         "images": [],
-        "explanation": "රාත්‍රී කාලයේ ගිනි මුර සංචාරයක යෙදෙන විට වසා ඇති කැබින් දොරකින් දුම් පිටවන බව දුටුවහොත්, වහාම ළඟම ඇති ගිනි අනතුරු ඇඟවීමේ බොත්තම (Fire alarm button) ක්‍රියාත්මක කර නෞකාවේ බ්‍රිජ් (Bridge) එකට එම ස්ථානය පිළිබඳව දැනුම් දිය යුතුය. තනිවම දොර විවෘත කිරීම ඉතා අවදානම් සහගතය, මන්ද දොර විවෘත කිරීමේදී ඇතුළට ලැබෙන ඔක්සිජන් නිසා ගින්න ක්ෂණිකව පිපිරීමක් බඳු විශාල වීමක් (Backdraft) සිදුවිය හැකි බැවිනි. මුලින්ම පණිවිඩය ලබා දීමෙන් සහය කණ්ඩායම් වලට සූදානම් වීමට අවස්ථාව ලැබේ."
+        "explanation": "රාත්‍රී කාලයේ ගිනි මුර සංචාරයක යෙදෙන විට වසා ඇති කැබින් දොරකින් දුම් පිටවන බව දුටුවහොත්, වහාම ළඟම ඇති ගිනි අනතුරු ඇඟවීමේ බොත්තම (Fire alarm button) ක්‍රියාත්මක කර නෞකාවේ බ්‍රිජ් (Bridge) එකට එම ස්ථානය පිළිබඳව දැනුම් දිය යුතුය. තනිවම දොර විවෘත කිරීම ඉතා අවදානම් සහගතය, මන්ද දොර විවෘත කිරීමේදී ඇතුළට ලැබෙන ඔක්සිජන් නිසා ගින්න ක්ෂණිකව පිපිරීමක් බඳු විශාල වීමක් (Backdraft) සිදුවිය හැකි බැවිනි. මුලින්ම පණිවිඩය ලබා දීමෙන් සහය කණ්ඩායම් වලට සූදානම් වීමට අවස්ථාව ලැබේ.",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -1617,7 +1729,8 @@
         ],
         "correct_answer": "Class A.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -1631,7 +1744,8 @@
         ],
         "correct_answer": "To avoid an explosion in case any oil vapours are present from oil leakage into the furnace.",
         "images": [],
-        "explanation": "බොයිලේරුවක් දල්වා ගැනීමට පෙර එහි දහන කුටීරය (Combustion chamber) හොඳින් වාතාශ්‍රය කිරීම (Ventilation/Purging) අතිශය වැදගත්ය. මක්නිසාද යත්, පෙර අවස්ථාවක කාන්දු වූ ඉන්ධන වාෂ්ප කුටීරය තුළ තිබිය හැකි බැවිනි. එම වාෂ්ප ඉවත් නොකර දැල්වීමට උත්සාහ කළහොත් විශාල පිපිරීමක් (Explosion) සිදුවීමට ඉඩ ඇත. මෙය එන්ජින් රූම් එකේ ආරක්ෂාව සඳහා අනුගමනය කළ යුතු අනිවාර්ය පියවරකි."
+        "explanation": "බොයිලේරුවක් දල්වා ගැනීමට පෙර එහි දහන කුටීරය (Combustion chamber) හොඳින් වාතාශ්‍රය කිරීම (Ventilation/Purging) අතිශය වැදගත්ය. මක්නිසාද යත්, පෙර අවස්ථාවක කාන්දු වූ ඉන්ධන වාෂ්ප කුටීරය තුළ තිබිය හැකි බැවිනි. එම වාෂ්ප ඉවත් නොකර දැල්වීමට උත්සාහ කළහොත් විශාල පිපිරීමක් (Explosion) සිදුවීමට ඉඩ ඇත. මෙය එන්ජින් රූම් එකේ ආරක්ෂාව සඳහා අනුගමනය කළ යුතු අනිවාර්ය පියවරකි.",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -1645,7 +1759,8 @@
         ],
         "correct_answer": "It is important that the rotation direction is correct to avoid dry running.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -1659,7 +1774,8 @@
         ],
         "correct_answer": "Prime the pump with seawater from the main inlet valve.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -1673,7 +1789,8 @@
         ],
         "correct_answer": "To avoid accidental intake of water into the engine room in case of valve or pipeline failure.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -1687,7 +1804,8 @@
         ],
         "correct_answer": "The atmosphere via the atmospheric line.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -1701,7 +1819,8 @@
         ],
         "correct_answer": "Raise the water level a few centimeters above normal working level.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -1715,7 +1834,8 @@
         ],
         "correct_answer": "Trying to ignite burner from hot brickwork.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -1729,7 +1849,8 @@
         ],
         "correct_answer": "Over tightening of the gland packing.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -1743,7 +1864,8 @@
         ],
         "correct_answer": "The ship will receive fuel and diesel oil bunkers.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -1759,7 +1881,8 @@
         "images": [
             "https://i.ibb.co/8gQdR1N8/shatun.jpg"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -1775,7 +1898,8 @@
         "images": [
             "https://i.ibb.co/5gjs5pvb/detal.jpg"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -1791,7 +1915,8 @@
         "images": [
             "https://i.ibb.co/p6DrN5dN/klyuch.jpg"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -1805,7 +1930,8 @@
         ],
         "correct_answer": "Report to bridge or duty officer, actuate the fire alarm, call the persons around the fire and join the fire squad.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -1821,7 +1947,8 @@
         "images": [
             "https://i.ibb.co/KxvhHKwh/remni-jpg-1.jpg"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -1835,7 +1962,8 @@
         ],
         "correct_answer": "A unit which automatically releases the liferaft/lifeboat at a depth of approx 4 metres.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -1849,7 +1977,8 @@
         ],
         "correct_answer": "Secure all of the burners.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -1863,7 +1992,8 @@
         ],
         "correct_answer": "1 litre.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -1877,7 +2007,8 @@
         ],
         "correct_answer": "The team is applying water and the temperature is decreasing.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -1891,7 +2022,8 @@
         ],
         "correct_answer": "Carry out a right or left hand search and proceed carefully, feeling the area in front with the foot and using the back of the free hand to check the area around.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -1907,7 +2039,8 @@
         "images": [
             "https://i.ibb.co/ksVC4QXF/galon-jpg-1.jpg"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -1921,7 +2054,8 @@
         ],
         "correct_answer": "Aft of the forecastle.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -1935,7 +2069,8 @@
         ],
         "correct_answer": "Use a rope ladder close to the raft to climb down and board.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -1951,7 +2086,8 @@
         "images": [
             "https://i.ibb.co/x81Pzpb2/punkt.jpg"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -1965,7 +2101,8 @@
         ],
         "correct_answer": "2 sec.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -1979,7 +2116,8 @@
         ],
         "correct_answer": "8.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -1993,7 +2131,8 @@
         ],
         "correct_answer": "At all times when identified as a control method with risk assessment.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -2007,7 +2146,8 @@
         ],
         "correct_answer": "Using nets.",
         "images": [],
-        "explanation": "සිහිසුන් හෝ අසාධ්‍ය තත්ත්වයේ සිටින පුද්ගලයින් මුහුදෙන් ගොඩට ගැනීමේදී දැල් (nets) භාවිතා කිරීම වඩාත් ආරක්ෂිත වේ. මෙහිදී පුද්ගලයා තිරස් (horizontal) මට්ටමේ තබා ගනිමින් එසවිය හැකි අතර, එමඟින් හයිපෝතර්මියාව (hypothermia) ඇති අයගේ හෘද ස්පන්දනය නතර වීම වළක්වයි. ලණු හෝ කොකු භාවිතා කිරීමෙන් පුද්ගලයා සිරස් අතට එසවෙන බැවින් එය මාරාන්තික විය හැක."
+        "explanation": "සිහිසුන් හෝ අසාධ්‍ය තත්ත්වයේ සිටින පුද්ගලයින් මුහුදෙන් ගොඩට ගැනීමේදී දැල් (nets) භාවිතා කිරීම වඩාත් ආරක්ෂිත වේ. මෙහිදී පුද්ගලයා තිරස් (horizontal) මට්ටමේ තබා ගනිමින් එසවිය හැකි අතර, එමඟින් හයිපෝතර්මියාව (hypothermia) ඇති අයගේ හෘද ස්පන්දනය නතර වීම වළක්වයි. ලණු හෝ කොකු භාවිතා කිරීමෙන් පුද්ගලයා සිරස් අතට එසවෙන බැවින් එය මාරාන්තික විය හැක.",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -2021,7 +2161,8 @@
         ],
         "correct_answer": "Warning signs that indicate lack of oxygen inside.",
         "images": [],
-        "explanation": "Void spaces වැනි සංවෘත ස්ථාන (Enclosed spaces) දීර්ඝ කාලයක් වසා තැබීම නිසා ඒවායේ ඔක්සිජන් හිඟයක් (Lack of oxygen) පවතින බවට අනතුරු ඇඟවීමේ පුවරු ප්‍රදර්ශනය කළ යුතුය. වාතාශ්‍රය නොමැති වීම නිසා ලෝහ මලබැඳීමේ ක්‍රියාවලියෙන් ඔක්සිජන් වැයවීම හෝ විෂ වායු පිරීම සිදු විය හැකිය. ලිස්සා යාම වැනි අනතුරු වලට වඩා මෙහි ඇති ප්‍රධානතම මාරාන්තික අනතුර වන්නේ හුස්ම ගැනීමට අවශ්‍ය ඔක්සිජන් නොමැති වීමයි."
+        "explanation": "Void spaces වැනි සංවෘත ස්ථාන (Enclosed spaces) දීර්ඝ කාලයක් වසා තැබීම නිසා ඒවායේ ඔක්සිජන් හිඟයක් (Lack of oxygen) පවතින බවට අනතුරු ඇඟවීමේ පුවරු ප්‍රදර්ශනය කළ යුතුය. වාතාශ්‍රය නොමැති වීම නිසා ලෝහ මලබැඳීමේ ක්‍රියාවලියෙන් ඔක්සිජන් වැයවීම හෝ විෂ වායු පිරීම සිදු විය හැකිය. ලිස්සා යාම වැනි අනතුරු වලට වඩා මෙහි ඇති ප්‍රධානතම මාරාන්තික අනතුර වන්නේ හුස්ම ගැනීමට අවශ්‍ය ඔක්සිජන් නොමැති වීමයි.",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -2035,7 +2176,8 @@
         ],
         "correct_answer": "Voyage itinerary and departure and arrival times.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -2049,7 +2191,8 @@
         ],
         "correct_answer": "Particulate detector.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -2063,7 +2206,8 @@
         ],
         "correct_answer": "Notify Deck Officer and Engineer Officer in charge. The loop for the smoke detector should be isolated while work is done and normal precautions for hot work taken including permit to work.",
         "images": [],
-        "explanation": "එන්ජින් කාමරයේ දුම් අනාවරකයක් (Smoke detector) අසල උණුසුම් වැඩ (Hot work) කිරීමේදී, අනතුරු ඇඟවීමේ පද්ධතිය ක්‍රියාත්මක වීම වැළැක්වීම සඳහා අදාළ ලූපය (Loop) තාවකාලිකව හුදකලා (Isolate) කළ යුතුය. එසේම ඒ පිළිබඳව තට්ටුවේ නිලධාරියා (Deck Officer) සහ ඉංජිනේරු නිලධාරියා දැනුවත් කර 'Permit to work' බලපත්‍රයක් ලබාගත යුතුය. අනාවරකය වැසීම පමණක් ප්‍රමාණවත් නොවන අතර, පද්ධතියේ ක්‍රියාකාරිත්වය නිසි පරිදි කළමනාකරණය නොකිරීම අනතුරුදායක බැවින් අනෙකුත් විකල්ප වැරදි වේ."
+        "explanation": "එන්ජින් කාමරයේ දුම් අනාවරකයක් (Smoke detector) අසල උණුසුම් වැඩ (Hot work) කිරීමේදී, අනතුරු ඇඟවීමේ පද්ධතිය ක්‍රියාත්මක වීම වැළැක්වීම සඳහා අදාළ ලූපය (Loop) තාවකාලිකව හුදකලා (Isolate) කළ යුතුය. එසේම ඒ පිළිබඳව තට්ටුවේ නිලධාරියා (Deck Officer) සහ ඉංජිනේරු නිලධාරියා දැනුවත් කර 'Permit to work' බලපත්‍රයක් ලබාගත යුතුය. අනාවරකය වැසීම පමණක් ප්‍රමාණවත් නොවන අතර, පද්ධතියේ ක්‍රියාකාරිත්වය නිසි පරිදි කළමනාකරණය නොකිරීම අනතුරුදායක බැවින් අනෙකුත් විකල්ප වැරදි වේ.",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -2077,7 +2221,8 @@
         ],
         "correct_answer": "To ensure soot is cleared progressively from the bottom tubes to the top and toward the boiler uptakes.",
         "images": [],
-        "explanation": "බොයිලේරු සූට් බ්ලෝවර් (sootblowers) නිවැරදි අනුපිළිවෙලට ක්‍රියාත්මක කළ යුත්තේ දැලි සහ අළු පහළ නලවල සිට ඉහළටත්, ඉන්පසු දුම් කවුළුව (uptake) දෙසටත් ක්‍රමානුකූලව තල්ලු කර යැවීමටයි. මෙලෙස සිදු කිරීමෙන් ඉවත් කරන දැලි නැවත පිරිසිදු කරන ලද පහළ නල මත තැන්පත් වීම වළක්වයි. වැරදි අනුපිළිවෙලක් අනුගමනය කිරීමෙන් දැලි නිසි ලෙස බැහැර නොවන අතර බොයිලේරුවේ කාර්යක්ෂමතාව අඩු විය හැක."
+        "explanation": "බොයිලේරු සූට් බ්ලෝවර් (sootblowers) නිවැරදි අනුපිළිවෙලට ක්‍රියාත්මක කළ යුත්තේ දැලි සහ අළු පහළ නලවල සිට ඉහළටත්, ඉන්පසු දුම් කවුළුව (uptake) දෙසටත් ක්‍රමානුකූලව තල්ලු කර යැවීමටයි. මෙලෙස සිදු කිරීමෙන් ඉවත් කරන දැලි නැවත පිරිසිදු කරන ලද පහළ නල මත තැන්පත් වීම වළක්වයි. වැරදි අනුපිළිවෙලක් අනුගමනය කිරීමෙන් දැලි නිසි ලෙස බැහැර නොවන අතර බොයිලේරුවේ කාර්යක්ෂමතාව අඩු විය හැක.",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -2091,7 +2236,8 @@
         ],
         "correct_answer": "Inform the Officer of the watch immediately so that arrangements can be made to replace the leaking glass.",
         "images": [],
-        "explanation": "අධි පීඩන බොයිලේරුවක (high pressure boiler) ජල මට්ටම පෙන්වන වීදුරුවක (gauge glass) දැඩි කාන්දුවක් පවතී නම්, එය වාෂ්ප පිපිරීමක් වැනි භයානක තත්ත්වයකට මග පෑදිය හැක. එබැවින් වහාම රාජකාරියේ නියුතු නිලධාරියා (Officer of the Watch) දැනුවත් කර, පද්ධතිය ආරක්ෂිතව හුදකලා කර වීදුරුව මාරු කිරීමට කටයුතු කළ යුතුය. මෙය නොසලකා හැරීමෙන් බොයිලේරුවේ ජල මට්ටම නිවැරදිව හඳුනාගත නොහැකි වී බොයිලේරුවට හානි විය හැක."
+        "explanation": "අධි පීඩන බොයිලේරුවක (high pressure boiler) ජල මට්ටම පෙන්වන වීදුරුවක (gauge glass) දැඩි කාන්දුවක් පවතී නම්, එය වාෂ්ප පිපිරීමක් වැනි භයානක තත්ත්වයකට මග පෑදිය හැක. එබැවින් වහාම රාජකාරියේ නියුතු නිලධාරියා (Officer of the Watch) දැනුවත් කර, පද්ධතිය ආරක්ෂිතව හුදකලා කර වීදුරුව මාරු කිරීමට කටයුතු කළ යුතුය. මෙය නොසලකා හැරීමෙන් බොයිලේරුවේ ජල මට්ටම නිවැරදිව හඳුනාගත නොහැකි වී බොයිලේරුවට හානි විය හැක.",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -2105,7 +2251,8 @@
         ],
         "correct_answer": "The material safety data sheets supplied with the chemicals.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -2119,7 +2266,8 @@
         ],
         "correct_answer": "Inform the engineer officer of the watch so that the pump can be changed over and the gland can be repacked.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -2133,7 +2281,8 @@
         ],
         "correct_answer": "Put it straight into the dirty oil tank for incineration at the next opportunity.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -2147,7 +2296,8 @@
         ],
         "correct_answer": "Try and quickly stop the leak and then inform the engineer on watch of what has happened.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -2161,7 +2311,8 @@
         ],
         "correct_answer": "Stop all of the ballast pumps and close all of the ballast valves as soon as operations are stopped. Ballast lines should always be closed except when they are being used.",
         "images": [],
-        "explanation": "බැලාස්ට් (ballast) මෙහෙයුම් තාවකාලිකව නතර කළ විට, සියලුම පොම්ප නතර කර කපාට (valves) වසා දැමිය යුතුය. බැලාස්ට් පද්ධතියේ පයිප්ප මාර්ග භාවිතයේ නොමැති සෑම විටම වසා තැබීම නාවික ආරක්ෂාව සඳහා අත්‍යවශ්‍ය වේ. පද්ධතිය විවෘතව තැබීමෙන් අනපේක්ෂිත ලෙස ජලය පිරීමෙන් නැවේ ස්ථාවරත්වයට (stability) හානි සිදුවිය හැකි බැවින් අනෙකුත් විකල්ප වැරදි වේ."
+        "explanation": "බැලාස්ට් (ballast) මෙහෙයුම් තාවකාලිකව නතර කළ විට, සියලුම පොම්ප නතර කර කපාට (valves) වසා දැමිය යුතුය. බැලාස්ට් පද්ධතියේ පයිප්ප මාර්ග භාවිතයේ නොමැති සෑම විටම වසා තැබීම නාවික ආරක්ෂාව සඳහා අත්‍යවශ්‍ය වේ. පද්ධතිය විවෘතව තැබීමෙන් අනපේක්ෂිත ලෙස ජලය පිරීමෙන් නැවේ ස්ථාවරත්වයට (stability) හානි සිදුවිය හැකි බැවින් අනෙකුත් විකල්ප වැරදි වේ.",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -2175,7 +2326,8 @@
         ],
         "correct_answer": "Wear a safety harness securely attached to ship’s structure.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -2189,7 +2341,8 @@
         ],
         "correct_answer": "Greasy cotton packing.",
         "images": [],
-        "explanation": "මුහුදු ජලය පම්ප් කරන පොම්පයක shaft gland එකක් සඳහා වඩාත් සුදුසු ඇසුරුම වන්නේ 'Greasy cotton packing' ය. කපු (Cotton) මෘදු වන අතර ජලය උරා ගැනීමේ හැකියාව ඇත. එහි අඩංගු ග්‍රීස් මගින් shaft එක ලිහිසි කරන අතර මුහුදු ජලයෙන් සිසිලනය ලබා දෙයි. රබර් හෝ ප්ලාස්ටික් ඇසුරුම් අධික තාපය නිසා දිය විය හැකි අතර shaft එකට හානි කළ හැකිය. ඇස්බැස්ටෝස් (Asbestos) සෞඛ්‍යයට අහිතකර බැවින් දැන් භාවිතා නොවේ. ලෝහමය ඇසුරුම් (Metallic packing) මගින් shaft එක සීරීමට ලක්විය හැකි බැවින් කපු මිශ්‍ර ඇසුරුම් වඩාත් ප්‍රායෝගික වේ."
+        "explanation": "මුහුදු ජලය පම්ප් කරන පොම්පයක shaft gland එකක් සඳහා වඩාත් සුදුසු ඇසුරුම වන්නේ 'Greasy cotton packing' ය. කපු (Cotton) මෘදු වන අතර ජලය උරා ගැනීමේ හැකියාව ඇත. එහි අඩංගු ග්‍රීස් මගින් shaft එක ලිහිසි කරන අතර මුහුදු ජලයෙන් සිසිලනය ලබා දෙයි. රබර් හෝ ප්ලාස්ටික් ඇසුරුම් අධික තාපය නිසා දිය විය හැකි අතර shaft එකට හානි කළ හැකිය. ඇස්බැස්ටෝස් (Asbestos) සෞඛ්‍යයට අහිතකර බැවින් දැන් භාවිතා නොවේ. ලෝහමය ඇසුරුම් (Metallic packing) මගින් shaft එක සීරීමට ලක්විය හැකි බැවින් කපු මිශ්‍ර ඇසුරුම් වඩාත් ප්‍රායෝගික වේ.",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -2203,7 +2356,8 @@
         ],
         "correct_answer": "Continue with the moving operation until the component is properly secured in the workshop before going to the store for the equipment.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -2217,7 +2371,8 @@
         ],
         "correct_answer": "Inform the watchkeeper so that the pump can be stopped and a new bolt can be fitted to permanently fix the guard in place.",
         "images": [],
-        "explanation": "ක්‍රියාත්මක වන පොම්පයක ආරක්ෂිත ආවරණය (Guard) බුරුල් වී ඇත්නම්, එය වහාම වගකිව යුතු නිලධාරියාට (Watchkeeper) දැනුම් දිය යුතුය. පොම්පය නතර කර අලුත් බෝල්ට් එකක් දමා එය ස්ථිරව සවි කිරීම නිවැරදි ක්‍රමයයි. යන්ත්‍රය ක්‍රියාත්මක වෙමින් පවතිද්දී එය අලුත්වැඩියා කිරීමට උත්සාහ කිරීම හෝ නොසලකා හැරීම භයානක අනතුරු වලට මග පාදයි. එබැවින් යන්ත්‍රය නවත්වා පිළිසකර කිරීම ආරක්ෂිතම ක්‍රමය වේ."
+        "explanation": "ක්‍රියාත්මක වන පොම්පයක ආරක්ෂිත ආවරණය (Guard) බුරුල් වී ඇත්නම්, එය වහාම වගකිව යුතු නිලධාරියාට (Watchkeeper) දැනුම් දිය යුතුය. පොම්පය නතර කර අලුත් බෝල්ට් එකක් දමා එය ස්ථිරව සවි කිරීම නිවැරදි ක්‍රමයයි. යන්ත්‍රය ක්‍රියාත්මක වෙමින් පවතිද්දී එය අලුත්වැඩියා කිරීමට උත්සාහ කිරීම හෝ නොසලකා හැරීම භයානක අනතුරු වලට මග පාදයි. එබැවින් යන්ත්‍රය නවත්වා පිළිසකර කිරීම ආරක්ෂිතම ක්‍රමය වේ.",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -2231,7 +2386,8 @@
         ],
         "correct_answer": "Check the bolts are correctly tightened before informing the engineer so that the flange faces can be cleaned and re-jointed if necessary.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -2245,7 +2401,8 @@
         ],
         "correct_answer": "Graphite fibre packing.",
         "images": [],
-        "explanation": "අඩු පීඩන වාෂ්ප වෑල්ව (Low pressure steam valves) සඳහා ග්‍රැෆයිට් ෆයිබර් පැකින් (Graphite fibre packing) වඩාත් සුදුසු වේ. ග්‍රැෆයිට් වලට ඉහළ උෂ්ණත්වයන්ට ඔරොත්තු දීමේ හැකියාව ඇති අතර එය ස්වයං-ලිහිස්සි ද්‍රව්‍යයක් (Self-lubricating) ලෙස ක්‍රියා කරයි. කපු (Cotton) හෝ හෙම්ප් (Hemp) වැනි ද්‍රව්‍ය වාෂ්ප වල උෂ්ණත්වය නිසා ඉක්මනින් පිලිස්සී ගොස් කාන්දු වීම් ඇති විය හැක. PTFE පැකින් ද භාවිතා කළ හැකි වුවත්, වාෂ්ප පද්ධති සඳහා වඩාත් විශ්වාසදායක වන්නේ ග්‍රැෆයිට් ය."
+        "explanation": "අඩු පීඩන වාෂ්ප වෑල්ව (Low pressure steam valves) සඳහා ග්‍රැෆයිට් ෆයිබර් පැකින් (Graphite fibre packing) වඩාත් සුදුසු වේ. ග්‍රැෆයිට් වලට ඉහළ උෂ්ණත්වයන්ට ඔරොත්තු දීමේ හැකියාව ඇති අතර එය ස්වයං-ලිහිස්සි ද්‍රව්‍යයක් (Self-lubricating) ලෙස ක්‍රියා කරයි. කපු (Cotton) හෝ හෙම්ප් (Hemp) වැනි ද්‍රව්‍ය වාෂ්ප වල උෂ්ණත්වය නිසා ඉක්මනින් පිලිස්සී ගොස් කාන්දු වීම් ඇති විය හැක. PTFE පැකින් ද භාවිතා කළ හැකි වුවත්, වාෂ්ප පද්ධති සඳහා වඩාත් විශ්වාසදායක වන්නේ ග්‍රැෆයිට් ය.",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -2259,7 +2416,8 @@
         ],
         "correct_answer": "Make a new brass plug on the lathe to fit the drain hole.",
         "images": [],
-        "explanation": "තාප හුවමාරුකයක (Heat exchanger) ලෝකඩ කෙළවර ආවරණයක නූල් (Threads) හානි වී ඇති විට සහ අමතර කොටස් නොමැති විට, වඩාත්ම තාක්ෂණික විසඳුම වන්නේ ලැතර් යන්ත්‍රයක් (Lathe) භාවිතයෙන් එම සිදුරට නිවැරදිව ගැලපෙන නව පිත්තල ඇබයක් (Brass plug) සකසා ගැනීමයි. මෙයට හේතුව වන්නේ ලෝකඩ සමග වෙනත් ලෝහ (උදාහරණයක් ලෙස වානේ) භාවිතා කළහොත් ගැල්වනික් විඛාදනය (Galvanic corrosion) ඇති වී උපකරණයට හානි විය හැකි බැවිනි. ලී ඇබ හෝ ප්ලාස්ටික් ඇබ පීඩනය දරා ගැනීමට ප්‍රමාණවත් නොවන නිසා ඒවා නුසුදුසුය."
+        "explanation": "තාප හුවමාරුකයක (Heat exchanger) ලෝකඩ කෙළවර ආවරණයක නූල් (Threads) හානි වී ඇති විට සහ අමතර කොටස් නොමැති විට, වඩාත්ම තාක්ෂණික විසඳුම වන්නේ ලැතර් යන්ත්‍රයක් (Lathe) භාවිතයෙන් එම සිදුරට නිවැරදිව ගැලපෙන නව පිත්තල ඇබයක් (Brass plug) සකසා ගැනීමයි. මෙයට හේතුව වන්නේ ලෝකඩ සමග වෙනත් ලෝහ (උදාහරණයක් ලෙස වානේ) භාවිතා කළහොත් ගැල්වනික් විඛාදනය (Galvanic corrosion) ඇති වී උපකරණයට හානි විය හැකි බැවිනි. ලී ඇබ හෝ ප්ලාස්ටික් ඇබ පීඩනය දරා ගැනීමට ප්‍රමාණවත් නොවන නිසා ඒවා නුසුදුසුය.",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -2273,7 +2431,8 @@
         ],
         "correct_answer": "If packing fails the pump can be kept running by tightening the glands, but if a mechanical seal fails it must be renewed to stop the leakage.",
         "images": [],
-        "explanation": "Stuffing box gland සහ Mechanical seal අතර ප්‍රධාන වෙනස වන්නේ නඩත්තුවයි. Stuffing box එකක ඇසුරුම් (Packing) දිය වී කාන්දු වීමක් සිදු වුවහොත්, ග්ලෑන්ඩ් එක තද කිරීමෙන් (Tightening) පොම්පය දිගටම ක්‍රියා කරවිය හැක. නමුත් Mechanical seal එකක් අසාර්ථක වුවහොත් එය අනිවාර්යයෙන්ම අලුත් එකකින් ප්‍රතිස්ථාපනය කළ යුතුය; එය තද කිරීමෙන් කාන්දුව නැවැත්විය නොහැක. මේ නිසා කාන්දු වීමකදී වහාම ක්‍රියාත්මක විය යුතු ආකාරය අනුව මෙම උපාංග දෙක වෙනස් වේ."
+        "explanation": "Stuffing box gland සහ Mechanical seal අතර ප්‍රධාන වෙනස වන්නේ නඩත්තුවයි. Stuffing box එකක ඇසුරුම් (Packing) දිය වී කාන්දු වීමක් සිදු වුවහොත්, ග්ලෑන්ඩ් එක තද කිරීමෙන් (Tightening) පොම්පය දිගටම ක්‍රියා කරවිය හැක. නමුත් Mechanical seal එකක් අසාර්ථක වුවහොත් එය අනිවාර්යයෙන්ම අලුත් එකකින් ප්‍රතිස්ථාපනය කළ යුතුය; එය තද කිරීමෙන් කාන්දුව නැවැත්විය නොහැක. මේ නිසා කාන්දු වීමකදී වහාම ක්‍රියාත්මක විය යුතු ආකාරය අනුව මෙම උපාංග දෙක වෙනස් වේ.",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -2287,7 +2446,8 @@
         ],
         "correct_answer": "Grinding the valve against the valve seat, usually manually, to obtain a uniform sealing surface across the seat.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -2301,7 +2461,8 @@
         ],
         "correct_answer": "Throw a lifebuoy over board and report to the bridge immediately.",
         "images": [],
-        "explanation": "පුද්ගලයෙකු මුහුදට වැටෙනු දුටු සැනින් කළ යුතු පළමු සහ වැදගත්ම කාර්යය වන්නේ ඔහුට පාවී සිටීම සඳහා ජීවිතාරක්ෂක බෝයාවක් (lifebuoy) මුහුදට දැමීම සහ වහාම නැවේ පාලන මැදිරියට (bridge) ඒ පිළිබඳව දැනුම් දීමයි. එවිට නැව හැරවීමට (maneuvering) සහ ගලවා ගැනීමේ මෙහෙයුම් ආරම්භ කිරීමට හැකි වේ. තනිවම බේරා ගැනීමට උත්සාහ කිරීම හෝ එන්ජින් රූම් එකට පමණක් දැනුම් දීම වැනි ක්‍රියාමාර්ග ප්‍රමාදයට හේතු වන බැවින් ඒවා වැරදි වේ."
+        "explanation": "පුද්ගලයෙකු මුහුදට වැටෙනු දුටු සැනින් කළ යුතු පළමු සහ වැදගත්ම කාර්යය වන්නේ ඔහුට පාවී සිටීම සඳහා ජීවිතාරක්ෂක බෝයාවක් (lifebuoy) මුහුදට දැමීම සහ වහාම නැවේ පාලන මැදිරියට (bridge) ඒ පිළිබඳව දැනුම් දීමයි. එවිට නැව හැරවීමට (maneuvering) සහ ගලවා ගැනීමේ මෙහෙයුම් ආරම්භ කිරීමට හැකි වේ. තනිවම බේරා ගැනීමට උත්සාහ කිරීම හෝ එන්ජින් රූම් එකට පමණක් දැනුම් දීම වැනි ක්‍රියාමාර්ග ප්‍රමාදයට හේතු වන බැවින් ඒවා වැරදි වේ.",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -2317,7 +2478,8 @@
         "images": [
             "https://i.ibb.co/ns9h0cxR/nozh-1.jpg"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -2331,7 +2493,8 @@
         ],
         "correct_answer": "11 %.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -2345,7 +2508,8 @@
         ],
         "correct_answer": "Fouling of the jacket water cooler.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -2359,7 +2523,8 @@
         ],
         "correct_answer": "To remove any accumulated sludge from the water drum.",
         "images": [],
-        "explanation": "බොයිලේරුවක 'bottom-blowing' හෙවත් පහළින් ජලය පිටකිරීමේ ප්‍රධාන අරමුණ වන්නේ එහි පහළ වෝටර් ඩ්‍රම් (water drum) එකේ තැන්පත් වී ඇති මඩ, රොඩු සහ අනෙකුත් ඝන අපද්‍රව්‍ය (sludge) ඉවත් කිරීමයි. බොයිලේරු ජලයේ ඇති ඛනිජ ලවණ සහ අංශු පතුලේ තැන්පත් වීම සාමාන්‍ය දෙයකි. මේවා ඉවත් නොකළහොත් තාප හුවමාරුවට බාධා ඇති වන අතර බොයිලේරු බටවලට හානි සිදු විය හැක. පෘෂ්ඨීය පිරිසිදු කිරීම (surface blowing) මගින් තෙල් හෝ පෙණ ඉවත් කරන අතර, bottom-blowing විශේෂයෙන්ම ඝන අපද්‍රව්‍ය සඳහා වේ."
+        "explanation": "බොයිලේරුවක 'bottom-blowing' හෙවත් පහළින් ජලය පිටකිරීමේ ප්‍රධාන අරමුණ වන්නේ එහි පහළ වෝටර් ඩ්‍රම් (water drum) එකේ තැන්පත් වී ඇති මඩ, රොඩු සහ අනෙකුත් ඝන අපද්‍රව්‍ය (sludge) ඉවත් කිරීමයි. බොයිලේරු ජලයේ ඇති ඛනිජ ලවණ සහ අංශු පතුලේ තැන්පත් වීම සාමාන්‍ය දෙයකි. මේවා ඉවත් නොකළහොත් තාප හුවමාරුවට බාධා ඇති වන අතර බොයිලේරු බටවලට හානි සිදු විය හැක. පෘෂ්ඨීය පිරිසිදු කිරීම (surface blowing) මගින් තෙල් හෝ පෙණ ඉවත් කරන අතර, bottom-blowing විශේෂයෙන්ම ඝන අපද්‍රව්‍ය සඳහා වේ.",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -2373,7 +2538,8 @@
         ],
         "correct_answer": "To check condensate returns for oil.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -2387,7 +2553,8 @@
         ],
         "correct_answer": "A blocked bilge suction strainer.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -2401,7 +2568,8 @@
         ],
         "correct_answer": "They should see it on the tank top or in the bilge well during regular inspections.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -2415,7 +2583,8 @@
         ],
         "correct_answer": "Get out of the engine room as soon as possible.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -2429,7 +2598,8 @@
         ],
         "correct_answer": "Centrifugal pump.",
         "images": [],
-        "explanation": "සෙන්ට්‍රිෆියුගල් පොම්ප (Centrifugal pump) ස්වයං-ප්‍රයිමින් (self-priming) නොවන බැවින්, ඒවා ක්‍රියාත්මක කිරීමට පෙර වෙනමම ක්‍රමයකින් වාතය ඉවත් කර දියරය පිරවිය යුතුය. මෙයට හේතුව මෙම පොම්ප වලට වාතය තල්ලු කරමින් අඩු පීඩනයක් (vacuum) ඇති කිරීමේ හැකියාව අවම වීමයි. ගියර් පොම්ප හෝ පිස්ටන් පොම්ප වැනි ධන විස්ථාපන (positive displacement) පොම්ප වලට වාතය ඉවත් කර තනිවම වැඩ ආරම්භ කිරීමේ හැකියාව ඇති බැවින් ඒවාට බාහිර ප්‍රයිමින් ක්‍රම අවශ්‍ය නොවේ."
+        "explanation": "සෙන්ට්‍රිෆියුගල් පොම්ප (Centrifugal pump) ස්වයං-ප්‍රයිමින් (self-priming) නොවන බැවින්, ඒවා ක්‍රියාත්මක කිරීමට පෙර වෙනමම ක්‍රමයකින් වාතය ඉවත් කර දියරය පිරවිය යුතුය. මෙයට හේතුව මෙම පොම්ප වලට වාතය තල්ලු කරමින් අඩු පීඩනයක් (vacuum) ඇති කිරීමේ හැකියාව අවම වීමයි. ගියර් පොම්ප හෝ පිස්ටන් පොම්ප වැනි ධන විස්ථාපන (positive displacement) පොම්ප වලට වාතය ඉවත් කර තනිවම වැඩ ආරම්භ කිරීමේ හැකියාව ඇති බැවින් ඒවාට බාහිර ප්‍රයිමින් ක්‍රම අවශ්‍ය නොවේ.",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -2443,7 +2613,8 @@
         ],
         "correct_answer": "The Fitter should be asked to check the level of hydraulic oil in the header tank.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -2459,7 +2630,8 @@
         "images": [
             "https://i.ibb.co/nM2TCt8C/vydelenie.jpg"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -2473,7 +2645,8 @@
         ],
         "correct_answer": "If machinery does not function properly the duty Engineer should be informed immediately so that plans for further action can be made.",
         "images": [],
-        "explanation": "එන්ජින් රූම් එකක සේවය කරන රේටින් (Rating) කෙනෙකු යම් යන්ත්‍රයක හෝ උපාංගයක දෝෂයක් දුටු විට වහාම ඒ බව රාජකාරියේ නියුතු ඉංජිනේරුවරයාට (Duty Engineer) දැනුම් දිය යුතුය. මන්දයත්, සුළු දෝෂයක් විශාල යාන්ත්‍රික බිඳවැටීමකට හෝ නැවේ ආරක්ෂාවට තර්ජනයක් වන අනතුරකට හේතු විය හැකි බැවිනි. දෝෂය තනිවම පිළිසකර කිරීමට උත්සාහ කිරීම හෝ නොසලකා හැරීම භයානක විය හැකි අතර, ඉංජිනේරුවරයාට දැනුම් දීමෙන් පසු ඔහු විසින් නිසි පියවර ගනු ඇත."
+        "explanation": "එන්ජින් රූම් එකක සේවය කරන රේටින් (Rating) කෙනෙකු යම් යන්ත්‍රයක හෝ උපාංගයක දෝෂයක් දුටු විට වහාම ඒ බව රාජකාරියේ නියුතු ඉංජිනේරුවරයාට (Duty Engineer) දැනුම් දිය යුතුය. මන්දයත්, සුළු දෝෂයක් විශාල යාන්ත්‍රික බිඳවැටීමකට හෝ නැවේ ආරක්ෂාවට තර්ජනයක් වන අනතුරකට හේතු විය හැකි බැවිනි. දෝෂය තනිවම පිළිසකර කිරීමට උත්සාහ කිරීම හෝ නොසලකා හැරීම භයානක විය හැකි අතර, ඉංජිනේරුවරයාට දැනුම් දීමෙන් පසු ඔහු විසින් නිසි පියවර ගනු ඇත.",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -2487,7 +2660,8 @@
         ],
         "correct_answer": "Warm clothes, blankets and lifevests.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -2501,7 +2675,8 @@
         ],
         "correct_answer": "Stand on dry insulating material and pull the person away with insulating material.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -2515,7 +2690,8 @@
         ],
         "correct_answer": "At the highest point of the steam drum.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -2531,7 +2707,8 @@
         "images": [
             "https://i.ibb.co/LDymWKVD/vopros.jpg"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -2545,7 +2722,8 @@
         ],
         "correct_answer": "Call the engineer on watch.",
         "images": [],
-        "explanation": "බොයිලේරු මුර සේවයේ (boiler watch) යෙදී සිටින විට දැල්ල විසන්ධි වුවහොත් (flame failure), වහාම රාජකාරියේ නියුතු ඉංජිනේරුවරයාට (engineer on watch) දැනුම් දිය යුතුය. දැල්ල විසන්ධි වූ විට බොයිලේරුව තුළට ඉන්ධන පිරීමෙන් පිපිරීමක් සිදුවිය හැකි බැවින්, පුහුණු ඉංජිනේරුවෙකු ලවා එය පරීක්ෂා කර ගැනීම අත්‍යවශ්‍ය වේ. තනිවම එය නැවත ක්‍රියාත්මක කිරීමට උත්සාහ කිරීම බරපතල අවදානමකි."
+        "explanation": "බොයිලේරු මුර සේවයේ (boiler watch) යෙදී සිටින විට දැල්ල විසන්ධි වුවහොත් (flame failure), වහාම රාජකාරියේ නියුතු ඉංජිනේරුවරයාට (engineer on watch) දැනුම් දිය යුතුය. දැල්ල විසන්ධි වූ විට බොයිලේරුව තුළට ඉන්ධන පිරීමෙන් පිපිරීමක් සිදුවිය හැකි බැවින්, පුහුණු ඉංජිනේරුවෙකු ලවා එය පරීක්ෂා කර ගැනීම අත්‍යවශ්‍ය වේ. තනිවම එය නැවත ක්‍රියාත්මක කිරීමට උත්සාහ කිරීම බරපතල අවදානමකි.",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -2559,7 +2737,8 @@
         ],
         "correct_answer": "The speed of the shock wave created by the initial combustion.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -2573,7 +2752,8 @@
         ],
         "correct_answer": "Hot work.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -2587,7 +2767,8 @@
         ],
         "correct_answer": "To have a hot-work permit.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -2601,7 +2782,8 @@
         ],
         "correct_answer": "The confined space always has six sides.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -2617,7 +2799,8 @@
         "images": [
             "https://i.ibb.co/kgz0W7x2/simvoly.jpg"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -2633,7 +2816,8 @@
         "images": [
             "https://i.ibb.co/TxP6bKKb/nasos.jpg"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -2647,7 +2831,8 @@
         ],
         "correct_answer": "Of being deployed by one person.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -2661,7 +2846,8 @@
         ],
         "correct_answer": "It allows the wearer to jump from a height of at least 4,5 m into the water without injury and without damaging the life-jacket.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -2675,7 +2861,8 @@
         ],
         "correct_answer": "Water.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -2689,7 +2876,8 @@
         ],
         "correct_answer": "12 h.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -2703,7 +2891,8 @@
         ],
         "correct_answer": "Not less than half the total number of lifebuoys shall be provided with self-ignition lights.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -2717,7 +2906,8 @@
         ],
         "correct_answer": "The area where the welding is to take place and adjacent spaces to be cleaned and all unnecessary materials and objects to be removed.",
         "images": [],
-        "explanation": "නැවක වෙල්ඩින් කිරීමේදී ගින්නක් ඇතිවීමේ අවදානම අවම කිරීමට ගත හැකි වැදගත්ම පියවර වන්නේ එම ස්ථානය සහ ඒ අවට ඇති අනවශ්‍ය ද්‍රව්‍ය හා දැවෙන සුළු දෑ ඉවත් කර පිරිසිදු කිරීමයි. ස්පාර්ක් (Sparks) වැදීමෙන් ගිනි ගත හැකි තෙල් හෝ රෙදි කැබලි ඉවත් කිරීම මගින් ගින්නක් ඇතිවීම මූලිකවම වැළැක්විය හැක. ගිනි නිවන උපකරණ ළඟ තබා ගැනීම වැදගත් වුවද, එය ගින්නක් ඇති වූ පසු කරන දෙයකි; වැළැක්වීමේ පියවරක් ලෙස පිරිසිදු කිරීම ප්‍රමුඛ වේ."
+        "explanation": "නැවක වෙල්ඩින් කිරීමේදී ගින්නක් ඇතිවීමේ අවදානම අවම කිරීමට ගත හැකි වැදගත්ම පියවර වන්නේ එම ස්ථානය සහ ඒ අවට ඇති අනවශ්‍ය ද්‍රව්‍ය හා දැවෙන සුළු දෑ ඉවත් කර පිරිසිදු කිරීමයි. ස්පාර්ක් (Sparks) වැදීමෙන් ගිනි ගත හැකි තෙල් හෝ රෙදි කැබලි ඉවත් කිරීම මගින් ගින්නක් ඇතිවීම මූලිකවම වැළැක්විය හැක. ගිනි නිවන උපකරණ ළඟ තබා ගැනීම වැදගත් වුවද, එය ගින්නක් ඇති වූ පසු කරන දෙයකි; වැළැක්වීමේ පියවරක් ලෙස පිරිසිදු කිරීම ප්‍රමුඛ වේ.",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -2731,7 +2921,8 @@
         ],
         "correct_answer": "All alternatives.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -2745,7 +2936,8 @@
         ],
         "correct_answer": "Stand quietly in various spots around the space, listening for unusual sounds like the tick tock of a clock mechanism.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -2759,7 +2951,8 @@
         ],
         "correct_answer": "Immediately inform the Officer of the Watch.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -2773,7 +2966,8 @@
         ],
         "correct_answer": "Inform the duty engineer immediately so that the engine room can be re-entered and the valve can be shut.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -2787,7 +2981,8 @@
         ],
         "correct_answer": "Gradually tighten all of the bolts working diagonally across and around the flange.",
         "images": [],
-        "explanation": "නලයක ෆ්ලැන්ජ් (Flanges) තද කිරීමේදී විකර්ණ ලෙස (diagonally) සහ ක්‍රමයෙන් තද කිරීම අත්‍යවශ්‍ය වේ. මෙයට 'Star Pattern' ක්‍රමය ලෙසද කියනු ලැබේ. මෙලෙස සිදු කිරීමෙන් ගැස්කට් (Gasket) එක මත ඒකාකාරී පීඩනයක් ඇති වන අතර, ෆ්ලැන්ජ් එක ඇද වීම හෝ එක් පැත්තකට බර වීම වැළැක්වේ. එමගින් කාන්දුවීම් (leaks) අවම කරගත හැක. එක දිගට වටේටම තද කළහොත් එක් පැත්තක් වැඩිපුර තද වී අනෙක් පැත්තෙන් කාන්දු වීමට ඇති ඉඩකඩ වැඩිය."
+        "explanation": "නලයක ෆ්ලැන්ජ් (Flanges) තද කිරීමේදී විකර්ණ ලෙස (diagonally) සහ ක්‍රමයෙන් තද කිරීම අත්‍යවශ්‍ය වේ. මෙයට 'Star Pattern' ක්‍රමය ලෙසද කියනු ලැබේ. මෙලෙස සිදු කිරීමෙන් ගැස්කට් (Gasket) එක මත ඒකාකාරී පීඩනයක් ඇති වන අතර, ෆ්ලැන්ජ් එක ඇද වීම හෝ එක් පැත්තකට බර වීම වැළැක්වේ. එමගින් කාන්දුවීම් (leaks) අවම කරගත හැක. එක දිගට වටේටම තද කළහොත් එක් පැත්තක් වැඩිපුර තද වී අනෙක් පැත්තෙන් කාන්දු වීමට ඇති ඉඩකඩ වැඩිය.",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -2801,7 +2996,8 @@
         ],
         "correct_answer": "Steel drill bit.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -2815,7 +3011,8 @@
         ],
         "correct_answer": "Make a new gasket from old chart paper or other similar material of the same thickness as the original gasket.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -2829,7 +3026,8 @@
         ],
         "correct_answer": "Any certified strop which has a safe working load greater than the weight of the motor.",
         "images": [],
-        "explanation": "දොඹකරයක් (Crane) භාවිතයෙන් බර උපකරණයක් පහත් කිරීමේදී, ඒ සඳහා භාවිතා කරන ඕනෑම පටියක් හෝ ලණුවක් (Strop) අනිවාර්යයෙන්ම සහතික කරන ලද (Certified) එකක් විය යුතු අතර එහි ආරක්ෂිත වැඩ බර (Safe Working Load - SWL) අදාළ මෝටරයේ බරට වඩා වැඩි විය යුතුය. මෙය නාවික ඉංජිනේරු ක්ෂේත්‍රයේ ආරක්ෂාව පිළිබඳ මූලික නීතියකි. සහතික නොකළ උපකරණ භාවිතා කිරීම අනතුරුදායක වන අතර ලණුවේ දිග හෝ වර්ගය පමණක් සලකා බැලීම ප්‍රමාණවත් නොවේ."
+        "explanation": "දොඹකරයක් (Crane) භාවිතයෙන් බර උපකරණයක් පහත් කිරීමේදී, ඒ සඳහා භාවිතා කරන ඕනෑම පටියක් හෝ ලණුවක් (Strop) අනිවාර්යයෙන්ම සහතික කරන ලද (Certified) එකක් විය යුතු අතර එහි ආරක්ෂිත වැඩ බර (Safe Working Load - SWL) අදාළ මෝටරයේ බරට වඩා වැඩි විය යුතුය. මෙය නාවික ඉංජිනේරු ක්ෂේත්‍රයේ ආරක්ෂාව පිළිබඳ මූලික නීතියකි. සහතික නොකළ උපකරණ භාවිතා කිරීම අනතුරුදායක වන අතර ලණුවේ දිග හෝ වර්ගය පමණක් සලකා බැලීම ප්‍රමාණවත් නොවේ.",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -2843,7 +3041,8 @@
         ],
         "correct_answer": "Leave the tank immediately and have the atmosphere retested.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -2857,7 +3056,8 @@
         ],
         "correct_answer": "Rig chain blocks to lift the cylinder head from its cradle and then transfer it gradually over to the crane hook by working the chain blocks.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -2871,7 +3071,8 @@
         ],
         "correct_answer": "Cover all of the affected area with fibre glass tape and resin/fibre glass mixture.",
         "images": [],
-        "explanation": "මුහුදු ජල නලයක සිදුරක් ඇති වූ විට, ස්ථිර අලුත්වැඩියාවක් කරන තෙක් වඩාත් සුදුසු තාවකාලික ක්‍රමය වන්නේ රබර් කැබැල්ලක් (rubber insertion) සිදුර මත තබා ජුබිලි ක්ලිප් එකකින් (jubilee clip) තද කිරීමයි. මෙය පීඩනය යටතේ ඇති ජලය කාන්දු වීම වළක්වන ශක්තිමත් ක්‍රමයකි. නිකම්ම ටේප් ගැසීම හෝ රෙදි එතීම වැනි ක්‍රම පීඩනයට ඔරොත්තු නොදෙන බැවින් ඒවා අසාර්ථක විය හැක."
+        "explanation": "මුහුදු ජල නලයක සිදුරක් ඇති වූ විට, ස්ථිර අලුත්වැඩියාවක් කරන තෙක් වඩාත් සුදුසු තාවකාලික ක්‍රමය වන්නේ රබර් කැබැල්ලක් (rubber insertion) සිදුර මත තබා ජුබිලි ක්ලිප් එකකින් (jubilee clip) තද කිරීමයි. මෙය පීඩනය යටතේ ඇති ජලය කාන්දු වීම වළක්වන ශක්තිමත් ක්‍රමයකි. නිකම්ම ටේප් ගැසීම හෝ රෙදි එතීම වැනි ක්‍රම පීඩනයට ඔරොත්තු නොදෙන බැවින් ඒවා අසාර්ථක විය හැක.",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -2885,7 +3086,8 @@
         ],
         "correct_answer": "Hacksaw.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -2899,7 +3101,8 @@
         ],
         "correct_answer": "Completely filling the bearing with grease.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -2913,7 +3116,8 @@
         ],
         "correct_answer": "Split dies.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -2927,7 +3131,8 @@
         ],
         "correct_answer": "To secure a rope.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -2941,7 +3146,8 @@
         ],
         "correct_answer": "The wide rung on a pilot ladder that prevents it from twisting is called a «Spreader».",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -2955,7 +3161,8 @@
         ],
         "correct_answer": "If I saw a person falling overboard I would shout repeatedly, «Man overboard».",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -2969,7 +3176,8 @@
         ],
         "correct_answer": "Rinsing of the eye with water.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -2985,7 +3193,8 @@
         "images": [
             "https://i.ibb.co/0V9055p6/rana.jpg"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -2999,7 +3208,8 @@
         ],
         "correct_answer": "Open mesh grating.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -3013,7 +3223,8 @@
         ],
         "correct_answer": "Oil tankers 150 gross tons or more.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -3027,7 +3238,8 @@
         ],
         "correct_answer": "There are risks to people at height and anyone below them.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -3043,7 +3255,8 @@
         "images": [
             "https://i.ibb.co/TBfMrFmL/znak-jpg-1.jpg"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -3057,7 +3270,8 @@
         ],
         "correct_answer": "All the answers are good.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -3071,7 +3285,8 @@
         ],
         "correct_answer": "Ships Safety Management Manual (ISM Code procedures).",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -3085,7 +3300,8 @@
         ],
         "correct_answer": "Clean the strainer more frequently and clean out the bilge well at the first opportunity.",
         "images": [],
-        "explanation": "බිල්ජ් ස්ට්‍රේනරය (Bilge strainer) අවහිර වීම නිසා පොම්පයට ජලය ඇද ගැනීමට නොහැකි වීම සාමාන්‍යයෙන් සිදුවන්නේ බිල්ජ් වැල් (Bilge well) එකේ ඇති අපද්‍රව්‍ය ප්‍රමාණය වැඩි වීමෙනි. මෙහිදී නිවැරදි පිළිතුර වන්නේ ස්ට්‍රේනරය නිතර පිරිසිදු කිරීම සහ ප්‍රථම අවස්ථාවේදීම බිල්ජ් වැල් එක සම්පූර්ණයෙන්ම පිරිසිදු කිරීමයි. ස්ට්‍රේනරය ඉවත් කර පොම්පය ක්‍රියාත්මක කළහොත් අපද්‍රව්‍ය පොම්පය තුළට ගොස් එහි ඉම්පෙලරයට (Impeller) හානි විය හැකිය. එසේම පොම්පයේ වේගය අඩු කිරීමෙන් අවහිරතාවය විසඳෙන්නේ නැත. එබැවින් පද්ධතියේ ආරක්ෂාව සහ කාර්යක්ෂමතාව සඳහා ස්ට්‍රේනරය පිරිසිදු කර තැබීම අත්‍යවශ්‍ය වේ."
+        "explanation": "බිල්ජ් ස්ට්‍රේනරය (Bilge strainer) අවහිර වීම නිසා පොම්පයට ජලය ඇද ගැනීමට නොහැකි වීම සාමාන්‍යයෙන් සිදුවන්නේ බිල්ජ් වැල් (Bilge well) එකේ ඇති අපද්‍රව්‍ය ප්‍රමාණය වැඩි වීමෙනි. මෙහිදී නිවැරදි පිළිතුර වන්නේ ස්ට්‍රේනරය නිතර පිරිසිදු කිරීම සහ ප්‍රථම අවස්ථාවේදීම බිල්ජ් වැල් එක සම්පූර්ණයෙන්ම පිරිසිදු කිරීමයි. ස්ට්‍රේනරය ඉවත් කර පොම්පය ක්‍රියාත්මක කළහොත් අපද්‍රව්‍ය පොම්පය තුළට ගොස් එහි ඉම්පෙලරයට (Impeller) හානි විය හැකිය. එසේම පොම්පයේ වේගය අඩු කිරීමෙන් අවහිරතාවය විසඳෙන්නේ නැත. එබැවින් පද්ධතියේ ආරක්ෂාව සහ කාර්යක්ෂමතාව සඳහා ස්ට්‍රේනරය පිරිසිදු කර තැබීම අත්‍යවශ්‍ය වේ.",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -3099,7 +3315,8 @@
         ],
         "correct_answer": "Gradually tighten the gland follower with the pump running until leakage at the gland stops.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -3113,7 +3330,8 @@
         ],
         "correct_answer": "To safely transport goods by sea.",
         "images": [],
-        "explanation": "වෙළඳ නාවික ක්ෂේත්‍රයේ (Merchant Navy) මූලිකම සහ එකම ප්‍රධාන අරමුණ වන්නේ ලොව පුරා විවිධ රටවල් අතර භාණ්ඩ (Goods/Cargo) ආරක්ෂිතව සහ කාර්යක්ෂමව මුහුදු මාර්ගයෙන් ප්‍රවාහනය කිරීමයි. මෙය ගෝලීය වෙළඳාමේ කොන්ද පණ ගැන්වීම ලෙස සැලකේ. අනෙකුත් විකල්ප වන හමුදාමය ආරක්ෂාව සැපයීම (Navy වල කාර්යයකි) හෝ විනෝදය සඳහා යාත්‍රා කිරීම වැනි කරුණු මෙහි ප්‍රාථමික අරමුණ නොවේ. භාණ්ඩ වලට හානියක් නොවී සහ නියමිත කාලයට ගමනාන්තය වෙත ළඟා වීම මෙහිදී අතිශය වැදගත් වේ."
+        "explanation": "වෙළඳ නාවික ක්ෂේත්‍රයේ (Merchant Navy) මූලිකම සහ එකම ප්‍රධාන අරමුණ වන්නේ ලොව පුරා විවිධ රටවල් අතර භාණ්ඩ (Goods/Cargo) ආරක්ෂිතව සහ කාර්යක්ෂමව මුහුදු මාර්ගයෙන් ප්‍රවාහනය කිරීමයි. මෙය ගෝලීය වෙළඳාමේ කොන්ද පණ ගැන්වීම ලෙස සැලකේ. අනෙකුත් විකල්ප වන හමුදාමය ආරක්ෂාව සැපයීම (Navy වල කාර්යයකි) හෝ විනෝදය සඳහා යාත්‍රා කිරීම වැනි කරුණු මෙහි ප්‍රාථමික අරමුණ නොවේ. භාණ්ඩ වලට හානියක් නොවී සහ නියමිත කාලයට ගමනාන්තය වෙත ළඟා වීම මෙහිදී අතිශය වැදගත් වේ.",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -3127,7 +3345,8 @@
         ],
         "correct_answer": "The Muster List.",
         "images": [],
-        "explanation": "නෞකාවක සිටින සියලුම පුද්ගලයින් සඳහා හදිසි අවස්ථාවකදී හෝ ජීවිතාරක්ෂක බෝට්ටු පෙරහුරුවකදී (Lifeboat Drill) ඔවුන් සිටිය යුතු ස්ථානය සහ ඉටුකළ යුතු කාර්යයන් විස්තරාත්මකව දක්වා ඇති ලැයිස්තුව 'Muster List' ලෙස හැඳින්වේ. මෙය SOLAS රෙගුලාසි වලට අනුව අනිවාර්ය ලියවිල්ලක් වන අතර, එමගින් එක් එක් පුද්ගලයාගේ වගකීම් පැහැදිලිව දක්වයි. අනෙකුත් සාමාන්‍ය රාජකාරි ලැයිස්තු (Work schedule) මගින් හදිසි අවස්ථා හැසිරවීම පිළිබඳ නීතිමය උපදෙස් ලබා නොදෙන බැවින් ඒවා මෙයට අදාළ නොවේ."
+        "explanation": "නෞකාවක සිටින සියලුම පුද්ගලයින් සඳහා හදිසි අවස්ථාවකදී හෝ ජීවිතාරක්ෂක බෝට්ටු පෙරහුරුවකදී (Lifeboat Drill) ඔවුන් සිටිය යුතු ස්ථානය සහ ඉටුකළ යුතු කාර්යයන් විස්තරාත්මකව දක්වා ඇති ලැයිස්තුව 'Muster List' ලෙස හැඳින්වේ. මෙය SOLAS රෙගුලාසි වලට අනුව අනිවාර්ය ලියවිල්ලක් වන අතර, එමගින් එක් එක් පුද්ගලයාගේ වගකීම් පැහැදිලිව දක්වයි. අනෙකුත් සාමාන්‍ය රාජකාරි ලැයිස්තු (Work schedule) මගින් හදිසි අවස්ථා හැසිරවීම පිළිබඳ නීතිමය උපදෙස් ලබා නොදෙන බැවින් ඒවා මෙයට අදාළ නොවේ.",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -3141,7 +3360,8 @@
         ],
         "correct_answer": "Rig the accommodation ladder in combination with the pilot ladder means: lower the accommodation ladder and rig the pilot ladder right next to it.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -3157,7 +3377,8 @@
         "images": [
             "https://i.ibb.co/CKnyJj6v/polozhenie.jpg"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -3173,7 +3394,8 @@
         "images": [
             "https://i.ibb.co/rKqXmfQv/massazh.jpg"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -3187,7 +3409,8 @@
         ],
         "correct_answer": "It is used to record all operational and accidental garbage discharges.",
         "images": [],
-        "explanation": "කසළ වාර්තා පොත (Garbage Record Book) යනු නැවක සිදුවන සියලුම මෙහෙයුම් සහ අහඹු ලෙස සිදුවන කසළ බැහැර කිරීම් වාර්තා කර තැබිය යුතු නිල ලේඛනයකි. MARPOL Annex V රෙගුලාසිවලට අනුව මෙය අනිවාර්ය වේ. මෙහි කසළ පුළුස්සා දැමීම (Incineration), මුහුදට මුදා හැරීම හෝ ගොඩබිමට භාර දීම යන සියල්ල විස්තරාත්මකව සටහන් කළ යුතුය. මෙය ආහාර අපද්‍රව්‍ය සඳහා පමණක් සීමා වූවක් නොවන අතර, වෙරළට ආසන්නව සිටින විට පමණක් නොව මුළු ගමන පුරාම පවත්වා ගත යුතුය."
+        "explanation": "කසළ වාර්තා පොත (Garbage Record Book) යනු නැවක සිදුවන සියලුම මෙහෙයුම් සහ අහඹු ලෙස සිදුවන කසළ බැහැර කිරීම් වාර්තා කර තැබිය යුතු නිල ලේඛනයකි. MARPOL Annex V රෙගුලාසිවලට අනුව මෙය අනිවාර්ය වේ. මෙහි කසළ පුළුස්සා දැමීම (Incineration), මුහුදට මුදා හැරීම හෝ ගොඩබිමට භාර දීම යන සියල්ල විස්තරාත්මකව සටහන් කළ යුතුය. මෙය ආහාර අපද්‍රව්‍ය සඳහා පමණක් සීමා වූවක් නොවන අතර, වෙරළට ආසන්නව සිටින විට පමණක් නොව මුළු ගමන පුරාම පවත්වා ගත යුතුය.",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -3201,7 +3424,8 @@
         ],
         "correct_answer": "Prominently marked and easily accessible.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -3219,7 +3443,8 @@
         ],
         "correct_answer": "Plate.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -3233,7 +3458,8 @@
         ],
         "correct_answer": "The Second Engineer wished to make an allotment because he was married.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -3247,7 +3473,8 @@
         ],
         "correct_answer": "15 ppm.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -3261,7 +3488,8 @@
         ],
         "correct_answer": "The air start valve for the cylinder is leaking or stuck open.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -3275,7 +3503,8 @@
         ],
         "correct_answer": "Development of nitrous gases?",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -3289,7 +3518,8 @@
         ],
         "correct_answer": "The pressure drop across the filter.",
         "images": [],
-        "explanation": "ඔයිල් ෆිල්ටරයක් අවහිර වී ඇති බව හඳුනාගත හැකි නිවැරදිම දර්ශකය වන්නේ එම ෆිල්ටරයේ ඇතුල් වන පැත්ත සහ පිටවන පැත්ත අතර ඇති පීඩන වෙනසයි (pressure drop across the filter). ෆිල්ටරය තුළ අපද්‍රව්‍ය පිරී ඇති විට, තෙල් ගලා යාමට අපහසු වී ඇතුල් වන පැත්තේ පීඩනය වැඩි වේ. බොහෝ ෆිල්ටර් වල මේ සඳහා differential pressure gauge එකක් සවි කර ඇත. පීඩනය අඩුවීම පමණක් හෝ එන්ජිම නැවතීම වැනි දේ අවහිරතාවය හඳුනා ගැනීමට ප්‍රායෝගික දර්ශක නොවේ."
+        "explanation": "ඔයිල් ෆිල්ටරයක් අවහිර වී ඇති බව හඳුනාගත හැකි නිවැරදිම දර්ශකය වන්නේ එම ෆිල්ටරයේ ඇතුල් වන පැත්ත සහ පිටවන පැත්ත අතර ඇති පීඩන වෙනසයි (pressure drop across the filter). ෆිල්ටරය තුළ අපද්‍රව්‍ය පිරී ඇති විට, තෙල් ගලා යාමට අපහසු වී ඇතුල් වන පැත්තේ පීඩනය වැඩි වේ. බොහෝ ෆිල්ටර් වල මේ සඳහා differential pressure gauge එකක් සවි කර ඇත. පීඩනය අඩුවීම පමණක් හෝ එන්ජිම නැවතීම වැනි දේ අවහිරතාවය හඳුනා ගැනීමට ප්‍රායෝගික දර්ශක නොවේ.",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -3303,7 +3533,8 @@
         ],
         "correct_answer": "Operate valves slowly.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -3317,7 +3548,8 @@
         ],
         "correct_answer": "Muster List.",
         "images": [],
-        "explanation": "ජීවිතාරක්ෂක බෝට්ටු පෙරහුරුවකදී (Life boat drill) ඔබේ වගකීම් සහ රාජකාරි මොනවාදැයි දැනගත හැක්කේ 'Muster List' (පැමිණීමේ ලේඛනය) මගිනි. නැවක ප්‍රමුඛ ස්ථානවල ප්‍රදර්ශනය කර ඇති මෙම ලේඛනයේ සෑම නාවිකයෙකුගේම නම, ඔවුන් හදිසි අවස්ථාවකදී යා යුතු ස්ථානය සහ ඉටුකළ යුතු නිශ්චිත කාර්යයන් සඳහන් වේ. Safety Manuals වැනි වෙනත් ලේඛන මගින් සාමාන්‍ය උපදෙස් ලබා දුන්නද, පුද්ගලිකව තමා කළ යුතු කාර්යය නිවැරදිව දැනගත හැක්කේ Muster List එකෙනි."
+        "explanation": "ජීවිතාරක්ෂක බෝට්ටු පෙරහුරුවකදී (Life boat drill) ඔබේ වගකීම් සහ රාජකාරි මොනවාදැයි දැනගත හැක්කේ 'Muster List' (පැමිණීමේ ලේඛනය) මගිනි. නැවක ප්‍රමුඛ ස්ථානවල ප්‍රදර්ශනය කර ඇති මෙම ලේඛනයේ සෑම නාවිකයෙකුගේම නම, ඔවුන් හදිසි අවස්ථාවකදී යා යුතු ස්ථානය සහ ඉටුකළ යුතු නිශ්චිත කාර්යයන් සඳහන් වේ. Safety Manuals වැනි වෙනත් ලේඛන මගින් සාමාන්‍ය උපදෙස් ලබා දුන්නද, පුද්ගලිකව තමා කළ යුතු කාර්යය නිවැරදිව දැනගත හැක්කේ Muster List එකෙනි.",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -3331,7 +3563,8 @@
         ],
         "correct_answer": "A hydraulic hand pump is usually used to tighten G-nuts.",
         "images": [],
-        "explanation": "හයිඩ්‍රොලික් හෑන්ඩ් පොම්පයක් (Hydraulic hand pump) සාමාන්‍යයෙන් භාවිතා කරන්නේ සිලින්ඩර් හෙඩ්, මේන් බියර්රිං හෝ ටයි රොඩ් වල ඇති හයිඩ්‍රොලික් නට් (G-nuts/Hydraulic nuts) තද කිරීමට හෝ ලිහිල් කිරීමටය. මෙමගින් ඉතා ඉහළ පීඩනයක් යොදා බෝල්ට් එක ඇදීමට (tension) ලක් කරන අතර, එවිට නට් එක පහසුවෙන් කරකවා තද කළ හැකිය. සාමාන්‍ය යතුරකින් (spanner) කළ නොහැකි තරම් ඉහළ බලයක් අවශ්‍ය වන මෙම කාර්යය සඳහා හයිඩ්‍රොලික් පීඩනය අත්‍යවශ්‍ය වේ."
+        "explanation": "හයිඩ්‍රොලික් හෑන්ඩ් පොම්පයක් (Hydraulic hand pump) සාමාන්‍යයෙන් භාවිතා කරන්නේ සිලින්ඩර් හෙඩ්, මේන් බියර්රිං හෝ ටයි රොඩ් වල ඇති හයිඩ්‍රොලික් නට් (G-nuts/Hydraulic nuts) තද කිරීමට හෝ ලිහිල් කිරීමටය. මෙමගින් ඉතා ඉහළ පීඩනයක් යොදා බෝල්ට් එක ඇදීමට (tension) ලක් කරන අතර, එවිට නට් එක පහසුවෙන් කරකවා තද කළ හැකිය. සාමාන්‍ය යතුරකින් (spanner) කළ නොහැකි තරම් ඉහළ බලයක් අවශ්‍ය වන මෙම කාර්යය සඳහා හයිඩ්‍රොලික් පීඩනය අත්‍යවශ්‍ය වේ.",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -3345,7 +3578,8 @@
         ],
         "correct_answer": "If machinery does not function properly, the duty Engineer should be informed immediately so that plans for further action can be made.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -3359,7 +3593,8 @@
         ],
         "correct_answer": "Goggles and shield.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -3375,7 +3610,8 @@
         "images": [
             "https://i.ibb.co/xTK5Bbt/podem.jpg"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -3389,7 +3625,8 @@
         ],
         "correct_answer": "Leave the engine room as quickly as possible, closing all doors behind you.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -3403,7 +3640,8 @@
         ],
         "correct_answer": "Class A.",
         "images": [],
-        "explanation": "දැව, රෙදිපිළි, කඩදාසි සහ අනෙකුත් කාබනික ද්‍රව්‍ය දැවීමේදී ඇතිවන ගින්න Class A ගණයට අයත් වේ. නිවැරදි පිළිතුර Class A වන්නේ මන්දයත්, මෙම වර්ගයේ ගිනි සාමාන්‍යයෙන් අළු ඉතිරි කරන ඝන ද්‍රව්‍ය නිසා ඇතිවන බැවිනි. අනෙක් පන්ති වන Class B දියර ඉන්ධන සඳහාද, Class C වායු සඳහාද සහ Class D ලෝහ සඳහාද වෙන් කර ඇති බැවින් ඒවා මෙයට අදාළ නොවේ."
+        "explanation": "දැව, රෙදිපිළි, කඩදාසි සහ අනෙකුත් කාබනික ද්‍රව්‍ය දැවීමේදී ඇතිවන ගින්න Class A ගණයට අයත් වේ. නිවැරදි පිළිතුර Class A වන්නේ මන්දයත්, මෙම වර්ගයේ ගිනි සාමාන්‍යයෙන් අළු ඉතිරි කරන ඝන ද්‍රව්‍ය නිසා ඇතිවන බැවිනි. අනෙක් පන්ති වන Class B දියර ඉන්ධන සඳහාද, Class C වායු සඳහාද සහ Class D ලෝහ සඳහාද වෙන් කර ඇති බැවින් ඒවා මෙයට අදාළ නොවේ.",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -3417,7 +3655,8 @@
         ],
         "correct_answer": "At least once a day.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -3431,7 +3670,8 @@
         ],
         "correct_answer": "Too much combustion air.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -3445,7 +3685,8 @@
         ],
         "correct_answer": "The welder shall have been instructed in the use of the ship’s welding plant.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -3459,7 +3700,8 @@
         ],
         "correct_answer": "Combustible, oxygen, heat and chain reaction.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -3473,7 +3715,8 @@
         ],
         "correct_answer": "The minimum temperature at which a combustible gives off vapours that may burn in contact with oxygen in air, and at which combustion persists once the source of ignition has been removed.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -3487,7 +3730,8 @@
         ],
         "correct_answer": "The container, the extinguishing agent, the impulsion system.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -3501,7 +3745,8 @@
         ],
         "correct_answer": "1 200 litres.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -3517,7 +3762,8 @@
         "images": [
             "https://i.ibb.co/7Jcdf3Z4/znak-2.jpg"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -3531,7 +3777,8 @@
         ],
         "correct_answer": "The painter.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -3545,7 +3792,8 @@
         ],
         "correct_answer": "To jump from a height of 4,5 m into the water without being injured or damaging the suit.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -3559,7 +3807,8 @@
         ],
         "correct_answer": "An immersion suit or an anti-exposure suit.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -3573,7 +3822,8 @@
         ],
         "correct_answer": "Organise a lookout system. Join up with other survival craft if possible. Stream the sea anchor.",
         "images": [],
-        "explanation": "ජීවිතාරක්ෂක පහුරකට (Liferaft) නැඟුණු පසු, ඔබ ප්‍රධාන වශයෙන් කළ යුත්තේ අවට නිරීක්ෂණය සඳහා පිරිසක් යෙදවීම (Lookout), හැකි නම් අනෙකුත් පහුරු සමඟ සම්බන්ධ වීම සහ මුහුදු නැංගුරම (Sea anchor) භාවිත කිරීමයි. මුහුදු නැංගුරම මගින් පහුර ගසාගෙන යාම පාලනය කරන අතර ස්ථායීතාවය වැඩි කරයි. අනෙක් අතට, කිසිදු ඉලක්කයකින් තොරව හබල් ගෑම හෝ ආහාර වැඩිපුර පරිභෝජනය කිරීම වැනි ක්‍රියා මගින් දිවි ගලවා ගැනීමේ අවස්ථාව අඩු වේ."
+        "explanation": "ජීවිතාරක්ෂක පහුරකට (Liferaft) නැඟුණු පසු, ඔබ ප්‍රධාන වශයෙන් කළ යුත්තේ අවට නිරීක්ෂණය සඳහා පිරිසක් යෙදවීම (Lookout), හැකි නම් අනෙකුත් පහුරු සමඟ සම්බන්ධ වීම සහ මුහුදු නැංගුරම (Sea anchor) භාවිත කිරීමයි. මුහුදු නැංගුරම මගින් පහුර ගසාගෙන යාම පාලනය කරන අතර ස්ථායීතාවය වැඩි කරයි. අනෙක් අතට, කිසිදු ඉලක්කයකින් තොරව හබල් ගෑම හෝ ආහාර වැඩිපුර පරිභෝජනය කිරීම වැනි ක්‍රියා මගින් දිවි ගලවා ගැනීමේ අවස්ථාව අඩු වේ.",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -3587,7 +3837,8 @@
         ],
         "correct_answer": "The Chief Engineer.",
         "images": [],
-        "explanation": "නෞකාවේ එන්ජින් කාමරය තුළ ගින්නක් ඇති වූ විට, එහි ගිනි නිවීමේ මෙහෙයුම් වල සෘජු වගකීම සහ පාලනය දරනු ලබන්නේ ප්‍රධාන ඉංජිනේරුවරයා (Chief Engineer) විසිනි. ඔහු එන්ජින් කාමරයේ ඇති පද්ධති, ඉන්ධන පාලක සහ වාතාශ්‍රය පද්ධති පිළිබඳ මනා දැනුමක් ඇති අයෙකු බැවින් එම මෙහෙයුම මෙහෙයවීමට සුදුසුම පුද්ගලයා වේ. නෞකාවේ කපිතාන්වරයා මුළු නෞකාවේම වගකීම දරමින් පාලම් මැදිරියේ (Bridge) සිට උපදෙස් දෙන අතර, එන්ජින් කාමරයේ සටන මෙහෙයවන්නේ ප්‍රධාන ඉංජිනේරුවරයායි."
+        "explanation": "නෞකාවේ එන්ජින් කාමරය තුළ ගින්නක් ඇති වූ විට, එහි ගිනි නිවීමේ මෙහෙයුම් වල සෘජු වගකීම සහ පාලනය දරනු ලබන්නේ ප්‍රධාන ඉංජිනේරුවරයා (Chief Engineer) විසිනි. ඔහු එන්ජින් කාමරයේ ඇති පද්ධති, ඉන්ධන පාලක සහ වාතාශ්‍රය පද්ධති පිළිබඳ මනා දැනුමක් ඇති අයෙකු බැවින් එම මෙහෙයුම මෙහෙයවීමට සුදුසුම පුද්ගලයා වේ. නෞකාවේ කපිතාන්වරයා මුළු නෞකාවේම වගකීම දරමින් පාලම් මැදිරියේ (Bridge) සිට උපදෙස් දෙන අතර, එන්ජින් කාමරයේ සටන මෙහෙයවන්නේ ප්‍රධාන ඉංජිනේරුවරයායි.",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -3601,7 +3852,8 @@
         ],
         "correct_answer": "Safety shoes or safety boots.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -3615,7 +3867,8 @@
         ],
         "correct_answer": "Do not touch any suspicious packages.",
         "images": [],
-        "explanation": "බෝම්බ සෝදිසියකදී අනුගමනය කළ යුතු අතිශය වැදගත් මූලධර්මය වන්නේ කිසිදු සැකකටයුතු වස්තුවක් හෝ පාර්සලයක් අතින් නොල්ලීමයි (Do not touch). සැකකටයුතු උපකරණ ස්පර්ශ කිරීමෙන් හෝ සෙලවීමෙන් එහි ඇති පීඩනයට හෝ චලනයට සංවේදී වන යාන්ත්‍රණ සක්‍රීය වී පිපිරීමක් සිදු විය හැකිය. එබැවින් එය විවෘත කිරීමට හෝ ආරක්ෂිත ස්ථානයකට ගෙන යාමට උත්සාහ නොකර වහාම අදාළ අංශ දැනුවත් කළ යුතුය."
+        "explanation": "බෝම්බ සෝදිසියකදී අනුගමනය කළ යුතු අතිශය වැදගත් මූලධර්මය වන්නේ කිසිදු සැකකටයුතු වස්තුවක් හෝ පාර්සලයක් අතින් නොල්ලීමයි (Do not touch). සැකකටයුතු උපකරණ ස්පර්ශ කිරීමෙන් හෝ සෙලවීමෙන් එහි ඇති පීඩනයට හෝ චලනයට සංවේදී වන යාන්ත්‍රණ සක්‍රීය වී පිපිරීමක් සිදු විය හැකිය. එබැවින් එය විවෘත කිරීමට හෝ ආරක්ෂිත ස්ථානයකට ගෙන යාමට උත්සාහ නොකර වහාම අදාළ අංශ දැනුවත් කළ යුතුය.",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -3629,7 +3882,8 @@
         ],
         "correct_answer": "Confirm with their search partner that the object found is suspicious.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -3643,7 +3897,8 @@
         ],
         "correct_answer": "Use cleaning wires starting with a small gauge and gradually work up to the full size of the nozzle hole.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -3657,7 +3912,8 @@
         ],
         "correct_answer": "Contact the engine officer on watch for permission to assist and to arrange a relief for the duration of the store taking.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -3671,7 +3927,8 @@
         ],
         "correct_answer": "Call the duty engineer immediately using the engineers call alarm.",
         "images": [],
-        "explanation": "ස්වයංක්‍රීයව පාලනය වන බොයිලේරුවක පීඩනය අඩු වූ පසුවත් බර්නරය දැල්වීමට අසමත් වීම බරපතල පාලන දෝෂයකි. මෙවැනි අවස්ථාවක, පද්ධතිය තනිවම අලුත්වැඩියා කිරීමට උත්සාහ නොකර වහාම ඉංජිනේරු ඇමතුම් සීනුව (engineers call alarm) මගින් රාජකාරි ඉංජිනේරුවරයා කැඳවිය යුතුය. ඉන්ධන කාන්දුවීම් හෝ දහනය නොවන වාෂ්ප එකතු වීමෙන් සිදුවිය හැකි පිපිරීම් වැළැක්වීමට මෙම කඩිනම් ක්‍රියාමාර්ගය අවශ්‍ය වේ."
+        "explanation": "ස්වයංක්‍රීයව පාලනය වන බොයිලේරුවක පීඩනය අඩු වූ පසුවත් බර්නරය දැල්වීමට අසමත් වීම බරපතල පාලන දෝෂයකි. මෙවැනි අවස්ථාවක, පද්ධතිය තනිවම අලුත්වැඩියා කිරීමට උත්සාහ නොකර වහාම ඉංජිනේරු ඇමතුම් සීනුව (engineers call alarm) මගින් රාජකාරි ඉංජිනේරුවරයා කැඳවිය යුතුය. ඉන්ධන කාන්දුවීම් හෝ දහනය නොවන වාෂ්ප එකතු වීමෙන් සිදුවිය හැකි පිපිරීම් වැළැක්වීමට මෙම කඩිනම් ක්‍රියාමාර්ගය අවශ්‍ය වේ.",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -3685,7 +3942,8 @@
         ],
         "correct_answer": "Inform the engineer in case it has been left inside the compressor when it was closed up.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -3699,7 +3957,8 @@
         ],
         "correct_answer": "Bend the inner tab up against one flat of the nut and the other tab down over the edge of the component.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -3713,7 +3972,8 @@
         ],
         "correct_answer": "Pirates are persons who attempt to board and take over a ship at sea.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -3727,7 +3987,8 @@
         ],
         "correct_answer": "A deck crane using grabs.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -3741,7 +4002,8 @@
         ],
         "correct_answer": "Let go the port anchor means: open the port windlass brake.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -3757,7 +4019,8 @@
         "images": [
             "https://i.ibb.co/MyG7xxG9/pozitsiya.jpg"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -3771,7 +4034,8 @@
         ],
         "correct_answer": "A wide wooden board may be used.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -3785,7 +4049,8 @@
         ],
         "correct_answer": "Inspect and detain ship that are not meeting the requirements until they are able to demonstrate compliance with the regulations.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -3799,7 +4064,8 @@
         ],
         "correct_answer": "In refrigerated systems.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -3815,7 +4081,8 @@
         "images": [
             "https://i.ibb.co/mFvTFvnB/illyustratsiya.jpg"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -3829,7 +4096,8 @@
         ],
         "correct_answer": "A central cooling system.",
         "images": [],
-        "explanation": "එන්ජින් කාමරයේ ඇති සියලුම යන්ත්‍රෝපකරණවල සිසිලන අවශ්‍යතා සපුරාලීම සඳහා, මුහුදු ජලයෙන් සිසිල් කරන එක් පොදු මිරිදිය සිසිලනකාරකයක් (common freshwater cooler) සහිත පද්ධතිය 'මධ්‍යම සිසිලන පද්ධතිය' (Central Cooling System) ලෙස හැඳින්වේ. මෙහිදී මිරිදිය පද්ධතිය කොටස් දෙකකට (High Temperature සහ Low Temperature) බෙදා ඇති අතර, මුහුදු ජලය ස්පර්ශ වන්නේ මධ්‍යම තාප හුවමාරුකයට (Central Heat Exchanger) පමණි. මෙය සිදු කරන්නේ මුහුදු ජලය නිසා යන්ත්‍රෝපකරණවල ඇතිවිය හැකි විඛාදනය (corrosion) අවම කිරීමටයි. 'Parallel cooling' හෝ 'Series cooling' යනු සිසිලනකාරක සම්බන්ධ කරන ආකාරයන් මිස සම්පූර්ණ පද්ධතිය විස්තර කරන පද නොවේ. 'Open cooling' පද්ධතියකදී මුහුදු ජලය සෘජුවම එන්ජිම හරහා ගමන් කරයි, එය නවීන නැව්වල භාවිතා නොවේ."
+        "explanation": "එන්ජින් කාමරයේ ඇති සියලුම යන්ත්‍රෝපකරණවල සිසිලන අවශ්‍යතා සපුරාලීම සඳහා, මුහුදු ජලයෙන් සිසිල් කරන එක් පොදු මිරිදිය සිසිලනකාරකයක් (common freshwater cooler) සහිත පද්ධතිය 'මධ්‍යම සිසිලන පද්ධතිය' (Central Cooling System) ලෙස හැඳින්වේ. මෙහිදී මිරිදිය පද්ධතිය කොටස් දෙකකට (High Temperature සහ Low Temperature) බෙදා ඇති අතර, මුහුදු ජලය ස්පර්ශ වන්නේ මධ්‍යම තාප හුවමාරුකයට (Central Heat Exchanger) පමණි. මෙය සිදු කරන්නේ මුහුදු ජලය නිසා යන්ත්‍රෝපකරණවල ඇතිවිය හැකි විඛාදනය (corrosion) අවම කිරීමටයි. 'Parallel cooling' හෝ 'Series cooling' යනු සිසිලනකාරක සම්බන්ධ කරන ආකාරයන් මිස සම්පූර්ණ පද්ධතිය විස්තර කරන පද නොවේ. 'Open cooling' පද්ධතියකදී මුහුදු ජලය සෘජුවම එන්ජිම හරහා ගමන් කරයි, එය නවීන නැව්වල භාවිතා නොවේ.",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -3845,7 +4113,8 @@
         "images": [
             "https://i.ibb.co/k6gMyj2T/kleshhi.jpg"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -3859,7 +4128,8 @@
         ],
         "correct_answer": "Lubricating oil pressure too low.",
         "images": [],
-        "explanation": "ඩීසල් එන්ජිමක බෙයාරිං (Bearings) රත් වීමට ප්‍රධානතම හේතුවක් වන්නේ ලිහිසි තෙල්වල පීඩනය (Lubricating oil pressure) ඉතා අඩු වීමයි. ලිහිසි තෙල් මගින් බෙයාරිං මතුපිටවල් අතර ඝර්ෂණය අවම කරන අතර එමගින් ජනනය වන තාපය ඉවත් කරයි. පීඩනය අඩු වූ විට ප්‍රමාණවත් තෙල් පටලයක් නිර්මාණය නොවන බැවින් ඝර්ෂණය වැඩි වී බෙයාරිං රත් වේ. තෙල්වල උෂ්ණත්වය අඩු වීම හෝ ප්‍රමාණය වැඩි වීම මෙයට හේතුවක් නොවේ."
+        "explanation": "ඩීසල් එන්ජිමක බෙයාරිං (Bearings) රත් වීමට ප්‍රධානතම හේතුවක් වන්නේ ලිහිසි තෙල්වල පීඩනය (Lubricating oil pressure) ඉතා අඩු වීමයි. ලිහිසි තෙල් මගින් බෙයාරිං මතුපිටවල් අතර ඝර්ෂණය අවම කරන අතර එමගින් ජනනය වන තාපය ඉවත් කරයි. පීඩනය අඩු වූ විට ප්‍රමාණවත් තෙල් පටලයක් නිර්මාණය නොවන බැවින් ඝර්ෂණය වැඩි වී බෙයාරිං රත් වේ. තෙල්වල උෂ්ණත්වය අඩු වීම හෝ ප්‍රමාණය වැඩි වීම මෙයට හේතුවක් නොවේ.",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -3873,7 +4143,8 @@
         ],
         "correct_answer": "Notify the duty engineer and try and find the cause of the leakage so that it can be stopped and the oil cleaned up.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -3887,7 +4158,8 @@
         ],
         "correct_answer": "Either of the mentioned alternatives.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -3901,7 +4173,8 @@
         ],
         "correct_answer": "Muster List.",
         "images": [],
-        "explanation": "ජීවිතාරක්ෂක බෝට්ටු පෙරහුරුවකදී (Life boat drill) ඔබේ වගකීම් සහ රාජකාරි මොනවාදැයි දැනගත හැක්කේ 'Muster List' (පැමිණීමේ ලේඛනය) මගිනි. නැවක ප්‍රමුඛ ස්ථානවල ප්‍රදර්ශනය කර ඇති මෙම ලේඛනයේ සෑම නාවිකයෙකුගේම නම, ඔවුන් හදිසි අවස්ථාවකදී යා යුතු ස්ථානය සහ ඉටුකළ යුතු නිශ්චිත කාර්යයන් සඳහන් වේ. Safety Manuals වැනි වෙනත් ලේඛන මගින් සාමාන්‍ය උපදෙස් ලබා දුන්නද, පුද්ගලිකව තමා කළ යුතු කාර්යය නිවැරදිව දැනගත හැක්කේ Muster List එකෙනි."
+        "explanation": "ජීවිතාරක්ෂක බෝට්ටු පෙරහුරුවකදී (Life boat drill) ඔබේ වගකීම් සහ රාජකාරි මොනවාදැයි දැනගත හැක්කේ 'Muster List' (පැමිණීමේ ලේඛනය) මගිනි. නැවක ප්‍රමුඛ ස්ථානවල ප්‍රදර්ශනය කර ඇති මෙම ලේඛනයේ සෑම නාවිකයෙකුගේම නම, ඔවුන් හදිසි අවස්ථාවකදී යා යුතු ස්ථානය සහ ඉටුකළ යුතු නිශ්චිත කාර්යයන් සඳහන් වේ. Safety Manuals වැනි වෙනත් ලේඛන මගින් සාමාන්‍ය උපදෙස් ලබා දුන්නද, පුද්ගලිකව තමා කළ යුතු කාර්යය නිවැරදිව දැනගත හැක්කේ Muster List එකෙනි.",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -3915,7 +4188,8 @@
         ],
         "correct_answer": "To protect against corrosion.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -3929,7 +4203,8 @@
         ],
         "correct_answer": "The ship’s safety plan.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -3945,7 +4220,8 @@
         "images": [
             "https://i.ibb.co/kVnLbG8s/chertezh.jpg"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -3959,7 +4235,8 @@
         ],
         "correct_answer": "Engine room ratings forming part of an engine room watch should assist in efficient and safe watch-keeping routines.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -3973,7 +4250,8 @@
         ],
         "correct_answer": "By smothering and also by providing some cooling.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -3987,7 +4265,8 @@
         ],
         "correct_answer": "All the mentioned alternatives.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -4001,7 +4280,8 @@
         ],
         "correct_answer": "In a continuous way so that the powder spray is in the same direction as the one of the flame.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -4017,7 +4297,8 @@
         "images": [
             "https://i.ibb.co/1xkvyfH/telef-jpg-1.jpg"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -4031,7 +4312,8 @@
         ],
         "correct_answer": "A light plus a whistle.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -4045,7 +4327,8 @@
         ],
         "correct_answer": "1,5 °C per hour after the first 0,5 h immersion in calm water at a temperature of 5 °C.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -4059,7 +4342,8 @@
         ],
         "correct_answer": "10 % of the number of persons the liferaft is designed to carry, or two, whichever is more.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -4073,7 +4357,8 @@
         ],
         "correct_answer": "4.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -4087,7 +4372,8 @@
         ],
         "correct_answer": "The «Abandon ship» signal is not specified, only the general emergency alarm signal is stated.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -4103,7 +4389,8 @@
         "images": [
             "https://i.ibb.co/bMHfG97w/simvol-2.jpg"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -4117,7 +4404,8 @@
         ],
         "correct_answer": "To make sure the job is done under controlled conditions.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -4131,7 +4419,8 @@
         ],
         "correct_answer": "«The parcel is addressed to no one in particular, arrives unexpectedly and seems heavy for its size.»",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -4145,7 +4434,8 @@
         ],
         "correct_answer": "Pallet scanner.",
         "images": [],
-        "explanation": "නැවට ගෙන එනු ලබන විශාල භාණ්ඩ තොග (stores) හෝ පැලට් (pallets) ඇතුළත සඟවා ඇති මත්ද්‍රව්‍ය වැනි නීතිවිරෝධී ද්‍රව්‍ය හඳුනා ගැනීමට 'Pallet scanner' එකක් භාවිතා කරයි. මෙය X-ray තාක්ෂණය මගින් ක්‍රියා කරන අතර, භාණ්ඩ පාර්සල් එකින් එක විවෘත නොකරම ඒවා ඇතුළත ඇති දේ නිරීක්ෂණය කිරීමට ආරක්ෂක නිලධාරීන්ට හැකියාව ලබා දෙයි. අනෙකුත් අතේ ගෙන යා හැකි ස්කෑනර් වලට වඩා මෙය විශාල භාණ්ඩ පරීක්ෂා කිරීමට කාර්යක්ෂම වේ."
+        "explanation": "නැවට ගෙන එනු ලබන විශාල භාණ්ඩ තොග (stores) හෝ පැලට් (pallets) ඇතුළත සඟවා ඇති මත්ද්‍රව්‍ය වැනි නීතිවිරෝධී ද්‍රව්‍ය හඳුනා ගැනීමට 'Pallet scanner' එකක් භාවිතා කරයි. මෙය X-ray තාක්ෂණය මගින් ක්‍රියා කරන අතර, භාණ්ඩ පාර්සල් එකින් එක විවෘත නොකරම ඒවා ඇතුළත ඇති දේ නිරීක්ෂණය කිරීමට ආරක්ෂක නිලධාරීන්ට හැකියාව ලබා දෙයි. අනෙකුත් අතේ ගෙන යා හැකි ස්කෑනර් වලට වඩා මෙය විශාල භාණ්ඩ පරීක්ෂා කිරීමට කාර්යක්ෂම වේ.",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -4159,7 +4449,8 @@
         ],
         "correct_answer": "Insufficient combustion air.",
         "images": [],
-        "explanation": "බොයිලේරු දුම් කවුළුවෙන් කළු දුම පිටවීමට ප්‍රධානතම හේතුව වන්නේ දහනය සඳහා ප්‍රමාණවත් තරම් වාතය (Insufficient combustion air) නොලැබීමයි. මෙහිදී ඉන්ධන සම්පූර්ණයෙන් දහනය නොවීම නිසා නොදැවුණු කාබන් අංශු කළු දුම ලෙස පිටවේ. වාතය වැඩිපුර තිබේ නම් සුදු පැහැති දුමක් පිටවිය හැකි අතර, ඉන්ධනවල ජලය තිබීමෙන් ද සුදු දුම හෝ වාෂ්ප ඇති විය හැක. එබැවින් කළු දුම සඳහා ප්‍රධාන හේතුව වාතය මදි වීමයි."
+        "explanation": "බොයිලේරු දුම් කවුළුවෙන් කළු දුම පිටවීමට ප්‍රධානතම හේතුව වන්නේ දහනය සඳහා ප්‍රමාණවත් තරම් වාතය (Insufficient combustion air) නොලැබීමයි. මෙහිදී ඉන්ධන සම්පූර්ණයෙන් දහනය නොවීම නිසා නොදැවුණු කාබන් අංශු කළු දුම ලෙස පිටවේ. වාතය වැඩිපුර තිබේ නම් සුදු පැහැති දුමක් පිටවිය හැකි අතර, ඉන්ධනවල ජලය තිබීමෙන් ද සුදු දුම හෝ වාෂ්ප ඇති විය හැක. එබැවින් කළු දුම සඳහා ප්‍රධාන හේතුව වාතය මදි වීමයි.",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -4173,7 +4464,8 @@
         ],
         "correct_answer": "Coat the threads in graphite based grease.",
         "images": [],
-        "explanation": "වාෂ්ප නල (steam lines) අධික උෂ්ණත්වයකට ලක්වන බැවින්, එහි බෝල්ට් ඇණ කාලයත් සමඟ තද වී (seizing) ගැලවීමට නොහැකි තත්ත්වයට පත්විය හැකිය. මෙය වැළැක්වීම සඳහා බෝල්ට් ඇණ නැවත සවිකිරීමේදී ඒවායේ නූල් මත ග්‍රැෆයිට් සහිත ග්‍රීස් (graphite based grease) ආලේප කළ යුතුය. සාමාන්‍ය ග්‍රීස් අධික රශ්මියේදී දිය වී යන නමුත් ග්‍රැෆයිට් ස්ථරය ඉතිරි වී මීළඟ වතාවේදී පහසුවෙන් බෝල්ට් එක ගැලවීමට උදවු වේ."
+        "explanation": "වාෂ්ප නල (steam lines) අධික උෂ්ණත්වයකට ලක්වන බැවින්, එහි බෝල්ට් ඇණ කාලයත් සමඟ තද වී (seizing) ගැලවීමට නොහැකි තත්ත්වයට පත්විය හැකිය. මෙය වැළැක්වීම සඳහා බෝල්ට් ඇණ නැවත සවිකිරීමේදී ඒවායේ නූල් මත ග්‍රැෆයිට් සහිත ග්‍රීස් (graphite based grease) ආලේප කළ යුතුය. සාමාන්‍ය ග්‍රීස් අධික රශ්මියේදී දිය වී යන නමුත් ග්‍රැෆයිට් ස්ථරය ඉතිරි වී මීළඟ වතාවේදී පහසුවෙන් බෝල්ට් එක ගැලවීමට උදවු වේ.",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -4187,7 +4479,8 @@
         ],
         "correct_answer": "Blank off the leaking tube at both ends using suitably tapered brass plugs.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -4203,7 +4496,8 @@
         "images": [
             "https://i.ibb.co/My1p5T3L/pompa-jpg-1.jpg"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -4217,7 +4511,8 @@
         ],
         "correct_answer": "It will minimise the risk of slipping off the nut or damaging the nuts.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -4233,7 +4528,8 @@
         "images": [
             "https://i.ibb.co/PZmczvQg/D.jpg"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -4249,7 +4545,8 @@
         "images": [
             "https://i.ibb.co/hJwwz8RP/A.jpg"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -4265,7 +4562,8 @@
         "images": [
             "https://i.ibb.co/ynMFRVzV/S.jpg"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -4279,7 +4577,8 @@
         ],
         "correct_answer": "Secure the tug means: to make fast the tug.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -4293,7 +4592,8 @@
         ],
         "correct_answer": "Fractured spine.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -4307,7 +4607,8 @@
         ],
         "correct_answer": "Pinch soft part of the nose for 10 minutes while keeping the head forward over a basin.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -4321,7 +4622,8 @@
         ],
         "correct_answer": "Prior to cargo transfer.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -4337,7 +4639,8 @@
         "images": [
             "https://i.ibb.co/zVL78R0s/plastina-jpg-1.jpg"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -4351,7 +4654,8 @@
         ],
         "correct_answer": "When you are working with power tools or chemicals.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -4365,7 +4669,8 @@
         ],
         "correct_answer": "Prime the pump with seawater from the main inlet valve.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -4379,7 +4684,8 @@
         ],
         "correct_answer": "Close the valves on both the Acetylene and the Oxygen bottles.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -4395,7 +4701,8 @@
         "images": [
             "https://i.ibb.co/8g7BLzYK/klapan-jpg-1.jpg"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -4411,7 +4718,8 @@
         "images": [
             "https://i.ibb.co/Kcjc96k1/klyuch-jpg-11.jpg"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -4427,7 +4735,8 @@
         "images": [
             "https://i.ibb.co/V09XzZ26/gajka.jpg"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -4441,7 +4750,8 @@
         ],
         "correct_answer": "«Stand By» means that the engineers should be ready to respond to bridge requirements.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -4455,7 +4765,8 @@
         ],
         "correct_answer": "Go to your lifeboat station.",
         "images": [],
-        "explanation": "නැවක සයිරන් එකෙන් සහ සීනු මගින් කෙටි නාද හතක් සහ දිගු නාද එකක් නිකුත් කිරීමෙන් සංඥා කරන්නේ පොදු හදිසි අවස්ථාවකි (General Emergency Alarm). මෙවැනි අවස්ථාවකදී ඔබ වහාම ඔබගේ Muster station එකට හෝ Lifeboat station එකට වාර්තා කළ යුතුය. මෙය නැව අත්හැර යාමට දෙන නියෝගයක් නොවන අතර, එන්ජින් රූම් එකට යාම හෝ පාලම් පුවරුවට (bridge) යාම මෙවැනි අවස්ථාවක නියමිත පිළිවෙත නොවේ."
+        "explanation": "නැවක සයිරන් එකෙන් සහ සීනු මගින් කෙටි නාද හතක් සහ දිගු නාද එකක් නිකුත් කිරීමෙන් සංඥා කරන්නේ පොදු හදිසි අවස්ථාවකි (General Emergency Alarm). මෙවැනි අවස්ථාවකදී ඔබ වහාම ඔබගේ Muster station එකට හෝ Lifeboat station එකට වාර්තා කළ යුතුය. මෙය නැව අත්හැර යාමට දෙන නියෝගයක් නොවන අතර, එන්ජින් රූම් එකට යාම හෝ පාලම් පුවරුවට (bridge) යාම මෙවැනි අවස්ථාවක නියමිත පිළිවෙත නොවේ.",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -4471,7 +4782,8 @@
         "images": [
             "https://i.ibb.co/ym7gP2b6/kostyum.jpg"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -4485,7 +4797,8 @@
         ],
         "correct_answer": "Use a rope ladder close to the raft to climb down and board.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -4499,7 +4812,8 @@
         ],
         "correct_answer": "At least once a day.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -4513,7 +4827,8 @@
         ],
         "correct_answer": "A carbon dioxide (CO2) system.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -4527,7 +4842,8 @@
         ],
         "correct_answer": "A liquid that mixes with water.",
         "images": [],
-        "explanation": "Polar (ධ්‍රැවීය) දියරයක් යනු ජලය සමඟ මිශ්‍ර විය හැකි ද්‍රව්‍යයකි (උදාහරණ: මධ්‍යසාර හෝ ඇසිටෝන්). සාමාන්‍යයෙන් තෙල් වැනි ද්‍රව්‍ය ජලය සමඟ මිශ්‍ර නොවන (Non-polar) නමුත්, පෝලර් දියර ජලය ආකර්ෂණය කරයි. ගිනි නිවීමේදී මෙය ඉතා වැදගත් වේ, මන්ද පෝලර් දියර මගින් සාමාන්‍ය ෆෝම් (foam) ස්ථරය දිය කර දමන බැවින් ඒ සඳහා විශේෂිත 'Alcohol Resistant Foam' භාවිතා කළ යුතුය."
+        "explanation": "Polar (ධ්‍රැවීය) දියරයක් යනු ජලය සමඟ මිශ්‍ර විය හැකි ද්‍රව්‍යයකි (උදාහරණ: මධ්‍යසාර හෝ ඇසිටෝන්). සාමාන්‍යයෙන් තෙල් වැනි ද්‍රව්‍ය ජලය සමඟ මිශ්‍ර නොවන (Non-polar) නමුත්, පෝලර් දියර ජලය ආකර්ෂණය කරයි. ගිනි නිවීමේදී මෙය ඉතා වැදගත් වේ, මන්ද පෝලර් දියර මගින් සාමාන්‍ය ෆෝම් (foam) ස්ථරය දිය කර දමන බැවින් ඒ සඳහා විශේෂිත 'Alcohol Resistant Foam' භාවිතා කළ යුතුය.",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -4541,7 +4857,8 @@
         ],
         "correct_answer": "All the answers are correct.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -4555,7 +4872,8 @@
         ],
         "correct_answer": "Remove the cartridge and weigh it to check that it has the full weight stamped on it.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -4569,7 +4887,8 @@
         ],
         "correct_answer": "The weak link.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -4583,7 +4902,8 @@
         ],
         "correct_answer": "To swim a short distance through the water and board a survival craft.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -4597,7 +4917,8 @@
         ],
         "correct_answer": "It lessens the survivor’s heat escape.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -4611,7 +4932,8 @@
         ],
         "correct_answer": "Put on a life jacket.",
         "images": [],
-        "explanation": "නැව අත්හැර යාමේ පෙරහුරුවකදී (abandon ship drill) හෝ හදිසි අවස්ථාවකදී රැස්වන ස්ථානයට (muster station) පැමිණි වහාම කළ යුතු පළමු සහ වැදගත්ම කාර්යය වන්නේ ජීවිතාරක්ෂක කබාය (life jacket) නිවැරදිව පැළඳ ගැනීමයි. මෙය පුද්ගලික ආරක්ෂාව තහවුරු කරන මූලික පියවරයි. අනෙකුත් කාර්යයන් වන නාමලේඛනය පරීක්ෂා කිරීම හෝ බෝට්ටුව සූදානම් කිරීම සිදු කළ යුත්තේ තමන්ගේ ආරක්ෂාව තහවුරු කර ගැනීමෙන් පසුවය. ජීවිතාරක්ෂක කබාය අතේ තබාගෙන සිටීම හෝ පසුව පැළඳීමට බලා සිටීම වැරදිය."
+        "explanation": "නැව අත්හැර යාමේ පෙරහුරුවකදී (abandon ship drill) හෝ හදිසි අවස්ථාවකදී රැස්වන ස්ථානයට (muster station) පැමිණි වහාම කළ යුතු පළමු සහ වැදගත්ම කාර්යය වන්නේ ජීවිතාරක්ෂක කබාය (life jacket) නිවැරදිව පැළඳ ගැනීමයි. මෙය පුද්ගලික ආරක්ෂාව තහවුරු කරන මූලික පියවරයි. අනෙකුත් කාර්යයන් වන නාමලේඛනය පරීක්ෂා කිරීම හෝ බෝට්ටුව සූදානම් කිරීම සිදු කළ යුත්තේ තමන්ගේ ආරක්ෂාව තහවුරු කර ගැනීමෙන් පසුවය. ජීවිතාරක්ෂක කබාය අතේ තබාගෙන සිටීම හෝ පසුව පැළඳීමට බලා සිටීම වැරදිය.",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -4625,7 +4947,8 @@
         ],
         "correct_answer": "He should take the padlock inside the room.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -4639,7 +4962,8 @@
         ],
         "correct_answer": "A homemade bomb.",
         "images": [],
-        "explanation": "IED යනු 'Improvised Explosive Device' යන්නෙහි කෙටි යෙදුමයි. මෙහි සරල අර්ථය වන්නේ 'අතින් සාදන ලද බෝම්බයක්' (homemade bomb) යන්නයි. මෙය හමුදාමය ප්‍රමිතියකට නිපදවන ලද නිල අවියක් නොව, කිසියම් කඩාකප්පල්කාරී ක්‍රියාවක් සඳහා පුද්ගලයන් විසින් සකස් කරන ලද පුපුරණ ද්‍රව්‍යයකි. එබැවින් අනෙකුත් ආරක්ෂක උපකරණ හෝ ස්වාභාවික ද්‍රව්‍ය පිළිබඳ විකල්ප මෙයට අදාළ නොවේ."
+        "explanation": "IED යනු 'Improvised Explosive Device' යන්නෙහි කෙටි යෙදුමයි. මෙහි සරල අර්ථය වන්නේ 'අතින් සාදන ලද බෝම්බයක්' (homemade bomb) යන්නයි. මෙය හමුදාමය ප්‍රමිතියකට නිපදවන ලද නිල අවියක් නොව, කිසියම් කඩාකප්පල්කාරී ක්‍රියාවක් සඳහා පුද්ගලයන් විසින් සකස් කරන ලද පුපුරණ ද්‍රව්‍යයකි. එබැවින් අනෙකුත් ආරක්ෂක උපකරණ හෝ ස්වාභාවික ද්‍රව්‍ය පිළිබඳ විකල්ප මෙයට අදාළ නොවේ.",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -4653,7 +4977,8 @@
         ],
         "correct_answer": "Use cleaning wires starting with a small gauge and gradually work up to the full size of the nozzle hole.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -4667,7 +4992,8 @@
         ],
         "correct_answer": "Contact the engineer officer of the watch and inform him immediately.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -4681,7 +5007,8 @@
         ],
         "correct_answer": "They should be placed in a clean box or tin and covered over.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -4695,7 +5022,8 @@
         ],
         "correct_answer": "Label the damaged extension as unfit for use and return it to the store for testing and get a replacement extension.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -4709,7 +5037,8 @@
         ],
         "correct_answer": "The drill should be a smaller size than the diameter of the tap.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -4723,7 +5052,8 @@
         ],
         "correct_answer": "A set of feeler gauges.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -4737,7 +5067,8 @@
         ],
         "correct_answer": "A reamer.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -4753,7 +5084,8 @@
         "images": [
             "https://i.ibb.co/Pv87pQ9s/tochka-a.jpg"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -4769,7 +5101,8 @@
         "images": [
             "https://i.ibb.co/fdL0Gxfd/tochka-s.jpg"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -4783,7 +5116,8 @@
         ],
         "correct_answer": "Ready for immediate use.",
         "images": [],
-        "explanation": "නැවක භාණ්ඩ පැටවීමේදී හෝ බංකර් (Bunker) කිරීමේදී, තෙල් කාන්දුවක් සිදුවුවහොත් එය වහාම පාලනය කිරීම සඳහා SOPEP (Shipboard Oil Pollution Emergency Plan) උපකරණ සූදානම් කර තිබිය යුතුය. 'Ready for immediate use' යන්නෙන් අදහස් කරන්නේ කාන්දුවක් දුටු සැණින් ක්‍රියාත්මක වීමට අවශ්‍ය sawdust, සොරබන්ට් පෑඩ් (sorbent pads) සහ කොසු වැනි දෑ ඩෙක් එක මත සූදානම්ව තිබිය යුතු බවයි. ඒවා ගබඩාවක (locker) පූට්ටු කර තිබීමෙන් හදිසි අවස්ථාවකදී කාලය අපතේ යන අතර පරිසර දූෂණය වැඩි විය හැකිය. එසේම භාවිතයෙන් පසු පිරිසිදු කිරීමට නොව, වැළැක්වීමට මෙය වැදගත් වේ."
+        "explanation": "නැවක භාණ්ඩ පැටවීමේදී හෝ බංකර් (Bunker) කිරීමේදී, තෙල් කාන්දුවක් සිදුවුවහොත් එය වහාම පාලනය කිරීම සඳහා SOPEP (Shipboard Oil Pollution Emergency Plan) උපකරණ සූදානම් කර තිබිය යුතුය. 'Ready for immediate use' යන්නෙන් අදහස් කරන්නේ කාන්දුවක් දුටු සැණින් ක්‍රියාත්මක වීමට අවශ්‍ය sawdust, සොරබන්ට් පෑඩ් (sorbent pads) සහ කොසු වැනි දෑ ඩෙක් එක මත සූදානම්ව තිබිය යුතු බවයි. ඒවා ගබඩාවක (locker) පූට්ටු කර තිබීමෙන් හදිසි අවස්ථාවකදී කාලය අපතේ යන අතර පරිසර දූෂණය වැඩි විය හැකිය. එසේම භාවිතයෙන් පසු පිරිසිදු කිරීමට නොව, වැළැක්වීමට මෙය වැදගත් වේ.",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -4797,7 +5131,8 @@
         ],
         "correct_answer": "Plugged to prevent spilled oil flowing overboard.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -4811,7 +5146,8 @@
         ],
         "correct_answer": "No it is not – two hands should always be used to climb the ladder.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -4825,7 +5161,8 @@
         ],
         "correct_answer": "To transfer heat from one fluid to another.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -4839,7 +5176,8 @@
         ],
         "correct_answer": "To all seafarers.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -4853,7 +5191,8 @@
         ],
         "correct_answer": "Lack of oxygen.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -4867,7 +5206,8 @@
         ],
         "correct_answer": "Development of nitrous gases.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -4881,7 +5221,8 @@
         ],
         "correct_answer": "Permission must be obtained from Chief Officer.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -4895,7 +5236,8 @@
         ],
         "correct_answer": "The normal temperature of the lub oil after the cooler is approximately 45 °C.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -4909,7 +5251,8 @@
         ],
         "correct_answer": "Feed-check valve.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -4923,7 +5266,8 @@
         ],
         "correct_answer": "The Cadet will expect to find machinery spare parts in the engine room store.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -4939,7 +5283,8 @@
         "images": [
             "https://i.ibb.co/YBprgWF9/simvol-6.jpg"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -4953,7 +5298,8 @@
         ],
         "correct_answer": "Near to the deck, crawl out keeping your face as near to the deck as possible.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -4967,7 +5313,8 @@
         ],
         "correct_answer": "At least once a day.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -4981,7 +5328,8 @@
         ],
         "correct_answer": "The furnace purge sequence is completed.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -4995,7 +5343,8 @@
         ],
         "correct_answer": "Combustion suppression.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -5009,7 +5358,8 @@
         ],
         "correct_answer": "Gases, flames, smoke and heat.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -5023,7 +5373,8 @@
         ],
         "correct_answer": "Conduction, convection and radiation.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -5037,7 +5388,8 @@
         ],
         "correct_answer": "5 mg/m3.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -5051,7 +5403,8 @@
         ],
         "correct_answer": "The person who is designated in the muster list.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -5065,7 +5418,8 @@
         ],
         "correct_answer": "One for each person on board who is not provided with an immersion suit.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -5079,7 +5433,8 @@
         ],
         "correct_answer": "2 h, 2 candela (about 1,7 mile range at normal meteorological sight).",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -5093,7 +5448,8 @@
         ],
         "correct_answer": "7,5 kN.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -5107,7 +5463,8 @@
         ],
         "correct_answer": "Security Level 3.",
         "images": [],
-        "explanation": "ISPS (International Ship and Port Facility Security) කේතය යටතේ ආරක්ෂක මට්ටම් තුනක් අර්ථ දක්වා ඇත. මෙයින් 'Security Level 3' යනු ඉහළම ආරක්ෂක අනතුරු ඇඟවීමේ මට්ටමයි. මෙම මට්ටම ප්‍රකාශයට පත් කරනු ලබන්නේ කිසියම් ආරක්ෂක තර්ජනයක් සිදුවීමට ආසන්න බවට හෝ සිදුවෙමින් පවතින බවට තහවුරු වූ තොරතුරු ඇති විටය. Level 1 යනු අවම ආරක්ෂක පියවර ගන්නා සාමාන්‍ය මට්ටම වන අතර, Level 2 යනු වැඩි කරන ලද ආරක්ෂක මට්ටමයි. එබැවින්, ඉහළම අවදානම් තත්ත්වයකදී ක්‍රියාත්මක වන්නේ Level 3 වේ."
+        "explanation": "ISPS (International Ship and Port Facility Security) කේතය යටතේ ආරක්ෂක මට්ටම් තුනක් අර්ථ දක්වා ඇත. මෙයින් 'Security Level 3' යනු ඉහළම ආරක්ෂක අනතුරු ඇඟවීමේ මට්ටමයි. මෙම මට්ටම ප්‍රකාශයට පත් කරනු ලබන්නේ කිසියම් ආරක්ෂක තර්ජනයක් සිදුවීමට ආසන්න බවට හෝ සිදුවෙමින් පවතින බවට තහවුරු වූ තොරතුරු ඇති විටය. Level 1 යනු අවම ආරක්ෂක පියවර ගන්නා සාමාන්‍ය මට්ටම වන අතර, Level 2 යනු වැඩි කරන ලද ආරක්ෂක මට්ටමයි. එබැවින්, ඉහළම අවදානම් තත්ත්වයකදී ක්‍රියාත්මක වන්නේ Level 3 වේ.",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -5121,7 +5478,8 @@
         ],
         "correct_answer": "Gun.",
         "images": [],
-        "explanation": "අපරාධකරුවන් සහ ත්‍රස්තවාදීන් ඔවුන්ගේ අරමුණු ඉටු කර ගැනීම සඳහා ලෝකය පුරා බහුලවම සහ පහසුවෙන් ලබා ගත හැකි ආයුධය ලෙස තුවක්කු (Gun) භාවිතා කරයි. මේවා ප්‍රමාණයෙන් කුඩා වීම, පහසුවෙන් සැඟවිය හැකි වීම සහ දුර සිට ප්‍රහාර එල්ල කළ හැකි වීම මෙයට හේතුවයි. අනෙකුත් ආයුධ වර්ග (උදාහරණ ලෙස ජීව විද්‍යාත්මක හෝ විශාල මිසයිල පද්ධති) සාමාන්‍ය අපරාධකරුවන්ට ලබා ගැනීම සහ හැසිරවීම ඉතා අපහසු බැවින් ඒවා මෙහිදී නිවැරදි නොවේ."
+        "explanation": "අපරාධකරුවන් සහ ත්‍රස්තවාදීන් ඔවුන්ගේ අරමුණු ඉටු කර ගැනීම සඳහා ලෝකය පුරා බහුලවම සහ පහසුවෙන් ලබා ගත හැකි ආයුධය ලෙස තුවක්කු (Gun) භාවිතා කරයි. මේවා ප්‍රමාණයෙන් කුඩා වීම, පහසුවෙන් සැඟවිය හැකි වීම සහ දුර සිට ප්‍රහාර එල්ල කළ හැකි වීම මෙයට හේතුවයි. අනෙකුත් ආයුධ වර්ග (උදාහරණ ලෙස ජීව විද්‍යාත්මක හෝ විශාල මිසයිල පද්ධති) සාමාන්‍ය අපරාධකරුවන්ට ලබා ගැනීම සහ හැසිරවීම ඉතා අපහසු බැවින් ඒවා මෙහිදී නිවැරදි නොවේ.",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -5135,7 +5493,8 @@
         ],
         "correct_answer": "Soak the plates in a suitable solvent until all of the dirt has loosened off and wipe clean with rags.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -5149,7 +5508,8 @@
         ],
         "correct_answer": "Plain fibre jointing.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -5163,7 +5523,8 @@
         ],
         "correct_answer": "Discard the defective valve plates and replace them with new spares.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -5177,7 +5538,8 @@
         ],
         "correct_answer": "Carry out a hose test on the manhole cover.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -5193,7 +5555,8 @@
         "images": [
             "https://i.ibb.co/C5GqfqbZ/nasos-2.jpg"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -5207,7 +5570,8 @@
         ],
         "correct_answer": "A reame.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -5221,7 +5585,8 @@
         ],
         "correct_answer": "Bend the inner tab up against one flat of the nut and the other tab down over the edge of the component.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -5237,7 +5602,8 @@
         "images": [
             "https://i.ibb.co/5xJ6ntP1/fig-a.jpg"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -5251,7 +5617,8 @@
         ],
         "correct_answer": "Let go the tug means: to cast off the lines that secure the tug to the ship.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -5265,7 +5632,8 @@
         ],
         "correct_answer": "Stop the bleeding.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -5279,7 +5647,8 @@
         ],
         "correct_answer": "Only when all other means have failed.",
         "images": [],
-        "explanation": "ටර්නිකට් (Tourniquet) එකක් යනු අධික රුධිර වහනයක් පාලනය කිරීම සඳහා අතක හෝ කකුලක වෙළනු ලබන පටියකි. මෙය භාවිතා කළ යුත්තේ සෘජු පීඩනය (Direct pressure) වැනි අනෙකුත් ප්‍රථමාධාර ක්‍රම මගින් රුධිර වහනය නතර කිරීමට නොහැකි වූ අවසාන පියවරක් ලෙස පමණි. මන්දයත් ටර්නිකට් එකක් මගින් අදාළ අවයවයට රුධිරය ගලා යාම සම්පූර්ණයෙන්ම නතර කරන බැවින්, වැඩි වේලාවක් එය තබා ගැනීමෙන් එම අවයවයේ පටක මිය යාමට (Tissue death) ඉඩ ඇත. එබැවින් එය සැමවිටම අවසාන විකල්පය විය යුතුය."
+        "explanation": "ටර්නිකට් (Tourniquet) එකක් යනු අධික රුධිර වහනයක් පාලනය කිරීම සඳහා අතක හෝ කකුලක වෙළනු ලබන පටියකි. මෙය භාවිතා කළ යුත්තේ සෘජු පීඩනය (Direct pressure) වැනි අනෙකුත් ප්‍රථමාධාර ක්‍රම මගින් රුධිර වහනය නතර කිරීමට නොහැකි වූ අවසාන පියවරක් ලෙස පමණි. මන්දයත් ටර්නිකට් එකක් මගින් අදාළ අවයවයට රුධිරය ගලා යාම සම්පූර්ණයෙන්ම නතර කරන බැවින්, වැඩි වේලාවක් එය තබා ගැනීමෙන් එම අවයවයේ පටක මිය යාමට (Tissue death) ඉඩ ඇත. එබැවින් එය සැමවිටම අවසාන විකල්පය විය යුතුය.",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -5293,7 +5662,8 @@
         ],
         "correct_answer": "Halons.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management",
@@ -5307,6 +5677,7 @@
         ],
         "correct_answer": "Sorbents.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     }
 ]

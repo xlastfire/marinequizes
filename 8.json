@@ -11,7 +11,8 @@
         ],
         "correct_answer": "Increase the cylinder oil rate to neutralise the corrosive action of the combustion products or change to a more alkaline cylinder oil.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Propulsion",
@@ -25,7 +26,8 @@
         ],
         "correct_answer": "Increase the cylinder oil rate to neutralise the corrosive action of the combustion products or change to a more alkaline cylinder oil.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Propulsion",
@@ -39,7 +41,8 @@
         ],
         "correct_answer": "A measure of the of organic and inorganic acids in the lubricating oil.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Propulsion",
@@ -53,7 +56,8 @@
         ],
         "correct_answer": "2,2 Ohms.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Propulsion",
@@ -67,7 +71,8 @@
         ],
         "correct_answer": "The maximum load that the engine can operate at continuosly.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Propulsion",
@@ -81,7 +86,8 @@
         ],
         "correct_answer": "A heavily leaking starting air valve may cause an explosion in the starting air pipe system.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Propulsion",
@@ -95,7 +101,8 @@
         ],
         "correct_answer": "Some of the nozzle holes of the fuel injection valve are blocked.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Propulsion",
@@ -109,7 +116,8 @@
         ],
         "correct_answer": "Poor quality fuel.",
         "images": [],
-        "explanation": "ඩීසල් එන්ජිමක සියලුම සිලින්ඩරවල උපරිම පීඩනය (maximum cylinder pressure) සාමාන්‍ය මට්ටමට වඩා අඩුවීමට ප්‍රධානතම හේතුව වන්නේ බාල ඉන්ධන (poor quality fuel) භාවිතයයි. ඉන්ධනවල ගුණාත්මකභාවය අඩු වූ විට ඒවා දහනය වීමේදී නිපදවන තාපය සහ ශක්තිය අඩුවන අතර, එමගින් සිලින්ඩර තුළ ඇතිවන උපරිම පීඩනය පහළ යයි. තනි සිලින්ඩරයක injector එකක දෝෂයක් තිබුනේ නම් එම සිලින්ඩරයේ පමණක් පීඩනය අඩුවන නමුත්, සියලුම සිලින්ඩරවලට බලපාන්නේ ඉන්ධනවල ගුණාත්මකභාවය හෝ පොදු වායු සැපයුමේ ගැටලුවකි."
+        "explanation": "ඩීසල් එන්ජිමක සියලුම සිලින්ඩරවල උපරිම පීඩනය (maximum cylinder pressure) සාමාන්‍ය මට්ටමට වඩා අඩුවීමට ප්‍රධානතම හේතුව වන්නේ බාල ඉන්ධන (poor quality fuel) භාවිතයයි. ඉන්ධනවල ගුණාත්මකභාවය අඩු වූ විට ඒවා දහනය වීමේදී නිපදවන තාපය සහ ශක්තිය අඩුවන අතර, එමගින් සිලින්ඩර තුළ ඇතිවන උපරිම පීඩනය පහළ යයි. තනි සිලින්ඩරයක injector එකක දෝෂයක් තිබුනේ නම් එම සිලින්ඩරයේ පමණක් පීඩනය අඩුවන නමුත්, සියලුම සිලින්ඩරවලට බලපාන්නේ ඉන්ධනවල ගුණාත්මකභාවය හෝ පොදු වායු සැපයුමේ ගැටලුවකි.",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Propulsion",
@@ -123,7 +131,8 @@
         ],
         "correct_answer": "Unannounced drills at any time.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Propulsion",
@@ -137,7 +146,8 @@
         ],
         "correct_answer": "Preparation and launching of survival crafts.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Propulsion",
@@ -151,7 +161,8 @@
         ],
         "correct_answer": "Checking that life-jackets are correctly donned.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Propulsion",
@@ -165,7 +176,8 @@
         ],
         "correct_answer": "200 nm and capacity for evacuating more then 15 persons.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Propulsion",
@@ -179,7 +191,8 @@
         ],
         "correct_answer": "Turned at intervals of not more than 30 months and renewed every 5 years.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Propulsion",
@@ -193,7 +206,8 @@
         ],
         "correct_answer": "A random selection process must be established.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Propulsion",
@@ -207,7 +221,8 @@
         ],
         "correct_answer": "A large temperature drop across the drier.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Propulsion",
@@ -221,7 +236,8 @@
         ],
         "correct_answer": "The reversed Carnot cycle.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Propulsion",
@@ -235,7 +251,8 @@
         ],
         "correct_answer": "It will allow for inrush current or motor specific faults.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Propulsion",
@@ -249,7 +266,8 @@
         ],
         "correct_answer": "Direct on Line.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Propulsion",
@@ -263,7 +281,8 @@
         ],
         "correct_answer": "By using an unloading device to keep the compressor suction valves open until the machine is up to speed.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Propulsion",
@@ -277,7 +296,8 @@
         ],
         "correct_answer": "40 kA.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Propulsion",
@@ -291,7 +311,8 @@
         ],
         "correct_answer": "Low flow or no flow in the cooling oil return line.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Propulsion",
@@ -305,7 +326,8 @@
         ],
         "correct_answer": "Engine speed control will be sluggish.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Propulsion",
@@ -319,7 +341,8 @@
         ],
         "correct_answer": "At least one hour.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Propulsion",
@@ -333,7 +356,8 @@
         ],
         "correct_answer": "The start is blocked because the air distributor has not moved to the astern position.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Propulsion",
@@ -347,7 +371,8 @@
         ],
         "correct_answer": "Recondition the rod by surface grinding and build up using plasma spraying with metal similar to the original.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Propulsion",
@@ -361,7 +386,8 @@
         ],
         "correct_answer": "The filament is contaminated due to too high a concentration of hydrocarbons.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Propulsion",
@@ -375,7 +401,8 @@
         ],
         "correct_answer": "Set the proportional band to minimum width and the integral action to maximum (repeats per minute).",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Propulsion",
@@ -389,7 +416,8 @@
         ],
         "correct_answer": "ISM procedures in the ship’s safety manual.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Propulsion",
@@ -403,7 +431,8 @@
         ],
         "correct_answer": "Reduce the superheat setting on the instrument air refrigeration/dryer unit.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Propulsion",
@@ -417,7 +446,8 @@
         ],
         "correct_answer": "It is an integral part of the overall training plan.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Propulsion",
@@ -431,7 +461,8 @@
         ],
         "correct_answer": "Pressure forces caused by green water on deck.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Propulsion",
@@ -445,7 +476,8 @@
         ],
         "correct_answer": "It lowers.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Propulsion",
@@ -459,7 +491,8 @@
         ],
         "correct_answer": "95-98 °C.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Propulsion",
@@ -475,7 +508,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2023/06/symbol.jpg"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Propulsion",
@@ -491,7 +525,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2023/06/scheme.jpg"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Propulsion",
@@ -505,7 +540,8 @@
         ],
         "correct_answer": "One or more cylinder air start valves are stuck open.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Propulsion",
@@ -519,7 +555,8 @@
         ],
         "correct_answer": "Gain too high.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Propulsion",
@@ -533,7 +570,8 @@
         ],
         "correct_answer": "The controller will not react to a process change in this range.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Propulsion",
@@ -547,7 +585,8 @@
         ],
         "correct_answer": "An ideal mixture of fuel and air in which all of the fuel and oxygen in the mixture are consumed during combustion.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Propulsion",
@@ -561,7 +600,8 @@
         ],
         "correct_answer": "The performance of the engine will be reduced noticeably.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Propulsion",
@@ -575,7 +615,8 @@
         ],
         "correct_answer": "To stop the engine before any serious damage occurs due to excess inertial loads.",
         "images": [],
-        "explanation": "විදුලි ජනක යන්ත්‍රයකට (generator) සම්බන්ධ කර ඇති විදුලි බර (load) එකවරම ඉවත් වූ විට, එන්ජිම ඉතා වේගයෙන් කැරකෙන්නට පටන් ගනී. මෙම අධික වේගය නිසා පිස්ටන් සහ කනෙක්ටින් රොඩ් (connecting rods) වැනි කොටස් මත ඇතිවන අවස්ථිති බලයන් (inertial loads) දරාගත නොහැකි මට්ටමට වැඩි වේ. මෙය එන්ජිම බිඳ වැටීමට හෝ කොටස් විසිරී ගොස් විශාල අනතුරක් වීමට හේතු විය හැක. Overspeed protection උපාංග මගින් මෙවැනි අවස්ථාවක එන්ජිම වහාම නතර කර යාන්ත්‍රික හානි වළක්වයි. මෙය හුදෙක් වේගය පාලනය කිරීමක් නොව එන්ජිමේ ආරක්ෂාව තහවුරු කිරීමකි."
+        "explanation": "විදුලි ජනක යන්ත්‍රයකට (generator) සම්බන්ධ කර ඇති විදුලි බර (load) එකවරම ඉවත් වූ විට, එන්ජිම ඉතා වේගයෙන් කැරකෙන්නට පටන් ගනී. මෙම අධික වේගය නිසා පිස්ටන් සහ කනෙක්ටින් රොඩ් (connecting rods) වැනි කොටස් මත ඇතිවන අවස්ථිති බලයන් (inertial loads) දරාගත නොහැකි මට්ටමට වැඩි වේ. මෙය එන්ජිම බිඳ වැටීමට හෝ කොටස් විසිරී ගොස් විශාල අනතුරක් වීමට හේතු විය හැක. Overspeed protection උපාංග මගින් මෙවැනි අවස්ථාවක එන්ජිම වහාම නතර කර යාන්ත්‍රික හානි වළක්වයි. මෙය හුදෙක් වේගය පාලනය කිරීමක් නොව එන්ජිමේ ආරක්ෂාව තහවුරු කිරීමකි.",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Propulsion",
@@ -589,7 +630,8 @@
         ],
         "correct_answer": "The superheat control setting for the thermostatic expansion valve is set too low.",
         "images": [],
-        "explanation": "ශීතකරණ කොම්ප්‍රෙෂරයක පිටත මතුපිට සහ return line එක මත අධික ලෙස අයිස් තැන්පත් වීම සිදුවන්නේ Thermostatic Expansion Valve (TEV) එකෙහි Superheat අගය ඉතා අඩුවෙන් සකසා ඇති විටයි. මෙවිට වාෂ්පීකාරකයෙන් (Evaporator) පිටවන ශීතකරණ ද්‍රව්‍ය ප්‍රමාණවත් ලෙස රත් නොවන (Superheat නොවන) බැවින් ද්‍රවමය ශීතකරණ ද්‍රව්‍ය කෙළින්ම කොම්ප්‍රෙෂරය වෙත ගලා ඒමට පටන් ගනී (Liquid slugging). මෙය කොම්ප්‍රෙෂරයේ උෂ්ණත්වය ඉතා පහළ හෙළන අතර මතුපිට අයිස් බැඳීමට හේතු වේ. අනෙකුත් හේතු වන high superheat හෝ low charge නිසා සාමාන්‍යයෙන් සිසිලනය අඩු වීම මිස මෙවැනි අයිස් බැඳීමක් සිදු නොවේ."
+        "explanation": "ශීතකරණ කොම්ප්‍රෙෂරයක පිටත මතුපිට සහ return line එක මත අධික ලෙස අයිස් තැන්පත් වීම සිදුවන්නේ Thermostatic Expansion Valve (TEV) එකෙහි Superheat අගය ඉතා අඩුවෙන් සකසා ඇති විටයි. මෙවිට වාෂ්පීකාරකයෙන් (Evaporator) පිටවන ශීතකරණ ද්‍රව්‍ය ප්‍රමාණවත් ලෙස රත් නොවන (Superheat නොවන) බැවින් ද්‍රවමය ශීතකරණ ද්‍රව්‍ය කෙළින්ම කොම්ප්‍රෙෂරය වෙත ගලා ඒමට පටන් ගනී (Liquid slugging). මෙය කොම්ප්‍රෙෂරයේ උෂ්ණත්වය ඉතා පහළ හෙළන අතර මතුපිට අයිස් බැඳීමට හේතු වේ. අනෙකුත් හේතු වන high superheat හෝ low charge නිසා සාමාන්‍යයෙන් සිසිලනය අඩු වීම මිස මෙවැනි අයිස් බැඳීමක් සිදු නොවේ.",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Propulsion",
@@ -603,7 +645,8 @@
         ],
         "correct_answer": "Open the drain valve while pressure still shows on the gauge and to check it is clear. Outflow should cease as the pressure gauge reaches zero.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Propulsion",
@@ -617,7 +660,8 @@
         ],
         "correct_answer": "A large bow thruster will draw very large currents at low voltage. Being typically remote from the generator, significant voltage drops would occur at low voltage.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Propulsion",
@@ -630,7 +674,8 @@
         ],
         "correct_answer": "It is used to remove steady state error at a reference set point.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Propulsion",
@@ -644,7 +689,8 @@
         ],
         "correct_answer": "Dirty scavenging air cooler on the air side.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Propulsion",
@@ -658,7 +704,8 @@
         ],
         "correct_answer": "30 litters per nautical mile.",
         "images": [],
-        "explanation": "MARPOL 73/78 ජාත්‍යන්තර සම්මුතියට අනුව, තෙල් මිශ්‍ර ජලය මුහුදට මුදා හැරීමේදී පනවා තිබූ සීමාවන් 1993 ජූලි මාසයේ සිට දැඩි කරන ලදී. ඒ අනුව, පෙර පැවති නාවික සැතපුමකට ලීටර් 60 ක උපරිම තෙල් මුදා හැරීමේ වේගය ලීටර් 30 දක්වා (30 liters per nautical mile) අඩු කරන ලදී. මෙය සාගර පරිසර දූෂණය පාලනය කිරීම සඳහා ගත් තීරණාත්මක පියවරකි. අනෙකුත් අගයන් පැරණි හෝ වැරදි නීති වලට අදාළ වේ."
+        "explanation": "MARPOL 73/78 ජාත්‍යන්තර සම්මුතියට අනුව, තෙල් මිශ්‍ර ජලය මුහුදට මුදා හැරීමේදී පනවා තිබූ සීමාවන් 1993 ජූලි මාසයේ සිට දැඩි කරන ලදී. ඒ අනුව, පෙර පැවති නාවික සැතපුමකට ලීටර් 60 ක උපරිම තෙල් මුදා හැරීමේ වේගය ලීටර් 30 දක්වා (30 liters per nautical mile) අඩු කරන ලදී. මෙය සාගර පරිසර දූෂණය පාලනය කිරීම සඳහා ගත් තීරණාත්මක පියවරකි. අනෙකුත් අගයන් පැරණි හෝ වැරදි නීති වලට අදාළ වේ.",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Propulsion",
@@ -672,7 +719,8 @@
         ],
         "correct_answer": "All of the mentioned.",
         "images": [],
-        "explanation": "ඇමරිකානු ජල දූෂණ නීති (US water pollution laws) යටතේ නෞකාවකින් මුහුදට මුදා හරින තෙල් (Oil), කුණු කසල (Garbage) සහ අනතුරුදායක ද්‍රව්‍ය (Hazardous substances) යන මේ සියල්ල දූෂණය ලෙස සැලකේ. MARPOL සම්මුතියට අනුකූලව මෙම නීති දැඩි ලෙස ක්‍රියාත්මක වේ. එබැවින් 'All of the mentioned' යන්න නිවැරදි පිළිතුර වේ. මෙහිදී තනි තනිව දක්වා ඇති සෑම ද්‍රව්‍යයක්ම පරිසරයට හානිකර බැවින් ඒවා වෙන් වෙන් වශයෙන් හෝ එකට බැහැර කිරීම තහනම් වේ."
+        "explanation": "ඇමරිකානු ජල දූෂණ නීති (US water pollution laws) යටතේ නෞකාවකින් මුහුදට මුදා හරින තෙල් (Oil), කුණු කසල (Garbage) සහ අනතුරුදායක ද්‍රව්‍ය (Hazardous substances) යන මේ සියල්ල දූෂණය ලෙස සැලකේ. MARPOL සම්මුතියට අනුකූලව මෙම නීති දැඩි ලෙස ක්‍රියාත්මක වේ. එබැවින් 'All of the mentioned' යන්න නිවැරදි පිළිතුර වේ. මෙහිදී තනි තනිව දක්වා ඇති සෑම ද්‍රව්‍යයක්ම පරිසරයට හානිකර බැවින් ඒවා වෙන් වෙන් වශයෙන් හෝ එකට බැහැර කිරීම තහනම් වේ.",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Propulsion",
@@ -686,7 +734,8 @@
         ],
         "correct_answer": "It should be opened once the oil separator unit has warmed up.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Propulsion",
@@ -702,7 +751,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2023/06/scheme-1.jpg"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Propulsion",
@@ -718,7 +768,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2023/06/function.jpg"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Propulsion",
@@ -732,7 +783,8 @@
         ],
         "correct_answer": "2,2 Ohms.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Propulsion",
@@ -748,7 +800,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2023/06/diagramm.jpg"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Propulsion",
@@ -764,7 +817,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2023/06/figure.jpg"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Propulsion",
@@ -780,7 +834,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2023/06/electric_scheme.jpg"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Propulsion",
@@ -794,7 +849,8 @@
         ],
         "correct_answer": "Adiabatic.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Propulsion",
@@ -808,7 +864,8 @@
         ],
         "correct_answer": "It is possible to predict the control mathematically.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Propulsion",
@@ -822,7 +879,8 @@
         ],
         "correct_answer": "16 mA.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Propulsion",
@@ -836,7 +894,8 @@
         ],
         "correct_answer": "Loss of signal to engine governor.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Propulsion",
@@ -850,7 +909,8 @@
         ],
         "correct_answer": "Create a list of potential motives for security incidents against your ship.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Propulsion",
@@ -866,7 +926,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2023/06/tiristor.jpg"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Propulsion",
@@ -880,7 +941,8 @@
         ],
         "correct_answer": "Percentage of available flow.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Propulsion",
@@ -894,7 +956,8 @@
         ],
         "correct_answer": "Sequential start initiated by pressure switches set at different switching pressures.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Propulsion",
@@ -908,7 +971,8 @@
         ],
         "correct_answer": "Plus or minus 30 °C.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Propulsion",
@@ -922,7 +986,8 @@
         ],
         "correct_answer": "100 M Ohms.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Propulsion",
@@ -936,7 +1001,8 @@
         ],
         "correct_answer": "Incorrect frequency.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Propulsion",
@@ -950,7 +1016,8 @@
         ],
         "correct_answer": "Crankcase relief valves/doors.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Propulsion",
@@ -964,7 +1031,8 @@
         ],
         "correct_answer": "Sudden total loss of propulsive power may seriously endanger the vessel. This is a greater risk than engine damage.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Propulsion",
@@ -978,7 +1046,8 @@
         ],
         "correct_answer": "15 % above engine rated speed.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Propulsion",
@@ -992,7 +1061,8 @@
         ],
         "correct_answer": "The blades should be in the zero thrust position.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Propulsion",
@@ -1006,7 +1076,8 @@
         ],
         "correct_answer": "A reduced temperature difference between the seawater inlet and outlet and also between the lubricating oil inlet and outlet.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Propulsion",
@@ -1020,7 +1091,8 @@
         ],
         "correct_answer": "The heavy fuel is unstable leading to excessive high viscosity sludge formation.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Propulsion",
@@ -1034,7 +1106,8 @@
         ],
         "correct_answer": "Set the proportional action first.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Propulsion",
@@ -1048,7 +1121,8 @@
         ],
         "correct_answer": "Capillary tube in the viscometer is blocked giving high differential pressure at the DP cell.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Propulsion",
@@ -1062,7 +1136,8 @@
         ],
         "correct_answer": "The governor droop settings are incorrectly set and are not matched.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Propulsion",
@@ -1076,7 +1151,8 @@
         ],
         "correct_answer": "Refill the manometer with liquid with a higher density.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Propulsion",
@@ -1090,7 +1166,8 @@
         ],
         "correct_answer": "Circumferential slip of the after clamp ring in the opposite direction to shaft rotation.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Propulsion",
@@ -1104,7 +1181,8 @@
         ],
         "correct_answer": "The gas or vapour which will minimise creation of an electric arc as contacts open.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Propulsion",
@@ -1118,7 +1196,8 @@
         ],
         "correct_answer": "A link between the shipboard training officer and the company training officer ashore.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Propulsion",
@@ -1132,6 +1211,7 @@
         ],
         "correct_answer": "Upper and lower connection of main side frames.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     }
 ]

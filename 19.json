@@ -10,7 +10,8 @@
         ],
         "correct_answer": "It satisfies the SOLAS (and other) requirement for the ship safety.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Junior, Reefer",
@@ -23,7 +24,8 @@
         ],
         "correct_answer": "Reefer cannot be used to reach the desired temperature, cargo of a reefer container has to be brought to the desired temperature prior to loading.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Junior, Reefer",
@@ -35,7 +37,8 @@
         ],
         "correct_answer": "The generator, placed on one side of the container, blows air into the container.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Junior, Reefer",
@@ -47,7 +50,8 @@
         ],
         "correct_answer": "Low quantity of refrigerant in evaporator.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Junior, Reefer",
@@ -61,7 +65,8 @@
         ],
         "correct_answer": "CO2 extinguisher.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Junior, Reefer",
@@ -74,7 +79,8 @@
         ],
         "correct_answer": "Serial number, stowage position, set point, ventilation position, humidity set point, supply temperature, return temperature, active alarms, visual damages of refrigerated plant.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Junior, Reefer",
@@ -87,7 +93,8 @@
         ],
         "correct_answer": "Before use, the gloves should be inspected, paying attention to the absence of mechanical damage and fill gloves with hot fresh water.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Junior, Reefer",
@@ -100,7 +107,8 @@
         ],
         "correct_answer": "The major difference between normal dry container and reefer container is that the temperature condition controlling system is available in reefer container.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Junior, Reefer",
@@ -113,7 +121,8 @@
         ],
         "correct_answer": "Reefers are essential for worldwide trade of food.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Junior, Reefer",
@@ -126,7 +135,8 @@
         ],
         "correct_answer": "This is the difference between the boiling point temperature of refrigerant in the evaporator coil and the actual temperature of the refrigerant gas as at leave the evaporator.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Junior, Reefer",
@@ -139,7 +149,8 @@
         ],
         "correct_answer": "45 sec.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Junior, Reefer",
@@ -153,7 +164,8 @@
         ],
         "correct_answer": "Container is a type of shipping container that remains its cargo at a regulated cool temperature.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Junior, Reefer",
@@ -167,7 +179,8 @@
         ],
         "correct_answer": "Malfunction one of two return air sensors.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Junior, Reefer",
@@ -181,7 +194,8 @@
         ],
         "correct_answer": "Check main circuit breaker position (on/off) and the presence of power supply on each incoming phase with multimeter.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Junior, Reefer",
@@ -193,7 +207,8 @@
         ],
         "correct_answer": "Motor to forward.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Junior, Reefer",
@@ -206,7 +221,8 @@
         ],
         "correct_answer": "It must be connected to the ship power supply and their setting temperature verified.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Junior, Reefer",
@@ -220,7 +236,8 @@
         ],
         "correct_answer": "To lubricate the moving parts of the compressor.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Junior, Reefer",
@@ -234,7 +251,8 @@
         ],
         "correct_answer": "The evaporator coil is frozen after the thermostatic valve at the beginning of the coil.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Junior, Reefer",
@@ -248,7 +266,8 @@
         ],
         "correct_answer": "The suction pressure is less than the discharge pressure.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Junior, Reefer",
@@ -262,7 +281,8 @@
         ],
         "correct_answer": "Depend on the reefer container working mode and ambient temperature. Technical standards from the manufacturer that are specified in manual.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Junior, Reefer",
@@ -275,7 +295,8 @@
         ],
         "correct_answer": "Outside temperature.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Junior, Reefer",
@@ -289,7 +310,8 @@
         ],
         "correct_answer": "Switch off power supply and collect freon to the recovery balloon.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Junior, Reefer",
@@ -303,7 +325,8 @@
         ],
         "correct_answer": "Interrupt the operation of the electric motor in case of overheating.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Junior, Reefer",
@@ -317,7 +340,8 @@
         ],
         "correct_answer": "Motor will not start.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Junior, Reefer",
@@ -330,6 +354,7 @@
         ],
         "correct_answer": "Required temperature for transportation of cargo in reefer container.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     }
 ]

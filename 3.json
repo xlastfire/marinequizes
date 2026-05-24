@@ -11,7 +11,8 @@
         ],
         "correct_answer": "4,6 V.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -25,7 +26,8 @@
         ],
         "correct_answer": "One of the main switching elements in the triac has failed.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -39,7 +41,8 @@
         ],
         "correct_answer": "Recharge batteries immediately after discharge.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -53,7 +56,8 @@
         ],
         "correct_answer": "Accelerometer.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -67,7 +71,8 @@
         ],
         "correct_answer": "2 separate starting devices each with stored energy capable for at least 3 consecutive starts.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -81,7 +86,8 @@
         ],
         "correct_answer": "The controller will not react to a process change in this range.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -95,7 +101,8 @@
         ],
         "correct_answer": "100 M Ohms.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -109,7 +116,8 @@
         ],
         "correct_answer": "Flammable mixture is not continuously present, but will be present during normal operations.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -123,7 +131,8 @@
         ],
         "correct_answer": "Use a Digital Multi-Meter set to measure ohms in forward and reverse directions.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -137,7 +146,8 @@
         ],
         "correct_answer": "Temperature, humidity and surface contamination.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -151,7 +161,8 @@
         ],
         "correct_answer": "Straight pipe.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -165,7 +176,8 @@
         ],
         "correct_answer": "Manual.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -179,7 +191,8 @@
         ],
         "correct_answer": "Power.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -193,7 +206,8 @@
         ],
         "correct_answer": "6 ohms.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -209,7 +223,8 @@
         "images": [
             "https://i.ibb.co/tp54JkNY/scheme.jpg"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -223,7 +238,8 @@
         ],
         "correct_answer": "Barometer.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -237,7 +253,8 @@
         ],
         "correct_answer": "A large bow thruster will draw very large currents at low voltage. Being typically remote from the generator, significant voltage drops would occur at low voltage.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -251,7 +268,8 @@
         ],
         "correct_answer": "Gain too high.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -265,7 +283,8 @@
         ],
         "correct_answer": "Process, Sensor, Final control element and Controller.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -281,7 +300,8 @@
         "images": [
             "https://i.ibb.co/wZYQwDVD/vovi.jpg"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -295,7 +315,8 @@
         ],
         "correct_answer": "The gas, liquid or vapour which will minimise creation of an electric arc as contacts open.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -309,7 +330,8 @@
         ],
         "correct_answer": "Contactor chattering (vibrating).",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -325,7 +347,8 @@
         "images": [
             "https://i.ibb.co/Zph5fxMS/electro-scheme.jpg"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -341,7 +364,8 @@
         "images": [
             "https://i.ibb.co/Lm9q9VY/circuit.jpg"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -355,7 +379,8 @@
         ],
         "correct_answer": "2,15 V.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -371,7 +396,8 @@
         "images": [
             "https://i.ibb.co/tMxh0hck/t80.jpg"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -385,7 +411,8 @@
         ],
         "correct_answer": "The amount of apparent power, that would be drawn from the generating plant, when a short circuit occurs at the bus bars.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -399,7 +426,8 @@
         ],
         "correct_answer": "Between 0,1 and 1,0 Ohm.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -413,7 +441,8 @@
         ],
         "correct_answer": "Direct on Line.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -427,7 +456,8 @@
         ],
         "correct_answer": "Open circuit winding between W and U.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -441,7 +471,8 @@
         ],
         "correct_answer": "Better linearity and increased accuracy.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -455,7 +486,8 @@
         ],
         "correct_answer": "Measure the relative density (specific gravity) of the electrolyte.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -469,7 +501,8 @@
         ],
         "correct_answer": "Motor rotates in the reverse direction.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -485,7 +518,8 @@
         "images": [
             "https://i.ibb.co/C3vyWgNt/circuit-2.jpg"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -501,7 +535,8 @@
         "images": [
             "https://i.ibb.co/MkFKCLg6/transformer.jpg"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -515,7 +550,8 @@
         ],
         "correct_answer": "22 Ohms.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -531,7 +567,8 @@
         "images": [
             "https://i.ibb.co/FLZqYKqd/bandpass.jpg"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -545,7 +582,8 @@
         ],
         "correct_answer": "No, as only the output from the barrier is intrinsically safe this is not allowed.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -559,7 +597,8 @@
         ],
         "correct_answer": "Vacuum.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -575,7 +614,8 @@
         "images": [
             "https://i.ibb.co/3YBypLn7/Screenshot-2026-04-04-at-08-20-16-ilide-info-electrical-electronics-pr-cbf19bc8cacb68b6a76f7215e814c.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -591,7 +631,8 @@
         "images": [
             "https://i.ibb.co/kVQrQDPq/Screenshot-2026-04-04-at-08-24-06-ilide-info-electrical-electronics-pr-cbf19bc8cacb68b6a76f7215e814c.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -607,7 +648,8 @@
         "images": [
             "https://i.ibb.co/ym93gfmL/Screenshot-2026-04-04-at-08-26-56-ilide-info-electrical-electronics-pr-cbf19bc8cacb68b6a76f7215e814c.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -623,7 +665,8 @@
         "images": [
             "https://i.ibb.co/XrrSkXRX/Screenshot-2026-04-04-at-08-29-54-ilide-info-electrical-electronics-pr-cbf19bc8cacb68b6a76f7215e814c.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -637,7 +680,8 @@
         ],
         "correct_answer": "0,2 A.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -651,7 +695,8 @@
         ],
         "correct_answer": "Ohmmeter.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -665,7 +710,8 @@
         ],
         "correct_answer": "2,15 V.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -681,7 +727,8 @@
         "images": [
             "https://i.ibb.co/Z09PZjs/Screenshot-2026-04-04-at-08-38-48-ilide-info-electrical-electronics-pr-cbf19bc8cacb68b6a76f7215e814c.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -697,7 +744,8 @@
         "images": [
             "https://i.ibb.co/Txv7Yxx9/Screenshot-2026-04-04-at-08-44-18-ilide-info-electrical-electronics-pr-cbf19bc8cacb68b6a76f7215e814c.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -711,7 +759,8 @@
         ],
         "correct_answer": "Rectifier.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -727,7 +776,8 @@
         "images": [
             "https://i.ibb.co/Zp5Q9HML/Screenshot-2026-04-04-at-08-48-33-ilide-info-electrical-electronics-pr-cbf19bc8cacb68b6a76f7215e814c.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -743,7 +793,8 @@
         "images": [
             "https://i.ibb.co/q3fJd2FY/Screenshot-2026-04-04-at-08-54-44-ilide-info-electrical-electronics-pr-cbf19bc8cacb68b6a76f7215e814c.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -759,7 +810,8 @@
         "images": [
             "https://i.ibb.co/KzSRfKR2/Screenshot-2026-04-04-at-09-13-53-ilide-info-electrical-electronics-pr-cbf19bc8cacb68b6a76f7215e814c.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -773,7 +825,8 @@
         ],
         "correct_answer": "The 0-voltage must always be grounded.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -787,7 +840,8 @@
         ],
         "correct_answer": "Printed Circuit Board.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -801,7 +855,8 @@
         ],
         "correct_answer": "Serial adapter.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -817,7 +872,8 @@
         "images": [
             "https://i.ibb.co/kstT5RgW/Screenshot-2026-04-04-at-09-30-26-ilide-info-electrical-electronics-pr-cbf19bc8cacb68b6a76f7215e814c.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -831,7 +887,8 @@
         ],
         "correct_answer": "Measure the specific gravity of the electrolyte.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -847,7 +904,8 @@
         "images": [
             "https://i.ibb.co/YFTmQNjc/Screenshot-2026-04-04-at-09-38-27-ilide-info-electrical-electronics-pr-cbf19bc8cacb68b6a76f7215e814c.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -863,7 +921,8 @@
         "images": [
             "https://i.ibb.co/0p52ZsSD/Screenshot-2026-04-04-at-09-40-53-ilide-info-electrical-electronics-pr-cbf19bc8cacb68b6a76f7215e814c.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -879,7 +938,8 @@
         "images": [
             "https://i.ibb.co/Z110HbzX/zal.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -895,7 +955,8 @@
         "images": [
             "https://i.ibb.co/5hBkgR11/Screenshot-2026-04-04-at-09-56-33-ilide-info-electrical-electronics-pr-cbf19bc8cacb68b6a76f7215e814c.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -911,7 +972,8 @@
         "images": [
             "https://i.ibb.co/zWY8YmDb/Screenshot-2026-04-04-at-10-13-39-ilide-info-electrical-electronics-pr-cbf19bc8cacb68b6a76f7215e814c.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -927,7 +989,8 @@
         "images": [
             "https://i.ibb.co/Q3FK9Hdj/ssssss.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -941,7 +1004,8 @@
         ],
         "correct_answer": "Figure C.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -957,7 +1021,8 @@
         "images": [
             "https://i.ibb.co/G4xhhM2j/mnmn.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -973,7 +1038,8 @@
         "images": [
             "https://i.ibb.co/m5yyRY4y/klfg.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -989,7 +1055,8 @@
         "images": [
             "https://i.ibb.co/xK03CsHX/tyu.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -1005,7 +1072,8 @@
         "images": [
             "https://i.ibb.co/WWjZDSQx/shhold.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -1021,7 +1089,8 @@
         "images": [
             "https://i.ibb.co/JRj42N07/Screenshot-2026-04-04-at-11-20-25-ilide-info-electrical-electronics-pr-cbf19bc8cacb68b6a76f7215e814c.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -1037,7 +1106,8 @@
         "images": [
             "https://i.ibb.co/wFPfgfGj/Screenshot-2026-04-06-at-08-31-32-ilide-info-electrical-electronics-pr-cbf19bc8cacb68b6a76f7215e814c.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -1053,7 +1123,8 @@
         "images": [
             "https://i.ibb.co/Xx8wnrWq/Screenshot-2026-04-06-at-08-44-19-ilide-info-electrical-electronics-pr-cbf19bc8cacb68b6a76f7215e814c.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -1069,7 +1140,8 @@
         "images": [
             "https://i.ibb.co/5X9gC3xG/Screenshot-2026-04-06-at-08-48-34-ilide-info-electrical-electronics-pr-cbf19bc8cacb68b6a76f7215e814c.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -1085,7 +1157,8 @@
         "images": [
             "https://i.ibb.co/Wv2QMyVR/Screenshot-2026-04-06-at-08-53-11-ilide-info-electrical-electronics-pr-cbf19bc8cacb68b6a76f7215e814c.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -1101,7 +1174,8 @@
         "images": [
             "https://i.ibb.co/ZpX7jwzt/Screenshot-2026-04-06-at-09-19-00-ilide-info-electrical-electronics-pr-cbf19bc8cacb68b6a76f7215e814c.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -1117,7 +1191,8 @@
         "images": [
             "https://i.ibb.co/ym5tKHsm/Screenshot-2026-04-06-at-09-24-03-ilide-info-electrical-electronics-pr-cbf19bc8cacb68b6a76f7215e814c.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -1133,7 +1208,8 @@
         "images": [
             "https://i.ibb.co/C3GJym8T/zhefy.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -1149,7 +1225,8 @@
         "images": [
             "https://i.ibb.co/67SXMx0Z/Screenshot-2026-04-06-at-10-29-13-ilide-info-electrical-electronics-pr-cbf19bc8cacb68b6a76f7215e814c.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -1165,7 +1242,8 @@
         "images": [
             "https://i.ibb.co/xKYz3bfJ/Screenshot-2026-04-06-at-10-33-03-ilide-info-electrical-electronics-pr-cbf19bc8cacb68b6a76f7215e814c.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -1181,7 +1259,8 @@
         "images": [
             "https://i.ibb.co/bgbnGpzn/Screenshot-2026-04-06-at-10-35-49-ilide-info-electrical-electronics-pr-cbf19bc8cacb68b6a76f7215e814c.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -1197,7 +1276,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-06-at-10-44-30-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -1213,7 +1293,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-06-at-10-47-37-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -1229,7 +1310,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-06-at-10-50-37-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -1245,7 +1327,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-06-at-10-54-32-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -1261,7 +1344,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/byuyach.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -1277,7 +1361,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-06-at-11-06-42-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -1293,7 +1378,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-06-at-11-10-13-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -1308,7 +1394,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-06-at-11-12-34-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -1324,7 +1411,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-06-at-11-14-41-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -1340,7 +1428,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-06-at-12-57-05-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -1354,7 +1443,8 @@
         ],
         "correct_answer": "A series of tests run by the computer at power on.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -1370,7 +1460,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-06-at-13-03-41-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -1384,7 +1475,8 @@
         ],
         "correct_answer": "5 V and 12 V.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -1400,7 +1492,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-06-at-13-18-24-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -1416,7 +1509,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-06-at-13-21-40-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -1432,7 +1526,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-06-at-13-24-45-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -1448,7 +1543,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-06-at-13-27-58-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -1463,7 +1559,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-06-at-13-30-43-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -1479,7 +1576,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-06-at-13-36-26-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -1495,7 +1593,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-06-at-13-39-31-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -1511,7 +1610,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-07-at-10-29-58-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -1527,7 +1627,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-07-at-10-35-23-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -1543,7 +1644,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/zwo.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -1559,7 +1661,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/gzpo.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -1575,7 +1678,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/uzqn.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -1591,7 +1695,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/bxpo.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -1607,7 +1712,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/jslw.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -1623,7 +1729,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/paj.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -1639,7 +1746,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/rtshy.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -1653,7 +1761,8 @@
         ],
         "correct_answer": "On the motherboard.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -1667,7 +1776,8 @@
         ],
         "correct_answer": "10-200.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -1681,7 +1791,8 @@
         ],
         "correct_answer": "2 200 ohm.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -1695,7 +1806,8 @@
         ],
         "correct_answer": "Power dissipation capability.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -1711,7 +1823,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-07-at-11-17-23-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -1727,7 +1840,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/juzl.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -1741,7 +1855,8 @@
         ],
         "correct_answer": "A zener barrier is a unit made to obtain intrinsically safety in installations for instrumentation in hazardous areas.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -1757,7 +1872,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-07-at-11-26-01-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -1771,7 +1887,8 @@
         ],
         "correct_answer": "Henry.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -1787,7 +1904,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-07-at-11-34-30-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -1803,7 +1921,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/yco.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -1819,7 +1938,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/yvzq.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -1835,7 +1955,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/klsa.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -1851,7 +1972,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-07-at-13-22-16-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -1867,7 +1989,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-07-at-13-25-47-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -1883,7 +2006,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-07-at-13-29-50-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -1899,7 +2023,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-07-at-13-32-42-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -1915,7 +2040,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/fdp.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -1929,7 +2055,8 @@
         ],
         "correct_answer": "40 ohm.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -1945,7 +2072,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-07-at-13-47-56-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -1961,7 +2089,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/dcm.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -1977,7 +2106,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/ljya.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -1993,7 +2123,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/chya.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -2009,7 +2140,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-08-at-11-33-14-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -2025,7 +2157,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/vych.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -2041,7 +2174,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-08-at-12-41-13-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -2057,7 +2191,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-08-at-12-48-44-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -2071,7 +2206,8 @@
         ],
         "correct_answer": "2-3 %.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -2087,7 +2223,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-08-at-12-54-10-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -2101,7 +2238,8 @@
         ],
         "correct_answer": "5-12 %.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -2117,7 +2255,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/jzo.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -2131,7 +2270,8 @@
         ],
         "correct_answer": "A circuit that will only pass high frequency signals.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -2147,7 +2287,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/xii.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -2161,7 +2302,8 @@
         ],
         "correct_answer": "2 %.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -2177,7 +2319,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-08-at-13-09-28-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -2191,7 +2334,8 @@
         ],
         "correct_answer": "1 140 RPM.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -2207,7 +2351,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/hqx.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -2223,7 +2368,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/ejya.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -2239,7 +2385,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/gfiy.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -2255,7 +2402,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/vvo.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -2269,7 +2417,8 @@
         ],
         "correct_answer": "954 RPM.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -2285,7 +2434,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-08-at-13-52-08-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -2301,7 +2451,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/fiw.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -2317,7 +2468,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/uxo.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -2333,7 +2485,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-08-at-14-05-13-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -2349,7 +2502,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-08-at-14-07-58-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -2363,7 +2517,8 @@
         ],
         "correct_answer": "the Power Factor of alternator N°2 is lagging 0,658.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -2379,7 +2534,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/llle.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -2393,7 +2549,8 @@
         ],
         "correct_answer": "429,8 Amp.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -2407,7 +2564,8 @@
         ],
         "correct_answer": "The alternator’s output itself via the automatic voltage regulator.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -2423,7 +2581,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-08-at-14-47-36-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -2437,7 +2596,8 @@
         ],
         "correct_answer": "Prevent damage to sensitive electronic components from high voltage tester.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -2451,7 +2611,8 @@
         ],
         "correct_answer": "Phase current is 27,3 Ampere, phase voltage is 127 Volt.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -2465,7 +2626,8 @@
         ],
         "correct_answer": "By adjusting the spring pressure.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -2481,7 +2643,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-10-at-11-02-06-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -2497,7 +2660,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-10-at-11-07-07-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -2513,7 +2677,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-10-at-11-11-23-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -2529,7 +2694,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-10-at-11-24-14-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -2545,7 +2711,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-10-at-11-27-33-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -2561,7 +2728,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-10-at-11-32-05-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -2575,7 +2743,8 @@
         ],
         "correct_answer": "579,2 kW.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -2591,7 +2760,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-10-at-11-37-21-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -2605,7 +2775,8 @@
         ],
         "correct_answer": "Yes, wrong installation will result in a major deviation in measurement.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -2619,7 +2790,8 @@
         ],
         "correct_answer": "Speed governor and voltage regulator.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -2635,7 +2807,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/gqo.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -2651,7 +2824,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-10-at-11-53-19-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -2665,7 +2839,8 @@
         ],
         "correct_answer": "To prevent the alternator from «motoring» by being supplied power from other parallel alternator.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -2679,7 +2854,8 @@
         ],
         "correct_answer": "Reactive load (kVAr).",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -2695,7 +2871,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-10-at-13-06-50-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -2709,7 +2886,8 @@
         ],
         "correct_answer": "AVR and speed governor.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -2725,7 +2903,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-10-at-13-14-22-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": "හදිසි ජෙනරේටරය (Emergency Generator) අවම වශයෙන් සතිපතා පරීක්ෂා කරන්නේ එය හදිසි අවස්ථාවකදී නියමිත පරිදි ක්‍රියාත්මක වීමට ඇති සූදානම (Readiness) පරීක්ෂා කිරීමටයි. SOLAS රෙගුලාසි අනුව, ප්‍රධාන විදුලි බලය විසන්ධි වී තත්පර 45ක් ඇතුළත මෙය පණගැන්වී බර (Load) ලබා ගැනීමට සමත් විය යුතුය. හුදෙක් ඉන්ධන මට්ටම හෝ බැටරි ආරෝපණය පරීක්ෂා කිරීමෙන් පමණක් ජෙනරේටරය ක්‍රියාකාරී තත්ත්වයේ පවතින බව සහතික කළ නොහැකි බැවින්, මෙම පරීක්ෂණය අත්‍යවශ්‍ය වේ."
+        "explanation": "හදිසි ජෙනරේටරය (Emergency Generator) අවම වශයෙන් සතිපතා පරීක්ෂා කරන්නේ එය හදිසි අවස්ථාවකදී නියමිත පරිදි ක්‍රියාත්මක වීමට ඇති සූදානම (Readiness) පරීක්ෂා කිරීමටයි. SOLAS රෙගුලාසි අනුව, ප්‍රධාන විදුලි බලය විසන්ධි වී තත්පර 45ක් ඇතුළත මෙය පණගැන්වී බර (Load) ලබා ගැනීමට සමත් විය යුතුය. හුදෙක් ඉන්ධන මට්ටම හෝ බැටරි ආරෝපණය පරීක්ෂා කිරීමෙන් පමණක් ජෙනරේටරය ක්‍රියාකාරී තත්ත්වයේ පවතින බව සහතික කළ නොහැකි බැවින්, මෙම පරීක්ෂණය අත්‍යවශ්‍ය වේ.",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -2739,7 +2918,8 @@
         ],
         "correct_answer": "Undue overspeeding.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -2755,7 +2935,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-10-at-13-20-04-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -2769,7 +2950,8 @@
         ],
         "correct_answer": "0°.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -2783,7 +2965,8 @@
         ],
         "correct_answer": "Circuit breaker operating time.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -2797,7 +2980,8 @@
         ],
         "correct_answer": "15 Ohms.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -2811,7 +2995,8 @@
         ],
         "correct_answer": "3 phase excitation winding/rectifier bank/main field winding.",
         "images": [],
-        "explanation": "බුරුසු රහිත (Brushless) ප්‍රත්‍යාවර්තකයක (alternator) රොටරය මත ප්‍රධාන කොටස් තුනක සංයෝජනයක් පවතී: එනම් ත්‍රි-කලා උත්තේජක එතීුම (3 phase excitation winding), සෘජුකාරක පද්ධතිය (rectifier bank) සහ ප්‍රධාන ක්ෂේත්‍ර එතීුම (main field winding) වේ. මෙහි ක්‍රියාවලිය වන්නේ උත්තේජකයේ එතීුම මගින් නිපදවන AC විදුලිය, රොටරය මතම ඇති සෘජුකාරකය (rectifier) මගින් DC බවට පත් කර කෙලින්ම ප්‍රධාන එතීුමට ලබා දීමයි. මෙහිදී කාබන් බුරුසු හෝ ස්ලිප් රින්ග්ස් (slip rings) අවශ්‍ය නොවේ. අනෙකුත් විකල්ප වැරදි වන්නේ ඒවායේ ස්ලිප් රින්ග්ස් හෝ බාහිරින් ලබාදෙන DC සැපයුම් පද්ධති ඇතුළත් වන බැවිනි, එය 'brushless' සංකල්පයට පටහැනි වේ."
+        "explanation": "බුරුසු රහිත (Brushless) ප්‍රත්‍යාවර්තකයක (alternator) රොටරය මත ප්‍රධාන කොටස් තුනක සංයෝජනයක් පවතී: එනම් ත්‍රි-කලා උත්තේජක එතීුම (3 phase excitation winding), සෘජුකාරක පද්ධතිය (rectifier bank) සහ ප්‍රධාන ක්ෂේත්‍ර එතීුම (main field winding) වේ. මෙහි ක්‍රියාවලිය වන්නේ උත්තේජකයේ එතීුම මගින් නිපදවන AC විදුලිය, රොටරය මතම ඇති සෘජුකාරකය (rectifier) මගින් DC බවට පත් කර කෙලින්ම ප්‍රධාන එතීුමට ලබා දීමයි. මෙහිදී කාබන් බුරුසු හෝ ස්ලිප් රින්ග්ස් (slip rings) අවශ්‍ය නොවේ. අනෙකුත් විකල්ප වැරදි වන්නේ ඒවායේ ස්ලිප් රින්ග්ස් හෝ බාහිරින් ලබාදෙන DC සැපයුම් පද්ධති ඇතුළත් වන බැවිනි, එය 'brushless' සංකල්පයට පටහැනි වේ.",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -2825,7 +3010,8 @@
         ],
         "correct_answer": "10 000 000 Ohms.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -2841,7 +3027,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-10-at-13-34-49-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": "සමාන්තරව ක්‍රියාත්මක වන ජනක යන්ත්‍ර දෙකක් අතර අමතර ක්‍රියාකාරී භාරය (kW) බෙදා හැරීම තීරණය වන්නේ ඒවායේ Governor droop settings මතය. Droop යනු භාරය වැඩි වන විට ප්‍රයිම් මූවර් එකේ වේගය සුළු වශයෙන් අඩුවීමයි. මෙම සැකසුම මගින් යන්ත්‍ර දෙකම සමානුපාතිකව භාරය බෙදා ගන්නා බව සහතික කරයි. වෝල්ටීයතාව හෝ උද්දීපනය (excitation) මගින් පාලනය වන්නේ reactive load (kVAR) මිස active load (kW) නොවන බැවින් අනෙකුත් සැකසුම් මෙයට අදාළ නොවේ."
+        "explanation": "සමාන්තරව ක්‍රියාත්මක වන ජනක යන්ත්‍ර දෙකක් අතර අමතර ක්‍රියාකාරී භාරය (kW) බෙදා හැරීම තීරණය වන්නේ ඒවායේ Governor droop settings මතය. Droop යනු භාරය වැඩි වන විට ප්‍රයිම් මූවර් එකේ වේගය සුළු වශයෙන් අඩුවීමයි. මෙම සැකසුම මගින් යන්ත්‍ර දෙකම සමානුපාතිකව භාරය බෙදා ගන්නා බව සහතික කරයි. වෝල්ටීයතාව හෝ උද්දීපනය (excitation) මගින් පාලනය වන්නේ reactive load (kVAR) මිස active load (kW) නොවන බැවින් අනෙකුත් සැකසුම් මෙයට අදාළ නොවේ.",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -2855,7 +3042,8 @@
         ],
         "correct_answer": "Generator overload due to many motors starting simultaneously.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -2871,7 +3059,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/jyux.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -2887,7 +3076,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-10-at-13-49-04-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": "නෞකාවක විදුලි පද්ධතියේ එක් අදියරක (Phase) 'earth fault' එකක් තිබීමෙන් පමණක් පරිපථය බිඳ වැටෙන්නේ නැත. නමුත් වෙනත් අදියරක (උදා: yellow line) තවත් 'earth fault' එකක් ඇති වූ විට, එම අදියර දෙක අතර නැවෙහි බඳ (hull) හරහා කෙටි පරිපථයක් (short circuit) සම්පූර්ණ වේ. මෙහිදී කුඩා ධාරිතාවක් (10A) ඇති වෙන්ටිලේෂන් ෆෑන් පරිපථයේ ෆියුස් එක මුලින්ම දැවී යන්නේ එය 100A ෆියුස් එකට වඩා අඩු ධාරාවකට සංවේදී බැවිනි."
+        "explanation": "නෞකාවක විදුලි පද්ධතියේ එක් අදියරක (Phase) 'earth fault' එකක් තිබීමෙන් පමණක් පරිපථය බිඳ වැටෙන්නේ නැත. නමුත් වෙනත් අදියරක (උදා: yellow line) තවත් 'earth fault' එකක් ඇති වූ විට, එම අදියර දෙක අතර නැවෙහි බඳ (hull) හරහා කෙටි පරිපථයක් (short circuit) සම්පූර්ණ වේ. මෙහිදී කුඩා ධාරිතාවක් (10A) ඇති වෙන්ටිලේෂන් ෆෑන් පරිපථයේ ෆියුස් එක මුලින්ම දැවී යන්නේ එය 100A ෆියුස් එකට වඩා අඩු ධාරාවකට සංවේදී බැවිනි.",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -2901,7 +3091,8 @@
         ],
         "correct_answer": "In 440 V section: Two lamps bright. In 220 V section: Two lamps bright.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -2917,7 +3108,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-10-at-13-59-33-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -2933,7 +3125,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-10-at-14-03-11-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -2949,7 +3142,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-11-at-08-48-02-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -2965,7 +3159,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-11-at-08-51-59-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -2981,7 +3176,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-11-at-08-57-14-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -2995,7 +3191,8 @@
         ],
         "correct_answer": "The main diesel generator or shaft generator.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -3009,7 +3206,8 @@
         ],
         "correct_answer": "10 Mohm.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -3025,7 +3223,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-11-at-09-04-13-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf-1.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -3039,7 +3238,8 @@
         ],
         "correct_answer": "Prevent manual synchronising outside permitted limits.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -3053,7 +3253,8 @@
         ],
         "correct_answer": "Completely loose its share of the load causing the auxiliary engine to speed up.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -3069,7 +3270,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-11-at-09-15-27-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -3085,7 +3287,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-11-at-09-18-51-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -3101,7 +3304,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-11-at-09-22-21-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -3115,7 +3319,8 @@
         ],
         "correct_answer": "Inform the bridge about the reason for blackout, and expected time to restart.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -3131,7 +3336,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-11-at-09-27-14-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -3147,7 +3353,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-11-at-09-32-12-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -3161,7 +3368,8 @@
         ],
         "correct_answer": "The equipment cannot produce enough energy to ignite a gas (explode).",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -3175,7 +3383,8 @@
         ],
         "correct_answer": "In % of full scale.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -3189,7 +3398,8 @@
         ],
         "correct_answer": "The control system is depending on the best possible process signal.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -3203,7 +3413,8 @@
         ],
         "correct_answer": "Relatively wide range of temperature measurement.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -3219,7 +3430,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-11-at-10-17-54-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -3235,7 +3447,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-11-at-10-20-43-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -3249,7 +3462,8 @@
         ],
         "correct_answer": "Relatively non linear characteristic.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -3265,7 +3479,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-11-at-10-30-08-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -3281,7 +3496,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-11-at-10-37-14-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -3297,7 +3513,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-11-at-10-39-57-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -3313,7 +3530,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-11-at-11-10-03-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -3329,7 +3547,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/nex.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -3345,7 +3564,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/kwzs.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -3361,7 +3581,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/uerty.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -3377,7 +3598,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/poit.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -3393,7 +3615,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-11-at-11-42-09-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -3407,7 +3630,8 @@
         ],
         "correct_answer": "12 mA.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -3421,7 +3645,8 @@
         ],
         "correct_answer": "Check linearity.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -3435,7 +3660,8 @@
         ],
         "correct_answer": "In a pressure transmitter.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -3451,7 +3677,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-11-at-11-50-03-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -3467,7 +3694,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-11-at-11-52-35-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -3483,7 +3711,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-11-at-11-57-58-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -3499,7 +3728,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-11-at-12-13-16-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -3513,7 +3743,8 @@
         ],
         "correct_answer": "Zero-point is accurate, but 100 % input is not giving 100 % output.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -3527,7 +3758,8 @@
         ],
         "correct_answer": "Comparing input and output values against a documented standard.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -3541,7 +3773,8 @@
         ],
         "correct_answer": "Ionization type.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -3555,7 +3788,8 @@
         ],
         "correct_answer": "Blue.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -3571,7 +3805,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-13-at-08-19-19-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -3587,7 +3822,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-13-at-08-22-05-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": "පාලන පද්ධතියක (control-loop) 'transducer' එකක් යනු අත්‍යවශ්‍ය උපාංගයකි. එහි කාර්යය වන්නේ එක් භෞතික ශක්ති ආකාරයකින් ලැබෙන සංඥාවක් (උදාහරණයක් ලෙස පීඩනය හෝ උෂ්ණත්වය) වෙනත් ආකාරයක පාලන සංඥාවකට (විද්‍යුත් හෝ වායු පීඩන සංඥාවකට) පරිවර්තනය කිරීමයි. පීඩන මාපක (pressure gauges) හෝ උෂ්ණත්ව මාපක (thermometers) මගින් කරන්නේ අගයන් පෙන්වීම පමණක් වන අතර, ඒවා පද්ධතිය ස්වයංක්‍රීයව පාලනය කිරීමට සෘජුවම දායක නොවේ."
+        "explanation": "පාලන පද්ධතියක (control-loop) 'transducer' එකක් යනු අත්‍යවශ්‍ය උපාංගයකි. එහි කාර්යය වන්නේ එක් භෞතික ශක්ති ආකාරයකින් ලැබෙන සංඥාවක් (උදාහරණයක් ලෙස පීඩනය හෝ උෂ්ණත්වය) වෙනත් ආකාරයක පාලන සංඥාවකට (විද්‍යුත් හෝ වායු පීඩන සංඥාවකට) පරිවර්තනය කිරීමයි. පීඩන මාපක (pressure gauges) හෝ උෂ්ණත්ව මාපක (thermometers) මගින් කරන්නේ අගයන් පෙන්වීම පමණක් වන අතර, ඒවා පද්ධතිය ස්වයංක්‍රීයව පාලනය කිරීමට සෘජුවම දායක නොවේ.",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -3601,7 +3837,8 @@
         ],
         "correct_answer": "Adjustment of Zero-point and span.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -3617,7 +3854,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-13-at-08-26-07-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -3633,7 +3871,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-13-at-08-28-50-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -3649,7 +3888,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-13-at-08-31-08-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -3665,7 +3905,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-13-at-08-33-58-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -3681,7 +3922,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-13-at-08-52-00-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -3697,7 +3939,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-13-at-09-21-09-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -3713,7 +3956,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-13-at-09-27-23-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -3729,7 +3973,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-13-at-09-30-27-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -3745,7 +3990,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-13-at-09-33-44-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -3759,7 +4005,8 @@
         ],
         "correct_answer": "Gauge pressure.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -3773,7 +4020,8 @@
         ],
         "correct_answer": "Absolute pressure.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -3787,7 +4035,8 @@
         ],
         "correct_answer": "Low differential pressures.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -3803,7 +4052,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-13-at-09-42-15-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -3819,7 +4069,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-13-at-09-44-23-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -3835,7 +4086,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-13-at-09-48-59-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -3851,7 +4103,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-13-at-10-01-14-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -3867,7 +4120,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-13-at-11-07-56-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -3883,7 +4137,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-13-at-11-11-58-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -3897,7 +4152,8 @@
         ],
         "correct_answer": "Orifice plate.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -3913,7 +4169,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-13-at-11-16-44-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -3927,7 +4184,8 @@
         ],
         "correct_answer": "16 mA.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -3941,7 +4199,8 @@
         ],
         "correct_answer": "Strain gauge.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -3955,7 +4214,8 @@
         ],
         "correct_answer": "Proximity switch.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -3971,7 +4231,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-13-at-11-25-02-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -3987,7 +4248,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-13-at-11-28-37-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -4003,7 +4265,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-13-at-11-32-19-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -4019,7 +4282,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-13-at-11-35-16-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -4035,7 +4299,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-13-at-11-37-42-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -4049,7 +4314,8 @@
         ],
         "correct_answer": "Allow removal of the sensor also when liquid is flowing in the pipe.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -4065,7 +4331,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-13-at-11-43-59-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -4081,7 +4348,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-13-at-11-47-22-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -4097,7 +4365,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-13-at-11-50-24-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -4113,7 +4382,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-13-at-12-22-54-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -4127,7 +4397,8 @@
         ],
         "correct_answer": "Capillary tube.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -4141,7 +4412,8 @@
         ],
         "correct_answer": "FIC.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -4155,7 +4427,8 @@
         ],
         "correct_answer": "TC.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -4169,7 +4442,8 @@
         ],
         "correct_answer": "To detect oil mist (explosive atmosphere in the crankcase).",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -4185,7 +4459,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-13-at-13-16-15-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -4199,7 +4474,8 @@
         ],
         "correct_answer": "Pressure diaphragm.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -4213,7 +4489,8 @@
         ],
         "correct_answer": "Temp sensitive semi-conductor.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -4227,7 +4504,8 @@
         ],
         "correct_answer": "Electrodes.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -4241,7 +4519,8 @@
         ],
         "correct_answer": "All alarms are reengaged prior to switching to UMS-mode.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -4257,7 +4536,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-13-at-13-25-03-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -4271,7 +4551,8 @@
         ],
         "correct_answer": "LIC.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -4285,7 +4566,8 @@
         ],
         "correct_answer": "Electrodes.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -4299,7 +4581,8 @@
         ],
         "correct_answer": "Pressure.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -4313,7 +4596,8 @@
         ],
         "correct_answer": "Voltmeter and synchroscope.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -4327,7 +4611,8 @@
         ],
         "correct_answer": "In parallel with the armature.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -4341,7 +4626,8 @@
         ],
         "correct_answer": "All of these.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -4355,7 +4641,8 @@
         ],
         "correct_answer": "The load connected to the switchboard.",
         "images": [],
-        "explanation": "තනි Alternator එකක් switchboard එකකට සම්බන්ධ කර ඇති විට, එහි power factor එක තීරණය වන්නේ එම පද්ධතියට සම්බන්ධ කර ඇති පාරිභෝගික බර (load) මගිනි. එනම් මෝටර් වැනි inductive load වැඩි නම් power factor එක අඩු වේ. Alternator එකේ excitation මගින් වෙනස් කළ හැක්කේ වෝල්ටීයතාවය (Voltage) මිස power factor එක නොවේ. බර අනුව ඇති වන ධාරාව සහ වෝල්ටීයතාවය අතර පරතරය මත power factor එක ස්වයංක්‍රීයව තීරණය වේ."
+        "explanation": "තනි Alternator එකක් switchboard එකකට සම්බන්ධ කර ඇති විට, එහි power factor එක තීරණය වන්නේ එම පද්ධතියට සම්බන්ධ කර ඇති පාරිභෝගික බර (load) මගිනි. එනම් මෝටර් වැනි inductive load වැඩි නම් power factor එක අඩු වේ. Alternator එකේ excitation මගින් වෙනස් කළ හැක්කේ වෝල්ටීයතාවය (Voltage) මිස power factor එක නොවේ. බර අනුව ඇති වන ධාරාව සහ වෝල්ටීයතාවය අතර පරතරය මත power factor එක ස්වයංක්‍රීයව තීරණය වේ.",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -4369,7 +4656,8 @@
         ],
         "correct_answer": "Remove the load from the alternator to be stopped.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -4383,7 +4671,8 @@
         ],
         "correct_answer": "The alternators are not generating the same voltages and should be adjusted on automatic voltage regulator rheostats.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -4397,7 +4686,8 @@
         ],
         "correct_answer": "When the pointer of the synchronoscope is at 0.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -4411,7 +4701,8 @@
         ],
         "correct_answer": "Trip/stop all nonessential loads that are connected to the switchboard.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -4425,7 +4716,8 @@
         ],
         "correct_answer": "Raise the governor speed controller of the incoming alternator and reduce the governor speed controller of the alternator already on the switchboard.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -4439,7 +4731,8 @@
         ],
         "correct_answer": "All of the mentioned alternatives.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -4453,7 +4746,8 @@
         ],
         "correct_answer": "The frequency of the incoming alternator is the same as that of the main switchboard.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -4467,7 +4761,8 @@
         ],
         "correct_answer": "Because the bus bars will be short circuited.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -4481,7 +4776,8 @@
         ],
         "correct_answer": "By lowering the generator frequency.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -4495,7 +4791,8 @@
         ],
         "correct_answer": "It rises.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -4509,7 +4806,8 @@
         ],
         "correct_answer": "Two.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -4523,7 +4821,8 @@
         ],
         "correct_answer": "115 %.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -4537,7 +4836,8 @@
         ],
         "correct_answer": "Presence of magnetic flux, relative motion between conductor and flux.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -4551,7 +4851,8 @@
         ],
         "correct_answer": "Its very high speed breaking operation.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -4565,7 +4866,8 @@
         ],
         "correct_answer": "Current and torque decrease, speed remains constant.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -4579,7 +4881,8 @@
         ],
         "correct_answer": "110 %.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -4593,7 +4896,8 @@
         ],
         "correct_answer": "Winding break.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -4607,7 +4911,8 @@
         ],
         "correct_answer": "All of these.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -4621,7 +4926,8 @@
         ],
         "correct_answer": "The under voltage trip.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -4635,7 +4941,8 @@
         ],
         "correct_answer": "the generator and the bus bars.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -4649,7 +4956,8 @@
         ],
         "correct_answer": "3-5 seconds.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -4663,7 +4971,8 @@
         ],
         "correct_answer": "440 Volt.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -4677,7 +4986,8 @@
         ],
         "correct_answer": "The high/low frequency trip.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -4691,7 +5001,8 @@
         ],
         "correct_answer": "Longer.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -4705,7 +5016,8 @@
         ],
         "correct_answer": "The excitation current.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -4719,7 +5031,8 @@
         ],
         "correct_answer": "A connection box has been filled with salt water.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -4735,7 +5048,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-14-at-10-49-42-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -4749,7 +5063,8 @@
         ],
         "correct_answer": "In the stator.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -4763,7 +5078,8 @@
         ],
         "correct_answer": "By the alternator speed.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -4777,7 +5093,8 @@
         ],
         "correct_answer": "2-3 times.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -4791,7 +5108,8 @@
         ],
         "correct_answer": "The terminal voltage will drop below 440 Volt.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -4807,7 +5125,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-14-at-11-22-14-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -4821,7 +5140,8 @@
         ],
         "correct_answer": "The output voltage and the output current of the alternator.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -4835,7 +5155,8 @@
         ],
         "correct_answer": "By changing the position of the entry cable on two terminals.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -4849,7 +5170,8 @@
         ],
         "correct_answer": "The short circuit protection.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -4863,7 +5185,8 @@
         ],
         "correct_answer": "The high/low frequency trip.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -4877,7 +5200,8 @@
         ],
         "correct_answer": "an earth.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -4891,7 +5215,8 @@
         ],
         "correct_answer": "Via slip rings and brushes.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -4905,7 +5230,8 @@
         ],
         "correct_answer": "an insulation breakdown.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -4919,7 +5245,8 @@
         ],
         "correct_answer": "It falls to zero.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -4933,7 +5260,8 @@
         ],
         "correct_answer": "When the synchroscope is rotating slowly clockwise and at the 11 o’clock position.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -4947,7 +5275,8 @@
         ],
         "correct_answer": "The line current is equal to the phase current.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -4961,7 +5290,8 @@
         ],
         "correct_answer": "Galley.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -4975,7 +5305,8 @@
         ],
         "correct_answer": "0,832",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -4989,7 +5320,8 @@
         ],
         "correct_answer": "It increases the voltage produced in the conductor.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -5003,7 +5335,8 @@
         ],
         "correct_answer": "Its voltage, current and impedance.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -5017,7 +5350,8 @@
         ],
         "correct_answer": "That both diesels have the same load in kWat, same reactive load in kVAR, and same amperage.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -5031,7 +5365,8 @@
         ],
         "correct_answer": "It will run faster and be overloaded.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -5047,7 +5382,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/jszm.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -5061,7 +5397,8 @@
         ],
         "correct_answer": "The short circuit protection.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -5075,7 +5412,8 @@
         ],
         "correct_answer": "To counter field distortion.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -5089,7 +5427,8 @@
         ],
         "correct_answer": "armature.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -5103,7 +5442,8 @@
         ],
         "correct_answer": "Brushes improperly positioned.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -5117,7 +5457,8 @@
         ],
         "correct_answer": "120 Amps.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -5131,7 +5472,8 @@
         ],
         "correct_answer": "219,97 A.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -5145,7 +5487,8 @@
         ],
         "correct_answer": "Wash with tetrachloride, heat to 80 °C.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -5161,7 +5504,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-14-at-13-15-42-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -5175,7 +5519,8 @@
         ],
         "correct_answer": "125 % of the full load current name plate rating.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -5191,7 +5536,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-14-at-13-20-23-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -5205,7 +5551,8 @@
         ],
         "correct_answer": "746 Watts.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -5219,7 +5566,8 @@
         ],
         "correct_answer": "the main and the auxiliary windings.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -5233,7 +5581,8 @@
         ],
         "correct_answer": "134 A.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -5247,7 +5596,8 @@
         ],
         "correct_answer": "20 A.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -5261,7 +5611,8 @@
         ],
         "correct_answer": "By switching two of the three connections on the motor terminal.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -5277,7 +5628,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-14-at-13-33-54-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -5291,7 +5643,8 @@
         ],
         "correct_answer": "By fitting a voltmeter over one phase.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -5305,7 +5658,8 @@
         ],
         "correct_answer": "0 A.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -5321,7 +5675,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-14-at-13-39-57-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -5337,7 +5692,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-15-at-08-47-22-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -5353,7 +5709,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-15-at-08-52-12-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -5367,7 +5724,8 @@
         ],
         "correct_answer": "replace all three fuses, blown or not.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -5381,7 +5739,8 @@
         ],
         "correct_answer": "kVAR rating, voltage, impedance, BIL rating, polarity.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -5397,7 +5756,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-15-at-09-05-36-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -5411,7 +5771,8 @@
         ],
         "correct_answer": "confine the arc, control its movement and provide rapid cooling.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -5425,7 +5786,8 @@
         ],
         "correct_answer": "kW.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -5439,7 +5801,8 @@
         ],
         "correct_answer": "the magnetic field strength.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -5453,7 +5816,8 @@
         ],
         "correct_answer": "Arcing at the brushes.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -5469,7 +5833,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-15-at-09-55-29-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -5483,7 +5848,8 @@
         ],
         "correct_answer": "To divide the reactive current equally between the generators.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -5499,7 +5865,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-15-at-09-58-33-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -5513,7 +5880,8 @@
         ],
         "correct_answer": "Failure of the exciter.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -5527,7 +5895,8 @@
         ],
         "correct_answer": "faster in overload.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -5543,7 +5912,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-15-at-10-04-46-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -5557,7 +5927,8 @@
         ],
         "correct_answer": "To disconnect non-essential equipment in case of generator overload.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -5571,7 +5942,8 @@
         ],
         "correct_answer": "By carrying out a Megger test.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -5585,7 +5957,8 @@
         ],
         "correct_answer": "By the excitation current in the rotor.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -5599,7 +5972,8 @@
         ],
         "correct_answer": "Flywheel & governor.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -5615,7 +5989,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-15-at-11-27-45-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -5629,7 +6004,8 @@
         ],
         "correct_answer": "Change the position of the entry cable on two terminals.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -5643,7 +6019,8 @@
         ],
         "correct_answer": "Increased number of poles.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -5657,7 +6034,8 @@
         ],
         "correct_answer": "metal frame work.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -5671,7 +6049,8 @@
         ],
         "correct_answer": "Volts.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -5685,7 +6064,8 @@
         ],
         "correct_answer": "Remove the load from the generator to be stopped.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -5699,7 +6079,8 @@
         ],
         "correct_answer": "The line current is equal to the phase current.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -5713,7 +6094,8 @@
         ],
         "correct_answer": "kVA.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -5727,7 +6109,8 @@
         ],
         "correct_answer": "Volts.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -5741,7 +6124,8 @@
         ],
         "correct_answer": "All of these.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -5755,7 +6139,8 @@
         ],
         "correct_answer": "To prevent the generator being run as a motor.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -5769,7 +6154,8 @@
         ],
         "correct_answer": "by switching off the emergency switch board supply breaker on the main switch board.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -5783,7 +6169,8 @@
         ],
         "correct_answer": "An ohmmeter.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -5797,7 +6184,8 @@
         ],
         "correct_answer": "No fuses will trip, the system is isolated from the earth.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -5811,7 +6199,8 @@
         ],
         "correct_answer": "Four.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -5827,7 +6216,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-15-at-11-54-37-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -5841,7 +6231,8 @@
         ],
         "correct_answer": "85 % – 120 %.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -5855,7 +6246,8 @@
         ],
         "correct_answer": "Wash with fresh water, wipe dry and re-varnish windings.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -5871,7 +6263,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-15-at-13-05-21-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -5885,7 +6278,8 @@
         ],
         "correct_answer": "Shunt, series and compound.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -5901,7 +6295,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-15-at-13-10-12-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -5915,7 +6310,8 @@
         ],
         "correct_answer": "In the armature windings.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -5929,7 +6325,8 @@
         ],
         "correct_answer": "Strength of magnetic field.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -5943,7 +6340,8 @@
         ],
         "correct_answer": "That the load, Hertz and Voltage are normal, any other power requirements are in Chief Engineer`s standing orders, number of generators on load.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -5957,7 +6355,8 @@
         ],
         "correct_answer": "When the alternator in question has lost prime mover input.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -5971,7 +6370,8 @@
         ],
         "correct_answer": "Power Generation, power distribution inclusive secondary circuit, any unusual power consumer switched on/off, earth faults main and secondary systems.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -5985,7 +6385,8 @@
         ],
         "correct_answer": "Series connected.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6001,7 +6402,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-16-at-08-45-43-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6015,7 +6417,8 @@
         ],
         "correct_answer": "30 metres.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6031,7 +6434,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-16-at-09-06-43-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6045,7 +6449,8 @@
         ],
         "correct_answer": "None, this is how it should appear.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6059,7 +6464,8 @@
         ],
         "correct_answer": "If two unsynchronized generators are connected, both the diesel prime mover and the generator can be damaged.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6073,7 +6479,8 @@
         ],
         "correct_answer": "Yes, if a thyristor regulator is used.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6087,7 +6494,8 @@
         ],
         "correct_answer": "At 5–15 % over the rated current.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6101,7 +6509,8 @@
         ],
         "correct_answer": "the output voltage and the output current of the alternator.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6117,7 +6526,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-16-at-09-30-23-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6133,7 +6543,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-16-at-09-33-17-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6147,7 +6558,8 @@
         ],
         "correct_answer": "Any of the other options.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6161,7 +6573,8 @@
         ],
         "correct_answer": "No volt trip.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6177,7 +6590,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-16-at-09-47-52-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6191,7 +6605,8 @@
         ],
         "correct_answer": "Any of these options.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6205,7 +6620,8 @@
         ],
         "correct_answer": "An air start compressor.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6221,7 +6637,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-16-at-10-09-13-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6235,7 +6652,8 @@
         ],
         "correct_answer": "30 metres.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6249,7 +6667,8 @@
         ],
         "correct_answer": "Stop the motor and check the electrical and mechanical function.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6263,7 +6682,8 @@
         ],
         "correct_answer": "2–3 times.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6277,7 +6697,8 @@
         ],
         "correct_answer": "The generator speed and number of poles.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6291,7 +6712,8 @@
         ],
         "correct_answer": "The generator may trip on overload.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6305,7 +6727,8 @@
         ],
         "correct_answer": "3–5 seconds.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6319,7 +6742,8 @@
         ],
         "correct_answer": "Kilowatts (kW).",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6333,7 +6757,8 @@
         ],
         "correct_answer": "95 Amps.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6347,7 +6772,8 @@
         ],
         "correct_answer": "Between the generator and the bus bars.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6361,7 +6787,8 @@
         ],
         "correct_answer": "Prevent build up of unwanted eddy currents.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6375,7 +6802,8 @@
         ],
         "correct_answer": "975 rpm.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6389,7 +6817,8 @@
         ],
         "correct_answer": "Protect from overheating.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6403,7 +6832,8 @@
         ],
         "correct_answer": "Commutator and brushes.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6417,7 +6847,8 @@
         ],
         "correct_answer": "By carrying out a Megger test.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6431,7 +6862,8 @@
         ],
         "correct_answer": "Disconnect all cables to the motor.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6445,7 +6877,8 @@
         ],
         "correct_answer": "The incoming generator is running faster than the generator on load.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6459,7 +6892,8 @@
         ],
         "correct_answer": "When the motor has reached its normal operating temperature.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6473,7 +6907,8 @@
         ],
         "correct_answer": "Adjust the excitation of the two generators to bring them level.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6487,7 +6922,8 @@
         ],
         "correct_answer": "Any of these.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6501,7 +6937,8 @@
         ],
         "correct_answer": "The process will oscillate and get out of control.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6517,7 +6954,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-16-at-11-20-38-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6531,7 +6969,8 @@
         ],
         "correct_answer": "Change in output signal divided by change in input signal.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6545,7 +6984,8 @@
         ],
         "correct_answer": "Switch the UMS selector switch to manual mode and engage the «dead man alarm».",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6559,7 +6999,8 @@
         ],
         "correct_answer": "Measurement of differential pressure.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6573,7 +7014,8 @@
         ],
         "correct_answer": "That a secondary auxiliary set is switched to automatic standby mode.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6589,7 +7031,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-16-at-11-39-38-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6603,7 +7046,8 @@
         ],
         "correct_answer": "Consult with the instruction manual for the equipment in question for correct values.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6617,7 +7061,8 @@
         ],
         "correct_answer": "Alarm → Standby start → Slowdown → Shutdown.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6631,7 +7076,8 @@
         ],
         "correct_answer": "A described UMS-mode check shall always be carried out prior to leaving the engine room, irrespective of the time he will be absent.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6647,7 +7093,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-17-at-11-39-36-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6661,7 +7108,8 @@
         ],
         "correct_answer": "Incomer picks up as a generator.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6675,7 +7123,8 @@
         ],
         "correct_answer": "All the actions listed in the other alternatives.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6689,7 +7138,8 @@
         ],
         "correct_answer": "The controller will not react on a process change in a specific range.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6705,7 +7155,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-17-at-11-49-19-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6719,7 +7170,8 @@
         ],
         "correct_answer": "Steering gear and alarm system.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6735,7 +7187,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-17-at-11-56-30-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6751,7 +7204,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-17-at-13-18-04-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6767,7 +7221,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/jyoo.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6781,7 +7236,8 @@
         ],
         "correct_answer": "Amplitude of output signal divided by amplitude of input signal.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6795,7 +7251,8 @@
         ],
         "correct_answer": "The secondary controller.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6811,7 +7268,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-17-at-13-36-26-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6827,7 +7285,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-17-at-13-38-40-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6841,7 +7300,8 @@
         ],
         "correct_answer": "Too long I-time.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6857,7 +7317,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/vqz.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6873,7 +7334,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/rpmz.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6887,7 +7349,8 @@
         ],
         "correct_answer": "PI-controller.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6901,7 +7364,8 @@
         ],
         "correct_answer": "1:4.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6917,7 +7381,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-17-at-13-56-29-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6933,7 +7398,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-17-at-13-59-33-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6947,7 +7413,8 @@
         ],
         "correct_answer": "Several control-valves are connected to the same controller output signal.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6961,7 +7428,8 @@
         ],
         "correct_answer": "Any of the other options.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6975,7 +7443,8 @@
         ],
         "correct_answer": "They produce electrical power when a ship powered by medium speed diesels is at sea.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6989,7 +7458,8 @@
         ],
         "correct_answer": "Yellow and green.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -7003,7 +7473,8 @@
         ],
         "correct_answer": "A conductor’s resistance to electricity flowing along it.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -7017,7 +7488,8 @@
         ],
         "correct_answer": "Fuse.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -7031,7 +7503,8 @@
         ],
         "correct_answer": "Engine room lighting.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -7045,7 +7518,8 @@
         ],
         "correct_answer": "Relay.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -7059,7 +7533,8 @@
         ],
         "correct_answer": "Fuses protect circuits and people from excess current automatically.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -7073,7 +7548,8 @@
         ],
         "correct_answer": "220 volts.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -7087,7 +7563,8 @@
         ],
         "correct_answer": "Change A.C. voltage from one value to another.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -7101,7 +7578,8 @@
         ],
         "correct_answer": "The Machinery Control Room.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -7115,7 +7593,8 @@
         ],
         "correct_answer": "A hydrometer.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -7129,7 +7608,8 @@
         ],
         "correct_answer": "Dilute sulphuric acid.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -7143,7 +7623,8 @@
         ],
         "correct_answer": "The powering of hand torches.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -7157,7 +7638,8 @@
         ],
         "correct_answer": "Voltage.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -7171,7 +7653,8 @@
         ],
         "correct_answer": "Blue.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -7185,7 +7668,8 @@
         ],
         "correct_answer": "not to replace it with one of a higher rating.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -7199,7 +7683,8 @@
         ],
         "correct_answer": "busbars.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -7213,7 +7698,8 @@
         ],
         "correct_answer": "440 volt.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -7227,7 +7713,8 @@
         ],
         "correct_answer": "a transformer.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -7241,7 +7728,8 @@
         ],
         "correct_answer": "The earth wire goes to the centre top connection.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -7255,7 +7743,8 @@
         ],
         "correct_answer": "Amperes.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -7269,7 +7758,8 @@
         ],
         "correct_answer": "Brown.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -7283,7 +7773,8 @@
         ],
         "correct_answer": "solenoid valve.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -7299,7 +7790,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-18-at-09-53-35-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -7315,7 +7807,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-18-at-09-56-59-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -7329,7 +7822,8 @@
         ],
         "correct_answer": "a megger.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -7343,7 +7837,8 @@
         ],
         "correct_answer": "A device that acts as a fuse as well as a switch.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -7357,7 +7852,8 @@
         ],
         "correct_answer": "electrical power.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -7371,7 +7867,8 @@
         ],
         "correct_answer": "Electric motors running pumps.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -7385,7 +7882,8 @@
         ],
         "correct_answer": "2 to 3 minutes.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -7399,7 +7897,8 @@
         ],
         "correct_answer": "For scribing large circles.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -7413,7 +7912,8 @@
         ],
         "correct_answer": "Split pins.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -7429,7 +7929,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-18-at-10-33-39-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -7443,7 +7944,8 @@
         ],
         "correct_answer": "Double cut.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -7457,7 +7959,8 @@
         ],
         "correct_answer": "One moving and one fixed blade.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -7471,7 +7974,8 @@
         ],
         "correct_answer": "Cork is to protect the point.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -7485,7 +7989,8 @@
         ],
         "correct_answer": "Straw → Brown → Purple → Blue.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -7499,7 +8004,8 @@
         ],
         "correct_answer": "With a vernier protractor.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -7515,7 +8021,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-18-at-10-56-13-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -7529,7 +8036,8 @@
         ],
         "correct_answer": "Solder.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -7545,7 +8053,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-18-at-11-00-30-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -7561,7 +8070,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-18-at-11-03-54-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -7575,7 +8085,8 @@
         ],
         "correct_answer": "Electrode Arc length, Welding current, Electrode angle.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -7589,7 +8100,8 @@
         ],
         "correct_answer": "Excessive rest clearance.",
         "images": [],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -7605,7 +8117,8 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-18-at-11-10-13-ilide.info-electrical-electronics-pr_cbf19bc8cacb68b6a76f7215e814c9bb.pdf.png"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -7621,6 +8134,7 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2023/07/scheme-2.jpg"
         ],
-        "explanation": ""
+        "explanation": "",
+        "tags": []
     }
 ]
