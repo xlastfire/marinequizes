@@ -12,7 +12,16 @@
         "correct_answer": "Not less than half the total number of lifebuoys shall be provided with self-ignighting lights.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "SOLAS",
+                "main_category": "Maritime Regulations, Law & Compliance"
+            },
+            {
+                "sub_category": "LSA",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -27,7 +36,16 @@
         "correct_answer": "A link between the shipboard training officer and the company training officer ashore.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "management",
+                "main_category": "Management, Administration & Human Factors"
+            },
+            {
+                "sub_category": "safety",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -42,7 +60,16 @@
         "correct_answer": "Load resistor.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Instrumentation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Sensors",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -57,7 +84,12 @@
         "correct_answer": "Blocked filter drier causing the automatic low pressure cut out to operate.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "refrigeration",
+                "main_category": "Marine Engineering & Motive Power"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -72,7 +104,16 @@
         "correct_answer": "Low differential pressures.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Instrumentation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Pressure Measurement",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -87,7 +128,16 @@
         "correct_answer": "850 °C.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "pollution prevention",
+                "main_category": "Maritime Regulations, Law & Compliance"
+            },
+            {
+                "sub_category": "Incinerator",
+                "main_category": "Maritime Regulations, Law & Compliance"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -119,7 +169,20 @@
         "correct_answer": "It is the SOLAS conventions that take care of the human safety at sea.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "IMO",
+                "main_category": "Maritime Regulations, Law & Compliance"
+            },
+            {
+                "sub_category": "SOLAS",
+                "main_category": "Maritime Regulations, Law & Compliance"
+            },
+            {
+                "sub_category": "Regulatory",
+                "main_category": "Maritime Regulations, Law & Compliance"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -151,7 +214,16 @@
         "correct_answer": "Circumferential slip of the after clamp ring in the opposite direction to shaft rotation.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Instrumentation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "propulsion",
+                "main_category": "Marine Engineering & Motive Power"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -183,7 +255,20 @@
         "correct_answer": "The use of the ship’s line throwing apparatus.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "LSA",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "SOLAS",
+                "main_category": "Maritime Regulations, Law & Compliance"
+            },
+            {
+                "sub_category": "training",
+                "main_category": "Management, Administration & Human Factors"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -198,7 +283,16 @@
         "correct_answer": "As it is only a routine maintenance and not a breakdown then postpone the task until full details of the motor can be obtained.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "maintenance",
+                "main_category": "Maintenance, Repair & Workshop Practice"
+            },
+            {
+                "sub_category": "safety",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -213,7 +307,16 @@
         "correct_answer": "Stop pumps – report – clean up.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "pollution prevention",
+                "main_category": "Maritime Regulations, Law & Compliance"
+            },
+            {
+                "sub_category": "Emergency Procedures",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -228,7 +331,16 @@
         "correct_answer": "Reduce the time between overhauls due to increased fouling.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Diesel Engine",
+                "main_category": "Marine Engineering & Motive Power"
+            },
+            {
+                "sub_category": "maintenance",
+                "main_category": "Maintenance, Repair & Workshop Practice"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -242,8 +354,17 @@
         ],
         "correct_answer": "Approximately 70 % of MCR.",
         "images": [],
-        "explanation": "",
-        "tags": []
+        "explanation": "මෙම තත්වය තුළ, නැවක ප්‍රධාන ඩීසල් එන්ජිමක සිලින්ඩරයක් ක්‍රියා විරහිත වූ විට, එන්ජිමේ උපරිම බලය (Maximum Continuous Rating - MCR) 70% දක්වා අඩු වනු ඇත. මෙයට හේතුව වන්නේ, සිලින්ඩරයක් ක්‍රියා නොකිරීම නිසා, ඉතිරි සිලින්ඩර 5ට එන්ජිමේ සම්පූර්ණ බර දැරීමට සිදුවීමයි. එක් සිලින්ඩරයක් අහිමි වීමෙන් එන්ජිමේ බල නිෂ්පාදනය 1/6 කින් (ආසන්න වශයෙන් 16.7%) අඩුවනු ඇත. එබැවින්, ආරක්ෂිත හදිසි මෙහෙයුම් සඳහා, එන්ජිමේ උපරිම ධාරිතාව (MCR) 70% දක්වා අඩු කිරීම සුදුසුය. මෙම සීමාව, එන්ජිමට අධික පීඩනයක් එල්ල නොවී, අමතර කොටස් වලට හානි වීම වලක්වා, නැව තවදුරටත් ගමන් කිරීමට ඉඩ සලසයි. 50% හෝ 30% වැනි අඩු ධාරිතාවක් හදිසි මෙහෙයුම් සඳහා අවශ්‍ය විය හැකි වුවද, 70% යනු සාමාන්‍යයෙන් පිළිගැනෙන උපරිම අඩුවීමයි. 90% ධාරිතාවකදී එන්ජිම මත අධික පීඩනයක් ඇති විය හැකි අතර, එය හානි වලට තුඩු දිය හැකිය.",
+        "tags": [
+            {
+                "sub_category": "Diesel Engines",
+                "main_category": "Marine Engineering & Motive Power"
+            },
+            {
+                "sub_category": "Emergency Operations",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -258,7 +379,12 @@
         "correct_answer": "Install a 100 ohm resistor in series with the coil.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -290,7 +416,16 @@
         "correct_answer": "Blank flanges should be fitted to the closed starboard side manifold valves.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "bunkering",
+                "main_category": "Cargo Operations & Vessel Types"
+            },
+            {
+                "sub_category": "safety",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -305,7 +440,16 @@
         "correct_answer": "Increased turbocharger revolutions.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Diesel Engine",
+                "main_category": "Marine Engineering & Motive Power"
+            },
+            {
+                "sub_category": "turbocharger",
+                "main_category": "Marine Engineering & Motive Power"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -320,7 +464,16 @@
         "correct_answer": "For any space with limited access or non-continuous ventilation or is suspected of having a hazardous atmosphere.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "safety",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "Enclosed Space Entry",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -334,8 +487,13 @@
         ],
         "correct_answer": "A heavily leaking starting air valve may cause an explosion in the starting air pipe system.",
         "images": [],
-        "explanation": "",
-        "tags": []
+        "explanation": "නැව් එන්ජින් වල ප්‍රධාන ප්‍රචාලක ඩීසල් එන්ජිම (Main propulsion diesel engine) ක්‍රියාත්මක කිරීම සඳහා සාමාන්‍යයෙන් භාවිතා කරන්නේ සම්පීඩිත වාතය (Compressed air) සෘජුවම සිලින්ඩර තුළට ඇතුළු කිරීමේ ක්‍රමයයි. මෙහිදී අසන ලද ප්‍රශ්නයට අනුව නිවැරදි පිළිතුර වන්නේ තදින් කාන්දු වන වායු ආරම්භක කපාටයක් (Starting air valve) මඟින් ආරම්භක වායු නල පද්ධතිය (Starting air pipe system) තුළ පිපිරීමක් සිදුවිය හැකි බවයි. මෙයට ප්‍රධාන හේතුව වන්නේ එන්ජිම ක්‍රියාත්මක වන විට සිලින්ඩරය තුළ ඇති අධික උෂ්ණත්වය සහිත දහන වායූන් (Combustion gases) කාන්දු වන කපාටය හරහා නැවත වායු පද්ධතියට ගමන් කිරීමයි. මෙම දහන වායූන් සමඟ සිලින්ඩරය තුළ ඉතිරිව ඇති ඉන්ධන වාෂ්ප (Fuel vapors) සහ ලිහිසි තෙල් අංශු (Lubricating oil mist) ද වායු නල තුළට පිවිසීම සිදුවේ. පද්ධතිය තුළ ඇති අධික පීඩනය යටතේ පවතින වාතය සමඟ මෙම දහනය විය හැකි මිශ්‍රණය එකතු වූ විට ඉහළ උෂ්ණත්වය නිසා අභ්‍යන්තර දහනයක් (Internal combustion) ඇතිවී වායු නල පද්ධතිය පුපුරා යාමට ලක්විය හැක. අනෙක් විකල්පයන් වැරදි වීමට හේතු ලෙස දැක්විය හැක්කේ ඔක්සිජන් බෝතලයක් (Oxygen bottle) භාවිතා කිරීම ඉතා භයානක සහ නීති විරෝධී ක්‍රියාවක් වන අතර එය ගින්නක් හෝ පිපිරීමක් ඇති කිරීමට හේතු වේ. ටර්නින් ගියර් (Turning gear) සම්බන්ධ කර තිබියදී එන්ජිම ආරම්භ කිරීමට උත්සාහ කිරීම මගින් බරපතල යාන්ත්‍රික හානි (Mechanical damage) සිදුවන අතර එය කිසිසේත් නොකළ යුතු ක්‍රියාවකි. අවසාන වශයෙන් ආරම්භක වාතය එන්ජිම සාර්ථකව පණ ගැන්වෙන තෙක් පමණක් ලබා දිය යුතු අතර එන්ජිම දැල්වී (Fired) එය තනිව ක්‍රියාත්මක වන තත්ත්වයට පත් වූ පසු වාතය සැපයීම වහාම නැවැත්විය යුතුය. මන්ද එන්ජිම ක්‍රියාත්මක වීමට පටන් ගත් පසුවත් වාතය සැපයීම දිගටම කරගෙන යාමෙන් පිස්ටන් (Piston) සහ අනෙකුත් කොටස් වලට හානි සිදුවිය හැකි නිසාය.",
+        "tags": [
+            {
+                "sub_category": "Diesel Engines",
+                "main_category": "Marine Engineering & Motive Power"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -350,7 +508,12 @@
         "correct_answer": "Fouling of turbocharger intake filters.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Diesel Engine",
+                "main_category": "Marine Engineering & Motive Power"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -365,7 +528,16 @@
         "correct_answer": "Set the proportional band to minimum width and the integral action to maximum (repeats per minute).",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Automation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Control Systems",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -380,7 +552,16 @@
         "correct_answer": "Turbulent fluid flow generally increases heat transfer efficiency.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Thermal Dynamics",
+                "main_category": "Marine Engineering & Motive Power"
+            },
+            {
+                "sub_category": "heat exchanger",
+                "main_category": "Marine Engineering & Motive Power"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -395,7 +576,16 @@
         "correct_answer": "Should only cover specific hot work tasks and be valid for a specified time period.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "hot work",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "safety",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -410,7 +600,12 @@
         "correct_answer": "Percentage of available flow.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Automation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -425,7 +620,12 @@
         "correct_answer": "Adiabatic.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Thermal Dynamics",
+                "main_category": "Marine Engineering & Motive Power"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -456,8 +656,17 @@
         ],
         "correct_answer": "Every week.",
         "images": [],
-        "explanation": "",
-        "tags": []
+        "explanation": "සාමාන්‍ය හදිසි අනතුරු ඇඟවීමේ පද්ධතිය (General Emergency Alarm System) යනු නෞකාවේ ආරක්ෂාව සඳහා අතිශයින්ම වැදගත් වන උපකරණයකි. නෞකාවේ සිටින කාර්ය මණ්ඩලය සහ මගීන් සියලු දෙනාටම ගින්නක්, නෞකාව අත්හැර යා යුතු අවස්ථාවක් (abandon ship) හෝ වෙනත් ඕනෑම බරපතල හදිසි තත්වයක් පිළිබඳව දැනුම් දීම සඳහා මෙම පද්ධතිය භාවිතා කරයි. මෙම පද්ධතිය නිසියාකාරව ක්‍රියාත්මක වීම නෞකාවේ සිටින සියලු දෙනාගේම ජීවිත ආරක්ෂාවට සෘජුවම බලපාන බැවින්, එය නිරන්තරයෙන් පරීක්ෂා කිරීම අත්‍යවශ්‍ය වේ.\n\nජාත්‍යන්තර මුහුදු ගමන් වල ආරක්ෂාව සම්බන්ධයෙන් වන SOLAS (Safety of Life at Sea) සම්මුතියේ රෙගුලාසි වලට අනුව, නෞකාවල ඇති මෙම සාමාන්‍ය හදිසි අනතුරු ඇඟවීමේ පද්ධතිය නිතිපතා පරීක්ෂා කළ යුතුය. මෙම රෙගුලාසි මගින් නියම කරනු ලබන පරිදි, මෙම පද්ධතිය සෑම සතියකම (Every week) පරීක්ෂා කළ යුතු අතර, එය නිසියාකාරව ක්‍රියාත්මක වන බව තහවුරු කර ගත යුතුය. මෙම සතිපතා පරීක්ෂණය මගින් පද්ධතියේ ඇති සියලුම අනතුරු ඇඟවීමේ සංඥා (alarm signals), ශබ්ද විකාශන යන්ත්‍ර (loudspeakers) සහ සම්බන්ධිත අනෙකුත් උපාංග නිසි ලෙස ක්‍රියාත්මක වේදැයි පරීක්ෂා කරනු ලැබේ. මෙම පරීක්ෂණ නෞකාවේ නිලධාරීන් විසින් සිදු කරනු ලබන අතර, ඒවා නෞකාවේ ලොග් පොතේ (logbook) හෝ වෙනත් සුදුසු වාර්තාවක සටහන් කිරීම අනිවාර්ය වේ. හදිසි අවස්ථාවකදී පද්ධතියේ අක්‍රියතාවයක් ඇති වුවහොත් එය බරපතල ජීවිත හානිවලට තුඩු දිය හැකි බැවින්, මෙම සතිපතා පරීක්ෂාව නෞකාවේ ආරක්ෂිත මෙහෙයුම් සඳහා අත්‍යවශ්‍ය අංගයකි. මෙම පරීක්ෂණ මගින් පද්ධතියේ කිසියම් දෝෂයක් තිබේ නම් එය කල්තියා හඳුනාගෙන නිවැරදි කිරීමට අවස්ථාව ලැබෙන අතර, එමගින් ඕනෑම හදිසි අවස්ථාවකදී කාර්ය මණ්ඩලයට සහ මගීන්ට කාලෝචිත ලෙස දැනුම් දීමට හැකි වේ.",
+        "tags": [
+            {
+                "sub_category": "SOLAS",
+                "main_category": "Maritime Regulations, Law & Compliance"
+            },
+            {
+                "sub_category": "Safety Systems",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -472,7 +681,16 @@
         "correct_answer": "Each lifeboat shall be launched, and maneuvered in the water with its assigned crew at least once every three months during an abandon ship drill.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Drills",
+                "main_category": "Management, Administration & Human Factors"
+            },
+            {
+                "sub_category": "SOLAS",
+                "main_category": "Maritime Regulations, Law & Compliance"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -487,7 +705,16 @@
         "correct_answer": "Reduce speed and, if possible, keep the fire zone to the leeward of the ship.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Fire Fighting",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "Manoeuvring",
+                "main_category": "Ship Operations, Navigation & Seamanship"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -519,7 +746,16 @@
         "correct_answer": "Rapid changes in engine load due to rough sea conditions.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "turbocharger",
+                "main_category": "Marine Engineering & Motive Power"
+            },
+            {
+                "sub_category": "Diesel Engine",
+                "main_category": "Marine Engineering & Motive Power"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -534,7 +770,12 @@
         "correct_answer": "Air in the fuel oil system.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Diesel Engine",
+                "main_category": "Marine Engineering & Motive Power"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -549,7 +790,16 @@
         "correct_answer": "It is determined by difference between the process variable and set point.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Automation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Control Systems",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -564,7 +814,12 @@
         "correct_answer": "To ensure the cylinder air start valves operate in the correct sequence and for the correct period.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Diesel Engine",
+                "main_category": "Marine Engineering & Motive Power"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -579,7 +834,16 @@
         "correct_answer": "Mark the items as not to be used and store them securely until they can be tested by a competent person.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "safety",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "maintenance",
+                "main_category": "Maintenance, Repair & Workshop Practice"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -594,7 +858,16 @@
         "correct_answer": "All of the below mentioned.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "LSA",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "Safety Equipment",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -609,7 +882,16 @@
         "correct_answer": "Control valve gland is over tightened.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Control Systems",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Instrumentation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -641,7 +923,16 @@
         "correct_answer": "All prescribed life-saving appliances shall be made of non-combustible or fire retardant material.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "LSA",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "SOLAS",
+                "main_category": "Maritime Regulations, Law & Compliance"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -656,7 +947,12 @@
         "correct_answer": "0,6.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -671,7 +967,16 @@
         "correct_answer": "The gas, liquid or vapour which will minimise creation of an electric arc as contacts open.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "high voltage",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Switchgear",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -686,7 +991,16 @@
         "correct_answer": "ISM procedures in the ship’s safety manual.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "maintenance",
+                "main_category": "Maintenance, Repair & Workshop Practice"
+            },
+            {
+                "sub_category": "safety",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -701,7 +1015,16 @@
         "correct_answer": "Viscosity increases.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Physics",
+                "main_category": "Management, Administration & Human Factors"
+            },
+            {
+                "sub_category": "thermodynamics",
+                "main_category": "Marine Engineering & Motive Power"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -716,7 +1039,16 @@
         "correct_answer": "Mandatory.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "SOLAS",
+                "main_category": "Maritime Regulations, Law & Compliance"
+            },
+            {
+                "sub_category": "Regulatory",
+                "main_category": "Maritime Regulations, Law & Compliance"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -731,7 +1063,16 @@
         "correct_answer": "Rotten eggs.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "high voltage",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Electrical Safety",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -746,7 +1087,16 @@
         "correct_answer": "Fit a valve positioner to the system.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Automation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Control Systems",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -761,7 +1111,16 @@
         "correct_answer": "Instruction in the use of radio life-saving appliances.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Drills",
+                "main_category": "Management, Administration & Human Factors"
+            },
+            {
+                "sub_category": "SOLAS",
+                "main_category": "Maritime Regulations, Law & Compliance"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -776,7 +1135,16 @@
         "correct_answer": "By using an unloading device to keep the compressor suction valves open until the machine is up to speed.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Air Compressor",
+                "main_category": "Marine Engineering & Motive Power"
+            },
+            {
+                "sub_category": "operations",
+                "main_category": "Management, Administration & Human Factors"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -791,7 +1159,12 @@
         "correct_answer": "Blocked filter drier causing the automatic low pressure cut out to operate.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "refrigeration",
+                "main_category": "Marine Engineering & Motive Power"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -806,7 +1179,16 @@
         "correct_answer": "Bunkering of bulk lubricating oil.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "marpol",
+                "main_category": "Maritime Regulations, Law & Compliance"
+            },
+            {
+                "sub_category": "Record Keeping",
+                "main_category": "Maritime Regulations, Law & Compliance"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -838,7 +1220,16 @@
         "correct_answer": "300 volts.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Cables",
+                "main_category": "Maintenance, Repair & Workshop Practice"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -853,7 +1244,12 @@
         "correct_answer": "One or more cylinder air start valves are stuck open.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Diesel Engine",
+                "main_category": "Marine Engineering & Motive Power"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -868,7 +1264,16 @@
         "correct_answer": "By adding an activating agent to the inflowing sewage.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Sewage Treatment",
+                "main_category": "Maritime Regulations, Law & Compliance"
+            },
+            {
+                "sub_category": "pollution prevention",
+                "main_category": "Maritime Regulations, Law & Compliance"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -883,7 +1288,12 @@
         "correct_answer": "Contactor chattering (vibrating).",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -898,7 +1308,16 @@
         "correct_answer": "Square root extractor relay.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Instrumentation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Automation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -913,7 +1332,20 @@
         "correct_answer": "All the mentioned alternatives.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "UMS",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "fire safety",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "maintenance",
+                "main_category": "Maintenance, Repair & Workshop Practice"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -928,7 +1360,16 @@
         "correct_answer": "A large bow thruster will draw very large currents at low voltage. Being typically remote from the generator, significant voltage drops would occur at low voltage.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "high voltage",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -943,7 +1384,16 @@
         "correct_answer": "Red.",
         "images": [],
         "explanation": "ජාත්‍යන්තර මුහුදු ආරක්‍ෂක නීති (SOLAS) සහ ජීවිත ආරක්ෂණ සම්මුතීන්ට අනුව හදිසි අවස්ථාවකදී භාවිත කරන 'Hand flare' එකක වර්ණය අනිවාර්යයෙන්ම රතු (Red) විය යුතුය. රතු පැහැය දුර සිට පැහැදිලිව පෙනෙන අතර එය ජාත්‍යන්තරව හදිසි අනතුරක් (Distress signal) ලෙස පිළිගැනේ. කොළ හෝ සුදු වැනි අනෙකුත් වර්ණ වෙනත් නාවික සංඥා සඳහා භාවිතා වන බැවින් හදිසි අනතුරකදී ඒවා භාවිතා කළ නොහැක.",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "LSA",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "Safety Equipment",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -958,7 +1408,16 @@
         "correct_answer": "Sequential start initiated by pressure switches set at different switching pressures.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Air Compressor",
+                "main_category": "Marine Engineering & Motive Power"
+            },
+            {
+                "sub_category": "Automation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -973,7 +1432,16 @@
         "correct_answer": "All passenger ships, all cargo ships of 500 GRT or above.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "ISM Code",
+                "main_category": "Maritime Regulations, Law & Compliance"
+            },
+            {
+                "sub_category": "Regulatory",
+                "main_category": "Maritime Regulations, Law & Compliance"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -988,7 +1456,20 @@
         "correct_answer": "Stop the bunkering until alternative reliable communication are established.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "bunkering",
+                "main_category": "Cargo Operations & Vessel Types"
+            },
+            {
+                "sub_category": "communication",
+                "main_category": "Management, Administration & Human Factors"
+            },
+            {
+                "sub_category": "safety",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -1003,7 +1484,16 @@
         "correct_answer": "2,15 V.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Batteries",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -1035,7 +1525,16 @@
         "correct_answer": "Automatic control in which the controlled quantity is measured continuously and corrections are a continuous function of the deviation.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Automation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Control Systems",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -1050,7 +1549,16 @@
         "correct_answer": "Constant pressure systems have all engine cylinder exhaust connected to a common large exhaust gas manifold.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Diesel Engine",
+                "main_category": "Marine Engineering & Motive Power"
+            },
+            {
+                "sub_category": "turbocharger",
+                "main_category": "Marine Engineering & Motive Power"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -1065,7 +1573,16 @@
         "correct_answer": "White or light grey to ensure all minor spills and leakages are noticed and dealt with.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "maintenance",
+                "main_category": "Maintenance, Repair & Workshop Practice"
+            },
+            {
+                "sub_category": "Engine Room",
+                "main_category": "Marine Engineering & Motive Power"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -1080,7 +1597,12 @@
         "correct_answer": "Diaphragm in the differential pressure transmitter is perforated.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Instrumentation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -1095,7 +1617,12 @@
         "correct_answer": "Worn scraper and piston rings.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Air Compressor",
+                "main_category": "Marine Engineering & Motive Power"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -1110,7 +1637,16 @@
         "correct_answer": "Viscosity decreases.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Physics",
+                "main_category": "Management, Administration & Human Factors"
+            },
+            {
+                "sub_category": "thermodynamics",
+                "main_category": "Marine Engineering & Motive Power"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -1125,7 +1661,16 @@
         "correct_answer": "Government Authorities of the Flag State.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "IMO",
+                "main_category": "Maritime Regulations, Law & Compliance"
+            },
+            {
+                "sub_category": "Regulatory",
+                "main_category": "Maritime Regulations, Law & Compliance"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -1140,7 +1685,16 @@
         "correct_answer": "Only if the space has a watertight door or watertight access opening.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "safety",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "Enclosed Space Entry",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -1154,8 +1708,17 @@
         ],
         "correct_answer": "5-10 degrees Celsius.",
         "images": [],
-        "explanation": "",
-        "tags": []
+        "explanation": "ශීතකරණ පද්ධතියක (refrigeration system) වාෂ්පීකාරකයේ (evaporator) උපරිම කාර්යක්ෂමතාව (efficiency) ලබා ගැනීම සඳහා ප්‍රසාරණ කපාටය (expansion valve) මගින් පාලනය කරනු ලබන සුපිරි තාපනය (superheat) සෙල්සියස් අංශක 5 සිට 10 දක්වා අගයක පවත්වා ගැනීම අත්‍යවශ්‍ය වේ. සුපිරි තාපනය (superheat) යනු වාෂ්පීකාරකයෙන් පිටවන වායුවේ සැබෑ උෂ්ණත්වය සහ එම පීඩනයේදී පවතින සන්තෘප්ත උෂ්ණත්වය (saturation temperature) අතර පවතින වෙනසයි. මෙම අගය සෙල්සියස් අංශක 5 ට වඩා අඩු වුවහොත් දියර ශීතකාරක (liquid refrigerant) සම්පීඩකය (compressor) වෙත ගලා යාමට ඉඩ ඇති අතර එමගින් සම්පීඩකයේ යාන්ත්‍රික කොටස් වලට බරපතල හානි (liquid slugging) සිදුවිය හැක. අනෙක් අතට මෙම අගය සෙල්සියස් අංශක 10 ට වඩා වැඩි වුවහොත් වාෂ්පීකාරකයේ මතුපිටින් වැඩි ප්‍රමාණයක් දැනටමත් වාෂ්ප වී ඇති වායුව තවදුරටත් රත් කිරීම සඳහා පමණක් වැය වන බැවින් එහි තාප අවශෝෂණ හැකියාව (cooling capacity) සැලකිය යුතු ලෙස අඩු වී පද්ධතියේ සමස්ත කාර්යක්ෂමතාව (overall efficiency) පහත වැටේ. එබැවින් වාෂ්පීකාරකය තුළ ශීතකාරක ද්‍රවය සම්පූර්ණයෙන්ම වාෂ්ප වී අවසානයේදී සුළු වශයෙන් රත් වීම සහතික කිරීම මගින් සම්පීඩකය ආරක්ෂා කිරීමටත් උපරිම සිසිලනයක් ලබා ගැනීමටත් මෙම අංශක 5 සිට 10 දක්වා වූ පරාසය වඩාත් යෝග්‍ය හා ප්‍රායෝගික අගය ලෙස සැලකේ. මෙය තාපජ ප්‍රසාරණ කපාටය (thermostatic expansion valve) මගින් නිරන්තරයෙන් නියාමනය කරනු ලබයි.",
+        "tags": [
+            {
+                "sub_category": "refrigeration",
+                "main_category": "Marine Engineering & Motive Power"
+            },
+            {
+                "sub_category": "maintenance",
+                "main_category": "Maintenance, Repair & Workshop Practice"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -1187,7 +1750,20 @@
         "correct_answer": "A work rota is established to ensure full coverage of engine room watchkeeping duties and adequate rest periods for the engineering staff.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "UMS",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Engine Room",
+                "main_category": "Marine Engineering & Motive Power"
+            },
+            {
+                "sub_category": "management",
+                "main_category": "Management, Administration & Human Factors"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -1202,7 +1778,16 @@
         "correct_answer": "One Henry.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Physics",
+                "main_category": "Management, Administration & Human Factors"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -1217,7 +1802,16 @@
         "correct_answer": "Continuously monitor remote gauge readings and confirm with regular sounding of the fuel tanks.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "bunkering",
+                "main_category": "Cargo Operations & Vessel Types"
+            },
+            {
+                "sub_category": "pollution prevention",
+                "main_category": "Maritime Regulations, Law & Compliance"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -1232,7 +1826,16 @@
         "correct_answer": "Identify the hazards that may exist which may affect personnel involved with the maintenance routines.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "safety",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "management",
+                "main_category": "Management, Administration & Human Factors"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -1247,7 +1850,12 @@
         "correct_answer": "Pressure forces caused by green water on deck.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "naval architecture",
+                "main_category": "Ship Operations, Navigation & Seamanship"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -1262,7 +1870,16 @@
         "correct_answer": "Damaged bowl seal.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Fuel Treatment",
+                "main_category": "Marine Engineering & Motive Power"
+            },
+            {
+                "sub_category": "purifier",
+                "main_category": "Marine Engineering & Motive Power"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -1277,7 +1894,12 @@
         "correct_answer": "Slightly superheated low pressure gas.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "refrigeration",
+                "main_category": "Marine Engineering & Motive Power"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -1292,7 +1914,12 @@
         "correct_answer": "Scavenge ports of the one cylinder are dirty.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Diesel Engine",
+                "main_category": "Marine Engineering & Motive Power"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -1307,7 +1934,16 @@
         "correct_answer": "The heavy fuel is unstable leading to excessive high viscosity sludge formation.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Fuel Treatment",
+                "main_category": "Marine Engineering & Motive Power"
+            },
+            {
+                "sub_category": "purifier",
+                "main_category": "Marine Engineering & Motive Power"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -1322,7 +1958,12 @@
         "correct_answer": "With + to Anode a reading of about 0,6 V and with probes reversed a reading of O/L.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "electronics",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -1337,7 +1978,16 @@
         "correct_answer": "ISM procedures in the ship’s safety manual.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "maintenance",
+                "main_category": "Maintenance, Repair & Workshop Practice"
+            },
+            {
+                "sub_category": "safety",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -1353,7 +2003,7 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2025/12/symbol.jpg"
         ],
-        "explanation": "",
+        "explanation": "නැව් වල සවි කරනු ලබන ජීවිතාරක්ෂක බෝට්ටු (survival craft) සහ ඒවා දියත් කිරීමේ උපකරණ (launching controls) අසල නිසි පරිදි දැන්වීම් පුවරු හෝ සංඥා (posters or signs) ප්‍රදර්ශනය කිරීම අනිවාර්ය කර ඇත්තේ හදිසි අවස්ථාවකදී කාර්ය මණ්ඩලයට සහ මගීන්ට එම උපකරණ භාවිතා කරන ආකාරය පිළිබඳව මනා අවබෝධයක් ලබා දීම සඳහාය. මෙම දැන්වීම් පුවරු වල අඩංගු විය යුතු ප්‍රධානම කරුණ වන්නේ අදාළ උපකරණ ක්‍රියාත්මක කිරීමේදී අනුගමනය කළ යුතු නිවැරදි උපදෙස් (instructions) සහ මග මග හැරිය යුතු අනතුරු ඇඟවීම් (warnings) වේ. ජීවිතාරක්ෂක බෝට්ටුවක් දියත් කිරීමේ ක්‍රියාවලිය ඉතා සංකීර්ණ විය හැකි අතර, එය ක්‍රියාත්මක කරන පුද්ගලයා දැඩි මානසික පීඩනයක සිටින අවස්ථාවකදී පවා පැහැදිලි ලෙස උපදෙස් දැකගත හැකිවීම වැදගත් වේ. මෙහිදී මෙම උපකරණ භාවිතා කරන ආකාරය පිළිබඳ පියවරෙන් පියවර විස්තරයක් සහ එම උපකරණ අනිසි ලෙස භාවිතා කිරීමෙන් ඇතිවිය හැකි අනතුරු පිළිබඳව අනතුරු ඇඟවීම් ලබා දීම අත්‍යවශ්‍ය වේ. අනෙකුත් විකල්පයන් වන ජීවිතාරක්ෂක උපකරණ වල පිහිටීම, බෝට්ටුවේ වේගය හෝ එහි ධාරිතාව පිළිබඳ තොරතුරු වෙනත් ආරක්ෂිත අත්පොත් වල හෝ නැව තුළ පවතින අනෙකුත් ආරක්ෂක සිතියම් වල අඩංගු වුවද, දියත් කිරීමේ පාලක පද්ධති (launching controls) අසලම ප්‍රදර්ශනය කළ යුතු ප්‍රධානතම තොරතුරු වන්නේ එම අවස්ථාවේදී ක්‍රියා කළ යුතු ආකාරය පිළිබඳ උපදෙස් සහ අනතුරු ඇඟවීම් පමණි. එම නිසා ජාත්‍යන්තර සමුද්‍රීය නීති රීති (SOLAS) අනුව මෙම දැන්වීම් පුවරු වල ප්‍රමුඛතාවය ලැබෙන්නේ ක්ෂණිකව ක්‍රියාත්මක විය යුතු උපදෙස් සහ අනතුරු ඇඟවීම් සඳහා වේ.",
         "tags": []
     },
     {
@@ -1368,7 +2018,16 @@
         "correct_answer": "Pressurise the hydrophore tank with air to approximately 50 % of the pump cut out pressure and then allow the pump to fill the tank until it cuts out.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "pumps",
+                "main_category": "Marine Engineering & Motive Power"
+            },
+            {
+                "sub_category": "Water System",
+                "main_category": "Marine Engineering & Motive Power"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -1383,7 +2042,12 @@
         "correct_answer": "Making use of Risk Assessment as a means to improving safety.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Safety Culture",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -1398,7 +2062,16 @@
         "correct_answer": "The proximity switch has dirt on the outside casing.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Diesel Engine",
+                "main_category": "Marine Engineering & Motive Power"
+            },
+            {
+                "sub_category": "Instrumentation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -1413,7 +2086,12 @@
         "correct_answer": "Centrally controlled.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Emergency Procedures",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -1428,7 +2106,12 @@
         "correct_answer": "Leaking exhaust valves.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Diesel Engine",
+                "main_category": "Marine Engineering & Motive Power"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -1443,7 +2126,16 @@
         "correct_answer": "Crankcase relief valves/doors.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Diesel Engine",
+                "main_category": "Marine Engineering & Motive Power"
+            },
+            {
+                "sub_category": "Safety Protection",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -1458,7 +2150,16 @@
         "correct_answer": "22 Ohms.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Heating Element",
+                "main_category": "Marine Engineering & Motive Power"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -1473,7 +2174,16 @@
         "correct_answer": "Every 4 months.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "LSA",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "Drills",
+                "main_category": "Management, Administration & Human Factors"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -1488,7 +2198,16 @@
         "correct_answer": "Muster and embarkation stations shall be readily accessible from accommodation and work areas.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "LSA",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "SOLAS",
+                "main_category": "Maritime Regulations, Law & Compliance"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -1503,7 +2222,16 @@
         "correct_answer": "Ventilation passages may be blocked and should be blown out with compressed air.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Motors",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -1518,7 +2246,16 @@
         "correct_answer": "Compensation needle valve is open too much.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Diesel Engine",
+                "main_category": "Marine Engineering & Motive Power"
+            },
+            {
+                "sub_category": "Governor",
+                "main_category": "Marine Engineering & Motive Power"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -1550,7 +2287,16 @@
         "correct_answer": "Discreetly inform someone of your suspicions so he or she can get assistance.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Maritime Security",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "isps",
+                "main_category": "Maritime Regulations, Law & Compliance"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -1582,7 +2328,16 @@
         "correct_answer": "Between 0,1 and 1,0 ohm.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Cables",
+                "main_category": "Maintenance, Repair & Workshop Practice"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -1597,7 +2352,16 @@
         "correct_answer": "To ensure that cabins and common spaces are maintained in a clean, safe and hygienic condition.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "safety",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "management",
+                "main_category": "Management, Administration & Human Factors"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -1612,7 +2376,16 @@
         "correct_answer": "95-98 °C.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Diesel Engine",
+                "main_category": "Marine Engineering & Motive Power"
+            },
+            {
+                "sub_category": "Safety Protection",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Generic",
@@ -1644,6 +2417,15 @@
         "correct_answer": "Air filter to turbocharger fouled or obstructed.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Diesel Engine",
+                "main_category": "Marine Engineering & Motive Power"
+            },
+            {
+                "sub_category": "turbocharger",
+                "main_category": "Marine Engineering & Motive Power"
+            }
+        ]
     }
 ]

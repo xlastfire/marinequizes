@@ -12,7 +12,16 @@
         "correct_answer": "In the Flag State official language with copies in English or French.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "fire safety",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "SOLAS",
+                "main_category": "Maritime Regulations, Law & Compliance"
+            }
+        ]
     },
     {
         "category": "CES – Survival (Advanced)",
@@ -27,7 +36,16 @@
         "correct_answer": "Instructions or diagrams printed on its casing by the manufacturer.",
         "images": [],
         "explanation": "පයිරොටෙක්නික් සංඥා (උදා: දුම් සංඥා, රොකට් flares) විවිධ නිෂ්පාදකයන් විසින් විවිධ මෝස්තරවලින් නිපදවනු ලබයි. මේවා ක්‍රියාත්මක කරන ක්‍රමවේද (උදා: පින් එකක් ඇදීම, කරකැවීම) එකිනෙකට වෙනස් විය හැක. වැරදි ලෙස භාවිතය මගින් සංඥාව ක්‍රියාත්මක නොවීම හෝ පරිශීලකයාට බරපතල තුවාල සිදුවීම විය හැක. එම නිසා එම උපකරණයේ බඳ මත මුද්‍රණය කර ඇති උපදෙස් සහ රූප සටහන් (instructions/diagrams) අනුගමනය කිරීම අත්‍යවශ්‍ය වේ. අනෙකුත් සාමාන්‍ය ක්‍රමවේද මත විශ්වාසය තැබීම අවදානම් සහගතය.",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "LSA",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "Safety Equipment",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            }
+        ]
     },
     {
         "category": "CES – Survival (Advanced)",
@@ -59,7 +77,16 @@
         "correct_answer": "Instructions for onboard maintenance of life-saving appliances in accordance with the regulations shall be provided.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "LSA",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "SOLAS",
+                "main_category": "Maritime Regulations, Law & Compliance"
+            }
+        ]
     },
     {
         "category": "CES – Survival (Advanced)",
@@ -74,7 +101,16 @@
         "correct_answer": "Once every month.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Drills",
+                "main_category": "Management, Administration & Human Factors"
+            },
+            {
+                "sub_category": "SOLAS",
+                "main_category": "Maritime Regulations, Law & Compliance"
+            }
+        ]
     },
     {
         "category": "CES – Survival (Advanced)",
@@ -123,7 +159,16 @@
         "correct_answer": "That people are well trained.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "safety",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "Emergency Procedures",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            }
+        ]
     },
     {
         "category": "CES – Survival (Advanced)",
@@ -138,7 +183,20 @@
         "correct_answer": "A survival manual.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "LSA",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "SOLAS",
+                "main_category": "Maritime Regulations, Law & Compliance"
+            },
+            {
+                "sub_category": "survival craft",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            }
+        ]
     },
     {
         "category": "CES – Survival (Advanced)",
@@ -153,7 +211,20 @@
         "correct_answer": "Checking that passengers and crew are suitably dressed and lifejackets correctly donned.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Drills",
+                "main_category": "Management, Administration & Human Factors"
+            },
+            {
+                "sub_category": "SOLAS",
+                "main_category": "Maritime Regulations, Law & Compliance"
+            },
+            {
+                "sub_category": "safety",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            }
+        ]
     },
     {
         "category": "CES – Survival (Advanced)",
@@ -167,8 +238,17 @@
         ],
         "correct_answer": "Turned at intervals of not more than 30 months and renewed every 5 years.",
         "images": [],
-        "explanation": "",
-        "tags": []
+        "explanation": "ජීවිතාරක්ෂක බෝට්ටු වල කම්බි කඹ (wire falls) හැරවීම (turning) සහ අලුත් කිරීම (renewal) අත්‍යවශ්‍ය නඩත්තු ක්‍රියාදාමයන් වන අතර, ඒවා නාවික ආරක්ෂාව (maritime safety) සඳහා ඉතා වැදගත් වේ. මෙම කම්බි කඹ මාස තිහකට (30) නොවැඩි කාල පරාසයන් තුළ හැරවිය යුතුය. හැරවීම යනුවෙන් අදහස් කරන්නේ කම්බි කඹයේ ඇඳීමට (wear) ලක්වන කොටස් වෙනස් කිරීමයි. ජීවිතාරක්ෂක බෝට්ටුව එහි ස්ථානයේ (stowed position) ඇති විට, කම්බි කඹයේ යම් නිශ්චිත කොටස් නිරන්තරයෙන් කප්පි (sheave) සහ ඩ්‍රම් (drum) මත රැඳී තිබේ. මේ නිසා එම කොටස් වැඩි ඇඳීමකට ලක් වේ. කම්බි කඹය හැරවීමෙන්, මෙලෙස වැඩි ඇඳීමට ලක්වන කොටස් අඩු ආතතියක් (stress) ඇති ස්ථානවලට මාරු කර, කඹයේ ආයු කාලය (service life) දීර්ඝ කර ගත හැක. මෙහිදී කම්බි කඹයේ කෙළවරවල් (terminations) නැවත සකස් කිරීමක් හෝ කප්පාදු කිරීමක් සිදුවිය හැක. මෙය කඹයේ සමස්ත ශක්තිය (overall strength) පවත්වා ගැනීමට උපකාරී වේ.\n\nමීට අමතරව, ජීවිතාරක්ෂක බෝට්ටු කම්බි කඹ සෑම වසර පහකට (5) වරක් අනිවාර්යයෙන්ම අලුත් කළ යුතුය. වසර පහක කාලයක් යනු නාවික පරිසරයේ (marine environment) පවතින ලුණු වතුර (salt water), හිරු එළිය, සුළඟ සහ නිරන්තර නැමීම් (bending fatigue) හේතුවෙන් කම්බි කඹයේ ව්‍යුහාත්මක අඛණ්ඩතාවයට (structural integrity) හානි සිදුවීමට ප්‍රමාණවත් කාලයකි. කඹ හැරවීමෙන් එහි ආයු කාලය මදක් දීර්ඝ කර ගත හැකි වුවද, ද්‍රව්‍යමය තෙහෙට්ටුව (material fatigue) සහ ක්ෂය වීම (corrosion) වැනි සාධක නිසා කඹය අවසානයේදී දුර්වල වේ. හදිසි අවස්ථාවකදී ජීවිතාරක්ෂක බෝට්ටුව ආරක්ෂිතව දියත් කිරීමට (launch safely) හැකි බව සහතික කිරීම සඳහා, කාලානුරූපව කම්බි කඹ අලුත් කිරීම අතිශයින් වැදගත් වේ. මෙය ජාත්‍යන්තර නීති රෙගුලාසි (international regulations) සහ ආරක්ෂක ප්‍රමිතීන් (safety standards) මගින් නියම කර ඇති අනිවාර්ය අවශ්‍යතාවයකි.",
+        "tags": [
+            {
+                "sub_category": "LSA",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "maintenance",
+                "main_category": "Maintenance, Repair & Workshop Practice"
+            }
+        ]
     },
     {
         "category": "CES – Survival (Advanced)",
@@ -183,7 +263,20 @@
         "correct_answer": "Every week.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Drills",
+                "main_category": "Management, Administration & Human Factors"
+            },
+            {
+                "sub_category": "SOLAS",
+                "main_category": "Maritime Regulations, Law & Compliance"
+            },
+            {
+                "sub_category": "Passenger Ships",
+                "main_category": "Cargo Operations & Vessel Types"
+            }
+        ]
     },
     {
         "category": "CES – Survival (Advanced)",
@@ -198,7 +291,20 @@
         "correct_answer": "Every 5 years.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "LSA",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "SOLAS",
+                "main_category": "Maritime Regulations, Law & Compliance"
+            },
+            {
+                "sub_category": "maintenance",
+                "main_category": "Maintenance, Repair & Workshop Practice"
+            }
+        ]
     },
     {
         "category": "CES – Survival (Advanced)",
@@ -213,7 +319,16 @@
         "correct_answer": "Monthly.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Drills",
+                "main_category": "Management, Administration & Human Factors"
+            },
+            {
+                "sub_category": "SOLAS",
+                "main_category": "Maritime Regulations, Law & Compliance"
+            }
+        ]
     },
     {
         "category": "CES – Survival (Advanced)",
@@ -228,7 +343,16 @@
         "correct_answer": "Reduce speed and, if possible, keep the fire zone to the leeward of the ship.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Fire Fighting",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "Manoeuvring",
+                "main_category": "Ship Operations, Navigation & Seamanship"
+            }
+        ]
     },
     {
         "category": "CES – Survival (Advanced)",
@@ -243,7 +367,20 @@
         "correct_answer": "Every 12 months.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "LSA",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "SOLAS",
+                "main_category": "Maritime Regulations, Law & Compliance"
+            },
+            {
+                "sub_category": "maintenance",
+                "main_category": "Maintenance, Repair & Workshop Practice"
+            }
+        ]
     },
     {
         "category": "CES – Survival (Advanced)",
@@ -258,7 +395,16 @@
         "correct_answer": "100 % of the ship’s complement on each side.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "LSA",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "SOLAS",
+                "main_category": "Maritime Regulations, Law & Compliance"
+            }
+        ]
     },
     {
         "category": "CES – Survival (Advanced)",
@@ -273,7 +419,16 @@
         "correct_answer": "The number of persons should be clearly stated on the outside of the boats bow.",
         "images": [],
         "explanation": "ජීවිතාරක්ෂක බෝට්ටුවක (Lifeboat) රැගෙන යා හැකි උපරිම පුද්ගලයින් සංඛ්‍යාව එහි ඉදිරිපස (Bow) පිටතින් පැහැදිලිව සහ ස්ථිරව සටහන් කර තිබිය යුතුය. මෙය SOLAS රෙගුලාසි අනුව අනිවාර්ය වේ. හදිසි අවස්ථාවකදී කාර්ය මණ්ඩලයට සහ මගීන්ට බෝට්ටුවේ ධාරිතාව පිළිබඳ ක්ෂණිකව අවබෝධයක් ලබා ගැනීම සඳහා මෙය බෝට්ටුව ඇතුළත හෝ මැනුවල් වල පමණක් තිබීම ප්‍රමාණවත් නොවේ.",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "LSA",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "Safety Equipment",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            }
+        ]
     },
     {
         "category": "CES – Survival (Advanced)",
@@ -288,7 +443,16 @@
         "correct_answer": "In a secure and sheltered position and protected from damage by fire or explosion.",
         "images": [],
         "explanation": "SOLAS රෙගුලාසි වලට අනුව, ජීවිතාරක්ෂක යාත්‍රා (survival craft) සැමවිටම ආරක්ෂිත සහ සුරක්ෂිත ස්ථානයක ගබඩා කළ යුතුය. විශේෂයෙන්ම ගින්නකින් හෝ පිපිරීමකින් හානි නොවන පරිදි ඒවා ආරක්ෂා කළ යුතුය. එවිට හදිසි අවස්ථාවකදී කිසිදු බාධාවකින් තොරව ඒවා භාවිතා කළ හැක. අනාරක්ෂිත ස්ථානයක තැබීමෙන් හදිසි අවස්ථාවකදී ඒවා අක්‍රිය වීමට ඉඩ ඇත.",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "SOLAS",
+                "main_category": "Maritime Regulations, Law & Compliance"
+            },
+            {
+                "sub_category": "LSA",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            }
+        ]
     },
     {
         "category": "CES – Survival (Advanced)",
@@ -303,7 +467,12 @@
         "correct_answer": "3 sets.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "LSA",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            }
+        ]
     },
     {
         "category": "CES – Survival (Advanced)",
@@ -352,7 +521,16 @@
         "correct_answer": "The specific duties assigned to passengers that are in charge of a group of others.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Muster List",
+                "main_category": "Management, Administration & Human Factors"
+            },
+            {
+                "sub_category": "SOLAS",
+                "main_category": "Maritime Regulations, Law & Compliance"
+            }
+        ]
     },
     {
         "category": "CES – Survival (Advanced)",
@@ -367,7 +545,16 @@
         "correct_answer": "One on each side of the ship.",
         "images": [],
         "explanation": "SOLAS රෙගුලාසිවලට අනුව, දළ ටොන් 500ට වැඩි සෑම නෞකාවකම අවම වශයෙන් Radar Transponders (SART) දෙකක් තිබිය යුතුය. මේවා නැවේ දෙපස (Port and Starboard) පහසුවෙන් ගත හැකි ස්ථානවල තැබිය යුතුය. එවිට හදිසි අවස්ථාවකදී කුමන පැත්තකින් ජීවිතාරක්ෂක යාත්‍රා දියත් කළත් එක SART එකක් බැගින් රැගෙන යා හැක. එකක් පමණක් තිබීම ප්‍රමාණවත් නොවන අතර, සෑම බෝට්ටුවකටම එක බැගින් තිබීම අනිවාර්ය නොවන නමුත් නැවේ දෙපස තිබීම අත්‍යවශ්‍ය වේ.",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "LSA",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "Navigation Safety",
+                "main_category": "Ship Operations, Navigation & Seamanship"
+            }
+        ]
     },
     {
         "category": "CES – Survival (Advanced)",
@@ -416,7 +603,12 @@
         "correct_answer": "Every three months. Details of test with signatures of Master and witness.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Emergency Procedures",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            }
+        ]
     },
     {
         "category": "CES – Survival (Advanced)",
@@ -431,7 +623,16 @@
         "correct_answer": "Wearing and fastening of lifejackets and associated equipment.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Drills",
+                "main_category": "Management, Administration & Human Factors"
+            },
+            {
+                "sub_category": "LSA",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            }
+        ]
     },
     {
         "category": "CES – Survival (Advanced)",
@@ -446,7 +647,16 @@
         "correct_answer": "In the SOLAS convention and its annex.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Drills",
+                "main_category": "Management, Administration & Human Factors"
+            },
+            {
+                "sub_category": "SOLAS",
+                "main_category": "Maritime Regulations, Law & Compliance"
+            }
+        ]
     },
     {
         "category": "CES – Survival (Advanced)",
@@ -461,7 +671,16 @@
         "correct_answer": "All of the below mentioned.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "LSA",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "Safety Equipment",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            }
+        ]
     },
     {
         "category": "CES – Survival (Advanced)",
@@ -476,7 +695,16 @@
         "correct_answer": "Each lifeboat shall be launched, and maneuvered in the water its assigned crew at least once every three months during an abandon ship drill.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Drills",
+                "main_category": "Management, Administration & Human Factors"
+            },
+            {
+                "sub_category": "SOLAS",
+                "main_category": "Maritime Regulations, Law & Compliance"
+            }
+        ]
     },
     {
         "category": "CES – Survival (Advanced)",
@@ -490,8 +718,17 @@
         ],
         "correct_answer": "As soon as possible but not later than 2 weeks after he joins the ship.",
         "images": [],
-        "explanation": "",
-        "tags": []
+        "explanation": "නැවකට අලුතින් සම්බන්ධ වන කාර්ය මණ්ඩල සාමාජිකයෙකුට නැවේ ඇති ගිනි නිවීමේ උපකරණ (fire-fighting appliances) පිළිබඳව පුහුණුව ලබා දීම ඉතා වැදගත් ආරක්ෂක පියවරකි. ජාත්‍යන්තර සමුද්‍රීය සංවිධානය (IMO) විසින් පනවා ඇති සොලස් (SOLAS - Safety of Life at Sea) සම්මුතියට අනුව මෙම කාල සීමාව නිශ්චිතව දක්වා ඇත. නැවක වැඩ කිරීමට පැමිණෙන පුද්ගලයෙකු ඕනෑම හදිසි අවස්ථාවකදී ගින්නක් ඇති වුවහොත් ගත යුතු පියවර සහ භාවිතා කළ යුතු උපකරණ පිළිබඳව මූලික අවබෝධයක් ලබා සිටිය යුතුය. එම නිසා ඔහු නැවට සම්බන්ධ වී හැකි ඉක්මනින් මෙම පුහුණුව ආරම්භ කළ යුතු අතර එය කිසිසේත්ම ඔහු පැමිණි දින සිට සති දෙකක (2 weeks) කාලය ඉක්මවා නොයා යුතුය. මෙහි ප්‍රධාන අරමුණ වන්නේ කාර්ය මණ්ඩල සාමාජිකයා නෞකාවේ ආරක්ෂක පද්ධති පිළිබඳව දැනුවත් කිරීම සහ හදිසි තත්ත්වයකදී ඔහුට තනිවම හෝ කණ්ඩායමක් ලෙස ක්‍රියා කිරීමට අවශ්‍ය මූලික දැනුම ලබා දීමයි. මෙම පුහුණුවට ගිනි නිවන උපකරණවල පිහිටීම, ඒවා ක්‍රියාත්මක කරන ආකාරය සහ එම උපකරණ භාවිතා කළ යුතු අවස්ථා පිළිබඳ මූලික උපදෙස් ඇතුළත් විය යුතුය. එබැවින් මෙම පුහුණුව ප්‍රමාදයකින් තොරව සති දෙකක කාල සීමාවක් තුළ අනිවාර්යයෙන්ම අවසන් කළ යුතුය.",
+        "tags": [
+            {
+                "sub_category": "Fire Fighting",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "safety",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            }
+        ]
     },
     {
         "category": "CES – Survival (Advanced)",
@@ -506,7 +743,12 @@
         "correct_answer": "Where the fire breaks out, how many fire teams are available, the strength of the fire, the ships mobility, what is burning and communication.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Fire Fighting",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            }
+        ]
     },
     {
         "category": "CES – Survival (Advanced)",
@@ -521,7 +763,16 @@
         "correct_answer": "Every week.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "safety",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "SOLAS",
+                "main_category": "Maritime Regulations, Law & Compliance"
+            }
+        ]
     },
     {
         "category": "CES – Survival (Advanced)",
@@ -536,7 +787,16 @@
         "correct_answer": "Muster and embarkation stations shall be readily accessible from accommodation and work areas.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "SOLAS",
+                "main_category": "Maritime Regulations, Law & Compliance"
+            },
+            {
+                "sub_category": "LSA",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            }
+        ]
     },
     {
         "category": "CES – Survival (Advanced)",
@@ -551,7 +811,16 @@
         "correct_answer": "Not less than half the total number of lifebuoys shall be provided with self-ignighting lights.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "SOLAS",
+                "main_category": "Maritime Regulations, Law & Compliance"
+            },
+            {
+                "sub_category": "LSA",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            }
+        ]
     },
     {
         "category": "CES – Survival (Advanced)",
@@ -566,7 +835,16 @@
         "correct_answer": "6 knots for 24 hours.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "LSA",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "Lifeboat",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            }
+        ]
     },
     {
         "category": "CES – Survival (Advanced)",
@@ -581,7 +859,16 @@
         "correct_answer": "Once every month.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Drills",
+                "main_category": "Management, Administration & Human Factors"
+            },
+            {
+                "sub_category": "SOLAS",
+                "main_category": "Maritime Regulations, Law & Compliance"
+            }
+        ]
     },
     {
         "category": "CES – Survival (Advanced)",
@@ -596,7 +883,16 @@
         "correct_answer": "All the mentioned alternatives.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "UMS",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "fire safety",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            }
+        ]
     },
     {
         "category": "CES – Survival (Advanced)",
@@ -628,7 +924,16 @@
         "correct_answer": "Checking that life-jackets are correctly donned.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Drills",
+                "main_category": "Management, Administration & Human Factors"
+            },
+            {
+                "sub_category": "SOLAS",
+                "main_category": "Maritime Regulations, Law & Compliance"
+            }
+        ]
     },
     {
         "category": "CES – Survival (Advanced)",
@@ -643,7 +948,16 @@
         "correct_answer": "For a total period of not less than 10 minutes every week.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "LSA",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "maintenance",
+                "main_category": "Maintenance, Repair & Workshop Practice"
+            }
+        ]
     },
     {
         "category": "CES – Survival (Advanced)",
@@ -658,7 +972,16 @@
         "correct_answer": "All prescribed life-saving appliances shall be made of non-combustible or fire retardant material.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "LSA",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "SOLAS",
+                "main_category": "Maritime Regulations, Law & Compliance"
+            }
+        ]
     },
     {
         "category": "CES – Survival (Advanced)",
@@ -673,7 +996,16 @@
         "correct_answer": "Red.",
         "images": [],
         "explanation": "ජාත්‍යන්තර මුහුදු ආරක්‍ෂක නීති (SOLAS) සහ ජීවිත ආරක්ෂණ සම්මුතීන්ට අනුව හදිසි අවස්ථාවකදී භාවිත කරන 'Hand flare' එකක වර්ණය අනිවාර්යයෙන්ම රතු (Red) විය යුතුය. රතු පැහැය දුර සිට පැහැදිලිව පෙනෙන අතර එය ජාත්‍යන්තරව හදිසි අනතුරක් (Distress signal) ලෙස පිළිගැනේ. කොළ හෝ සුදු වැනි අනෙකුත් වර්ණ වෙනත් නාවික සංඥා සඳහා භාවිතා වන බැවින් හදිසි අනතුරකදී ඒවා භාවිතා කළ නොහැක.",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "LSA",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "Safety Equipment",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            }
+        ]
     },
     {
         "category": "CES – Survival (Advanced)",
@@ -705,7 +1037,16 @@
         "correct_answer": "Collect rain water.",
         "images": [],
         "explanation": "ජීවිතාරක්ෂක බෝට්ටුවක ජලය හිඟ වූ විට කළ හැකි හොඳම සහ ආරක්ෂිතම ක්‍රමය වන්නේ වර්ෂා ජලය එකතු කර ගැනීමයි. මුහුදු ජලය පානය කිරීමෙන් සිරුරේ ඇති ජලය තවදුරටත් ඉවත් වී ඉක්මනින් මිය යාමට ඉඩ ඇති බැවින් එය කිසිසේත් නොකළ යුතුය. එසේම මුත්‍රා පානය කිරීමද සිරුරට විෂ සහිත විය හැක. එබැවින් වැසි ජලය රැස් කිරීම ප්‍රධානම පිළියම වේ.",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "LSA",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "Survival",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            }
+        ]
     },
     {
         "category": "CES – Survival (Advanced)",
@@ -720,7 +1061,16 @@
         "correct_answer": "Evaluation of the situation, rescue and life-saving, confinement of fire, extinction, then feed back on the emergency.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Fire Fighting",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "Emergency Procedures",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            }
+        ]
     },
     {
         "category": "CES – Survival (Advanced)",
@@ -752,7 +1102,16 @@
         "correct_answer": "A deck officer or certificated person shall be placed in charge of each survival craft to be used.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "SOLAS",
+                "main_category": "Maritime Regulations, Law & Compliance"
+            },
+            {
+                "sub_category": "LSA",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            }
+        ]
     },
     {
         "category": "CES – Survival (Advanced)",
@@ -784,7 +1143,16 @@
         "correct_answer": "Once every month.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Drills",
+                "main_category": "Management, Administration & Human Factors"
+            },
+            {
+                "sub_category": "SOLAS",
+                "main_category": "Maritime Regulations, Law & Compliance"
+            }
+        ]
     },
     {
         "category": "CES – Survival (Advanced)",
@@ -799,7 +1167,16 @@
         "correct_answer": "The appointed lifeboat commander.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Drills",
+                "main_category": "Management, Administration & Human Factors"
+            },
+            {
+                "sub_category": "Leadership",
+                "main_category": "Management, Administration & Human Factors"
+            }
+        ]
     },
     {
         "category": "CES – Survival (Advanced)",
@@ -814,7 +1191,16 @@
         "correct_answer": "All ships that are covered by the IMO safety conventions.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "fire safety",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "SOLAS",
+                "main_category": "Maritime Regulations, Law & Compliance"
+            }
+        ]
     },
     {
         "category": "CES – Survival (Advanced)",
@@ -829,7 +1215,16 @@
         "correct_answer": "Development of toxic gases.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Fire Fighting",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "safety",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            }
+        ]
     },
     {
         "category": "CES – Survival (Advanced)",
@@ -844,7 +1239,16 @@
         "correct_answer": "Checking that passengers and crew are suitably dressed and lifejackets correctly donned.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Drills",
+                "main_category": "Management, Administration & Human Factors"
+            },
+            {
+                "sub_category": "SOLAS",
+                "main_category": "Maritime Regulations, Law & Compliance"
+            }
+        ]
     },
     {
         "category": "CES – Survival (Advanced)",
@@ -859,7 +1263,16 @@
         "correct_answer": "Less than 12 to 1.",
         "images": [],
         "explanation": "එන්ජින් රූම් එකක ඇති ස්ථාවර අඩු ප්‍රසාරණ ෆෝම් (low-expansion foam) පද්ධතියක ප්‍රසාරණ අනුපාතය සාමාන්‍යයෙන් 12:1 ට වඩා අඩු විය යුතුය. මෙහි අදහස් වන්නේ ෆෝම් දියරය වාතය සමඟ මිශ්‍ර වී සෑදෙන පෙනෙහි පරිමාව මුල් දියරයට වඩා 12 ගුණයකට වඩා අඩුවෙන් වැඩි වන බවයි. මෙම අඩු ප්‍රසාරණ ෆෝම් තෙල් ගිනි නිවීම සඳහා වඩාත් සුදුසු වන්නේ එය බරින් වැඩි නිසා ගින්න මත හොඳින් තැන්පත් වන බැවිනි.",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Fire Fighting",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "Safety Systems",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            }
+        ]
     },
     {
         "category": "CES – Survival (Advanced)",
@@ -874,7 +1287,16 @@
         "correct_answer": "4,5 metres.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Fire Fighting",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "SOLAS",
+                "main_category": "Maritime Regulations, Law & Compliance"
+            }
+        ]
     },
     {
         "category": "CES – Survival (Advanced)",
@@ -889,6 +1311,15 @@
         "correct_answer": "Every 4 months.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Drills",
+                "main_category": "Management, Administration & Human Factors"
+            },
+            {
+                "sub_category": "LSA",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            }
+        ]
     }
 ]

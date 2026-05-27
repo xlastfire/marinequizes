@@ -12,7 +12,16 @@
         "correct_answer": "To ensure that the correct levels of chemical treatment are maintained at all times.",
         "images": [],
         "explanation": "ඩීසල් එන්ජින් සිසිලන පද්ධතියක ජලය නිරන්තරයෙන් පරීක්ෂා කරන්නේ එහි අඩංගු රසායනික ප්‍රතිකාර (chemical treatment) මට්ටම් නියමිත පරිදි පවතින බව තහවුරු කර ගැනීමටයි. මෙම රසායනික ද්‍රව්‍ය මගින් එන්ජිමේ සිසිලන නාලිකා තුළ මලකඩ බැඳීම (corrosion) සහ පරිමාණයන් (scaling) ඇති වීම වළක්වයි. ජලය පිරිසිදු බව පෙනුණත්, එහි රසායනික සාන්ද්‍රණය වෙනස් විය හැකි බැවින් මෙම පරීක්ෂණය අත්‍යවශ්‍ය වේ. ක්ලෝරයිඩ් මට්ටම බැලීම පමණක් මෙහි ප්‍රධාන අරමුණ නොවේ.",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "water treatment",
+                "main_category": "Marine Engineering & Motive Power"
+            },
+            {
+                "sub_category": "maintenance",
+                "main_category": "Maintenance, Repair & Workshop Practice"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Operational, Steam",
@@ -27,7 +36,12 @@
         "correct_answer": "The heat transfer surfaces should be cleaned.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "maintenance",
+                "main_category": "Maintenance, Repair & Workshop Practice"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Operational, Steam",
@@ -42,7 +56,12 @@
         "correct_answer": "Cooling water velocity too high.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "maintenance",
+                "main_category": "Maintenance, Repair & Workshop Practice"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Operational, Steam",
@@ -57,7 +76,12 @@
         "correct_answer": "Between 7 and 10.",
         "images": [],
         "explanation": "ඩීසල් එන්ජින් සිසිලන පද්ධතියක ඇති ජලයේ pH අගය 7 සහ 10 අතර මට්ටමක පවත්වා ගැනීම නිර්දේශ කෙරේ. pH අගය 7 යනු උදාසීන (neutral) තත්වය වන අතර 7 ට වඩා අඩු වූ විට ජලය ආම්ලික (acidic) වේ. ආම්ලික ජලය එන්ජිමේ ලෝහ කොටස් ඉතා වේගයෙන් විඛාදනයට (corrosion) ලක් කර සිදුරු ඇති කරයි. pH අගය 7 සිට 10 දක්වා වූ මඳ භාෂ්මික (alkaline) මට්ටමක පවත්වා ගැනීමෙන් ලෝහ මතුපිට ආරක්ෂිත ස්ථරයක් (passivation layer) නිර්මාණය වී විඛාදනය වැළැක්වේ. නමුත් pH අගය 11 හෝ 12 ට වඩා ඉහළ ගියහොත් එය එන්ජිමේ ඇති සමහර රබර් හෝ විශේෂිත මුද්‍රා (seals) වලට හානි කළ හැකි බැවින් මෙම පරාසය තුළ පවත්වා ගැනීම අත්‍යවශ්‍ය වේ.",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "water treatment",
+                "main_category": "Marine Engineering & Motive Power"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Operational, Steam",
@@ -72,7 +96,16 @@
         "correct_answer": "1 000 000 Ohms.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "maintenance",
+                "main_category": "Maintenance, Repair & Workshop Practice"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Operational, Steam",
@@ -87,7 +120,20 @@
         "correct_answer": "Improve material of intake air filters.",
         "images": [],
         "explanation": "ප්‍රත්‍යාවර්තකයේ (Alternator) වයින්ඩින් මත තෙල් තට්ටුවක් බැඳීම මගින් එහි පරිවාරක ශක්තිය (Insulation) අඩු වී කෙටි පරිපථ (Short circuits) ඇති විය හැක. පිරිසිදු කළ පසු නැවත තෙල් බැඳීම වැළැක්වීමට නම්, වාතය ඇතුළු වන පෙරණවල (Intake air filters) ද්‍රව්‍යමය ගුණාත්මකභාවය වැඩි දියුණු කළ යුතුය. එවිට වාතයේ ඇති තෙල් අංශු වයින්ඩින් වෙත යාම වැළකේ. පිරිසිදු කිරීමෙන් පසු නැවතත් එම තෙල් වාතය හරහා ඇතුළු වන්නේ නම් ගැටලුව විසඳෙන්නේ නැත. වාතාශ්‍රය වැඩි කිරීම (Increase ventilation) මගින් තව තවත් තෙල් වාතය සමඟ ඇතුළු විය හැකි අතර, වයින්ඩින් මාරු කිරීම (Renew windings) යනු මූලික ගැටලුවට විසඳුමක් නොවන අධික පිරිවැයක් සහිත කාර්යයකි.",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "electrical",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "maintenance",
+                "main_category": "Maintenance, Repair & Workshop Practice"
+            },
+            {
+                "sub_category": "Alternators",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Operational, Steam",
@@ -102,7 +148,20 @@
         "correct_answer": "Prior to arrival and departure from port and following maintenance.",
         "images": [],
         "explanation": "SOLAS සහ අනෙකුත් ජාත්‍යන්තර රෙගුලාසිවලට අනුව, නැවේ සුක්කානම් පද්ධතිය (steering gear) සහ ප්‍රචාලන යන්ත්‍රෝපකරණ වැනි වැදගත් පද්ධති වරායට පැමිණීමට පෙර, වරායෙන් පිටවීමට පෙර සහ යම් නඩත්තු කටයුත්තකින් පසුව අනිවාර්යයෙන්ම පරීක්ෂා කළ යුතුය. මෙමගින් නැව හැසිරවීමේදී ඇතිවිය හැකි අනතුරු වළක්වා ගත හැකිය. හුදෙක් සතිපතා හෝ මාසිකව පමණක් පරීක්ෂා කිරීම මෙවැනි තීරණාත්මක පද්ධති සඳහා ප්‍රමාණවත් නොවන බැවින් අනෙකුත් විකල්ප වැරදි වේ.",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "SOLAS",
+                "main_category": "Maritime Regulations, Law & Compliance"
+            },
+            {
+                "sub_category": "safety",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "regulations",
+                "main_category": "Maritime Regulations, Law & Compliance"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Operational, Steam",
@@ -116,7 +175,16 @@
         "correct_answer": "He shall have all the knowledge as listed in the other alternatives.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "watchkeeping",
+                "main_category": "Ship Operations, Navigation & Seamanship"
+            },
+            {
+                "sub_category": "operations",
+                "main_category": "Management, Administration & Human Factors"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Operational, Steam",
@@ -131,7 +199,16 @@
         "correct_answer": "By muster lists exhibited in conspicuous places.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "safety",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "training",
+                "main_category": "Management, Administration & Human Factors"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Operational, Steam",
@@ -146,7 +223,16 @@
         "correct_answer": "“Dead Ship” means that the machinery and boilers are inoperational due to lack of electrical power.",
         "images": [],
         "explanation": "\"Dead Ship\" යන්නෙන් අදහස් කරන්නේ නෞකාවේ ප්‍රධාන බලශක්ති ප්‍රභවයන් සියල්ල ක්‍රියාවිරහිත වී ඇති අවස්ථාවයි. මෙහිදී විදුලි බලය නොමැතිකම හේතුවෙන් ප්‍රධාන එන්ජින්, බොයිලේරු සහ අනෙකුත් සහායක යන්ත්‍ර ක්‍රියාත්මක කළ නොහැක. එවැනි අවස්ථාවක නෞකාව නැවත පණ ගැන්වීම සඳහා හදිසි ජනක යන්ත්‍ර (Emergency Generators) හෝ බැටරි බලය භාවිතා කර සම්පීඩිත වාතය (Compressed air) වැනි දෑ මුලින්ම සපයා ගත යුතු වේ.",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Emergency Procedures",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "electrical",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Operational, Steam",
@@ -160,8 +246,17 @@
         ],
         "correct_answer": "The rotor blades are damaged or the blades are not properly cleaned.",
         "images": [],
-        "explanation": "",
-        "tags": []
+        "explanation": "ටර්බෝචාජරය (turbocharger) ජලයෙන් පිරිසිදු කිරීමෙන් (water-washing) පසු කම්පනය (vibration) වීමට පටන් ගැනීම සාමාන්‍ය දෙයක් නොවේ. මන්දයත්, එය පිරිසිදු කිරීමට පෙර සාමාන්‍යයෙන් ක්‍රියාත්මක වූ බැවිනි. මෙයට ප්‍රධානතම හේතුව වන්නේ ටර්බයින රෝටර් තල (turbine rotor blades) අසමතුලිත (imbalanced) වීමයි.\n\nජලයෙන් සේදීමේදී, රෝටර් තල මත ඇති කාබන් තැන්පතු (carbon deposits) සම්පූර්ණයෙන් හා ඒකාකාරීව ඉවත් නොවීම මෙයට එක් හේතුවකි. සමහර තලවලින් තැන්පතු ඉවත් වී අනෙක් තලවල තැන්පතු ඉතිරි වීමෙන්, රෝටරයේ බර බෙදීයාම අසමතුලිත වේ. ටර්බෝචාජරයක් අධික වේගයකින් (high speed) කැරකෙන උපකරණයක් වන බැවින්, මෙවැනි කුඩා බර අසමතුලිතතාවයක් පවා දැඩි කම්පනයක් ඇති කිරීමට සමත් වේ. අසමතුලිතතාවය වැඩි වන තරමට කම්පනය ද වැඩි වේ.\n\nතවද, ජල පීඩනය (water pressure) අධික වීම හෝ පිරිසිදු කිරීමේ ක්‍රියාවලිය (washing procedure) නිවැරදිව සිදු නොකිරීම නිසා රෝටර් තලවලට හානි (damage) සිදුවිය හැකිය. උදාහරණයක් ලෙස, තලවල කෙළවර කැඩී යාම, නැමීම (bending) හෝ කුඩා කොටස් ගැලවී යාම සිදුවිය හැකිය. මෙවැනි හානි සිදුවීමෙන් රෝටරයේ ගතික සමතුලිතතාවය (dynamic balance) සම්පූර්ණයෙන්ම නැති වී කම්පනය ඇතිවේ. ඉතා කුඩා හානියක් වුවද, අධික වේගයෙන් කැරකෙන විට සැලකිය යුතු කම්පනයක් ඇති කළ හැකිය.\n\nඅනෙකුත් විකල්පයන් මෙම තත්ත්වයට හේතු වීමට ඇති සම්භාවිතාව අඩුය:\n\nජල සේදීමේ පද්ධතියේ ජල කාණුව (water drain) අවහිර වීමෙන් ජලය එකතු විය හැකි නමුත්, එය සෘජුවම රෝටරයේ සමතුලිතතාවයට බලපා කම්පනයක් ඇති නොකරයි. එය පිරිසිදු කිරීමේ කාර්යක්ෂමතාවයට බලපෑ හැකි නමුත්, රෝටරයේ භ්‍රමණ කම්පනයකට හේතු නොවේ.\n\nවායු ප්‍රවේශක පෙරහන (inlet filter) අර්ධ වශයෙන් අවහිර වීමෙන් ටර්බෝචාජරයේ ක්‍රියාකාරිත්වයට, විශේෂයෙන් සම්පීඩක පැත්තට (compressor side), බලපෑම් කළ හැකිය. එය බූස්ට් පීඩනය (boost pressure) අඩුවීම හෝ සර්ජින් (surging) වැනි ගැටළු ඇති කළ හැකි නමුත්, ජල සේදීමෙන් පසු හදිසියේම ආරම්භ වන රෝටර් කම්පනයකට මෙය ප්‍රධාන හේතුවක් නොවේ. පෙරහන් අවහිර වීමක් තිබුනේ නම්, එය ජල සේදීමට පෙර සිටම ගැටළු ඇති කිරීමට ඉඩ තිබුණි.\n\nබ්ලෝවර් ඒකකයේ (blower unit) අත්තිවාරම් බෝල්ට් (foundation bolts) ලිහිල් වී තිබුනේ නම්, ජල සේදීමට පෙර සිටම කම්පනය හෝ යන්ත්‍රයේ අස්ථායීතාවය වැනි ගැටළු ඇතිවීමට ඉඩ තිබුණි. ජල සේදීමෙන් පසුව පමණක් මෙවැනි කම්පනයක් ඇතිවන්නේ නම්, හේතුව රෝටරයේම සමතුලිතතාවයේ ගැටලුවක් වීමට වැඩි ඉඩක් ඇත. අත්තිවාරම් බෝල්ට් ලිහිල් වීමක් කම්පනයක් ඇතිවීමට හේතුවක් විය හැකි වුවද, මෙම විශේෂිත සිදුවීමේදී, ජල සේදීමෙන් පසු කම්පනය ආරම්භ වීම, රෝටරය හා සම්බන්ධ ගැටලුවක් බවට පැහැදිලි ඇඟවීමකි.\n\nඑබැවින්, ටර්බෝචාජරය ජලයෙන් සේදීමෙන් පසු කම්පනය වීමට ඇති වැඩිම සම්භාවිතාව වන්නේ රෝටර් තලවලට හානි සිදුවීම හෝ තල නිසි ලෙස පිරිසිදු නොවීම නිසා ඇතිවන අසමතුලිතතාවයයි.",
+        "tags": [
+            {
+                "sub_category": "turbocharger",
+                "main_category": "Marine Engineering & Motive Power"
+            },
+            {
+                "sub_category": "maintenance",
+                "main_category": "Maintenance, Repair & Workshop Practice"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Operational, Steam",
@@ -176,7 +271,16 @@
         "correct_answer": "To avoid pollution.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "marpol",
+                "main_category": "Maritime Regulations, Law & Compliance"
+            },
+            {
+                "sub_category": "safety",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Operational, Steam",
@@ -191,7 +295,16 @@
         "correct_answer": "It satisfies the SOLAS (and other) requirements for ship safety.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "safety",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Operational, Steam",
@@ -206,7 +319,16 @@
         "correct_answer": "A short circuit occurs between earth faults and the ventilation fan fuse blows.",
         "images": [],
         "explanation": "නැවක සාමාන්‍යයෙන් භාවිතා වන පරිවාරක උදාසීන පද්ධතියක (Insulated neutral system) එක් වයර් එකක ඇතිවන පළමු පෘථිවි දෝෂය (Earth fault) නිසා පරිපථය බිඳ වැටෙන්නේ නැත. නමුත් දෙවන වයර් එකක (Yellow line) තවත් දෝෂයක් ඇති වූ විට, පෘථිවිය (නැවේ බඳ) හරහා කෙටි පරිපථයක් (Short circuit) නිර්මාණය වේ. මෙහිදී අඩු ධාරිතාවක් සහිත (10 A) විදුලි පංකා පරිපථයේ ෆියුස් එක මුලින්ම දැවී යයි. 100 A පරිපථය වඩා ශක්තිමත් බැවින් එහි ෆියුස් එක දැවී යාමට පෙර 10 A පරිපථය විසන්ධි වේ.",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "electrical",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Fault Finding",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Operational, Steam",
@@ -221,7 +343,12 @@
         "correct_answer": "10 Mohm.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Operational, Steam",
@@ -236,7 +363,16 @@
         "correct_answer": "Incoming machine picks up as a generator.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Synchronisation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Operational, Steam",
@@ -251,7 +387,16 @@
         "correct_answer": "The alkalinity of the oil.",
         "images": [],
         "explanation": "ලිහිසි තෙල්වල 'Base Number' (BN) යන්නෙන් අදහස් කරන්නේ එම තෙල්වල ඇති ක්ෂාරීය බවයි (Alkalinity). එන්ජිමේ ඉන්ධන දහනය වීමේදී නිපදවෙන සල්ෆියුරික් අම්ලය උදාසීන කිරීම සඳහා ලිහිසි තෙල්වල මෙම ක්ෂාරීය ගුණය තිබිය යුතුය. මෙය තෙල්වල උකු බව (Viscosity) හෝ ගලා යන උෂ්ණත්වය (Pour point) හෝ ගිනි ගන්නා උෂ්ණත්වය (Flash point) පිළිබඳ මිනුමක් නොවේ.",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "lubrication",
+                "main_category": "Marine Engineering & Motive Power"
+            },
+            {
+                "sub_category": "chemistry",
+                "main_category": "Management, Administration & Human Factors"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Operational, Steam",
@@ -266,7 +411,16 @@
         "correct_answer": "Changing of the filter element can be carried out without interrupting engine operation.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "maintenance",
+                "main_category": "Maintenance, Repair & Workshop Practice"
+            },
+            {
+                "sub_category": "Auxiliary Engine",
+                "main_category": "Marine Engineering & Motive Power"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Operational, Steam",
@@ -281,7 +435,20 @@
         "correct_answer": "Stop the OWS and pump the oil to the incinerator tank.",
         "images": [],
         "explanation": "Bilge holding tank එකේ මට්ටම OWS (Oil Water Separator) එක මගින් අඩු කරන විට, තෙල් සහ ජලය හමුවන මට්ටමට (oil/water interface) පැමිණි විගස OWS එක ක්‍රියා විරහිත කර එම තෙල් කොටස incinerator tank එකට පොම්ප කළ යුතුය. මෙයට හේතුව වන්නේ OWS එක නිර්මාණය කර ඇත්තේ ජලයේ ඇති සුළු තෙල් ප්‍රමාණයක් ඉවත් කිරීමට මිස පිරිසිදු තෙල් පිරිපහදු කිරීමට නොවන බැවිනි. තෙල් OWS එක තුළට ඇතුළු වුවහොත් එහි ඇති ෆිල්ටර් (filters) අවහිර වීමට හෝ පිරිපහදු නොකළ තෙල් මුහුදට පිටවී MARPOL නීති උල්ලංඝනය වීමට ඉඩ ඇත. අනෙකුත් විකල්ප වන තෙල් මුහුදට දැමීම නීති විරෝධී වන අතර, දිගින් දිගටම OWS එක ක්‍රියා කරවීම උපකරණයට හානි පමුණුවයි.",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "pollution prevention",
+                "main_category": "Maritime Regulations, Law & Compliance"
+            },
+            {
+                "sub_category": "OWS",
+                "main_category": "Maritime Regulations, Law & Compliance"
+            },
+            {
+                "sub_category": "marpol",
+                "main_category": "Maritime Regulations, Law & Compliance"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Operational, Steam",
@@ -296,7 +463,12 @@
         "correct_answer": "Conductivity test.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "water treatment",
+                "main_category": "Marine Engineering & Motive Power"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Operational, Steam",
@@ -311,7 +483,16 @@
         "correct_answer": "Warm nutritious drinks.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "First Aid",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "medical",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Operational, Steam",
@@ -325,8 +506,17 @@
         ],
         "correct_answer": "To reduce risk of fire and the risk of slipping.",
         "images": [],
-        "explanation": "",
-        "tags": []
+        "explanation": "එන්ජින් සහ බොයිලර් කාමර පිරිසිදුව තබා ගැනීම සහ තෙල් කාන්දුවීම් වහාම පිරිසිදු කිරීම අත්‍යවශ්‍ය වන්නේ ප්‍රධාන වශයෙන් ගිනි අනතුරු අවම කර ගැනීමට සහ ලිස්සා යාමෙන් සිදුවිය හැකි අනතුරු වළක්වා ගැනීමටය. තෙල් යනු ඉතා පහසුවෙන් ගිනි ඇවිලෙන ද්‍රව්‍යයක් වන අතර, බිම තෙල් තැවරී තිබීමෙන් කාර්ය මණ්ඩලයට ලිස්සා වැටී බරපතල තුවාල සිදුවීමේ අවදානම ඉහළ යයි. එමනිසා, ආරක්ෂිත සේවා පරිසරයක් පවත්වා ගැනීමට මෙය අත්‍යවශ්‍ය වේ.",
+        "tags": [
+            {
+                "sub_category": "safety",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "Fire Prevention",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Operational, Steam",
@@ -341,7 +531,16 @@
         "correct_answer": "During overhaul and maintenance procedures.",
         "images": [],
         "explanation": "යන්ත්‍රෝපකරණ වල ඇති ආරක්ෂිත ආවරණ (guards) සහ ආරක්ෂක උපාංග ඉවත් කළ යුත්තේ එම යන්ත්‍ර අලුත්වැඩියා කිරීමේදී හෝ නඩත්තු කටයුතු (overhaul and maintenance) සිදු කරන අවස්ථාවලදී පමණි. යන්ත්‍රයක් ක්‍රියාත්මක වන අතරතුර හෝ සාමාන්‍ය භාවිතයේදී මෙම ආවරණ ඉවත් කිරීම ඉතාමත් අනතුරුදායක වන අතර එයින් බරපතල තුවාල හෝ මරණය පවා සිදුවිය හැක. නඩත්තු කටයුතු අවසන් වූ වහාම මෙම ආරක්ෂක උපාංග නැවත සවි කළ යුතුය.",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "safety",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "maintenance",
+                "main_category": "Maintenance, Repair & Workshop Practice"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Operational, Steam",
@@ -390,7 +589,16 @@
         "correct_answer": "5.",
         "images": [],
         "explanation": "SOLAS (Safety of Life at Sea) රෙගුලාසි වලට අනුව, ටොන් 1000 (GRT) හෝ ඊට වැඩි නැව් වල අවම වශයෙන් අතේ ගෙන යා හැකි ගිනි නිවන උපකරණ (portable fire extinguishers) 5 ක් වත් තිබිය යුතුය. මෙය නැවක විවිධ ස්ථාන වල ඇතිවිය හැකි කුඩා ගිනි ගැනීම් පාලනය කිරීම සඳහා නියම කර ඇති අවම අවශ්‍යතාවයයි. නැවේ ප්‍රමාණය සහ අනතුරුදායක බව අනුව මෙම සංඛ්‍යාව මීට වඩා වැඩි විය හැකි නමුත්, නීත්‍යානුකූල අවම අගය 5 කි.",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Fire Fighting",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "SOLAS",
+                "main_category": "Maritime Regulations, Law & Compliance"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Operational, Steam",
@@ -405,7 +613,16 @@
         "correct_answer": "Bulkheads constructed of approved non-combustible materials but do not meet any of the requirements relative to smoke and flame nor limitations relative to temperature rise.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "safety",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "ship construction",
+                "main_category": "Ship Operations, Navigation & Seamanship"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Operational, Steam",
@@ -421,7 +638,7 @@
         "images": [
             "https://i.ibb.co/nN6VnT1G/thyristor.jpg"
         ],
-        "explanation": "",
+        "explanation": "තයිරිස්ටරය (Thyristor) යනු නෞකාවල විද්‍යුත් පද්ධතිවල බල පාලනය සඳහා බහුලව භාවිතා වන අර්ධ සන්නායක (semiconductor) උපාංගයකි. රූප සටහන 2 මගින් මෙම තයිරිස්ටරයක සංකේතය නිරූපණය කෙරෙන අතර එය මූලික වශයෙන් ඩයෝඩයකට (diode) සමාන වුවද එහි පාලක අග්‍රයක් (control terminal) පවතී. මෙම උපාංගයට ප්‍රධාන අග්‍ර තුනක් ඇති අතර ඒවා ඇනෝඩය (anode), කැතෝඩය (cathode) සහ ගේට්ටුව (gate) ලෙස හඳුන්වනු ලැබේ. ඇනෝඩය සහ කැතෝඩය හරහා ධාරාව ගලා යාම ආරම්භ වීමට නම් ගේට්ටුව හරහා කුඩා විද්‍යුත් ස්පන්දනයක් (trigger pulse) ලබා දිය යුතු අතර සාමාන්‍ය ඩයෝඩයක මෙන් නොව මෙහිදී ධාරාව ගලා යාම පාලනය කිරීමේ හැකියාව පවතී. නාවික ඉංජිනේරු ක්ෂේත්‍රයේදී මෝටර් වේග පාලක (motor speed controllers), ප්‍රත්‍යාවර්තක ධාරා සෘජුකරණ පද්ධති (rectifiers) සහ ස්ථිතික ස්විච (static switches) වැනි උපකරණවල මෙම තයිරිස්ටර බහුලව යොදා ගනු ලබයි. මෙහි ඇති රූප සටහන 2 මගින් පෙන්වන සංකේතයේ ඇති විශේෂිත රේඛාව මගින් ධාරාව ගලායන දිශාව සහ එය ක්‍රියාත්මක කිරීමට අවශ්‍ය වන ගේට්ටුව හෙවත් ගේට් ටර්මිනලය (gate terminal) පැහැදිලිව හඳුනාගත හැකිය. මෙම උපාංගය සිලිකන් පාලිත සෘජුකරණයක් (Silicon Controlled Rectifier) ලෙසද හැඳින්වෙන අතර එය ඉහළ වෝල්ටීයතාවන් සහ ධාරාවන් හැසිරවීමට සමත් වේ. රූප සටහන 2 හි ඇති අතිරේක රේඛාව මගින් ගේට්ටුව නිරූපණය වන බැවින් එය අනෙකුත් ඩයෝඩ සංකේත වලින් පහසුවෙන් වෙන්කර හඳුනාගත හැකිය. තයිරිස්ටරය ක්‍රියාත්මක වූ පසු එය හරහා ගලා යන ධාරාව යම් අවම මට්ටමකට (holding current) වඩා අඩු වන තෙක් හෝ වෝල්ටීයතාවය ප්‍රතිවිරුද්ධ වන තෙක් එය සන්නායක තත්වයේ පවතී.",
         "tags": []
     },
     {
@@ -437,7 +654,16 @@
         "correct_answer": "Tell the person to sit down and lean forward with the head between the knees taking deep breaths.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "First Aid",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "medical",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Operational, Steam",
@@ -467,7 +693,12 @@
         "correct_answer": "9-11.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "water treatment",
+                "main_category": "Marine Engineering & Motive Power"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Operational, Steam",
@@ -482,7 +713,16 @@
         "correct_answer": "Re-pack the stuffing box loosely with the correct size packing at the earliest opportunity.",
         "images": [],
         "explanation": "සෙන්ට්‍රිෆියුගල් පම්පුවක ග්ලෑන්ඩ් එක (packed gland) තද කළ පසුවත් කාන්දු වන්නේ නම්, කළ යුතු නිවැරදිම දෙය වන්නේ හැකි ඉක්මනින් පැකින් (packing) ඉවත් කර අලුතින් නිවැරදි ප්‍රමාණයේ පැකින් යෙදීමයි. පැරණි පැකින් තවදුරටත් තද කිරීමෙන් (nipping up) සිදුවන්නේ පම්පුවේ ෂාෆ්ට් (shaft) එක හෝ ස්ලීව් (sleeve) එක අධික ලෙස රත් වී හානි වීමයි. නව පැකින් යොදන විට ඒවා මුලින් ලිහිල්ව (loosely) තැබිය යුතු අතර, පම්පුව ක්‍රියාත්මක වන විට ස්වල්ප වශයෙන් කාන්දු වීමට ඉඩ හැරීමෙන් ෂාෆ්ට් එක සිසිල් වීම සහ ලිහිසි වීම සිදු වේ. එබැවින් තවදුරටත් තද කිරීම හෝ කාන්දුව නොසලකා හැරීම වෙනුවට ප්‍රතිස්ථාපනය කිරීම එකම විසඳුමයි.",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "pumps",
+                "main_category": "Marine Engineering & Motive Power"
+            },
+            {
+                "sub_category": "maintenance",
+                "main_category": "Maintenance, Repair & Workshop Practice"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Operational, Steam",
@@ -497,7 +737,12 @@
         "correct_answer": "A compressor in which the compressed air from the first stage is further compressed in the second stage before being delivered to the air receiver.",
         "images": [],
         "explanation": "Two stage air compressor (අදියර දෙකක වායු සම්පීඩකය) යනු වායුව සම්පීඩනය කිරීම අදියර දෙකකදී සිදුකරන යන්ත්‍රයකි. මෙහිදී පළමු සිලින්ඩරයේදී (Low Pressure) මදක් සම්පීඩනය කළ වායුව, අතරමැදි සිසිලකයක් (Intercooler) හරහා යවා නැවත දෙවන සිලින්ඩරයකදී (High Pressure) අවශ්‍ය පීඩනය දක්වා සම්පීඩනය කරයි. මෙය තනි අදියරකදී සිදු කිරීමට වඩා කාර්යක්ෂම වන අතර උෂ්ණත්වය පාලනය කිරීමටද උපකාරී වේ. අනෙක් විකල්ප වැරදි වන්නේ, සිලින්ඩර දෙකක් තිබූ පමණින්ම එය 'two stage' නොවන බැවිනි (සමහර විට සිලින්ඩර දෙකම එකම පීඩනයකදී ක්‍රියා කළ හැක).",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Air Compressor",
+                "main_category": "Marine Engineering & Motive Power"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Operational, Steam",
@@ -512,7 +757,12 @@
         "correct_answer": "Secure the ladder top and bottom and have a shipmate standing by while you are working on the ladder.",
         "images": [],
         "explanation": "නෞකාවක් මත වැඩ කටයුතු සඳහා එහා මෙහා ගෙන යා හැකි ඉණිමං (portable ladders) භාවිතා කිරීමේදී ආරක්ෂක පියවරයන් අතිශයින් වැදගත් වේ. නෞකාව නිරන්තරයෙන් චලනය වන බැවින්, ඉණිමඟේ ඉහළ සහ පහළ කොටස් ස්ථාවර තැනක හොඳින් ගැටගසා (secure) තැබිය යුතුය. එසේම ඔබ ඉණිමඟ මත වැඩ කරන අතරතුර ඔබේ සහායට තවත් අයෙකු (shipmate) අසල සිටීම අනිවාර්ය වේ. ඉණිමඟ අල්ලාගෙන නොසිටීම හෝ ලිහිල්ව තැබීම බරපතල අනතුරු වලට මඟ පාදයි.",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "safety",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Operational, Steam",
@@ -527,7 +777,16 @@
         "correct_answer": "A leak of exhaust gas from a boiler or diesel engine exhaust.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "safety",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "Hazardous Gases",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Operational, Steam",
@@ -542,7 +801,12 @@
         "correct_answer": "To inform the Chief Engineer of any situations that cannot be controlled during the watch.",
         "images": [],
         "explanation": "මුර සංචාරයේ යෙදෙන ඉංජිනේරුවරයෙකුගේ (watch-keeping engineer) මූලික සහ වැදගත්ම වගකීමක් වන්නේ තම මුරය තුළ ඇතිවන ඕනෑම අසාමාන්‍ය තත්ත්වයක් හෝ තමාට පාලනය කළ නොහැකි ගැටලුවක් පිළිබඳව වහාම ප්‍රධාන ඉංජිනේරුවරයා (Chief Engineer) දැනුවත් කිරීමයි. තනිවම තීරණ ගෙන විශාල හානියක් වීමට ඉඩ නොදී, පළපුරුදු නිලධාරීන්ගේ සහාය ලබා ගැනීම මෙහිදී අපේක්ෂා කෙරේ. අනෙකුත් විකල්ප වන තනිවම අලුත්වැඩියා කිරීම හෝ තොරතුරු රහසිගතව තැබීම අනතුරුදායක විය හැක.",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Watch-keeping",
+                "main_category": "Ship Operations, Navigation & Seamanship"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Operational, Steam",
@@ -557,7 +821,16 @@
         "correct_answer": "Transducer.",
         "images": [],
         "explanation": "පාලන පද්ධතියක (control-loop) 'transducer' එකක් යනු අත්‍යවශ්‍ය උපාංගයකි. එහි කාර්යය වන්නේ එක් භෞතික ශක්ති ආකාරයකින් ලැබෙන සංඥාවක් (උදාහරණයක් ලෙස පීඩනය හෝ උෂ්ණත්වය) වෙනත් ආකාරයක පාලන සංඥාවකට (විද්‍යුත් හෝ වායු පීඩන සංඥාවකට) පරිවර්තනය කිරීමයි. පීඩන මාපක (pressure gauges) හෝ උෂ්ණත්ව මාපක (thermometers) මගින් කරන්නේ අගයන් පෙන්වීම පමණක් වන අතර, ඒවා පද්ධතිය ස්වයංක්‍රීයව පාලනය කිරීමට සෘජුවම දායක නොවේ.",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Instrumentation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Control Systems",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Operational, Steam",
@@ -572,7 +845,16 @@
         "correct_answer": "Comparing input and output values against a documented standard.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Instrumentation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Calibration",
+                "main_category": "Maintenance, Repair & Workshop Practice"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Operational, Steam",
@@ -587,7 +869,12 @@
         "correct_answer": "The pressure falls off on the pressure gauge when trying to hold the pressure in the injector below normal opening set pressure.",
         "images": [],
         "explanation": "ඉන්ධන විදින කපාටයක් (fuel injection valve) පරීක්ෂා කිරීමේදී, එය විවෘත වීමට නියමිත පීඩනයට (opening pressure) වඩා මදක් අඩු පීඩනයක රඳවා තබා ගැනීමට උත්සාහ කරන විට pressure gauge එකේ පීඩනය ක්‍රමයෙන් පහත වැටේ නම්, එම කපාටය කාන්දු වන බව (leaking) හඳුනාගත හැක. නිවැරදි කපාටයක් නම් එම පීඩනය ස්ථාවරව තබා ගත යුතුය. පීඩනය පහත වැටීම යනු ඉන්ධන බිංදු ලෙස සිලින්ඩරය තුළට කාන්දු වන බවයි, මෙය දහන ක්‍රියාවලියට අහිතකර ලෙස බලපායි.",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Fuel Systems",
+                "main_category": "Marine Engineering & Motive Power"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Operational, Steam",
@@ -602,7 +889,16 @@
         "correct_answer": "Act according to instruction given in the fire plan.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Fire Fighting",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "Emergency Procedures",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Operational, Steam",
@@ -632,7 +928,16 @@
         "correct_answer": "In a clarifier only solids are removed from the oil, whereas in a purifier both solids and water are removed from the oil.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Purifiers",
+                "main_category": "Marine Engineering & Motive Power"
+            },
+            {
+                "sub_category": "maintenance",
+                "main_category": "Maintenance, Repair & Workshop Practice"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Operational, Steam",
@@ -647,7 +952,16 @@
         "correct_answer": "To improve the efficiency of solids removal.",
         "images": [],
         "explanation": "යන්ත්‍ර දෙකක් ශ්‍රේණිගතව (series) ක්‍රියාත්මක කරන විට, පළමුවන යන්ත්‍රය සාමාන්‍යයෙන් Purifier එකක් ලෙස ක්‍රියා කර ජලය සහ විශාල ඝන අංශු ඉවත් කරයි. දෙවනුව ඇති Clarifier එකෙහි ප්‍රධාන අරමුණ වන්නේ Purifier එකෙන් මගහැරුණු ඉතා කුඩා ඝන අංශු (fine solids) ඉවත් කර පිරිසිදු කිරීමේ කාර්යක්ෂමතාව (efficiency) ඉහළ නැංවීමයි. Clarifier එක තුළ ජල අතුරු මුහුණතක් (water interface) නොමැති නිසා, එයට ඝන ද්‍රව්‍ය ඉවත් කිරීම සඳහා වැඩි ඉඩක් සහ හැකියාවක් පවතී. අනෙක් විකල්ප වැරදි වන්නේ Clarifier එකකින් ජලය ඉවත් කිරීමේ කාර්යයක් බලාපොරොත්තු නොවන බැවිනි.",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Purifiers",
+                "main_category": "Marine Engineering & Motive Power"
+            },
+            {
+                "sub_category": "Fuel Treatment",
+                "main_category": "Marine Engineering & Motive Power"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Operational, Steam",
@@ -662,7 +976,16 @@
         "correct_answer": "Maximum is 30 litre per nautical mile and total is 1/30 000 part of full cargo on the ballast voyage.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "marpol",
+                "main_category": "Maritime Regulations, Law & Compliance"
+            },
+            {
+                "sub_category": "Environmental Protection",
+                "main_category": "Maritime Regulations, Law & Compliance"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Operational, Steam",
@@ -677,7 +1000,12 @@
         "correct_answer": "The First Engineer would require an inspection of the heating coils.",
         "images": [],
         "explanation": "පළමු ඉංජිනේරු නිලධාරියා (First Engineer) සාමාන්‍යයෙන් ඉන්ධන ටැංකිවල ඇති හීටින් කොයිල් (heating coils) පරීක්ෂා කිරීම අවශ්‍ය වේ. ඉන්ධන නියමිත දුස්ස්රාවිතතාවයේ (viscosity) පවත්වා ගැනීමට සහ කොයිල්වල කාන්දුවීම් නොමැති බව තහවුරු කිරීමට මෙය අත්‍යවශ්‍ය නඩත්තු කටයුත්තකි. අනෙකුත් විකල්පවල සඳහන් වන දෑ දෛනික කටයුතු වුවත්, හීටින් කොයිල් පරීක්ෂාව ඉංජිනේරුමය වශයෙන් වඩාත් වැදගත් අවශ්‍යතාවයකි.",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "General Maritime",
+                "main_category": "Ship Operations, Navigation & Seamanship"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Operational, Steam",
@@ -692,7 +1020,16 @@
         "correct_answer": "2.",
         "images": [],
         "explanation": "SOLAS (Safety of Life at Sea) රෙගුලාසි වලට අනුව, මුහුදේදී සිදුවන අනතුරකදී දිවා කාලයේදී උපකාර ලබා ගැනීම සඳහා සෑම ජීවිතාරක්ෂක බෝට්ටුවකම (lifeboat) අවම වශයෙන් පාවෙන දුම් සංඥා (buoyant smoke signals) 2 ක් තිබිය යුතුය. මෙම සංඥා මගින් දීප්තිමත් තැඹිලි පැහැති දුමාරයක් නිකුත් කරන අතර එමගින් ගලවා ගැනීමේ කණ්ඩායම් වලට බෝට්ටුව තිබෙන ස්ථානය පහසුවෙන් හඳුනාගත හැකිය. 2 ට වඩා අඩු හෝ වැඩි සංඛ්‍යාවන් සම්මත රෙගුලාසියට අනුව අවම අවශ්‍යතාවය නොවන බැවින් එම විකල්ප වැරදි වේ.",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "LSA",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "Safety Equipment",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Operational, Steam",
@@ -707,7 +1044,16 @@
         "correct_answer": "1 N/mm2.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Fire Fighting",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "SOLAS",
+                "main_category": "Maritime Regulations, Law & Compliance"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Operational, Steam",
@@ -722,7 +1068,16 @@
         "correct_answer": "30 minutes.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Fire Fighting",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "SOLAS",
+                "main_category": "Maritime Regulations, Law & Compliance"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Operational, Steam",
@@ -736,8 +1091,17 @@
         ],
         "correct_answer": "Rescue boat.",
         "images": [],
-        "explanation": "",
-        "tags": []
+        "explanation": "ගලවා ගැනීමේ බෝට්ටුවකයි (Rescue boat) මෙය තිබිය යුත්තේ. ගලවා ගැනීමේ බෝට්ටුවක් යනු නෞකාවකින් මුහුදට වැටුණු පුද්ගලයන් බේරාගැනීම, නැව් අනතුරකදී හෝ වෙනත් හදිසි අවස්ථාවකදී ජලයේ සිටින පුද්ගලයන් වෙත ළඟා වී ඔවුන්ව නෞකාවට හෝ ආරක්ෂිත ස්ථානයකට ගෙන ඒම සඳහා විශේෂයෙන් නිර්මාණය කර ඇති කුඩා, වේගවත් යාත්‍රාවකි. එමෙන්ම, මුහුදේ පාවෙන ජීවිතාරක්ෂක පාරු (liferaft) හෝ වෙනත් ජීවිතාරක්ෂක යාත්‍රා (survival craft) එකතු කිරීම හෝ ඇදගෙන යාමද ගලවා ගැනීමේ බෝට්ටුවේ ප්‍රධාන කාර්යයන් අතරට අයත් වේ.\n\nමෙම කාර්යයන් සාර්ථකව ඉටු කිරීම සඳහා, ගලවා ගැනීමේ බෝට්ටුවක අවම වශයෙන් මීටර් 50ක්වත් දිග, පාවෙන කඹයක් (buoyant line) අත්‍යවශ්‍යයෙන්ම තිබිය යුතු බව නාවික නීතිරීති මගින් නියම කර ඇත. මෙම කඹය පාවෙන එකක් වීම ඉතා වැදගත්ය. එයට හේතුව, කඹය ජලයේ ගිලී නොගොස් පහසුවෙන් පෙනෙන බැවින්, එය මුහුදේ සිටින පුද්ගලයන්ට හෝ අනෙකුත් යාත්‍රා වලට හසු කර ගැනීමට පහසු වේ. එසේම, එය ගලවා ගැනීමේ බෝට්ටුවේ ප්‍රචාලකයට (propeller) පැටලීම වළක්වා ගැනීමටද පාවෙන කඹයක් උපකාරී වේ. තවද, මෙම කඹයට ජීවිතාරක්ෂක පාරුවක් හෝ කුඩා ජීවිතාරක්ෂක බෝට්ටුවක් (lifeboat) වැනි වෙනත් යාත්‍රාවක් ආරක්ෂිතව ඇදගෙන යාමට තරම් ප්‍රමාණවත් ශක්තියක් තිබිය යුතුය.\n\nඅනෙකුත් විකල්ප සලකා බැලීමේදී, ජීවිතාරක්ෂක බෝට්ටුවක් (Lifeboat) යනු නෞකාව අත්හැරීමේදී මගීන් සහ කාර්ය මණ්ඩලය ආරක්ෂිතව ඉවත් කර ගැනීමට නිර්මාණය කර ඇති යාත්‍රාවකි. ඒවාට තමන්ගේම එන්ජිමක් තිබුණද, වෙනත් යාත්‍රා ඇදගෙන යාම ඒවායේ මූලික කාර්යය නොවන බැවින්, මෙවැනි විශේෂිත මීටර් 50ක පාවෙන ඇදගෙන යන කඹයක් සාමාන්‍යයෙන් ජීවිතාරක්ෂක බෝට්ටුවක නොමැත. ජීවිතාරක්ෂක පාරුවක් (Life raft) යනුද පැවැත්මේ යාත්‍රාවක් වන අතර, එය නිර්මාණය කර ඇත්තේ මිනිසුන් ආරක්ෂිතව රැගෙන යාමට මිස වෙනත් යාත්‍රා ඇදගෙන යාමට නොවේ. එමනිසා, ජීවිතාරක්ෂක පාරුවක මෙවැනි towing line එකක් නොමැත.\n\nමේ අනුව, දී ඇති අවශ්‍යතාවය සපුරාලන්නේ ගලවා ගැනීමේ බෝට්ටුවක් (Rescue boat) පමණි.",
+        "tags": [
+            {
+                "sub_category": "LSA",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "Lifeboat",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Operational, Steam",
@@ -769,7 +1133,16 @@
         "correct_answer": "1 min.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "LSA",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "SOLAS",
+                "main_category": "Maritime Regulations, Law & Compliance"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Operational, Steam",
@@ -784,7 +1157,16 @@
         "correct_answer": "All passenger ships, all cargo ships of 500 GRT or above.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "ISM Code",
+                "main_category": "Maritime Regulations, Law & Compliance"
+            },
+            {
+                "sub_category": "Safety Management",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Operational, Steam",
@@ -799,7 +1181,16 @@
         "correct_answer": "When it is fitted with a guard or similar device which prevents foreseeable contact between a person, his clothing or items held in his hands, whilst it is in operation.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "safety",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "workshop",
+                "main_category": "Maintenance, Repair & Workshop Practice"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Operational, Steam",
@@ -814,7 +1205,16 @@
         "correct_answer": "Gun.",
         "images": [],
         "explanation": "අපරාධකරුවන් සහ ත්‍රස්තවාදීන් ඔවුන්ගේ අරමුණු ඉටු කර ගැනීම සඳහා ලෝකය පුරා බහුලවම සහ පහසුවෙන් ලබා ගත හැකි ආයුධය ලෙස තුවක්කු (Gun) භාවිතා කරයි. මේවා ප්‍රමාණයෙන් කුඩා වීම, පහසුවෙන් සැඟවිය හැකි වීම සහ දුර සිට ප්‍රහාර එල්ල කළ හැකි වීම මෙයට හේතුවයි. අනෙකුත් ආයුධ වර්ග (උදාහරණ ලෙස ජීව විද්‍යාත්මක හෝ විශාල මිසයිල පද්ධති) සාමාන්‍ය අපරාධකරුවන්ට ලබා ගැනීම සහ හැසිරවීම ඉතා අපහසු බැවින් ඒවා මෙහිදී නිවැරදි නොවේ.",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Ship Security",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "isps",
+                "main_category": "Maritime Regulations, Law & Compliance"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Operational, Steam",
@@ -828,7 +1228,16 @@
         "correct_answer": "Wear skin protection.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "First Aid",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "medical",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Operational, Steam",
@@ -843,7 +1252,16 @@
         "correct_answer": "To improve valve sealing by compensating for pressure and temperature effects on the valve during engine operation.",
         "images": [],
         "explanation": "ඩීසල් එන්ජින් වල වෑල්වය (valve spindle) සහ එහි වාඩි වන මතුපිට (valve seat) අතර අඩක උපාධියක (0.5 degree) වෙනසක් තැබීම 'interference angle' ලෙස හඳුන්වයි. එන්ජිම ක්‍රියාත්මක වන විට අධික තාපය සහ පීඩනය නිසා වෑල්වයේ හැඩය සුළු වශයෙන් වෙනස් වේ. මෙම කුඩා කෝණික වෙනස මගින් එන්ජිම ක්‍රියාත්මක වන උපරිම උෂ්ණත්වයේදී වෑල්වය සහ සීට් එක අතර වඩාත් හොඳ ස්පර්ශයක් සහ සීල් එකක් (sealing) ලබා දීමට උපකාරී වේ. මෙමගින් ගෑස් කාන්දු වීම වළකී. අනෙක් විකල්ප වලින් මෙවැනි තාක්ෂණික හේතුවක් ඉදිරිපත් නොකරන නිසා ඒවා වැරදි වේ.",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Diesel Engines",
+                "main_category": "Marine Engineering & Motive Power"
+            },
+            {
+                "sub_category": "maintenance",
+                "main_category": "Maintenance, Repair & Workshop Practice"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Operational, Steam",
@@ -858,7 +1276,16 @@
         "correct_answer": "Relatively non-linear characteristic.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Instrumentation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "electronics",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Operational, Steam",
@@ -873,7 +1300,16 @@
         "correct_answer": "Raise alarm, identify means of isolation and apply before approaching victim.",
         "images": [],
         "explanation": "අධි වෝල්ටීයතා (High Voltage) කාමරයක පුද්ගලයෙකු සිහිසුන්ව සිටිනු දුටු විට මුලින්ම කළ යුත්තේ අනතුරු ඇඟවීමේ ශබ්දය (alarm) නිකුත් කර උදව් ඉල්ලා සිටීමයි. ඉන්පසු, වහාම අදාළ විදුලි සැපයුම විසන්ධි කරන මාර්ගය (means of isolation) හඳුනාගෙන එය ක්‍රියාවිරහිත කළ යුතුය. එසේ නොකර රෝගියා වෙත ගියහොත්, එම පුද්ගලයා තවමත් විදුලි ධාරාව සමඟ සම්බන්ධ වී සිටී නම් උපකාර කිරීමට යන පුද්ගලයාටද විදුලි සැර වැදී අනතුරට පත්විය හැකිය. එබැවින් පළමුව ආරක්ෂාව තහවුරු කර ගැනීම අනිවාර්ය වේ. කෙලින්ම රෝගියා ඇල්ලීමට යාම වැනි විකල්ප අතිශය අනතුරුදායකය.",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "safety",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "high voltage",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Operational, Steam",
@@ -888,7 +1324,16 @@
         "correct_answer": "The seal rings are brittle and can be easily chipped or damaged.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "pumps",
+                "main_category": "Marine Engineering & Motive Power"
+            },
+            {
+                "sub_category": "maintenance",
+                "main_category": "Maintenance, Repair & Workshop Practice"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Operational, Steam",
@@ -903,7 +1348,16 @@
         "correct_answer": "Replace the complete cylinder cover with a spare unit and land the cover with the jammed valve ashore for repair in a specialist workshop.",
         "images": [],
         "explanation": "ෆුවෙල් ඉන්ජෙක්ෂන් වැල්ව් එකක් සිලින්ඩර් කවර් එකේ හිරවී ඇති විට, එය බලහත්කාරයෙන් ඉවත් කිරීමට යාමෙන් සිලින්ඩර් කවර් එකේ සීට් (seat) එකට හෝ වැල්ව් එකේ බොඩි එකට බරපතල හානි සිදුවිය හැක. එබැවින් නැවෙහි ඇති සීමිත පහසුකම් යටතේ අවදානමක් නොගෙන, සම්පූර්ණ සිලින්ඩර් කවර් එකම අමතර (spare) ඒකකයක් මගින් ප්‍රතිස්ථාපනය කිරීම නිවැරදි පියවරයි. හිරවූ වැල්ව් එක සහිත කවර් එක පසුව ගොඩබිම පිහිටි විශේෂඥ වැඩපොළකට (specialist workshop) යවා නිසි උපකරණ භාවිතයෙන් අලුත්වැඩියා කළ යුතුය.",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "maintenance",
+                "main_category": "Maintenance, Repair & Workshop Practice"
+            },
+            {
+                "sub_category": "Diesel Engines",
+                "main_category": "Marine Engineering & Motive Power"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Operational, Steam",
@@ -918,7 +1372,12 @@
         "correct_answer": "Use a suitable chain block suspended from the crane hook to “break” the motor free after slackening all of the retaining bolts.",
         "images": [],
         "explanation": "බරැති ඉලෙක්ට්‍රික් මෝටරයක් ඉවත් කිරීමේදී, ක්‍රේන් එක මගින් කෙලින්ම එසවීමට උත්සාහ කිරීමේදී මෝටරය එකවරම ගැස්සීමකින් යුතුව ඇදී යාමට ඉඩ ඇත (jerking). මෝටරය සහ එහි අසුන (bed) අතර ඇති ඇලෙන සුලු ස්වභාවය හෝ මලකඩ නිසා එය තද වී තිබිය හැක. එබැවින් ක්‍රේන් හුක් එකෙහි චේන් බ්ලොක් (chain block) එකක් සවිකර, ඒ මගින් ඉතා මෘදු ලෙස සහ පාලනයක් සහිතව මෝටරය මුදා ගැනීම (break free) වඩාත් ආරක්ෂිත ක්‍රමයයි. මෝටරයේ පාදම (feet) වලට ලීවර මගින් හානි කිරීම හෝ ක්‍රේන් එකෙන් පමණක් එසවීම අනතුරුදායක විය හැක.",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "safety",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Operational, Steam",
@@ -932,7 +1391,16 @@
         "correct_answer": "Shims should be fitted between the motor and compressor feet and the skid to ensure correct vertical, horizontal and parallel alignment of the coupling halves before it is bolted up.",
         "images": [],
         "explanation": "කම්ප්‍රෙෂරය සහ මෝටරය අතර 'flexible coupling' එකක් තිබුණද, ඒවායේ පෙළගැස්ම (alignment) ඉතා නිවැරදිව තිබිය යුතුය. මෝටරයේ සහ කම්ප්‍රෙෂරයේ පාද සහ ස්කිඩ් (skid) එක අතර ශිම්ස් (shims) යෙදීමෙන් සිරස්, තිරස් සහ සමාන්තර පෙළගැස්ම ලබාගත හැක. මෙය නිසි ලෙස සිදු නොකළහොත් කම්පනය (vibration) වැඩි වී බෙයාරිං (bearings) වලට හානි සිදුවේ. Flexible coupling එකකින් සුළු ඇදවීම් දරාගත හැකි වුවද, එය නිවැරදි පෙළගැස්මක් වෙනුවට විකල්පයක් නොවේ.",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "maintenance",
+                "main_category": "Maintenance, Repair & Workshop Practice"
+            },
+            {
+                "sub_category": "Alignment",
+                "main_category": "Maintenance, Repair & Workshop Practice"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Operational, Steam",
@@ -947,7 +1415,12 @@
         "correct_answer": "Fabricate a conical guide from tin plate or similar with the large diameter just bigger than the compressor piston so the rings can be eased open for fitting.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "maintenance",
+                "main_category": "Maintenance, Repair & Workshop Practice"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Operational, Steam",
@@ -962,7 +1435,16 @@
         "correct_answer": "Ring spanner or socket.",
         "images": [],
         "explanation": "පිත්තල (brass) යනු මෘදු ලෝහයක් බැවින්, සාමාන්‍ය open-end spanners භාවිතයේදී නට් එක මත ලිස්සා යාමට (slip) සහ එහි කොන් (corners) සීරීමට හෝ ගෙවී යාමට (rounding) වැඩි ඉඩක් ඇත. Ring spanner හෝ Socket එකක් භාවිතයෙන් නට් එකේ සම්පූර්ණ මතුපිටටම සමබර පීඩනයක් යෙදෙන බැවින් පිත්තල නට් එකට හානි සිදු නොවේ. Adjustable spanners හෝ ප්ලයර්ස් වැනි උපකරණ භාවිතය මෙවැනි අවස්ථාවකදී කිසිසේත්ම නිර්දේශ නොකෙරේ.",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Workshop Tools",
+                "main_category": "Maintenance, Repair & Workshop Practice"
+            },
+            {
+                "sub_category": "maintenance",
+                "main_category": "Maintenance, Repair & Workshop Practice"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Operational, Steam",
@@ -977,7 +1459,12 @@
         "correct_answer": "From the head of the derrick or crane.",
         "images": [],
         "explanation": "නැවක දොඹකරයකින් බරක් ඔසවන විට, එම බරෙහි ගුරුත්වාකර්ෂණ මධ්‍යස්ථානය (Centre of Gravity) ක්‍රියා කරන්නේ එම බර එල්ලා ඇති දොඹකරයේ හිස (head of the derrick) සිට බව සලකනු ලැබේ. මෙයට හේතුව බර එසවූ සැණින් එහි සම්පූර්ණ බලපෑම නැවේ ස්ථායීතාවයට (stability) දැනෙන්නේ එල්ලී පවතින ලක්ෂ්‍යයේ සිට වීමයි. බර තට්ටුවේ (deck) පවතින විටදී මෙන් නොව, එසවූ පසු එහි උස දොඹකරයේ හිස දක්වා ඉහළ ගිය ලෙස ගණනය කරනු ලැබේ.",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "stability",
+                "main_category": "Ship Operations, Navigation & Seamanship"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Operational, Steam",
@@ -992,7 +1479,12 @@
         "correct_answer": "Short sharp period of roll associated with breaking lashings and shifting cargo.",
         "images": [],
         "explanation": "විශාල GM (Metacentric Height) අගයක් ඇති නැවක් 'Stiff ship' ලෙස හැඳින්වේ. මෙහිදී නැව රළ පහරකට හසු වූ විට ඉතා වේගයෙන් සහ තියුණු ලෙස දෙපසට වැනේ (short sharp period of roll). මෙහි ප්‍රතිඵලයක් ලෙස භාණ්ඩ රඳවා ඇති ලැෂින් (lashings) කැඩී යාමට සහ භාණ්ඩ පෙරලීමට (cargo shifting) වැඩි ඉඩක් ඇත. දිගු rolling period එකක් ඇති වන්නේ GM අගය අඩු වූ විට (Tender ship) ය.",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "stability",
+                "main_category": "Ship Operations, Navigation & Seamanship"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Operational, Steam",
@@ -1007,7 +1499,16 @@
         "correct_answer": "PID controller for tuning.",
         "images": [],
         "explanation": "Ziegler-Nichols ක්‍රමය යනු පාලන පද්ධති (control systems) වල ඇති PID Controller එකක Gain (P), Integral (I) සහ Derivative (D) අගයන් නිවැරදිව ගැලපීම (tuning) සඳහා භාවිතා කරන ගණිතමය ක්‍රමවේදයකි. පද්ධතියේ ස්ථායීතාවය (stability) සහ ප්‍රතිචාර දැක්වීමේ වේගය උපරිම කිරීම සඳහා මෙම ක්‍රමය යොදා ගනී. මෙය වෙනත් යාන්ත්‍රික හෝ විද්‍යුත් උපාංග සැකසීමට අදාළ නොවන අතර තනිකරම PID පද්ධති ටියුන් කිරීම සඳහාම වෙන් වූවකි.",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Control Systems",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Instrumentation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Operational, Steam",
@@ -1022,7 +1523,16 @@
         "correct_answer": "Reduce the width of the proportional band for the controller.",
         "images": [],
         "explanation": "ප්‍රොපෝෂනල් පාලකයක (Proportional controller) පවතින 'offset' එක අඩු කිරීමට නම් 'proportional band' එකෙහි පළල අඩු කළ යුතුය. එවිට පාලකයේ සංවේදීතාව (gain) වැඩි වන අතර උෂ්ණත්වය නියමිත අගයට (set point) සමීපව පවත්වා ගැනීමට හැකි වේ. Proportional band එක වැඩි කිරීමෙන් පද්ධතියේ ප්‍රතිචාරය මන්දගාමී වන අතර offset එක තවත් වැඩි වේ. එබැවින් නිවැරදි පිළිතුර band එක අඩු කිරීමයි.",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Control Systems",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Instrumentation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Operational, Steam",
@@ -1037,7 +1547,16 @@
         "correct_answer": "Back pressure control valve.",
         "images": [],
         "explanation": "ප්‍රතිශීතකරණ පද්ධතියක (Refrigeration system) උෂ්ණත්වය අඩු වුවද සහ ද්‍රව ලයින් වෑල්වය (liquid line valve) වැසී තිබියදීත් එවැපරේටර් එකේ අයිස් බැඳෙන්නේ නම් (frosting up), එයට හේතුව Back pressure control valve එක නිවැරදිව ක්‍රියා නොකිරීමයි. මෙම වෑල්වයේ කාර්යය වන්නේ එවැපරේටරයේ පීඩනය සහ උෂ්ණත්වය නියමිත මට්ටමක පවත්වා ගැනීමයි. එය දෝෂ සහිත වූ විට පීඩනය ඕනෑවට වඩා අඩු වී අයිස් බැඳීම සිදුවේ. Thermostatic expansion valve වැනි අනෙකුත් කොටස් දෝෂ සහිත වූ විට සාමාන්‍යයෙන් සිසිලනය අඩු වීම මිස මෙවැනි තත්වයක් ඇති නොවේ.",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "refrigeration",
+                "main_category": "Marine Engineering & Motive Power"
+            },
+            {
+                "sub_category": "Control Systems",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Operational, Steam",
@@ -1052,7 +1571,12 @@
         "correct_answer": "Use ultrasound equipment.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "maintenance",
+                "main_category": "Maintenance, Repair & Workshop Practice"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Operational, Steam",
@@ -1082,7 +1606,12 @@
         "correct_answer": "Silica gel.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "maintenance",
+                "main_category": "Maintenance, Repair & Workshop Practice"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Operational, Steam",
@@ -1097,7 +1626,16 @@
         "correct_answer": "Contamination of the boiler water by oil.",
         "images": [],
         "explanation": "බොයිලේරුවක වතුර පවතින ප්‍රදේශය පිරිසිදු කිරීම සඳහා 'Chemical boiling out' ක්‍රමය භාවිතා කරන්නේ ප්‍රධාන වශයෙන්ම එහි ජලය තෙල් (oil) මගින් අපවිත්‍ර වී ඇති විටය. මෙහිදී ක්ෂාරීය රසායනික ද්‍රව්‍ය යොදා තෙල් හා ග්‍රීස් තට්ටු ඉවත් කරනු ලැබේ. අනෙක් අතට, බොයිලේරුවේ මලකඩ හෝ ඛනිජ ස්ථර (scale) ඉවත් කිරීමට සාමාන්‍යයෙන් ඇසිඩ් පිරිසිදු කිරීම් (acid cleaning) හෝ යාන්ත්‍රික පිරිසිදු කිරීම් සිදු කරන අතර, සාමාන්‍ය ක්‍රියාකාරිත්වයේදී සිදුවන දූෂණය පාලනයට 'blow down' ක්‍රමය යොදා ගනී.",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "maintenance",
+                "main_category": "Maintenance, Repair & Workshop Practice"
+            },
+            {
+                "sub_category": "water treatment",
+                "main_category": "Marine Engineering & Motive Power"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Operational, Steam",
@@ -1112,7 +1650,16 @@
         "correct_answer": "To protect the piston in the hydraulic system from possible impact damage as it may reach the end of its stroke.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Instrumentation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Calibration",
+                "main_category": "Maintenance, Repair & Workshop Practice"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Operational, Steam",
@@ -1127,7 +1674,16 @@
         "correct_answer": "To isolate a single frequency of vibration associated with one of the pumps components.",
         "images": [],
         "explanation": "කේන්ද්‍රාපසාරී පොම්පයක (centrifugal pump) කම්පන විශ්ලේෂණය කිරීමේදී 'harmonic filters/analysers' භාවිතා කරන්නේ පොම්පයේ එක් එක් විශේෂිත කොටස්වලින් (උදාහරණ ලෙස bearings, impeller හෝ shaft) නිකුත් වන නිශ්චිත සංඛ්‍යාතයන් වෙන් කර හඳුනා ගැනීමටයි (isolate a single frequency). සමස්ත කම්පනය මැනීමෙන් පමණක් දෝෂය පවතින්නේ කුමන කොටසෙහිදැයි නිවැරදිව කිව නොහැකි බැවින්, මෙම පෙරහන් මගින් අදාළ කොටස හඳුනා ගැනීම පහසු කරයි.",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Condition Monitoring",
+                "main_category": "Maintenance, Repair & Workshop Practice"
+            },
+            {
+                "sub_category": "maintenance",
+                "main_category": "Maintenance, Repair & Workshop Practice"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Operational, Steam",
@@ -1142,7 +1698,16 @@
         "correct_answer": "The coalescer module is saturated and requires renewal.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Automation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Instrumentation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Operational, Steam",
@@ -1157,7 +1722,12 @@
         "correct_answer": "1 000 Volts AC or 1 500 Volts DC.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "high voltage",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Operational, Steam",
@@ -1172,7 +1742,16 @@
         "correct_answer": "The HV cable carries a smaller current and therefore requires less copper.",
         "images": [],
         "explanation": "HV කේබල්වල වෝල්ටීයතාවය වැඩි බැවින්, සමාන ජවයක් (power) ලබා දීම සඳහා අවශ්‍ය වන ධාරාව (current) අඩු වේ (P = V x I සූත්‍රයට අනුව). ධාරාව අඩු වන විට කම්බිය රත් වීම අවම වන බැවින් කුඩා හරස්කඩක් සහිත තඹ කම්බි භාවිතා කළ හැකිය. මෙහිදී HV කේබල්වල පරිවාරක තට්ටුව (insulation) LV කේබල්වලට වඩා ඝනකම් වුවද, සමස්තයක් ලෙස අවශ්‍ය වන තඹ ප්‍රමාණය අඩු වීම නිසා කේබලයේ ප්‍රමාණය කුඩා වේ.",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "high voltage",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "electrical",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Operational, Steam",
@@ -1187,7 +1766,16 @@
         "correct_answer": "My vessel has lost containers with dangerous goods of IMDG Class ___ in position ___.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Cargo Operations",
+                "main_category": "Cargo Operations & Vessel Types"
+            },
+            {
+                "sub_category": "safety",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Operational, Steam",
@@ -1202,7 +1790,16 @@
         "correct_answer": "Emergency Position Indicating Radio Beacon.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "LSA",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "Emergency Procedures",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Operational, Steam",
@@ -1216,6 +1813,15 @@
         "correct_answer": "Should be secured before working from it.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "safety",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "workshop",
+                "main_category": "Maintenance, Repair & Workshop Practice"
+            }
+        ]
     }
 ]

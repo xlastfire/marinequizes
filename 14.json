@@ -12,7 +12,16 @@
         "correct_answer": "Not permissible anywhere.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "marpol",
+                "main_category": "Maritime Regulations, Law & Compliance"
+            },
+            {
+                "sub_category": "Environmental Protection",
+                "main_category": "Maritime Regulations, Law & Compliance"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Ratings",
@@ -27,7 +36,16 @@
         "correct_answer": "The ship’s safety plan.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "safety",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "Administration",
+                "main_category": "Management, Administration & Human Factors"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Ratings",
@@ -42,7 +60,16 @@
         "correct_answer": "Both STCW and Class rules.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "watchkeeping",
+                "main_category": "Ship Operations, Navigation & Seamanship"
+            },
+            {
+                "sub_category": "operations",
+                "main_category": "Management, Administration & Human Factors"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Ratings",
@@ -57,7 +84,16 @@
         "correct_answer": "Warning signs that indicate lack of oxygen inside.",
         "images": [],
         "explanation": "Void spaces වැනි සංවෘත ස්ථාන (Enclosed spaces) දීර්ඝ කාලයක් වසා තැබීම නිසා ඒවායේ ඔක්සිජන් හිඟයක් (Lack of oxygen) පවතින බවට අනතුරු ඇඟවීමේ පුවරු ප්‍රදර්ශනය කළ යුතුය. වාතාශ්‍රය නොමැති වීම නිසා ලෝහ මලබැඳීමේ ක්‍රියාවලියෙන් ඔක්සිජන් වැයවීම හෝ විෂ වායු පිරීම සිදු විය හැකිය. ලිස්සා යාම වැනි අනතුරු වලට වඩා මෙහි ඇති ප්‍රධානතම මාරාන්තික අනතුර වන්නේ හුස්ම ගැනීමට අවශ්‍ය ඔක්සිජන් නොමැති වීමයි.",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "safety",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "enclosed space",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Ratings",
@@ -72,7 +108,16 @@
         "correct_answer": "The rags may be caught by running machinery or power tools.",
         "images": [],
         "explanation": "යන්ත්‍ර කාමරවල වැඩ කරන විට බෙල්ලේ රෙදි කැබලි (Sweat rags) දමාගෙන සිටීම ඉතා අනතුරුදායකය. කැරකෙන පතුවළවල් (Rotating shafts), බෙල්ට් හෝ පවර් ටූල්ස් වල මෙම රෙදි පැටලීමෙන් බරපතල ශරීර හානි හෝ මරණය පවා සිදු විය හැක. අනෙක් විකල්ප වැරදි වන්නේ මෙහි ඇති ප්‍රධානතම අවදානම වන්නේ සෞඛ්‍ය ගැටලුවකට වඩා යන්ත්‍රෝපකරණ වල පැටලීමෙන් සිදුවන අනතුරයි.",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "safety",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "PPE",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Ratings",
@@ -87,7 +132,16 @@
         "correct_answer": "For all listed vessels.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "marpol",
+                "main_category": "Maritime Regulations, Law & Compliance"
+            },
+            {
+                "sub_category": "Regulatory",
+                "main_category": "Maritime Regulations, Law & Compliance"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Ratings",
@@ -102,7 +156,12 @@
         "correct_answer": "100 dB.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "safety",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Ratings",
@@ -117,7 +176,20 @@
         "correct_answer": "Stop loading.",
         "images": [],
         "explanation": "තෙල් පටවන අතරතුර නෞකාව අසල ජලයේ තෙල් පවතින බව දුටු සැණින් ගත යුතු මූලික ක්‍රියාමාර්ගය වන්නේ තෙල් පැටවීම වහාම නැවැත්වීමයි (Stop loading). මෙය තවදුරටත් කාන්දුවීම වැළැක්වීමට සහ පරිසර හානිය අවම කිරීමට ගත හැකි ප්‍රමුඛතම පියවරයි. පැටවීම නතර නොකර කාන්දුව පරීක්ෂා කිරීම හෝ පාලක මැදිරියට දැනුම් දීම පමණක් සිදු කිරීම ප්‍රමාණවත් නොවේ, මන්ද ඒ අතරතුර විශාල තෙල් ප්‍රමාණයක් ජලයට එක්විය හැකි බැවිනි. පැටවීම නැවැත්වීමෙන් පසු අනෙකුත් සියලුම හදිසි පියවර (දැනුම් දීම, කාන්දුව හඳුනා ගැනීම, පිරිසිදු කිරීම) සිදු කළ යුතුය.",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "pollution prevention",
+                "main_category": "Maritime Regulations, Law & Compliance"
+            },
+            {
+                "sub_category": "bunkering",
+                "main_category": "Cargo Operations & Vessel Types"
+            },
+            {
+                "sub_category": "safety",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Ratings",
@@ -132,7 +204,16 @@
         "correct_answer": "The main supply valves in the deck storage are closed and checks made that no fire risk exists prior to switching on the fire alarm system and going to UMS-mode.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "safety",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "hot work",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Ratings",
@@ -164,7 +245,16 @@
         "correct_answer": "A device which prevents an operation of equipment to take place, to allow access or maintenance to be carried out.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "safety",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "Automation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Ratings",
@@ -179,7 +269,16 @@
         "correct_answer": "It is an integral part of the overall training plan.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "training",
+                "main_category": "Management, Administration & Human Factors"
+            },
+            {
+                "sub_category": "Safety Management",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Ratings",
@@ -194,7 +293,16 @@
         "correct_answer": "The “Abandon ship” signal is not specified, only the general emergency alarm signal is tated.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Emergency Procedures",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "SOLAS",
+                "main_category": "Maritime Regulations, Law & Compliance"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Ratings",
@@ -209,7 +317,16 @@
         "correct_answer": "To minimise risk of gas leakage and ensure correct clearance between piston and cylinder cover.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Main Engine",
+                "main_category": "Marine Engineering & Motive Power"
+            },
+            {
+                "sub_category": "maintenance",
+                "main_category": "Maintenance, Repair & Workshop Practice"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Ratings",
@@ -224,7 +341,16 @@
         "correct_answer": "Wear a safety harness securely attached to ship’s structure.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "safety",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "Work at Height",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Ratings",
@@ -239,7 +365,12 @@
         "correct_answer": "Caps and cocks should be closed at all times, except when sounding tanks, to prevent ingress of water or oil into the engine room in case of tank bottom damage or overflow.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "operations",
+                "main_category": "Management, Administration & Human Factors"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Ratings",
@@ -254,7 +385,16 @@
         "correct_answer": "The chemicals make it difficult to remove the oil from the water.",
         "images": [],
         "explanation": "මුහුදට තෙල් කාන්දු වූ විට රසායනික ද්‍රව්‍ය (Dispersants) භාවිතා කිරීමේ ප්‍රධාන අවාසිය නම්, එමගින් තෙල් ජලය සමඟ මිශ්‍ර කර (emulsify) ජල තීරයට මුදා හැරීමයි. එවිට යාන්ත්‍රික ක්‍රම (Skimmers) මගින් තෙල් මතුපිටින් ඉවත් කිරීම අතිශය දුෂ්කර හෝ කළ නොහැකි දෙයක් බවට පත් වේ. රසායනික ද්‍රව්‍ය මගින් තෙල් ඉවත් නොකරන අතර එය තට්ටුවක් ලෙස පැවතීම පමණක් වලක්වයි. මෙය මුහුදු ජීවීන්ටද අහිතකර බලපෑම් ඇති කළ හැකි නමුත් තාක්ෂණිකව ප්‍රධාන ගැටලුව වන්නේ පිරිසිදු කිරීමේ අපහසුවයි.",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "pollution prevention",
+                "main_category": "Maritime Regulations, Law & Compliance"
+            },
+            {
+                "sub_category": "Environmental",
+                "main_category": "Maritime Regulations, Law & Compliance"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Ratings",
@@ -269,7 +409,16 @@
         "correct_answer": "Scavenge air pressure lower than normal.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "maintenance",
+                "main_category": "Maintenance, Repair & Workshop Practice"
+            },
+            {
+                "sub_category": "operations",
+                "main_category": "Management, Administration & Human Factors"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Ratings",
@@ -284,7 +433,16 @@
         "correct_answer": "Go to your lifeboat station (muster station).",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Emergency Procedures",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "safety",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Ratings",
@@ -299,7 +457,16 @@
         "correct_answer": "For all vessels.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "SOLAS",
+                "main_category": "Maritime Regulations, Law & Compliance"
+            },
+            {
+                "sub_category": "Regulatory",
+                "main_category": "Maritime Regulations, Law & Compliance"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Ratings",
@@ -314,7 +481,16 @@
         "correct_answer": "Leave the tank immediately and have the atmosphere retested.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "safety",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "enclosed space",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Ratings",
@@ -329,7 +505,16 @@
         "correct_answer": "Report to relevant authorities.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Environmental Protection",
+                "main_category": "Maritime Regulations, Law & Compliance"
+            },
+            {
+                "sub_category": "marpol",
+                "main_category": "Maritime Regulations, Law & Compliance"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Ratings",
@@ -344,7 +529,16 @@
         "correct_answer": "To all seafarers.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "safety",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "training",
+                "main_category": "Management, Administration & Human Factors"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Ratings",
@@ -359,7 +553,16 @@
         "correct_answer": "Wearing and fastening of lifejackets and associated equipment.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "LSA",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "safety",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Ratings",
@@ -374,7 +577,16 @@
         "correct_answer": "To reduce risk of fire and the risk of slipping.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "safety",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "operations",
+                "main_category": "Management, Administration & Human Factors"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Ratings",
@@ -389,7 +601,16 @@
         "correct_answer": "All personnel participate in the training at the same time.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Master's Responsibilities",
+                "main_category": "Management, Administration & Human Factors"
+            },
+            {
+                "sub_category": "Safety Management",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Ratings",
@@ -404,7 +625,16 @@
         "correct_answer": "It is the SOLAS conventions that take care of the human safety at sea.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "IMO",
+                "main_category": "Maritime Regulations, Law & Compliance"
+            },
+            {
+                "sub_category": "SOLAS",
+                "main_category": "Maritime Regulations, Law & Compliance"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Ratings",
@@ -419,7 +649,16 @@
         "correct_answer": "Rig chain blocks to lift the cylinder head from its cradle and then transfer it gradually over to the crane hook by working the chain blocks.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "maintenance",
+                "main_category": "Maintenance, Repair & Workshop Practice"
+            },
+            {
+                "sub_category": "operations",
+                "main_category": "Management, Administration & Human Factors"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Ratings",
@@ -434,7 +673,16 @@
         "correct_answer": "At all times when identified as a control method with risk assessment.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "safety",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "PPE",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Ratings",
@@ -449,6 +697,11 @@
         "correct_answer": "Legs straight, back bent and twisted to the right or to the left while lifting.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "safety",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            }
+        ]
     }
 ]

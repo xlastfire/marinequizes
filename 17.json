@@ -11,7 +11,12 @@
         "correct_answer": "To transfer heat from one fluid to another",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "heat exchanger",
+                "main_category": "Marine Engineering & Motive Power"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Support, Motoman",
@@ -25,7 +30,12 @@
         "correct_answer": "To check condensate returns for oil.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "water treatment",
+                "main_category": "Marine Engineering & Motive Power"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Support, Motoman",
@@ -39,7 +49,16 @@
         "correct_answer": "To avoid accidental intake of water into the engine room in case of valve or pipeline failure.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Piping Systems",
+                "main_category": "Maintenance, Repair & Workshop Practice"
+            },
+            {
+                "sub_category": "pollution prevention",
+                "main_category": "Maritime Regulations, Law & Compliance"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Support, Motoman",
@@ -53,7 +72,16 @@
         "correct_answer": "The pressure drop across the filter.",
         "images": [],
         "explanation": "ඔයිල් ෆිල්ටරයක් අවහිර වී ඇති බව හඳුනාගත හැකි නිවැරදිම දර්ශකය වන්නේ එම ෆිල්ටරයේ ඇතුල් වන පැත්ත සහ පිටවන පැත්ත අතර ඇති පීඩන වෙනසයි (pressure drop across the filter). ෆිල්ටරය තුළ අපද්‍රව්‍ය පිරී ඇති විට, තෙල් ගලා යාමට අපහසු වී ඇතුල් වන පැත්තේ පීඩනය වැඩි වේ. බොහෝ ෆිල්ටර් වල මේ සඳහා differential pressure gauge එකක් සවි කර ඇත. පීඩනය අඩුවීම පමණක් හෝ එන්ජිම නැවතීම වැනි දේ අවහිරතාවය හඳුනා ගැනීමට ප්‍රායෝගික දර්ශක නොවේ.",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "maintenance",
+                "main_category": "Maintenance, Repair & Workshop Practice"
+            },
+            {
+                "sub_category": "Filtration",
+                "main_category": "Marine Engineering & Motive Power"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Support, Motoman",
@@ -67,7 +95,12 @@
         "correct_answer": "A hydraulic hand pump is usually used to tighten G-nuts",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Tools",
+                "main_category": "Maintenance, Repair & Workshop Practice"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Support, Motoman",
@@ -113,7 +146,12 @@
         "correct_answer": "At the highest point of the steam drum.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Steam System",
+                "main_category": "Marine Engineering & Motive Power"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Support, Motoman",
@@ -127,7 +165,12 @@
         "correct_answer": "… the furnace purge sequence is completed.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "safety",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Support, Motoman",
@@ -189,7 +232,16 @@
         "correct_answer": "Horizontal.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "safety",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "Rescue",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Support, Motoman",
@@ -235,7 +287,16 @@
         "correct_answer": "Raise the fire alarm.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "fire safety",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "emergency",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Support, Motoman",
@@ -249,7 +310,16 @@
         "correct_answer": "Confirm with their search partner that the object found is suspicious.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Maritime Security",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "emergency",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Support, Motoman",
@@ -279,7 +349,12 @@
         "correct_answer": "To ensure soot is cleared progressively from the bottom tubes to the top and toward the boiler uptakes.",
         "images": [],
         "explanation": "බොයිලේරු සූට් බ්ලෝවර් (sootblowers) නිවැරදි අනුපිළිවෙලට ක්‍රියාත්මක කළ යුත්තේ දැලි සහ අළු පහළ නලවල සිට ඉහළටත්, ඉන්පසු දුම් කවුළුව (uptake) දෙසටත් ක්‍රමානුකූලව තල්ලු කර යැවීමටයි. මෙලෙස සිදු කිරීමෙන් ඉවත් කරන දැලි නැවත පිරිසිදු කරන ලද පහළ නල මත තැන්පත් වීම වළක්වයි. වැරදි අනුපිළිවෙලක් අනුගමනය කිරීමෙන් දැලි නිසි ලෙස බැහැර නොවන අතර බොයිලේරුවේ කාර්යක්ෂමතාව අඩු විය හැක.",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "maintenance",
+                "main_category": "Maintenance, Repair & Workshop Practice"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Support, Motoman",
@@ -293,7 +368,12 @@
         "correct_answer": "Use cleaning wires starting with a small gauge and gradually work up to the full size of the nozzle hole.",
         "images": [],
         "explanation": "බොයිලේරු බර්නර් නොසල් (burner nozzles) පිරිසිදු කිරීමේදී, එහි සිදුරු වලට හානි නොවන පරිදි කටයුතු කිරීම අත්‍යවශ්‍ය වේ. මේ සඳහා වඩාත්ම සුදුසු ක්‍රමය වන්නේ කුඩා ප්‍රමාණයේ සිට නොසල් සිදුරේ නියමිත ප්‍රමාණය දක්වා ක්‍රමයෙන් විශාල වන පිරිසිදු කිරීමේ කම්බි (cleaning wires) භාවිතා කිරීමයි. පිහි හෝ දෘඩ ලෝහ කූරු භාවිතයෙන් සිදුරේ හැඩය වෙනස් විය හැකි අතර, එමගින් ඉන්ධන දහනය අක්‍රමවත් වී බොයිලේරුවේ කාර්යක්ෂමතාව අඩු වේ.",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "maintenance",
+                "main_category": "Maintenance, Repair & Workshop Practice"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Support, Motoman",
@@ -307,7 +387,16 @@
         "correct_answer": "Soak the plates in a suitable solvent until all of the dirt has loosened off and wipe clean with rags.",
         "images": [],
         "explanation": "ඉන්ධන පිරිපහදු කරන සෙපරේටරයක (Purifier/Clarifier) ප්ලේට් ස්ටැක් එක පිරිසිදු කිරීම සඳහා වඩාත් සුදුසු ක්‍රමය වන්නේ ඒවා සුදුසු ද්‍රාවණයක (solvent) බහා තබා, පසුව රෙදි කැබලි ආධාරයෙන් පිස දැමීමයි. ප්ලේට් යනු ඉතා තුනී සහ නිරවද්‍යව නිර්මාණය කර ඇති කොටස් වේ. ඒවා ලෝහමය සූරන (scrapers) හෝ වයර් බුරුසු භාවිතයෙන් පිරිසිදු කළහොත් ප්ලේට් මතුපිට සීරීම් ඇති විය හැකි අතර පසුව තෙල් පිරිපහදු කිරීමේ කාර්යක්ෂමතාව අඩු වේ. එසේම තදින් ඇති කුණු ඉවත් කිරීමට ජලය පමණක් ප්‍රමාණවත් නොවන බැවින් රසායනික ද්‍රාවණයක් භාවිතා කිරීම අත්‍යවශ්‍ය වේ.",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Purifiers",
+                "main_category": "Marine Engineering & Motive Power"
+            },
+            {
+                "sub_category": "maintenance",
+                "main_category": "Maintenance, Repair & Workshop Practice"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Support, Motoman",
@@ -321,7 +410,16 @@
         "correct_answer": "The material safety data sheets supplied with the chemicals.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "safety",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "MSDS",
+                "main_category": "Maritime Regulations, Law & Compliance"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Support, Motoman",
@@ -335,7 +433,16 @@
         "correct_answer": "Put it straight into the dirty oil tank for incineration at the next opportunity.",
         "images": [],
         "explanation": "නැවක භාවිතා කරන ලද ඕනෑම තෙල් වර්ගයක් පරිසරයට මුදා හැරීම MARPOL ජාත්‍යන්තර රෙගුලාසි මගින් දැඩි ලෙස තහනම් කර ඇත. එබැවින් පිරිසිදු කිරීමෙන් පසු ඉතිරි වන අපිරිසිදු ඩීසල් තෙල්, නැවේ ඇති අපිරිසිදු තෙල් ටැංකියට (dirty oil tank) දැමිය යුතුය. පසුව එය නැවේ ඇති දහන යන්ත්‍රය (incinerator) මගින් ආරක්ෂිතව පුළුස්සා දැමීම හෝ වරායකදී ඉවත් කිරීම කළ යුතුය.",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "pollution prevention",
+                "main_category": "Maritime Regulations, Law & Compliance"
+            },
+            {
+                "sub_category": "Waste Management",
+                "main_category": "Maritime Regulations, Law & Compliance"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Support, Motoman",
@@ -349,7 +456,20 @@
         "correct_answer": "Inform the duty engineer immediately so that the engine room can be re-entered and the valve can be shut.",
         "images": [],
         "explanation": "UMS (Unattended Machinery Space) මෙහෙයුමකදී යම් වැරදීමකින් තෙල් ටැංකියක් පුරවන වෑල්වයක් (Valve) විවෘතව තබා ගියහොත්, ඒ පිළිබඳව වහාම රාජකාරියේ නියුතු ඉංජිනේරුවරයා දැනුවත් කළ යුතුය. ඉන්පසු නියමිත ආරක්ෂිත ක්‍රමවේද අනුගමනය කර නැවත එන්ජින් රූම් එකට ඇතුළු වී වෑල්වය වසා දැමිය යුතුය. එසේ නොකළහොත් තෙල් පිටාර ගලා (Overflow) ගිනි ගැනීමක් වැනි විශාල විනාශයක් සිදුවීමට ඉඩ ඇත.",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "UMS",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "safety",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "operations",
+                "main_category": "Management, Administration & Human Factors"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Support, Motoman",
@@ -363,7 +483,16 @@
         "correct_answer": "Greasy cotton packing.",
         "images": [],
         "explanation": "මුහුදු ජලය පම්ප් කරන පොම්පයක shaft gland එකක් සඳහා වඩාත් සුදුසු ඇසුරුම වන්නේ 'Greasy cotton packing' ය. කපු (Cotton) මෘදු වන අතර ජලය උරා ගැනීමේ හැකියාව ඇත. එහි අඩංගු ග්‍රීස් මගින් shaft එක ලිහිසි කරන අතර මුහුදු ජලයෙන් සිසිලනය ලබා දෙයි. රබර් හෝ ප්ලාස්ටික් ඇසුරුම් අධික තාපය නිසා දිය විය හැකි අතර shaft එකට හානි කළ හැකිය. ඇස්බැස්ටෝස් (Asbestos) සෞඛ්‍යයට අහිතකර බැවින් දැන් භාවිතා නොවේ. ලෝහමය ඇසුරුම් (Metallic packing) මගින් shaft එක සීරීමට ලක්විය හැකි බැවින් කපු මිශ්‍ර ඇසුරුම් වඩාත් ප්‍රායෝගික වේ.",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "pumps",
+                "main_category": "Marine Engineering & Motive Power"
+            },
+            {
+                "sub_category": "maintenance",
+                "main_category": "Maintenance, Repair & Workshop Practice"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Support, Motoman",
@@ -377,7 +506,16 @@
         "correct_answer": "Make a new gasket from old chart paper or other similar material of the same thickness as the original gasket.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "maintenance",
+                "main_category": "Maintenance, Repair & Workshop Practice"
+            },
+            {
+                "sub_category": "pumps",
+                "main_category": "Marine Engineering & Motive Power"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Support, Motoman",
@@ -391,7 +529,12 @@
         "correct_answer": "Any certified strop which has a safe working load greater than the weight of the motor.",
         "images": [],
         "explanation": "දොඹකරයක් (Crane) භාවිතයෙන් බර උපකරණයක් පහත් කිරීමේදී, ඒ සඳහා භාවිතා කරන ඕනෑම පටියක් හෝ ලණුවක් (Strop) අනිවාර්යයෙන්ම සහතික කරන ලද (Certified) එකක් විය යුතු අතර එහි ආරක්ෂිත වැඩ බර (Safe Working Load - SWL) අදාළ මෝටරයේ බරට වඩා වැඩි විය යුතුය. මෙය නාවික ඉංජිනේරු ක්ෂේත්‍රයේ ආරක්ෂාව පිළිබඳ මූලික නීතියකි. සහතික නොකළ උපකරණ භාවිතා කිරීම අනතුරුදායක වන අතර ලණුවේ දිග හෝ වර්ගය පමණක් සලකා බැලීම ප්‍රමාණවත් නොවේ.",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "safety",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Support, Motoman",
@@ -405,7 +548,20 @@
         "correct_answer": "Graphite fibre packing.",
         "images": [],
         "explanation": "අඩු පීඩන වාෂ්ප වෑල්ව (Low pressure steam valves) සඳහා ග්‍රැෆයිට් ෆයිබර් පැකින් (Graphite fibre packing) වඩාත් සුදුසු වේ. ග්‍රැෆයිට් වලට ඉහළ උෂ්ණත්වයන්ට ඔරොත්තු දීමේ හැකියාව ඇති අතර එය ස්වයං-ලිහිස්සි ද්‍රව්‍යයක් (Self-lubricating) ලෙස ක්‍රියා කරයි. කපු (Cotton) හෝ හෙම්ප් (Hemp) වැනි ද්‍රව්‍ය වාෂ්ප වල උෂ්ණත්වය නිසා ඉක්මනින් පිලිස්සී ගොස් කාන්දු වීම් ඇති විය හැක. PTFE පැකින් ද භාවිතා කළ හැකි වුවත්, වාෂ්ප පද්ධති සඳහා වඩාත් විශ්වාසදායක වන්නේ ග්‍රැෆයිට් ය.",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Valves",
+                "main_category": "Marine Engineering & Motive Power"
+            },
+            {
+                "sub_category": "Steam Systems",
+                "main_category": "Marine Engineering & Motive Power"
+            },
+            {
+                "sub_category": "maintenance",
+                "main_category": "Maintenance, Repair & Workshop Practice"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Support, Motoman",
@@ -419,7 +575,20 @@
         "correct_answer": "Inform the engineer in case it has been left inside the compressor when it was closed up.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "maintenance",
+                "main_category": "Maintenance, Repair & Workshop Practice"
+            },
+            {
+                "sub_category": "safety",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "Housekeeping",
+                "main_category": "Maintenance, Repair & Workshop Practice"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Support, Motoman",
@@ -433,7 +602,20 @@
         "correct_answer": "Leave the tank immediately and have the atmosphere retested.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "safety",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "enclosed space",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "Risk Assessment",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Support, Motoman",
@@ -447,7 +629,16 @@
         "correct_answer": "Rig chain blocks to lift the cylinder head from its cradle and then transfer it gradually over to the crane hook by working the chain blocks.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "safety",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "maintenance",
+                "main_category": "Maintenance, Repair & Workshop Practice"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Support, Motoman",
@@ -461,7 +652,16 @@
         "correct_answer": "Make a new brass plug on the lathe to fit the drain hole.",
         "images": [],
         "explanation": "තාප හුවමාරුකයක (Heat exchanger) ලෝකඩ කෙළවර ආවරණයක නූල් (Threads) හානි වී ඇති විට සහ අමතර කොටස් නොමැති විට, වඩාත්ම තාක්ෂණික විසඳුම වන්නේ ලැතර් යන්ත්‍රයක් (Lathe) භාවිතයෙන් එම සිදුරට නිවැරදිව ගැලපෙන නව පිත්තල ඇබයක් (Brass plug) සකසා ගැනීමයි. මෙයට හේතුව වන්නේ ලෝකඩ සමග වෙනත් ලෝහ (උදාහරණයක් ලෙස වානේ) භාවිතා කළහොත් ගැල්වනික් විඛාදනය (Galvanic corrosion) ඇති වී උපකරණයට හානි විය හැකි බැවිනි. ලී ඇබ හෝ ප්ලාස්ටික් ඇබ පීඩනය දරා ගැනීමට ප්‍රමාණවත් නොවන නිසා ඒවා නුසුදුසුය.",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "maintenance",
+                "main_category": "Maintenance, Repair & Workshop Practice"
+            },
+            {
+                "sub_category": "Heat Exchangers",
+                "main_category": "Marine Engineering & Motive Power"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Support, Motoman",
@@ -475,7 +675,12 @@
         "correct_answer": "Carry out a hose test on the manhole cover.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "maintenance",
+                "main_category": "Maintenance, Repair & Workshop Practice"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Support, Motoman",
@@ -507,7 +712,12 @@
         "correct_answer": "The drill should be a smaller size than the diameter of the tap.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Workshop Practice",
+                "main_category": "Maintenance, Repair & Workshop Practice"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Support, Motoman",
@@ -522,7 +732,12 @@
         "correct_answer": "Bend the inner tab up against one flat of the nut and the other tab down over the edge of the component.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "maintenance",
+                "main_category": "Maintenance, Repair & Workshop Practice"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Support, Motoman",
@@ -554,7 +769,16 @@
         "correct_answer": "Pirates are persons who attempt to board and take over a ship at sea.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Maritime Security",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "Piracy",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Support, Motoman",
@@ -569,7 +793,12 @@
         "correct_answer": "The crew mess.",
         "images": [],
         "explanation": "නැවක කාර්ය මණ්ඩලය ආහාර ගන්නා ස්ථානය හැඳින්වීමට භාවිතා කරන නිවැරදි නාවික පාරිභාෂිත වචනය වන්නේ 'Mess' (Crew mess) යන්නයි. 'Dining room' යන වචනය සාමාන්‍යයෙන් මගී නැව්වල හෝ නිවාසවල භාවිතා වන අතර, නැවක කාර්ය මණ්ඩලය සඳහා වෙන් කර ඇති කොටසට 'Mess room' යැයි කියනු ලැබේ. 'Kitchen' යන්න නැවකදී 'Galley' ලෙස හඳුන්වනු ලබන අතර එය ආහාර පිසින ස්ථානයයි. එබැවින් කාර්ය මණ්ඩලය ආහාර ගන්නා ස්ථානය නිවැරදිව 'Crew mess' ලෙස හඳුන්වයි.",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Ship Familiarization",
+                "main_category": "Management, Administration & Human Factors"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Support, Motoman",

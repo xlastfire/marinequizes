@@ -12,7 +12,12 @@
         "correct_answer": "4,6 V.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -27,7 +32,16 @@
         "correct_answer": "One of the main switching elements in the triac has failed.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "electronics",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Instrumentation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -42,7 +56,16 @@
         "correct_answer": "Recharge batteries immediately after discharge.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "safety",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "Batteries",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -57,7 +80,16 @@
         "correct_answer": "Accelerometer.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Instrumentation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Sensors",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -72,7 +104,16 @@
         "correct_answer": "2 separate starting devices each with stored energy capable for at least 3 consecutive starts.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Emergency Generator",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "safety",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -87,7 +128,16 @@
         "correct_answer": "The controller will not react to a process change in this range.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Instrumentation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Automation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -102,7 +152,16 @@
         "correct_answer": "100 M Ohms.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "high voltage",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Electrical Safety",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -117,7 +176,16 @@
         "correct_answer": "Flammable mixture is not continuously present, but will be present during normal operations.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Tanker Safety",
+                "main_category": "Cargo Operations & Vessel Types"
+            },
+            {
+                "sub_category": "Hazardous Areas",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -132,7 +200,12 @@
         "correct_answer": "Use a Digital Multi-Meter set to measure ohms in forward and reverse directions.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "electronics",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -147,7 +220,16 @@
         "correct_answer": "Temperature, humidity and surface contamination.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Motors",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -162,7 +244,12 @@
         "correct_answer": "Straight pipe.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Piping Systems",
+                "main_category": "Maintenance, Repair & Workshop Practice"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -177,7 +264,16 @@
         "correct_answer": "Manual.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Automation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Control Systems",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -192,7 +288,16 @@
         "correct_answer": "Power.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Instrumentation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -207,7 +312,16 @@
         "correct_answer": "6 ohms.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Motors",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -239,7 +353,16 @@
         "correct_answer": "Barometer.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Instrumentation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Sensors",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -253,8 +376,17 @@
         ],
         "correct_answer": "A large bow thruster will draw very large currents at low voltage. Being typically remote from the generator, significant voltage drops would occur at low voltage.",
         "images": [],
-        "explanation": "",
-        "tags": []
+        "explanation": "නැවක ප්‍රධාන විදුලි ජනන පද්ධතිය සාමාන්‍යයෙන් වෝල්ට් 440 වැනි අඩු වෝල්ටීයතාවයකින් (Low Voltage) ක්‍රියාත්මක වුවද, බවු ත්‍රස්ටර් (Bow Thruster) වැනි ඉතා ඉහළ බලයක් අවශ්‍ය වන උපකරණ සඳහා වෝල්ටීයතාව ඉහළ නැංවීමට (Step up) ප්‍රධාන හේතුව වන්නේ විද්‍යුත් බලය සම්ප්‍රේෂණය කිරීමේදී සිදුවන ශක්ති හානිය අවම කර ගැනීමයි. විදුලි බලය යනු වෝල්ටීයතාව සහ ධාරාවෙහි ගුණිතයයි. බවු ත්‍රස්ටර් එකක් වැනි විශාල මෝටරයක් ක්‍රියාත්මක කිරීමේදී විශාල විද්‍යුත් ධාරාවක් (Current) අවශ්‍ය වේ. මෙම ධාරාව අඩු වෝල්ටීයතාවයකදී ප්‍රවාහනය කළහොත් විදුලි කේබල් හරහා විශාල වෝල්ටීයතා පහත වැටීමක් (Voltage drop) සිදුවේ. එනම් කේබල්වල ඇති අභ්‍යන්තර ප්‍රතිරෝධය නිසා යම් විද්‍යුත් ශක්තියක් තාපය ලෙස අපතේ යයි. නෞකාවක විදුලි ජනකය (Generator) සහ බවු ත්‍රස්ටරය අතර පරතරය තරමක් වැඩි බැවින් දිගු කේබල් හරහා අඩු වෝල්ටීයතාවයකින් විශාල ධාරාවක් ගෙන යාම අතිශය අකාර්යක්ෂම වේ. එබැවින් ට්‍රාන්ස්ෆෝමරයක් (Transformer) භාවිතයෙන් වෝල්ටීයතාව ඉහළ නැංවූ විට, එම බලයම ගෙන යාමට අවශ්‍ය ධාරාවේ ප්‍රමාණය අඩු වේ. ඕම් නියමයට අනුව ධාරාව අඩු වූ විට කේබල් හරහා සිදුවන බල හානිය සහ වෝල්ටීයතා පහත වැටීම සැලකිය යුතු ලෙස අඩු වේ. එසේම මෙසේ වෝල්ටීයතාව වැඩි කිරීමෙන් වඩා කුඩා හරස්කඩක් සහිත කේබල් (Cables) භාවිත කිරීමට හැකි වීම නිසා නැවේ බර අඩු කර ගැනීමට සහ විදුලි පද්ධතියේ කාර්යක්ෂමතාව ඉහළ නංවා ගැනීමට ඉංජිනේරුවන්ට හැකි වේ. එමනිසා නෞකා නිර්මාණයේදී ඉහළ ශක්තියක් අවශ්‍ය වන උපකරණ සඳහා මෙම ක්‍රමවේදය අනුගමනය කිරීම තාක්ෂණික වශයෙන් වඩාත් සුදුසු සහ ආර්ථිකමය වශයෙන් ලාභදායී විසඳුමකි.",
+        "tags": [
+            {
+                "sub_category": "electrical",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Power Systems",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -269,7 +401,16 @@
         "correct_answer": "Gain too high.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Automation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Control Systems",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -284,7 +425,16 @@
         "correct_answer": "Process, Sensor, Final control element and Controller.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Automation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Process Control",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -316,7 +466,16 @@
         "correct_answer": "The gas, liquid or vapour which will minimise creation of an electric arc as contacts open.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "high voltage",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -331,7 +490,12 @@
         "correct_answer": "Contactor chattering (vibrating).",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -379,8 +543,17 @@
         ],
         "correct_answer": "2,15 V.",
         "images": [],
-        "explanation": "",
-        "tags": []
+        "explanation": "ලෙඩ් ඇසිඩ් බැටරියක් (Lead Acid Battery) ට්‍රිකල් චාර්ජ් (Trickle charge) කිරීමේ ක්‍රියාවලිය සඳහා සෛලයකට (Cell) අවශ්‍ය වන වෝල්ටීයතාවය වෝල්ට් 2.15 ක් වේ. ට්‍රිකල් චාර්ජ් කිරීම යනු බැටරියක ස්වයං විසර්ජන (Self-discharge) අනුපාතයට සමාන ඉතා කුඩා විද්‍යුත් ධාරාවක් නිරන්තරයෙන් ලබා දෙමින් බැටරිය සම්පූර්ණ ආරෝපිත මට්ටමක (Fully charged state) පවත්වා ගැනීමේ ක්‍රමවේදයයි. ලෙඩ් ඇසිඩ් බැටරි සෛලයක නාමික වෝල්ටීයතාවය (Nominal voltage) වෝල්ට් 2.0 ක් වුවද එය සම්පූර්ණයෙන්ම ආරෝපිතව පවත්වා ගැනීමට සහ බැටරියේ අභ්‍යන්තර ප්‍රතිරෝධය හරහා සිදුවන ශක්ති හානිය පියවා ගැනීමට ඊට වඩා තරමක් වැඩි වෝල්ටීයතාවයක් අවශ්‍ය වේ. මෙහිදී වෝල්ට් 2.15 ක් වැනි පාලනය කරන ලද අගයක් භාවිතා කිරීම මගින් බැටරිය අධි ආරෝපණය (Overcharging) වීම වළක්වා ගන්නා අතරම බැටරි තහඩු වල සල්ෆේෂන් (Sulfation) තත්ත්වය ඇතිවීමද අවම කරයි. සාමාන්‍යයෙන් සාගර යාත්‍රා වල හෝ වෙනත් කාර්මික යෙදවුම් වලදී භාවිත වන බැටරි බැංකු වල නඩත්තුව සඳහා මෙම වෝල්ටීයතා මට්ටම ඉතා වැදගත් වන අතර එමගින් බැටරියේ ආයු කාලය උපරිම මට්ටමක පවත්වා ගත හැක. අනෙකුත් විකල්ප අගයන් වන 1.2 වෝල්ට් නිකල් කැඩ්මියම් (Nickel Cadmium) වැනි බැටරි සඳහා බහුලව භාවිත වන අතර 2.5 වෝල්ට් වැනි අගයක් ලබා දුනහොත් බැටරිය අධික ලෙස රත් වී ඉලෙක්ට්‍රොලයිට් (Electrolyte) වාෂ්පීකරණය වීම සහ බැටරියට හානි සිදුවීම සිදු විය හැක. එබැවින් නිවැරදි ට්‍රිකල් චාර්ජ් වෝල්ටීයතාවය ලෙස 2.15 වෝල්ට් අගය කාර්මික ප්‍රමිතීන්ට අනුව පිළිගනු ලබයි.",
+        "tags": [
+            {
+                "sub_category": "electrical",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Batteries",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -412,7 +585,16 @@
         "correct_answer": "The amount of apparent power, that would be drawn from the generating plant, when a short circuit occurs at the bus bars.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "high voltage",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Electrical Safety",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -427,7 +609,16 @@
         "correct_answer": "Between 0,1 and 1,0 Ohm.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Cables",
+                "main_category": "Maintenance, Repair & Workshop Practice"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -442,7 +633,16 @@
         "correct_answer": "Direct on Line.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Electric Motors",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -457,7 +657,12 @@
         "correct_answer": "Open circuit winding between W and U.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -472,7 +677,16 @@
         "correct_answer": "Better linearity and increased accuracy.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Instrumentation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Automation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -487,7 +701,16 @@
         "correct_answer": "Measure the relative density (specific gravity) of the electrolyte.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Batteries",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -502,7 +725,12 @@
         "correct_answer": "Motor rotates in the reverse direction.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -551,7 +779,16 @@
         "correct_answer": "22 Ohms.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Heating Element",
+                "main_category": "Marine Engineering & Motive Power"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -583,7 +820,16 @@
         "correct_answer": "No, as only the output from the barrier is intrinsically safe this is not allowed.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Safety",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Hazardous Areas",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -598,7 +844,16 @@
         "correct_answer": "Vacuum.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "high voltage",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Switchgear",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -681,7 +936,12 @@
         "correct_answer": "0,2 A.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "electronics",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -696,7 +956,16 @@
         "correct_answer": "Ohmmeter.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "electronics",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Instrumentation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -711,7 +980,16 @@
         "correct_answer": "2,15 V.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Batteries",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -760,7 +1038,12 @@
         "correct_answer": "Rectifier.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "electronics",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -826,7 +1109,16 @@
         "correct_answer": "The 0-voltage must always be grounded.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Safety",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Hazardous Areas",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -841,7 +1133,12 @@
         "correct_answer": "Printed Circuit Board.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "electronics",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -856,7 +1153,16 @@
         "correct_answer": "Serial adapter.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "electronics",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "IT",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -888,7 +1194,16 @@
         "correct_answer": "Measure the specific gravity of the electrolyte.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Batteries",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -1005,7 +1320,16 @@
         "correct_answer": "Figure C.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "electronics",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Instrumentation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -1444,7 +1768,16 @@
         "correct_answer": "A series of tests run by the computer at power on.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "electronics",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "IT",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -1476,7 +1809,16 @@
         "correct_answer": "5 V and 12 V.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "electronics",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "IT",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -1762,7 +2104,16 @@
         "correct_answer": "On the motherboard.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "electronics",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "IT",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -1777,7 +2128,12 @@
         "correct_answer": "10-200.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "electronics",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -1792,7 +2148,12 @@
         "correct_answer": "2 200 ohm.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "electronics",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -1807,7 +2168,12 @@
         "correct_answer": "Power dissipation capability.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "electronics",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -1856,7 +2222,16 @@
         "correct_answer": "A zener barrier is a unit made to obtain intrinsically safety in installations for instrumentation in hazardous areas.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Safety",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Hazardous Areas",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -1888,7 +2263,16 @@
         "correct_answer": "Henry.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Physics",
+                "main_category": "Management, Administration & Human Factors"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -2056,7 +2440,12 @@
         "correct_answer": "40 ohm.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -2207,7 +2596,16 @@
         "correct_answer": "2-3 %.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Steam Plant",
+                "main_category": "Marine Engineering & Motive Power"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -2239,7 +2637,16 @@
         "correct_answer": "5-12 %.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Diesel Engine",
+                "main_category": "Marine Engineering & Motive Power"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -2271,7 +2678,16 @@
         "correct_answer": "A circuit that will only pass high frequency signals.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "electronics",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Instrumentation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -2303,7 +2719,16 @@
         "correct_answer": "2 %.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Standards",
+                "main_category": "Maritime Regulations, Law & Compliance"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -2335,7 +2760,16 @@
         "correct_answer": "1 140 RPM.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Motors",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -2418,7 +2852,16 @@
         "correct_answer": "954 RPM.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Motors",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -2518,7 +2961,16 @@
         "correct_answer": "the Power Factor of alternator N°2 is lagging 0,658.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Parallel Operation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -2550,7 +3002,16 @@
         "correct_answer": "429,8 Amp.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Parallel Operation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -2565,7 +3026,16 @@
         "correct_answer": "The alternator’s output itself via the automatic voltage regulator.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Alternator",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -2597,7 +3067,16 @@
         "correct_answer": "Prevent damage to sensitive electronic components from high voltage tester.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "maintenance",
+                "main_category": "Maintenance, Repair & Workshop Practice"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -2612,7 +3091,16 @@
         "correct_answer": "Phase current is 27,3 Ampere, phase voltage is 127 Volt.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Motors",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -2627,7 +3115,16 @@
         "correct_answer": "By adjusting the spring pressure.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Diesel Engine",
+                "main_category": "Marine Engineering & Motive Power"
+            },
+            {
+                "sub_category": "maintenance",
+                "main_category": "Maintenance, Repair & Workshop Practice"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -2744,7 +3241,16 @@
         "correct_answer": "579,2 kW.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Alternator",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -2776,7 +3282,16 @@
         "correct_answer": "Yes, wrong installation will result in a major deviation in measurement.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Instrumentation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Automation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -2791,7 +3306,16 @@
         "correct_answer": "Speed governor and voltage regulator.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Parallel Operation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -2840,7 +3364,16 @@
         "correct_answer": "To prevent the alternator from «motoring» by being supplied power from other parallel alternator.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Protection",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -2855,7 +3388,16 @@
         "correct_answer": "Reactive load (kVAr).",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Parallel Operation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -2887,7 +3429,16 @@
         "correct_answer": "AVR and speed governor.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Parallel Operation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -2919,7 +3470,16 @@
         "correct_answer": "Undue overspeeding.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Parallel Operation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -2951,7 +3511,16 @@
         "correct_answer": "0°.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Parallel Operation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -2966,7 +3535,16 @@
         "correct_answer": "Circuit breaker operating time.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Parallel Operation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -2981,7 +3559,16 @@
         "correct_answer": "15 Ohms.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Transformer",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -2996,7 +3583,16 @@
         "correct_answer": "3 phase excitation winding/rectifier bank/main field winding.",
         "images": [],
         "explanation": "බුරුසු රහිත (Brushless) ප්‍රත්‍යාවර්තකයක (alternator) රොටරය මත ප්‍රධාන කොටස් තුනක සංයෝජනයක් පවතී: එනම් ත්‍රි-කලා උත්තේජක එතීුම (3 phase excitation winding), සෘජුකාරක පද්ධතිය (rectifier bank) සහ ප්‍රධාන ක්ෂේත්‍ර එතීුම (main field winding) වේ. මෙහි ක්‍රියාවලිය වන්නේ උත්තේජකයේ එතීුම මගින් නිපදවන AC විදුලිය, රොටරය මතම ඇති සෘජුකාරකය (rectifier) මගින් DC බවට පත් කර කෙලින්ම ප්‍රධාන එතීුමට ලබා දීමයි. මෙහිදී කාබන් බුරුසු හෝ ස්ලිප් රින්ග්ස් (slip rings) අවශ්‍ය නොවේ. අනෙකුත් විකල්ප වැරදි වන්නේ ඒවායේ ස්ලිප් රින්ග්ස් හෝ බාහිරින් ලබාදෙන DC සැපයුම් පද්ධති ඇතුළත් වන බැවිනි, එය 'brushless' සංකල්පයට පටහැනි වේ.",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "electrical",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Alternators",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -3011,7 +3607,16 @@
         "correct_answer": "10 000 000 Ohms.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "maintenance",
+                "main_category": "Maintenance, Repair & Workshop Practice"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -3043,7 +3648,16 @@
         "correct_answer": "Generator overload due to many motors starting simultaneously.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Blackout",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -3092,7 +3706,12 @@
         "correct_answer": "In 440 V section: Two lamps bright. In 220 V section: Two lamps bright.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -3192,7 +3811,16 @@
         "correct_answer": "The main diesel generator or shaft generator.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Emergency Power",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -3207,7 +3835,16 @@
         "correct_answer": "10 Mohm.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "maintenance",
+                "main_category": "Maintenance, Repair & Workshop Practice"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -3239,7 +3876,16 @@
         "correct_answer": "Prevent manual synchronising outside permitted limits.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Parallel Operation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -3254,7 +3900,16 @@
         "correct_answer": "Completely loose its share of the load causing the auxiliary engine to speed up.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Parallel Operation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -3320,7 +3975,16 @@
         "correct_answer": "Inform the bridge about the reason for blackout, and expected time to restart.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Emergency Procedures",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -3369,7 +4033,16 @@
         "correct_answer": "The equipment cannot produce enough energy to ignite a gas (explode).",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Safety",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Hazardous Areas",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -3384,7 +4057,16 @@
         "correct_answer": "In % of full scale.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Instrumentation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Automation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -3399,7 +4081,16 @@
         "correct_answer": "The control system is depending on the best possible process signal.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Instrumentation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Automation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -3414,7 +4105,16 @@
         "correct_answer": "Relatively wide range of temperature measurement.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Instrumentation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Sensors",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -3463,7 +4163,16 @@
         "correct_answer": "Relatively non linear characteristic.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Instrumentation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Sensors",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -3631,7 +4340,16 @@
         "correct_answer": "12 mA.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Instrumentation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Automation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -3646,7 +4364,16 @@
         "correct_answer": "Check linearity.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Instrumentation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Calibration",
+                "main_category": "Maintenance, Repair & Workshop Practice"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -3661,7 +4388,16 @@
         "correct_answer": "In a pressure transmitter.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Instrumentation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Pressure Measurement",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -3744,7 +4480,16 @@
         "correct_answer": "Zero-point is accurate, but 100 % input is not giving 100 % output.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Instrumentation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Calibration",
+                "main_category": "Maintenance, Repair & Workshop Practice"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -3759,7 +4504,16 @@
         "correct_answer": "Comparing input and output values against a documented standard.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Instrumentation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Calibration",
+                "main_category": "Maintenance, Repair & Workshop Practice"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -3774,7 +4528,16 @@
         "correct_answer": "Ionization type.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "fire safety",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "Instrumentation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -3789,7 +4552,16 @@
         "correct_answer": "Blue.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Safety",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Hazardous Areas",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -3838,7 +4610,16 @@
         "correct_answer": "Adjustment of Zero-point and span.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Instrumentation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Calibration",
+                "main_category": "Maintenance, Repair & Workshop Practice"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -4006,7 +4787,16 @@
         "correct_answer": "Gauge pressure.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Instrumentation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Pressure Measurement",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -4021,7 +4811,16 @@
         "correct_answer": "Absolute pressure.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Instrumentation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Pressure Measurement",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -4036,7 +4835,16 @@
         "correct_answer": "Low differential pressures.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Instrumentation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Pressure Measurement",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -4153,7 +4961,16 @@
         "correct_answer": "Orifice plate.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Instrumentation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Flow Measurement",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -4185,7 +5002,16 @@
         "correct_answer": "16 mA.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Instrumentation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Automation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -4200,7 +5026,16 @@
         "correct_answer": "Strain gauge.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Instrumentation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Sensors",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -4215,7 +5050,16 @@
         "correct_answer": "Proximity switch.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Instrumentation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "safety",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -4315,7 +5159,16 @@
         "correct_answer": "Allow removal of the sensor also when liquid is flowing in the pipe.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Instrumentation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Temperature Measurement",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -4398,7 +5251,16 @@
         "correct_answer": "Capillary tube.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Instrumentation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Viscosity Measurement",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -4413,7 +5275,16 @@
         "correct_answer": "FIC.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Instrumentation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "P&ID",
+                "main_category": "Management, Administration & Human Factors"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -4428,7 +5299,16 @@
         "correct_answer": "TC.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Instrumentation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "P&ID",
+                "main_category": "Management, Administration & Human Factors"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -4443,7 +5323,16 @@
         "correct_answer": "To detect oil mist (explosive atmosphere in the crankcase).",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Diesel Engine",
+                "main_category": "Marine Engineering & Motive Power"
+            },
+            {
+                "sub_category": "Safety Protection",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -4475,7 +5364,16 @@
         "correct_answer": "Pressure diaphragm.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Instrumentation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Level Measurement",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -4490,7 +5388,16 @@
         "correct_answer": "Temp sensitive semi-conductor.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Instrumentation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Temperature Measurement",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -4505,7 +5412,16 @@
         "correct_answer": "Electrodes.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Instrumentation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Salinity Measurement",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -4520,7 +5436,16 @@
         "correct_answer": "All alarms are reengaged prior to switching to UMS-mode.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "fire safety",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "maintenance",
+                "main_category": "Maintenance, Repair & Workshop Practice"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -4552,7 +5477,16 @@
         "correct_answer": "LIC.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Instrumentation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "P&ID",
+                "main_category": "Management, Administration & Human Factors"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -4567,7 +5501,16 @@
         "correct_answer": "Electrodes.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Instrumentation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Level Measurement",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -4582,7 +5525,16 @@
         "correct_answer": "Pressure.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Instrumentation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Automation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -4597,7 +5549,16 @@
         "correct_answer": "Voltmeter and synchroscope.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Parallel Operation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -4612,7 +5573,12 @@
         "correct_answer": "In parallel with the armature.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -4627,7 +5593,16 @@
         "correct_answer": "All of these.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Safety",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "maintenance",
+                "main_category": "Maintenance, Repair & Workshop Practice"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -4642,7 +5617,16 @@
         "correct_answer": "The load connected to the switchboard.",
         "images": [],
         "explanation": "තනි Alternator එකක් switchboard එකකට සම්බන්ධ කර ඇති විට, එහි power factor එක තීරණය වන්නේ එම පද්ධතියට සම්බන්ධ කර ඇති පාරිභෝගික බර (load) මගිනි. එනම් මෝටර් වැනි inductive load වැඩි නම් power factor එක අඩු වේ. Alternator එකේ excitation මගින් වෙනස් කළ හැක්කේ වෝල්ටීයතාවය (Voltage) මිස power factor එක නොවේ. බර අනුව ඇති වන ධාරාව සහ වෝල්ටීයතාවය අතර පරතරය මත power factor එක ස්වයංක්‍රීයව තීරණය වේ.",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "electrical",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Alternators",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -4657,7 +5641,16 @@
         "correct_answer": "Remove the load from the alternator to be stopped.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Parallel Operation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -4672,7 +5665,16 @@
         "correct_answer": "The alternators are not generating the same voltages and should be adjusted on automatic voltage regulator rheostats.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Parallel Operation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -4687,7 +5689,16 @@
         "correct_answer": "When the pointer of the synchronoscope is at 0.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Parallel Operation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -4702,7 +5713,16 @@
         "correct_answer": "Trip/stop all nonessential loads that are connected to the switchboard.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Emergency Procedures",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -4717,7 +5737,16 @@
         "correct_answer": "Raise the governor speed controller of the incoming alternator and reduce the governor speed controller of the alternator already on the switchboard.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Parallel Operation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -4732,7 +5761,16 @@
         "correct_answer": "All of the mentioned alternatives.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Parallel Operation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -4747,7 +5785,16 @@
         "correct_answer": "The frequency of the incoming alternator is the same as that of the main switchboard.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Parallel Operation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -4762,7 +5809,16 @@
         "correct_answer": "Because the bus bars will be short circuited.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Parallel Operation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -4777,7 +5833,16 @@
         "correct_answer": "By lowering the generator frequency.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "maintenance",
+                "main_category": "Maintenance, Repair & Workshop Practice"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -4792,7 +5857,16 @@
         "correct_answer": "It rises.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Alternator",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -4807,7 +5881,16 @@
         "correct_answer": "Two.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Alternator",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -4822,7 +5905,16 @@
         "correct_answer": "115 %.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Protection",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -4837,7 +5929,16 @@
         "correct_answer": "Presence of magnetic flux, relative motion between conductor and flux.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Alternator",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -4852,7 +5953,16 @@
         "correct_answer": "Its very high speed breaking operation.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Protection",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -4867,7 +5977,16 @@
         "correct_answer": "Current and torque decrease, speed remains constant.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Motors",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -4882,7 +6001,16 @@
         "correct_answer": "110 %.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Protection",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -4897,7 +6025,12 @@
         "correct_answer": "Winding break.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -4912,7 +6045,16 @@
         "correct_answer": "All of these.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Protection",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -4927,7 +6069,16 @@
         "correct_answer": "The under voltage trip.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Protection",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -4942,7 +6093,16 @@
         "correct_answer": "the generator and the bus bars.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Protection",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -4957,7 +6117,16 @@
         "correct_answer": "3-5 seconds.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Protection",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -4972,7 +6141,16 @@
         "correct_answer": "440 Volt.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Alternator",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -4987,7 +6165,16 @@
         "correct_answer": "The high/low frequency trip.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Protection",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -5002,7 +6189,16 @@
         "correct_answer": "Longer.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Protection",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -5017,7 +6213,16 @@
         "correct_answer": "The excitation current.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Parallel Operation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -5032,7 +6237,12 @@
         "correct_answer": "A connection box has been filled with salt water.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -5064,7 +6274,16 @@
         "correct_answer": "In the stator.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Alternator",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -5079,7 +6298,16 @@
         "correct_answer": "By the alternator speed.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Alternator",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -5094,7 +6322,16 @@
         "correct_answer": "2-3 times.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Protection",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -5109,7 +6346,16 @@
         "correct_answer": "The terminal voltage will drop below 440 Volt.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Alternator",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -5141,7 +6387,16 @@
         "correct_answer": "The output voltage and the output current of the alternator.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Alternator",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -5156,7 +6411,16 @@
         "correct_answer": "By changing the position of the entry cable on two terminals.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Motors",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -5171,7 +6435,16 @@
         "correct_answer": "The short circuit protection.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Protection",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -5186,7 +6459,16 @@
         "correct_answer": "The high/low frequency trip.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Protection",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -5201,7 +6483,12 @@
         "correct_answer": "an earth.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -5216,7 +6503,16 @@
         "correct_answer": "Via slip rings and brushes.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Alternator",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -5231,7 +6527,12 @@
         "correct_answer": "an insulation breakdown.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -5246,7 +6547,12 @@
         "correct_answer": "It falls to zero.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -5261,7 +6567,16 @@
         "correct_answer": "When the synchroscope is rotating slowly clockwise and at the 11 o’clock position.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Parallel Operation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -5276,7 +6591,16 @@
         "correct_answer": "The line current is equal to the phase current.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Motors",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -5291,7 +6615,16 @@
         "correct_answer": "Galley.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Protection",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -5306,7 +6639,16 @@
         "correct_answer": "0,832",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Alternator",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -5321,7 +6663,16 @@
         "correct_answer": "It increases the voltage produced in the conductor.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Alternator",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -5336,7 +6687,16 @@
         "correct_answer": "Its voltage, current and impedance.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Motors",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -5351,7 +6711,16 @@
         "correct_answer": "That both diesels have the same load in kWat, same reactive load in kVAR, and same amperage.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Parallel Operation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -5366,7 +6735,16 @@
         "correct_answer": "It will run faster and be overloaded.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Motors",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -5398,7 +6776,16 @@
         "correct_answer": "The short circuit protection.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Protection",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -5413,7 +6800,12 @@
         "correct_answer": "To counter field distortion.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -5428,7 +6820,12 @@
         "correct_answer": "armature.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -5443,7 +6840,12 @@
         "correct_answer": "Brushes improperly positioned.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -5458,7 +6860,16 @@
         "correct_answer": "120 Amps.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Standards",
+                "main_category": "Maritime Regulations, Law & Compliance"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -5473,7 +6884,16 @@
         "correct_answer": "219,97 A.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Alternator",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -5488,7 +6908,16 @@
         "correct_answer": "Wash with tetrachloride, heat to 80 °C.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "maintenance",
+                "main_category": "Maintenance, Repair & Workshop Practice"
+            },
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -5520,7 +6949,16 @@
         "correct_answer": "125 % of the full load current name plate rating.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Standards",
+                "main_category": "Maritime Regulations, Law & Compliance"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -5552,7 +6990,12 @@
         "correct_answer": "746 Watts.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Units",
+                "main_category": "Management, Administration & Human Factors"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -5567,7 +7010,16 @@
         "correct_answer": "the main and the auxiliary windings.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Motors",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -5582,7 +7034,16 @@
         "correct_answer": "134 A.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Standards",
+                "main_category": "Maritime Regulations, Law & Compliance"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -5597,7 +7058,12 @@
         "correct_answer": "20 A.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -5612,7 +7078,16 @@
         "correct_answer": "By switching two of the three connections on the motor terminal.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Motors",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -5644,7 +7119,16 @@
         "correct_answer": "By fitting a voltmeter over one phase.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Parallel Operation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -5659,7 +7143,16 @@
         "correct_answer": "0 A.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Instrumentation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -5725,7 +7218,16 @@
         "correct_answer": "replace all three fuses, blown or not.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "maintenance",
+                "main_category": "Maintenance, Repair & Workshop Practice"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -5740,7 +7242,16 @@
         "correct_answer": "kVAR rating, voltage, impedance, BIL rating, polarity.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Transformer",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -5772,7 +7283,16 @@
         "correct_answer": "confine the arc, control its movement and provide rapid cooling.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Switchgear",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -5787,7 +7307,12 @@
         "correct_answer": "kW.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -5802,7 +7327,16 @@
         "correct_answer": "the magnetic field strength.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Alternator",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -5817,7 +7351,12 @@
         "correct_answer": "Arcing at the brushes.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -5849,7 +7388,16 @@
         "correct_answer": "To divide the reactive current equally between the generators.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Parallel Operation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -5881,7 +7429,12 @@
         "correct_answer": "Failure of the exciter.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -5896,7 +7449,16 @@
         "correct_answer": "faster in overload.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Motors",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -5928,7 +7490,16 @@
         "correct_answer": "To disconnect non-essential equipment in case of generator overload.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Protection",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -5943,7 +7514,12 @@
         "correct_answer": "By carrying out a Megger test.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -5958,7 +7534,16 @@
         "correct_answer": "By the excitation current in the rotor.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Alternator",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -5973,7 +7558,16 @@
         "correct_answer": "Flywheel & governor.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Automation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6005,7 +7599,16 @@
         "correct_answer": "Change the position of the entry cable on two terminals.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Motors",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6020,7 +7623,16 @@
         "correct_answer": "Increased number of poles.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Alternator",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6035,7 +7647,12 @@
         "correct_answer": "metal frame work.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6050,7 +7667,16 @@
         "correct_answer": "Volts.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Units",
+                "main_category": "Management, Administration & Human Factors"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6065,7 +7691,16 @@
         "correct_answer": "Remove the load from the generator to be stopped.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Parallel Operation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6080,7 +7715,16 @@
         "correct_answer": "The line current is equal to the phase current.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Motors",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6095,7 +7739,16 @@
         "correct_answer": "kVA.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Alternator",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6110,7 +7763,16 @@
         "correct_answer": "Volts.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Units",
+                "main_category": "Management, Administration & Human Factors"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6125,7 +7787,16 @@
         "correct_answer": "All of these.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "maintenance",
+                "main_category": "Maintenance, Repair & Workshop Practice"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6140,7 +7811,16 @@
         "correct_answer": "To prevent the generator being run as a motor.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Protection",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6155,7 +7835,16 @@
         "correct_answer": "by switching off the emergency switch board supply breaker on the main switch board.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Emergency Power",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6170,7 +7859,12 @@
         "correct_answer": "An ohmmeter.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6185,7 +7879,12 @@
         "correct_answer": "No fuses will trip, the system is isolated from the earth.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6200,7 +7899,16 @@
         "correct_answer": "Four.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Alternator",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6232,7 +7940,16 @@
         "correct_answer": "85 % – 120 %.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Standards",
+                "main_category": "Maritime Regulations, Law & Compliance"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6247,7 +7964,16 @@
         "correct_answer": "Wash with fresh water, wipe dry and re-varnish windings.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "maintenance",
+                "main_category": "Maintenance, Repair & Workshop Practice"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6279,7 +8005,12 @@
         "correct_answer": "Shunt, series and compound.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6311,7 +8042,12 @@
         "correct_answer": "In the armature windings.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6326,7 +8062,16 @@
         "correct_answer": "Strength of magnetic field.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Alternator",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6341,7 +8086,16 @@
         "correct_answer": "That the load, Hertz and Voltage are normal, any other power requirements are in Chief Engineer`s standing orders, number of generators on load.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Engine Room",
+                "main_category": "Marine Engineering & Motive Power"
+            },
+            {
+                "sub_category": "watchkeeping",
+                "main_category": "Ship Operations, Navigation & Seamanship"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6356,7 +8110,16 @@
         "correct_answer": "When the alternator in question has lost prime mover input.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Parallel Operation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6371,7 +8134,16 @@
         "correct_answer": "Power Generation, power distribution inclusive secondary circuit, any unusual power consumer switched on/off, earth faults main and secondary systems.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "watchkeeping",
+                "main_category": "Ship Operations, Navigation & Seamanship"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6386,7 +8158,12 @@
         "correct_answer": "Series connected.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6418,7 +8195,16 @@
         "correct_answer": "30 metres.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Cables",
+                "main_category": "Maintenance, Repair & Workshop Practice"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6450,7 +8236,12 @@
         "correct_answer": "None, this is how it should appear.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6465,7 +8256,16 @@
         "correct_answer": "If two unsynchronized generators are connected, both the diesel prime mover and the generator can be damaged.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Parallel Operation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6480,7 +8280,16 @@
         "correct_answer": "Yes, if a thyristor regulator is used.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Motors",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6495,7 +8304,16 @@
         "correct_answer": "At 5–15 % over the rated current.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Protection",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6510,7 +8328,16 @@
         "correct_answer": "the output voltage and the output current of the alternator.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Alternator",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6559,7 +8386,12 @@
         "correct_answer": "Any of the other options.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6574,7 +8406,16 @@
         "correct_answer": "No volt trip.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Parallel Operation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6606,7 +8447,16 @@
         "correct_answer": "Any of these options.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Motors",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6621,7 +8471,16 @@
         "correct_answer": "An air start compressor.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Motors",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6653,7 +8512,16 @@
         "correct_answer": "30 metres.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Cables",
+                "main_category": "Maintenance, Repair & Workshop Practice"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6668,7 +8536,12 @@
         "correct_answer": "Stop the motor and check the electrical and mechanical function.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6683,7 +8556,16 @@
         "correct_answer": "2–3 times.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Protection",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6698,7 +8580,16 @@
         "correct_answer": "The generator speed and number of poles.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Alternator",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6713,7 +8604,16 @@
         "correct_answer": "The generator may trip on overload.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Blackout",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6728,7 +8628,16 @@
         "correct_answer": "3–5 seconds.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Protection",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6743,7 +8652,12 @@
         "correct_answer": "Kilowatts (kW).",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6758,7 +8672,12 @@
         "correct_answer": "95 Amps.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6773,7 +8692,16 @@
         "correct_answer": "Between the generator and the bus bars.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Protection",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6788,7 +8716,16 @@
         "correct_answer": "Prevent build up of unwanted eddy currents.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Alternator",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6803,7 +8740,16 @@
         "correct_answer": "975 rpm.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Motors",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6818,7 +8764,20 @@
         "correct_answer": "Protect from overheating.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Motors",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Protection",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6833,7 +8792,16 @@
         "correct_answer": "Commutator and brushes.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "maintenance",
+                "main_category": "Maintenance, Repair & Workshop Practice"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6848,7 +8816,16 @@
         "correct_answer": "By carrying out a Megger test.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Motors",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6863,7 +8840,16 @@
         "correct_answer": "Disconnect all cables to the motor.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Safety",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "electronics",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6878,7 +8864,16 @@
         "correct_answer": "The incoming generator is running faster than the generator on load.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Parallel Operation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6893,7 +8888,20 @@
         "correct_answer": "When the motor has reached its normal operating temperature.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Motors",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "maintenance",
+                "main_category": "Maintenance, Repair & Workshop Practice"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6908,7 +8916,16 @@
         "correct_answer": "Adjust the excitation of the two generators to bring them level.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Parallel Operation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6923,7 +8940,12 @@
         "correct_answer": "Any of these.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6938,7 +8960,16 @@
         "correct_answer": "The process will oscillate and get out of control.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Automation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Control Systems",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6970,7 +9001,16 @@
         "correct_answer": "Change in output signal divided by change in input signal.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Automation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Control Systems",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -6985,7 +9025,20 @@
         "correct_answer": "Switch the UMS selector switch to manual mode and engage the «dead man alarm».",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "UMS",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Engine Room",
+                "main_category": "Marine Engineering & Motive Power"
+            },
+            {
+                "sub_category": "safety",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -7000,7 +9053,16 @@
         "correct_answer": "Measurement of differential pressure.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Instrumentation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Viscosity Measurement",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -7015,7 +9077,16 @@
         "correct_answer": "That a secondary auxiliary set is switched to automatic standby mode.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "UMS",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -7047,7 +9118,20 @@
         "correct_answer": "Consult with the instruction manual for the equipment in question for correct values.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Instrumentation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "UMS",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "maintenance",
+                "main_category": "Maintenance, Repair & Workshop Practice"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -7062,7 +9146,16 @@
         "correct_answer": "Alarm → Standby start → Slowdown → Shutdown.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Instrumentation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Automation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -7077,7 +9170,20 @@
         "correct_answer": "A described UMS-mode check shall always be carried out prior to leaving the engine room, irrespective of the time he will be absent.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "UMS",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "management",
+                "main_category": "Management, Administration & Human Factors"
+            },
+            {
+                "sub_category": "safety",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -7109,7 +9215,16 @@
         "correct_answer": "Incomer picks up as a generator.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Parallel Operation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -7124,7 +9239,12 @@
         "correct_answer": "All the actions listed in the other alternatives.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Instrumentation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -7139,7 +9259,16 @@
         "correct_answer": "The controller will not react on a process change in a specific range.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Instrumentation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Automation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -7171,7 +9300,16 @@
         "correct_answer": "Steering gear and alarm system.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Emergency Power",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -7237,7 +9375,16 @@
         "correct_answer": "Amplitude of output signal divided by amplitude of input signal.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Automation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Control Systems",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -7252,7 +9399,16 @@
         "correct_answer": "The secondary controller.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Automation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Control Systems",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -7301,7 +9457,16 @@
         "correct_answer": "Too long I-time.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Automation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Control Systems",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -7350,7 +9515,16 @@
         "correct_answer": "PI-controller.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Automation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Control Systems",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -7365,7 +9539,16 @@
         "correct_answer": "1:4.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Automation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Control Systems",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -7414,7 +9597,16 @@
         "correct_answer": "Several control-valves are connected to the same controller output signal.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Automation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Control Systems",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -7429,7 +9621,20 @@
         "correct_answer": "Any of the other options.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Diesel Engine",
+                "main_category": "Marine Engineering & Motive Power"
+            },
+            {
+                "sub_category": "Steam Turbine",
+                "main_category": "Marine Engineering & Motive Power"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -7444,7 +9649,16 @@
         "correct_answer": "They produce electrical power when a ship powered by medium speed diesels is at sea.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Alternator",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -7459,7 +9673,12 @@
         "correct_answer": "Yellow and green.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Safety",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -7474,7 +9693,16 @@
         "correct_answer": "A conductor’s resistance to electricity flowing along it.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Units",
+                "main_category": "Management, Administration & Human Factors"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -7489,7 +9717,16 @@
         "correct_answer": "Fuse.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Protection",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -7504,7 +9741,12 @@
         "correct_answer": "Engine room lighting.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -7519,7 +9761,16 @@
         "correct_answer": "Relay.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Automation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -7534,7 +9785,16 @@
         "correct_answer": "Fuses protect circuits and people from excess current automatically.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Protection",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -7549,7 +9809,12 @@
         "correct_answer": "220 volts.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -7564,7 +9829,16 @@
         "correct_answer": "Change A.C. voltage from one value to another.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Transformer",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -7579,7 +9853,12 @@
         "correct_answer": "The Machinery Control Room.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -7594,7 +9873,16 @@
         "correct_answer": "A hydrometer.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Batteries",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -7609,7 +9897,16 @@
         "correct_answer": "Dilute sulphuric acid.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Batteries",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -7624,7 +9921,16 @@
         "correct_answer": "The powering of hand torches.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Batteries",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -7639,7 +9945,16 @@
         "correct_answer": "Voltage.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Physics",
+                "main_category": "Management, Administration & Human Factors"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -7654,7 +9969,12 @@
         "correct_answer": "Blue.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Safety",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -7669,7 +9989,12 @@
         "correct_answer": "not to replace it with one of a higher rating.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Safety",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -7684,7 +10009,12 @@
         "correct_answer": "busbars.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -7699,7 +10029,12 @@
         "correct_answer": "440 volt.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -7714,7 +10049,16 @@
         "correct_answer": "a transformer.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Transformer",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -7729,7 +10073,12 @@
         "correct_answer": "The earth wire goes to the centre top connection.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Safety",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -7744,7 +10093,16 @@
         "correct_answer": "Amperes.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Units",
+                "main_category": "Management, Administration & Human Factors"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -7759,7 +10117,12 @@
         "correct_answer": "Brown.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Safety",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -7774,7 +10137,16 @@
         "correct_answer": "solenoid valve.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Automation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Instrumentation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -7823,7 +10195,12 @@
         "correct_answer": "a megger.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -7838,7 +10215,16 @@
         "correct_answer": "A device that acts as a fuse as well as a switch.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Protection",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -7853,7 +10239,16 @@
         "correct_answer": "electrical power.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Units",
+                "main_category": "Management, Administration & Human Factors"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -7868,7 +10263,12 @@
         "correct_answer": "Electric motors running pumps.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -7883,7 +10283,16 @@
         "correct_answer": "2 to 3 minutes.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "maintenance",
+                "main_category": "Maintenance, Repair & Workshop Practice"
+            },
+            {
+                "sub_category": "Workshop Practice",
+                "main_category": "Maintenance, Repair & Workshop Practice"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -7898,7 +10307,16 @@
         "correct_answer": "For scribing large circles.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "maintenance",
+                "main_category": "Maintenance, Repair & Workshop Practice"
+            },
+            {
+                "sub_category": "Workshop Practice",
+                "main_category": "Maintenance, Repair & Workshop Practice"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -7913,7 +10331,16 @@
         "correct_answer": "Split pins.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "maintenance",
+                "main_category": "Maintenance, Repair & Workshop Practice"
+            },
+            {
+                "sub_category": "Diesel Engine",
+                "main_category": "Marine Engineering & Motive Power"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -7945,7 +10372,16 @@
         "correct_answer": "Double cut.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "maintenance",
+                "main_category": "Maintenance, Repair & Workshop Practice"
+            },
+            {
+                "sub_category": "Workshop Practice",
+                "main_category": "Maintenance, Repair & Workshop Practice"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -7960,7 +10396,16 @@
         "correct_answer": "One moving and one fixed blade.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "maintenance",
+                "main_category": "Maintenance, Repair & Workshop Practice"
+            },
+            {
+                "sub_category": "Workshop Practice",
+                "main_category": "Maintenance, Repair & Workshop Practice"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -7975,7 +10420,16 @@
         "correct_answer": "Cork is to protect the point.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "maintenance",
+                "main_category": "Maintenance, Repair & Workshop Practice"
+            },
+            {
+                "sub_category": "Workshop Practice",
+                "main_category": "Maintenance, Repair & Workshop Practice"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -7990,7 +10444,16 @@
         "correct_answer": "Straw → Brown → Purple → Blue.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "maintenance",
+                "main_category": "Maintenance, Repair & Workshop Practice"
+            },
+            {
+                "sub_category": "Workshop Practice",
+                "main_category": "Maintenance, Repair & Workshop Practice"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -8005,7 +10468,16 @@
         "correct_answer": "With a vernier protractor.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "maintenance",
+                "main_category": "Maintenance, Repair & Workshop Practice"
+            },
+            {
+                "sub_category": "Workshop Practice",
+                "main_category": "Maintenance, Repair & Workshop Practice"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -8037,7 +10509,16 @@
         "correct_answer": "Solder.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "maintenance",
+                "main_category": "Maintenance, Repair & Workshop Practice"
+            },
+            {
+                "sub_category": "Workshop Practice",
+                "main_category": "Maintenance, Repair & Workshop Practice"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -8086,7 +10567,16 @@
         "correct_answer": "Electrode Arc length, Welding current, Electrode angle.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "maintenance",
+                "main_category": "Maintenance, Repair & Workshop Practice"
+            },
+            {
+                "sub_category": "Welding",
+                "main_category": "Maintenance, Repair & Workshop Practice"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",
@@ -8101,7 +10591,16 @@
         "correct_answer": "Excessive rest clearance.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "safety",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "Workshop Practice",
+                "main_category": "Maintenance, Repair & Workshop Practice"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electrical Electronic & Control",

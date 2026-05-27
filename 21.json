@@ -12,7 +12,16 @@
         "correct_answer": "Breaches.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Maritime Security",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "isps",
+                "main_category": "Maritime Regulations, Law & Compliance"
+            }
+        ]
     },
     {
         "category": "CES – Reading and Listening",
@@ -27,7 +36,16 @@
         "correct_answer": "Fire watch.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "hot work",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "safety",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            }
+        ]
     },
     {
         "category": "CES – Reading and Listening",
@@ -42,7 +60,16 @@
         "correct_answer": "Most vital.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Fire Fighting",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "Safety Equipment",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            }
+        ]
     },
     {
         "category": "CES – Reading and Listening",
@@ -57,7 +84,16 @@
         "correct_answer": "Mustered.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Emergency Procedures",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "Drills",
+                "main_category": "Management, Administration & Human Factors"
+            }
+        ]
     },
     {
         "category": "CES – Reading and Listening",
@@ -72,7 +108,16 @@
         "correct_answer": "Drydock.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "maintenance",
+                "main_category": "Maintenance, Repair & Workshop Practice"
+            },
+            {
+                "sub_category": "Dry Docking",
+                "main_category": "Maintenance, Repair & Workshop Practice"
+            }
+        ]
     },
     {
         "category": "CES – Reading and Listening",
@@ -87,7 +132,16 @@
         "correct_answer": "Lowered.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "LSA",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "Emergency Procedures",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            }
+        ]
     },
     {
         "category": "CES – Reading and Listening",
@@ -102,7 +156,16 @@
         "correct_answer": "Being dealt with.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Maritime Security",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "Piracy",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            }
+        ]
     },
     {
         "category": "CES – Reading and Listening",
@@ -117,7 +180,16 @@
         "correct_answer": "Encountering.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "safety",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "Emergency Response",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            }
+        ]
     },
     {
         "category": "CES – Reading and Listening",
@@ -132,7 +204,16 @@
         "correct_answer": "Different.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "bunkering",
+                "main_category": "Cargo Operations & Vessel Types"
+            },
+            {
+                "sub_category": "Fuel Management",
+                "main_category": "Marine Engineering & Motive Power"
+            }
+        ]
     },
     {
         "category": "CES – Reading and Listening",
@@ -147,7 +228,16 @@
         "correct_answer": "Tolerance.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "safety",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "Enclosed Space Entry",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            }
+        ]
     },
     {
         "category": "CES – Reading and Listening",
@@ -162,7 +252,16 @@
         "correct_answer": "Input.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Safety Culture",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "management",
+                "main_category": "Management, Administration & Human Factors"
+            }
+        ]
     },
     {
         "category": "CES – Reading and Listening",
@@ -177,7 +276,16 @@
         "correct_answer": "Deviation.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "safety",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "Procedures",
+                "main_category": "Management, Administration & Human Factors"
+            }
+        ]
     },
     {
         "category": "CES – Reading and Listening",
@@ -192,7 +300,16 @@
         "correct_answer": "Command.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "STCW",
+                "main_category": "Maritime Regulations, Law & Compliance"
+            },
+            {
+                "sub_category": "communication",
+                "main_category": "Management, Administration & Human Factors"
+            }
+        ]
     },
     {
         "category": "CES – Reading and Listening",
@@ -207,7 +324,16 @@
         "correct_answer": "Communicate.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "communication",
+                "main_category": "Management, Administration & Human Factors"
+            },
+            {
+                "sub_category": "navigation",
+                "main_category": "Ship Operations, Navigation & Seamanship"
+            }
+        ]
     },
     {
         "category": "CES – Reading and Listening",
@@ -222,7 +348,16 @@
         "correct_answer": "Overheated.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Safety",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Fire Fighting",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            }
+        ]
     },
     {
         "category": "CES – Reading and Listening",
@@ -237,7 +372,16 @@
         "correct_answer": "Are established.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Fire Fighting",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "safety",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            }
+        ]
     },
     {
         "category": "CES – Reading and Listening",
@@ -252,7 +396,16 @@
         "correct_answer": "Deal with.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Emergency Procedures",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "propulsion",
+                "main_category": "Marine Engineering & Motive Power"
+            }
+        ]
     },
     {
         "category": "CES – Reading and Listening",
@@ -267,7 +420,16 @@
         "correct_answer": "Alert.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "safety",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "risk management",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            }
+        ]
     },
     {
         "category": "CES – Reading and Listening",
@@ -282,7 +444,12 @@
         "correct_answer": "Safe.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Deck Operations",
+                "main_category": "Ship Operations, Navigation & Seamanship"
+            }
+        ]
     },
     {
         "category": "CES – Reading and Listening",
@@ -297,7 +464,12 @@
         "correct_answer": "Hold.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Regulatory",
+                "main_category": "Maritime Regulations, Law & Compliance"
+            }
+        ]
     },
     {
         "category": "CES – Reading and Listening",
@@ -312,7 +484,16 @@
         "correct_answer": "Any doubts.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Safety Culture",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "communication",
+                "main_category": "Management, Administration & Human Factors"
+            }
+        ]
     },
     {
         "category": "CES – Reading and Listening",
@@ -327,7 +508,16 @@
         "correct_answer": "Within.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Manoeuvring",
+                "main_category": "Ship Operations, Navigation & Seamanship"
+            },
+            {
+                "sub_category": "navigation",
+                "main_category": "Ship Operations, Navigation & Seamanship"
+            }
+        ]
     },
     {
         "category": "CES – Reading and Listening",
@@ -342,7 +532,16 @@
         "correct_answer": "Morning.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "maintenance",
+                "main_category": "Maintenance, Repair & Workshop Practice"
+            },
+            {
+                "sub_category": "Deck",
+                "main_category": "Ship Operations, Navigation & Seamanship"
+            }
+        ]
     },
     {
         "category": "CES – Reading and Listening",
@@ -357,7 +556,16 @@
         "correct_answer": "Poop deck.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Ship Life",
+                "main_category": "Maintenance, Repair & Workshop Practice"
+            },
+            {
+                "sub_category": "Crew Welfare",
+                "main_category": "Management, Administration & Human Factors"
+            }
+        ]
     },
     {
         "category": "CES – Reading and Listening",
@@ -372,7 +580,16 @@
         "correct_answer": "Drilled.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "marpol",
+                "main_category": "Maritime Regulations, Law & Compliance"
+            },
+            {
+                "sub_category": "Environmental Protection",
+                "main_category": "Maritime Regulations, Law & Compliance"
+            }
+        ]
     },
     {
         "category": "CES – Reading and Listening",
@@ -387,7 +604,16 @@
         "correct_answer": "To challenge.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Safety Culture",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "Leadership",
+                "main_category": "Management, Administration & Human Factors"
+            }
+        ]
     },
     {
         "category": "CES – Reading and Listening",
@@ -402,7 +628,16 @@
         "correct_answer": "Virus.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "IT Security",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "communication",
+                "main_category": "Management, Administration & Human Factors"
+            }
+        ]
     },
     {
         "category": "CES – Reading and Listening",
@@ -417,7 +652,16 @@
         "correct_answer": "Regularly inspected.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Fire Fighting",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "maintenance",
+                "main_category": "Maintenance, Repair & Workshop Practice"
+            }
+        ]
     },
     {
         "category": "CES – Reading and Listening",
@@ -432,7 +676,12 @@
         "correct_answer": "Weather.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Meteorology",
+                "main_category": "Ship Operations, Navigation & Seamanship"
+            }
+        ]
     },
     {
         "category": "CES – Reading and Listening",
@@ -447,7 +696,16 @@
         "correct_answer": "Opened.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Enclosed Space Entry",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "Deck Operations",
+                "main_category": "Ship Operations, Navigation & Seamanship"
+            }
+        ]
     },
     {
         "category": "CES – Reading and Listening",
@@ -462,7 +720,16 @@
         "correct_answer": "Need to meet.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "STCW",
+                "main_category": "Maritime Regulations, Law & Compliance"
+            },
+            {
+                "sub_category": "Regulatory",
+                "main_category": "Maritime Regulations, Law & Compliance"
+            }
+        ]
     },
     {
         "category": "CES – Reading and Listening",
@@ -477,7 +744,16 @@
         "correct_answer": "Panama.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Ship Registration",
+                "main_category": "Maritime Regulations, Law & Compliance"
+            },
+            {
+                "sub_category": "Flag State",
+                "main_category": "Maritime Regulations, Law & Compliance"
+            }
+        ]
     },
     {
         "category": "CES – Reading and Listening",
@@ -492,7 +768,16 @@
         "correct_answer": "Always be assumed.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "safety",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "Enclosed Space Entry",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            }
+        ]
     },
     {
         "category": "CES – Reading and Listening",
@@ -507,7 +792,12 @@
         "correct_answer": "Wednesday.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "General English",
+                "main_category": "Management, Administration & Human Factors"
+            }
+        ]
     },
     {
         "category": "CES – Reading and Listening",
@@ -522,7 +812,16 @@
         "correct_answer": "Protected from.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "maintenance",
+                "main_category": "Maintenance, Repair & Workshop Practice"
+            },
+            {
+                "sub_category": "Deck",
+                "main_category": "Ship Operations, Navigation & Seamanship"
+            }
+        ]
     },
     {
         "category": "CES – Reading and Listening",
@@ -537,7 +836,12 @@
         "correct_answer": "Responsible for.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Duties",
+                "main_category": "Management, Administration & Human Factors"
+            }
+        ]
     },
     {
         "category": "CES – Reading and Listening",
@@ -552,7 +856,16 @@
         "correct_answer": "To carry.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Regulatory",
+                "main_category": "Maritime Regulations, Law & Compliance"
+            },
+            {
+                "sub_category": "Seafarer",
+                "main_category": "Maintenance, Repair & Workshop Practice"
+            }
+        ]
     },
     {
         "category": "CES – Reading and Listening",
@@ -567,7 +880,16 @@
         "correct_answer": "Boarded.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "LSA",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "emergency",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            }
+        ]
     },
     {
         "category": "CES – Reading and Listening",
@@ -581,7 +903,16 @@
         "correct_answer": "Aluminium.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "LSA",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "Lifeboat",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            }
+        ]
     },
     {
         "category": "CES – Reading and Listening",
@@ -595,7 +926,16 @@
         "correct_answer": "Some cabins were left unlocked.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Maritime Security",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "isps",
+                "main_category": "Maritime Regulations, Law & Compliance"
+            }
+        ]
     },
     {
         "category": "CES – Reading and Listening",
@@ -609,7 +949,16 @@
         "correct_answer": "He will be signed off.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "safety",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "Policy",
+                "main_category": "Maritime Regulations, Law & Compliance"
+            }
+        ]
     },
     {
         "category": "CES – Reading and Listening",
@@ -623,7 +972,16 @@
         "correct_answer": "He was shaving.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "First Aid",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "safety",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            }
+        ]
     },
     {
         "category": "CES – Reading and Listening",
@@ -637,7 +995,12 @@
         "correct_answer": "He’s very busy.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Ship Life",
+                "main_category": "Maintenance, Repair & Workshop Practice"
+            }
+        ]
     },
     {
         "category": "CES – Reading and Listening",
@@ -651,7 +1014,12 @@
         "correct_answer": "His new ship has a lot of variety – every job is different.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "General Maritime",
+                "main_category": "Ship Operations, Navigation & Seamanship"
+            }
+        ]
     },
     {
         "category": "CES – Reading and Listening",
@@ -665,7 +1033,16 @@
         "correct_answer": "There wasn’t enough light coming downstairs.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "First Aid",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "safety",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            }
+        ]
     },
     {
         "category": "CES – Reading and Listening",
@@ -679,7 +1056,16 @@
         "correct_answer": "Yellow rubber ducks.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "navigation",
+                "main_category": "Ship Operations, Navigation & Seamanship"
+            },
+            {
+                "sub_category": "watchkeeping",
+                "main_category": "Ship Operations, Navigation & Seamanship"
+            }
+        ]
     },
     {
         "category": "CES – Reading and Listening",
@@ -693,7 +1079,12 @@
         "correct_answer": "Pipes.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Cargo Operations",
+                "main_category": "Cargo Operations & Vessel Types"
+            }
+        ]
     },
     {
         "category": "CES – Reading and Listening",
@@ -707,7 +1098,16 @@
         "correct_answer": "The North Atlantic.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "navigation",
+                "main_category": "Ship Operations, Navigation & Seamanship"
+            },
+            {
+                "sub_category": "Bridge Procedures",
+                "main_category": "Ship Operations, Navigation & Seamanship"
+            }
+        ]
     },
     {
         "category": "CES – Reading and Listening",
@@ -721,7 +1121,12 @@
         "correct_answer": "From a capsized yacht.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Search and Rescue",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            }
+        ]
     },
     {
         "category": "CES – Reading and Listening",
@@ -735,7 +1140,12 @@
         "correct_answer": "That he should get some medical advice.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Bridge Procedures",
+                "main_category": "Ship Operations, Navigation & Seamanship"
+            }
+        ]
     },
     {
         "category": "CES – Reading and Listening",
@@ -749,7 +1159,16 @@
         "correct_answer": "The grab has broken free from its lashings.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Deck Operations",
+                "main_category": "Ship Operations, Navigation & Seamanship"
+            },
+            {
+                "sub_category": "safety",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            }
+        ]
     },
     {
         "category": "CES – Reading and Listening",
@@ -764,7 +1183,16 @@
         "correct_answer": "Because they weren’t stored securely.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "communication",
+                "main_category": "Management, Administration & Human Factors"
+            },
+            {
+                "sub_category": "Listening",
+                "main_category": "Management, Administration & Human Factors"
+            }
+        ]
     },
     {
         "category": "CES – Reading and Listening",
@@ -779,7 +1207,16 @@
         "correct_answer": "Because we need to pick up some spare parts in port.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "communication",
+                "main_category": "Management, Administration & Human Factors"
+            },
+            {
+                "sub_category": "Listening",
+                "main_category": "Management, Administration & Human Factors"
+            }
+        ]
     },
     {
         "category": "CES – Reading and Listening",
@@ -794,7 +1231,16 @@
         "correct_answer": "Checking the fire extinguishers.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "communication",
+                "main_category": "Management, Administration & Human Factors"
+            },
+            {
+                "sub_category": "Listening",
+                "main_category": "Management, Administration & Human Factors"
+            }
+        ]
     },
     {
         "category": "CES – Reading and Listening",
@@ -809,7 +1255,16 @@
         "correct_answer": "It’s 3, as we’ve just entered pirate waters.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "communication",
+                "main_category": "Management, Administration & Human Factors"
+            },
+            {
+                "sub_category": "Listening",
+                "main_category": "Management, Administration & Human Factors"
+            }
+        ]
     },
     {
         "category": "CES – Reading and Listening",
@@ -824,7 +1279,16 @@
         "correct_answer": "Safety boots.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "safety",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "Deck Operations",
+                "main_category": "Ship Operations, Navigation & Seamanship"
+            }
+        ]
     },
     {
         "category": "CES – Reading and Listening",
@@ -839,7 +1303,12 @@
         "correct_answer": "Snow.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Meteorology",
+                "main_category": "Ship Operations, Navigation & Seamanship"
+            }
+        ]
     },
     {
         "category": "CES – Reading and Listening",
@@ -854,7 +1323,16 @@
         "correct_answer": "Being boarded.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Safety Management",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "Familiarisation",
+                "main_category": "Management, Administration & Human Factors"
+            }
+        ]
     },
     {
         "category": "CES – Reading and Listening",
@@ -869,7 +1347,16 @@
         "correct_answer": "Identify.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "safety",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "PPE",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            }
+        ]
     },
     {
         "category": "CES – Reading and Listening",
@@ -884,7 +1371,16 @@
         "correct_answer": "To challenge.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Safety Culture",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "Bridge Resource Management",
+                "main_category": "Ship Operations, Navigation & Seamanship"
+            }
+        ]
     },
     {
         "category": "CES – Reading and Listening",
@@ -899,7 +1395,16 @@
         "correct_answer": "Prevention.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "marpol",
+                "main_category": "Maritime Regulations, Law & Compliance"
+            },
+            {
+                "sub_category": "Environmental Protection",
+                "main_category": "Maritime Regulations, Law & Compliance"
+            }
+        ]
     },
     {
         "category": "CES – Reading and Listening",
@@ -914,7 +1419,16 @@
         "correct_answer": "Is always.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "maintenance",
+                "main_category": "Maintenance, Repair & Workshop Practice"
+            },
+            {
+                "sub_category": "safety",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            }
+        ]
     },
     {
         "category": "CES – Reading and Listening",
@@ -929,7 +1443,16 @@
         "correct_answer": "Required to be.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Bridge Procedures",
+                "main_category": "Ship Operations, Navigation & Seamanship"
+            },
+            {
+                "sub_category": "communication",
+                "main_category": "Management, Administration & Human Factors"
+            }
+        ]
     },
     {
         "category": "CES – Reading and Listening",
@@ -944,7 +1467,16 @@
         "correct_answer": "Pressure test.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Engine Room",
+                "main_category": "Marine Engineering & Motive Power"
+            },
+            {
+                "sub_category": "maintenance",
+                "main_category": "Maintenance, Repair & Workshop Practice"
+            }
+        ]
     },
     {
         "category": "CES – Reading and Listening",
@@ -959,7 +1491,16 @@
         "correct_answer": "Situational awareness.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Safety Culture",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "watchkeeping",
+                "main_category": "Ship Operations, Navigation & Seamanship"
+            }
+        ]
     },
     {
         "category": "CES – Reading and Listening",
@@ -974,7 +1515,16 @@
         "correct_answer": "Standards.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "STCW",
+                "main_category": "Maritime Regulations, Law & Compliance"
+            },
+            {
+                "sub_category": "Regulatory",
+                "main_category": "Maritime Regulations, Law & Compliance"
+            }
+        ]
     },
     {
         "category": "CES – Reading and Listening",
@@ -989,7 +1539,16 @@
         "correct_answer": "Tanker.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Ship Terminology",
+                "main_category": "Ship Operations, Navigation & Seamanship"
+            },
+            {
+                "sub_category": "Deck",
+                "main_category": "Ship Operations, Navigation & Seamanship"
+            }
+        ]
     },
     {
         "category": "CES – Reading and Listening",
@@ -1004,7 +1563,16 @@
         "correct_answer": "Were reported.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Incident Investigation",
+                "main_category": "Management, Administration & Human Factors"
+            },
+            {
+                "sub_category": "navigation",
+                "main_category": "Ship Operations, Navigation & Seamanship"
+            }
+        ]
     },
     {
         "category": "CES – Reading and Listening",
@@ -1019,7 +1587,12 @@
         "correct_answer": "Recorded.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "training",
+                "main_category": "Management, Administration & Human Factors"
+            }
+        ]
     },
     {
         "category": "CES – Reading and Listening",
@@ -1034,7 +1607,16 @@
         "correct_answer": "Compound.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "STCW",
+                "main_category": "Maritime Regulations, Law & Compliance"
+            },
+            {
+                "sub_category": "communication",
+                "main_category": "Management, Administration & Human Factors"
+            }
+        ]
     },
     {
         "category": "CES – Reading and Listening",
@@ -1049,7 +1631,16 @@
         "correct_answer": "Most critical.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "navigation",
+                "main_category": "Ship Operations, Navigation & Seamanship"
+            },
+            {
+                "sub_category": "Bridge Procedures",
+                "main_category": "Ship Operations, Navigation & Seamanship"
+            }
+        ]
     },
     {
         "category": "CES – Reading and Listening",
@@ -1064,7 +1655,12 @@
         "correct_answer": "Stability.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "ship stability",
+                "main_category": "Ship Operations, Navigation & Seamanship"
+            }
+        ]
     },
     {
         "category": "CES – Reading and Listening",
@@ -1079,7 +1675,16 @@
         "correct_answer": "Forward.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "communication",
+                "main_category": "Management, Administration & Human Factors"
+            },
+            {
+                "sub_category": "navigation",
+                "main_category": "Ship Operations, Navigation & Seamanship"
+            }
+        ]
     },
     {
         "category": "CES – Reading and Listening",
@@ -1094,7 +1699,16 @@
         "correct_answer": "Associated with.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Engine Room",
+                "main_category": "Marine Engineering & Motive Power"
+            },
+            {
+                "sub_category": "fire safety",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            }
+        ]
     },
     {
         "category": "CES – Reading and Listening",
@@ -1109,7 +1723,16 @@
         "correct_answer": "Permit to work.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "hot work",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "safety",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            }
+        ]
     },
     {
         "category": "CES – Reading and Listening",
@@ -1124,7 +1747,16 @@
         "correct_answer": "Performed.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Pilot Ladder",
+                "main_category": "Ship Operations, Navigation & Seamanship"
+            },
+            {
+                "sub_category": "Deck Operations",
+                "main_category": "Ship Operations, Navigation & Seamanship"
+            }
+        ]
     },
     {
         "category": "CES – Reading and Listening",
@@ -1139,7 +1771,12 @@
         "correct_answer": "Lowered.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Deck Operations",
+                "main_category": "Ship Operations, Navigation & Seamanship"
+            }
+        ]
     },
     {
         "category": "CES – Reading and Listening",
@@ -1154,7 +1791,16 @@
         "correct_answer": "11:30.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "bunkering",
+                "main_category": "Cargo Operations & Vessel Types"
+            },
+            {
+                "sub_category": "operations",
+                "main_category": "Management, Administration & Human Factors"
+            }
+        ]
     },
     {
         "category": "CES – Reading and Listening",
@@ -1169,7 +1815,16 @@
         "correct_answer": "Guidance.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "maintenance",
+                "main_category": "Maintenance, Repair & Workshop Practice"
+            },
+            {
+                "sub_category": "safety",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            }
+        ]
     },
     {
         "category": "CES – Reading and Listening",
@@ -1184,7 +1839,16 @@
         "correct_answer": "Any doubts.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Safety Culture",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "communication",
+                "main_category": "Management, Administration & Human Factors"
+            }
+        ]
     },
     {
         "category": "CES – Reading and Listening",
@@ -1199,7 +1863,16 @@
         "correct_answer": "Overheated.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Safety",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Fire Fighting",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            }
+        ]
     },
     {
         "category": "CES – Reading and Listening",
@@ -1214,7 +1887,16 @@
         "correct_answer": "Investigated and reported.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Emergency Procedures",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "Engine Room",
+                "main_category": "Marine Engineering & Motive Power"
+            }
+        ]
     },
     {
         "category": "CES – Reading and Listening",
@@ -1229,7 +1911,16 @@
         "correct_answer": "Can cause.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "fuel system",
+                "main_category": "Marine Engineering & Motive Power"
+            },
+            {
+                "sub_category": "maintenance",
+                "main_category": "Maintenance, Repair & Workshop Practice"
+            }
+        ]
     },
     {
         "category": "CES – Reading and Listening",
@@ -1244,7 +1935,16 @@
         "correct_answer": "Breaches.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Maritime Security",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "isps",
+                "main_category": "Maritime Regulations, Law & Compliance"
+            }
+        ]
     },
     {
         "category": "CES – Reading and Listening",
@@ -1259,7 +1959,16 @@
         "correct_answer": "Abnormalities.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "security",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "watchkeeping",
+                "main_category": "Ship Operations, Navigation & Seamanship"
+            }
+        ]
     },
     {
         "category": "CES – Reading and Listening",
@@ -1291,7 +2000,16 @@
         "correct_answer": "To all seafarers.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "STCW",
+                "main_category": "Maritime Regulations, Law & Compliance"
+            },
+            {
+                "sub_category": "Safety Training",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            }
+        ]
     },
     {
         "category": "CES – Reading and Listening",
@@ -1306,7 +2024,12 @@
         "correct_answer": "The crew mess.",
         "images": [],
         "explanation": "නැවක කාර්ය මණ්ඩලය ආහාර ගන්නා ස්ථානය හැඳින්වීමට භාවිතා කරන නිවැරදි නාවික පාරිභාෂිත වචනය වන්නේ 'Mess' (Crew mess) යන්නයි. 'Dining room' යන වචනය සාමාන්‍යයෙන් මගී නැව්වල හෝ නිවාසවල භාවිතා වන අතර, නැවක කාර්ය මණ්ඩලය සඳහා වෙන් කර ඇති කොටසට 'Mess room' යැයි කියනු ලැබේ. 'Kitchen' යන්න නැවකදී 'Galley' ලෙස හඳුන්වනු ලබන අතර එය ආහාර පිසින ස්ථානයයි. එබැවින් කාර්ය මණ්ඩලය ආහාර ගන්නා ස්ථානය නිවැරදිව 'Crew mess' ලෙස හඳුන්වයි.",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Ship Familiarization",
+                "main_category": "Management, Administration & Human Factors"
+            }
+        ]
     },
     {
         "category": "CES – Reading and Listening",
@@ -1321,7 +2044,16 @@
         "correct_answer": "Take over the steering of the ship.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Bridge Procedures",
+                "main_category": "Ship Operations, Navigation & Seamanship"
+            },
+            {
+                "sub_category": "navigation",
+                "main_category": "Ship Operations, Navigation & Seamanship"
+            }
+        ]
     },
     {
         "category": "CES – Reading and Listening",
@@ -1336,7 +2068,16 @@
         "correct_answer": "If I saw a person falling overboard I would shout repeatedly, “Man overboard”.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Emergency Procedures",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "Man Overboard",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            }
+        ]
     },
     {
         "category": "CES – Reading and Listening",
@@ -1351,7 +2092,12 @@
         "correct_answer": "Normally a small vessel is called a “boat” rather than a “ship”, otherwise it is not normal.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Marine Terminology",
+                "main_category": "Ship Operations, Navigation & Seamanship"
+            }
+        ]
     },
     {
         "category": "CES – Reading and Listening",
@@ -1366,7 +2112,16 @@
         "correct_answer": "Pirates are persons who attempt to board and take over a ship at sea.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Maritime Security",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "Piracy",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            }
+        ]
     },
     {
         "category": "CES – Reading and Listening",
@@ -1381,7 +2136,12 @@
         "correct_answer": "To safely transport goods by sea.",
         "images": [],
         "explanation": "වෙළඳ නාවික ක්ෂේත්‍රයේ (Merchant Navy) මූලිකම සහ එකම ප්‍රධාන අරමුණ වන්නේ ලොව පුරා විවිධ රටවල් අතර භාණ්ඩ (Goods/Cargo) ආරක්ෂිතව සහ කාර්යක්ෂමව මුහුදු මාර්ගයෙන් ප්‍රවාහනය කිරීමයි. මෙය ගෝලීය වෙළඳාමේ කොන්ද පණ ගැන්වීම ලෙස සැලකේ. අනෙකුත් විකල්ප වන හමුදාමය ආරක්ෂාව සැපයීම (Navy වල කාර්යයකි) හෝ විනෝදය සඳහා යාත්‍රා කිරීම වැනි කරුණු මෙහි ප්‍රාථමික අරමුණ නොවේ. භාණ්ඩ වලට හානියක් නොවී සහ නියමිත කාලයට ගමනාන්තය වෙත ළඟා වීම මෙහිදී අතිශය වැදගත් වේ.",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "General Maritime",
+                "main_category": "Ship Operations, Navigation & Seamanship"
+            }
+        ]
     },
     {
         "category": "CES – Reading and Listening",
@@ -1396,7 +2156,16 @@
         "correct_answer": "To cast off the lines that secure the tug to the ship.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Manoeuvring",
+                "main_category": "Ship Operations, Navigation & Seamanship"
+            },
+            {
+                "sub_category": "Tug Operations",
+                "main_category": "Ship Operations, Navigation & Seamanship"
+            }
+        ]
     },
     {
         "category": "CES – Reading and Listening",
@@ -1411,7 +2180,16 @@
         "correct_answer": "Open the port windlass brake.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "navigation",
+                "main_category": "Ship Operations, Navigation & Seamanship"
+            },
+            {
+                "sub_category": "Anchoring",
+                "main_category": "Ship Operations, Navigation & Seamanship"
+            }
+        ]
     },
     {
         "category": "CES – Reading and Listening",
@@ -1426,7 +2204,16 @@
         "correct_answer": "Engine room ratings forming part of an engine room watch should assist in efficient and safe watch-keeping routines.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "watchkeeping",
+                "main_category": "Ship Operations, Navigation & Seamanship"
+            },
+            {
+                "sub_category": "Engine Room",
+                "main_category": "Marine Engineering & Motive Power"
+            }
+        ]
     },
     {
         "category": "CES – Reading and Listening",
@@ -1441,7 +2228,16 @@
         "correct_answer": "If machinery does not function properly the duty Engineer should be informed immediately so that plans for further action can be made.",
         "images": [],
         "explanation": "එන්ජින් රූම් එකක සේවය කරන රේටින් (Rating) කෙනෙකු යම් යන්ත්‍රයක හෝ උපාංගයක දෝෂයක් දුටු විට වහාම ඒ බව රාජකාරියේ නියුතු ඉංජිනේරුවරයාට (Duty Engineer) දැනුම් දිය යුතුය. මන්දයත්, සුළු දෝෂයක් විශාල යාන්ත්‍රික බිඳවැටීමකට හෝ නැවේ ආරක්ෂාවට තර්ජනයක් වන අනතුරකට හේතු විය හැකි බැවිනි. දෝෂය තනිවම පිළිසකර කිරීමට උත්සාහ කිරීම හෝ නොසලකා හැරීම භයානක විය හැකි අතර, ඉංජිනේරුවරයාට දැනුම් දීමෙන් පසු ඔහු විසින් නිසි පියවර ගනු ඇත.",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "maintenance",
+                "main_category": "Maintenance, Repair & Workshop Practice"
+            },
+            {
+                "sub_category": "operations",
+                "main_category": "Management, Administration & Human Factors"
+            }
+        ]
     },
     {
         "category": "CES – Reading and Listening",
@@ -1456,7 +2252,16 @@
         "correct_answer": "“Stand By” means that the engineers should be ready to respond to bridge requirements.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Engine Room",
+                "main_category": "Marine Engineering & Motive Power"
+            },
+            {
+                "sub_category": "operations",
+                "main_category": "Management, Administration & Human Factors"
+            }
+        ]
     },
     {
         "category": "CES – Reading and Listening",
@@ -1471,6 +2276,15 @@
         "correct_answer": "The Muster List.",
         "images": [],
         "explanation": "නෞකාවක සිටින සියලුම පුද්ගලයින් සඳහා හදිසි අවස්ථාවකදී හෝ ජීවිතාරක්ෂක බෝට්ටු පෙරහුරුවකදී (Lifeboat Drill) ඔවුන් සිටිය යුතු ස්ථානය සහ ඉටුකළ යුතු කාර්යයන් විස්තරාත්මකව දක්වා ඇති ලැයිස්තුව 'Muster List' ලෙස හැඳින්වේ. මෙය SOLAS රෙගුලාසි වලට අනුව අනිවාර්ය ලියවිල්ලක් වන අතර, එමගින් එක් එක් පුද්ගලයාගේ වගකීම් පැහැදිලිව දක්වයි. අනෙකුත් සාමාන්‍ය රාජකාරි ලැයිස්තු (Work schedule) මගින් හදිසි අවස්ථා හැසිරවීම පිළිබඳ නීතිමය උපදෙස් ලබා නොදෙන බැවින් ඒවා මෙයට අදාළ නොවේ.",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Emergency Procedures",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "safety",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            }
+        ]
     }
 ]

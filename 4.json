@@ -415,7 +415,16 @@
         "correct_answer": "Measurement of differential pressure.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Instrumentation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Viscosity Measurement",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electronics and Automation",
@@ -431,7 +440,12 @@
         "correct_answer": "0,2 A.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "electronics",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electronics and Automation",
@@ -447,7 +461,16 @@
         "correct_answer": "One Henry.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Physics",
+                "main_category": "Management, Administration & Human Factors"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electronics and Automation",
@@ -463,7 +486,12 @@
         "correct_answer": "10-200.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "electronics",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electronics and Automation",
@@ -479,7 +507,16 @@
         "correct_answer": "Multi-meter.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "electronics",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Instrumentation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electronics and Automation",
@@ -495,7 +532,12 @@
         "correct_answer": "60 Ohm.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electronics and Automation",
@@ -511,7 +553,16 @@
         "correct_answer": "A large bow thruster will draw very large currents at low voltage. Being typically remote from the generator, significant voltage drops would occur at low voltage.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "high voltage",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electronics and Automation",
@@ -527,7 +578,16 @@
         "correct_answer": "To ensure that no energy remains in the system, and that it cannot be recharged by external influences.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "high voltage",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Electrical Safety",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electronics and Automation",
@@ -542,7 +602,16 @@
         "correct_answer": "The gas, liquid or vapor, which will minimize creation of an electric arc as contacts open.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "high voltage",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Switchgear",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electronics and Automation",
@@ -558,7 +627,16 @@
         "correct_answer": "Rotten eggs.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "high voltage",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Electrical Safety",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electronics and Automation",
@@ -574,7 +652,12 @@
         "correct_answer": "Electric motors will run at reduced speed, and will tend to overheat.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electronics and Automation",
@@ -590,7 +673,16 @@
         "correct_answer": "Reduced current and reduced torque.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Motors",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electronics and Automation",
@@ -606,7 +698,16 @@
         "correct_answer": "It will allow for inrush current, or motor specific faults.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Protection",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electronics and Automation",
@@ -622,7 +723,16 @@
         "correct_answer": "30 volts.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Cables",
+                "main_category": "Maintenance, Repair & Workshop Practice"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electronics and Automation",
@@ -638,7 +748,16 @@
         "correct_answer": "In the event of an earth fault vital equipment will not trip.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "safety",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electronics and Automation",
@@ -654,7 +773,12 @@
         "correct_answer": "Faulty contactor coil.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electronics and Automation",
@@ -670,7 +794,16 @@
         "correct_answer": "Between 0,1 and 1,0 Ohm.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Cables",
+                "main_category": "Maintenance, Repair & Workshop Practice"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electronics and Automation",
@@ -686,7 +819,16 @@
         "correct_answer": "Temperature, humidity and surface contamination.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Motors",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electronics and Automation",
@@ -702,7 +844,16 @@
         "correct_answer": "Incorrect frequency.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Transformer",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electronics and Automation",
@@ -718,7 +869,16 @@
         "correct_answer": "6 Ohms.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Motors",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electronics and Automation",
@@ -734,7 +894,16 @@
         "correct_answer": "Zero-point is accurate, but 100 % input is not giving 100 % output.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Instrumentation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Automation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electronics and Automation",
@@ -750,7 +919,12 @@
         "correct_answer": "Open circuit winding between W and U.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electronics and Automation",
@@ -766,7 +940,12 @@
         "correct_answer": "Contactor chattering (vibrating).",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electronics and Automation",
@@ -782,7 +961,16 @@
         "correct_answer": "U-E, V-E, W-E, U-V, V-W, W-U.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "maintenance",
+                "main_category": "Maintenance, Repair & Workshop Practice"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electronics and Automation",
@@ -798,7 +986,16 @@
         "correct_answer": "Electrodes.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Instrumentation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Level Measurement",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electronics and Automation",
@@ -814,7 +1011,16 @@
         "correct_answer": "The controller will not react to a process change in this range.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Instrumentation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Automation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electronics and Automation",
@@ -830,7 +1036,16 @@
         "correct_answer": "22 Ohms.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Heating Element",
+                "main_category": "Marine Engineering & Motive Power"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electronics and Automation",
@@ -846,7 +1061,12 @@
         "correct_answer": "Disconnect the thermocouple lead from the controller, and replace it with a mV source.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Instrumentation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electronics and Automation",
@@ -862,7 +1082,16 @@
         "correct_answer": "One of the main switching elements in the triac has failed.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "electronics",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Instrumentation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electronics and Automation",
@@ -878,7 +1107,12 @@
         "correct_answer": "Install a 100 Ohm resistor in series with the coil.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electronics and Automation",
@@ -894,7 +1128,16 @@
         "correct_answer": "Apply reduced voltage to the element for a few minutes. Then retest, and if ok put into service.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Safety Testing",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electronics and Automation",
@@ -910,7 +1153,16 @@
         "correct_answer": "Solution of potassium hydroxide (KOH) and water.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Batteries",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electronics and Automation",
@@ -926,7 +1178,16 @@
         "correct_answer": "Absolute pressure.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Instrumentation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Pressure Measurement",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electronics and Automation",
@@ -942,7 +1203,16 @@
         "correct_answer": "2,2 Ohms.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Electrical Engineering",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Transformer",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electronics and Automation",
@@ -976,7 +1246,16 @@
         "correct_answer": "Better linearity and increased accuracy.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Instrumentation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Automation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electronics and Automation",
@@ -992,7 +1271,16 @@
         "correct_answer": "The slave controller receives the set-point from the output signal of the master controller.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Automation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Control Systems",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electronics and Automation",
@@ -1008,7 +1296,16 @@
         "correct_answer": "Adjust the slave controller with the master controller in manual mode.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Automation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Control Systems",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electronics and Automation",
@@ -1024,7 +1321,16 @@
         "correct_answer": "The primary controller in a cascade control system.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Automation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Control Systems",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electronics and Automation",
@@ -1040,7 +1346,16 @@
         "correct_answer": "Level control.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Automation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Control Systems",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electronics and Automation",
@@ -1056,7 +1371,16 @@
         "correct_answer": "It is possible to predict the control mathematically.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Automation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Control Systems",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electronics and Automation",
@@ -1072,7 +1396,16 @@
         "correct_answer": "Control of the process inlet side.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Automation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Control Systems",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electronics and Automation",
@@ -1088,7 +1421,16 @@
         "correct_answer": "The secondary controller.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Automation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Control Systems",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electronics and Automation",
@@ -1104,7 +1446,16 @@
         "correct_answer": "Capillary tube.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Instrumentation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Viscosity Measurement",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electronics and Automation",
@@ -1138,7 +1489,16 @@
         "correct_answer": "In a pressure transmitter.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "Instrumentation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            },
+            {
+                "sub_category": "Pressure Measurement",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electronics and Automation",
@@ -1154,7 +1514,16 @@
         "correct_answer": "Ionization type.",
         "images": [],
         "explanation": "",
-        "tags": []
+        "tags": [
+            {
+                "sub_category": "fire safety",
+                "main_category": "Safety, Emergency Response & Lifesaving"
+            },
+            {
+                "sub_category": "Instrumentation",
+                "main_category": "Electrical, Electronics & Control Engineering"
+            }
+        ]
     },
     {
         "category": "CES – Engine, Management, Electronics and Automation",
