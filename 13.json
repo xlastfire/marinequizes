@@ -35,7 +35,7 @@
         ],
         "correct_answer": "The heat transfer surfaces should be cleaned.",
         "images": [],
-        "explanation": "",
+        "explanation": "Lubricating oil cooler එකක Heat transfer capacity එක අඩුවීමට ප්‍රධානම හේතුව වන්නේ එහි Heat transfer surfaces මත තැන්පත් වන Fouling (oil sludge හෝ scale) වේ. මෙහිදී Cooling water pressure වැඩි කිරීමෙන් හෝ Oil flowrate වෙනස් කිරීමෙන් ස්ථිර විසඳුමක් නොලැබේ. Oil flowrate අඩු කිරීමෙන් Oil temperature තවදුරටත් ඉහළ යා හැකි අතර, එය එන්ජිමේ ක්‍රියාකාරිත්වයට අහිතකර වේ. එමනිසා, තාප හුවමාරු පෘෂ්ඨයන් (Heat transfer surfaces) නිසි පරිදි Cleaning කිරීම මගින් පමණක් Heat exchanger එකෙහි කාර්යක්ෂමතාව නැවත ලබා ගත හැක.",
         "tags": [
             {
                 "sub_category": "Maintenance",
@@ -55,7 +55,7 @@
         ],
         "correct_answer": "Cooling water velocity too high.",
         "images": [],
-        "explanation": "",
+        "explanation": "Heat exchanger tubes වල erosion ඇතිවීමට ප්‍රධානම හේතුව වන්නේ Cooling water velocity අධික වීමයි. මෙයට හේතුව වන්නේ අධික වේගයකින් ජලය ගමන් කරන විට ඇතිවන 'Turbulence' සහ 'Impingement attack' මගින් නල වල අභ්‍යන්තර පෘෂ්ඨය (tube surface) සහ protective oxide layer එක විනාශ වීමයි. අනෙක් විකල්ප සලකා බලමු: 1. Cooling water temperature too high: මෙය සාමාන්‍යයෙන් corrosion හෝ scaling වැඩි කිරීමට හේතු විය හැකි නමුත් erosion වලට සෘජු හේතුවක් නොවේ. 2. Cooling water pressure too high: පීඩනය වැඩි වීමෙන් නල වලට යාන්ත්‍රික හානියක් වීමට ඉඩ ඇතත්, erosion සඳහා ප්‍රධාන සාධකය වන්නේ ජලයේ වේගයයි. 4. Rate of heat transfer too high: මෙය තාප හුවමාරු කාර්යක්ෂමතාවයට බලපාන නමුත් erosion ඇති කිරීමට සෘජු හේතුවක් නොවේ. එබැවින්, අධික වේගය (High velocity) මගින් නල වල බිත්ති ක්ෂය වීම (erosion) සිදුවන බැවින් නිවැරදි පිළිතුර වන්නේ Cooling water velocity too high යන්නයි.",
         "tags": [
             {
                 "sub_category": "Maintenance",
@@ -95,7 +95,7 @@
         ],
         "correct_answer": "1 000 000 Ohms.",
         "images": [],
-        "explanation": "",
+        "explanation": "Marine electrical standards, such as those set by Classification Societies (e.g., Lloyd's Register or ABS), generally require that the Insulation Resistance (IR) of electrical machinery should be at least 1 Megaohm (1,000,000 Ohms) to ensure safe operation and prevent short circuits or earth faults. විකල්ප 10 Ohms, 1 000 Ohms සහ 10 000 Ohms යන අගයන් ඉතා අඩු වන අතර, ඒවා මගින් පරිවාරක දෝෂයක් (insulation failure) පවතින බව පෙන්නුම් කරයි. එබැවින්, 1 000 000 Ohms (1 MΩ) යනු ආරක්ෂිතව generator එක ක්‍රියාත්මක කිරීමට අවශ්‍ය අවම අගය වේ.",
         "tags": [
             {
                 "sub_category": "Electrical",
@@ -174,7 +174,7 @@
         ],
         "correct_answer": "He shall have all the knowledge as listed in the other alternatives.",
         "images": [],
-        "explanation": "",
+        "explanation": "Watch keeping engineer කෙනෙකු ලෙස රාජකාරි භාර ගැනීමට පෙර, ඔහුට නෞකාවේ ඇති සියලුම යන්ත්‍රෝපකරණ පිළිබඳව මනා අවබෝධයක් තිබීම අනිවාර්ය වේ. මෙහිදී දෙවන විකල්පය මගින් Main and auxiliary machinery ක්‍රියාත්මක කිරීම සහ Control modes මාරු කිරීම පිළිබඳව සඳහන් වන අතර, තුන්වන විකල්පය මගින් UMS (Unattended Machinery Space) mode එකට යාමට පෙර සිදුකළ යුතු Check routines පිළිබඳව සඳහන් වේ. මෙම කරුණු දෙකම Watch keeping engineer කෙනෙකු සතු විය යුතු අත්‍යවශ්‍ය දැනුමකි. එබැවින්, පළමු විකල්පය වන 'He shall have all the knowledge as listed in the other alternatives' යන්න නිවැරදි පිළිතුර වේ.",
         "tags": [
             {
                 "sub_category": "Watchkeeping",
@@ -198,7 +198,7 @@
         ],
         "correct_answer": "By muster lists exhibited in conspicuous places.",
         "images": [],
-        "explanation": "",
+        "explanation": "නැවකට අලුතින් සම්බන්ධ වන කාර්ය මණ්ඩල සාමාජිකයෙකුට හදිසි අවස්ථාවකදී (Emergency) තම රාජකාරි සහ ආරක්ෂක උපදෙස් දැනගැනීම සඳහා ප්‍රධානතම සහ නිල ලේඛනය වන්නේ Muster list වේ. SOLAS නීති රීති වලට අනුව, Muster list එකක් නැවේ සෑම දෙනාටම පහසුවෙන් දැකගත හැකි ස්ථානවල (conspicuous places) ප්‍රදර්ශනය කළ යුතුය. අනෙක් පිළිතුරු වැරදි වීමට හේතු: 1. වාචික උපදෙස් (Oral instructions) පමණක් ප්‍රමාණවත් නොවන අතර ඒවා නිල වාර්තා ලෙස නොසැලකේ. 2. Alarm instructions පමණක් තිබීමෙන් තමන්ගේ නිශ්චිත රාජකාරිය (Emergency duties) පැහැදිලි නොවේ. 3. Folder එකක් බෙදා දීම අනිවාර්ය ක්‍රියාවලියක් නොවන අතර, Muster list එකක් ප්‍රදර්ශනය කිරීම නීතිමය අවශ්‍යතාවයකි.",
         "tags": [
             {
                 "sub_category": "Safety",
@@ -270,7 +270,7 @@
         ],
         "correct_answer": "To avoid pollution.",
         "images": [],
-        "explanation": "",
+        "explanation": "MARPOL (International Convention for the Prevention of Pollution from Ships) රෙගුලාසි වලට අනුව, ඕනෑම දූෂණයක් සිදුවිය හැකි මෙහෙයුමක් (potential polluting operation) සුදුසුකම් ලත් නිලධාරියෙකුගේ අධීක්ෂණය යටතේ සිදුකළ යුතුය. මෙහි මූලික අරමුණ වන්නේ දූෂණය අවම කිරීම නොව, එය සම්පූර්ණයෙන්ම වළක්වා ගැනීමයි (To avoid pollution). 'To restrict pollution' යන්න වැරදියි, මන්ද අපගේ ඉලක්කය දූෂණය සීමා කිරීම නොව එය සිදුවීම වැළැක්වීමයි. 'To relieve the master' සහ 'To inform the authorities' යනු මෙහෙයුමකදී සුදුසුකම් ලත් නිලධාරියෙකු සිටීමේ ප්‍රධාන අරමුණ නොවේ. එබැවින්, නිවැරදිම පිළිතුර වන්නේ දූෂණය වැළැක්වීමයි.",
         "tags": [
             {
                 "sub_category": "Legislation",
@@ -294,7 +294,7 @@
         ],
         "correct_answer": "It satisfies the SOLAS (and other) requirements for ship safety.",
         "images": [],
-        "explanation": "",
+        "explanation": "නැවක Emergency generator එකක් තිබීම අනිවාර්ය වන්නේ ප්‍රධාන විදුලි පද්ධතිය අක්‍රිය වූ විට නැවේ ආරක්ෂාව තහවුරු කිරීම සඳහා SOLAS (Safety of Life at Sea) රෙගුලාසි මගින් නියම කර ඇති බැවිනි. අනෙක් පිළිතුරු විශ්ලේෂණය කරමු: 1. 'Load sharing' යනු ප්‍රධාන ජනක යන්ත්‍ර අතර සිදුවන්නකි, Emergency generator එකක් ප්‍රධාන පද්ධතියට බර බෙදා දීමට භාවිතා නොවේ. 2. ප්‍රධාන ජනක යන්ත්‍ර අලුත්වැඩියා කිරීම සඳහා වෙනම Harbour generator හෝ Shaft generator භාවිතා කරයි, Emergency generator එක ඒ සඳහා නොවේ. 3. මෙය පරිසර හිතකාමී වීමට අදාළ කරුණක් නොවේ. එබැවින්, SOLAS රෙගුලාසිවලට අනුකූල වීම සහ නැවේ ආරක්ෂාව (Ship safety) තහවුරු කිරීම මෙහි මූලික අරමුණයි.",
         "tags": [
             {
                 "sub_category": "Electrical",
@@ -342,7 +342,7 @@
         ],
         "correct_answer": "10 Mohm.",
         "images": [],
-        "explanation": "",
+        "explanation": "Insulation Resistance (IR) මැනීමේදී, පරිපථ කිහිපයක් සමාන්තරව (parallel) සම්බන්ධ වූ විට, මුළු ප්‍රතිරෝධය (total resistance) ගණනය කරනු ලබන්නේ 1/R_total = 1/R1 + 1/R2 + 1/R3 යන සූත්‍රය භාවිතයෙනි. මෙහි සෑම hot-plate එකකම IR අගය 30 Mohm වේ. එබැවින්, 1/R_total = 1/30 + 1/30 + 1/30 = 3/30 = 1/10 වේ. මෙයින් R_total = 10 Mohm ලෙස ලැබේ. 90 Mohm යනු ශ්‍රේණිගත (series) සම්බන්ධතාවයකදී ලැබෙන අගයකි, නමුත් මෙහිදී පරිපථ සමාන්තරව සම්බන්ධ වන බැවින් එය වැරදිය. 30 Mohm යනු තනි උපාංගයක අගය පමණි. 3 Mohm යනු වැරදි ගණනය කිරීමකි. එබැවින් නිවැරදි පිළිතුර 10 Mohm වේ.",
         "tags": [
             {
                 "sub_category": "Electrical",
@@ -362,7 +362,7 @@
         ],
         "correct_answer": "Incoming machine picks up as a generator.",
         "images": [],
-        "explanation": "",
+        "explanation": "Generator එකක් Bus bar එකට සම්බන්ධ කිරීමේදී (Synchronizing), incoming generator එකේ frequency එක Bus bar frequency එකට වඩා තරමක් වැඩි (slightly fast) වීම අනිවාර්ය වේ. මෙයට හේතුව වන්නේ, එසේ කිරීමෙන් generator එක Bus bar එකට සම්බන්ධ වූ වහාම එය 'Generator' එකක් ලෙස ක්‍රියා කරමින් පද්ධතියට විදුලිය සැපයීම (Active power output) ආරම්භ කිරීමයි. අනෙක් විකල්පයන් වැරදි වන්නේ: 'Incomer picks up as a motor' යන්න සිදුවුවහොත් generator එක මගින් විදුලිය නිපදවීමට වඩා පද්ධතියෙන් විදුලිය ලබාගැනීමක් සිදුවේ (Motoring effect), මෙය අනතුරුදායකය. 'Reverse power trip' පරීක්ෂා කිරීම Synchronizing ක්‍රියාවලියේ අරමුණ නොවේ. 'Most rapid synchronising' යනු තාක්ෂණිකව වැදගත් සාධකයක් නොවේ, මෙහිදී ආරක්ෂාව සහ ස්ථාවරත්වය ප්‍රධාන වේ.",
         "tags": [
             {
                 "sub_category": "Electrical",
@@ -410,7 +410,7 @@
         ],
         "correct_answer": "Changing of the filter element can be carried out without interrupting engine operation.",
         "images": [],
-        "explanation": "",
+        "explanation": "Duplex filters යනු එකිනෙකට සමාන්තරව සකස් කරන ලද filter ඒකක දෙකකින් සමන්විත පද්ධතියකි. මෙහි ප්‍රධාන අරමුණ වන්නේ එන්ජිම ක්‍රියාත්මක වන අතරතුර (without interrupting engine operation) එක් filter එකක් පිරිසිදු කිරීමට හෝ එහි element එක මාරු කිරීමට අවශ්‍ය වූ විට, අනෙක් filter එක හරහා තෙල් ගලා යාමට ඉඩ සලසා දීමයි. අනෙක් විකල්පයන් වැරදි වීමට හේතු: 1. Pressure drop එක අඩු වීම මෙහි මූලික අරමුණ නොවේ. 2. Filter blockage සිදු නොවන බව පැවසීම වැරදිය, ඕනෑම filter එකක් අපිරිසිදු විය හැක. 4. Duplex සැකසුම මගින් filtration ගුණාත්මකභාවය වැඩි නොවේ, එය හුදෙක් මෙහෙයුම් අඛණ්ඩතාව (operational continuity) සඳහා පමණක් යොදා ගනී.",
         "tags": [
             {
                 "sub_category": "Maintenance",
@@ -462,7 +462,7 @@
         ],
         "correct_answer": "Conductivity test.",
         "images": [],
-        "explanation": "",
+        "explanation": "Boiler water හි ඇති Total Dissolved Solids (TDS) මැනීම සඳහා වඩාත්ම නිවැරදි සහ ප්‍රායෝගික ක්‍රමය වන්නේ Conductivity test එකයි. මෙයට හේතුව ජලයේ දියවී ඇති ලවණ (dissolved salts) අයන (ions) ලෙස පවතින නිසා ඒවා මගින් විද්‍යුත් සන්නායකතාවය (electrical conductivity) වැඩි කිරීමයි. එබැවින්, Conductivity මැනීම මගින් TDS අගය පහසුවෙන් ගණනය කළ හැක. අනෙකුත් විකල්ප සලකා බලමු: 1. pH test: මෙය ජලයේ ආම්ලිකතාවය හෝ භාෂ්මිකතාවය මනිනු ලබන අතර TDS මැනීමට භාවිතා නොවේ. 2. Alkalinity test: මෙය ජලයේ ඇති hydroxide, carbonate සහ bicarbonate ප්‍රමාණය මනිනු ලබයි. 3. Chloride test: මෙය ජලයේ ඇති ක්ලෝරයිඩ් අයන සාන්ද්‍රණය පමණක් මනිනු ලබන අතර එය මුළු TDS අගය නිරූපණය නොකරයි. එබැවින් Conductivity test යනු නිවැරදි පිළිතුරයි.",
         "tags": [
             {
                 "sub_category": "Water",
@@ -482,7 +482,7 @@
         ],
         "correct_answer": "Warm nutritious drinks.",
         "images": [],
-        "explanation": "",
+        "explanation": "ශීතලට නිරාවරණය වූ (exposed to cold) පුද්ගලයෙකුගේ ශරීර උෂ්ණත්වය ඉහළ නැංවීම සඳහා උණුසුම් සහ පෝෂ්‍යදායී පානයන් (Warm nutritious drinks) ලබා දීම වඩාත් සුදුසු වේ. මෙහිදී අනෙක් විකල්ප වැරදි වීමට හේතු: 1. මධ්‍යසාර (Brandy, whiskey) ලබා දීමෙන් රුධිර වාහිනී ප්‍රසාරණය වී ශරීරයේ අභ්‍යන්තර උෂ්ණත්වය තවදුරටත් පහළ යා හැකි බැවින් එය ඉතා භයානක වේ. 2. පලතුරු සහ එළවළු පමණක් ලබා දීමෙන් ශරීරයට අවශ්‍ය ක්ෂණික ශක්තිය (Energy) නොලැබේ. 3. මේද සහිත ආහාර (Pork and fat fish) දිරවීමට වැඩි කාලයක් ගත වන අතර, ශීතලෙන් පෙළෙන අයෙකුට ක්ෂණිකව උණුසුම ලබා දීමට ඒවා සුදුසු නොවේ. එබැවින්, ශරීර උෂ්ණත්වය ස්ථාවර කිරීමට සහ විජලනය (Dehydration) වළක්වා ගැනීමට උණුසුම් පානයන් ලබා දීම නිවැරදිම ක්‍රියාවයි.",
         "tags": [
             {
                 "sub_category": "Medical",
@@ -556,7 +556,7 @@
         "images": [
             "https://i.ibb.co/wrC63R2w/transistor.jpg"
         ],
-        "explanation": "",
+        "explanation": "මෙම සංකේතය මගින් නිරූපණය කරන්නේ Potentiometer එකකි. මෙහි ඇති 10k යන්නෙන් අදහස් වන්නේ එහි උපරිම Resistance අගය 10 kilo-ohms වන බවයි. අනෙකුත් විකල්ප වැරදි වීමට හේතු: Variable inductive reactor යනු Inductance වෙනස් කළ හැකි උපාංගයක් වන අතර එහි සංකේතය මීට වඩා වෙනස් වේ. Variable electrical heater යනු තාපය නිපදවන උපාංගයක් වන අතර එහි සංකේතය සාමාන්‍යයෙන් zigzag රේඛාවකින් නිරූපණය කෙරේ. Auto transformer යනු වෝල්ටීයතාවය වෙනස් කිරීමට භාවිතා කරන උපාංගයක් වන අතර එහි සංකේතය දඟරයක (coil) ස්වරූපයක් ගනී. එබැවින්, මෙම සංකේතය Potentiometer එකක් සඳහා වන සම්මත ඉලෙක්ට්‍රොනික සංකේතය වේ.",
         "tags": []
     },
     {
@@ -573,7 +573,7 @@
         "images": [
             "https://i.ibb.co/vC3YBjjy/zener.jpg"
         ],
-        "explanation": "",
+        "explanation": "මෙම රූප සටහනේ දැක්වෙන්නේ Zener diode එකක සංකේතයයි. Zener diode එකක් සාමාන්‍ය diode එකකින් වෙනස් වන්නේ එහි කැතෝඩය (cathode) දෙසට ඇති රේඛා දෙක 'Z' අකුරක හැඩයට නැමී තිබීමෙනි. අනෙකුත් විකල්ප විශ්ලේෂණය කරමු: 1. Silicon controlled rectifier (SCR) යනු පර්යන්ත තුනක් (gate, anode, cathode) සහිත උපාංගයකි. 2. Transistor යනු පර්යන්ත තුනක් (base, collector, emitter) සහිත උපාංගයකි. 3. Triac යනු පර්යන්ත තුනක් සහිත ද්වි-දිශානුගත (bidirectional) ස්විචයකි. මෙම සංකේතයේ ඇත්තේ පර්යන්ත දෙකක් පමණක් වන අතර, එහි ඇති සුවිශේෂී 'Z' හැඩැති රේඛා මගින් එය Zener diode එකක් බව පැහැදිලිව හඳුනාගත හැකිය.",
         "tags": []
     },
     {
@@ -612,7 +612,7 @@
         ],
         "correct_answer": "Bulkheads constructed of approved non-combustible materials but do not meet any of the requirements relative to smoke and flame nor limitations relative to temperature rise.",
         "images": [],
-        "explanation": "",
+        "explanation": "SOLAS (Safety of Life at Sea) සම්මුතියට අනුව නැව්වල ගිනි ආරක්ෂණ (Fire protection) සඳහා Bulkheads වර්ගීකරණය කර ඇත. මෙහිදී 'A' class සහ 'B' class Bulkheads සඳහා නිශ්චිත ගිනි ප්‍රතිරෝධී කාල සීමාවන් (Fire resistance time) සහ උෂ්ණත්ව සීමාවන් පවතී. නමුත් 'C' class Bulkheads යනු අනුමත නොවන දහනය නොවන ද්‍රව්‍යවලින් (Non-combustible materials) සාදා තිබුණද, ඒවාට ගින්නක් පැතිරීම වැළැක්වීම සඳහා වන Smoke and flame requirements හෝ Temperature rise limitations නොමැත. පළමු පිළිතුරු තුන මගින් විස්තර කරන්නේ 'B' class හෝ වෙනත් ගිනි ප්‍රතිරෝධී Bulkheads වල ලක්ෂණ වන අතර, 'C' class Bulkheads සඳහා එම කාල සීමාවන් අදාළ නොවේ.",
         "tags": [
             {
                 "sub_category": "Safety",
@@ -653,7 +653,7 @@
         ],
         "correct_answer": "Tell the person to sit down and lean forward with the head between the knees taking deep breaths.",
         "images": [],
-        "explanation": "",
+        "explanation": "Fainting (Syncope) යනු මොළයට රුධිරය ගමන් කිරීම තාවකාලිකව අඩුවීම නිසා සිදුවන සිහිසුන් වීමකි. මෙය වැළැක්වීම සඳහා හොඳම ක්‍රමය වන්නේ පුද්ගලයා වාඩි කරවා හිස දණහිස් අතරට පහත් කර තැබීමයි (Head between knees). මෙසේ කිරීමෙන් ගුරුත්වාකර්ෂණ බලය මගින් මොළයට රුධිරය ගලා යාම පහසු කරයි. අනෙක් විකල්ප වැරදි වන්නේ: 'Upstanding position' එකේ තබා ගැනීමෙන් රුධිර පීඩනය පහත වැටී තත්ත්වය නරක අතට හැරිය හැක. 'Sitting position' එකේ පමණක් සිටීමෙන් මොළයට රුධිරය ගලා යාම ප්‍රමාණවත් නොවිය හැක. 'Flexing leg muscles' යනු රුධිර සංසරණයට උදව් වුවත්, දැනටමත් ක්ලාන්ත ගතියක් දැනෙන පුද්ගලයෙකුට එය ප්‍රමාණවත් නොවන අතර, හිස පහත් කිරීම වඩාත් ආරක්ෂිත සහ ක්ෂණික ප්‍රතිකාරය වේ.",
         "tags": [
             {
                 "sub_category": "Medical",
@@ -677,7 +677,7 @@
         ],
         "correct_answer": "To prevent the steam and water in the boiler from discharging out through the feed line if the feed line fractures or a joint in the line blows.",
         "images": [],
-        "explanation": "",
+        "explanation": "මෙම ප්‍රශ්නයට අදාළ නිවැරදි පිළිතුර වන්නේ 'To prevent the steam and water in the boiler from discharging out through the feed line if the feed line fractures or a joint in the line blows' යන්නයි. මෙහිදී Non-return valve එකෙහි ප්‍රධාන කාර්යය වන්නේ Boiler එක තුළ පවතින අධික පීඩනය සහිත ජලය සහ වාෂ්ප, Feed line එකේ යම් බිඳීමක් (fracture) හෝ කාන්දුවක් සිදු වූ විට නැවත පිටතට පැමිණීම වැළැක්වීමයි. අනෙක් පිළිතුරු විශ්ලේෂණය කළහොත්: 1) නඩත්තු කටයුතු වැඩි කිරීම කිසිසේත්ම මෙහි අරමුණක් නොවේ. 2) Screw lift valve එක අලුත්වැඩියා කිරීමට Non-return valve එක පමණක් ප්‍රමාණවත් නොවන අතර එය ආරක්ෂිත ක්‍රමවේදයක් නොවේ. 3) Feed water flow එක පාලනය කිරීම සඳහා Screw lift valve එක භාවිතා කරන අතර Non-return valve එකෙහි කාර්යය වන්නේ ආරක්ෂාව (Safety) තහවුරු කිරීමයි.",
         "tags": []
     },
     {
@@ -692,7 +692,7 @@
         ],
         "correct_answer": "9-11.",
         "images": [],
-        "explanation": "",
+        "explanation": "Oil fired steam boiler එකක Boiler water treatment වලදී pH අගය පාලනය කිරීම ඉතා වැදගත් වේ. 1. pH අගය 7 ට වඩා අඩු නම් (Acidic), එය Boiler metal වල Corrosion ඇති කරයි. එබැවින් 4,5-7 හෝ 4,5 ට අඩු අගයන් වැරදිය. 2. pH අගය 7-9 අතර පැවතීම සාමාන්‍ය ජලයට සුදුසු වුවත්, Boiler water වලදී එය ප්‍රමාණවත් නොවේ. 3. නිවැරදි pH පරාසය 9-11 ලෙස පවත්වා ගැනීමෙන් Boiler water වල ඇති Alkalinity මගින් Corrosion වැළැක්වීමට සහ Protective magnetite layer එකක් නිර්මාණය කිරීමට උපකාරී වේ. එබැවින් 9-11 යනු නිවැරදි පිළිතුරයි.",
         "tags": [
             {
                 "sub_category": "Water",
@@ -776,7 +776,7 @@
         ],
         "correct_answer": "A leak of exhaust gas from a boiler or diesel engine exhaust.",
         "images": [],
-        "explanation": "",
+        "explanation": "“Rotten eggs” සුවඳ සාමාන්‍යයෙන් හඳුනාගනු ලබන්නේ Hydrogen Sulfide (H2S) වායුව නිසාය. නැවක Engine room එකේ upper casing ප්‍රදේශයේ මෙම සුවඳ දැනේ නම්, එයට ප්‍රධාන හේතුව වන්නේ ඉන්ධන දහනයේදී පිටවන Exhaust gas කාන්දුවීමයි. ඉන්ධනවල අඩංගු Sulfur දහනය වීමෙන් Sulfur Dioxide සහ සමහර අවස්ථාවලදී Hydrogen Sulfide වැනි වායු නිපදවේ. අනෙක් විකල්ප සලකා බලමු: 1. Refrigeration system එකේ කාන්දුවක් නම් සාමාන්‍යයෙන් Freon හෝ Ammonia සුවඳක් දැනේ. 2. Acetylene වායුවට ඇත්තේ සුදුළූණු වැනි සුවඳකි. 3. Fresh water evaporator එකේ ගැටලුවක් නම් සාමාන්‍යයෙන් එවැනි සුවඳක් ඇති නොවේ. එබැවින්, Exhaust gas කාන්දුවීම වඩාත් නිවැරදි පිළිතුර වේ.",
         "tags": [
             {
                 "sub_category": "Safety",
@@ -844,7 +844,7 @@
         ],
         "correct_answer": "Comparing input and output values against a documented standard.",
         "images": [],
-        "explanation": "",
+        "explanation": "Instrument calibration යනු මිනුම් උපකරණයක (Measuring instrument) නිරවද්‍යතාවය තහවුරු කර ගැනීම සඳහා සිදුකරන ක්‍රියාවලියකි. මෙහිදී උපකරණය මගින් ලබාදෙන අගය (Output), දන්නා නිවැරදි අගයක් (Standard/Reference) සමඟ සැසඳීම සිදු කරයි. අනෙක් විකල්ප වැරදි වන්නේ: 1. 'Turning gauge to an easy reading position' යනු උපකරණය සවිකිරීමේදී සිදුකරන කාර්යයක් මිස calibration නොවේ. 2. 'Comparing two instruments of the same type' යනු උපකරණ දෙකක් අතර සැසඳීමක් පමණි; එයින් එකක් හෝ වැරදි විය හැකි බැවින් එය නිවැරදි calibration ක්‍රමයක් නොවේ. 3. 'Adjusting size to fit process connection' යනු උපකරණය සවිකිරීමට අදාළ යාන්ත්‍රික කාර්යයක් පමණි. එබැවින්, 'Comparing input and output values against a documented standard' යනු නිවැරදිම පිළිතුරයි.",
         "tags": [
             {
                 "sub_category": "Instrumentation",
@@ -888,7 +888,7 @@
         ],
         "correct_answer": "Act according to instruction given in the fire plan.",
         "images": [],
-        "explanation": "",
+        "explanation": "නැවක ගින්නක් හටගත් විට අනුගමනය කළ යුතු නිවැරදිම ක්‍රියාමාර්ගය වන්නේ 'Fire Plan' එකෙහි දක්වා ඇති උපදෙස් අනුව කටයුතු කිරීමයි. අනෙක් විකල්ප වැරදි වීමට හේතු: 1. ගින්නක් සෙවීමට තනිව යාම (Start searching) අනතුරුදායක විය හැකි අතර එය පුහුණු කණ්ඩායමක කාර්යයකි. 2. සියලු දෙනා 'Safety centre' එකට රැස්වීම සැමවිටම අනිවාර්ය නොවන අතර, එය 'Muster list' එකේ දක්වා ඇති පරිදි සිදු විය යුතුය. 3. 'Fire pump' එක ක්‍රියාත්මක කිරීම වැදගත් වුවත්, එය කළ යුත්තේ 'Fire control plan' එකේ අනුපිළිවෙලට අනුව මිස තනිව තීරණය කර නොවේ. එබැවින්, නෞකාවේ ආරක්ෂාව සහ විනය පවත්වා ගැනීමට 'Fire plan' එක අනුගමනය කිරීම අනිවාර්ය වේ.",
         "tags": [
             {
                 "sub_category": "Firefighting",
@@ -912,7 +912,7 @@
         ],
         "correct_answer": "Water-tube boilers are more efficient and generally contain less water than fire tube boilers. They are prone to major damage when run dry during operation.",
         "images": [],
-        "explanation": "",
+        "explanation": "මෙම ප්‍රශ්නයට නිවැරදි පිළිතුර වන්නේ සිව්වන විකල්පයයි. මෙහිදී Water-tube boilers සහ Fire-tube boilers අතර වෙනස්කම් විශ්ලේෂණය කරමු. පළමු විකල්පය වැරදියි, මන්ද ඕනෑම බොයිලේරු වර්ගයකට Feedwater line එකෙහි Non-return valve එකක් අනිවාර්යයෙන්ම තිබිය යුතුය. දෙවන විකල්පය ද වැරදියි, මන්ද Water-tube boiler එකක ජලය අඩු වූ විට (Low water level) Burner එක ක්‍රියාත්මකව පැවතුනහොත් ඉතා ඉක්මනින් Tubes අධික උෂ්ණත්වයට පත්වී (Overheating) විනාශ විය හැක. තුන්වන විකල්පය වැරදියි, මන්ද Fire-tube boilers සාමාන්‍යයෙන් අඩු පීඩනයකදී (Low pressure) ක්‍රියාත්මක වන අතර, ඉහළ පීඩනයකදී (High pressure) ක්‍රියාත්මක වීමට වඩාත් සුදුසු වන්නේ Water-tube boilers වේ. සිව්වන විකල්පය නිවැරදියි, මන්ද Water-tube boilers වල ජල පරිමාව (Water capacity) අඩු බැවින් ඒවා ඉක්මනින් වාෂ්ප නිපදවීමට (High efficiency) සමත් වන අතර, ජලය නොමැතිව ක්‍රියාත්මක වුවහොත් (Running dry) Tubes ඉතා ඉක්මනින් විනාශ වීමේ අවදානමක් පවතී.",
         "tags": []
     },
     {
@@ -927,7 +927,7 @@
         ],
         "correct_answer": "In a clarifier only solids are removed from the oil, whereas in a purifier both solids and water are removed from the oil.",
         "images": [],
-        "explanation": "",
+        "explanation": "Centrifugal separators (centrifuges) මගින් තෙල් පිරිසිදු කිරීමේදී Purifier සහ Clarifier අතර ප්‍රධාන වෙනස වන්නේ ඒවායේ ක්‍රියාකාරීත්වයයි. Purifier එකක් මගින් තෙල්වල ඇති ජලය (water) සහ ඝන අපද්‍රව්‍ය (solids) යන දෙකම ඉවත් කරනු ලබයි. මෙහිදී 'Gravity disc' එකක් භාවිතා කරමින් ජලය සහ තෙල් වෙන් කිරීම සිදු කරයි. Clarifier එකක් යනු තෙල්වල ඇති ඝන අපද්‍රව්‍ය පමණක් ඉවත් කිරීමට නිර්මාණය කර ඇති උපකරණයකි. මෙහි ජලය පිටතට යාමට මාර්ගයක් නොමැති අතර, එය ප්‍රධාන වශයෙන් භාවිතා කරන්නේ තෙල්වල ජලය නොමැති අවස්ථාවලදී හෝ අවසාන පිරිසිදු කිරීමේ පියවරක් ලෙසය. අනෙක් පිළිතුරු වැරදි වන්නේ Clarifier එකක් ජලය ඉවත් නොකරන නිසාත්, Purifier එකක් ජලය සහ ඝන අපද්‍රව්‍ය යන දෙකම ඉවත් කරන නිසාත්ය.",
         "tags": [
             {
                 "sub_category": "Purifier",
@@ -975,7 +975,7 @@
         ],
         "correct_answer": "Maximum is 30 litre per nautical mile and total is 1/30 000 part of full cargo on the ballast voyage.",
         "images": [],
-        "explanation": "",
+        "explanation": "MARPOL Annex I රෙගුලාසි වලට අනුව, තෙල් සහිත අපද්‍රව්‍ය (oily mixtures) මුහුදට බැහැර කිරීමේදී දැඩි නීති පවතී. මෙහිදී 'Instantaneous rate of discharge' එක නාවික සැතපුමකට ලීටර් 30කට වඩා වැඩි නොවිය යුතුය. එසේම, තෙල් ටැංකි නෞකාවක (oil tanker) ballast voyage එකකදී මුළු බැහැර කරන ප්‍රමාණය පෙර ගෙන ගිය භාණ්ඩ ප්‍රමාණයෙන් (total cargo carried) 1/30,000 කොටසකට වඩා වැඩි නොවිය යුතුය. අනෙක් විකල්පයන් වැරදි වන්නේ ඒවායේ සඳහන් අනුපාතයන් MARPOL ප්‍රමිතීන්ට අනුකූල නොවන බැවිනි. විශේෂයෙන්ම, කිසිදු සීමාවක් නොමැති බව පැවසීම (අවසාන විකල්පය) සම්පූර්ණයෙන්ම වැරදිය, මන්ද ඕනෑම නෞකාවක් පරිසර දූෂණය වැළැක්වීම සඳහා මෙම නීතිවලට බැඳී සිටින බැවිනි.",
         "tags": [
             {
                 "sub_category": "Legislation",
@@ -1043,7 +1043,7 @@
         ],
         "correct_answer": "1 N/mm2.",
         "images": [],
-        "explanation": "",
+        "explanation": "International Shore Connection (ISC) එකක් යනු ගින්නක් නිවා දැමීම සඳහා නැවකට ගොඩබිමෙන් හෝ වෙනත් නැවකින් ජලය ලබා ගැනීමට භාවිතා කරන ප්‍රමිතිගත සම්බන්ධකයකි. SOLAS (Safety of Life at Sea) රෙගුලාසිවලට අනුව, මෙම සම්බන්ධකයේ සැලසුම සහ ද්‍රව්‍ය 1 N/mm2 (10 bar) ක අවම working pressure එකකට ඔරොත්තු දිය යුතුය. අනෙක් පිළිතුරු (0,1, 0,4, සහ 0,25 N/mm2) වැරදි වන්නේ ඒවා මෙම ආරක්ෂිත ප්‍රමිතියට වඩා අඩු අගයන් වන බැවිනි. ගිනි නිවීමේ පද්ධතිවලදී ඉහළ පීඩනයක් අවශ්‍ය වන බැවින්, 1 N/mm2 යනු අනිවාර්ය අවශ්‍යතාවයයි.",
         "tags": [
             {
                 "sub_category": "Firefighting",
@@ -1067,7 +1067,7 @@
         ],
         "correct_answer": "30 minutes.",
         "images": [],
-        "explanation": "",
+        "explanation": "SOLAS (Safety of Life at Sea) රෙගුලාසිවලට අනුව, නැවක ඇති Fire divisions වර්ගීකරණය කරනු ලබන්නේ ගින්නට ඔරොත්තු දෙන කාලය අනුවයි. 'A Class' divisions සාමාන්‍යයෙන් පැය 1ක් (මිනිත්තු 60ක්) හෝ ඊට වැඩි කාලයක් ගින්නට ඔරොත්තු දිය යුතුය. 'B Class' divisions යනු ගිනි නිවන පද්ධතිවලදී භාවිතා වන අතර, ඒවා අවම වශයෙන් මිනිත්තු 30ක කාලයක් සඳහා ගින්න පැතිරීම වැළැක්වීමට (preventing the passage of flame) සමත් විය යුතුය. එබැවින්, මිනිත්තු 15, 45 හෝ 60 යන පිළිතුරු වැරදි වන අතර, නිවැරදි පිළිතුර මිනිත්තු 30 වේ.",
         "tags": [
             {
                 "sub_category": "Firefighting",
@@ -1117,7 +1117,7 @@
         "images": [
             "https://i.ibb.co/bjtJW52s/epirb.jpg"
         ],
-        "explanation": "",
+        "explanation": "මෙම සංකේතය මගින් නිරූපණය කරන්නේ EPIRB (Emergency Position Indicating Radio Beacon) උපකරණයයි. මෙය නෞකාවක් අනතුරට ලක්වූ විට හෝ ගිලී යන විට ස්වයංක්‍රීයව හෝ අතින් ක්‍රියාත්මක වී චන්ද්‍රිකා හරහා නෞකාවේ පිහිටීම (Distress signal) සෙවුම් සහ ගලවා ගැනීමේ කණ්ඩායම් වෙත ලබා දෙන උපකරණයකි. අනෙක් විකල්පයන් සලකා බැලීමේදී: 'Flame detector' යනු ගින්නක් හඳුනාගන්නා සංවේදකයකි, 'Immersion suite' යනු සීතල ජලයේදී ශරීර උෂ්ණත්වය ආරක්ෂා කර ගැනීමට අඳින ඇඳුමකි, සහ 'Open hatches' යනු නැවේ තට්ටුවේ ඇති විවෘත දොරවල් හෝ හැච් (Hatches) පිළිබඳ අනතුරු ඇඟවීමකි. මෙම සංකේතය IMO (International Maritime Organization) මගින් නියම කර ඇති ජීවිතාරක්ෂක උපකරණ (Life-saving appliances) සංකේත අතර පවතින අතර, එය නිවැරදිව හඳුනා ගැනීම නාවික ආරක්ෂාව සඳහා අත්‍යවශ්‍ය වේ.",
         "tags": []
     },
     {
@@ -1132,7 +1132,7 @@
         ],
         "correct_answer": "1 min.",
         "images": [],
-        "explanation": "",
+        "explanation": "LSA Code (Life-Saving Appliance Code) රෙගුලාසිවලට අනුව, Hand flare එකක් අවම වශයෙන් මිනිත්තු 1ක (1 minute) කාලයක් දැවිය යුතුය. මෙහිදී අනෙකුත් විකල්ප වැරදි වන්නේ ඒවා LSA Code හි නියමිත ප්‍රමිතීන්ට අනුකූල නොවන බැවිනි. 30 seconds යනු බොහෝ විට Smoke signal හෝ වෙනත් උපකරණ සඳහා අදාළ විය හැකි නමුත් Hand flare සඳහා නියමිත අවම කාලය 1 minute වේ. 5 minutes හෝ 10 minutes යනු Hand flare එකක් සඳහා ප්‍රායෝගිකව වැඩි කාලයක් වන අතර, නීතිමය අවශ්‍යතාවය වන්නේ අවම වශයෙන් 1 minute කාලයක් අඛණ්ඩව ආලෝකය ලබා දීමයි.",
         "tags": [
             {
                 "sub_category": "Safety",
@@ -1156,7 +1156,7 @@
         ],
         "correct_answer": "All passenger ships, all cargo ships of 500 GRT or above.",
         "images": [],
-        "explanation": "",
+        "explanation": "ISM Code (International Safety Management Code) යනු නෞකාවක ආරක්ෂාව සහ පරිසර දූෂණය වැළැක්වීම සඳහා අනුගමනය කළ යුතු ජාත්‍යන්තර නීති මාලාවකි. මෙහි අදාළත්වය තීරණය වන්නේ SOLAS (Safety of Life at Sea) සම්මුතියට අනුවය. පළමු පිළිතුර (Only tankers and Ro-Ros) වැරදියි, මන්ද ISM Code එක සියලුම වර්ගයේ විශාල නැව් සඳහා අදාළ වන බැවිනි. දෙවන පිළිතුර (All craft above 300 GRT) වැරදියි, මන්ද 300 GRT යනු ISPS Code හෝ වෙනත් නීති සඳහා අදාළ විය හැකි සීමාවක් වුවත්, ISM Code සඳහා එය අදාළ නොවේ. සිව්වන පිළිතුර (Only passenger vessels) වැරදියි, මන්ද එය භාණ්ඩ ප්‍රවාහන නැව් (Cargo ships) සඳහා ද අනිවාර්ය වන බැවිනි. නිවැරදි පිළිතුර වන්නේ 'All passenger ships, all cargo ships of 500 GRT or above' යන්නයි. මෙයට මගී නෞකා සියල්ල සහ දළ දේශීය ටොන් ප්‍රමාණය (Gross Tonnage - GRT) 500 හෝ ඊට වැඩි සියලුම භාණ්ඩ ප්‍රවාහන නෞකා අයත් වේ.",
         "tags": [
             {
                 "sub_category": "Legislation",
@@ -1180,7 +1180,7 @@
         ],
         "correct_answer": "When it is fitted with a guard or similar device which prevents foreseeable contact between a person, his clothing or items held in his hands, whilst it is in operation.",
         "images": [],
-        "explanation": "",
+        "explanation": "Machine guarding සම්බන්ධව 'securely guarded' යන නිර්වචනය මගින් අදහස් කරන්නේ යන්ත්‍රයක් ක්‍රියාත්මක වන විට (in operation) පුද්ගලයෙකුගේ ශරීරය, ඇඳුම් පැළඳුම් හෝ අතේ ඇති උපකරණ චලනය වන කොටස් (moving parts) සමඟ ගැටීම වැළැක්වීමයි. පළමු පිළිතුර මෙය නිවැරදිව විස්තර කරයි. දෙවන පිළිතුර වැරදියි, මන්ද පුහුණුව (training) යනු ආරක්ෂිත ක්‍රමවේදයක් වුවද, එය 'securely guarded' යන තාක්ෂණික නිර්වචනයට අයත් නොවේ. තුන්වන පිළිතුර වැරදියි, මන්ද 'isolation' යනු නඩත්තු කටයුතු (maintenance) සඳහා යන්ත්‍රයක් විසන්ධි කිරීමයි, එය ආරක්ෂිත ආවරණ (guarding) ගැන සඳහන් නොකරයි. හතරවන පිළිතුර වැරදියි, මන්ද යන්ත්‍රයක් නිදහසේ භ්‍රමණය වීම (rotate freely) අනතුරුදායක විය හැකි අතර, එය ආරක්ෂිත ආවරණයක් තිබීම ලෙස නොසැලකේ.",
         "tags": [
             {
                 "sub_category": "Safety",
@@ -1227,7 +1227,7 @@
         ],
         "correct_answer": "Wear skin protection.",
         "images": [],
-        "explanation": "",
+        "explanation": "ඖෂධ (drugs) හෝ රසායනික ද්‍රව්‍ය හැසිරවීමේදී ආරක්ෂාව ඉතා වැදගත් වේ. 'Wear skin protection' යනු නිවැරදි පිළිතුරයි, මන්ද සම හරහා විෂ ද්‍රව්‍ය ශරීරගත වීම වැළැක්වීමට PPE (Personal Protective Equipment) භාවිතය අත්‍යවශ්‍ය වේ. අනෙක් විකල්ප දෙක වැරදියි: 'Briefly inhale powders, fumes or vapours' කිරීම මගින් ශ්වසන පද්ධතියට හානි සිදුවිය හැකි අතර විෂ සහිත ද්‍රව්‍යයක් නම් මරණීය විය හැක. 'Test out the potency of the drug' යනු කිසිසේත්ම නොකළ යුතු භයානක ක්‍රියාවකි, එයින් මත්ද්‍රව්‍ය හෝ ඖෂධවල බලපෑමට ලක්වී ජීවිත අවදානමක් ඇති විය හැක. එබැවින්, සැමවිටම ආරක්ෂිත ක්‍රමවේද අනුගමනය කරමින් සම ආරක්ෂා කර ගැනීම අනිවාර්ය වේ.",
         "tags": [
             {
                 "sub_category": "Medical",
@@ -1275,7 +1275,7 @@
         ],
         "correct_answer": "Relatively non-linear characteristic.",
         "images": [],
-        "explanation": "",
+        "explanation": "Thermistor යනු උෂ්ණත්වය වෙනස් වන විට එහි Resistance අගය වෙනස් වන Semiconductor උපාංගයකි. Positive Temperature Coefficient (PTC) thermistor එකකදී උෂ්ණත්වය වැඩි වන විට Resistance අගය වැඩි වේ. මෙහිදී Resistance සහ Temperature අතර සම්බන්ධය කිසිවිටෙකත් සරල රේඛීය (Linear) නොවේ. එය වක්‍ර හැඩයක් ගන්නා බැවින් 'Relatively non-linear characteristic' ලෙස හැඳින්වේ. අනෙක් පිළිතුරු වැරදි වන්නේ: 'Relatively linear characteristic' යනු RTD (Resistance Temperature Detector) වැනි උපාංගවල ලක්ෂණයකි. Thermistor මගින් ඉතා නිවැරදි (Accurate) මිනුම් ලබාගත හැකි අතර ඒවායේ Reliability ඉතා ඉහළ මට්ටමක පවතී. එබැවින්, non-linear characteristic යනු මෙහි නිවැරදි පිළිතුරයි.",
         "tags": [
             {
                 "sub_category": "Instrumentation",
@@ -1323,7 +1323,7 @@
         ],
         "correct_answer": "The seal rings are brittle and can be easily chipped or damaged.",
         "images": [],
-        "explanation": "",
+        "explanation": "Mechanical seal එකක ඇති Carbon සහ Ceramic seal faces ඉතාමත් brittle (භංගුර) ස්වභාවයක් ගනී. මේවා ඉතා තදින් තද කිරීමේදී හෝ වැරදි ලෙස හැසිරවීමේදී (mishandling) ඉතා පහසුවෙන් ඉරිතැලීම් හෝ කැබලි කැඩී යාම (chipping) සිදුවේ. අනෙක් පිළිතුරු සලකා බලමු: 1) Seal rings hard වුවත් ඒවා shaft එක මත සවි කරන්නේ නිශ්චිත ස්ථානයක බැවින් shaft එක score වීමට ඉඩක් නැත. 2) Rubber O-rings වලට හානි විය හැකි වුවත්, seal faces වලට හානි වීම වඩාත් බරපතල සහ බහුලව සිදුවන ගැටලුවයි. 3) Spring සහ bellows සාමාන්‍යයෙන් ලෝහමය වන අතර ඒවාට හානි වීම seal faces වලට හානි වීමට වඩා අඩු සම්භාවිතාවක් ඇත. එබැවින්, brittle ස්වභාවය නිසා seal rings වලට හානි වීම වඩාත් නිවැරදි පිළිතුර වේ.",
         "tags": [
             {
                 "sub_category": "Pump",
@@ -1414,7 +1414,7 @@
         ],
         "correct_answer": "Fabricate a conical guide from tin plate or similar with the large diameter just bigger than the compressor piston so the rings can be eased open for fitting.",
         "images": [],
-        "explanation": "",
+        "explanation": "Piston rings සවිකිරීමේදී හෝ ඉවත් කිරීමේදී ඒවායේ tension එක නිසා rings වලට හානි සිදුවිය හැකිය. මෙහිදී නිවැරදි ක්‍රමය වන්නේ Conical guide එකක් භාවිතා කිරීමයි. Tin plate හෝ ඒ හා සමාන ද්‍රව්‍යයකින් සාදාගත් conical guide එකක් මගින් ring එකේ දෙපස ඒකාකාරව විහිදුවා piston grooves වලට හානි නොවන පරිදි සවිකළ හැකිය. අනෙක් ක්‍රම විශ්ලේෂණය කළහොත්: 1) Screw drivers භාවිතා කිරීම (Levering) මගින් ring එකේ හෝ piston groove එකේ සීරීම් (Scratches) ඇතිවිය හැකි අතර එය වැරදි ක්‍රමයකි. 2) Thumbs භාවිතා කිරීමෙන් ring එකේ tension එක නිසා තුවාල සිදුවිය හැකි අතර ring එක විකෘති වීමට (Distortion) ඉඩ ඇත. 3) String හෝ rags භාවිතා කිරීමෙන් ring එකේ tension එක පාලනය කිරීම අපහසු වන අතර එය ආරක්ෂිත ක්‍රමයක් නොවේ. එබැවින්, conical guide එකක් භාවිතා කිරීම වඩාත් ආරක්ෂිත සහ තාක්ෂණිකව නිවැරදි ක්‍රමය වේ.",
         "tags": [
             {
                 "sub_category": "Maintenance",
@@ -1570,7 +1570,7 @@
         ],
         "correct_answer": "Use ultrasound equipment.",
         "images": [],
-        "explanation": "",
+        "explanation": "Steam drum එකක shell thickness එක පරීක්ෂා කිරීම සඳහා වඩාත්ම සුදුසු සහ නිරවද්‍ය ක්‍රමය වන්නේ Ultrasonic Testing (UT) වේ. මෙහිදී Ultrasonic thickness gauge එකක් භාවිතා කරමින් කිසිදු හානියක් නොමැතිව (Non-destructive testing) ලෝහයේ ඝනකම මැනිය හැක. අනෙක් විකල්පයන් සලකා බලමු: 1. Dye penetrant tester සහ Magnetic particle inspection යනු මතුපිට ඇති ඉරිතැලීම් (surface cracks) හඳුනා ගැනීමට මිස ඝනකම මැනීමට නොවේ. 2. Drill a test hole යනු පැරණි ක්‍රමයක් වන අතර, එයින් boiler shell එකට හානි සිදුවන අතර පසුව එය නැවත වෑල්ඩින් කර මුද්‍රා තැබීම (sealing) අමතර අවදානමක් සහ වැඩක් වේ. එබැවින් Ultrasonic equipment භාවිතා කිරීම වඩාත් ආරක්ෂිත සහ කාර්යක්ෂම වේ.",
         "tags": [
             {
                 "sub_category": "Maintenance",
@@ -1590,7 +1590,7 @@
         ],
         "correct_answer": "The capacity of the safety valve to relieve pressure.",
         "images": [],
-        "explanation": "",
+        "explanation": "Accumulation test එකක් සිදු කරන්නේ Boiler එකක ඇති Safety valve එකේ ධාරිතාවය (Capacity) ප්‍රමාණවත් දැයි පරීක්ෂා කිරීමටයි. මෙහිදී Boiler එකේ උපරිම වාෂ්ප උත්පාදන වේගයකදී (Maximum evaporation rate), Safety valve එක මගින් Boiler පීඩනය (Boiler pressure) නියමිත සීමාවට වඩා වැඩි නොවී පාලනය කළ හැකිද යන්න තහවුරු කර ගනී. අනෙක් විකල්ප වැරදි වන්නේ: 1. Boiler එකට ජලය පිරවීම පරීක්ෂා කිරීම Accumulation test එකේ අරමුණ නොවේ. 2. Boiler එකේ වාෂ්ප උත්පාදන වේගය (Steam generation rate) මැනීම සඳහා වෙනත් පරීක්ෂණ සිදු කෙරේ. 4. Boiler එක පීඩනයට පත්වන කාලය (Time to reach operating pressure) යනු Boiler එකේ කාර්යක්ෂමතාවය පිළිබඳ කරුණකි, එය Safety valve එකේ ක්‍රියාකාරිත්වය නොවේ.",
         "tags": []
     },
     {
@@ -1605,7 +1605,7 @@
         ],
         "correct_answer": "Silica gel.",
         "images": [],
-        "explanation": "",
+        "explanation": "Dry lay up ක්‍රියාවලියේදී බොයිලේරු ඇතුළත තෙතමනය ඉවත් කර වියළි වාතාවරණයක් පවත්වා ගැනීම අත්‍යවශ්‍ය වේ. Silica gel යනු විශිෂ්ට Desiccant එකක් වන අතර එය වාතයේ ඇති තෙතමනය අවශෝෂණය කරගැනීමට භාවිතා කරයි. අනෙක් විකල්පයන් සලකා බලමු: Hydrazine යනු Wet lay up ක්‍රියාවලියේදී Oxygen scavenger එකක් ලෙස භාවිතා කරන රසායනිකයකි. Sodium hydroxide යනු බොයිලේරු ජලයේ pH අගය පාලනය කිරීමට භාවිතා කරන Alkaline ද්‍රව්‍යයකි. Calcium phosphate යනු ජල පිරිපහදුවේදී භාවිතා වන රසායනිකයකි. එබැවින්, වියළි වාතාවරණයක් පවත්වා ගැනීමට සුදුසුම ද්‍රව්‍යය Silica gel වේ.",
         "tags": [
             {
                 "sub_category": "Maintenance",
@@ -1649,7 +1649,7 @@
         ],
         "correct_answer": "To protect the piston in the hydraulic system from possible impact damage as it may reach the end of its stroke.",
         "images": [],
-        "explanation": "",
+        "explanation": "Deadweight tester එකක් භාවිතා කරන විට, පීඩනය මැනීම සඳහා බර (weights) පිස්ටනය මත තබා ඇත. ඔබ පීඩනය මුදා නොහැර බර ඉවත් කළහොත්, පිස්ටනය මත ඇති බලය හදිසියේම අඩු වේ. එවිට හයිඩ්‍රොලික් පද්ධතියේ පීඩනය නිසා පිස්ටනය ඉහළට වේගයෙන් තල්ලු වී සිලින්ඩරයේ ඉහළ කෙළවරේ (end of its stroke) ගැටීමට ඉඩ ඇත. මෙය පිස්ටනයට හෝ සිලින්ඩරයට යාන්ත්‍රික හානි (impact damage) සිදු කළ හැකිය. අනෙක් විකල්පයන් වන pressure gauge, balance system හෝ pump වලට සිදුවන හානි ප්‍රධාන හේතුව නොවේ, මන්ද පද්ධතියේ පීඩනය මුදා හැරීමෙන් මෙම යාන්ත්‍රික ගැටුම වළක්වා ගැනීම වඩාත් වැදගත් වන බැවිනි.",
         "tags": [
             {
                 "sub_category": "Instrumentation",
@@ -1697,7 +1697,7 @@
         ],
         "correct_answer": "The coalescer module is saturated and requires renewal.",
         "images": [],
-        "explanation": "",
+        "explanation": "Instrument air පද්ධතියක පිරිසිදුකම ඉතා වැදගත් වේ. මෙහිදී Coalescer filter මගින් වාතයේ ඇති තෙල් (oil) සහ තෙතමනය වෙන් කරනු ලබයි. Coalescer එකක් යනු තෙල් බිඳිති එකතු කර ඉවත් කරන පෙරහනකි. එය සන්තෘප්ත (saturated) වූ විට තවදුරටත් තෙල් රඳවා ගැනීමට නොහැකි වී පද්ධතියට තෙල් කාන්දු වේ. අනෙක් පිළිතුරු විශ්ලේෂණය කළහොත්: Drier section එකේ ගැටලුවක් ඇත්නම් සිදුවන්නේ වාතයේ තෙතමනය වැඩි වීමයි. Compressor piston rings දිරාපත් වීමෙන් තෙල් වැඩිපුර වාතයට එකතු විය හැකි වුවත්, එය කෙලින්ම instrumentation air system එකේ අවසාන පෙරහන් වලට තෙල් යාමට ප්‍රධාන හේතුව ලෙස නොසැලකේ, මන්ද පෙරහන් පද්ධතිය මගින් එය පාලනය විය යුතු බැවිනි. Particle removal module එක choked වීමෙන් වාතයේ පීඩනය අඩු වේ (pressure drop) මිස තෙල් කාන්දු වීමක් සිදු නොවේ. එබැවින් Coalescer module එක අලුත් කිරීම නිවැරදිම පිළියම වේ.",
         "tags": [
             {
                 "sub_category": "Controls",
@@ -1721,7 +1721,7 @@
         ],
         "correct_answer": "1 000 Volts AC or 1 500 Volts DC.",
         "images": [],
-        "explanation": "",
+        "explanation": "ජාත්‍යන්තර ප්‍රමිතීන්ට අනුව (International Standards - IEC), High Voltage (HV) ලෙස වර්ගීකරණය කරනු ලබන්නේ 1 000 Volts AC (RMS) ට වඩා වැඩි හෝ 1 500 Volts DC ට වඩා වැඩි විද්‍යුත් පද්ධතියකි. අනෙකුත් පිළිතුරු වැරදි වීමට හේතු: 440 Volts යනු සාමාන්‍යයෙන් නෞකාවල භාවිතා වන Low Voltage (LV) පද්ධතියකි. 750 Volts DC යනු වැරදි අගයකි. 33 000 Volts යනු ඉතා ඉහළ වෝල්ටීයතාවයක් වන අතර එය High Voltage නිර්වචනය සඳහා වන අවම සීමාව නොවේ. එබැවින්, නිවැරදි පිළිතුර 1 000 Volts AC හෝ 1 500 Volts DC වේ.",
         "tags": [
             {
                 "sub_category": "Electrical",
@@ -1765,7 +1765,7 @@
         ],
         "correct_answer": "My vessel has lost containers with dangerous goods of IMDG Class ___ in position ___.",
         "images": [],
-        "explanation": "",
+        "explanation": "නැවකින් භයානක භාණ්ඩ (Dangerous Goods) අඩංගු කන්ටේනර් මුහුදට වැටුණු විට, ඒ පිළිබඳව වෙරළබඩ බලධාරීන්ට හෝ අදාළ පාර්ශ්වයන්ට දැනුම් දීමේදී අත්‍යවශ්‍ය තොරතුරු දෙකක් අඩංගු විය යුතුය. පළමුවැන්න එම භාණ්ඩවල වර්ගය හෙවත් IMDG Class එක වන අතර, දෙවැන්න එම සිදුවීම සිදුවූ නිශ්චිත ස්ථානය (Position) වේ. අනෙක් විකල්පයන්හි මෙම තොරතුරු දෙකම එකවර අඩංගු නොවන බැවින් ඒවා අසම්පූර්ණ වේ. නිවැරදි වාර්තා කිරීමේ ක්‍රමවේදය (Standard Marine Communication Phrases - SMCP) අනුව, අනතුරකදී හෝ හදිසි අවස්ථාවකදී නිශ්චිත තොරතුරු ලබා දීම අනිවාර්ය වේ.",
         "tags": [
             {
                 "sub_category": "Cargo",
@@ -1789,7 +1789,7 @@
         ],
         "correct_answer": "Emergency Position Indicating Radio Beacon.",
         "images": [],
-        "explanation": "",
+        "explanation": "EPIRB යනු GMDSS (Global Maritime Distress and Safety System) පද්ධතියේ අත්‍යවශ්‍ය අංගයකි. මෙහි නිවැරදි අර්ථය වන්නේ 'Emergency Position Indicating Radio Beacon' යන්නයි. අනෙකුත් විකල්පයන් වැරදි වීමට හේතු: 1) 'Electronic Purpose If Rescue Begins' යනු තාක්ෂණික වශයෙන් වැරදි අර්ථ දැක්වීමකි. 2) 'Emergency Position Indication Radio Buoy' යන්නෙහි 'Buoy' යන වචනය භාවිතා වුවද, නිල නාමය වන්නේ 'Beacon' යන්නයි. 3) 'Electronic Indication Radar Buoy' යනු EPIRB සඳහා භාවිතා වන නිවැරදි නාමය නොවේ. EPIRB මගින් හදිසි අවස්ථාවකදී චන්ද්‍රිකා හරහා නෞකාව හෝ පුද්ගලයා සිටින ස්ථානය (Position) පිළිබඳ සංඥා නිකුත් කරන බැවින්, 'Indicating Radio Beacon' යන පදය වඩාත් නිවැරදි වේ.",
         "tags": [
             {
                 "sub_category": "Safety",
@@ -1812,7 +1812,7 @@
         ],
         "correct_answer": "Should be secured before working from it.",
         "images": [],
-        "explanation": "",
+        "explanation": "නැවක හෝ ඕනෑම කාර්මික පරිසරයක Portable ladder එකක් භාවිතා කිරීමේදී ආරක්ෂාව ඉතා වැදගත් වේ. මෙහිදී 'Should be secured before working from it' යන්න නිවැරදි වන්නේ, ඉණිමඟ භාවිතා කිරීමට පෙර එය ලිස්සා යාම හෝ පෙරලීම වැළැක්වීම සඳහා ස්ථාවරව සවි කිරීම (Securing) අනිවාර්ය වන බැවිනි. 'It doesn’t matter' යන්න වැරදියි, මන්ද එය බරපතල අනතුරු වලට මග පාදයි. 'Should be secured after working from it' යන්න වැරදියි, මන්ද ඉණිමඟ භාවිතා කිරීමෙන් පසු එය සවි කිරීමෙන් කිසිදු ආරක්ෂාවක් නොලැබෙන අතර, අනතුර සිදුවිය යුත්තේ ඉණිමඟ මත වැඩ කරන අතරතුරදීය. එබැවින්, වැඩ ආරම්භ කිරීමට පෙර ඉණිමඟ ස්ථාවර කිරීම (Securing) අත්‍යවශ්‍ය වේ.",
         "tags": [
             {
                 "sub_category": "Safety",

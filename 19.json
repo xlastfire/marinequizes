@@ -10,7 +10,7 @@
         ],
         "correct_answer": "It satisfies the SOLAS (and other) requirement for the ship safety.",
         "images": [],
-        "explanation": "",
+        "explanation": "නැවක Emergency generator එකක් තිබීම අනිවාර්ය වන්නේ SOLAS (Safety of Life at Sea) රෙගුලාසි වලට අනුව නැවේ ආරක්ෂාව තහවුරු කිරීම සඳහාය. ප්‍රධාන විදුලි ජනක යන්ත්‍ර (Main generators) අක්‍රිය වූ විට හෝ හදිසි අවස්ථාවකදී නැවේ අත්‍යවශ්‍ය පද්ධති (Emergency lighting, steering gear, fire pumps, communication equipment) ක්‍රියාත්මක කිරීම සඳහා මෙය අත්‍යවශ්‍ය වේ. අනෙක් පිළිතුරු වැරදි වන්නේ: 1. Main diesel generator අලුත්වැඩියා කිරීම සඳහා Emergency generator එකක් භාවිතා නොකරන අතර, ඒ සඳහා වෙනම Auxiliary generator එකක් භාවිතා කරයි. 2. Emergency generator එකක් කිසිවිටෙකත් Main generator එක සමඟ Load sharing සඳහා භාවිතා නොකරයි; එය ස්වාධීන පද්ධතියකි.",
         "tags": [
             {
                 "sub_category": "Electrical",
@@ -33,7 +33,7 @@
         ],
         "correct_answer": "Reefer cannot be used to reach the desired temperature, cargo of a reefer container has to be brought to the desired temperature prior to loading.",
         "images": [],
-        "explanation": "",
+        "explanation": "Reefer container එකක ප්‍රධාන කාර්යය වන්නේ පටවන ලද භාණ්ඩයේ (cargo) උෂ්ණත්වය පවත්වා ගැනීම (maintain) මිස, එම භාණ්ඩයේ උෂ්ණත්වය අඩු කිරීම (pull down) නොවේ. පළමු පිළිතුර නිවැරදි වන්නේ, Reefer unit එකකට විශාල තාප ප්‍රමාණයක් ඉවත් කර භාණ්ඩය සිසිල් කිරීමට තරම් ධාරිතාවක් නොමැති බැවිනි. දෙවන පිළිතුර වැරදියි, මන්ද precooling නොකළ පමණින් භාණ්ඩය වහාම නරක් නොවන නමුත්, එය Reefer unit එක මත අනවශ්‍ය බරක් පටවයි. තුන්වන පිළිතුර වැරදියි, මන්ද ඉන්ධන ඉතිරි කිරීම ප්‍රධාන අරමුණ නොව, භාණ්ඩයේ ගුණාත්මකභාවය ආරක්ෂා කිරීම ප්‍රධාන අරමුණ වන බැවිනි.",
         "tags": [
             {
                 "sub_category": "HVAC",
@@ -55,7 +55,7 @@
         ],
         "correct_answer": "The generator, placed on one side of the container, blows air into the container.",
         "images": [],
-        "explanation": "",
+        "explanation": "Reefer container එකක ක්‍රියාකාරිත්වය සරලව පැහැදිලි කළහොත්, එහි එක් පැත්තක (සාමාන්‍යයෙන් ඉදිරිපස) Refrigeration Unit එකක් සවි කර ඇත. මෙම Unit එක මගින් container එක තුළ ඇති වාතය සිසිල් කර, එය container එක තුළ සංසරණය (circulate) කරනු ලබයි. මෙහිදී වාතය බිම ඇති T-shaped floor හරහා ගමන් කර භාණ්ඩ අතරින් ඉහළට පැමිණ නැවත Unit එක වෙත යයි. දෙවන පිළිතුර වැරදියි, මන්ද Reefer container එකක සාමාන්‍යයෙන් ඇත්තේ එක් Refrigeration Unit එකක් පමණි. Generator දෙකක් භාවිතා කිරීම ප්‍රායෝගික නොවන අතර එය සැලසුම් කර ඇත්තේ එක් ඒකකයකින් කාර්යක්ෂමව වාතය සංසරණය වන පරිදිය.",
         "tags": [
             {
                 "sub_category": "HVAC",
@@ -77,7 +77,7 @@
         ],
         "correct_answer": "Low quantity of refrigerant in evaporator.",
         "images": [],
-        "explanation": "",
+        "explanation": "Reefer system එකක Superheat යනු Evaporator එකේ අවසාන කොටසේදී ද්‍රව තත්ත්වයේ පවතින Refrigerant සියල්ල වාෂ්ප වී, එම වාෂ්පයේ උෂ්ණත්වය එහි Saturation temperature එකට වඩා ඉහළ යාමයි. මෙයට ප්‍රධාන හේතුව වන්නේ Evaporator එක තුළට ලැබෙන Refrigerant ප්‍රමාණය අඩු වීමයි (Low quantity of refrigerant). මෙවිට Expansion valve එක හරහා ලැබෙන Refrigerant ප්‍රමාණය ප්‍රමාණවත් නොවන නිසා, Evaporator එකේ ඉතිරි කොටසෙහි වාෂ්පය තවදුරටත් රත් වේ. දෙවන පිළිතුර වැරදියි, මන්ද Too much refrigerant තිබීම නිසා සාමාන්‍යයෙන් සිදුවන්නේ Liquid slugging හෝ Compressor එකට හානි සිදුවීම මිස Superheat වැඩි වීම නොවේ.",
         "tags": [
             {
                 "sub_category": "HVAC",
@@ -97,7 +97,7 @@
         ],
         "correct_answer": "CO2 extinguisher.",
         "images": [],
-        "explanation": "",
+        "explanation": "විදුලි උපකරණවල ඇතිවන ගින්නක් (Electrical fire) නිවා දැමීමේදී ඉතා වැදගත් වන්නේ විදුලිය සන්නයනය නොකරන (Non-conductive) මාධ්‍යයක් භාවිතා කිරීමයි. 1. CO2 extinguisher: මෙය විදුලි ගින්නක් සඳහා හොඳම තේරීමයි. එය වායුවක් බැවින් විදුලිය සන්නයනය නොකරන අතර ගින්න නිවා දැමීමෙන් පසු කිසිදු අපද්‍රව්‍යයක් ඉතිරි නොකරයි. 2. Dry powder extinguisher: මෙයද විදුලි ගින්නක් සඳහා සුදුසු වේ. මෙහි ඇති කුඩු (Powder) විදුලිය සන්නයනය නොකරන අතර ගින්න නිවා දැමීමට උපකාරී වේ. 3. Water extinguisher: මෙය කිසිවිටෙකත් විදුලි ගින්නක් සඳහා භාවිතා නොකළ යුතුය. ජලය විදුලිය හොඳින් සන්නයනය කරන බැවින් එය භාවිතා කිරීමෙන් ගින්න නිවන පුද්ගලයාට විදුලි සැර වැදීමේ (Electric shock) දැඩි අවදානමක් ඇත. 4. Foam extinguisher: මෙය ද්‍රව ගින්නක් (Liquid fire) සඳහා සුදුසු වුවද, මෙහි ජලය අඩංගු බැවින් විදුලි ගින්නක් සඳහා භාවිතා කිරීම අනතුරුදායකය. එබැවින් නිවැරදි පිළිතුරු වන්නේ CO2 සහ Dry powder extinguisher වේ.",
         "tags": [
             {
                 "sub_category": "Firefighting",
@@ -120,7 +120,7 @@
         ],
         "correct_answer": "Serial number, stowage position, set point, ventilation position, humidity set point, supply temperature, return temperature, active alarms, visual damages of refrigerated plant.",
         "images": [],
-        "explanation": "",
+        "explanation": "Reefer container එකක් loading කිරීමෙන් පසු එහි ආරක්ෂාව සහ භාණ්ඩයේ ගුණාත්මකභාවය තහවුරු කර ගැනීම සඳහා නිවැරදි පරාමිතීන් පරීක්ෂා කිරීම අත්‍යවශ්‍ය වේ. පළමු පිළිතුර නිවැරදි වන්නේ එයට අදාළ සියලුම අත්‍යවශ්‍ය කරුණු ඇතුළත් වන බැවිනි. Serial number සහ stowage position මගින් භාණ්ඩය නිවැරදි ස්ථානයේ ඇති බව තහවුරු කරයි. Set point, ventilation position සහ humidity set point මගින් භාණ්ඩයට අවශ්‍ය පරිසරය සකසා ඇති බව පරීක්ෂා කෙරේ. Supply temperature සහ return temperature මගින් සිසිලන පද්ධතියේ කාර්යක්ෂමතාවයත්, active alarms මගින් පද්ධතියේ දෝෂ පවතිනවාද යන්නත්, visual damages මගින් භෞතික හානි සිදුවී ඇත්ද යන්නත් තහවුරු කරයි. දෙවන පිළිතුරේ ඇති gas level, compressor current වැනි දේ සාමාන්‍යයෙන් පරීක්ෂා කරන්නේ තාක්ෂණික දෝෂයකදී මිස loading කිරීමෙන් පසු සාමාන්‍ය පරීක්ෂාවකදී නොවේ. තුන්වන පිළිතුර ඉතා සීමිත බැවින් එය අසම්පූර්ණ වේ.",
         "tags": [
             {
                 "sub_category": "HVAC",
@@ -143,7 +143,7 @@
         ],
         "correct_answer": "Before use, the gloves should be inspected, paying attention to the absence of mechanical damage and fill gloves with hot fresh water.",
         "images": [],
-        "explanation": "",
+        "explanation": "Dielectric gloves (Insulating gloves) වල ආරක්ෂාව තහවුරු කර ගැනීම අත්‍යවශ්‍ය වේ. පළමු පිළිතුර නිවැරදි වන්නේ, gloves වල සිදුරු (punctures) හෝ හානි පවතිනවාදැයි පරීක්ෂා කිරීමට ඒවා උණුසුම් ජලයෙන් පුරවා පීඩනය යෙදීම මගින් වාතය හෝ ජලය කාන්දු වේදැයි බැලිය හැකි බැවිනි. දෙවන පිළිතුර වැරදියි, මන්ද නිෂ්පාදකයාගේ 'test stamp' එක තිබුණද, භාවිතයට පෙර සෑම විටම දෘශ්‍ය පරීක්ෂාවක් (visual inspection) සහ කාන්දු පරීක්ෂාවක් සිදු කළ යුතු බැවිනි. තුන්වන පිළිතුරේ සඳහන් වන 'twisting the gloves' ක්‍රමය මගින් gloves වලට හානි සිදුවිය හැකි අතර, එය නිවැරදි පරීක්ෂණ ක්‍රමවේදය නොවේ.",
         "tags": [
             {
                 "sub_category": "Safety",
@@ -166,7 +166,7 @@
         ],
         "correct_answer": "The major difference between normal dry container and reefer container is that the temperature condition controlling system is available in reefer container.",
         "images": [],
-        "explanation": "",
+        "explanation": "Reefer container එකක් සහ සාමාන්‍ය Dry container එකක් අතර ඇති ප්‍රධාන වෙනස වන්නේ Reefer container එකෙහි ඇති Temperature control system එකයි. සාමාන්‍ය Dry container එකක් යනු හුදෙක් භාණ්ඩ ගබඩා කර ප්‍රවාහනය කරන පෙට්ටියක් පමණි. නමුත් Reefer container එකක් යනු ශීත කළ හෝ නරක් විය හැකි භාණ්ඩ (perishable goods) නියමිත උෂ්ණත්වයක පවත්වා ගැනීමට අවශ්‍ය Refrigeration unit එකකින් සමන්විත විශේෂිත ඒකකයකි. දෙවන පිළිතුර වැරදියි, මන්ද භාණ්ඩ වර්ගය වෙනස් වුවත්, එයට හේතුව එම භාණ්ඩවලට අවශ්‍ය උෂ්ණත්ව පාලනයයි. තුන්වන පිළිතුර සම්පූර්ණයෙන්ම වැරදියි, මන්ද මේවායේ තාක්ෂණික ව්‍යුහය සහ ක්‍රියාකාරීත්වය සම්පූර්ණයෙන්ම වෙනස් බැවිනි.",
         "tags": [
             {
                 "sub_category": "Cargo",
@@ -189,7 +189,7 @@
         ],
         "correct_answer": "Reefers are essential for worldwide trade of food.",
         "images": [],
-        "explanation": "",
+        "explanation": "Reefer container එකක් යනු Temperature-controlled පරිසරයක් පවත්වා ගැනීමට හැකි විශේෂිත container වර්ගයකි. මෙහි ප්‍රධාන අරමුණ වන්නේ නරක් විය හැකි භාණ්ඩ (perishable goods) එනම් ආහාර ද්‍රව්‍ය, ඖෂධ වැනි දෑ ලෝකයේ එක් රටක සිට තවත් රටකට ප්‍රවාහනය කිරීමයි. දෙවන පිළිතුර වැරදියි, මන්ද Reefer එකක් ලී (wood) ගබඩා කිරීමට භාවිතා නොකරන බැවිනි. තුන්වන පිළිතුර 'Storage of food' ලෙස සීමා වී ඇති අතර, එය ප්‍රවාහනය (worldwide trade) යන අංගය මග හැර ඇත. එබැවින්, 'Reefers are essential for worldwide trade of food' යන්න වඩාත් නිවැරදි සහ සම්පූර්ණ පිළිතුර වේ.",
         "tags": [
             {
                 "sub_category": "HVAC",
@@ -208,7 +208,7 @@
         ],
         "correct_answer": "This is the difference between the boiling point temperature of refrigerant in the evaporator coil and the actual temperature of the refrigerant gas as at leave the evaporator.",
         "images": [],
-        "explanation": "",
+        "explanation": "Refrigeration system එකක Superheat යනු Evaporator එකෙන් පිටවන refrigerant gas එකේ උෂ්ණත්වය සහ එම පීඩනයේදී (evaporating pressure) පවතින refrigerant එකේ boiling point උෂ්ණත්වය අතර වෙනසයි. මෙහිදී, පළමු පිළිතුර නිවැරදි වන්නේ එය තාපගතික විද්‍යාවට (thermodynamics) අනුව Superheat නිර්වචනය කරන බැවිනි. දෙවන පිළිතුර වැරදියි, මන්ද compressor overheat යනු compressor එකේ ක්‍රියාකාරිත්වය හා සම්බන්ධ වෙනත් ගැටලුවකි. තෙවන පිළිතුර ද වැරදියි, මන්ද supply සහ return උෂ්ණත්ව වෙනස මගින් මනින්නේ cooling load එක හෝ temperature differential එක මිස Superheat නොවන බැවිනි. එබැවින්, නිවැරදිම පිළිතුර වන්නේ පළමු විකල්පයයි.",
         "tags": [
             {
                 "sub_category": "HVAC",
@@ -227,7 +227,7 @@
         ],
         "correct_answer": "45 sec.",
         "images": [],
-        "explanation": "",
+        "explanation": "SOLAS Chapter II-1, Regulation 44 හි සඳහන් වන පරිදි, නැවක Emergency Diesel Generator (EDG) එකක් ස්වයංක්‍රීයව ආරම්භ වී (Automatic start), එයට නියමිත Full rated load එක ලබා ගැනීමට ගතවිය යුතු උපරිම කාලය තත්පර 45ක් ලෙස නියම කර ඇත. මෙහිදී 35 sec සහ 50 sec යන පිළිතුරු වැරදි වන්නේ, SOLAS රෙගුලාසිවලට අනුව එම කාල සීමාවන් නීතිමය අවශ්‍යතාවයට අනුකූල නොවන බැවිනි. එබැවින්, නෞකාවේ ආරක්ෂාව සහ හදිසි අවස්ථාවකදී විදුලිය සැපයීමේ වේගය සහතික කිරීම සඳහා තත්පර 45ක කාල සීමාව අනිවාර්ය වේ.",
         "tags": [
             {
                 "sub_category": "Legislation",
@@ -251,7 +251,7 @@
         ],
         "correct_answer": "Container is a type of shipping container that remains its cargo at a regulated cool temperature.",
         "images": [],
-        "explanation": "",
+        "explanation": "Reefer container යනු Refrigerated container එකකි. මෙහි මූලික අරමුණ වන්නේ ප්‍රවාහනය කරන භාණ්ඩ (Cargo) නියමිත උෂ්ණත්වයක (Regulated temperature) පවත්වා ගැනීමයි. අනෙක් පිළිතුරු වැරදි වීමට හේතු: 'Container for Cargo' යනු ඕනෑම වර්ගයක කන්ටේනරයකට පොදු කරුණකි. 'Remains it cargo safe' යනු ඕනෑම ආරක්ෂිත ඇසුරුම් ක්‍රමයකට අදාළ විය හැක. 'Transportation of different types of food' යනු Reefer container එකක ප්‍රධාන කාර්යයක් වුවද, එය තාක්ෂණික වශයෙන් අර්ථ දැක්වෙන්නේ උෂ්ණත්වය පාලනය කරන (Temperature control) උපකරණයක් ලෙසිනි. එබැවින් පළමු පිළිතුර වඩාත් නිවැරදි සහ තාක්ෂණික වශයෙන් සම්පූර්ණ අර්ථ දැක්වීම වේ.",
         "tags": [
             {
                 "sub_category": "HVAC",
@@ -271,7 +271,7 @@
         ],
         "correct_answer": "Malfunction one of two return air sensors.",
         "images": [],
-        "explanation": "",
+        "explanation": "Compressor discharge temperature එකට බලපාන සාධක විශ්ලේෂණය කරමු. 1. Insufficient freon level (Low refrigerant charge): මෙහිදී evaporator එකේදී refrigerant එක සම්පූර්ණයෙන්ම වාෂ්ප වී superheat වීම නිසා compressor එකට එන suction gas temperature එක වැඩි වේ. මෙය discharge temperature එක ඉහළ යාමට හේතු වේ. 2. Malfunction of expansion valve: Expansion valve එකේ දෝෂයක් නිසා (උදාහරණයක් ලෙස valve එක අවහිර වීම හෝ වැරදි ලෙස විවෘත වීම) evaporator එකට ලැබෙන refrigerant ප්‍රමාණය වෙනස් වේ. මෙයද suction superheat එකට බලපාන නිසා discharge temperature එක වෙනස් කරයි. 3. Compressor malfunction: Compressor එකේ අභ්‍යන්තර දෝෂ (උදාහරණයක් ලෙස valves කාන්දු වීම හෝ piston rings ගෙවී යාම) නිසා volumetric efficiency එක අඩු වී discharge temperature එක ඉහළ යයි. 4. Malfunction of one of two return air sensors: Return air sensor එක යනු refrigeration system එකේ පාලන පද්ධතියට (Control system) වාතයේ උෂ්ණත්වය මැන දෙන සංවේදකයකි. මෙය compressor එකේ discharge gas temperature එකට සෘජුවම බලපාන්නේ නැත. එය පාලනය කරන්නේ evaporator fan හෝ cooling capacity එක පමණි. එබැවින් මෙය නිවැරදි පිළිතුර වේ.",
         "tags": [
             {
                 "sub_category": "HVAC",
@@ -295,7 +295,7 @@
         ],
         "correct_answer": "Check main circuit breaker position (on/off) and the presence of power supply on each incoming phase with multimeter.",
         "images": [],
-        "explanation": "",
+        "explanation": "Reefer container එකක් වැඩ නොකරන විට මුලින්ම කළ යුත්තේ විදුලි සැපයුම (Power supply) නිවැරදිව ලැබේදැයි පරීක්ෂා කිරීමයි. පළමුව, Circuit breaker එක 'ON' තත්ත්වයේ තිබේදැයි බැලිය යුතුය. ඉන්පසු Multimeter එකක් භාවිතයෙන් සෑම phase එකකම වෝල්ටීයතාවය (Voltage) පවතීදැයි පරීක්ෂා කිරීම මූලික පියවරයි. අනෙක් විකල්පයන් වැරදි වන්නේ: 'Main transformer' පරීක්ෂා කිරීම හෝ 'Freon gas' මට්ටම බැලීම වැනි දේ කළ යුත්තේ විදුලි සැපයුම නිවැරදි බව තහවුරු කර ගැනීමෙන් පසුවය. 'Call service engineer' යනු අවසාන විසඳුම මිස පළමු පියවර නොවේ.",
         "tags": [
             {
                 "sub_category": "HVAC",
@@ -313,7 +313,7 @@
         ],
         "correct_answer": "Motor to forward.",
         "images": [],
-        "explanation": "",
+        "explanation": "Reefer container එකක් නැවක deck එක මත stow කිරීමේදී, එහි Motor (Refrigeration unit) එක ඉදිරිපසට (Forward) සිටින සේ තැබීම අනිවාර්ය වේ. මෙයට ප්‍රධාන හේතුව වන්නේ නැව ගමන් කරන විට ඇතිවන සුළං ප්‍රවාහය (Airflow) මගින් Motor එකෙහි ඇති Condenser එක සිසිල් කිරීමට උපකාරී වීමයි. 'Motor to aft' ලෙස තැබුවහොත්, නැව ගමන් කරන දිශාවට පිටුපසින් ඇති වායු කැළඹීම් නිසා නිසි සිසිලනයක් සිදු නොවන අතර, එමගින් Compressor එක අධික ලෙස රත් වී (Overheating) හානි වීමට ඉඩ ඇත. එබැවින්, නිවැරදි පිළිතුර 'Motor to forward' වේ.",
         "tags": [
             {
                 "sub_category": "HVAC",
@@ -336,7 +336,7 @@
         ],
         "correct_answer": "It must be connected to the ship power supply and their setting temperature verified.",
         "images": [],
-        "explanation": "",
+        "explanation": "Reefer containers (Refrigerated containers) සඳහා නියමිත උෂ්ණත්වය පවත්වා ගැනීම අත්‍යවශ්‍ය වේ. එබැවින්, ඒවා නැවට පැටවූ වහාම ප්‍රධාන පියවර දෙකක් ගත යුතුය: 1. Reefer container එක නැවේ විදුලි සැපයුමට (Ship power supply) සම්බන්ධ කිරීම, 2. එහි නියමිත උෂ්ණත්වය (Setting temperature) නිවැරදි දැයි පරීක්ෂා කිරීම. අනෙක් විකල්ප දෙක වන 'Stowage position වාර්තා කිරීම' සහ 'උෂ්ණත්වය පමණක් පරීක්ෂා කිරීම' යන කරුණු වැදගත් වුවද, විදුලියට සම්බන්ධ කිරීමකින් තොරව බහාලුම තුළ ඇති භාණ්ඩ නරක් විය හැකි බැවින්, පළමු විකල්පය වඩාත් සම්පූර්ණ සහ නිවැරදි පිළිතුර වේ.",
         "tags": [
             {
                 "sub_category": "HVAC",
@@ -360,7 +360,7 @@
         ],
         "correct_answer": "To lubricate the moving parts of the compressor.",
         "images": [],
-        "explanation": "",
+        "explanation": "Refrigeration system එකක Compressor එක තුළ පවතින moving parts (උදාහරණ ලෙස pistons, bearings, crankshaft) අතර ඝර්ෂණය (friction) අවම කර, ඒවායේ ඇඳීම (wear) වැළැක්වීම සහ සිසිලනය (cooling) ලබා දීම සඳහා Lubricating oil අත්‍යවශ්‍ය වේ. අනෙක් පිළිතුරු වැරදි වීමට හේතු: 1. Refrigerant එක මගින් තාපය අවශෝෂණය කරගන්නා අතර, Oil එක තාපය අවශෝෂණය කිරීමට උදව් නොකරයි. 2. TXV (Thermostatic Expansion Valve) එකෙහි ක්‍රියාකාරිත්වය සඳහා බාහිර ලිහිසි තෙල් අවශ්‍ය නොවන අතර එය refrigerant flow එක මගින් පාලනය වේ. 3. Refrigerant එක නල මාර්ග ඔස්සේ ගමන් කරන්නේ එහි පවතින pressure difference එක නිසා මිස, Oil එක නිසා නොවේ. එබැවින්, Compressor එකේ moving parts ලිහිසි කිරීම ප්‍රධාන කාර්යය වේ.",
         "tags": [
             {
                 "sub_category": "HVAC",
@@ -384,7 +384,7 @@
         ],
         "correct_answer": "The evaporator coil is frozen after the thermostatic valve at the beginning of the coil.",
         "images": [],
-        "explanation": "",
+        "explanation": "Refrigeration system එකක Freon (refrigerant) මට්ටම අඩු වූ විට, Thermostatic Expansion Valve (TXV) හරහා ගමන් කරන refrigerant ප්‍රමාණය අඩු වේ. මෙහිදී සිදුවන්නේ refrigerant එකේ pressure එක ඉතා වේගයෙන් පහත වැටීමයි (pressure drop). මෙසේ pressure එක හදිසියේ පහත වැටීම නිසා evaporator coil එකේ ආරම්භක කොටසේදී (beginning of the coil) උෂ්ණත්වය අසාමාන්‍ය ලෙස පහත වැටී, එම ස්ථානයේ පමණක් අයිස් බැඳීමක් (frosting) සිදුවේ. අනෙක් විකල්ප වැරදි වන්නේ: 'Insufficient level does not affect' යන්න වැරදියි, මන්ද එය cooling capacity එකට සෘජුවම බලපායි. 'Frozen at the end of the coil' යනු සාමාන්‍යයෙන් refrigerant වැඩි වීමක් හෝ evaporator fan එකේ දෝෂයක් නිසා සිදුවන්නකි. 'Pipe before the valve is frozen' යනු සාමාන්‍යයෙන් valve එකේ block වීමක් හෝ filter drier එකේ අවහිරයක් නිසා සිදුවන්නකි.",
         "tags": [
             {
                 "sub_category": "HVAC",
@@ -402,9 +402,9 @@
             "The suction pressure greater than the discharge pressure.",
             "Compressor failure will not affect to the system pressure."
         ],
-        "correct_answer": "The suction pressure is less than the discharge pressure.",
+        "correct_answer": "The suction pressure equal to discharge pressure.",
         "images": [],
-        "explanation": "",
+        "explanation": "Refrigeration system එකක Compressor එකක් නිවැරදිව ක්‍රියා කරන විට, Suction pressure (Low pressure) සැමවිටම Discharge pressure (High pressure) ට වඩා අඩු විය යුතුය. Compressor එකක් අක්‍රිය වූ විට (උදාහරණයක් ලෙස Compressor valves කාන්දු වීම හෝ Compressor එක නතර වීම), පද්ධතියේ ඇති Refrigerant වායුව ඉහළ පීඩන පැත්තේ සිට පහළ පීඩන පැත්තට සමාන වන තෙක් ගලා යයි. එබැවින්, Suction pressure සහ Discharge pressure සමාන වීම (Equalization) මගින් Compressor එකේ දෝෂයක් ඇති බව හඳුනාගත හැකිය. අනෙක් පිළිතුරු වැරදියි, මන්ද Suction pressure අඩු වීම සාමාන්‍ය තත්ත්වයකි, Suction pressure වැඩි වීම Discharge pressure ට වඩා සිදු විය නොහැකි අතර, Compressor failure එකක් පද්ධතියේ පීඩනයට බලපෑමක් නොකරයි යන්න සම්පූර්ණයෙන්ම වැරදි ප්‍රකාශයකි.",
         "tags": [
             {
                 "sub_category": "HVAC",
@@ -428,7 +428,7 @@
         ],
         "correct_answer": "Depend on the reefer container working mode and ambient temperature. Technical standards from the manufacturer that are specified in manual.",
         "images": [],
-        "explanation": "",
+        "explanation": "Reefer container එකක Compressor එකක Suction pressure එක (Low pressure) නියත අගයක් නොවේ. එය ප්‍රධාන වශයෙන් රඳා පවතින්නේ Container එකේ Set point temperature එක, Cargo type එක සහ Ambient temperature එක මතයි. එබැවින්, නිවැරදි පීඩන අගයන් සැමවිටම Manufacturer's manual එකෙහි සඳහන් කර ඇති Technical standards අනුව පරීක්ෂා කළ යුතුය. අනෙක් පිළිතුරු වැරදි වන්නේ: 'Freon gas level' යනු පද්ධතියේ පිරවුම් මට්ටම මිස Suction pressure එක තීරණය කරන ප්‍රධාන සාධකය නොවන බැවිනි. තවද, 5 bar වැනි ස්ථාවර අගයන් (No more than/Not less than) සාමාන්‍ය Reefer මෙහෙයුම් වලදී අදාළ නොවේ, මන්ද Refrigerant වර්ගය (උදා: R-134a, R-404a) අනුව පීඩන අගයන් විශාල ලෙස වෙනස් වන බැවිනි.",
         "tags": [
             {
                 "sub_category": "HVAC",
@@ -451,7 +451,7 @@
         ],
         "correct_answer": "Outside temperature.",
         "images": [],
-        "explanation": "",
+        "explanation": "Ambient Temperature යනු යම් ස්ථානයක හෝ පරිසරයක පවතින සාමාන්‍ය වායු උෂ්ණත්වයයි (Surrounding air temperature). Reefer container එකක් සම්බන්ධයෙන් ගත් කල, මෙය බහාලුම පිටත පවතින වායු උෂ්ණත්වය ලෙස හැඳින්වේ. අනෙක් පිළිතුරු වැරදි වන්නේ: 1. 'Maximum possible temperature' යනු උපරිම උෂ්ණත්වය මිස පරිසර උෂ්ණත්වය නොවේ. 2. 'Required temperature for transportation' යනු Cargo එක සඳහා නියම කර ඇති Set point උෂ්ණත්වයයි. එබැවින්, නිවැරදි පිළිතුර වන්නේ Outside temperature යන්නයි.",
         "tags": [
             {
                 "sub_category": "Science",
@@ -471,7 +471,7 @@
         ],
         "correct_answer": "Switch off power supply and collect freon to the recovery balloon.",
         "images": [],
-        "explanation": "",
+        "explanation": "Reefer container එකක gas pipe එකක welding වැඩක් කිරීමට පෙර ආරක්ෂාව අතිශයින්ම වැදගත් වේ. පළමුව, විදුලි සැපයුම (Power supply) විසන්ධි කිරීම අනිවාර්ය වේ. දෙවනුව, පද්ධතියේ ඇති Refrigerant (Freon) වායුගෝලයට මුදා හැරීම (Discharge) පරිසර නීති අනුව තහනම් සහ අනතුරුදායක වේ. එමෙන්ම, සියලුම Freon receiver එකට පමණක් එකතු කිරීම ප්‍රායෝගික නොවිය හැක. එබැවින්, ආරක්ෂිතම ක්‍රමය වන්නේ පද්ධතියේ ඇති Freon, Recovery balloon එකක් භාවිතයෙන් ඉවත් කර ගබඩා කිරීමයි. අනෙකුත් විකල්පයන්හි ඇති 'Disconnect power supply cable' යන්නට වඩා 'Switch off power supply' යන්න වඩාත් පුළුල් සහ නිවැරදි ආරක්ෂිත පියවරකි.",
         "tags": [
             {
                 "sub_category": "Safety",
@@ -499,7 +499,7 @@
         ],
         "correct_answer": "Interrupt the operation of the electric motor in case of overheating.",
         "images": [],
-        "explanation": "",
+        "explanation": "Thermistor එකක් යනු උෂ්ණත්වය වෙනස් වන විට එහි විද්‍යුත් ප්‍රතිරෝධය (Electrical resistance) වෙනස් වන සංවේදකයකි. Evaporator fan motor එකක winding එක තුළ මෙය සවි කර ඇත්තේ මෝටරය අධික ලෙස රත් වීම (Overheating) හඳුනා ගැනීමටය. මෝටරයේ උෂ්ණත්වය නියමිත සීමාව ඉක්මවා ගිය විට, thermistor එක මගින් පාලක පරිපථයට (Control circuit) සංඥාවක් ලබා දී මෝටරයේ ක්‍රියාකාරිත්වය නතර (Interrupt) කරනු ලබයි. අනෙක් පිළිතුරු වැරදි වන්නේ මන්දැයි බලමු: 'Reads the motor current' යනු Ammeter හෝ Current transformer එකක කාර්යයකි. 'Measures the temperature' යනු thermistor එකේ මූලික කාර්යය වුවද, එහි අවසාන අරමුණ වන්නේ ආරක්ෂාව සඳහා මෝටරය නතර කිරීමයි. අවසාන පිළිතුරේ සඳහන් වන්නේ Centrifugal switch හෝ Start relay එකක කාර්යයකි.",
         "tags": [
             {
                 "sub_category": "Electrical",
@@ -523,7 +523,7 @@
         ],
         "correct_answer": "Motor will not start.",
         "images": [],
-        "explanation": "",
+        "explanation": "Single phase induction motors (Reefer compressor motors) හට ස්වයංක්‍රීයව ආරම්භ වීමට (self-starting) අවශ්‍ය වන rotating magnetic field එක නිර්මාණය කරගැනීම සඳහා Start Capacitor හෝ Run Capacitor අවශ්‍ය වේ. Capacitor එක දෝෂ සහිත (faulty) වූ විට, motor එකට අවශ්‍ය phase shift එක නොලැබෙන නිසා torque එකක් ජනනය නොවේ. එමනිසා motor එකට ආරම්භ වීමට නොහැකි වේ (Motor will not start). අනෙක් පිළිතුරු වැරදි වීමට හේතු: 'Motor will start and stop periodically' යනු සාමාන්‍යයෙන් thermal overload එකක් නිසා සිදුවන්නකි. 'Insulation resistance decrease' වීම යනු winding එකේ දෝෂයක් මිස capacitor එකේ දෝෂයක් නොවේ. 'Condenser fan burn out' වීම capacitor එක නිසාම පමණක් සිදුවන දෙයක් නොවේ. එබැවින් නිවැරදිම පිළිතුර වන්නේ motor එක ආරම්භ නොවීමයි.",
         "tags": [
             {
                 "sub_category": "Electrical",
@@ -546,7 +546,7 @@
         ],
         "correct_answer": "Required temperature for transportation of cargo in reefer container.",
         "images": [],
-        "explanation": "",
+        "explanation": "Reefer container එකක 'Set Point' යනු එම භාණ්ඩය ආරක්ෂිතව ප්‍රවාහනය කිරීම සඳහා පවත්වා ගත යුතු නියමිත උෂ්ණත්වයයි (Required temperature). පාලන පද්ධතිය (Control system) මගින් මෙම Set Point අගය පවත්වා ගැනීමට උත්සාහ කරයි. අනෙක් පිළිතුරු වැරදියි: 'Port of destination' යනු නැව යා යුතු ගමනාන්තයයි, එය උෂ්ණත්ව පාලනයට අදාළ නොවේ. 'Required temperature of Chief Officer/Planner' යනු වැරදි අර්ථ දැක්වීමකි, මන්ද Set Point යනු භාණ්ඩයේ ස්වභාවය අනුව තීරණය වන තාක්ෂණික අගයක් මිස නිලධාරියෙකුගේ පුද්ගලික කැමැත්තක් නොවන බැවිනි.",
         "tags": [
             {
                 "sub_category": "Controls",

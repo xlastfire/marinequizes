@@ -11,7 +11,7 @@
         ],
         "correct_answer": "Not permissible anywhere.",
         "images": [],
-        "explanation": "",
+        "explanation": "MARPOL Annex V මගින් නැව්වලින් සිදුවන දූෂණය වැළැක්වීම සඳහා දැඩි නීති පනවා ඇත. ප්ලාස්ටික් (Plastic) යනු සාගර පරිසරයට ඉතා හානිකර ද්‍රව්‍යයක් වන බැවින්, ඕනෑම ආකාරයක ප්ලාස්ටික් අපද්‍රව්‍යයක් මුහුදට බැහැර කිරීම (Overboard disposal) ලෝකයේ ඕනෑම ස්ථානයකදී සම්පූර්ණයෙන්ම තහනම් කර ඇත. අනෙක් විකල්පයන් වන 'විශේෂිත ප්‍රදේශ' (Special areas), 'වෙරළබඩ ජලය' (Coastal waters) හෝ 'වෙරළේ සිට නාවික සැතපුම් 100ක් දුරින්' යන කිසිදු අවස්ථාවක ප්ලාස්ටික් බැහැර කිරීමට අවසර නැත. එබැවින් 'Not permissible anywhere' යනු නිවැරදි පිළිතුරයි.",
         "tags": [
             {
                 "sub_category": "Legislation",
@@ -35,7 +35,7 @@
         ],
         "correct_answer": "The ship’s safety plan.",
         "images": [],
-        "explanation": "",
+        "explanation": "නැවක ඇති සියලුම Safety equipment (ගිනි නිවන උපකරණ, ජීවිතාරක්ෂක උපකරණ ආදිය) පිහිටි ස්ථාන, ඒවායේ ප්‍රමාණය සහ වර්ග පිළිබඳ නිවැරදි තොරතුරු අඩංගු වන්නේ 'Ship’s Safety Plan' එක තුළය. SOLAS (Safety of Life at Sea) සම්මුතියට අනුව සෑම නැවකම මෙම සැලැස්ම අනිවාර්යයෙන්ම තිබිය යුතුය. අනෙක් විකල්පයන් සලකා බැලීමේදී: 'Stated in your cabin' යනු සාමාන්‍යයෙන් හදිසි අවස්ථාවකදී කළ යුතු දේ (Muster list) පමණක් අඩංගු වන ස්ථානයකි. 'Cargo control room' යනු භාණ්ඩ ප්‍රවාහනයට අදාළ පාලන මැදිරියකි. 'Deck log book' යනු නැවේ දෛනික මෙහෙයුම් වාර්තා තබන පොතකි. එබැවින්, නිවැරදිම පිළිතුර වන්නේ 'The ship’s safety plan' ය.",
         "tags": [
             {
                 "sub_category": "Safety",
@@ -59,7 +59,7 @@
         ],
         "correct_answer": "Both STCW and Class rules.",
         "images": [],
-        "explanation": "",
+        "explanation": "Engine room watch keeping routines පාලනය කරනු ලබන්නේ ප්‍රධාන වශයෙන් STCW (Standards of Training, Certification and Watchkeeping) සම්මුතිය මගින් සහ Class Rules (Classification Society rules) මගින්ය. STCW මගින් කාර්ය මණ්ඩලයේ සුදුසුකම්, විවේක කාලය (Rest hours) සහ ආරක්ෂිත Watchkeeping පටිපාටි පිළිබඳ ජාත්‍යන්තර ප්‍රමිතීන් නියම කරයි. අනෙක් අතට, Class Rules මගින් නෞකාවේ යන්ත්‍ර සූත්‍රවල ආරක්ෂාව, නඩත්තුව සහ තාක්ෂණික මෙහෙයුම් ප්‍රමිතීන් නියම කරයි. SOLAS (Safety of Life at Sea) යනු නෞකාවේ ආරක්ෂාව පිළිබඳ මූලික නීති මාලාවක් වුවද, එය පමණක් Watchkeeping routines සඳහා ප්‍රමාණවත් නොවේ. එබැවින්, STCW සහ Class Rules යන දෙකම ඒකාබද්ධව ක්‍රියාත්මක වීම අනිවාර්ය වේ. එම නිසා අනෙක් විකල්පයන් අසම්පූර්ණ වේ.",
         "tags": [
             {
                 "sub_category": "Watchkeeping",
@@ -131,7 +131,7 @@
         ],
         "correct_answer": "For all listed vessels.",
         "images": [],
-        "explanation": "",
+        "explanation": "MARPOL (International Convention for the Prevention of Pollution from Ships) යනු මුහුදේ සිදුවන දූෂණය වැළැක්වීම සඳහා වන ප්‍රධානතම ජාත්‍යන්තර සම්මුතියයි. මෙම සම්මුතියේ විෂය පථය ඉතා පුළුල් වන අතර, එය ඕනෑම වර්ගයක නෞකාවකට (vessel) අදාළ වේ. මෙහිදී වැරදි පිළිතුරු විශ්ලේෂණය කරමු: 1. 'Coastal trade' නෞකා සඳහා අදාළ නොවන බව පැවසීම වැරදිය, මන්ද MARPOL නීති වෙරළාසන්න නෞකාවලටද අනිවාර්ය වේ. 2. 'Tankers' සඳහා පමණක් සීමා කිරීම වැරදිය, මන්ද MARPOL හි Annexes මගින් තෙල් පමණක් නොව, අපද්‍රව්‍ය (Sewage), කුණු (Garbage) සහ වායු දූෂණය (Air pollution) වැනි කරුණු සියලුම නෞකා සඳහා පාලනය කරයි. 3. 'Passenger vessels' බැහැර කිරීමද වැරදිය, මන්ද මගී නෞකා මගින්ද විශාල වශයෙන් අපද්‍රව්‍ය ජනනය වන බැවින් ඒවාටද MARPOL නීති දැඩිව අදාළ වේ. එබැවින්, MARPOL සම්මුතිය ඕනෑම වර්ගයක නෞකාවකට අදාළ වන බැවින් 'For all listed vessels' යන්න නිවැරදි පිළිතුර වේ.",
         "tags": [
             {
                 "sub_category": "Legislation",
@@ -155,7 +155,7 @@
         ],
         "correct_answer": "100 dB.",
         "images": [],
-        "explanation": "",
+        "explanation": "Marine safety regulations සහ Occupational Health and Safety ප්‍රමිතීන්ට අනුව, ශබ්ද මට්ටම (Noise level) මනිනු ලබන්නේ Decibels (dB) වලිනි. මිනිස් කනට හානි විය හැකි හෝ ශ්‍රවණාබාධ ඇති විය හැකි 'injurious area' ලෙස හඳුන්වනු ලබන්නේ 100 dB හෝ ඊට වැඩි ශබ්ද මට්ටමයි. මෙහිදී 50 dB යනු සාමාන්‍ය කතාබහක ශබ්දය වන අතර එය හානිකර නොවේ. 400 dB සහ 1 283 dB යන අගයන් භෞතික විද්‍යාත්මකව පෘථිවි වායුගෝලය තුළ පැවතිය නොහැකි අතිශය ඉහළ අගයන් වේ. එබැවින්, 100 dB යනු නිවැරදි පිළිතුරයි.",
         "tags": [
             {
                 "sub_category": "Safety",
@@ -203,7 +203,7 @@
         ],
         "correct_answer": "The main supply valves in the deck storage are closed and checks made that no fire risk exists prior to switching on the fire alarm system and going to UMS-mode.",
         "images": [],
-        "explanation": "",
+        "explanation": "UMS (Unattended Machinery Space) යාත්‍රාවකදී ගිනි ආරක්ෂාව ඉතා වැදගත් වේ. Gas welding කටයුතු නතර කර විවේකයක් ගන්නා විට, ප්‍රධාන සැපයුම් කපාට (Main supply valves) deck storage එකේදී වසා දැමීම අනිවාර්ය වේ. මෙය සිදු නොකළහොත්, පයිප්පවල කාන්දුවක් තිබුණහොත් ගින්නක් ඇතිවීමේ අවදානමක් පවතී. අනෙක් පිළිතුරු වැරදි වන්නේ: 'One of the ratings is left on watch' යනු නීතිමය වශයෙන් ප්‍රමාණවත් නොවන අතර, 'local valve' පමණක් වැසීමෙන් පයිප්පවල ඇති පීඩනය ඉවත් නොවේ. 'No precautions' යනු ඉතා භයානක සහ නීති විරෝධී ක්‍රියාවකි. එබැවින්, ප්‍රධාන කපාට වසා, ගිනි අවදානමක් නොමැති බව තහවුරු කර, පසුව UMS-mode වෙත යාම නිවැරදි ආරක්ෂිත ක්‍රියාපටිපාටියයි.",
         "tags": [
             {
                 "sub_category": "Safety",
@@ -229,7 +229,7 @@
         "images": [
             "https://i.ibb.co/67JVGb5q/boat.png"
         ],
-        "explanation": "",
+        "explanation": "මෙම සංකේතය මගින් නිරූපණය කරන්නේ Lifeboat එකකි. IMO (International Maritime Organization) විසින් නිකුත් කර ඇති LSA (Life-Saving Appliances) සංකේත වලට අනුව, මෙම රූපයේ දැක්වෙන ආකාරයේ බෝට්ටුවක හැඩය Lifeboat එකක් හඳුනා ගැනීමට භාවිතා කරයි. Liferaft එකක් නම් සාමාන්‍යයෙන් සිලින්ඩරාකාර හෝ පෙට්ටියක හැඩයෙන් නිරූපණය වේ. Davit-launched liferaft සඳහා වෙනම සංකේතයක් ඇති අතර Rescue boat සඳහා ද ඊටම ආවේණික වූ සංකේතයක් පවතී. එමනිසා, ලබා දී ඇති රූපය Lifeboat එකක් සඳහා වන සම්මත සංකේතය වේ.",
         "tags": []
     },
     {
@@ -244,7 +244,7 @@
         ],
         "correct_answer": "A device which prevents an operation of equipment to take place, to allow access or maintenance to be carried out.",
         "images": [],
-        "explanation": "",
+        "explanation": "Marine Engineering හි 'Interlock' යනු ආරක්ෂාව සඳහා යොදාගන්නා ඉතා වැදගත් පද්ධතියකි. මෙහි මූලික අරමුණ වන්නේ යම් උපකරණයක් ක්‍රියාත්මක වීමට පෙර හෝ ක්‍රියාත්මක වන අතරතුර අනතුරුදායක තත්ත්වයන් වළක්වා ගැනීමයි. උදාහරණයක් ලෙස, යම් යන්ත්‍රයක Maintenance කටයුතු සිදුකරන විට, එම යන්ත්‍රය අහම්බෙන් ක්‍රියාත්මක වීම වැළැක්වීමට Interlock පද්ධතිය මගින් බාධාවක් ඇති කරයි. අනෙක් පිළිතුරු වැරදි වන්නේ: 'Electrical switch' යනු හුදෙක් ස්විචයක් පමණි, 'Alarm' යනු අනතුරු ඇඟවීමේ උපකරණයකි, සහ 'Container lashing' යනු භාණ්ඩ සුරක්ෂිත කිරීමේ උපකරණයකි. එබැවින්, උපකරණයක් ක්‍රියාත්මක වීම වළක්වා ආරක්ෂාව තහවුරු කරන පළමු පිළිතුර නිවැරදි වේ.",
         "tags": [
             {
                 "sub_category": "Safety",
@@ -268,7 +268,7 @@
         ],
         "correct_answer": "It is an integral part of the overall training plan.",
         "images": [],
-        "explanation": "",
+        "explanation": "නැවක සිදුකරන Onboard training යනු හුදෙක් අහඹු ලෙස සිදුකරන දෙයක් නොව, එය නැවේ සමස්ත Safety Management System (SMS) සහ Training Plan එකෙහි අනිවාර්ය අංගයක් විය යුතුය. පළමු පිළිතුර නිවැරදි වන්නේ, පුහුණුවීම් ක්‍රමානුකූලව සහ සැලසුම් සහගතව සිදුකිරීමෙන් පමණක් කාර්ය මණ්ඩලයේ Competency මට්ටම ඉහළ නැංවිය හැකි බැවිනි. දෙවන පිළිතුර වැරදියි, මන්ද බොහෝ පුහුණුවීම් (උදාහරණයක් ලෙස Fire drills හෝ Abandon ship drills) සිදුකරන්නේ කණ්ඩායම් වශයෙන් බැවිනි. තුන්වන පිළිතුර වැදගත් වුවත්, එය පුහුණුව සංවිධානය කිරීමේ මූලික අරමුණ නොව, එය පුහුණුවීම් සැලසුම් කිරීමේදී සැලකිල්ලට ගත යුතු නීතිමය අවශ්‍යතාවයක් (Rest hours compliance) පමණි. එබැවින්, පුහුණුවීම් සමස්ත සැලැස්මේ අනිවාර්ය අංගයක් ලෙස පැවතීම වඩාත් නිවැරදි පිළිතුර වේ.",
         "tags": [
             {
                 "sub_category": "Management",
@@ -292,7 +292,7 @@
         ],
         "correct_answer": "The “Abandon ship” signal is not specified, only the general emergency alarm signal is tated.",
         "images": [],
-        "explanation": "",
+        "explanation": "SOLAS (Safety of Life at Sea) සම්මුතියට අනුව, නැවක් අතහැර යාම සඳහා (Abandon ship) විශේෂිත වූ ශබ්ද සංඥාවක් (signal) නියම කර නොමැත. SOLAS මගින් අනිවාර්ය කර ඇත්තේ 'General Emergency Alarm' හෙවත් පොදු හදිසි අනතුරු ඇඟවීමේ සංඥාව පමණි. මෙම සංඥාව අවම වශයෙන් කෙටි පිඹීම් හතක් (seven or more short blasts) සහ ඉන්පසු එක් දිගු පිඹීමක් (one long blast) ලෙස නියම කර ඇත. එබැවින්, නැවක් අතහැර යාම සඳහා වෙනම සංඥාවක් නොමැති අතර, නැව අතහැර යාමේ නියෝගය ලබා දෙන්නේ නැවේ Master විසින් හෝ ඔහු විසින් බලය පවරන ලද නිලධාරියෙකු විසින් පමණි. අනෙක් විකල්පයන් (Six short blasts, Four long blasts) වැරදි වන්නේ ඒවා SOLAS මගින් අනුමත කරන ලද සංඥා නොවන බැවිනි.",
         "tags": [
             {
                 "sub_category": "Emergency",
@@ -316,7 +316,7 @@
         ],
         "correct_answer": "To minimise risk of gas leakage and ensure correct clearance between piston and cylinder cover.",
         "images": [],
-        "explanation": "",
+        "explanation": "Diesel engine එකක Cylinder cover එකක් නැවත සවි කිරීමේදී (refitting) පැරණි Gaskets ඉවත් කර අලුත් ඒවා භාවිතා කිරීම අනිවාර්ය වේ. මෙයට ප්‍රධාන හේතු දෙකකි: 1. Compression pressure එක පවත්වා ගැනීමට සහ Combustion gases කාන්දු වීම (gas leakage) වැළැක්වීමට Gasket එකේ මුද්‍රා තැබීමේ හැකියාව (sealing integrity) අලුත් විය යුතුය. 2. Cylinder cover එකේ උස (height) නිවැරදිව පවත්වා ගැනීම මගින් Piston සහ Cylinder cover අතර පරතරය (clearance/compression volume) නිවැරදිව තබා ගැනීමට උපකාරී වේ. අනෙක් පිළිතුරු වැරදි වන්නේ: Sealing faces පිරිසිදු කිරීම අනිවාර්ය වන අතර, Gasket එකක් මගින් හානි වූ Sealing faces නිවැරදි කළ නොහැක. තවද, නිෂ්පාදකයින්ගේ නිර්දේශ පදනම් වන්නේ එන්ජිමේ ආරක්ෂාව සහ කාර්යක්ෂමතාව මත මිස අමතර කොටස් විකිණීම මත නොවේ.",
         "tags": [
             {
                 "sub_category": "Engine",
@@ -340,7 +340,7 @@
         ],
         "correct_answer": "Wear a safety harness securely attached to ship’s structure.",
         "images": [],
-        "explanation": "",
+        "explanation": "Work aloft (ඉහළ ස්ථානයක වැඩ කිරීම) සිදු කිරීමේදී වැටීම වැළැක්වීම ප්‍රධානම අරමුණයි. මෙහිදී 'Safety harness' එකක් පැළඳ එය නැවේ ස්ථිර ව්‍යුහයකට (ship's structure) සම්බන්ධ කිරීම මගින් පුද්ගලයාගේ ජීවිත ආරක්ෂාව උපරිම ලෙස තහවුරු කරයි. අනෙක් විකල්පයන් වන 'Lash the bottom of the ladder' (ඉණිමඟ ගැටගැසීම) සහ 'Wear a safety helmet and goggles' (හිස්වැසුම් සහ කණ්නාඩි පැළඳීම) වැදගත් වුවත්, වැටීමක් සිදුවුවහොත් ජීවිතය බේරා ගැනීමට ඇති එකම සහ වැදගත්ම ආරක්ෂිත ක්‍රමය වන්නේ 'Safety harness' භාවිතයයි. මෙවලම් බාල්දියක තබා ගැනීම (Keep tools in a bucket) යනු වැටෙන වස්තූන්ගෙන් ආරක්ෂා වීමට ගන්නා පියවරක් මිස පුද්ගලයාගේ ආරක්ෂාව සඳහා වන ප්‍රධාන පියවර නොවේ.",
         "tags": [
             {
                 "sub_category": "Safety",
@@ -364,7 +364,7 @@
         ],
         "correct_answer": "Caps and cocks should be closed at all times, except when sounding tanks, to prevent ingress of water or oil into the engine room in case of tank bottom damage or overflow.",
         "images": [],
-        "explanation": "",
+        "explanation": "Sounding pipes (Sounding pipes) යනු ටැංකියක ඇති ද්‍රව මට්ටම මැනීමට භාවිතා කරන නල වේ. මෙම නල ටැංකියේ පතුල දක්වා විවෘතව පවතින නිසා, ටැංකියේ යම් හානියක් සිදුවුවහොත් හෝ ටැංකිය පිටාර ගැලුවහොත් (Overflow), එම ද්‍රවය (තෙල් හෝ ජලය) එන්ජින් කාමරයට කාන්දු වීමේ අවදානමක් ඇත. එබැවින්, ආරක්ෂාව සඳහා (Safety), මෙම නල වල ඇති Deadweight cocks සහ screw caps සෑම විටම වසා තැබිය යුතුය. අනෙක් පිළිතුරු වැරදි වන්නේ: 1. 'Tidy' තබා ගැනීම ප්‍රධාන අරමුණ නොවේ, ආරක්ෂාවයි. 2. Cocks විවෘතව තැබීමෙන් හදිසි අවස්ථාවකදී ද්‍රව කාන්දු වීම වැළැක්විය නොහැක. 3. ටැංකිය භාවිතයේ නොමැති විටද පද්ධතියේ ආරක්ෂාව සඳහා මේවා වසා තිබීම අනිවාර්ය වේ.",
         "tags": [
             {
                 "sub_category": "Management",
@@ -408,7 +408,7 @@
         ],
         "correct_answer": "Scavenge air pressure lower than normal.",
         "images": [],
-        "explanation": "",
+        "explanation": "මෙම තත්ත්වයේදී සිදුවන්නේ Turbocharger intake filter එක හරහා වාතය ඇතුළු වීමේදී spray paint අංශු එම filter එකේ තැන්පත් වීමයි. මෙසේ filter එක අවහිර වීම (clogging) නිසා එන්ජිමට අවශ්‍ය වාතය ප්‍රමාණය (air intake) අඩු වේ. මෙහි ප්‍රතිඵලයක් ලෙස Turbocharger එකට ලැබෙන වායු ප්‍රවාහය සීමා වී, Scavenge air pressure එක සාමාන්‍ය අගයට වඩා අඩු වේ (lower than normal). අනෙක් විකල්පයන් සලකා බැලීමේදී: Exhaust gas temperatures සාමාන්‍යයෙන් වැඩි විය හැක (වාතය අඩු වීම නිසා දහනය අසම්පූර්ණ වීමෙන්). Turbocharger revolutions ද වාතය අඩු වීම නිසා වෙනස් විය හැකි නමුත්, ප්‍රධානම සහ ක්ෂණික බලපෑම වන්නේ Scavenge air pressure අඩු වීමයි. එබැවින් Scavenge air pressure lower than normal යනු නිවැරදි පිළිතුරයි.",
         "tags": [
             {
                 "sub_category": "Maintenance",
@@ -432,7 +432,7 @@
         ],
         "correct_answer": "Go to your lifeboat station (muster station).",
         "images": [],
-        "explanation": "",
+        "explanation": "නැවක හදිසි අවස්ථාවකදී නිකුත් කරන 'seven short blasts followed by one long blast' (කෙටි නාද 7ක් සහ එක් දිගු නාදයක්) යන සංඥාව මගින් අදහස් කරන්නේ 'Abandon Ship' හෙවත් නැව අතහැර යාමේ නියෝගයයි. මෙම සංඥාව ඇසුණු වහාම සියලුම කාර්ය මණ්ඩලය තම 'Lifeboat station' හෙවත් 'Muster station' වෙත වාර්තා කළ යුතුය. අනෙක් විකල්පයන් වැරදි වන්නේ: 1) 'Cabin' එකට යාමෙන් හදිසි අවස්ථාවකදී ආරක්ෂාව තහවුරු නොවේ. 2) 'Bridge' හෝ 'Engine control room' වෙත යාම සාමාන්‍ය රාජකාරි සඳහා මිස 'Abandon Ship' සංඥාව සඳහා නොවේ. 3) 'Fire station' වෙත යාම නියම කරනු ලබන්නේ ගින්නක් ඇති වූ විට නිකුත් කරන වෙනත් සංඥාවක් (Continuous ringing of alarm bells) මගිනි. එබැවින්, මෙම නිශ්චිත සංඥාව සඳහා නිවැරදි ක්‍රියාමාර්ගය වන්නේ 'Lifeboat station' වෙත යාමයි.",
         "tags": [
             {
                 "sub_category": "Emergency",
@@ -456,7 +456,7 @@
         ],
         "correct_answer": "For all vessels.",
         "images": [],
-        "explanation": "",
+        "explanation": "SOLAS (Safety of Life at Sea) යනු ජාත්‍යන්තර නාවික ගමනාගමනයේදී ආරක්ෂාව තහවුරු කිරීම සඳහා පවතින ප්‍රධානතම ජාත්‍යන්තර සම්මුතියයි. මෙහිදී වැරදි පිළිතුරු විශ්ලේෂණය කරමු: 'For passenger vessels only' හෝ 'For tankers' වැනි පිළිතුරු වැරදියි, මන්ද SOLAS සම්මුතිය මගින් නියම කර ඇති ආරක්ෂක ප්‍රමිතීන් (Safety standards) මගී නෞකා සඳහා පමණක් නොව, භාණ්ඩ ප්‍රවාහන නෞකා (Cargo ships) ඇතුළු ජාත්‍යන්තර ගමන්වල යෙදෙන සියලුම නෞකා සඳහා අනිවාර්ය වේ. එමනිසා, 'For all vessels' යන්න නිවැරදි පිළිතුර වේ. අනෙකුත් විකල්ප මගින් නෞකා වර්ග සීමා කර ඇති බැවින් ඒවා වැරදියි.",
         "tags": [
             {
                 "sub_category": "Legislation",
@@ -480,7 +480,7 @@
         ],
         "correct_answer": "Leave the tank immediately and have the atmosphere retested.",
         "images": [],
-        "explanation": "",
+        "explanation": "මෙම අවස්ථාවේදී ආරක්ෂාව (Safety) ප්‍රමුඛ වේ. ඉන්ධන ටැංකියක් (Fuel tank) තුළ වැඩ කරන විට අසාමාන්‍ය දුර්ගන්ධයක් හෝ වායූන් (Fumes) දැනේ නම්, එයින් අදහස් වන්නේ ටැංකිය තුළ ඇති වායුගෝලය (Atmosphere) වෙනස් වී ඇති බවයි. 1. 'Put on breathing apparatus and carry on' යනු වැරදි ක්‍රියාවකි, මන්ද අනතුරේ ස්වභාවය නොදැන වැඩ කිරීම භයානක බැවිනි. 2. 'Ask for another fan' යනු තාවකාලික විසඳුමක් පමණක් වන අතර එයින් අනතුරේ මූලික හේතුව විසඳෙන්නේ නැත. 4. 'Stop work until the smell disappears' යනු ඉතාම භයානක ක්‍රියාවකි, මන්ද දුර්ගන්ධය නැති වුවද විෂ වායූන් තවමත් පැවතිය හැකි බැවිනි. එබැවින්, නිවැරදිම ක්‍රියාමාර්ගය වන්නේ වහාම එම ස්ථානයෙන් ඉවත් වී (Leave the tank immediately), නැවතත් සුදුසුකම් ලත් අයෙකු ලවා වායුගෝලය පරීක්ෂා කිරීම (Retested) ය.",
         "tags": [
             {
                 "sub_category": "Safety",
@@ -504,7 +504,7 @@
         ],
         "correct_answer": "Report to relevant authorities.",
         "images": [],
-        "explanation": "",
+        "explanation": "නැවක සිදුවන ඕනෑම ආකාරයක දූෂණයක් (Pollution) සම්බන්ධයෙන් ජාත්‍යන්තර නීති රීති (MARPOL) අනුව ප්‍රථමයෙන්ම කළ යුත්තේ අදාළ බලධාරීන් (Relevant authorities) දැනුවත් කිරීමයි. මෙහිදී අනෙකුත් පිළිතුරු විශ්ලේෂණය කරමු: 1. 'Start clean-up operations' යනු වැදගත් පියවරක් වුවද, නීතිමය වශයෙන් පළමුව සිදුවීම වාර්තා කිරීම අනිවාර්ය වේ. 2. 'Inform the vessel’s agent' සහ 'Inform the manager' යනු පසුව කළ යුතු දේවල් මිස, හදිසි අවස්ථාවකදී ප්‍රථමයෙන්ම කළ යුතු දේ නොවේ. එබැවින්, නීතිමය වගකීම සහ පාරිසරික ආරක්ෂාව තහවුරු කිරීම සඳහා 'Report to relevant authorities' යනු නිවැරදිම පිළිතුරයි.",
         "tags": [
             {
                 "sub_category": "Environmental",
@@ -528,7 +528,7 @@
         ],
         "correct_answer": "To all seafarers.",
         "images": [],
-        "explanation": "",
+        "explanation": "මෙම ප්‍රශ්නයට අදාළ පාඨයේ සඳහන් වන්නේ 'every prospective seafarer' (සෑම අනාගත නාවිකයෙකුම) යනුවෙනි. මෙහිදී 'seafarer' යනු නැවක සේවය කරන ඕනෑම පුද්ගලයෙකු හැඳින්වීමට භාවිතා කරන පොදු පදයකි. පළමු පිළිතුර (deck hands) සහ තුන්වන පිළිතුර (ratings) සීමිත පිරිසක් පමණක් අදහස් කරන බැවින් ඒවා වැරදිය. දෙවන පිළිතුර (officers only) ද වැරදියි, මන්ද ආරක්ෂක පුහුණුව නිලධාරීන්ට පමණක් නොව සියලුම කාර්ය මණ්ඩලයට අනිවාර්ය වන බැවිනි. එබැවින් 'all seafarers' යනු නිවැරදි පිළිතුරයි.",
         "tags": [
             {
                 "sub_category": "Safety",
@@ -552,7 +552,7 @@
         ],
         "correct_answer": "Wearing and fastening of lifejackets and associated equipment.",
         "images": [],
-        "explanation": "",
+        "explanation": "SOLAS (Safety of Life at Sea) රෙගුලාසිවලට අනුව, Abandon ship drill එකකදී කාර්ය මණ්ඩලයේ සෑම සාමාජිකයෙකුම Lifejackets නිවැරදිව පැළඳීම සහ සවි කිරීම (Wearing and fastening) අනිවාර්යයෙන්ම ප්‍රායෝගිකව පෙන්විය යුතුය. අනෙක් විකල්පයන් වන Immersion suits, Thermal protective aids සහ Radios පිළිබඳ දැනුම වැදගත් වුවද, හදිසි අවස්ථාවකදී පුද්ගලික ආරක්ෂාව සඳහා මූලිකම පියවර වන්නේ Lifejacket එක නිවැරදිව පැළඳීමයි. එබැවින්, පුහුණුවීම් වලදී ප්‍රායෝගිකව පෙන්විය යුතු ප්‍රධානම අංගය වන්නේ Lifejacket පැළඳීමයි.",
         "tags": [
             {
                 "sub_category": "Safety",
@@ -576,7 +576,7 @@
         ],
         "correct_answer": "To reduce risk of fire and the risk of slipping.",
         "images": [],
-        "explanation": "",
+        "explanation": "එන්ජින් සහ බොයිලර් කාමර පිරිසිදුව තබා ගැනීම සහ තෙල් කාන්දුවීම් වහාම පිරිසිදු කිරීම ප්‍රධාන වශයෙන්ම සිදු කරන්නේ කාර්ය මණ්ඩලයේ ආරක්ෂාව සහ නැවේ ආරක්ෂාව තහවුරු කිරීමටයි. 1. Fire hazard: තෙල් කාන්දුවීම් යනු ඉතා පහසුවෙන් ගිනි ඇවිලිය හැකි (flammable) ද්‍රව්‍ය වේ. විශේෂයෙන්ම බොයිලර් සහ එන්ජින් වැනි අධික උෂ්ණත්වයක් පවතින ස්ථානවල තෙල් කාන්දුවීම් තිබීමෙන් ගින්නක් ඇතිවීමේ අවදානම (risk of fire) ඉතා ඉහළ යයි. 2. Slipping hazard: තෙල් සහිත බිමක ලිස්සා යාමෙන් පුද්ගලයන්ට බරපතල අනතුරු සිදුවිය හැක (risk of slipping). අනෙක් පිළිතුරු වන රක්ෂණ වාරික අඩු කිරීම, තීන්ත ආරක්ෂා කිරීම හෝ දඩ මුදල් වළක්වා ගැනීම යන කරුණු වැදගත් වුවත්, එන්ජින් කාමරයක පිරිසිදුකම පවත්වා ගැනීමේ මූලිකම සහ අත්‍යවශ්‍යම හේතුව වන්නේ ජීවිත ආරක්ෂාව සහ ගිනි අනතුරු වැළැක්වීමයි.",
         "tags": [
             {
                 "sub_category": "Safety",
@@ -600,7 +600,7 @@
         ],
         "correct_answer": "All personnel participate in the training at the same time.",
         "images": [],
-        "explanation": "",
+        "explanation": "නැවක Master කෙනෙකුගේ ප්‍රධාන වගකීමක් වන්නේ හදිසි අවස්ථාවකදී (Emergency situation) සියලුම කාර්ය මණ්ඩලය (All personnel) එකම අවස්ථාවකදී පුහුණුවීම්වලට (Drills/Training) සහභාගී වීම සහතික කිරීමයි. අනෙක් විකල්පයන් සලකා බලන විට: 1) පුහුණු වැඩසටහන ක්‍රියාත්මක කිරීමේ වගකීම ප්‍රධාන වශයෙන් පැවරෙන්නේ Safety Officer හෝ අදාළ දෙපාර්තමේන්තු ප්‍රධානීන් වෙතය. 2) නැව් කළමනාකරුට (Ship manager) තොරතුරු සැපයීම පරිපාලනමය කටයුත්තක් වුවද, පුහුණුවීම්වලදී සියලු දෙනාගේ සහභාගීත්වය සහතික කිරීම ආරක්ෂාව සම්බන්ධයෙන් Master සතු මූලික වගකීමකි. 3) Safety equipment භාවිතා නොකිරීම යනු පුහුණුවකදී කිසිසේත්ම සිදු නොවිය යුතු දෙයකි, මන්ද පුහුණුවීම්වල අරමුණ වන්නේ එම උපකරණ නිවැරදිව භාවිතා කිරීමට හුරු වීමයි. එබැවින්, සියලු දෙනාගේ සහභාගීත්වය සහතික කිරීම Master ගේ ප්‍රධාන වගකීම වේ.",
         "tags": [
             {
                 "sub_category": "Management",
@@ -624,7 +624,7 @@
         ],
         "correct_answer": "It is the SOLAS conventions that take care of the human safety at sea.",
         "images": [],
-        "explanation": "",
+        "explanation": "මුහුදේදී මිනිසුන්ගේ ආරක්ෂාව (Human safety at sea) තහවුරු කිරීම සඳහා ප්‍රධාන වශයෙන් වගකිව යුතු ජාත්‍යන්තර සම්මුතිය වන්නේ SOLAS (International Convention for the Safety of Life at Sea) වේ. අනෙක් විකල්පයන් විශ්ලේෂණය කරමු: 1. MARPOL යනු මුහුදු දූෂණය වැළැක්වීම (Prevention of marine pollution) සඳහා වන සම්මුතියකි. 2. STCW (Standards of Training, Certification and Watchkeeping) යනු නාවිකයන්ගේ පුහුණුව සහ සහතික කිරීම සඳහා වන සම්මුතියකි. 3. 'කිසිදු සම්මුතියක් නොමැත' යන්න වැරදිය. එබැවින්, SOLAS යනු නිවැරදි පිළිතුරයි.",
         "tags": [
             {
                 "sub_category": "Legislation",
@@ -648,7 +648,7 @@
         ],
         "correct_answer": "Rig chain blocks to lift the cylinder head from its cradle and then transfer it gradually over to the crane hook by working the chain blocks.",
         "images": [],
-        "explanation": "",
+        "explanation": "මෙම කාර්යයේදී ආරක්ෂාව (Safety) ඉතා වැදගත් වේ. Cylinder head එකක් යනු බරින් වැඩි උපකරණයකි. 1. වැරදි පිළිතුරු විශ්ලේෂණය: 'Dragging' හෙවත් බිම දිගේ ඇදගෙන යාම (පිළිතුරු 2, 3 සහ 4) මගින් deck එකට හෝ cylinder head එකේ mating surfaces වලට හානි සිදුවිය හැක. එසේම crane hook එක හරස් අතට (side loading) ඇදීමෙන් crane එකේ structure එකට හානි සිදුවිය හැක. 2. නිවැරදි ක්‍රමය: Chain blocks (Tirfor හෝ Chain hoists) භාවිතා කර බර සිරස් අතට ඔසවා (vertical lift), පසුව පාලනය කළ හැකි ආකාරයට crane hook එක පවතින ස්ථානයට මාරු කිරීම (transfer) වඩාත් ආරක්ෂිත සහ තාක්ෂණිකව නිවැරදි ක්‍රමයයි. මෙහිදී side loading වළක්වා ගනිමින් බර පාලනය කරගත හැක.",
         "tags": [
             {
                 "sub_category": "Maintenance",
@@ -672,7 +672,7 @@
         ],
         "correct_answer": "At all times when identified as a control method with risk assessment.",
         "images": [],
-        "explanation": "",
+        "explanation": "Personal Protective Equipment (PPE) භාවිතය පිළිබඳ තීරණය ගනු ලබන්නේ Risk Assessment ක්‍රියාවලිය හරහාය. පළමු විකල්ප තුන (Only on deck, Only in the engine room, When making the vessel fast) මගින් PPE භාවිතය සීමිත ස්ථානවලට හෝ අවස්ථාවලට පමණක් සීමා කරයි, නමුත් සැබෑ ආරක්ෂක ක්‍රමවේදයන්ට අනුව, අනතුරක් සිදුවිය හැකි ඕනෑම අවස්ථාවක Risk Assessment මගින් PPE අනිවාර්ය කර ඇත්නම් එය පැළඳීම අනිවාර්ය වේ. එබැවින්, 'At all times when identified as a control method with risk assessment' යන්න නිවැරදි පිළිතුර වේ.",
         "tags": [
             {
                 "sub_category": "Safety",
@@ -694,9 +694,9 @@
             "Legs straight, back bent, using back muscles to lift.",
             "Legs bent, back straight, using leg muscles to lift."
         ],
-        "correct_answer": "Legs straight, back bent and twisted to the right or to the left while lifting.",
+        "correct_answer": "Legs bent, back straight, using leg muscles to lift.",
         "images": [],
-        "explanation": "",
+        "explanation": "නිවැරදි Lifting technique එක වන්නේ 'Legs bent, back straight, using leg muscles to lift' යන්නයි. බරක් එසවීමේදී කොන්ද කෙලින් තබා ගැනීම (Back straight) මගින් කොඳු ඇට පෙළට සිදුවන අනවශ්‍ය පීඩනය අවම කර ගත හැක. දණහිස් නවා (Legs bent) බර එසවීම මගින් ශරීරයේ ශක්තිමත්ම මාංශ පේශි වන කකුලේ මාංශ පේශි (Leg muscles) භාවිතා කිරීමට හැකි වන අතර එමගින් කොන්දේ මාංශ පේශිවලට සිදුවන හානි වළක්වා ගත හැක. අනෙක් විකල්ප තුනම වැරදියි: 1) කොන්ද නවා (Back bent) එසවීමෙන් කොඳු ඇට පෙළට හානි සිදුවේ. 2) ඇඹරීම (Twisting) මගින් කොඳු ඇට පෙළේ තැටි (Spinal discs) වලට බරපතල හානි සිදුවිය හැක. 3) කකුල් කෙලින් තබා (Legs straight) එසවීමෙන් මුළු බරම කොන්දට පැටවෙන නිසා එය ඉතා අනතුරුදායක වේ.",
         "tags": [
             {
                 "sub_category": "Safety",

@@ -11,7 +11,7 @@
         ],
         "correct_answer": "Breaches.",
         "images": [],
-        "explanation": "",
+        "explanation": "මෙම ප්‍රශ්නය ISPS Code (International Ship and Port Facility Security Code) හා සම්බන්ධ ආරක්ෂක ක්‍රියාපටිපාටියක් ගැන විමසයි. මෙහිදී 'Breaches of security' යනු ආරක්ෂක විධිවිධාන කඩවීමක් හෝ ආරක්ෂාවට තර්ජනයක් එල්ල වීමයි. 'Personnel' යනු කාර්ය මණ්ඩලය වන අතර එය මෙහි අර්ථයට නොගැලපේ. 'Closeness' සහ 'Brackets' යන වචන ආරක්ෂක සන්දර්භය තුළ අර්ථ විරහිත වේ. එබැවින්, ආරක්ෂක තර්ජනයක් හෝ උල්ලංඝනයක් සිදුවූ විට වහාම ක්‍රියාත්මක විය යුතු බැවින් 'Breaches' යනු නිවැරදි පිළිතුරයි.",
         "tags": [
             {
                 "sub_category": "Security",
@@ -35,7 +35,7 @@
         ],
         "correct_answer": "Fire watch.",
         "images": [],
-        "explanation": "",
+        "explanation": "නැවක Hot work සිදුකරන විට ආරක්ෂාව තහවුරු කිරීම සඳහා Fire watch කෙනෙකු පත් කිරීම අනිවාර්ය වේ. මෙහිදී 'Fire watch' යනු ගින්නක් ඇතිවේදැයි නිරීක්ෂණය කරන පුද්ගලයායි. අනෙක් විකල්පයන් වන 'Fire hazard' (ගිනි උවදුර), 'Drinking' (පැන් පානය) සහ 'Cooling' (සිසිල් කිරීම) යන වචන මෙම වාක්‍යයට කිසිසේත්ම නොගැලපේ. Hot work සිදුකරන කාලය තුළ එම පුද්ගලයා වෙනත් කිසිදු රාජකාරියක නිරත නොවී සම්පූර්ණයෙන්ම ගිනි ආරක්ෂාව පිළිබඳව අවධානය යොමු කළ යුතු බැවින් 'Fire watch' යනු නිවැරදි පිළිතුරයි.",
         "tags": [
             {
                 "sub_category": "Safety",
@@ -59,7 +59,7 @@
         ],
         "correct_answer": "Most vital.",
         "images": [],
-        "explanation": "",
+        "explanation": "මෙම ප්‍රශ්නයේදී අපට අවශ්‍ය වන්නේ වාක්‍යයේ අර්ථයට ගැලපෙන නිවැරදි වචන යුගලය තෝරා ගැනීමයි. මෙහි 'vital' යනු 'අත්‍යවශ්‍ය' (essential) යන අර්ථය දෙන අතර, 'viral' යනු වෛරසයක් මගින් පැතිරෙන හෝ අන්තර්ජාලයේ වේගයෙන් පැතිරෙන දෙයක් සඳහා භාවිතා වන්නකි. එබැවින් 'viral' යන වචනය මෙහිදී වැරදිය. 'Must' යනු 'කළ යුතු' යන අර්ථය දෙන modal verb එකක් වන අතර, මෙහිදී අපට අවශ්‍ය වන්නේ 'වඩාත්ම අත්‍යවශ්‍ය' යන අර්ථය දෙන 'Most vital' යන්නයි. 'Must vital' යන්න ව්‍යාකරණානුකූලව වැරදිය. BA Control Board යනු ගිනි නිවීමේ මෙහෙයුම් වලදී Breathing Apparatus (BA) පැළඳ සිටින කාර්ය මණ්ඩලයේ ආරක්ෂාව සහ කාලය පාලනය කිරීමට භාවිතා කරන අතිශය වැදගත් උපකරණයක් බැවින් 'Most vital' යන්න නිවැරදි වේ.",
         "tags": [
             {
                 "sub_category": "Firefighting",
@@ -83,7 +83,7 @@
         ],
         "correct_answer": "Mustered.",
         "images": [],
-        "explanation": "",
+        "explanation": "නැවක General alarm එකක් නාද වූ විට, කාර්ය මණ්ඩලය (crew) කළ යුතු ප්‍රධානම කාර්යය වන්නේ නියමිත ස්ථානයට රැස්වීමයි. මේ සඳහා භාවිතා කරන තාක්ෂණික වචනය 'Mustering' වේ. අනෙක් විකල්ප විශ්ලේෂණය කරමු: 'Boarded' යනු නැවට ගොඩවීමයි, 'Worked' යනු වැඩ කිරීමයි, සහ 'Sailed' යනු නැව ගමන් කිරීමයි. හදිසි අවස්ථාවකදී (Emergency situation) කාර්ය මණ්ඩලය එකතු වීම අනිවාර්ය වන බැවින් 'Mustered' යනු නිවැරදි පිළිතුරයි.",
         "tags": [
             {
                 "sub_category": "Emergency",
@@ -107,7 +107,7 @@
         ],
         "correct_answer": "Drydock.",
         "images": [],
-        "explanation": "",
+        "explanation": "මෙම ප්‍රශ්නයෙන් විමසන්නේ නෞකාවේ Hull එක පරීක්ෂා කිරීමට (inspect) ලැබෙන මීළඟ අවස්ථාව කුමක්ද යන්නයි. 'Drydock' යනු නෞකාවක Hull එක පරීක්ෂා කිරීමට සහ නඩත්තු කටයුතු සිදු කිරීමට යොදාගන්නා ස්ථානයයි. අනෙක් විකල්ප විශ්ලේෂණය කරමු: 'Dallas' යනු නගරයක නමකි, එය ස්ථානයක් වුවද Hull පරීක්ෂාවට අදාළ තාක්ෂණික ස්ථානයක් නොවේ. 'January last year' යනු අතීත කාලයක් වන අතර, ප්‍රශ්නයෙන් විමසන්නේ 'next chance' හෙවත් අනාගත අවස්ථාවක් ගැනය. 'The superintendent' යනු පුද්ගලයෙකි, එය ස්ථානයක් හෝ කාලයක් නොවේ. එබැවින් 'Drydock' යනු නිවැරදිම පිළිතුරයි.",
         "tags": [
             {
                 "sub_category": "Maintenance",
@@ -131,7 +131,7 @@
         ],
         "correct_answer": "Lowered.",
         "images": [],
-        "explanation": "",
+        "explanation": "මෙම ප්‍රශ්නයේදී rescue boat එකක් දියත් කිරීමේ (launching) ක්‍රියාවලිය ගැන සාකච්ඡා කෙරේ. 'Lowered' යන්නෙහි අර්ථය වන්නේ යම් දෙයක් පහළට හෙලීමයි. Rescue boat එකක් දියත් කිරීමේදී 'Davit' පද්ධතියක් මගින් එය පහළට හෙලීම සිදුකරන බැවින් 'Lowered' යන්න වඩාත් උචිත වේ. අනෙක් වචන විශ්ලේෂණය කළහොත්: 'Flowered' යනු මල් පිපීම සම්බන්ධ වචනයකි, 'Cowered' යනු බියෙන් හැකිලීමයි, සහ 'Powdered' යනු කුඩු කිරීම හෝ කුඩු ඉසීමයි. මේවා කිසිවක් නැවක මෙහෙයුම් සඳහා අදාළ නොවේ. එබැවින් 'Lowered' යනු නිවැරදි පිළිතුරයි.",
         "tags": [
             {
                 "sub_category": "Safety",
@@ -155,7 +155,7 @@
         ],
         "correct_answer": "Being dealt with.",
         "images": [],
-        "explanation": "",
+        "explanation": "මෙම වාක්‍යය Passive Voice ආකාරයෙන් ගොඩනැගිය යුතු එකකි. 'The problem of piracy' යනු කර්මය (object) වන අතර, එය යම් ක්‍රියාවකට ලක්වන බව පෙන්වීමට 'is being dealt with' යන Passive construction එක භාවිතා වේ. 'Dealing with' සහ 'Dealing without' යන පිළිතුරු Active Voice වන අතර ඒවා මෙහිදී ව්‍යාකරණානුකූලව නොගැලපේ. 'Terrible' යනු විශේෂණ පදයක් (adjective) වන අතර එය වාක්‍යයේ අර්ථයට නොගැලපේ. එබැවින් 'Being dealt with' යනු නිවැරදි පිළිතුරයි.",
         "tags": [
             {
                 "sub_category": "Security",
@@ -179,7 +179,7 @@
         ],
         "correct_answer": "Encountering.",
         "images": [],
-        "explanation": "",
+        "explanation": "මෙම ප්‍රශ්නයෙන් අදහස් වන්නේ Basic safety familiarisation මගින් අනතුරක් හෝ හදිසි වෛද්‍ය තත්ත්වයක් දුටු වහාම (Encountering) ක්‍රියාත්මක වීමට ඔබට හැකියාව ලැබෙන බවයි. 'Encountering' යන්නෙහි අර්ථය යම් දෙයකට මුහුණ දීම හෝ හමුවීම යන්නයි. අනෙක් විකල්පයන් විශ්ලේෂණය කරමු: 'Countering' යනු යම් දෙයකට විරුද්ධව ක්‍රියා කිරීමයි, 'Reacting' යනු ප්‍රතිචාර දැක්වීමයි (මෙම වාක්‍යයට 'upon reacting' යැයි පැවසිය නොහැක), සහ 'Counting' යනු ගණන් කිරීමයි. වාක්‍යයේ අර්ථයට අනුව 'upon encountering' (යම් දෙයකට මුහුණ දුන් විට) යන්න වඩාත් නිවැරදි වේ.",
         "tags": [
             {
                 "sub_category": "Safety",
@@ -203,7 +203,7 @@
         ],
         "correct_answer": "Different.",
         "images": [],
-        "explanation": "",
+        "explanation": "නැවක ඉන්ධන (Bunkers) ගබඩා කිරීමේදී විවිධ සැපයුම්කරුවන්ගෙන් (Suppliers) ලබාගන්නා ඉන්ධන එකම ටැංකියක මිශ්‍ර කිරීමෙන් වැළකී සිටිය යුතුය. මෙයට ප්‍රධාන හේතුව වන්නේ විවිධ මූලාශ්‍රවලින් ලැබෙන ඉන්ධනවල රසායනික සංයුතිය (Chemical composition) වෙනස් විය හැකි වීමයි. මෙසේ මිශ්‍ර කිරීමෙන් ඉන්ධනවල අස්ථාවරත්වය (Instability) ඇති වී, ඉන්ධන කැටි ගැසීම (Sludge formation) හෝ ඉන්ධන පද්ධතියේ අවහිරතා (Filter clogging) ඇති විය හැක. එබැවින් 'Different' යන්න මෙහිදී නිවැරදි වචනය වේ. 'Simulator' යනු පුහුණු උපකරණයකි, 'Alternator' යනු විදුලිය නිපදවන උපකරණයකි, සහ 'Strange' යනු අමුතු යන අර්ථය දෙන වචනයකි. මේවා ඉන්ධන සැපයුම්කරුවන් සම්බන්ධයෙන් කිසිදු තාර්කික සම්බන්ධයක් නොදක්වයි.",
         "tags": [
             {
                 "sub_category": "Bunkering",
@@ -227,7 +227,7 @@
         ],
         "correct_answer": "Tolerance.",
         "images": [],
-        "explanation": "",
+        "explanation": "මෙම ප්‍රශ්නයෙන් අදහස් කරන්නේ 'Enclosed spaces' වලට අවසරයකින් තොරව ඇතුළු වීම සම්බන්ධයෙන් නැව් කාර්ය මණ්ඩලය දැඩි ප්‍රතිපත්තියක් අනුගමනය කළ යුතු බවයි. 'Zero tolerance' යනු කිසිදු ආකාරයකින් ඉවසීමක් නොමැති බව හෝ එවැනි ක්‍රියාවක් කිසිසේත්ම අනුමත නොකරන බව හැඟවෙන පොදු ඉංග්‍රීසි යෙදුමකි (Idiomatic expression). අනෙක් විකල්පයන් වන 'To risk', 'Risking', සහ 'Aptitude' යන වචන මෙම වාක්‍යයේ ව්‍යාකරණානුකූලව හෝ අර්ථය අනුව නොගැලපේ. 'Zero tolerance' යනු නාවික ආරක්ෂක රෙගුලාසි වලදී (Safety regulations) ඉතා වැදගත් යෙදුමකි.",
         "tags": [
             {
                 "sub_category": "Safety",
@@ -251,7 +251,7 @@
         ],
         "correct_answer": "Input.",
         "images": [],
-        "explanation": "",
+        "explanation": "මෙම වාක්‍යයේ අර්ථය වන්නේ අලුතින් රැකියාවකට සම්බන්ධ වූ විට, යම් කාර්යයක් ආරම්භ කිරීමට පෙර ඔබේ ඉහළ නිලධාරීන්ගේ (superiors) අදහස් හෝ උපදෙස් විමසීමට පසුබට නොවන්න යන්නයි. 'Input' යන්නෙන් මෙහි අදහස් වන්නේ අදහස්, යෝජනා හෝ මගපෙන්වීම් (advice/suggestions) යන්නයි. අනෙක් විකල්පයන් වන 'Phone' (දුරකථනය), 'Outpour' (පිටාර ගැලීම) සහ 'Earplugs' (කන් ආවරණ) යන වචන මෙම වාක්‍යයේ සන්දර්භයට (context) කිසිසේත්ම නොගැලපේ. එබැවින් 'Input' යනු නිවැරදි පිළිතුරයි.",
         "tags": [
             {
                 "sub_category": "Safety",
@@ -275,7 +275,7 @@
         ],
         "correct_answer": "Deviation.",
         "images": [],
-        "explanation": "",
+        "explanation": "මෙම ප්‍රශ්නයෙන් අදහස් වන්නේ එකඟ වූ ක්‍රියාපටිපාටියකින් (agreed procedure) බැහැර වීම නිසා මෙහෙයුමක් අනාරක්ෂිත විය හැකි බවයි. 'Deviation' යන්නෙහි අර්ථය 'බැහැර වීම' හෝ 'වෙනස් වීම' යන්නයි. එබැවින් එය මෙහිදී වඩාත් නිවැරදි වේ. අනෙක් විකල්ප විශ්ලේෂණය කරමු: 'Expectation' (බලාපොරොත්තුව) යනු අනාගත සිදුවීමක් පිළිබඳ අදහසකි. 'Inclusion' (ඇතුළත් කිරීම) යනු යමක් එකතු කිරීමයි. 'Improvement' (දියුණු කිරීම) යනු තත්ත්වය යහපත් කිරීමයි. මෙම වචන තුනම වාක්‍යයේ අර්ථයට නොගැලපේ. එබැවින් 'Deviation' යනු නිවැරදි පිළිතුරයි.",
         "tags": [
             {
                 "sub_category": "Safety",
@@ -299,7 +299,7 @@
         ],
         "correct_answer": "Command.",
         "images": [],
-        "explanation": "",
+        "explanation": "STCW Convention (Standards of Training, Certification and Watchkeeping) රෙගුලාසිවලට අනුව, නැවක රාජකාරියේ යෙදී සිටින නිලධාරියෙකුට ඉංග්‍රීසි භාෂාව පිළිබඳ මනා දැනුමක් හෝ හැකියාවක් තිබිය යුතුය. මෙහිදී 'Command of a language' යනු යම් භාෂාවක් ඉතා හොඳින් හැසිරවීමේ සහ අවබෝධ කර ගැනීමේ හැකියාවයි. අනෙක් විකල්ප විශ්ලේෂණය කරමු: 'Comment' යනු අදහස් දැක්වීමකි, 'Compound' යනු සංයෝගයකි, සහ 'Communication' යනු සන්නිවේදනයයි. මෙම වාක්‍යයේ අර්ථයට වඩාත් ගැලපෙන සහ තාක්ෂණික වශයෙන් නිවැරදි වචනය වන්නේ 'Command' ය. එබැවින්, නිවැරදි පිළිතුර 'Command' වේ.",
         "tags": [
             {
                 "sub_category": "Legislation",
@@ -323,7 +323,7 @@
         ],
         "correct_answer": "Communicate.",
         "images": [],
-        "explanation": "",
+        "explanation": "මෙම වාක්‍යයේ අර්ථය වන්නේ 'සැටලයිට් සම්බන්ධතාවයක් නොතිබූ නිසා අපට _____ නොහැකි විය' යන්නයි. මෙහිදී හිස්තැනට සුදුසු වන්නේ ක්‍රියා පදයක් (Verb) වේ. 'Communicate' යනු 'සන්නිවේදනය කිරීම' යන අර්ථය දෙන ක්‍රියා පදයයි. 'Commanding' යනු නාම විශේෂණයක් හෝ ක්‍රියා පදයක අඛණ්ඩ ස්වරූපයක් වන අතර එය මෙහි ව්‍යාකරණානුකූලව නොගැලපේ. 'Complicate' යනු 'සංකීර්ණ කිරීම' වන අතර එය සන්දර්භයට නොගැලපේ. 'Computer' යනු නාම පදයක් වන අතර එය මෙහි ක්‍රියා පදයක් ලෙස භාවිතා කළ නොහැක. එබැවින් 'Communicate' යනු නිවැරදි පිළිතුරයි.",
         "tags": [
             {
                 "sub_category": "Communication",
@@ -343,11 +343,12 @@
             "Overheated.",
             "Oven ready.",
             "Offered.",
+            "On-hearted.",
             "Open-hearted."
         ],
         "correct_answer": "Overheated.",
         "images": [],
-        "explanation": "",
+        "explanation": "මෙම වාක්‍යයේ අර්ථය වන්නේ විදුලි උපකරණයක් (socket and adaptor) අධික ලෙස රත් වීම නිසා ගින්නක් ඇති වූ බවයි. 'Overheated' යනු විදුලි පරිපථයක හෝ උපකරණයක උෂ්ණත්වය සාමාන්‍ය මට්ටමට වඩා ඉහළ යාමයි (Electrical overheating). අනෙක් විකල්ප විශ්ලේෂණය කරමු: 'Oven ready' යනු ආහාර පිසීමට සූදානම් බවයි, එය මෙහි නොගැලපේ. 'Offered' යනු යමක් ලබා දීමයි, එය තාක්ෂණික දෝෂයක් විස්තර කිරීමට භාවිතා නොවේ. 'Open-hearted' යනු කාරුණික පුද්ගලයෙකු හැඳින්වීමට භාවිතා කරන වචනයකි. එබැවින්, තාක්ෂණික වශයෙන් නිවැරදි සහ වාක්‍යයට ගැලපෙන එකම වචනය 'Overheated' වේ.",
         "tags": [
             {
                 "sub_category": "Safety",
@@ -371,7 +372,7 @@
         ],
         "correct_answer": "Are established.",
         "images": [],
-        "explanation": "",
+        "explanation": "මෙම වාක්‍යය Passive Voice (කර්ම කාරක) ආකාරයෙන් ගොඩනැගිය යුතු වේ. මෙහි 'smoke boundaries' යනු කර්මය වන අතර, ඒ සඳහා සුදුසු ක්‍රියා පදය වන්නේ 'are established' (පිහිටුවනු ලැබේ) යන්නයි. අනෙක් විකල්පයන් සලකා බලමු: 'Are establishment' යනු ව්‍යාකරණානුකූලව වැරදි ය, මන්ද 'establishment' යනු නාම පදයක් (noun) වන බැවිනි. 'Are estimable' යන්නෙන් අදහස් වන්නේ 'ඇස්තමේන්තු කළ හැකි' යන්නයි, නමුත් මෙහිදී ගිනි නිවන කණ්ඩායම විසින් සීමාවන් සකස් කිරීමක් (establishing) සිදු කරන බැවින් එය වැරදි වේ. 'Establishing' යනු ක්‍රියා පදයේ අඛණ්ඩ ස්වරූපය වන අතර, එය වාක්‍යයේ ව්‍යුහයට නොගැලපේ. එබැවින්, 'Are established' යනු නිවැරදි පිළිතුරයි.",
         "tags": [
             {
                 "sub_category": "Firefighting",
@@ -395,7 +396,7 @@
         ],
         "correct_answer": "Deal with.",
         "images": [],
-        "explanation": "",
+        "explanation": "මෙම වාක්‍යයේ 'to' යන preposition එකට පසුව ක්‍රියාවක මූලික ස්වරූපය (base form of the verb) පැමිණිය යුතුය. 'Deal with' යනු 'propulsion failures' වැනි හදිසි තත්ත්වයන් කළමනාකරණය කිරීම හෝ විසඳීම සඳහා භාවිතා කරන නිවැරදි phrasal verb එකයි. 'Conduct' යනු යමක් මෙහෙයවීමයි, නමුත් මෙහිදී අසාර්ථක වීම් (failures) මෙහෙයවීමක් සිදු නොවේ. 'Evacuate' යනු ඉවත් වීමයි, එය propulsion failures සඳහා කෙලින්ම යොදාගත නොහැක. 'Dealing' යනු gerund ස්වරූපය වන අතර එය 'to' ට පසුව ව්‍යාකරණානුකූලව නොගැලපේ. එබැවින් 'Deal with' යනු වඩාත්ම සුදුසු පිළිතුරයි.",
         "tags": [
             {
                 "sub_category": "Emergency",
@@ -419,7 +420,7 @@
         ],
         "correct_answer": "Alert.",
         "images": [],
-        "explanation": "",
+        "explanation": "මෙම ප්‍රශ්නය මගින් නැවක කාර්ය මණ්ඩලයේ වගකීමක් ගැන විස්තර කෙරේ. 'Hazardous conditions' හෙවත් අනතුරුදායක තත්ත්වයන් හඳුනා ගැනීම සඳහා කාර්ය මණ්ඩලය නිරන්තරයෙන් අවධානයෙන් සිටිය යුතුය. 'Alert' යන්නෙහි අර්ථය 'අවධානයෙන් සිටීම' යන්නයි. අනෙක් විකල්ප විශ්ලේෂණය කළහොත්: 'Always' යනු කාලය පිළිබඳ ක්‍රියා පදයක් වන අතර එය වාක්‍යයේ ව්‍යාකරණානුකූලව නොගැලපේ. 'Ahead' සහ 'Astern' යනු නැවක දිශාවන් (ඉදිරිපස සහ පසුපස) හැඳින්වීමට භාවිතා කරන වචන වන අතර ඒවා මෙහි සන්දර්භයට කිසිසේත්ම නොගැලපේ. එබැවින් 'Alert' යනු නිවැරදි පිළිතුරයි.",
         "tags": [
             {
                 "sub_category": "Safety",
@@ -443,7 +444,7 @@
         ],
         "correct_answer": "Safe.",
         "images": [],
-        "explanation": "",
+        "explanation": "SWL යනු Safe Working Load යන්නෙහි කෙටි යෙදුමයි. නාවික කටයුතුවලදී සහ Lifting equipment (උපකරණ) භාවිතා කිරීමේදී, එම උපකරණයකට ආරක්ෂිතව ඔසවා තැබිය හැකි උපරිම බර ප්‍රමාණය Safe Working Load ලෙස හැඳින්වේ. අනෙක් විකල්ප වන Special, Secure සහ Ship යන වචන මෙම තාක්ෂණික පදයට (Technical term) අදාළ නොවේ. එබැවින් 'Safe' යනු නිවැරදි පිළිතුරයි.",
         "tags": [
             {
                 "sub_category": "Deck",
@@ -463,7 +464,7 @@
         ],
         "correct_answer": "Hold.",
         "images": [],
-        "explanation": "",
+        "explanation": "මෙම වාක්‍යයේ ව්‍යාකරණ රටාව අනුව, 'that you' ට පසුව අවශ්‍ය වන්නේ ක්‍රියා පදයක (verb) මූලික ස්වරූපයයි. 'Hold' යනු මෙහිදී 'සතු වීම' හෝ 'පැවතීම' යන අර්ථයෙන් යෙදෙන නිවැරදි ක්‍රියා පදයයි. අනෙක් විකල්ප විශ්ලේෂණය කරමු: 'Knowing' යනු ක්‍රියා පදයක අඛණ්ඩ ස්වරූපයක් වන අතර එය මෙහි ව්‍යාකරණානුකූලව නොගැලපේ. 'Are left' යන්නෙන් අදහස් වන්නේ 'ඉතිරි වී ඇත' යන්නයි, එය මෙහි සන්දර්භයට නොගැලපේ. 'In passing' යනු වාක්‍යයක මැදට යෙදිය හැකි ක්‍රියා පදයක් නොවේ. එබැවින්, 'you hold the correct certificates' (ඔබ සතුව නිවැරදි සහතික පත්‍ර තිබේද) යන්න වඩාත් සුදුසු සහ නිවැරදි වාක්‍ය ඛණ්ඩය වේ.",
         "tags": [
             {
                 "sub_category": "Legislation",
@@ -483,7 +484,7 @@
         ],
         "correct_answer": "Any doubts.",
         "images": [],
-        "explanation": "",
+        "explanation": "මෙම වාක්‍යයේ අර්ථය වන්නේ ඔබේ රාජකාරි, ආරක්ෂිත වැඩ පිළිවෙත් (safe working practices) හෝ හදිසි ක්‍රියා පටිපාටි (emergency procedures) පිළිබඳව ඔබට යම් සැකයක් ඇත්නම් ප්‍රශ්න ඇසීමට බිය නොවන්න යන්නයි. 'Any doubts' යන්න මෙහිදී 'යම් සැකයක්' යන අර්ථය ලබා දෙයි. අනෙක් විකල්ප විශ්ලේෂණය කළහොත්: 'Known' (දන්නා), 'Finished' (අවසන්), සහ 'Questioning' (ප්‍රශ්න කිරීම) යන වචන මෙම වාක්‍යයේ ව්‍යාකරණානුකූලව හෝ අර්ථය අනුව නොගැලපේ. එබැවින් 'Any doubts' යනු නිවැරදි පිළිතුරයි.",
         "tags": [
             {
                 "sub_category": "Safety",
@@ -503,11 +504,12 @@
             "Within.",
             "Draught.",
             "Whether.",
-            "Without."
+            "Without.",
+            "Within."
         ],
         "correct_answer": "Within.",
         "images": [],
-        "explanation": "",
+        "explanation": "මෙම වාක්‍යයේ අර්ථය වන්නේ 'සීමිත ජල මාර්ග (restricted waterways) තුළ (within) නැව්වල ප්‍රමාණය වැඩිවීම නිසා මෙහෙයුම් ආරක්ෂාව (operational safety) අඩු වී ඇති බවයි'. මෙහිදී 'Within' යන්නෙන් අදහස් කරන්නේ යම් සීමාවක් ඇතුළත යන්නයි. අනෙක් විකල්ප විශ්ලේෂණය කරමු: 'Draught' යනු නැවක ගැඹුරයි, එය මෙහි ව්‍යාකරණානුකූලව නොගැලපේ. 'Whether' යනු යම් දෙයක් සිදුවේද නැද්ද යන්න විමසීමට භාවිතා කරන වචනයකි. 'Without' යනු යම් දෙයකින් තොරව යන්නයි, එය මෙහි අර්ථයට නොගැලපේ. එබැවින් 'Within' යනු නිවැරදිම පිළිතුරයි.",
         "tags": [
             {
                 "sub_category": "Navigation",
@@ -531,7 +533,7 @@
         ],
         "correct_answer": "Morning.",
         "images": [],
-        "explanation": "",
+        "explanation": "මෙම ප්‍රශ්නයේදී 'before the sun got too hot' (හිරු රශ්මිය අධික වීමට පෙර) යන වාක්‍ය ඛණ්ඩය ඉතා වැදගත් වේ. සාමාන්‍යයෙන් නැවක තීන්ත ආලේප කිරීමේ (painting) කටයුතු සිදු කරන්නේ හිරු රශ්මිය අඩු කාලයකදීය. 'Morning' (උදෑසන) යනු හිරු රශ්මිය අඩු, වැඩ කිරීමට සුදුසු කාලයයි. 'Afternoon' (දහවල්) කාලයේදී හිරු රශ්මිය ඉතා අධික බැවින් එය වැරදි පිළිතුරකි. 'Evening' (සවස) කාලය තීන්ත වියළීමට ප්‍රමාණවත් කාලයක් නොමැති විය හැකි අතර, 'Home leave' යනු නිවාඩු කාලයක් වන බැවින් එය කාර්යයක් සිදු කිරීමට අදාළ නොවේ. එබැවින් 'Morning' යනු නිවැරදිම පිළිතුරයි.",
         "tags": [
             {
                 "sub_category": "Maintenance",
@@ -555,7 +557,7 @@
         ],
         "correct_answer": "Poop deck.",
         "images": [],
-        "explanation": "",
+        "explanation": "මෙම ප්‍රශ්නයට නිවැරදි පිළිතුර තෝරාගැනීමේදී වාක්‍යයේ අර්ථය සහ සන්දර්භය (context) සලකා බැලිය යුතුය. 'Barbecue' එකක් පැවැත්වීම සඳහා සුදුසු ස්ථානයක් අවශ්‍ය වේ. 'Poop deck' යනු නැවක පසුපස කොටසේ පිහිටි විවෘත තට්ටුවක් වන අතර, එය බොහෝ විට නැවේ කාර්ය මණ්ඩලය විවේකී අවස්ථාවන්හිදී රැස්වන ස්ථානයක් ලෙස භාවිතා කරයි. අනෙක් විකල්පයන් විශ්ලේෂණය කරමු: 'Main engine' යනු නැවේ ප්‍රධාන එන්ජිමයි, එහි බාබකියු එකක් පැවැත්වීම තාක්ෂණිකව සහ ආරක්ෂිතව කළ නොහැක. 'Two cadets' යනු පුද්ගලයන් දෙදෙනෙකි, ඔවුන් මත බාබකියු එකක් පැවැත්විය නොහැක. 'Port state inspection' යනු නැවක් පරීක්ෂාවට ලක් කරන ක්‍රියාවලියකි, එය ස්ථානයක් නොවේ. එබැවින්, 'Poop deck' යනු පමණක් තාර්කිකව නිවැරදි ස්ථානය වේ.",
         "tags": [
             {
                 "sub_category": "Management",
@@ -579,7 +581,7 @@
         ],
         "correct_answer": "Drilled.",
         "images": [],
-        "explanation": "",
+        "explanation": "මෙම ප්‍රශ්නයේදී නැව් කාර්ය මණ්ඩලයට (crew) කුණු කළමනාකරණය (garbage management) පිළිබඳව පුහුණුවක් ලබා දීම ගැන සඳහන් වේ. මෙහිදී 'Drilled' යන වචනය භාවිතා වන්නේ යම් කාර්යයක් නිවැරදිව සිදු කිරීමට පුරුදු පුහුණු කිරීම හෝ පුහුණුවීම් (training/drills) ලබා දීම යන අර්ථයෙනි. අනෙක් වචන වන 'Pierced', 'Penetrated' සහ 'Punctured' යන වචන සියල්ලම යම් වස්තුවක් සිදුරු කිරීම හෝ විදීම යන භෞතික ක්‍රියාවලීන් සඳහා භාවිතා වන අතර, ඒවා මිනිසුන්ට පුහුණුව ලබා දීම යන අර්ථය සඳහා කිසිසේත්ම නොගැලපේ. එබැවින්, නාවික ක්ෂේත්‍රයේදී හදිසි අවස්ථා හෝ මෙහෙයුම් ක්‍රියා පටිපාටි සඳහා කාර්ය මණ්ඩලය පුහුණු කිරීම 'Drilling' ලෙස හඳුන්වන බැවින් 'Drilled' යනු නිවැරදි පිළිතුරයි.",
         "tags": [
             {
                 "sub_category": "Legislation",
@@ -603,7 +605,7 @@
         ],
         "correct_answer": "To challenge.",
         "images": [],
-        "explanation": "",
+        "explanation": "මෙම වාක්‍යයේ අර්ථය වන්නේ නැවක ඕනෑම තරාතිරමක සිටින කාර්ය මණ්ඩල සාමාජිකයෙකුට වැරදි තීරණයක් (inappropriate decisions) දුටු විට එයට එරෙහිව කතා කිරීමට හෝ එය ප්‍රශ්න කිරීමට (challenge) බලය පැවරිය යුතු බවයි. 'Empowered' යන වචනයෙන් පසුව සාමාන්‍යයෙන් ක්‍රියා පදයක් (infinitive verb) පැමිණේ. එබැවින් 'To challenge' යන්න වඩාත් ගැලපේ. අනෙක් විකල්පයන් වන 'And corrective' (ව්‍යාකරණානුකූලව වැරදියි), 'Strictly' (ක්‍රියා පදයක් නොවේ), සහ 'For repeating' (අර්ථයට නොගැලපේ) යන ඒවා වැරදි පිළිතුරු වේ. ආරක්ෂිත මෙහෙයුම් (Safety Management) සඳහා ඕනෑම අයෙකුට වැරදි තීරණයක් ප්‍රශ්න කිරීමට ඇති අයිතිය (Stop Work Authority) ඉතා වැදගත් වේ.",
         "tags": [
             {
                 "sub_category": "Safety",
@@ -627,7 +629,7 @@
         ],
         "correct_answer": "Virus.",
         "images": [],
-        "explanation": "",
+        "explanation": "මෙම ප්‍රශ්නය පරිගණක පද්ධතිවල ආරක්ෂාව (Computer Security) පිළිබඳව වේ. මෙහිදී 'infected' යන වචනය පරිගණකයකට අදාළව භාවිතා කරන විට, එයින් අදහස් වන්නේ පරිගණක පද්ධතියට හානි කරන අනිෂ්ට මෘදුකාංගයක් (Malicious software) ඇතුළු වී ඇති බවයි. 'Virus' යනු පරිගණක පද්ධතිවලට හානි කරන මෘදුකාංග වර්ගයකි. අනෙක් විකල්ප වන 'Disease', 'Flu', සහ 'Sickness' යන වචන භාවිතා කරනුයේ ජීව විද්‍යාත්මකව මිනිසුන්ට හෝ සතුන්ට වැළඳෙන රෝග සඳහා පමණි. එබැවින්, පරිගණකයකට අදාළව භාවිතා කළ හැකි එකම නිවැරදි වචනය 'Virus' වේ.",
         "tags": [
             {
                 "sub_category": "Security",
@@ -647,11 +649,12 @@
             "Regularly inspected.",
             "Never seen.",
             "Frequently expected.",
-            "Occasionally found."
+            "Occasionally found.",
+            "Regularly inspected."
         ],
         "correct_answer": "Regularly inspected.",
         "images": [],
-        "explanation": "",
+        "explanation": "නැවක ඇති Fire-fighting equipment ඕනෑම හදිසි අවස්ථාවකදී ක්‍රියාත්මක විය යුතු බැවින්, ඒවා නිසි පරිදි නඩත්තු කිරීම අනිවාර්ය වේ. මෙහිදී 'Regularly inspected' යන්න වඩාත් සුදුසු වන්නේ, උපකරණ නිතිපතා පරීක්ෂා කිරීම (Inspection) සහ පරීක්ෂා කර බැලීම (Testing) මගින් ඒවායේ Working order එක තහවුරු කරගත හැකි බැවිනි. අනෙක් විකල්පයන් වන 'Never seen' (කිසිදා නොදැකිය යුතු), 'Frequently expected' (නිතර බලාපොරොත්තු විය යුතු) සහ 'Occasionally found' (ඉඳහිට හමුවන) යන පිළිතුරු සන්දර්භයට නොගැලපේ. එබැවින් නිවැරදි පිළිතුර 'Regularly inspected' වේ.",
         "tags": [
             {
                 "sub_category": "Firefighting",
@@ -675,7 +678,7 @@
         ],
         "correct_answer": "Weather.",
         "images": [],
-        "explanation": "",
+        "explanation": "මෙම ප්‍රශ්නයේදී 'cyclone' (සුළි කුණාටුවක්) ඇතිවීම ගැන සඳහන් වේ. සුළි කුණාටුවක් යනු කාලගුණික තත්ත්වයක් (Weather condition) වේ. අනෙක් විකල්පයන් වන Cooking (ඉවුම් පිහුම්), Communication (සන්නිවේදනය) සහ Engine fire (එන්ජින් ගින්න) යන කරුණු සුළි කුණාටුවක් ඇතිවීම සමඟ සෘජුව සම්බන්ධ නොවේ. එබැවින් 'Weather' යනු වඩාත්ම නිවැරදි පිළිතුරයි.",
         "tags": [
             {
                 "sub_category": "Science",
@@ -695,7 +698,7 @@
         ],
         "correct_answer": "Opened.",
         "images": [],
-        "explanation": "",
+        "explanation": "මෙම ප්‍රශ්නයේදී ටැංකියක් 'ventilating' (වාතාශ්‍රය ලබාදීම) කිරීම සඳහා අවශ්‍ය ක්‍රියාව කුමක්දැයි විමසයි. වාතාශ්‍රය ලබාදීම ආරම්භ කිරීමට නම් ටැංකියේ ඇති 'access hatch' එක විවෘත කළ යුතුය. එබැවින් 'Opened' යනු නිවැරදි පිළිතුරයි. අනෙක් විකල්ප විශ්ලේෂණය කරමු: 'Closed' (වසා දැමීම) යනු වාතාශ්‍රය ලබාදීමට ප්‍රතිවිරුද්ධ ක්‍රියාවකි. 'Draped' (රෙද්දකින් වසා දැමීම) යනු මෙහිදී කිසිසේත්ම නොගැලපෙන ක්‍රියාවකි. 'Dropped' (පහත දැමීම) යනු හැච් එකක් සඳහා භාවිතා කළ හැකි ක්‍රියාවක් වුවද, වාතාශ්‍රය ලබාදීමේ අරමුණ ඉටුකර ගැනීමට එය ප්‍රමාණවත් නොවේ. එබැවින් තාක්ෂණික වශයෙන් 'Opened' යනු වඩාත්ම සුදුසුම පිළිතුරයි.",
         "tags": [
             {
                 "sub_category": "Safety",
@@ -719,7 +722,7 @@
         ],
         "correct_answer": "Need to meet.",
         "images": [],
-        "explanation": "",
+        "explanation": "මෙම ප්‍රශ්නය සඳහා නිවැරදි පිළිතුර 'Need to meet' වේ. STCW Convention (Standards of Training, Certification and Watchkeeping) යටතේ, සියලුම seafarers හට නියමිත සුදුසුකම් සපුරාලීමට සිදුවේ. මෙහිදී 'Need to meet' යන්නෙන් අදහස් වන්නේ 'සපුරාලිය යුතුය' යන්නයි. අනෙක් විකල්පයන් සලකා බලමු: 'Have meeting' යනු ව්‍යාකරණානුකූලව වැරදියි. 'Are met' යන්නෙන් අදහස් වන්නේ 'සපුරාලනු ලැබේ' යන්නයි, එය මෙහි වාක්‍ය රටාවට නොගැලපේ. 'On condition' යනු කොන්දේසියක් මත යන්නයි, එයද මෙහි අර්ථයට නොගැලපේ. එබැවින්, seafarers හට මෙම standards සපුරාලීමට අවශ්‍ය බව පවසන 'Need to meet' යන්න වඩාත් සුදුසු වේ.",
         "tags": [
             {
                 "sub_category": "Legislation",
@@ -743,7 +746,7 @@
         ],
         "correct_answer": "Panama.",
         "images": [],
-        "explanation": "",
+        "explanation": "මෙම ප්‍රශ්නයෙන් විමසනු ලබන්නේ නෞකාවක Flag State (ධජය දරන රාජ්‍යය) පිළිබඳවයි. නෞකාවක හිමිකාරීත්වය (Ownership) සහ එය ලියාපදිංචි කර ඇති රට (Flag) වෙනස් විය හැකිය. 'Panama' යනු ලෝකයේ බොහෝ නෞකා ලියාපදිංචි කර ඇති ප්‍රධාන Flag State එකකි. අනෙක් විකල්පයන් විශ්ලේෂණය කළහොත්: 'Ship chandler' යනු නෞකාවට අවශ්‍ය ද්‍රව්‍ය සපයන්නා මිස රටක් නොවේ. 'Bank of America' යනු මූල්‍ය ආයතනයකි. 'ECDIS' යනු නෞකාවේ භාවිතා වන Electronic Chart Display and Information System නම් උපකරණයකි. එබැවින්, රටක නාමයක් ලෙස ගැලපෙන්නේ 'Panama' පමණි.",
         "tags": [
             {
                 "sub_category": "Legislation",
@@ -763,11 +766,12 @@
             "Always be assumed.",
             "Assumption of.",
             "Unassuming.",
+            "Never be assume.",
             "Never be assume."
         ],
         "correct_answer": "Always be assumed.",
         "images": [],
-        "explanation": "",
+        "explanation": "මෙම වාක්‍යය සම්පූර්ණ කිරීම සඳහා නිවැරදි ව්‍යාකරණ රටාව 'should be + past participle' වේ. මෙහිදී 'should' යන modal verb එකෙන් පසුව passive voice එකක් ලෙස 'be assumed' යෙදිය යුතුය. 'Assumption of' යනු නාම පදයක් බැවින් එය මෙහි නොගැලපේ. 'Unassuming' යනු විශේෂණ පදයක් වන අතර එය වාක්‍යයේ අර්ථයට නොගැලපේ. 'Never be assume' යන්න වැරදි වන්නේ 'be' පසු 'assumed' (past participle) යෙදිය යුතු බැවිනි. එබැවින් 'Always be assumed' යනු නිවැරදි පිළිතුරයි. මෙයින් අදහස් වන්නේ Cargo holds වැනි Enclosed spaces සැමවිටම අනතුරුදායක බවට උපකල්පනය කළ යුතු බවයි.",
         "tags": [
             {
                 "sub_category": "Safety",
@@ -791,7 +795,7 @@
         ],
         "correct_answer": "Wednesday.",
         "images": [],
-        "explanation": "",
+        "explanation": "මෙම ප්‍රශ්නයේදී අපට ලබා දී ඇති තොරතුර වන්නේ 'Thursday' දිනට පෙර දිනය (the day before) ගැනයි. ඉංග්‍රීසි දින දර්ශනයට අනුව 'Thursday' දිනට පෙර දිනය වන්නේ 'Wednesday' වේ. අනෙක් විකල්පයන් වන 'Friday' යනු 'Thursday' දිනට පසු දිනයයි. 'Tuesday' සහ 'Monday' යන දින 'Thursday' දිනට පෙර දින දෙකක් හෝ තුනක් වන බැවින් ඒවා වැරදි වේ. එබැවින් නිවැරදි පිළිතුර 'Wednesday' වේ.",
         "tags": [
             {
                 "sub_category": "Communication",
@@ -811,7 +815,7 @@
         ],
         "correct_answer": "Protected from.",
         "images": [],
-        "explanation": "",
+        "explanation": "මෙම වාක්‍යයේ ව්‍යාකරණ ව්‍යුහය අනුව 'are' යන verb එකට පසුව passive voice එකක් ලෙස 'protected' යන past participle එක භාවිතා කළ යුතුය. 'Protected' යන වචනය සමඟ සාමාන්‍යයෙන් භාවිතා වන preposition එක 'from' වේ (Protected from corrosion - විඛාදනයෙන් ආරක්ෂා වීම). අනෙක් විකල්ප සලකා බලමු: 'Protect by' යනු වැරදි ව්‍යාකරණ ආකෘතියකි. 'Protected with' යන්නෙන් අදහස් වන්නේ යම් දෙයකින් ආවරණය කර ඇති බවයි, නමුත් මෙහිදී විඛාදනයෙන් ආරක්ෂා වීම (protection against/from) අදහස් කරන බැවින් 'from' වඩාත් සුදුසු වේ. 'Protection of' යනු noun phrase එකක් වන අතර එය 'are' ට පසුව වාක්‍යයේ අර්ථයට නොගැලපේ. එබැවින් 'Protected from' යනු නිවැරදි පිළිතුරයි.",
         "tags": [
             {
                 "sub_category": "Maintenance",
@@ -835,7 +839,7 @@
         ],
         "correct_answer": "Responsible for.",
         "images": [],
-        "explanation": "",
+        "explanation": "මෙම වාක්‍යයේ අර්ථය වන්නේ නෞකාවේ එන්ජින් සහ විදුලි උපකරණවල ක්‍රියාකාරිත්වය සහ නඩත්තුව සම්බන්ධයෙන් Marine engineers හට ඇති වගකීමයි. 'Responsible for' යන්නෙන් යම් කාර්යයක් සඳහා වගකිව යුතු බව (accountable) අදහස් වේ. 'Responding about' යන්න වැරදි වන්නේ 'respond' යන ක්‍රියා පදය සාමාන්‍යයෙන් 'to' සමඟ භාවිතා වන බැවිනි. 'To be responsive' සහ 'To respond' යන පිළිතුරු වාක්‍යයේ ව්‍යාකරණ ව්‍යුහයට (grammatical structure) නොගැලපේ. එබැවින් 'Responsible for' යනු නිවැරදිම සහ වඩාත්ම සුදුසු යෙදුමයි.",
         "tags": [
             {
                 "sub_category": "Management",
@@ -855,7 +859,7 @@
         ],
         "correct_answer": "To carry.",
         "images": [],
-        "explanation": "",
+        "explanation": "මෙම වාක්‍යයේ ව්‍යුහය අනුව 'It is important' යන්නෙන් පසුව infinitive verb එකක් (to + verb) භාවිතා කිරීම නිවැරදි වේ. එබැවින් 'To carry' යනු නිවැරදි පිළිතුරයි. අනෙක් විකල්ප විශ්ලේෂණය කරමු: 1. 'Carrying' යනු gerund එකක් වන අතර එය මෙහි වාක්‍ය රටාවට නොගැලපේ. 2. 'To carried' යනු ව්‍යාකරණානුකූලව වැරදියි, මන්ද 'to' පසු පැමිණිය යුත්තේ verb එකේ base form එකයි. 3. 'To cry' යනු අර්ථයෙන් වැරදියි, මන්ද නැවකදී වැදගත් වන්නේ සහතික පත්‍ර (certificates) ළඟ තබා ගැනීම (carry) මිස හැඬීම (cry) නොවන බැවිනි. එබැවින් 'To carry' යනු එකම නිවැරදි සහ අර්ථවත් පිළිතුරයි.",
         "tags": [
             {
                 "sub_category": "Legislation",
@@ -879,7 +883,7 @@
         ],
         "correct_answer": "Boarded.",
         "images": [],
-        "explanation": "",
+        "explanation": "මෙම වාක්‍යයේ 'Three crew members' යනු බහුවචන (plural) කර්තෘ පදයක් වන අතර, මෙහිදී සිදුවීම අවසන් වූ ක්‍රියාවක් ලෙස දැක්වීමට Past Simple tense එක භාවිතා කළ යුතුය. 'Boarded' යනු නිවැරදි Past tense ආකාරයයි. අනෙක් විකල්පයන් වැරදි වීමට හේතු: 'Had board' යන්න ව්‍යාකරණානුකූලව වැරදියි (Had boarded විය යුතුය). 'Was boarding' යන්න ඒකවචන කර්තෘ පද සඳහා පමණක් භාවිතා වන අතර මෙහි බහුවචන කර්තෘ පදයක් ඇත. 'Has boarded' යන්න ඒකවචන කර්තෘ පද සඳහා භාවිතා වන අතර, මෙහි බහුවචන කර්තෘ පදයක් (Three crew members) ඇති බැවින් එය වැරදියි.",
         "tags": [
             {
                 "sub_category": "Safety",
@@ -902,7 +906,7 @@
         ],
         "correct_answer": "Aluminium.",
         "images": [],
-        "explanation": "",
+        "explanation": "මෙම ප්‍රශ්නයට අදාළව, නූතන නෞකාවල භාවිතා වන Lifeboat බොහෝ විට Glass-reinforced plastic (GRP) වලින් සාදා තිබුණද, මෙම විශේෂිත සංවාදයේදී සඳහන් වන පරිදි නිවැරදි පිළිතුර Aluminium වේ. Wood (ලී) යනු පැරණි නෞකාවල භාවිතා වූ ද්‍රව්‍යයක් වන අතර එය වර්තමානයේ ප්‍රායෝගික නොවේ. Glass-reinforced plastic යනු බහුලව භාවිතා වන ද්‍රව්‍යයක් වුවද, සංවාදයේ සන්දර්භය අනුව Aluminium යන්න තෝරාගත යුතුය. එබැවින්, අනෙක් විකල්ප දෙක වැරදි බව තහවුරු කරමින් Aluminium නිවැරදි පිළිතුර ලෙස තෝරා ගනු ලැබේ.",
         "tags": [
             {
                 "sub_category": "Safety",
@@ -925,7 +929,7 @@
         ],
         "correct_answer": "Some cabins were left unlocked.",
         "images": [],
-        "explanation": "",
+        "explanation": "මෙම ප්‍රශ්නයට අදාළව, Captain විසින් port එකකදී නැවක ආරක්ෂාව (Security measures) සම්බන්ධයෙන් සාකච්ඡා කරන විට, පෙර දින සවස් වරුවේ ඔහු නිරීක්ෂණය කළ ගැටලුව වන්නේ 'Some cabins were left unlocked' යන්නයි. අනෙක් විකල්ප දෙක වන 'An important key was missing' (යතුරක් නැතිවීම) සහ 'There was a faulty lock' (අගුලක් දෝෂ සහිත වීම) යන කරුණු සාකච්ඡාවේදී සඳහන් නොවන අතර, ඒවා වැරදි පිළිතුරු වේ. නැවක ආරක්ෂාව තහවුරු කිරීම සඳහා cabin දොරවල් නිසි ලෙස අගුළු දමා තිබීම (Locked) අත්‍යවශ්‍ය වන බැවින්, ඒවා විවෘතව තිබීම බරපතල Security breach එකක් ලෙස Captain විසින් පෙන්වා දෙනු ලැබේ.",
         "tags": [
             {
                 "sub_category": "Security",
@@ -948,7 +952,7 @@
         ],
         "correct_answer": "He will be signed off.",
         "images": [],
-        "explanation": "",
+        "explanation": "නාවික ක්ෂේත්‍රයේ මත්පැන් භාවිතය සම්බන්ධයෙන් පවතින දැඩි නීති රීති (Zero Tolerance Policy) අනුව, කාර්ය මණ්ඩල සාමාජිකයෙකු බීමත් තත්ත්වයෙන් සිටියදී හසු වුවහොත් එය බරපතල විනය උල්ලංඝනයක් ලෙස සැලකේ. මෙහිදී 'He will be confined to his cabin' යනු තාවකාලික පියවරක් පමණක් වන අතර එය ස්ථිර දඬුවමක් නොවේ. 'He will lose his job' යන්න සාමාන්‍ය ප්‍රකාශයක් වුවද, නාවික නීතියට අනුව නිල වශයෙන් භාවිතා වන යෙදුම වන්නේ 'Signed off' යන්නයි. 'Signed off' යන්නෙන් අදහස් කරන්නේ එම පුද්ගලයාගේ සේවය වහාම අවසන් කර නැවෙන් ඉවත් කිරීමයි. එබැවින්, නාවික කොන්ත්‍රාත්තුවක් (Seafarer's Employment Agreement) උල්ලංඝනය කිරීමක් ලෙස සලකා ඔහුව නැවෙන් ඉවත් කිරීම (Signed off) නිවැරදි පිළිතුර වේ.",
         "tags": [
             {
                 "sub_category": "Safety",
@@ -971,7 +975,7 @@
         ],
         "correct_answer": "He was shaving.",
         "images": [],
-        "explanation": "",
+        "explanation": "මෙම ප්‍රශ්නයට අදාළ සංවාදයේදී, පුද්ගලයා තුවාල වූ ආකාරය පිළිබඳව විස්තර කෙරේ. මෙහිදී 'Using a tool' (මෙවලමක් භාවිතා කිරීම) යනු වැරදි පිළිතුරකි, මන්ද එය කාර්යයේදී සිදුවන අනතුරක් ලෙස අර්ථ දැක්වෙන බැවිනි. 'When he fainted' (ඔහු ක්ලාන්ත වූ විට) යනු තුවාල වීමට හේතුවක් විය හැකි වුවත්, සංවාදයේ සන්දර්භය අනුව එය අදාළ නොවේ. නිවැරදි පිළිතුර වන්නේ 'He was shaving' (ඔහු රැවුල කපමින් සිටියදී) යන්නයි. සාමාන්‍යයෙන් මෙවැනි සංවාදයකදී පුද්ගලයා තමාගේ පෞද්ගලික කටයුත්තකදී සිදුවූ සුළු තුවාලයක් ගැන සඳහන් කරන බැවින්, රැවුල කැපීමේදී සිදුවන කැපුම් තුවාලය (shaving cut) වඩාත් තාර්කික පිළිතුර වේ.",
         "tags": [
             {
                 "sub_category": "Medical",
@@ -994,7 +998,7 @@
         ],
         "correct_answer": "He’s very busy.",
         "images": [],
-        "explanation": "",
+        "explanation": "මෙම ප්‍රශ්නයට අදාළ සංවාදයේදී, කපිතාන්වරයා නත්තල් රාත්‍රී භෝජන සංග්‍රහය (Christmas dinner) ගැන විමසන විට, කුක් (Cook) විසින් පවසන්නේ ඔහු දැනට වෙනත් කාර්යයන් රාශියක නිරතව සිටින බවත්, එම නිසා ඔහු ඉතා කාර්යබහුල (very busy) බවත්ය. අනෙක් විකල්පයන් වන 'අමුද්‍රව්‍ය නොමැති වීම' (ingredients) හෝ 'කාර්ය මණ්ඩලය ප්‍රමාණවත් නොවීම' (staff) යන කරුණු සංවාදයේදී මතු නොවේ. එබැවින්, කුක්ගේ ප්‍රධාන ගැටලුව වන්නේ ඔහුගේ කාර්යබහුලත්වයයි.",
         "tags": [
             {
                 "sub_category": "Management",
@@ -1013,7 +1017,7 @@
         ],
         "correct_answer": "His new ship has a lot of variety – every job is different.",
         "images": [],
-        "explanation": "",
+        "explanation": "මෙම ප්‍රශ්නයට පිළිතුරු දීමේදී, නැව් මෙහෙයුම් (Ship operations) වල ස්වභාවය පිළිබඳව අවධානය යොමු කළ යුතුය. පළමු සහ දෙවන පිළිතුරු මගින් දැක්වෙන්නේ නියමිත මාර්ගයක (Regular shipping route) හෝ නිශ්චිත ගමනාන්ත දෙකක් අතර පමණක් ගමන් කරන නැව් ගැනයි. නමුත්, බොහෝ විට නාවිකයෙකු තම නව නැව ගැන විස්තර කරන විට, එහි ඇති කාර්යයන්හි විවිධත්වය (Variety of jobs) ප්‍රධාන වෙනසක් ලෙස හඳුන්වයි. එනම්, සෑම ගමනක්ම හෝ සෑම කාර්යයක්ම එකිනෙකට වෙනස් වීම (Every job is different) යනු නැවක මෙහෙයුම් රටාව වෙනස් බව පෙන්නුම් කරන ප්‍රධාන කරුණයි. අනෙක් පිළිතුරු දෙක මගින් නැවේ මාර්ගය පමණක් සඳහන් වන අතර, කාර්යයන්හි විවිධත්වය පිළිබඳව සඳහන් නොවන බැවින් ඒවා වැරදි වේ.",
         "tags": [
             {
                 "sub_category": "Legislation",
@@ -1032,7 +1036,7 @@
         ],
         "correct_answer": "There wasn’t enough light coming downstairs.",
         "images": [],
-        "explanation": "",
+        "explanation": "මෙම ප්‍රශ්නයට අදාළව, messman ගේ පාදයේ ආබාධයට (limp) ප්‍රධාන හේතුව වන්නේ පඩිපෙළ බැස එන විට ප්‍රමාණවත් ආලෝකයක් (enough light) නොතිබීමයි. අනෙක් විකල්ප දෙක වන 'freezer එකේ වැදීම' හෝ 'ice-cube එකක ලිස්සා යාම' යනු සිදුවීමට හේතු ලෙස වැරදි අර්ථකථන වේ. සාමාන්‍යයෙන් මෙවැනි අවස්ථාවකදී, ආලෝකය අඩු වීම (poor lighting) නිසා පියවරක් වැරදී යාමෙන් හෝ පඩිපෙළේදී අනතුරක් සිදුවීම වඩාත් තාර්කික වේ. එබැවින්, 'There wasn’t enough light coming downstairs' යන්න නිවැරදි පිළිතුර ලෙස තෝරාගත යුතුය.",
         "tags": [
             {
                 "sub_category": "Medical",
@@ -1055,7 +1059,7 @@
         ],
         "correct_answer": "Yellow rubber ducks.",
         "images": [],
-        "explanation": "",
+        "explanation": "මෙම ප්‍රශ්නයට අදාළ ශ්‍රව්‍ය පටය (Audio clip) අනුව, නැවක තට්ටුවේ සිටින නාවිකයන් දෙදෙනෙකු සාගරයේ පාවෙමින් තිබූ අසාමාන්‍ය වස්තූන් කිහිපයක් ගැන සාකච්ඡා කරයි. මෙහිදී 'A broken-up cargo vessel' හෝ 'A whale' යන පිළිතුරු වැරදි වන්නේ එම ශ්‍රව්‍ය පටයේ සඳහන් වන දර්ශනයට ඒවා අදාළ නොවන බැවිනි. නාවිකයා විසින් සාගරයේ දකිනු ලබන්නේ 'Yellow rubber ducks' හෙවත් කහ පැහැති රබර් තාරාවන් පිරිසකි. මෙය බොහෝ විට සාගරයේ සිදුවන භාණ්ඩ නැතිවීමේ සිදුවීමක් (Cargo loss incident) හා සම්බන්ධව අසන්නට ලැබෙන ප්‍රශ්නයකි. එබැවින් නිවැරදි පිළිතුර වන්නේ Yellow rubber ducks ය.",
         "tags": [
             {
                 "sub_category": "Navigation",
@@ -1078,7 +1082,7 @@
         ],
         "correct_answer": "Pipes.",
         "images": [],
-        "explanation": "",
+        "explanation": "මෙම ප්‍රශ්නයට අදාළව, නෞකාවේ upper deck මත පවතින භාණ්ඩය හඳුනාගැනීමේදී, Bosun විසින් ලබාදෙන උපදෙස්වලට අනුව Pipes (නල) ප්‍රවාහනය කරන බව තහවුරු වේ. අනෙක් විකල්පයන් වන Cables (කේබල්) සහ Trucks (ට්‍රක් රථ) වැරදි වන්නේ, එම භාණ්ඩ නෞකාවේ අදාළ ප්‍රදේශයේ ගබඩා කර නොමැති බැවිනි. එබැවින්, නිවැරදි පිළිතුර Pipes වේ.",
         "tags": [
             {
                 "sub_category": "Cargo",
@@ -1097,7 +1101,7 @@
         ],
         "correct_answer": "The North Atlantic.",
         "images": [],
-        "explanation": "",
+        "explanation": "මෙම ප්‍රශ්නයට අදාළ ශ්‍රව්‍ය පටය (Audio clip) අනුව, Master විසින් North Atlantic සාගර කලාපයේ පවතින අයහපත් කාලගුණික තත්ත්වයන් සහ රළු මුහුද (Rough seas) හේතුවෙන් එම ප්‍රදේශයේ යාත්‍රා කිරීමට තමා අකමැති බව ප්‍රකාශ කරයි. අනෙක් විකල්පයන් වන Gulf of Aden සහ Mediterranean යන ප්‍රදේශ ගැන ඔහු මෙහිදී අකමැත්තක් ප්‍රකාශ නොකරයි. එබැවින්, North Atlantic යනු නිවැරදි පිළිතුරයි.",
         "tags": [
             {
                 "sub_category": "Navigation",
@@ -1120,7 +1124,7 @@
         ],
         "correct_answer": "From a capsized yacht.",
         "images": [],
-        "explanation": "",
+        "explanation": "මෙම ප්‍රශ්නයට අදාළ සංවාදයේදී පැහැදිලිවම සඳහන් වන්නේ 14 දෙනෙකුගෙන් යුත් පිරිසක් බේරාගනු ලැබුවේ 'capsized yacht' එකකින් බවයි. අනෙක් විකල්පයන් වන 'capsized liferaft' හෝ 'capsized coast guard vessel' යන ඒවා වැරදි වන්නේ, සංවාදයේදී එම යාත්‍රා වර්ග ගැන සඳහනක් නොමැති නිසාය. එබැවින්, ලබා දී ඇති තොරතුරු අනුව 'From a capsized yacht' යනු නිවැරදි පිළිතුරයි.",
         "tags": [
             {
                 "sub_category": "Emergency",
@@ -1139,7 +1143,7 @@
         ],
         "correct_answer": "That he should get some medical advice.",
         "images": [],
-        "explanation": "",
+        "explanation": "මෙම ප්‍රශ්නයේදී First Officer විසින් Second Officer හට ලබාදෙන උපදෙස හඳුනාගත යුතුය. සාමාන්‍යයෙන් නැවකදී කාර්ය මණ්ඩල සාමාජිකයෙකු අසනීප වූ විට හෝ යම් සෞඛ්‍ය ගැටලුවක් ඇති වූ විට, වගකිවයුතු නිලධාරියෙකු ලෙස First Officer විසින් ලබාදෙන නිවැරදිම උපදෙස වන්නේ 'Medical advice' ලබා ගැනීමයි. අනෙක් විකල්ප දෙක වන 'කෑම නොකෑම' හෝ 'කෑම ගැනීම' යනු වෛද්‍ය උපදෙසක් නොවන අතර, ඒවා රෝගී තත්ත්වයන් සඳහා සාමාන්‍ය විසඳුම් ලෙස නොසැලකේ. එබැවින්, වෘත්තීයමය වශයෙන් සහ ආරක්ෂිතව කටයුතු කිරීම සඳහා වෛද්‍යවරයෙකුගේ හෝ Medical Officer කෙනෙකුගේ උපදෙස් පැතීම වඩාත් සුදුසු ක්‍රියාමාර්ගය වේ.",
         "tags": [
             {
                 "sub_category": "Navigation",
@@ -1158,7 +1162,7 @@
         ],
         "correct_answer": "The grab has broken free from its lashings.",
         "images": [],
-        "explanation": "",
+        "explanation": "මෙම ප්‍රශ්නයට අදාළව, නැවක Heavy weather තත්ත්වයකදී කාර්ය මණ්ඩලය (ratings) හදිසි කාර්යයක නිරත වීමට හේතුව වන්නේ නැවෙහි ඇති Grab එකක් එහි lashings වලින් ගැලවී යාමයි. මෙය නැවේ ආරක්ෂාවට (Safety) තර්ජනයක් වන බැවින් එය නැවත සුරක්ෂිත (secure) කිරීම අත්‍යවශ්‍ය වේ. අනෙක් විකල්පයන් වන 'bosun’s stores' සුරක්ෂිත නොවීම හෝ 'cargo and deck equipment' සම්පූර්ණයෙන්ම විනාශ වීම යනු සාමාන්‍යයෙන් මෙවැනි අවස්ථාවකදී ප්‍රධාන ගැටලුව ලෙස සාකච්ඡා නොවන අතර, Grab එකක් ගැලවී යාම යනු නැවෙහි Deck මත සිදුවිය හැකි බරපතල අනතුරකි. එබැවින් 'The grab has broken free from its lashings' යනු නිවැරදි පිළිතුරයි.",
         "tags": [
             {
                 "sub_category": "Deck",
@@ -1182,7 +1186,7 @@
         ],
         "correct_answer": "Because they weren’t stored securely.",
         "images": [],
-        "explanation": "",
+        "explanation": "මෙම ප්‍රශ්නයට පිළිතුරු දීමේදී, ප්‍රශ්නය අසන ආකාරය (Why) කෙරෙහි අවධානය යොමු කිරීම වැදගත් වේ. 'Why' යනුවෙන් ප්‍රශ්නයක් ඇසූ විට, ඊට පිළිතුර බොහෝ විට 'Because' යන වචනයෙන් ආරම්භ වේ. මෙහිදී අනෙක් විකල්ප තුන (One of the bulbs has fused, Get the fire hoses ready, I think I’m dehydrated) කිසිදු හේතුවක් පැහැදිලි නොකරන ප්‍රකාශයන් වේ. 'Because they weren’t stored securely' යන්නෙන් යම් සිදුවීමකට හේතුවක් පැහැදිලි කරන බැවින් එය නිවැරදි පිළිතුර වේ. එබැවින්, ප්‍රශ්නයේ අර්ථය සහ ව්‍යාකරණ රටාව අනුව මෙය වඩාත් සුදුසු පිළිතුර ලෙස තෝරාගත හැක.",
         "tags": [
             {
                 "sub_category": "Communication",
@@ -1206,7 +1210,7 @@
         ],
         "correct_answer": "Because we need to pick up some spare parts in port.",
         "images": [],
-        "explanation": "",
+        "explanation": "මෙම ප්‍රශ්නයට නිවැරදි පිළිතුර තෝරාගැනීමේදී, ප්‍රශ්නය අසන ආකාරය (Why/කරුණාකර හේතුව) කෙරෙහි අවධානය යොමු කළ යුතුය. 'Because' යන වචනයෙන් ආරම්භ වන එකම පිළිතුර 'Because we need to pick up some spare parts in port' යන්නයි. අනෙක් පිළිතුරු විමර්ශනය කළහොත්: 'A minor one...' යනු සිදුවීමක් ගැන විමසන විට දෙන පිළිතුරකි. 'I think it was that new rating' යනු පුද්ගලයෙකු හෝ තනතුරක් ගැන විමසන විට දෙන පිළිතුරකි. 'He’s with the Chief Officer...' යනු පුද්ගලයෙකු සිටින ස්ථානය ගැන විමසන විට දෙන පිළිතුරකි. එබැවින්, හේතුවක් විමසන ප්‍රශ්නයකට ගැලපෙන එකම පිළිතුර පළමුවැන්න වේ.",
         "tags": [
             {
                 "sub_category": "Communication",
@@ -1230,7 +1234,7 @@
         ],
         "correct_answer": "Checking the fire extinguishers.",
         "images": [],
-        "explanation": "",
+        "explanation": "මෙම ප්‍රශ්නය මගින් යම් කාර්යයක් හෝ ක්‍රියාවක් පිළිබඳව විමසන විට ඊට අදාළ නිවැරදි පිළිතුර තෝරා ගැනීමට සිදු වේ. 'Checking the fire extinguishers' යනු යම් කාර්යයක් (Task) පිළිබඳව ලබා දෙන පිළිතුරකි. අනෙක් පිළිතුරු විශ්ලේෂණය කරමු: 'Usually about once a week' යනු කාලසීමාවක් (Frequency) පිළිබඳ ප්‍රශ්නයකට දෙන පිළිතුරකි. 'Because the screw needs tightening' යනු හේතුවක් (Reason) විමසන ප්‍රශ්නයකට දෙන පිළිතුරකි. 'I left it in my cabin' යනු යම් වස්තුවක් ඇති ස්ථානය (Location) පිළිබඳ ප්‍රශ්නයකට දෙන පිළිතුරකි. එබැවින්, සන්දර්භයට අනුව 'Checking the fire extinguishers' යනු වඩාත්ම සුදුසු පිළිතුර වේ.",
         "tags": [
             {
                 "sub_category": "Communication",
@@ -1254,7 +1258,7 @@
         ],
         "correct_answer": "It’s 3, as we’ve just entered pirate waters.",
         "images": [],
-        "explanation": "",
+        "explanation": "මෙම ප්‍රශ්නය සාමාන්‍යයෙන් අසනු ලබන්නේ නැවක ආරක්ෂක මට්ටම (Security Level) පිළිබඳවයි. 'It’s 3, as we’ve just entered pirate waters' යන්න නිවැරදි වන්නේ, මුහුදු කොල්ලකරුවන් සිටින කලාපයකට (pirate waters) ඇතුළු වූ විට නැවේ ආරක්ෂක මට්ටම 3 (Security Level 3) දක්වා ඉහළ දැමීම අනිවාර්ය වන බැවිනි. අනෙක් පිළිතුරු විශ්ලේෂණය කළහොත්: 'Yes, but please make it quick' යනු යම් ඉල්ලීමකට දෙන පිළිතුරකි. 'Because of the heavy weather' යනු කාලගුණය පිළිබඳ ප්‍රශ්නයකට දෙන පිළිතුරකි. 'I’m told it was the motorman' යනු යම් සිදුවීමකට වගකිව යුත්තේ කවුදැයි විමසූ විට දෙන පිළිතුරකි. එබැවින් සන්දර්භයට අනුව වඩාත්ම ගැලපෙන පිළිතුර වන්නේ ආරක්ෂක මට්ටම පිළිබඳව සඳහන් වන පළමු පිළිතුරයි.",
         "tags": [
             {
                 "sub_category": "Communication",
@@ -1278,7 +1282,7 @@
         ],
         "correct_answer": "Safety boots.",
         "images": [],
-        "explanation": "",
+        "explanation": "මෙම ප්‍රශ්නයේදී අයිස් සහිත (icy) පෘෂ්ඨයක් මත ගමන් කිරීමේදී හෝ අයිස් සහිත handrail එකක් අල්ලා ගැනීමේදී ආරක්ෂාව සඳහා අවශ්‍ය දේ හඳුනාගත යුතුය. මෙහිදී 'Safety boots' යනු ලිස්සා යාම වැළැක්වීම සඳහා (anti-slip) විශේෂයෙන් නිර්මාණය කර ඇති පතුල් සහිත පාවහන් වේ. Hard hats යනු හිස ආරක්ෂා කිරීමටත්, Overalls යනු ශරීරය ආරක්ෂා කිරීමටත්, Gloves යනු අත් ආරක්ෂා කිරීමටත් භාවිතා වේ. නමුත් අයිස් සහිත තත්ත්වයකදී ලිස්සා යාම වැළැක්වීම සඳහා වඩාත්ම වැදගත් වන්නේ නිසි ග්‍රහණයක් (grip) ලබා දෙන Safety boots වේ. අනෙක් විකල්පයන් අයිස් මත ලිස්සා යාම වැළැක්වීමට සෘජුවම දායක නොවන බැවින්, Safety boots යනු වඩාත් නිවැරදි පිළිතුරයි.",
         "tags": [
             {
                 "sub_category": "Safety",
@@ -1302,7 +1306,7 @@
         ],
         "correct_answer": "Snow.",
         "images": [],
-        "explanation": "",
+        "explanation": "මෙම ප්‍රශ්නයේදී වාක්‍යයේ දෙවන කොටසේ 'it was a blizzard' (එය හිම කුණාටුවක් විය) ලෙස සඳහන් කර ඇත. Blizzard යනු අධික හිම පතනයක් සහිත කාලගුණික තත්ත්වයකි. එබැවින්, 'Snow' යන්න පමණක් මෙම සන්දර්භයට ගැලපේ. අනෙක් විකල්ප විශ්ලේෂණය කළහොත්: 'Tug' (Tugboat) යනු නෞකාවක් වන අතර එය blizzard එකක් නොවේ. 'Jetty' යනු නැව් තොටුපළේ ඉදිකිරීමක් වන අතර එය කාලගුණික තත්ත්වයක් නොවේ. 'Sunshine' යනු හිරු එළිය වන අතර එය blizzard එකකට සම්පූර්ණයෙන්ම ප්‍රතිවිරුද්ධ තත්ත්වයකි. එබැවින් 'Snow' යනු නිවැරදි පිළිතුරයි.",
         "tags": [
             {
                 "sub_category": "Science",
@@ -1320,9 +1324,9 @@
             "Begin assigned.",
             "Boarding."
         ],
-        "correct_answer": "Being boarded.",
+        "correct_answer": "Being assigned.",
         "images": [],
-        "explanation": "",
+        "explanation": "මෙම වාක්‍යයේ අර්ථය වන්නේ නැවට අලුතින් එකතු වන කාර්ය මණ්ඩලය (joining crew) ඕනෑම shipboard functions එකක් භාර ගැනීමට පෙර (before being assigned) අනිවාර්යයෙන්ම ship-specific සහ security familiarisation පුහුණුව සම්පූර්ණ කළ යුතු බවයි. 'Being assigned' යනු මෙහිදී නිවැරදි ව්‍යාකරණමය ස්වරූපයයි. 'Being boarded' යනු වැරදි අර්ථයක් ලබා දෙයි, මන්ද කාර්ය මණ්ඩලය නැවට ගොඩවීම (boarding) සිදු වූ පසු තමයි පුහුණුව ආරම්භ වන්නේ. 'Begin assigned' යනු ව්‍යාකරණමය වශයෙන් වැරදියි. 'Boarding' යනු පුහුණුවට පෙර සිදුවන ක්‍රියාවක් මිස කාර්යයන් පැවරීමට පෙර සිදුවන ක්‍රියාවක් නොවේ. එබැවින්, කාර්යයන් පැවරීමට පෙර (before being assigned) පුහුණුව සම්පූර්ණ කිරීම අනිවාර්ය වේ.",
         "tags": [
             {
                 "sub_category": "Safety",
@@ -1346,7 +1350,7 @@
         ],
         "correct_answer": "Identify.",
         "images": [],
-        "explanation": "",
+        "explanation": "මෙම වාක්‍යයේ අර්ථය වන්නේ ඇසට හානි සිදුවිය හැකි අවදානම් සහිත ස්ථාන හඳුනාගෙන, එම හානි වළක්වා ගැනීම සඳහා සුදුසු ආරක්ෂිත උපකරණ (suitable protection) භාවිතා කිරීමයි. මෙහිදී 'Identify' (හඳුනාගැනීම) යන ක්‍රියා පදය වාක්‍යයේ අර්ථයට ඉතාම ගැලපේ. අනෙක් විකල්පයන් විශ්ලේෂණය කළහොත්: 'Indemnify' යනු වන්දි ගෙවීම හෝ හානියකින් ආරක්ෂා කිරීම (legal context) වන අතර එය මෙහි නොගැලපේ. 'Identity' යනු අනන්‍යතාවය වන අතර එය නාම පදයකි (noun), මෙහි අවශ්‍ය වන්නේ ක්‍රියා පදයකි (verb). 'Indented' යනු යම් මතුපිටක වලක් හෝ දාරයක් සෑදීමයි. එබැවින් 'Identify' යනු නිවැරදි පිළිතුරයි.",
         "tags": [
             {
                 "sub_category": "Safety",
@@ -1370,7 +1374,7 @@
         ],
         "correct_answer": "To challenge.",
         "images": [],
-        "explanation": "",
+        "explanation": "මෙම වාක්‍යයේ අර්ථය වන්නේ නැවක ඕනෑම තරාතිරමක සිටින කාර්ය මණ්ඩල සාමාජිකයෙකුට වැරදි හෝ නුසුදුසු තීරණයක් (inappropriate decisions) ගත් විට එයට එරෙහිව කතා කිරීමට හෝ එය නිවැරදි කිරීමට බලය (empowered) තිබිය යුතු බවයි. 'Empowered' යන වචනයෙන් පසුව සාමාන්‍යයෙන් 'to' සමඟ ක්‍රියා පදයක් (infinitive verb) භාවිතා වේ. එබැවින් 'To challenge' යනු නිවැරදි පිළිතුරයි. අනෙක් විකල්පයන් වන 'And corrective', 'Strictly', සහ 'For repeating' යන ඒවා ව්‍යාකරණානුකූලව මෙම වාක්‍යයට නොගැලපේ. 'To challenge' යන්නෙන් අදහස් වන්නේ වැරදි තීරණයක් දුටු විට එය ප්‍රශ්න කිරීම හෝ අභියෝග කිරීමයි. මෙය Safety Culture හි ඉතා වැදගත් අංගයකි.",
         "tags": [
             {
                 "sub_category": "Safety",
@@ -1394,7 +1398,7 @@
         ],
         "correct_answer": "Prevention.",
         "images": [],
-        "explanation": "",
+        "explanation": "MARPOL යනු 'International Convention for the Prevention of Pollution from Ships' යන්නෙහි කෙටි යෙදුමයි. මෙහිදී 'Prevention' යන්නෙන් අදහස් වන්නේ නැව් මගින් සිදුවන දූෂණය වැළැක්වීමයි. අනෙක් විකල්පයන් වන 'Promotion' (ප්‍රවර්ධනය), 'Pretension' (පෙරදැක්ම/ව්‍යාජය) සහ 'Protection' (ආරක්ෂාව) යන වචන මෙම සම්මුතියේ නාමයට අදාළ නොවේ. MARPOL සම්මුතියේ මූලික අරමුණ වන්නේ සාගර පරිසරය දූෂණයෙන් ආරක්ෂා කිරීම සඳහා දූෂණය වැළැක්වීමේ (Prevention) නීති රීති පැනවීමයි. එබැවින් 'Prevention' යනු නිවැරදිම පිළිතුරයි.",
         "tags": [
             {
                 "sub_category": "Legislation",
@@ -1414,11 +1418,12 @@
             "Is always.",
             "Can being.",
             "Lowering.",
-            "Complaints."
+            "Complaints.",
+            "Is always."
         ],
         "correct_answer": "Is always.",
         "images": [],
-        "explanation": "",
+        "explanation": "මෙම වාක්‍යයේ ව්‍යාකරණ ව්‍යුහය අනුව, 'Replacing or repairing equipment' යනු වාක්‍යයේ Subject එකයි. මෙහිදී ක්‍රියාවක් (Verb) අවශ්‍ය වේ. 'Is always' යන්න මගින් වාක්‍යය සම්පූර්ණ වන අතර එය අර්ථවත් වේ. අනෙක් විකල්ප සලකා බලමු: 'Can being' යන්න ව්‍යාකරණානුකූලව වැරදියි (Can be විය යුතුය). 'Lowering' යනු ක්‍රියාවක් නොවන අතර එයින් වාක්‍යය අසම්පූර්ණයි. 'Complaints' යනු නාම පදයක් වන අතර එය මෙහිදී නොගැලපේ. එබැවින් 'Is always' යනු නිවැරදි පිළිතුරයි. තාක්ෂණික ලියකියවිලි (Technical documentation) නොමැතිව නඩත්තු කටයුතු කිරීම සැමවිටම ඉහළ අවදානමක් (High risk) ඇති කරයි.",
         "tags": [
             {
                 "sub_category": "Maintenance",
@@ -1442,7 +1447,7 @@
         ],
         "correct_answer": "Required to be.",
         "images": [],
-        "explanation": "",
+        "explanation": "STCW convention (Standards of Training, Certification and Watchkeeping) අනුව, නෞකාවක ආරක්ෂිත මෙහෙයුම් සඳහා Navigational watch හි යෙදී සිටින Ratings හට Helm orders ඉංග්‍රීසි භාෂාවෙන් තේරුම් ගැනීමට සහ ඒවාට අනුකූලව ක්‍රියා කිරීමට හැකියාව තිබීම අනිවාර්ය වේ. මෙහිදී 'Required to be' යන්නෙන් අදහස් වන්නේ එය නීතිමය වශයෙන් අනිවාර්ය අවශ්‍යතාවයක් බවයි. අනෙක් විකල්පයන් වන 'Refused to be' (ප්‍රතික්ෂේප කිරීම), 'Not requested' (ඉල්ලා නොමැති වීම) සහ 'To require' (ව්‍යාකරණානුකූලව වැරදි යෙදුම) යන ඒවා වැරදි වේ. එබැවින්, නාවික ආරක්ෂාව සහ සන්නිවේදනය සඳහා 'Required to be' යන්න නිවැරදි පිළිතුර වේ.",
         "tags": [
             {
                 "sub_category": "Navigation",
@@ -1466,7 +1471,7 @@
         ],
         "correct_answer": "Pressure test.",
         "images": [],
-        "explanation": "",
+        "explanation": "මෙම ප්‍රශ්නයේදී නැවක ඇති කාන්දුවීම් (leaks) සොයා ගැනීමට ඉංජිනේරුවන් විසින් සිදු කරනු ලබන ක්‍රියාවලිය කුමක්දැයි විමසා ඇත. 'Pressure test' යනු පද්ධතියක ඇති කාන්දුවීම් හඳුනා ගැනීමට භාවිතා කරන සම්මත Maintenance ක්‍රියාවලියකි. අනෙක් විකල්පයන් විශ්ලේෂණය කරමු: 'Language test' යනු භාෂා දැනුම පරීක්ෂා කිරීමකි, එය කාන්දුවීම් සෙවීමට අදාළ නොවේ. 'Injured crewmember' යනු තුවාල වූ කාර්ය මණ්ඩල සාමාජිකයෙකි, එය ක්‍රියාවලියක් නොවේ. 'Piston rod' යනු එන්ජිමක කොටසකි, එය කාන්දුවීම් සෙවීමට සිදු කරන පරීක්ෂණයක් නොවේ. එබැවින්, තාක්ෂණික වශයෙන් නිවැරදි පිළිතුර 'Pressure test' වේ.",
         "tags": [
             {
                 "sub_category": "Management",
@@ -1490,7 +1495,7 @@
         ],
         "correct_answer": "Situational awareness.",
         "images": [],
-        "explanation": "",
+        "explanation": "නැවක ආරක්ෂිත මෙහෙයුම් සඳහා (Safe operations) කණ්ඩායමේ සියලුම සාමාජිකයන් සැමවිටම 'Situational awareness' හෙවත් අවට සිදුවන දේ පිළිබඳව මනා අවබෝධයකින් සිටීම අත්‍යවශ්‍ය වේ. අනෙක් විකල්ප විශ්ලේෂණය කරමු: 'Working aloft' යනු උසක වැඩ කිරීමයි, එය නිරන්තරයෙන් පවත්වා ගත යුතු දෙයක් නොවේ. 'Alcohol' භාවිතය නැවක ආරක්ෂාවට තර්ජනයක් වන අතර එය තහනම්ය. 'Carbon dioxide' යනු ගිනි නිවන මාධ්‍යයක් හෝ වායුවක් වන අතර එය පවත්වා ගැනීමක් සිදු නොවේ. එබැවින් 'Situational awareness' යනු නිවැරදි පිළිතුරයි.",
         "tags": [
             {
                 "sub_category": "Safety",
@@ -1514,7 +1519,7 @@
         ],
         "correct_answer": "Standards.",
         "images": [],
-        "explanation": "",
+        "explanation": "STCW යනු 'Standards of Training, Certification and Watchkeeping' යන්නෙහි කෙටි යෙදුමයි. මෙහිදී 'Standards' යන්නෙන් අදහස් වන්නේ නාවිකයින්ගේ පුහුණුව, සහතික කිරීම සහ මුර සේවය (Watchkeeping) සඳහා අන්තර්ජාතිකව පිළිගත් ප්‍රමිතීන්ය. අනෙකුත් විකල්ප වන 'Seafarer', 'System' සහ 'Section' යන වචන මෙම සම්මුතියේ නිල නාමයට අදාළ නොවේ. එබැවින් 'Standards' යනු නිවැරදි පිළිතුරයි.",
         "tags": [
             {
                 "sub_category": "Legislation",
@@ -1538,7 +1543,7 @@
         ],
         "correct_answer": "Tanker.",
         "images": [],
-        "explanation": "",
+        "explanation": "මෙම ප්‍රශ්නයේදී නැවක පවතින 'pipework' හෙවත් නල පද්ධති පිළිබඳව සඳහන් වේ. Tanker නැව්වල ප්‍රධාන ලක්ෂණය වන්නේ ද්‍රව භාණ්ඩ ප්‍රවාහනය සඳහා තට්ටුව මත (on deck) විශාල නල පද්ධති (piping systems) තිබීමයි. අනෙකුත් විකල්ප විශ්ලේෂණය කරමු: 1. Container ship: මෙහි තට්ටුව මත ඇත්තේ Container ගබඩා කිරීම සඳහා වන සෛල හෝ සවි කිරීම් මිස නල පද්ධති නොවේ. 2. Fishing vessel: මේවායේ නල පද්ධති ප්‍රධාන ලක්ෂණයක් නොවේ. 3. Sailing vessel: මේවායේ ප්‍රධාන ලක්ෂණය වන්නේ රුවල් (sails) සහ කඹ (rigging) මිස නල පද්ධති නොවේ. එබැවින්, 'pipework' යන වචනය මගින් Tanker නැවක් පිළිබඳව පැහැදිලි ඉඟියක් ලබා දෙන බැවින් නිවැරදි පිළිතුර 'Tanker' වේ.",
         "tags": [
             {
                 "sub_category": "Communication",
@@ -1562,7 +1567,7 @@
         ],
         "correct_answer": "Were reported.",
         "images": [],
-        "explanation": "",
+        "explanation": "මෙම වාක්‍යය 'Passive Voice' ආකාරයෙන් ගොඩනැගිය යුතු අතර, සිදුවීම සිදුවූයේ අතීතයේ බැවින් 'Past Tense' භාවිතා කළ යුතුය. 'Were reported' යනු නිවැරදි පිළිතුරයි. 'Were reacted' යන්න මෙහිදී අර්ථ විරහිත වේ, මන්ද නැවක චලනයන් (ship movements) ප්‍රතික්‍රියා නොකරන බැවිනි. 'Are report' යන්න ව්‍යාකරණානුකූලව වැරදියි (Are reported විය යුතුය). 'Quickly' යනු ක්‍රියා පදයක් නොවන බැවින් වාක්‍යය සම්පූර්ණ කිරීමට නොහැක. එබැවින්, 'No sudden or unusual ship movements were reported' යන්න නිවැරදි වාක්‍යය වේ.",
         "tags": [
             {
                 "sub_category": "Management",
@@ -1586,7 +1591,7 @@
         ],
         "correct_answer": "Recorded.",
         "images": [],
-        "explanation": "",
+        "explanation": "මෙම ප්‍රශ්නයට නිවැරදි පිළිතුර 'Recorded' වේ. නාවික පුහුණු වැඩසටහන්වලදී (Training programme) සිදුකරන ඕනෑම පුහුණුවක් Training Record Book එකක සටහන් කිරීම අනිවාර්ය වේ. 'Recorded' යන්නෙන් අදහස් වන්නේ යම් තොරතුරක් ලේඛනගත කිරීමයි. අනෙක් වචන සලකා බලමු: 'Rendered' යනු යමක් ඉදිරිපත් කිරීම හෝ සැපයීමයි, 'Routed' යනු මාර්ගගත කිරීමයි, සහ 'Rounded' යනු වටකුරු කිරීමයි. මෙම සන්දර්භය තුළ පුහුණුවක් ලේඛනගත කිරීම සඳහා වඩාත්ම සුදුසු වචනය වන්නේ 'Recorded' ය.",
         "tags": [
             {
                 "sub_category": "Management",
@@ -1604,9 +1609,9 @@
             "Command.",
             "Communication."
         ],
-        "correct_answer": "Compound.",
+        "correct_answer": "Command.",
         "images": [],
-        "explanation": "",
+        "explanation": "STCW Convention හි සඳහන් වන පරිදි, නැවක රාජකාරියේ යෙදී සිටින නිලධාරියෙකුට (Officer in charge of a watch) ඉංග්‍රීසි භාෂාව ලිවීමේ සහ කතා කිරීමේ මනා දැනුමක් හෝ හැකියාවක් තිබිය යුතුය. මෙහිදී 'Command of a language' යනු යම් භාෂාවක් පිළිබඳව ඇති ඉහළ මට්ටමේ හැකියාව හෝ පාලනයයි. 'Compound' යනු මිශ්‍රණයක් හෝ සංයෝගයක් වන අතර එය මෙහි අර්ථයට නොගැලපේ. 'Comment' යනු අදහස් දැක්වීමකි. 'Communication' යනු සන්නිවේදනයයි. 'Have a good communication of English' යැයි පැවසීම ව්‍යාකරණානුකූලව වැරදිය. එබැවින් 'Command' යනු නිවැරදි වචනය වේ.",
         "tags": [
             {
                 "sub_category": "Legislation",
@@ -1630,7 +1635,7 @@
         ],
         "correct_answer": "Most critical.",
         "images": [],
-        "explanation": "",
+        "explanation": "නැවක් වරායකට ඇතුළු වීමේදී හෝ පිටවීමේදී (Arrival and Departure) Pilot කෙනෙකුගේ සහාය ලබා ගැනීම අතිශය වැදගත් වේ. මෙහිදී 'Most critical' යන්න නිවැරදි වන්නේ, එම අවස්ථාවන්හිදී නැව පටු ජල මාර්ගවල (restricted waters) ගමන් කරන බැවින් සහ අනතුරු සිදුවීමේ අවදානම වැඩි බැවිනි. අනෙක් විකල්ප විශ්ලේෂණය කරමු: 'Most lowest' යන්න ව්‍යාකරණානුකූලව වැරදියි. 'Most criticised' යන්නෙන් අදහස් වන්නේ වැඩිපුරම විවේචනයට ලක්වන යන්නයි, එය මෙහි සන්දර්භයට නොගැලපේ. 'Highest' යන්නෙන් අදහස් වන්නේ ඉහළම යන්නයි, නමුත් එය 'stages of the voyage' සමඟ භාවිත කිරීමේදී අර්ථවත් නොවේ. එබැවින්, නාවික මෙහෙයුම්වලදී (Navigation) වඩාත්ම අවදානම් සහ තීරණාත්මක අවස්ථාවන් සඳහා 'Most critical' යන්න වඩාත් උචිත වේ.",
         "tags": [
             {
                 "sub_category": "Navigation",
@@ -1654,7 +1659,7 @@
         ],
         "correct_answer": "Stability.",
         "images": [],
-        "explanation": "",
+        "explanation": "නැවක Ballast යනු නැවක Stability (ස්ථාවරභාවය) පවත්වා ගැනීමට සහ නැවෙහි Draft (ගැඹුර) නිසි මට්ටමින් පවත්වා ගැනීමට භාවිතා කරන ජලය හෝ වෙනත් බරකි. මෙහිදී Ability (හැකියාව), Compatability (ගැලපීම), සහ Suitability (සුදුසුකම) යන වචන නැවක Ballast පද්ධතියේ මූලික කාර්යය විස්තර කිරීමට නොගැලපේ. නැවක් සැහැල්ලු වූ විට (Light condition) හෝ බර පැටවීමේදී (Loading condition) නැවෙහි Center of Gravity පාලනය කරමින් නැව පෙරළීම වැළැක්වීමට සහ ආරක්ෂිතව යාත්‍රා කිරීමට Stability අත්‍යවශ්‍ය වේ. එබැවින් නිවැරදි පිළිතුර Stability වේ.",
         "tags": [
             {
                 "sub_category": "Stability",
@@ -1674,7 +1679,7 @@
         ],
         "correct_answer": "Forward.",
         "images": [],
-        "explanation": "",
+        "explanation": "මෙම ප්‍රශ්නයේදී 'Port bow' යනු නැවක ඉදිරිපස වම් පැත්ත (front left side) හඳුන්වන නාවික පදයකි. එබැවින්, 'Bow' වෙත යාම යනු නැවේ 'Forward' (ඉදිරිපස) දෙසට යාමයි. අනෙක් විකල්පයන් විශ්ලේෂණය කරමු: 'Aloft' යනු නැවක කුඹගස් හෝ ඉහළ කොටස් වෙත යාමයි, 'Aft' යනු නැවේ පසුපස කොටසයි, සහ 'Down below' යනු නැවේ පහළ තට්ටු වෙත යාමයි. මේ අනුව, 'Bow' යනු නැවේ ඉදිරිපස බැවින් 'Forward' යනු නිවැරදි පිළිතුර වේ.",
         "tags": [
             {
                 "sub_category": "Communication",
@@ -1698,7 +1703,7 @@
         ],
         "correct_answer": "Associated with.",
         "images": [],
-        "explanation": "",
+        "explanation": "මෙම වාක්‍යයේ අර්ථය වන්නේ එන්ජින් කාමරයේ සේවය කරන කාර්ය මණ්ඩලය 'hot spots' (අධික උෂ්ණත්වයක් සහිත ස්ථාන) නිසා ඇතිවිය හැකි අවදානම් (risks) පිළිබඳව අවධානයෙන් සිටිය යුතු බවයි. මෙහිදී 'risks' සහ 'hot spots' අතර සම්බන්ධය දැක්වීමට 'Associated with' යන පදය වඩාත් සුදුසු වේ. අනෙක් විකල්පයන් විශ්ලේෂණය කළහොත්: 'Assessment' යනු නාම පදයක් වන අතර එය මෙහි ව්‍යාකරණානුකූලව නොගැලපේ. 'Contained with' යන්නෙන් අදහස් කරන්නේ යම් දෙයක් ඇතුළත අඩංගු වී ඇති බවයි, එය මෙහි සන්දර්භයට නොගැලපේ. 'Assured by' යන්නෙන් අදහස් කරන්නේ යම් දෙයකින් සහතික වීමක් වන අතර එයද මෙහි අර්ථයට නොගැලපේ. එබැවින් 'Associated with' යනු නිවැරදිම පිළිතුරයි.",
         "tags": [
             {
                 "sub_category": "Management",
@@ -1722,7 +1727,7 @@
         ],
         "correct_answer": "Permit to work.",
         "images": [],
-        "explanation": "",
+        "explanation": "නැවක සිදුකරන Hot work (වෙල්ඩින්, ගෑස් කටින් වැනි) ඉතාමත් අවදානම් සහගත කාර්යයකි. මෙහිදී ආරක්ෂාව තහවුරු කිරීම සඳහා 'Permit to work' (PTW) පද්ධතිය අනිවාර්යයෙන්ම අනුගමනය කළ යුතුය. අනෙක් විකල්ප වන 'Smoke break', 'Permission to speak' සහ 'Dehydration' යන ඒවා කිසිසේත්ම නැවක ආරක්ෂක පද්ධති හෝ Hot work ක්‍රියාවලියට අදාළ නොවේ. PTW පද්ධතිය මගින් කාර්යය ආරම්භ කිරීමට පෙර අවදානම් තක්සේරු කිරීම (Risk assessment) සහ ආරක්ෂිත පියවරයන් (Safety precautions) තහවුරු කරනු ලබයි.",
         "tags": [
             {
                 "sub_category": "Safety",
@@ -1746,7 +1751,7 @@
         ],
         "correct_answer": "Performed.",
         "images": [],
-        "explanation": "",
+        "explanation": "මෙම වාක්‍යයේ ව්‍යාකරණ ව්‍යුහය අනුව, 'should be' යන passive voice ආකෘතියෙන් පසුව ක්‍රියාවක past participle ස්වරූපය අවශ්‍ය වේ. 'Performed' යනු 'to perform' (ඉටු කිරීම/සිදු කිරීම) යන ක්‍රියාවේ past participle ස්වරූපය වන අතර, නියමු ඉණිමඟක් (pilot ladder) සවි කිරීමේ කාර්යය සිදු කිරීම සඳහා එය වඩාත් සුදුසු වේ. අනෙක් විකල්ප විශ්ලේෂණය කළහොත්: 'Performance' යනු නාම පදයක් (noun) වන අතර එය මෙහි නොගැලපේ. 'Perfumed' යනු සුවඳ ගැන්වීම යන අර්ථය දෙන අතර එය නාවික මෙහෙයුම්වලට අදාළ නොවේ. 'Proofed' යනු යම් දෙයක් පරීක්ෂා කිරීම හෝ ආරක්ෂිත කිරීම (උදා: waterproof) යන අර්ථය දෙන අතර, මෙහිදී ඉණිමඟක් සවි කිරීමේ ක්‍රියාවලියට 'performed' යන වචනය වඩාත් නිවැරදි වේ.",
         "tags": [
             {
                 "sub_category": "Deck",
@@ -1770,7 +1775,7 @@
         ],
         "correct_answer": "Lowered.",
         "images": [],
-        "explanation": "",
+        "explanation": "මෙම වාක්‍යයේ අර්ථය වන්නේ 'Bosun' විසින් 'cargo net' එක 'launch' (කුඩා බෝට්ටුවක්) වෙත පහත් කළ බවයි. 'Lowered' යනු යමක් පහත් කිරීම යන අර්ථය දෙන නිවැරදි ක්‍රියා පදයයි. අනෙක් වචන විශ්ලේෂණය කරමු: 'Cowered' යනු බියෙන් හැකිලීමයි, එය මෙහි නොගැලපේ. 'Powered' යනු බලය සැපයීමයි, එය මෙහි අර්ථයට නොගැලපේ. 'Towered' යනු උසින් වැඩියෙන් සිටීමයි, එයද මෙහි නොගැලපේ. එබැවින් 'Lowered' යනු එකම නිවැරදි පිළිතුරයි.",
         "tags": [
             {
                 "sub_category": "Deck",
@@ -1790,7 +1795,7 @@
         ],
         "correct_answer": "11:30.",
         "images": [],
-        "explanation": "",
+        "explanation": "මෙම ප්‍රශ්නයේදී 'noon' යනු දහවල් 12:00 වේ. 'Beforehand' යන්නෙන් අදහස් වන්නේ නියමිත වේලාවට පෙර සූදානම් විය යුතු බවයි. එබැවින් 12:00 ට පෙර කාලයක් තෝරාගත යුතුය. 12:30, 13:00 සහ 00:30 යන වේලාවන් 12:00 ට පසුව හෝ බොහෝ පසුව එන වේලාවන් වන බැවින් ඒවා වැරදිය. 11:30 යනු 12:00 ට පෙර එන එකම පිළිතුර වන අතර, Bunker barge එක පැමිණීමට පෙර සූදානම් වීමට එය සුදුසුම කාලය වේ.",
         "tags": [
             {
                 "sub_category": "Bunkering",
@@ -1814,7 +1819,7 @@
         ],
         "correct_answer": "Guidance.",
         "images": [],
-        "explanation": "",
+        "explanation": "මෙම ප්‍රශ්නයෙන් අදහස් වන්නේ උපකරණවල නඩත්තු කටයුතු (Maintenance) නිවැරදිව සිදු කිරීම සඳහා නිෂ්පාදකයාගේ උපදෙස් පිළිපැදිය යුතු බවයි. 'Guidance' යන්නෙන් නිෂ්පාදකයා විසින් ලබා දී ඇති උපදෙස් හෝ මගපෙන්වීම් අදහස් වේ. අනෙක් විකල්පයන් විශ්ලේෂණය කරමු: 'Trademark' යනු වෙළඳ ලකුණයි, එය නඩත්තුවට අදාළ නොවේ. 'Prospect' යනු අනාගත අපේක්ෂාවයි, එය මෙහි නොගැලපේ. 'Modification' යනු වෙනස් කිරීමක් වන අතර, නිෂ්පාදකයාගේ අවසරයකින් තොරව උපකරණ වෙනස් කිරීම නඩත්තුවක් ලෙස නොසැලකේ. එබැවින් 'Guidance' යනු වඩාත්ම නිවැරදි පිළිතුරයි.",
         "tags": [
             {
                 "sub_category": "Maintenance",
@@ -1838,7 +1843,7 @@
         ],
         "correct_answer": "Any doubts.",
         "images": [],
-        "explanation": "",
+        "explanation": "මෙම වාක්‍යයේ අර්ථය වන්නේ ඔබේ රාජකාරි, ආරක්ෂිත වැඩ පිළිවෙත් (safe working practices) හෝ හදිසි ක්‍රියාපටිපාටි (emergency procedures) පිළිබඳව ඔබට යම් සැකයක් ඇත්නම් ප්‍රශ්න ඇසීමට බිය නොවන්න යන්නයි. 'Any doubts' යන්න මෙහිදී වඩාත් ගැලපෙන වචන පෙළ වේ. අනෙක් විකල්පයන් වන 'Questioning' (ප්‍රශ්න කිරීම), 'Finished' (අවසන්), සහ 'Known' (දන්නා) යන වචන මෙම වාක්‍යයේ ව්‍යාකරණානුකූලව හෝ අර්ථය අනුව නොගැලපේ. එබැවින් 'Any doubts' යනු නිවැරදි පිළිතුරයි.",
         "tags": [
             {
                 "sub_category": "Safety",
@@ -1857,12 +1862,12 @@
         "answers": [
             "Overheated.",
             "Offered.",
-            "Open-hearted.",
-            "Oven ready."
+            "Oven ready.",
+            "Open-hearted."
         ],
         "correct_answer": "Overheated.",
         "images": [],
-        "explanation": "",
+        "explanation": "මෙම වාක්‍යයේ අර්ථය වන්නේ 'Socket' සහ 'Adaptor' එක අධික ලෙස රත් වීම නිසා ගින්නක් ඇති වූ බවයි. විදුලි උපකරණවලදී 'Overheated' (අධික ලෙස රත් වීම) යනු ගින්නක් ඇති වීමට ප්‍රධාන හේතුවකි. අනෙක් විකල්පයන් වන 'Offered' (පිරිනැමීම), 'Oven ready' (උඳුනක පිසීමට සූදානම්) සහ 'Open-hearted' (කරුණාවන්ත) යන වචන මෙම වාක්‍යයේ සන්දර්භයට (context) කිසිසේත්ම නොගැලපේ. එබැවින් 'Overheated' යනු නිවැරදි පිළිතුරයි.",
         "tags": [
             {
                 "sub_category": "Safety",
@@ -1886,7 +1891,7 @@
         ],
         "correct_answer": "Investigated and reported.",
         "images": [],
-        "explanation": "",
+        "explanation": "මෙම වාක්‍යයේ ව්‍යුහය අනුව, Chief Engineer විසින් සිදු කළ ක්‍රියාවක් මෙහි ඇතුළත් විය යුතුය. 'Investigated and reported' යන්න වඩාත් සුදුසු වන්නේ, හදිසි අවස්ථාවකදී (Emergency) Chief Engineer වගකීමක් ලෙස සිදුවීම පරීක්ෂා කර (Investigated) Master වෙත වාර්තා කළ යුතු (Reported) බැවිනි. අනෙක් විකල්ප සලකා බලමු: 'Extinguished' යන්න මෙහි ව්‍යාකරණානුකූලව නොගැලපේ, මන්ද එයට පසුව කෙලින්ම 'to the master' යැයි පැවසිය නොහැක. 'And the oiler' යන්න නාම පදයක් වන අතර එය වාක්‍යයේ ක්‍රියා පදයක් ලෙස නොගැලපේ. 'Decided to look' යන්න අර්ථවත් වුවත්, හදිසි අවස්ථාවකදී වෘත්තීයමය වශයෙන් 'Investigated and reported' යන්න වඩාත් නිවැරදි සහ තාක්ෂණිකව පිළිගත හැකි ප්‍රකාශනයයි.",
         "tags": [
             {
                 "sub_category": "Emergency",
@@ -1910,7 +1915,7 @@
         ],
         "correct_answer": "Can cause.",
         "images": [],
-        "explanation": "",
+        "explanation": "මෙම වාක්‍යයේ අර්ථය වන්නේ ඉන්ධන වල ඇතිවන Waxing (ඉටි තැන්පත් වීම) නිසා filter blockage (පෙරහන් අවහිර වීම) සහ combustion problems (දහන ගැටළු) ඇති විය හැකි බවයි. මෙහිදී වාක්‍යයේ ව්‍යාකරණ රටාවට අනුව 'Waxing' යන කර්තෘ පදයට (Subject) පසුව ක්‍රියා පදයක් (Verb phrase) අවශ්‍ය වේ. 'Can cause' යන්න මෙහිදී වඩාත් සුදුසු ක්‍රියා පද කාණ්ඩයයි. අනෙක් විකල්ප සලකා බලමු: 'Engine' යනු නාම පදයක් වන අතර එය මෙහි නොගැලපේ. 'Will' යන්න තනිවම භාවිතා කළ නොහැක, එයට පසු ක්‍රියා පදයක් අවශ්‍ය වේ (උදා: will cause). 'Because' යනු සම්බන්ධක පදයක් (Conjunction) වන අතර එය වාක්‍යයේ අර්ථය සම්පූර්ණ නොකරයි. එබැවින් 'Can cause' යනු නිවැරදි පිළිතුරයි.",
         "tags": [
             {
                 "sub_category": "Fuels",
@@ -1934,7 +1939,7 @@
         ],
         "correct_answer": "Breaches.",
         "images": [],
-        "explanation": "",
+        "explanation": "මෙම ප්‍රශ්නයෙන් අදහස් කරන්නේ නෞකාවක ආරක්ෂාවට (Security) තර්ජනයක් වන ඕනෑම සිදුවීමකට කාර්ය මණ්ඩලය වහාම ප්‍රතිචාර දැක්විය යුතු බවයි. 'Breach of security' යනු ආරක්ෂක විධිවිධාන කඩවීම හෝ ආරක්ෂාවට තර්ජනයක් වන සිදුවීමක් හැඳින්වීමට භාවිතා කරන නිවැරදි තාක්ෂණික යෙදුමයි (ISPS Code අනුව). අනෙක් විකල්පයන් වන 'Closeness' (සමීප බව), 'Brackets' (වරහන්), සහ 'Personnel' (කාර්ය මණ්ඩලය) යන වචන මෙම වාක්‍යයේ අර්ථයට කිසිසේත්ම නොගැලපේ. එබැවින් 'Breaches' යනු නිවැරදි පිළිතුරයි.",
         "tags": [
             {
                 "sub_category": "Security",
@@ -1958,7 +1963,7 @@
         ],
         "correct_answer": "Abnormalities.",
         "images": [],
-        "explanation": "",
+        "explanation": "මෙම ප්‍රශ්නය මගින් නැවක ආරක්ෂාව (Security) සහ Watchkeeping රාජකාරිවලදී අනුගමනය කළ යුතු ක්‍රියාපටිපාටිය විමසයි. 'Abnormalities' යන්නෙහි අර්ථය වන්නේ සාමාන්‍ය තත්ත්වයට වඩා වෙනස් හෝ සැක සහිත ඕනෑම දෙයක් යන්නයි. නැවක ආරක්ෂාව පවත්වාගෙන යාමේදී, නැව තුළ හෝ ගොඩබිම (ashore) සැක සහිත යමක් දුටුවහොත් එය වහාම Chief Officer වෙත වාර්තා කිරීම අනිවාර්ය වේ. අනෙක් විකල්පයන් වන 'Cargoes' (භාණ්ඩ), 'Engine failures' (එන්ජින් අසමත් වීම්) හෝ 'Containers' (කන්ටේනර්) යන ඒවා සාමාන්‍ය මෙහෙයුම්වල කොටසක් විය හැකි අතර, ඒවා සෑම විටම වාර්තා කළ යුතු 'අසාමාන්‍ය' දේවල් නොවේ. එබැවින්, ඕනෑම අසාමාන්‍ය තත්ත්වයක් (Abnormalities) වාර්තා කිරීම ආරක්ෂක පියවරක් ලෙස වඩාත් නිවැරදි වේ.",
         "tags": [
             {
                 "sub_category": "Security",
@@ -1999,7 +2004,7 @@
         ],
         "correct_answer": "To all seafarers.",
         "images": [],
-        "explanation": "",
+        "explanation": "STCW Convention (Standards of Training, Certification and Watchkeeping for Seafarers) රෙගුලාසිවලට අනුව, ඕනෑම නෞකාවක සේවය කරන සෑම පුද්ගලයෙකුම (seafarer) හදිසි අවස්ථාවකදී තම ජීවිතය ආරක්ෂා කර ගැනීම සඳහා Personal Survival Techniques පිළිබඳ මූලික පුහුණුවක් ලබා තිබීම අනිවාර්ය වේ. මෙහිදී 'Officers only', 'All ratings' හෝ 'Deck hands mainly' ලෙස වෙන් කිරීමක් සිදු නොකරයි. මන්ද, නෞකාවක සිදුවන අනතුරකදී ඕනෑම අයෙකුට තම ජීවිතය බේරා ගැනීමට අවශ්‍ය මූලික දැනුම තිබිය යුතු බැවිනි. එබැවින් 'To all seafarers' යනු නිවැරදි පිළිතුරයි.",
         "tags": [
             {
                 "sub_category": "Legislation",
@@ -2043,7 +2048,7 @@
         ],
         "correct_answer": "Take over the steering of the ship.",
         "images": [],
-        "explanation": "",
+        "explanation": "නාවික ක්ෂේත්‍රයේ 'Helm' යනු නැවක දිශාව පාලනය කරන Steering wheel එක හෝ ඒ ආශ්‍රිත පද්ධතියයි. 'Take the helm' යන ප්‍රකාශයෙන් අදහස් වන්නේ නැවක සුක්කානම පාලනය කිරීමේ වගකීම (Steering) එක් අයෙකුගෙන් තවත් අයෙකු වෙත පැවරීමයි. අනෙක් විකල්පයන් වන lookout ස්ථානය මාරු කිරීම, කඹ ඇදීම (heaving of a rope) හෝ පණිවිඩයක් රැගෙන යාම යන කිසිවක් 'helm' යන වචනය සමඟ සම්බන්ධ නොවේ. එබැවින් 'Take over the steering of the ship' යනු නිවැරදි පිළිතුරයි.",
         "tags": [
             {
                 "sub_category": "Navigation",
@@ -2067,7 +2072,7 @@
         ],
         "correct_answer": "If I saw a person falling overboard I would shout repeatedly, “Man overboard”.",
         "images": [],
-        "explanation": "",
+        "explanation": "නැවකදී පුද්ගලයෙකු මුහුදට වැටුනහොත් (Man overboard), ක්ෂණිකව අවට සිටින අයට එය ඇසෙන පරිදි සහ තේරුම් යන පරිදි දැනුම් දීම ඉතා වැදගත් වේ. මෙහිදී 'Man overboard' යනුවෙන් නැවත නැවතත් (repeatedly) කෑගැසීම මගින් අවට සිටින කාර්ය මණ්ඩලයේ අවධානය ඉක්මනින් දිනාගත හැකි අතර, එමගින් හදිසි අවස්ථා ක්‍රියා පටිපාටිය (Emergency procedure) වහාම ආරම්භ කිරීමට හැකි වේ. අනෙක් පිළිතුරු වැරදි වීමට හේතු: 1. පාලම් මැදිරියට (Bridge) දිව යාමෙන් කාලය අපතේ යන අතර, එම ස්ථානයේ සිටින අයට වහාම දැනුම් දීමක් සිදු නොවේ. 2. Bosun හට පමණක් දැනුම් දීම ප්‍රමාණවත් නොවේ, මන්ද මුළු නැවම දැනුවත් විය යුතු බැවිනි. 3. එක් වරක් පමණක් කෑගැසීමෙන් ශබ්ද දූෂණය හෝ සුළං වේගය නිසා අන් අයට එය නොඇසී යාමට ඉඩ ඇත.",
         "tags": [
             {
                 "sub_category": "Emergency",
@@ -2091,7 +2096,7 @@
         ],
         "correct_answer": "Normally a small vessel is called a “boat” rather than a “ship”, otherwise it is not normal.",
         "images": [],
-        "explanation": "",
+        "explanation": "නාවික ක්ෂේත්‍රයේදී 'ship' සහ 'boat' යන වචන භාවිතය සම්බන්ධව පැහැදිලි වෙනසක් පවතී. සාමාන්‍යයෙන් කුඩා ප්‍රමාණයේ යාත්‍රා (small vessels) සඳහා 'boat' යන වචනය භාවිතා කිරීම වඩාත් සුදුසු සහ නිරවද්‍ය වේ. අනෙක් පිළිතුරු වැරදි වීමට හේතු: 'A large vessel is always called a ship' යන්න වැරදියි, මන්ද සමහර විශාල යාත්‍රා (උදාහරණයක් ලෙස විශාල මසුන් අල්ලන යාත්‍රා) 'fishing boat' ලෙස හැඳින්විය හැකි බැවිනි. 'Either can be used anytime' යන්න වැරදියි, මන්ද නාවික පාරිභාෂික ශබ්ද මාලාවේදී (nautical terminology) යාත්‍රාවක ප්‍රමාණය සහ කාර්යභාරය අනුව නිවැරදි වචනය තෝරා ගැනීම අත්‍යවශ්‍ය වේ. 'Under 50 metres' යන සීමාව නීතිමය වශයෙන් සෑම විටම අදාළ නොවන අතර එය සාමාන්‍ය භාවිතය සඳහා නීතියක් නොවේ. එබැවින් කුඩා යාත්‍රාවක් සඳහා 'boat' යන වචනය භාවිතා කිරීම වඩාත් සාමාන්‍ය සහ නිවැරදි ක්‍රමය වේ.",
         "tags": [
             {
                 "sub_category": "Communication",
@@ -2111,7 +2116,7 @@
         ],
         "correct_answer": "Pirates are persons who attempt to board and take over a ship at sea.",
         "images": [],
-        "explanation": "",
+        "explanation": "මෙහි නිවැරදි පිළිතුර වන්නේ 'Pirates are persons who attempt to board and take over a ship at sea' යන්නයි. 'Pirates' යනු මුහුදේදී නීතිවිරෝධී ලෙස නැවකට ගොඩවී එය අත්පත් කර ගැනීමට උත්සාහ කරන පුද්ගලයන් වේ. අනෙක් විකල්පයන් වැරදි වන්නේ: 1. 'Official people' යනු වරාය නිලධාරීන් හෝ පරීක්ෂකවරුන් මිස මුහුදු කොල්ලකරුවන් නොවේ. 2. 'Cargo lashings' යනු භාණ්ඩ සුරක්ෂිත කිරීමට භාවිතා කරන උපකරණ මිස පුද්ගලයන් නොවේ. 3. 'Helmsmen' යනු නැව මෙහෙයවන (steering) කාර්ය මණ්ඩල සාමාජිකයන් වන අතර ඔවුන් මුහුදු කොල්ලකරුවන් සමඟ කිසිදු සම්බන්ධයක් නැත.",
         "tags": [
             {
                 "sub_category": "Security",
@@ -2155,7 +2160,7 @@
         ],
         "correct_answer": "To cast off the lines that secure the tug to the ship.",
         "images": [],
-        "explanation": "",
+        "explanation": "නාවික මෙහෙයුම් වලදී 'Let go the tug' යන පදය භාවිතා කරන්නේ නැව සහ Tug boat එක අතර සම්බන්ධ කර ඇති Mooring lines හෝ Towing lines ගලවා දැමීමට (cast off) අණ කිරීම සඳහාය. අනෙක් විකල්ප විශ්ලේෂණය කළහොත්: 1) 'To tell the tug master to let go his anchor' යනු වැරදි අර්ථකථනයකි, මන්ද මෙහිදී Tug එකේ නැංගුරම ගැන සඳහනක් නොමැත. 2) 'To tell the tug master to steer away from the ship' යනු Tug එකට ඉවත් වීමට දෙන උපදෙසක් වුවත්, එය 'Let go' යන පදයේ නිශ්චිත අර්ථය නොවේ. 3) 'To cut the lines' යනු හදිසි අවස්ථාවකදී පමණක් සිදුකරන දෙයක් වන අතර, සාමාන්‍ය මෙහෙයුම් වලදී 'Let go' යන්නෙන් අදහස් වන්නේ ආරක්ෂිතව ලණු ගලවා දැමීමයි. එබැවින් පළමු පිළිතුර නිවැරදි වේ.",
         "tags": [
             {
                 "sub_category": "Navigation",
@@ -2179,7 +2184,7 @@
         ],
         "correct_answer": "Open the port windlass brake.",
         "images": [],
-        "explanation": "",
+        "explanation": "නැව් මෙහෙයුම් වලදී 'Let go the anchor' යන විධානයෙන් අදහස් කරන්නේ නැංගුරම මුහුදු පතුලට වැටීමට ඉඩ හැරීමයි. මෙහිදී Windlass brake එක ලිහිල් කිරීම (Open) මගින් Anchor cable එකට නිදහසේ ගමන් කිරීමට ඉඩ ලැබේ. අනෙක් පිළිතුරු වැරදි වන්නේ: 'Put the port windlass brake in gear' යනු brake එක තද කිරීමයි, එයින් නැංගුරම වැටීම වළක්වයි. 'Slacken the port anchor cable' යනු කේබලය ලිහිල් කිරීම පමණක් වන අතර එයින් නැංගුරම සම්පූර්ණයෙන්ම මුදා හැරීමක් අදහස් නොවේ. එබැවින්, Windlass brake එක විවෘත කිරීම (Open) මගින් පමණක් නැංගුරම නිදහස් කළ හැකි බැවින් පළමු පිළිතුර නිවැරදි වේ.",
         "tags": [
             {
                 "sub_category": "Navigation",
@@ -2203,7 +2208,7 @@
         ],
         "correct_answer": "Engine room ratings forming part of an engine room watch should assist in efficient and safe watch-keeping routines.",
         "images": [],
-        "explanation": "",
+        "explanation": "Engine room rating කෙනෙකුගේ ප්‍රධාන කාර්යභාරය වන්නේ Engine room watch එකකදී ආරක්ෂිත සහ කාර්යක්ෂම Watch-keeping routines පවත්වාගෙන යාමට සහාය වීමයි. අනෙක් විකල්පයන් විශ්ලේෂණය කරමු: 1. 'Cleaning floor plates' යනු ඔවුන්ගේ රාජකාරියේ කොටසක් වුවද, එය පමණක් ඔවුන්ගේ ප්‍රධාන රාජකාරිය නොවේ. 2. 'Operational parameters' පරීක්ෂා කිරීම සහ ඒවා manufacturers instructions වලට අනුකූලදැයි තහවුරු කිරීම ප්‍රධාන වශයෙන් සිදු කරනු ලබන්නේ Watch-keeping Engineer විසිනි, Rating කෙනෙකුගේ වගකීම එය නොවේ. 3. 'Making tea' යනු කිසිසේත්ම ඔවුන්ගේ වෘත්තීය රාජකාරියක් නොවේ. එබැවින්, ආරක්ෂිත සහ කාර්යක්ෂම Watch-keeping පවත්වා ගැනීමට සහාය වීම වඩාත් නිවැරදි සහ පුළුල් පිළිතුර වේ.",
         "tags": [
             {
                 "sub_category": "Watchkeeping",
@@ -2251,7 +2256,7 @@
         ],
         "correct_answer": "“Stand By” means that the engineers should be ready to respond to bridge requirements.",
         "images": [],
-        "explanation": "",
+        "explanation": "නාවික මෙහෙයුම් වලදී 'Stand By' යන පදය මගින් අදහස් කරන්නේ එන්ජින් කාමරයේ සිටින කාර්ය මණ්ඩලය පාලම් මැදිරියෙන් (Bridge) ලැබෙන ඕනෑම උපදෙසකට හෝ අවශ්‍යතාවයකට ක්ෂණිකව ප්‍රතිචාර දැක්වීමට සූදානමින් සිටිය යුතු බවයි. අනෙක් විකල්පයන් වැරදි වන්නේ: 1) 'Continue with ones work' යන්නෙන් අදහස් කරන්නේ සාමාන්‍ය රාජකාරිවල නිරත වීමයි, එය Stand By තත්ත්වයක් නොවේ. 2) 'Relieved of duties' යනු රාජකාරියෙන් නිදහස් වීමයි. 3) 'Stand close to the watch-keeping engineer' යනු හුදෙක් ස්ථානගත වීමක් පමණි. එබැවින්, නෞකාවේ ආරක්ෂිත මෙහෙයුම් සඳහා Bridge වෙතින් ලැබෙන විධානවලට සූදානම්ව සිටීම 'Stand By' හි නිවැරදි අර්ථය වේ.",
         "tags": [
             {
                 "sub_category": "Management",

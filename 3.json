@@ -11,7 +11,7 @@
         ],
         "correct_answer": "4,6 V.",
         "images": [],
-        "explanation": "",
+        "explanation": "මෙම ගැටලුව විසඳීම සඳහා අප Ohm's Law සහ Voltage Divider Rule භාවිතා කළ යුතුය. මෙහිදී Source voltage (E) = 5 V, Internal impedance (r) = 0.2 ohms සහ Load resistance (R) = 2.3 ohms වේ. පළමුව, පරිපථයේ මුළු ප්‍රතිරෝධය (Total resistance) සොයා ගත යුතුය: Total resistance = r + R = 0.2 + 2.3 = 2.5 ohms. ඉන්පසු, පරිපථයේ ගලා යන ධාරාව (Current, I) සොයා ගනිමු: I = E / Total resistance = 5 / 2.5 = 2 A. දැන්, Load terminals හරහා ඇති වෝල්ටීයතාවය (Terminal voltage, V) සෙවීමට V = I * R සූත්‍රය භාවිතා කරමු: V = 2 * 2.3 = 4.6 V. අනෙකුත් පිළිතුරු වැරදි වන්නේ, 5.0 V යනු Load එකක් නොමැති විට ලැබෙන Open circuit voltage එක වන අතර, 5.2 V සහ 4.8 V යනු වැරදි ගණනය කිරීම් මගින් ලබා ගන්නා අගයන් වේ. එබැවින් නිවැරදි පිළිතුර 4.6 V වේ.",
         "tags": [
             {
                 "sub_category": "Electrical",
@@ -31,7 +31,7 @@
         ],
         "correct_answer": "One of the main switching elements in the triac has failed.",
         "images": [],
-        "explanation": "",
+        "explanation": "Triac එකක් යනු AC පද්ධතිවලදී cycle දෙකම (positive සහ negative half-cycles) හරහා ධාරාව ගමන් කරවන bidirectional semiconductor device එකකි. මෙහි එක් අර්ධයක (half-cycle) ක්‍රියා කරන switching element එකක් අක්‍රිය වුවහොත්, oven එකට ලැබෙන බලය 50% කින් අඩු වේ. අනෙක් විකල්ප විශ්ලේෂණය කරමු: 1. 'The voltage supply reduced by 50%' යනු ඉතා දුර්ලභ සිදුවීමකි, මන්ද එය මුළු පද්ධතියටම බලපාන බැවිනි. 2. 'Gate terminal open circuit' වුවහොත්, triac එක කිසිසේත්ම ක්‍රියා නොකරන අතර oven එක රත් නොවනු ඇත. 3. 'Triac completely failed' වුවහොත්, oven එක සම්පූර්ණයෙන්ම ක්‍රියා විරහිත වේ. එබැවින්, 50% ක බලයක් පමණක් ලැබීම යනු triac එකේ අඩක් පමණක් ක්‍රියාත්මක වන බව පෙන්නුම් කරන අතර, එයට හේතුව එහි ඇති internal switching elements වලින් එකක් අක්‍රිය වීමයි.",
         "tags": [
             {
                 "sub_category": "Electronics",
@@ -55,7 +55,7 @@
         ],
         "correct_answer": "Recharge batteries immediately after discharge.",
         "images": [],
-        "explanation": "",
+        "explanation": "බැටරි නඩත්තුවේදී (Battery maintenance) නිවැරදි ක්‍රියාමාර්ග ගැනීම ඉතා වැදගත් වේ. පළමුව, 'Recharge batteries immediately after discharge' යනු නිවැරදි පිළිතුරයි. බැටරියක් සම්පූර්ණයෙන්ම විසර්ජනය (Discharge) වූ පසු දිගු වේලාවක් එලෙසම තැබීමෙන් 'Sulphation' නම් ක්‍රියාවලිය සිදුවී බැටරියේ ධාරිතාව ස්ථිරවම අඩු විය හැක. දෙවනුව, 'Install alkaline and lead-acid batteries in the same compartment' යනු වැරදි ක්‍රියාවකි. මන්ද, මෙම බැටරි වර්ග දෙකෙහි ඇති රසායනික ද්‍රව්‍ය එකිනෙක මිශ්‍ර වුවහොත් අනතුරුදායක රසායනික ප්‍රතික්‍රියා සිදුවිය හැක. තෙවනුව, 'Add new acid electrolyte to batteries that are in use' යනු වැරදි ක්‍රියාවකි. සාමාන්‍යයෙන් බැටරියක මට්ටම අඩු වූ විට එකතු කළ යුත්තේ 'Distilled water' පමණි, අම්ලය (Acid) නොවේ. අවසාන වශයෙන්, 'Keep the batteries in discharged state' යනු බැටරියට හානි කරන ක්‍රියාවකි, එය බැටරියේ ආයු කාලය කෙටි කරයි.",
         "tags": [
             {
                 "sub_category": "Safety",
@@ -79,7 +79,7 @@
         ],
         "correct_answer": "Accelerometer.",
         "images": [],
-        "explanation": "",
+        "explanation": "Piezoelectric sensor එකක් මගින් යාන්ත්‍රික පීඩනයක් (mechanical stress) විද්‍යුත් සංඥාවක් බවට පත් කරයි. Accelerometer එකකදී, කම්පනයක් හෝ ත්වරණයක් (vibration or acceleration) ඇති වූ විට, එහි ඇති piezoelectric crystal එක මත පීඩනයක් ඇති වී විද්‍යුත් වෝල්ටීයතාවයක් ජනනය වේ. අනෙක් විකල්ප සලකා බැලීමේදී: Tachometer යනු භ්‍රමණ වේගය (rotational speed) මැනීමට ගන්නා උපකරණයකි, එය සාමාන්‍යයෙන් magnetic pickup හෝ optical sensor භාවිතා කරයි. Thermocouple යනු උෂ්ණත්වය මැනීමට ගන්නා උපකරණයකි, එය Seebeck effect මත පදනම් වේ. එබැවින්, නිවැරදි පිළිතුර Accelerometer වේ.",
         "tags": [
             {
                 "sub_category": "Instrumentation",
@@ -103,7 +103,7 @@
         ],
         "correct_answer": "2 separate starting devices each with stored energy capable for at least 3 consecutive starts.",
         "images": [],
-        "explanation": "",
+        "explanation": "SOLAS (Safety of Life at Sea) රෙගුලාසිවලට අනුව, Emergency Generator එකක් සඳහා අනිවාර්යයෙන්ම ස්වාධීන ආරම්භක ක්‍රම දෙකක් (2 separate starting devices) තිබිය යුතුය. මෙහිදී සෑම ක්‍රමයකටම අවම වශයෙන් 3 consecutive starts ලබා දීමට අවශ්‍ය Stored energy තිබිය යුතුය. අනෙක් විකල්ප වැරදි වන්නේ: 3 separate starting devices අවශ්‍ය නොවීම, 1 set පමණක් තිබීම ප්‍රමාණවත් නොවීම (Redundancy නොමැති නිසා), සහ 4 consecutive starts යනු නීතිමය අවශ්‍යතාවයට වඩා වැඩි වීමයි. එබැවින් නිවැරදි පිළිතුර වන්නේ 2 separate starting devices each with stored energy capable for at least 3 consecutive starts යන්නයි.",
         "tags": [
             {
                 "sub_category": "Generator",
@@ -127,7 +127,7 @@
         ],
         "correct_answer": "The controller will not react to a process change in this range.",
         "images": [],
-        "explanation": "",
+        "explanation": "Instrumentation පද්ධතිවලදී 'dead-band' යනු පාලක පද්ධතියක් (Controller) යම්කිසි input වෙනසකට ප්‍රතිචාර නොදක්වන පරාසයයි. මෙහිදී process variable එකේ සිදුවන කුඩා වෙනස්කම් පාලකයට හඳුනාගත නොහැකි හෝ ඒවාට ප්‍රතිචාර දැක්වීමට පාලකයට නොහැකි වේ. අනෙක් පිළිතුරු වැරදි වන්නේ: 'sleep mode' යනු පද්ධතියේ ක්‍රියාකාරීත්වයක් නොවන අතර, 'set-point' වෙනස් කිරීමට ප්‍රතිචාර නොදැක්වීම හෝ කාල ප්‍රමාදයක් (Time delay/Lag) ඇතිවීම 'dead-band' ලෙස අර්ථ දැක්විය නොහැකි බැවිනි. එබැවින්, පාලක පද්ධතියක් යම් පරාසයක් තුළ ප්‍රතිචාර නොදක්වන අවස්ථාව 'dead-band' ලෙස නිවැරදිව හඳුනාගත හැකිය.",
         "tags": [
             {
                 "sub_category": "Instrumentation",
@@ -151,7 +151,7 @@
         ],
         "correct_answer": "100 M Ohms.",
         "images": [],
-        "explanation": "",
+        "explanation": "High Voltage (HV) පද්ධතිවල ආරක්ෂාව සහ ක්‍රියාකාරීත්වය සඳහා Insulation Resistance (IR) අගය ඉතා වැදගත් වේ. සාමාන්‍ය Low Voltage උපකරණ සඳහා 1 M Ohm වැනි අගයක් ප්‍රමාණවත් වුවද, High Voltage උපකරණ සඳහා ජාත්‍යන්තර ප්‍රමිතීන්ට අනුව (IEEE සහ IEC standards) අවම වශයෙන් 100 M Ohms අගයක් පවත්වා ගැනීම අනිවාර්ය වේ. 100 k Ohms සහ 1 M Ohms යනු ඉතා අඩු අගයන් වන අතර ඒවා HV පද්ධතිවල Insulation අසාර්ථක වීමක් පෙන්නුම් කරයි. 1 G Ohms යනු ඉතා හොඳ අගයක් වුවද, අවම පිළිගත හැකි අගය (Minimum acceptable value) ලෙස සැලකෙන්නේ 100 M Ohms වේ.",
         "tags": [
             {
                 "sub_category": "Electrical",
@@ -175,7 +175,7 @@
         ],
         "correct_answer": "Flammable mixture is not continuously present, but will be present during normal operations.",
         "images": [],
-        "explanation": "",
+        "explanation": "Hazardous area classification අනුව Zone 1 යනු Flammable mixture එකක් සාමාන්‍ය මෙහෙයුම් (normal operations) වලදී ඇති වීමට ඉඩ ඇති නමුත් එය නිරන්තරයෙන්ම පවතින තත්ත්වයක් නොවේ. මෙහිදී අනෙකුත් විකල්ප සලකා බලමු: 'Flammable mixture is continuously present' යන්න Zone 0 සඳහා අදාළ වේ. 'Flammable mixture would not normally be present or it would be present for a short period only' යන්න Zone 2 සඳහා අදාළ වේ. එබැවින්, Zone 1 සඳහා නිවැරදි අර්ථ දැක්වීම වන්නේ සාමාන්‍ය මෙහෙයුම් වලදී Flammable mixture ඇති විය හැකි නමුත් එය නිරන්තරයෙන්ම පවතින්නක් නොවන බවයි.",
         "tags": [
             {
                 "sub_category": "Safety",
@@ -199,7 +199,7 @@
         ],
         "correct_answer": "Use a Digital Multi-Meter set to measure ohms in forward and reverse directions.",
         "images": [],
-        "explanation": "",
+        "explanation": "Diode එකක් පරීක්ෂා කිරීමේදී Digital Multi-Meter එකක් භාවිතා කර එහි Resistance (Ohms) අගය මැනීම මගින් එය නිවැරදිව ක්‍රියාත්මක වේදැයි තීරණය කළ හැකිය. Forward bias තත්ත්වයේදී Diode එක හරහා අඩු Resistance අගයක් පෙන්විය යුතු අතර, Reverse bias තත්ත්වයේදී ඉහළ Resistance අගයක් (හෝ Open circuit) පෙන්විය යුතුය. අනෙක් විකල්පයන් සලකා බලන විට: Insulation resistance tester (Megger) එකක් භාවිතා කිරීමෙන් Diode එකේ ඇති සියුම් Semiconductor junctions වලට හානි සිදුවිය හැකිය. එමෙන්ම, සාමාන්‍ය low ohms resistance tester එකක් මගින් Diode එකක polarity පරීක්ෂා කිරීම ප්‍රායෝගික නොවේ. එබැවින්, Digital Multi-Meter එකක් මගින් Forward සහ Reverse දිශාවන් දෙකේදීම Resistance මැනීම වඩාත් සුදුසු සහ ආරක්ෂිත ක්‍රමය වේ.",
         "tags": [
             {
                 "sub_category": "Electronics",
@@ -219,7 +219,7 @@
         ],
         "correct_answer": "Temperature, humidity and surface contamination.",
         "images": [],
-        "explanation": "",
+        "explanation": "Insulation resistance පරීක්ෂා කිරීමේදී (Insulation Resistance Test) මිනුම්වල නිරවද්‍යතාවයට බලපාන ප්‍රධාන සාධක තුන වන්නේ Temperature, Humidity සහ Surface contamination වේ. 1. Temperature: උෂ්ණත්වය ඉහළ යාම නිසා පරිවාරක ද්‍රව්‍යවල (Insulation material) ප්‍රතිරෝධය අඩු වේ. 2. Humidity සහ Dampness: වාතයේ ඇති තෙතමනය හෝ මතුපිට ඇති තෙතමනය නිසා Leakage current වැඩි වී Insulation resistance අගය වැරදි ලෙස අඩු අගයක් පෙන්වයි. 3. Surface contamination: මෝටරයේ windings මත තැන්පත් වී ඇති දූවිලි, තෙල් හෝ ලුණු වැනි දෑ මගින් සන්නායක මාර්ග නිර්මාණය වී මිනුම්වලට බලපෑම් කරයි. අනෙක් විකල්පවල ඇති Pressure (පීඩනය) හෝ Frequency (සංඛ්‍යාතය) සාමාන්‍ය Insulation resistance පරීක්ෂණයකදී මිනුම්වලට සෘජුවම බලපාන සාධක නොවේ. එබැවින් නිවැරදි පිළිතුර වන්නේ Temperature, humidity and surface contamination ය.",
         "tags": [
             {
                 "sub_category": "Electrical",
@@ -243,7 +243,7 @@
         ],
         "correct_answer": "Straight pipe.",
         "images": [],
-        "explanation": "",
+        "explanation": "පයිප්ප පද්ධතියක ද්‍රව ගලනය (Fluid flow) සිදුවන විට, එම ගලනයට බාධා ඇති කරන හෝ එහි රටාව වෙනස් කරන සාධක 'Flow irregularities' ලෙස හැඳින්වේ. 1. Straight pipe: මෙය පයිප්පයේ සරල කොටසක් වන අතර, මෙහිදී ද්‍රවය ස්ථාවරව (Laminar or Turbulent flow) ගමන් කරයි. එබැවින් මෙය කිසිදු අක්‍රමිකතාවයක් ඇති නොකරයි. 2. Throttling valve සහ Restrictive valve: මෙම කපාට මගින් පයිප්පයේ හරස්කඩ ප්‍රමාණය (Cross-sectional area) අඩු කර ද්‍රවයේ පීඩනය සහ ප්‍රවාහය පාලනය කරයි. මෙය ද්‍රවයේ ගලනයට බාධා ඇති කරමින් කැළඹිලි (Turbulence) ඇති කරයි. 3. Elbow pipe: පයිප්පයේ දිශාව වෙනස් කිරීම නිසා ද්‍රවයේ ගමන් මගෙහි වෙනසක් සිදුවී, Elbow එකේ අභ්‍යන්තර බිත්තිවල ගැටීමෙන් ප්‍රවාහයේ අක්‍රමිකතා ඇති වේ. එබැවින්, 'Straight pipe' යනු නිවැරදි පිළිතුරයි.",
         "tags": [
             {
                 "sub_category": "Piping",
@@ -263,7 +263,7 @@
         ],
         "correct_answer": "Manual.",
         "images": [],
-        "explanation": "",
+        "explanation": "Closed loop control පද්ධතියකදී පද්ධතියේ ප්‍රතිදානය (Output) නිරන්තරයෙන් මැන බලා එය අපේක්ෂිත අගය (Set point) සමඟ සංසන්දනය කර ස්වයංක්‍රීයව පාලනය සිදු කෙරේ. මෙහිදී PID (Proportional-Integral-Derivative), Modulation (අඛණ්ඩව පාලනය කිරීම), සහ On-off (දෙපැත්තට පමණක් ක්‍රියාත්මක වීම) යන ක්‍රම ස්වයංක්‍රීය පාලන ක්‍රම වේ. නමුත් 'Manual' පාලනය යනු මිනිස් මැදිහත්වීමකින් සිදුකරන පාලනයකි. මෙහිදී පද්ධතියේ ප්‍රතිදානය ස්වයංක්‍රීයව පාලකයට (Controller) ලැබෙන්නේ නැති නිසා එය Closed loop පද්ධතියක් ලෙස නොසැලකේ. එබැවින් Manual යනු නිවැරදි පිළිතුරයි.",
         "tags": [
             {
                 "sub_category": "Controls",
@@ -287,7 +287,7 @@
         ],
         "correct_answer": "Power.",
         "images": [],
-        "explanation": "",
+        "explanation": "Multimeter එකක් මගින් සාමාන්‍යයෙන් Voltage, Current සහ Resistance යන මූලික විද්‍යුත් රාශීන් මැනිය හැක. Voltage මැනීමට Voltmeter එකක් ලෙසත්, Current මැනීමට Ammeter එකක් ලෙසත්, Resistance මැනීමට Ohmmeter එකක් ලෙසත් එය ක්‍රියා කරයි. නමුත් Power (P = V × I) යනු Voltage සහ Current යන දෙකෙහිම ගුණිතය මත රඳා පවතින රාශියකි. සාමාන්‍ය Multimeter එකකට එකවර Voltage සහ Current යන දෙකම මැන ගණනය කිරීමක් සිදු කළ නොහැකි බැවින් Power මැනීමට එය සුදුසු නොවේ. එබැවින් Power මැනීම සඳහා Wattmeter එකක් භාවිතා කළ යුතුය.",
         "tags": [
             {
                 "sub_category": "Instrumentation",
@@ -311,7 +311,7 @@
         ],
         "correct_answer": "6 ohms.",
         "images": [],
-        "explanation": "",
+        "explanation": "Delta (Δ) connection එකකදී, සෑම winding එකක්ම එකිනෙකට සමාන්තරව (parallel) සම්බන්ධ වී ඇත. මෙහිදී අපට ලැබෙන මිනුම් (U1-V1, V1-W1, W1-U1) යනු එම winding දෙකක එකතුව සහ තුන්වන winding එකේ සමාන්තර සම්බන්ධතාවයයි. අපි එක් winding එකක resistance එක 'R' ලෙස ගනිමු. එවිට, මිනුම් ලබාගන්නා විට එක් winding එකක් අනෙක් winding දෙකේ ශ්‍රේණිගත (series) සම්බන්ධතාවයට සමාන්තර වේ. එනම්, R_measured = R * (2R) / (R + 2R) = 2R/3 වේ. මෙහි R_measured = 4 ohms බැවින්, 4 = 2R/3 ලෙස ගණනය කළ හැක. එවිට 12 = 2R වන අතර, R = 6 ohms වේ. අනෙක් පිළිතුරු (2, 4, 12) වැරදි වන්නේ ඒවා මෙම parallel circuit principle එකට අනුකූල නොවන බැවිනි.",
         "tags": [
             {
                 "sub_category": "Electrical",
@@ -352,7 +352,7 @@
         ],
         "correct_answer": "Barometer.",
         "images": [],
-        "explanation": "",
+        "explanation": "Capacitive sensor එකක් මගින් පීඩනය (pressure) මැනීම සඳහා Capacitive pressure transducer භාවිතා කරයි. මෙහිදී පීඩනය වෙනස් වන විට diaphragm එකක පිහිටීම වෙනස් වී, එමගින් capacitor එකක plates අතර පරතරය වෙනස් වීමෙන් capacitance අගය වෙනස් වේ. මෙය Barometer එකකදී වායුගෝලීය පීඩනය මැනීමට යොදා ගනී. අනෙක් විකල්ප සලකා බලමු: Tachometer යනු සාමාන්‍යයෙන් inductive හෝ optical sensor භාවිතා කරන උපකරණයකි. Proximity sensor යනු capacitive වර්ගයේ විය හැකි වුවත්, ප්‍රශ්නයේ අසන ලද ප්‍රධාන යෙදුම ලෙස Barometer වඩාත් නිවැරදි වේ. Piezoelectric sensor යනු වෙනම තාක්ෂණයක් වන අතර එය පීඩනයට ලක්වූ විට විද්‍යුත් ආරෝපණයක් ජනනය කරයි. එබැවින්, Capacitive sensor තාක්ෂණය ප්‍රධාන වශයෙන් පීඩනය මැනීමේදී (Barometer) භාවිතා වේ.",
         "tags": [
             {
                 "sub_category": "Instrumentation",
@@ -400,7 +400,7 @@
         ],
         "correct_answer": "Gain too high.",
         "images": [],
-        "explanation": "",
+        "explanation": "PID controller එකකදී Proportional Gain (P) ඉතා ඉහළ අගයකට සැකසූ විට, පද්ධතියේ ප්‍රතිචාරය ඉතා වේගවත් වන අතර එය Set-point එක ඉක්මවා යාමට (Overshoot) සහ පසුව දෝලනය වීමට (Oscillation) හේතු වේ. අනෙක් විකල්පයන් විශ්ලේෂණය කළහොත්: 'Gain too low' මගින් පද්ධතියේ ප්‍රතිචාරය මන්දගාමී වන අතර දෝලනයන් ඇති නොකරයි. 'Temperature change' යනු පද්ධතියේ බාහිර බරක් (Disturbance) මිස පාලකයේ සැකසුමක් නොවේ. 'Too short D-time' (Derivative time) මගින් පද්ධතියේ ස්ථායීතාවයට බලපෑම් කළ හැකි වුවත්, දෝලනයන් ඇති කිරීමට ප්‍රධානම හේතුව වන්නේ අධික Gain අගයයි. එබැවින් 'Gain too high' යනු නිවැරදි පිළිතුරයි.",
         "tags": [
             {
                 "sub_category": "Controls",
@@ -424,7 +424,7 @@
         ],
         "correct_answer": "Process, Sensor, Final control element and Controller.",
         "images": [],
-        "explanation": "",
+        "explanation": "Process Control පද්ධතියක මූලික අංග හතරක් පවතී. 1. Process: පාලනය කළ යුතු පද්ධතිය (උදා: Boiler pressure). 2. Sensor: පද්ධතියේ තත්ත්වය මැන බලන උපකරණය (Feedback). 3. Controller: Sensor මගින් ලැබෙන දත්ත විශ්ලේෂණය කර තීරණ ගන්නා මොළය. 4. Final control element: Controller ගේ නියෝගය අනුව ක්‍රියාත්මක වන කොටස (උදා: Control valve). දෙවන පිළිතුරේ ඇති 'Modulation' යනු සංඥා සම්ප්‍රේෂණ ක්‍රමයක් මිස මූලික අංගයක් නොවේ. තුන්වන පිළිතුරේ ඇති 'Noise' යනු පද්ධතියට බාධා කරන අනවශ්‍ය සාධකයකි. හතරවන පිළිතුරේ ඇත්තේ විද්‍යුත් පරිපථයක මූලික උපාංග මිස Process Control පද්ධතියක අංග නොවේ. එබැවින් පළමු පිළිතුර නිවැරදි වේ.",
         "tags": [
             {
                 "sub_category": "Controls",
@@ -465,7 +465,7 @@
         ],
         "correct_answer": "The gas, liquid or vapour which will minimise creation of an electric arc as contacts open.",
         "images": [],
-        "explanation": "",
+        "explanation": "High Voltage (HV) switchgear ක්‍රියාත්මක වන විට contacts වෙන් වීමේදී ඇතිවන Electric arc එක නිවා දැමීම හෝ අවම කිරීම ඉතා වැදගත් වේ. මෙහිදී Arc quenching medium යනු එම arc එක නිවා දැමීමට භාවිතා කරන මාධ්‍යයයි. පළමු පිළිතුර නිවැරදි වන්නේ එය arc එක අවම කිරීමට උපකාරී වන gas, liquid හෝ vapour මාධ්‍යයක් බව පැහැදිලි කරන බැවිනි. දෙවන පිළිතුර වැරදියි, මන්ද එය සන්නිවේදන උපකරණයක් නොවන බැවිනි. තුන්වන පිළිතුර වැරදියි, මන්ද එය contacts වෙන් වන යාන්ත්‍රික ක්‍රමවේදය මිස මාධ්‍යයක් නොවන බැවිනි. හතරවන පිළිතුර වැරදියි, මන්ද මෙය welding ක්‍රියාවලියක් නොව ආරක්ෂිතව විදුලිය විසන්ධි කිරීමේ ක්‍රියාවලියක් බැවිනි.",
         "tags": [
             {
                 "sub_category": "Electrical",
@@ -489,7 +489,7 @@
         ],
         "correct_answer": "Contactor chattering (vibrating).",
         "images": [],
-        "explanation": "",
+        "explanation": "මෙම ප්‍රශ්නයට පිළිතුර තේරුම් ගැනීමට Contactor එකක ක්‍රියාකාරීත්වය සලකා බැලිය යුතුය. Contactor එකක ඇති Coil එකට ලබාදෙන වෝල්ටීයතාවය (Supply Voltage) එහි නාමික වෝල්ටීයතාවයට (Rated Voltage) වඩා අඩු වූ විට, Coil එක හරහා ගලා යන ධාරාව (Current) සහ එමගින් ජනනය වන චුම්භක බලය (Magnetic flux) ප්‍රමාණවත් නොවේ. මෙහිදී 250V සඳහා නිර්මාණය කර ඇති Coil එකකට 220V සැපයුමක් ලබා දුන් විට, එයට ආකර්ෂණය පවත්වා ගැනීමට අවශ්‍ය චුම්භක බලය නිසි ලෙස නොලැබේ. මෙහි ප්‍රතිඵලයක් ලෙස AC සැපයුමේදී සිදුවන ශුන්‍ය හරස් කිරීම් (Zero crossings) වලදී චුම්භක බලය ක්ෂණිකව අඩුවීම නිසා Contactor එකේ ඇති Armature එක නැවත නැවතත් විවෘත වීමට සහ වැසීමට උත්සාහ කරයි. මෙය 'Chattering' ලෙස හැඳින්වේ. අනෙක් විකල්ප සලකා බැලීමේදී: 'Overheating' සිදුවන්නේ වෝල්ටීයතාවය වැඩි වූ විටය. 'Wont operate' යන්න සිදුවිය හැක්කේ වෝල්ටීයතාවය ඉතාම අඩු වූ විට පමණි. 'Constantly on' යන්න මෙහිදී සිදු නොවේ. එබැවින් නිවැරදි පිළිතුර වන්නේ Contactor chattering (vibrating) යන්නයි.",
         "tags": [
             {
                 "sub_category": "Electrical",
@@ -746,7 +746,7 @@
         "images": [
             "https://i.ibb.co/C3vyWgNt/circuit-2.jpg"
         ],
-        "explanation": "",
+        "explanation": "මෙම ප්‍රශ්නය RC circuit එකක Charging process එකට අදාළ වේ. ස්විචය (Switch S) position 1 සිට 2 වෙත මාරු කළ විට, Capacitor එක Voltage source එක හරහා Resistor එකක් ඔස්සේ ආරෝපණය (Charge) වීමට පටන් ගනී. Capacitor එකක Charging curve එක සැමවිටම Exponential growth එකක් පෙන්නුම් කරයි. මෙහිදී t=0 අවස්ථාවේදී Capacitor voltage එක ශුන්‍ය (0) වන අතර, කාලය ගතවත්ම එය උපරිම අගය (V) කරා ළඟා වේ. Figure 1 මගින් මෙම Exponential charging curve එක නිවැරදිව නිරූපණය කරයි. අනෙක් රූප (Figure 2, 3, 4) මගින් Linear growth, Discharge, හෝ වැරදි වක්‍ර පෙන්නුම් කරන බැවින් ඒවා වැරදිය. එබැවින් Figure 1 නිවැරදි පිළිතුර වේ.",
         "tags": []
     },
     {
@@ -778,7 +778,7 @@
         ],
         "correct_answer": "22 Ohms.",
         "images": [],
-        "explanation": "",
+        "explanation": "මෙම ප්‍රශ්නයෙන් අපෙන් අසන්නේ 220 V, 2.2 kW, 10 A තාපන මූලද්‍රව්‍යයක (heating element) නිරෝගී අඛණ්ඩතා ප්‍රතිරෝධය (healthy continuity resistance) එහි නියමිත මෙහෙයුම් උෂ්ණත්වයට (rated operating temperature) ආසන්නව පරීක්ෂා කරන විට කොපමණ විය යුතුද යන්නයි. තාපන මූලද්‍රව්‍යයක ප්‍රතිරෝධය (resistance) ගණනය කිරීම සඳහා අපට විදුලි බලය (electric power) සහ වෝල්ටීයතාවය (voltage) අතර සම්බන්ධය භාවිතා කළ හැකිය.  දත්ත:  *   වෝල්ටීයතාවය (Voltage, V) = 220 V *   බලය (Power, P) = 2.2 kW = 2200 W (කිලෝවොට් වොට් බවට පරිවර්තනය කරන්න) *   ධාරාව (Current, I) = 10 A  ප්‍රතිරෝධය (R) ගණනය කිරීම සඳහා ප්‍රධාන සූත්‍ර දෙකක් ඇත:  1.  **P = V^2 / R** (බලය, වෝල්ටීයතාවය සහ ප්‍රතිරෝධය අතර සම්බන්ධය) 2.  **R = V / I** (ඕම්ගේ නියමය - Ohm's Law)  අපි පළමු සූත්‍රය භාවිතා කරමු:  R = V^2 / P R = (220 V)^2 / 2200 W R = 48400 / 2200 R = 22 Ohms  දෙවන සූත්‍රය භාවිතා කරමින් ද අපට මෙය තහවුරු කළ හැකිය:  R = V / I R = 220 V / 10 A R = 22 Ohms  ගණනය කිරීම් දෙකෙන්ම අපට ලැබෙන්නේ 22 Ohms යන්නයි. මෙයින් පෙනී යන්නේ 10 A ධාරාව, 220 V සහ 2.2 kW බලය සඳහා නිවැරදි බවයි. \"rated operating temperature\" යන්නෙන් අදහස් කරන්නේ තාපන මූලද්‍රව්‍යය සාමාන්‍යයෙන් ක්‍රියාත්මක වන උෂ්ණත්වයේදී එහි ප්‍රතිරෝධය වන අතර, අපගේ ගණනය කිරීම් සිදු කරනු ලබන්නේ මෙම මෙහෙයුම් තත්ත්වයන් සඳහාය.  දැන් අපි අනෙකුත් පිළිතුරු විකල්ප සලකා බලමු:  *   **10 Ohms:** මෙය වැරදි පිළිතුරකි. මෙම ප්‍රතිරෝධය සඳහා, බලය P = V^2/R = (220)^2 / 10 = 4840 W (4.84 kW) වනු ඇත, එය ප්‍රශ්නයේ දී ඇති බලයට වඩා වැඩිය. *   **0.1 Ohms:** මෙය ඉතා අඩු ප්‍රතිරෝධයකි. මෙම ප්‍රතිරෝධය සඳහා, ධාරාව I = V/R = 220 / 0.1 = 2200 A වනු ඇත, එය 2.2 kW තාපන මූලද්‍රව්‍යයකට කිසිසේත්ම යථාර්ථවාදී නොවේ. *   **220 Ohms:** මෙය ද වැරදි පිළිතුරකි. මෙම ප්‍රතිරෝධය සඳහා, ධාරාව I = V/R = 220 / 220 = 1 A වනු ඇත, එවිට බලය P = V * I = 220 * 1 = 220 W (0.22 kW) වනු ඇත, එය ප්‍රශ්නයේ දී ඇති බලයට වඩා බෙහෙවින් අඩුය.  එබැවින්, නිවැරදි පිළිතුර වන්නේ 22 Ohms යන්නයි.",
         "tags": [
             {
                 "sub_category": "Electrical",

@@ -531,7 +531,7 @@
         ],
         "correct_answer": "60 Ohm.",
         "images": [],
-        "explanation": "",
+        "explanation": "මෙම ගැටලුව විසඳීම සඳහා අප Ohm's Law භාවිතා කළ යුතුය. මෙහිදී 12V සැපයුමකින් 6V Relay එකක් ක්‍රියාත්මක කිරීමට නම්, අතිරික්ත වෝල්ටීයතාවය (Voltage drop) ශ්‍රේණිගතව සම්බන්ධ කරන ප්‍රතිරෝධකයක (Series resistor) වැය විය යුතුය. 1. අවශ්‍ය Voltage drop එක = 12V - 6V = 6V වේ. 2. Relay එක හරහා ගමන් කරන ධාරාව (Current) 0.1 Amp වේ. 3. Ohm's Law අනුව R = V / I වේ. එනම්, R = 6V / 0.1A = 60 Ohm වේ. අනෙක් පිළිතුරු වැරදි වන්නේ ඒවා මෙම ගණනය කිරීමේදී ලැබෙන අගයට වඩා වෙනස් වන බැවිනි. උදාහරණයක් ලෙස 120 Ohm යනු 12V/0.1A ලෙස ගණනය කළහොත් ලැබෙන අගයකි, නමුත් එය Relay එකේ වෝල්ටීයතාවය සැලකිල්ලට නොගනී.",
         "tags": [
             {
                 "sub_category": "Electrical",
@@ -552,7 +552,7 @@
         ],
         "correct_answer": "A large bow thruster will draw very large currents at low voltage. Being typically remote from the generator, significant voltage drops would occur at low voltage.",
         "images": [],
-        "explanation": "",
+        "explanation": "මෙම ප්‍රශ්නයට නිවැරදි පිළිතුර වන්නේ 'A large bow thruster will draw very large currents at low voltage. Being typically remote from the generator, significant voltage drops would occur at low voltage' යන්නයි. විදුලි බල පද්ධතියක බලය (Power - P) යනු වෝල්ටීයතාවය (Voltage - V) සහ ධාරාව (Current - I) ගුණිතයයි (P=VI). Bow thruster වැනි විශාල උපකරණ සඳහා ඉහළ බලයක් අවශ්‍ය වන විට, 440V වැනි අඩු වෝල්ටීයතාවයකදී ඉතා ඉහළ ධාරාවක් (High Current) ගලා යා යුතුය. ඉහළ ධාරාවක් ගලා යාමේදී කේබල් හරහා සිදුවන Voltage drop එක සහ තාපය (I^2R loss) වැඩි වේ. එසේම, Bow thruster සාමාන්‍යයෙන් Generator කාමරයේ සිට දුරින් පිහිටා ඇති නිසා, අඩු වෝල්ටීයතාවයකදී විශාල Voltage drop එකක් සිදුවීම වැළැක්විය නොහැක. එබැවින්, වෝල්ටීයතාවය ඉහළ නැංවීම (Step up) මගින් ධාරාව අඩු කර, කාර්යක්ෂමව බලය සැපයීම සිදු කරයි. අනෙක් පිළිතුරු වැරදි වන්නේ ඒවා තාක්ෂණික වශයෙන් Voltage drop හෝ Ohm's law හි මූලධර්මවලට අනුකූල නොවන බැවිනි.",
         "tags": [
             {
                 "sub_category": "Electrical",
@@ -577,7 +577,7 @@
         ],
         "correct_answer": "To ensure that no energy remains in the system, and that it cannot be recharged by external influences.",
         "images": [],
-        "explanation": "",
+        "explanation": "High Voltage (HV) පද්ධතිවල වැඩ කිරීමේදී ආරක්ෂාව අතිශයින්ම වැදගත් වේ. මෙහිදී 'Earthing' හෝ 'Grounding' සිදු කිරීමේ ප්‍රධාන අරමුණ වන්නේ පද්ධතියේ ඉතිරි වී ඇති ඕනෑම විද්‍යුත් ශක්තියක් (Residual energy) ඉවත් කිරීම සහ බාහිර බලපෑම් (උදාහරණයක් ලෙස Induction හෝ වැරදීමකින් සැපයුම ලැබීම) නිසා පද්ධතිය නැවත ආරෝපණය වීම වැළැක්වීමයි. පළමු පිළිතුර වැරදියි, මන්ද Earthing යනු මිනුම්වල නිරවද්‍යතාවය සඳහා නොවේ. දෙවන පිළිතුර අර්ධ වශයෙන් සත්‍ය වුවත්, එය සම්පූර්ණ අරමුණ නොවේ. හතරවන පිළිතුර වැරදියි, මන්ද Earthing මගින් උනුසුම් වීමක් සිදු නොවන අතර එය ආරක්ෂාව සඳහා පමණක් සිදු කෙරේ. එබැවින්, පද්ධතියේ ශක්තිය ඉවත් කර නැවත ආරෝපණය වීම වැළැක්වීම නිවැරදිම පිළිතුර වේ.",
         "tags": [
             {
                 "sub_category": "Electrical",
@@ -601,7 +601,7 @@
         ],
         "correct_answer": "The gas, liquid or vapor, which will minimize creation of an electric arc as contacts open.",
         "images": [],
-        "explanation": "",
+        "explanation": "High Voltage (HV) switchgear ක්‍රියාත්මක වන විට contacts වෙන් වීමේදී ඇතිවන Electric arc එක නිවා දැමීම හෝ අවම කිරීම ඉතා වැදගත් වේ. මෙහිදී Arcing medium යනු එම arc එක නිවා දැමීමට භාවිතා කරන මාධ්‍යයයි. පළමු පිළිතුර නිවැරදි වන්නේ එය arc එක අවම කිරීමට උපකාරී වන Gas (උදා: SF6), Liquid (උදා: Oil) හෝ Vapor වැනි ද්‍රව්‍යයක් ලෙස අර්ථ දක්වා ඇති බැවිනි. දෙවන පිළිතුර වැරදියි, මන්ද එය සන්නිවේදන උපකරණයක් ගැන සඳහන් කරන බැවිනි. තුන්වන පිළිතුර වැරදියි, මන්ද එය Welding ක්‍රියාවලියක් ගැන සඳහන් කරන බැවිනි. එබැවින්, switchgear වලදී arc එක පාලනය කරන මාධ්‍යය ලෙස පළමු පිළිතුර නිවැරදි වේ.",
         "tags": [
             {
                 "sub_category": "Electrical",
@@ -626,7 +626,7 @@
         ],
         "correct_answer": "Rotten eggs.",
         "images": [],
-        "explanation": "",
+        "explanation": "High Voltage (HV) switchboards වල බොහෝ විට පරිවාරකයක් (insulation) ලෙස සහ arc quenching සඳහා Sulfur Hexafluoride (SF6) වායුව භාවිතා කරයි. සාමාන්‍යයෙන් SF6 වායුව ගන්ධයක් නැති (odorless) වායුවකි. කෙසේ වෙතත්, switchboard එකක අභ්‍යන්තරයේ සිදුවන විදුලි විසර්ජන (electrical discharge) හෝ arcing නිසා SF6 වායුව වියෝජනය (decomposition) වුවහොත්, විවිධ උප-නිෂ්පාදන (by-products) සෑදේ. මෙම වියෝජන ක්‍රියාවලියේදී සෑදෙන සමහර සංයෝග (උදාහරණයක් ලෙස Sulfur fluorides) මගින් 'Rotten eggs' (කුණු වූ බිත්තර) වලට සමාන ගන්ධයක් නිකුත් කරයි. අනෙක් විකල්පයන් වන 'Rotten fish', 'Chlorine' හෝ 'Gas oil' යන ගන්ධයන් සාමාන්‍යයෙන් SF6 වායුව වියෝජනය වීම නිසා ඇතිවන ලක්ෂණ නොවේ. එබැවින්, 'Rotten eggs' ගන්ධය මගින් switchboard එකක අභ්‍යන්තර දෝෂයක් හෝ වායු කාන්දුවක් පිළිබඳව අනතුරු ඇඟවීමක් සිදු කරයි.",
         "tags": [
             {
                 "sub_category": "Electrical",
@@ -651,7 +651,7 @@
         ],
         "correct_answer": "Electric motors will run at reduced speed, and will tend to overheat.",
         "images": [],
-        "explanation": "",
+        "explanation": "ප්‍රේරක මෝටරයක (Induction motor) වේගය තීරණය වන්නේ සැපයුම් සංඛ්‍යාතය (Frequency - f) සහ පෝල් ගණන (Number of poles - P) මතයි. සූත්‍රය වන්නේ N = 120f / P වේ. මෙහිදී 60 Hz වෙනුවට 50 Hz සැපයුමක් ලැබෙන විට, සංඛ්‍යාතය අඩු වන බැවින් මෝටරයේ වේගය (Synchronous speed) අනිවාර්යයෙන්ම අඩු වේ. මීට අමතරව, අඩු සංඛ්‍යාතයකදී මෝටරයේ චුම්බක ප්‍රවාහය (Magnetic flux) වැඩි වන අතර, එමගින් මෝටරයේ 'Back EMF' අඩු වී ධාරාව (Current) ඉහළ යයි. මෙම අධික ධාරාව නිසා මෝටරය අධික ලෙස රත් වීම (Overheating) සිදු වේ. අනෙක් පිළිතුරු වැරදි වන්නේ, සංඛ්‍යාතය අඩු වූ විට වේගය වැඩි නොවන බැවිනි (3 වන පිළිතුර වැරදියි), සහ සංඛ්‍යාත වෙනස සෘජුවම Earth faults හෝ Reverse power faults වලට බලපෑමක් නොකරන බැවිනි.",
         "tags": [
             {
                 "sub_category": "Electrical",
@@ -672,7 +672,7 @@
         ],
         "correct_answer": "Reduced current and reduced torque.",
         "images": [],
-        "explanation": "",
+        "explanation": "Star-delta starter එකක් භාවිතා කරන්නේ induction motor එකක් start කරන විට ඇතිවන ඉහළ Starting current එක පාලනය කිරීමටයි. Star connection එකකදී, සෑම phase එකකටම ලැබෙන voltage එක line voltage එක මෙන් 1/√3 ගුණයකින් අඩු වේ. මෙහිදී, Starting current එක direct-on-line (DOL) start එකකට සාපේක්ෂව 1/3 දක්වා අඩු වේ. කෙසේ වෙතත්, Torque යනු voltage එකේ වර්ගයට (square of the voltage) සමානුපාතික වන බැවින්, voltage එක අඩු වීම නිසා Starting torque එකද 1/3 දක්වා අඩු වේ. අනෙක් විකල්ප වැරදි වන්නේ: 'Increased voltage' යනු වැරදියි, මන්ද star connection එකේදී voltage එක අඩු වේ. 'Increased current' යනු වැරදියි, මන්ද star connection එකේ ප්‍රධාන අරමුණ current එක අඩු කිරීමයි. 'Increased speed' යනු වැරදියි, මන්ද speed එක තීරණය වන්නේ frequency සහ poles මත වන අතර, star connection එකෙන් speed එක වැඩි නොවේ.",
         "tags": [
             {
                 "sub_category": "Electrical",
@@ -697,7 +697,7 @@
         ],
         "correct_answer": "It will allow for inrush current, or motor specific faults.",
         "images": [],
-        "explanation": "",
+        "explanation": "3-phase cage rotor induction motor එකක් start කරන විට සාමාන්‍ය full load current එක මෙන් 5 සිට 7 ගුණයක් දක්වා ඉහළ Inrush current එකක් (Starting current) තත්පර කිහිපයකට ගලා යයි. මෙම කාලය තුළ overload protection එක ක්‍රියාත්මක වුවහොත් motor එක start වීමට පෙර trip වේ. එබැවින්, Time delay overload trip එකක් භාවිතා කරන්නේ මෙම තාවකාලික ඉහළ ධාරාවට (Inrush current) ඉඩ ලබා දෙමින්, සාමාන්‍ය මෙහෙයුම් තත්ත්වයන්හිදී සිදුවන අධික බර (Overload) හඳුනාගෙන ආරක්ෂාව සැපයීමටයි. අනෙක් විකල්ප වැරදි වන්නේ: Fuses වලට inrush current එක සහ overload එක අතර වෙනස හඳුනාගත නොහැකි වීම සහ fault conditions වලදී motor එක ආරක්ෂා කිරීම සඳහා time delay එකක් අවශ්‍ය නොවීමයි.",
         "tags": [
             {
                 "sub_category": "Electrical",
@@ -722,7 +722,7 @@
         ],
         "correct_answer": "30 volts.",
         "images": [],
-        "explanation": "",
+        "explanation": "මෙම ගැටලුව විසඳීම සඳහා අප Ohm's Law භාවිතා කළ යුතුය. Ohm's Law අනුව Voltage drop (V) = Current (I) × Resistance (R) වේ. මෙහි Current (I) = 300 A සහ Resistance (R) = 100 milli-ohms වේ. 100 milli-ohms යනු 0.1 ohms (100 / 1000) වේ. දැන් ගණනය කිරීම සිදු කරමු: V = 300 A × 0.1 ohms = 30 volts. අනෙකුත් පිළිතුරු වැරදි වන්නේ: 3.0 volts යනු ගණනය කිරීමේදී දශම ස්ථානය වැරදීමකි. 300 volts යනු Current අගයම ලබා දීමකි. 300 millivolts යනු Resistance එක ohms වලට පරිවර්තනය නොකිරීම නිසා සිදුවන වැරැද්දකි. එබැවින් නිවැරදි පිළිතුර 30 volts වේ.",
         "tags": [
             {
                 "sub_category": "Electrical",
@@ -747,7 +747,7 @@
         ],
         "correct_answer": "In the event of an earth fault vital equipment will not trip.",
         "images": [],
-        "explanation": "",
+        "explanation": "නැව්වල Low voltage පද්ධතිවල Insulated neutral (IT system) භාවිතා කිරීමේ ප්‍රධාන අරමුණ වන්නේ නැවක අඛණ්ඩ ක්‍රියාකාරිත්වය සහතික කිරීමයි. පද්ධතියක් Earthed (Solidly earthed) වී තිබේ නම්, පළමු Earth fault එක සිදුවූ වහාම ආරක්ෂිත උපකරණ (Circuit breakers/Relays) ක්‍රියාත්මක වී එම පරිපථය විසන්ධි කරයි. නමුත් Insulated neutral පද්ධතියකදී, පළමු Earth fault එක සිදුවූ විට පරිපථය හරහා විශාල ධාරාවක් ගලා නොයන නිසා Circuit breaker එක Trip වන්නේ නැත. මෙයින් අදහස් වන්නේ නැවක අත්‍යවශ්‍ය උපකරණ (Vital equipment) කිසිදු බාධාවකින් තොරව දිගටම ක්‍රියාත්මක කළ හැකි බවයි. අනෙක් පිළිතුරු වැරදි වන්නේ: Fault එකක් හඳුනා ගැනීම Insulated පද්ධතියකදී වඩා සංකීර්ණ වීම (Earth fault monitoring අවශ්‍ය වීම), Neutral එක Insulated කිරීමේ අරමුණ Short circuit වැළැක්වීම නොවීම සහ මෙය Live conductor එකක් Insulate කිරීම සමඟ සැසඳිය නොහැකි වීමයි.",
         "tags": [
             {
                 "sub_category": "Electrical",
@@ -772,7 +772,7 @@
         ],
         "correct_answer": "Faulty contactor coil.",
         "images": [],
-        "explanation": "",
+        "explanation": "මෙම ගැටලුවේදී, starter එකට බලය (Power) ලැබී තිබුණද, start button එක එබූ විට කිසිදු ක්‍රියාකාරීත්වයක් සිදු නොවේ. මෙයට හේතුව වන්නේ Contactor එක ක්‍රියාත්මක වීමට අවශ්‍ය වන Control circuit එකේ බාධාවක් තිබීමයි. 1. Faulty contactor coil: Contactor coil එක පිලිස්සී හෝ විවෘත පරිපථයක් (Open circuit) වී ඇත්නම්, start button එක එබූ විට චුම්බක ක්ෂේත්‍රයක් ඇති නොවන අතර Contactor එක ඇදෙන්නේ නැත. මෙය starter එකේ කිසිදු ක්‍රියාකාරීත්වයක් නොමැති වීමට ප්‍රධාන හේතුවයි. 2. Open circuit in one of the motor cables හෝ Motor disconnected: මෙම අවස්ථා දෙකේදීම Contactor එක ක්‍රියාත්මක වුවද (Click ශබ්දය ඇසෙනු ඇත), මෝටරය භ්‍රමණය නොවේ. නමුත් මෙහිදී starter එකේ කිසිදු ක්‍රියාකාරීත්වයක් නොමැති බව පවසා ඇති නිසා මෙය වැරදිය. 3. Faulty overcurrent relay: Overload relay එක trip වී ඇත්නම්, එය සාමාන්‍යයෙන් Control circuit එක විසන්ධි කරයි. නමුත් Faulty contactor coil යනු වඩාත් සෘජු සහ පොදු හේතුවයි. එබැවින් නිවැරදි පිළිතුර Faulty contactor coil වේ.",
         "tags": [
             {
                 "sub_category": "Electrical",
@@ -818,7 +818,7 @@
         ],
         "correct_answer": "Temperature, humidity and surface contamination.",
         "images": [],
-        "explanation": "",
+        "explanation": "Insulation resistance (IR) පරීක්ෂණයේදී මිනුම්වල නිරවද්‍යතාවයට බලපාන ප්‍රධාන සාධක වන්නේ පරිසරයේ පවතින තත්ත්වයන්ය. 1. Temperature: උෂ්ණත්වය ඉහළ යන විට පරිවාරක ද්‍රව්‍යවල (Insulation material) ප්‍රතිරෝධය අඩු වේ. 2. Humidity සහ Dampness: වාතයේ තෙතමනය හෝ මෝටරය තුළ පවතින තෙතමනය මගින් කාන්දු වන ධාරාව (Leakage current) වැඩි කර ප්‍රතිරෝධය අඩු කරයි. 3. Surface contamination: මෝටරයේ windings මත තැන්පත් වී ඇති දූවිලි, තෙල් හෝ ලුණු වැනි ද්‍රව්‍ය මගින් පරිවාරක මතුපිට හරහා ධාරාව ගලා යාමට ඉඩ සලසයි. අනෙක් විකල්පවල සඳහන් 'Frequency' හෝ 'Pressure' යනු IR පරීක්ෂණයට සෘජුවම බලපාන සාධක නොවේ. එමෙන්ම 'micro Ohm' යනු ඉතා අඩු අගයක් වන අතර IR මැනීමට භාවිතා කරන්නේ 'Mega Ohm' (MΩ) ඒකකයයි. එබැවින් නිවැරදි පිළිතුර වන්නේ Temperature, humidity and surface contamination යන්නයි.",
         "tags": [
             {
                 "sub_category": "Electrical",
@@ -868,7 +868,7 @@
         ],
         "correct_answer": "6 Ohms.",
         "images": [],
-        "explanation": "",
+        "explanation": "Delta connection එකකදී, සෑම winding එකක්ම තවත් winding දෙකකට සමාන්තරව (parallel) සම්බන්ධ වී ඇත. මෙහිදී අපට ලැබෙන මිනුම් (4 Ohms) යනු එම පර්යන්ත දෙක අතර ඇති පද්ධතියේ සමස්ත ප්‍රතිරෝධයයි (Equivalent resistance). Delta සම්බන්ධතාවයකදී, එක් winding එකක ප්‍රතිරෝධය R යැයි සිතුවහොත්, මනිනු ලබන ප්‍රතිරෝධය (R_measured) සූත්‍රය වන්නේ R_measured = (R * 2R) / (R + 2R) = 2R/3 වේ. අපට ලබා දී ඇති මිනුම 4 Ohms බැවින්, 4 = 2R/3 ලෙස ගණනය කළ හැක. එවිට 12 = 2R වන අතර, R = 6 Ohms ලෙස ලැබේ. අනෙක් පිළිතුරු වැරදි වන්නේ ඒවා මෙම සමාන්තර සම්බන්ධතාවයේ මූලධර්මය නොසලකා හැරීම නිසාය.",
         "tags": [
             {
                 "sub_category": "Electrical",
@@ -918,7 +918,7 @@
         ],
         "correct_answer": "Open circuit winding between W and U.",
         "images": [],
-        "explanation": "",
+        "explanation": "Delta connected motor එකක සාමාන්‍ය තත්ත්වයේදී U-V, V-W සහ W-U යන පර්යන්ත (terminals) අතර ප්‍රතිරෝධය (resistance) සමාන විය යුතුය. මෙහිදී U-V = 3 Ohms සහ V-W = 3 Ohms ලෙස ලැබී ඇත. නමුත් W-U අතර ප්‍රතිරෝධය 6 Ohms ලෙස ලැබී ඇත. Delta connection එකකදී, W-U පර්යන්තය හරහා මනින විට, එය W-V සහ V-U යන windings දෙක හරහා සමාන්තරව (parallel) සම්බන්ධ වේ. සාමාන්‍යයෙන් 3 Ohms windings දෙකක් සමාන්තරව ඇති විට, සම්පූර්ණ ප්‍රතිරෝධය 1.5 Ohms විය යුතුය. මෙහි 6 Ohms ලෙස ලැබීමෙන් අදහස් වන්නේ එක් winding එකක් (W-U) විවෘත වී (Open circuit) ඇති බවයි. එවිට මීටරය මගින් මනිනු ලබන්නේ අනෙක් windings දෙකේ ශ්‍රේණිගත (series) සම්බන්ධතාවයයි (3 Ohms + 3 Ohms = 6 Ohms). අනෙක් විකල්පයන් වන Short circuit හෝ Earth fault මගින් ප්‍රතිරෝධය අඩු විය යුතු මිස මෙලෙස වැඩි නොවේ.",
         "tags": [
             {
                 "sub_category": "Electrical",
@@ -939,7 +939,7 @@
         ],
         "correct_answer": "Contactor chattering (vibrating).",
         "images": [],
-        "explanation": "",
+        "explanation": "මෙම ගැටලුවේදී 250V සඳහා නිර්මාණය කර ඇති Contactor එකක් 220V සැපයුමකට සම්බන්ධ කර ඇත. Contactor එකක Coil එක ක්‍රියාත්මක වීමට නම් එයට නියමිත වෝල්ටීයතාවය (Rated Voltage) ලැබිය යුතුය. මෙහිදී සැපයුම් වෝල්ටීයතාවය (220V) එහි නියමිත අගයට (250V) වඩා අඩු බැවින්, Coil එක හරහා ගලා යන චුම්භක බලය (Magnetic flux) ප්‍රමාණවත් නොවේ. මෙහි ප්‍රතිඵලයක් ලෙස, AC සැපයුමකදී ධාරාව ශුන්‍යය හරහා ගමන් කරන සෑම අවස්ථාවකදීම චුම්භක බලය දුර්වල වී Armature එක නැවත විවෘත වීමට උත්සාහ කරයි. මෙය නැවත නැවත සිදුවීම නිසා Contactor එකේ 'Chattering' හෙවත් කම්පනයක් ඇති වේ. අනෙක් පිළිතුරු වැරදි වන්නේ: 'Contactor won’t operate' යන්න සාමාන්‍යයෙන් සිදුවන්නේ වෝල්ටීයතාවය ඉතා අඩු වූ විට පමණි. 'Overheating' සිදුවන්නේ වෝල්ටීයතාවය නියමිත අගයට වඩා වැඩි වූ විටය. එබැවින් නිවැරදි පිළිතුර 'Contactor chattering (vibrating)' වේ.",
         "tags": [
             {
                 "sub_category": "Electrical",
@@ -960,7 +960,7 @@
         ],
         "correct_answer": "U-E, V-E, W-E, U-V, V-W, W-U.",
         "images": [],
-        "explanation": "",
+        "explanation": "Three-phase induction motor එකක Insulation Resistance (IR) පරීක්ෂා කිරීමේදී ප්‍රධාන අරමුණු දෙකක් ඇත. පළමුව, සෑම phase එකක්ම (U, V, W) Earth (E) එකට සාපේක්ෂව පරිවරණය වී ඇත්දැයි බැලීම (U-E, V-E, W-E). දෙවනුව, phase එකිනෙක අතර පරිවරණය (Phase-to-phase insulation) නිවැරදි දැයි පරීක්ෂා කිරීම (U-V, V-W, W-U). පළමු පිළිතුර වැරදියි, මන්ද එය windings වල අඛණ්ඩතාව (Continuity) පරීක්ෂා කිරීමක් මිස insulation පරීක්ෂාවක් නොවන බැවිනි. තුන්වන පිළිතුර මගින් සියලුම phase එකට සම්බන්ධ කර පරීක්ෂා කිරීමෙන් phase-to-phase දෝෂ හඳුනාගත නොහැක. එබැවින්, නිවැරදි ක්‍රමය වන්නේ U-E, V-E, W-E සහ U-V, V-W, W-U ලෙස මැනීමයි.",
         "tags": [
             {
                 "sub_category": "Electrical",
@@ -985,7 +985,7 @@
         ],
         "correct_answer": "Electrodes.",
         "images": [],
-        "explanation": "",
+        "explanation": "Conductivity level measurement ක්‍රමයේදී ද්‍රවයක ඇති විද්‍යුත් සන්නායකතාවය (Electrical conductivity) මැනීම සඳහා Electrodes භාවිතා කරයි. ද්‍රව මට්ටම ඉහළ ගොස් Electrodes ස්පර්ශ කළ විට, විද්‍යුත් පරිපථය සම්පූර්ණ වී (Circuit completion) මට්ටම හඳුනාගනී. අනෙකුත් විකල්පයන් මෙසේ බැහැර කළ හැක: Capacitance probe මගින් මනින්නේ ද්‍රවයේ පාර විද්‍යුත් නියතය (Dielectric constant) වෙනස් වීමයි. Displacement probe මගින් මනින්නේ ද්‍රවයේ පාවෙන ප්ලවයක (Float) බර වෙනස් වීමයි. Ionization chamber යනු විකිරණ මැනීමට ගන්නා උපකරණයකි. එබැවින් නිවැරදි පිළිතුර Electrodes වේ.",
         "tags": [
             {
                 "sub_category": "Instrumentation",
@@ -1010,7 +1010,7 @@
         ],
         "correct_answer": "The controller will not react to a process change in this range.",
         "images": [],
-        "explanation": "",
+        "explanation": "Instrumentation පද්ධතිවලදී 'dead-band' යනු පාලක පද්ධතියක් (controller) කිසිදු ප්‍රතිචාරයක් නොදක්වන පරාසයයි. මෙහිදී process variable එකේ සිදුවන කුඩා වෙනස්වීම් පාලකයට හඳුනාගත නොහැකි හෝ එම වෙනස්වීම්වලට ප්‍රතිචාර දැක්වීම පාලක පද්ධතිය මගින් නොසලකා හරිනු ලබයි. අනෙක් පිළිතුරු වැරදි වන්නේ: 'It will take some time' යනු time delay හෝ lag එකක් මිස dead-band එකක් නොවේ. 'Sleep mode' යනු පද්ධතියක් ක්‍රියා විරහිත වීමයි. 'Set-point' වෙනස් කිරීමට ප්‍රතිචාර නොදැක්වීම යනු පද්ධතියේ දෝෂයක් මිස dead-band එකක් නොවේ. එබැවින්, නිවැරදි පිළිතුර වන්නේ පාලකය යම් පරාසයක් තුළ process change එකකට ප්‍රතිචාර නොදැක්වීමයි.",
         "tags": [
             {
                 "sub_category": "Instrumentation",
@@ -1060,7 +1060,7 @@
         ],
         "correct_answer": "Disconnect the thermocouple lead from the controller, and replace it with a mV source.",
         "images": [],
-        "explanation": "",
+        "explanation": "Thermistor හෝ Thermocouple වැනි උෂ්ණත්ව සංවේදක (Temperature sensors) මගින් පාලක පද්ධතියට (Controller) යවනු ලබන්නේ ඉතා කුඩා වෝල්ටීයතාවයක් (mV signal) වේ. මෙම සංවේදකය දෝෂ සහිත දැයි පරීක්ෂා කිරීමට නම්, මුල් සංවේදකය ඉවත් කර (Disconnect), එම ස්ථානයට බාහිරින් පාලනය කළ හැකි mV source එකක් සම්බන්ධ කළ යුතුය. මෙහිදී mA source එකක් භාවිතා කිරීම වැරදියි, මන්ද පාලක පද්ධතිය බලාපොරොත්තු වන්නේ වෝල්ටීයතා සංඥාවක් (mV) මිස ධාරා සංඥාවක් (mA) නොවන බැවිනි. තවද, සමාන්තරව (Parallel) සම්බන්ධ කිරීම මගින් පවතින දෝෂ සහිත සංවේදකය මගින් පද්ධතියට බාධා ඇති විය හැකි බැවින්, එය ඉවත් කර පරීක්ෂා කිරීම වඩාත් නිවැරදි ක්‍රමයයි. එමනිසා, නිවැරදි පිළිතුර වන්නේ 'Disconnect the thermocouple lead from the controller, and replace it with a mV source' යන්නයි.",
         "tags": [
             {
                 "sub_category": "Instrumentation",
@@ -1081,7 +1081,7 @@
         ],
         "correct_answer": "One of the main switching elements in the triac has failed.",
         "images": [],
-        "explanation": "",
+        "explanation": "Triac එකක් යනු AC power පාලනය කිරීම සඳහා භාවිතා කරන bidirectional semiconductor device එකකි. මෙහි ප්‍රධාන අභ්‍යන්තර කොටස් දෙකක් (thyristors දෙකක් ලෙස සැලකිය හැක) මගින් AC cycle එකේ positive සහ negative යන අර්ධ චක්‍ර දෙකම පාලනය කරයි. oven එකේ උෂ්ණත්වය 50% කින් පමණක් සීමා වී ඇත්නම්, එයින් අදහස් වන්නේ AC cycle එකේ එක් අර්ධ චක්‍රයක් පමණක් load එකට ලැබෙන බවයි. Triac එක සම්පූර්ණයෙන්ම අසාර්ථක වුවහොත් (failed), oven එකට කිසිදු බලයක් නොලැබේ. Voltage supply එක 50% කින් අඩු වීම ප්‍රායෝගිකව සිදුවිය නොහැකි කරුණකි. Gate terminal එක open circuit වුවහොත් triac එක ක්‍රියාත්මක නොවේ. එබැවින්, triac එකේ අභ්‍යන්තර switching elements දෙකෙන් එකක් පමණක් අසාර්ථක වූ විට (half-wave rectification වැනි තත්වයක් ඇතිවී), oven එකට ලැබෙන බලය අඩකින් අඩු වී උෂ්ණත්වය 50% කින් සීමා වේ.",
         "tags": [
             {
                 "sub_category": "Electronics",
@@ -1106,7 +1106,7 @@
         ],
         "correct_answer": "Install a 100 Ohm resistor in series with the coil.",
         "images": [],
-        "explanation": "",
+        "explanation": "පළමුව, relay coil එකේ Resistance (R) අගය Ohm's Law (R = V/I) අනුව ගණනය කළ යුතුය. මෙහි V = 12V සහ I = 120mA (0.12A) වේ. එබැවින් R = 12 / 0.12 = 100 Ohms වේ. දැන් අප සතුව 24V සැපයුමක් ඇති අතර, එයින් 12V ප්‍රමාණයක් පමණක් coil එකට ලැබිය යුතුය. ඉතිරි 12V ප්‍රමාණය Voltage drop එකක් ලෙස ලබා ගැනීමට නම්, coil එකට සමාන Resistance අගයක් ඇති resistor එකක් Series සම්බන්ධතාවයකින් (Series connection) සම්බන්ධ කළ යුතුය. Series circuit එකකදී Voltage බෙදී යන බැවින්, 100 Ohm resistor එකක් Series සම්බන්ධ කිරීමෙන් coil එක හරහා 12V පවත්වා ගත හැක. Parallel සම්බන්ධ කිරීම වැරදි වන්නේ එයින් Voltage බෙදී නොයන අතර circuit එකේ current එක පමණක් වැඩි වන බැවිනි. 100 k Ohm වැනි විශාල අගයන් භාවිතා කිරීමෙන් coil එකට අවශ්‍ය Current එක නොලැබී යයි.",
         "tags": [
             {
                 "sub_category": "Electrical",
@@ -1127,7 +1127,7 @@
         ],
         "correct_answer": "Apply reduced voltage to the element for a few minutes. Then retest, and if ok put into service.",
         "images": [],
-        "explanation": "",
+        "explanation": "මෙම ප්‍රශ්නයට අදාළව, Magnesium Oxide (MgO) යනු ඉතා හොඳ Insulating material එකක් වුවද, එය Hygroscopic ගුණයක් (වාතයේ ඇති තෙතමනය උරා ගැනීමේ හැකියාව) සහිත ද්‍රව්‍යයකි. අලුතින් ගබඩා කර තිබූ Heating element එකක 0.3 M Ohm වැනි අඩු Insulation resistance අගයක් ලැබෙන්නේ එහි ඇති තෙතමනය නිසාය. 1. 'Discard the element' යනු වැරදි ක්‍රියාවකි, මන්ද මෙය දෝෂයක් නොව තෙතමනය නිසා ඇති වූ තාවකාලික තත්ත්වයක් බැවිනි. 2. 'Put the element into service' යනු අනාරක්ෂිත ක්‍රියාවකි, මන්ද 0.3 M Ohm යනු ආරක්ෂිත සීමාවට වඩා අඩු අගයක් වන බැවිනි. 3. 'Wash the element' මගින් මතුපිට තෙල් ඉවත් කළ හැකි වුවද, MgO ඇතුළත ඇති තෙතමනය ඉවත් කළ නොහැක. 4. 'Apply reduced voltage' යනු නිවැරදි ක්‍රමයයි. අඩු වෝල්ටීයතාවයක් ලබා දීමෙන් මූලද්‍රව්‍යය සෙමින් රත් වන අතර, එමගින් ඇතුළත ඇති තෙතමනය (Moisture) වාෂ්ප වී ඉවත් වේ. ඉන්පසු නැවත පරීක්ෂා කිරීමේදී Insulation resistance අගය සාමාන්‍ය මට්ටමට (සාමාන්‍යයෙන් 1 M Ohm ට වඩා වැඩි) පැමිණේ.",
         "tags": [
             {
                 "sub_category": "Electrical",
@@ -1152,7 +1152,7 @@
         ],
         "correct_answer": "Solution of potassium hydroxide (KOH) and water.",
         "images": [],
-        "explanation": "",
+        "explanation": "Nickel-iron (Ni-Fe) බැටරි යනු alkaline battery වර්ගයකි. මෙහිදී electrolyte එක ලෙස භාවිතා කරන්නේ Potassium hydroxide (KOH) ද්‍රාවණයකි. අනෙකුත් විකල්ප විශ්ලේෂණය කළහොත්: 1) Sulphuric acid (H2SO4) භාවිතා කරන්නේ Lead-acid බැටරි සඳහා මිස Nickel-iron සඳහා නොවේ. 2) Zinc-carbon යනු බැටරියක electrode ද්‍රව්‍යයක් මිස electrolyte එකක් නොවේ. 3) Sodium සහ ජලය යනු නිවැරදි electrolyte එක නොවේ. එබැවින්, Potassium hydroxide (KOH) සහ ජලය මිශ්‍රණය නිවැරදි පිළිතුර වේ.",
         "tags": [
             {
                 "sub_category": "Electrical",
@@ -1177,7 +1177,7 @@
         ],
         "correct_answer": "Absolute pressure.",
         "images": [],
-        "explanation": "",
+        "explanation": "පීඩනය මැනීමේදී යොදාගන්නා මූලික මිනුම් දඬු දෙකක් ඇත. 1. Absolute zero (පරම ශුන්‍යය) සහ 2. Atmospheric pressure (වායුගෝලීය පීඩනය). Absolute zero යනු කිසිදු අණුවක චලිතයක් නොමැති, සම්පූර්ණ රික්තකයක් පවතින අවස්ථාවයි. මෙම Absolute zero මට්ටමේ සිට මනිනු ලබන පීඩනය 'Absolute pressure' ලෙස හැඳින්වේ. අනෙක් විකල්පයන් විශ්ලේෂණය කළහොත්: 'Gauge pressure' යනු වායුගෝලීය පීඩනයට සාපේක්ෂව මනිනු ලබන පීඩනයයි. 'Vacuum pressure' යනු වායුගෝලීය පීඩනයට වඩා අඩු පීඩනයක් මනින විට භාවිතා වේ. 'Pressure drop' යනු පද්ධතියක ද්‍රවයක් හෝ වායුවක් ගමන් කිරීමේදී සිදුවන පීඩන අඩුවීමයි. එබැවින්, Absolute zero වෙතින් මනිනු ලබන පීඩනය සඳහා නිවැරදි පිළිතුර වන්නේ 'Absolute pressure' වේ.",
         "tags": [
             {
                 "sub_category": "Instrumentation",
@@ -1202,7 +1202,7 @@
         ],
         "correct_answer": "2,2 Ohms.",
         "images": [],
-        "explanation": "",
+        "explanation": "මෙම ගැටලුව විසඳීම සඳහා අපට Transformer එකේ 'Full load' තත්ත්වය යටතේ පවතින 'Secondary current' (I) සහ 'Load impedance' (Z) සෙවිය යුතුය. 1. පළමුව, Transformer එකේ 'Apparent power' (S) සහ 'Secondary voltage' (V) භාවිතා කර 'Secondary current' ගණනය කරමු. S = 22 kVA = 22,000 VA. V = 220 V. සූත්‍රය වන්නේ S = V × I, එබැවින් I = S / V = 22,000 / 220 = 100 Amperes. 2. දැන් 'Ohm's Law' භාවිතා කර 'Load impedance' (Z) සොයමු. Z = V / I. Z = 220 V / 100 A = 2.2 Ohms. අනෙකුත් පිළිතුරු වැරදි වන්නේ එම අගයන් ඉහත ගණනය කිරීම්වලට අනුකූල නොවන බැවිනි. උදාහරණයක් ලෙස, 22 Ohms යනු 10 Amperes ධාරාවක් සඳහා වන අතර, 220 Ohms යනු 1 Ampere ධාරාවක් සඳහා වේ. එබැවින් 2,2 Ohms යනු නිවැරදි පිළිතුරයි.",
         "tags": [
             {
                 "sub_category": "Electrical",
@@ -1229,7 +1229,7 @@
         "images": [
             "https://sea-man.org/icons/ces_starter.jpg"
         ],
-        "explanation": "",
+        "explanation": "මෙම circuit diagram එක විශ්ලේෂණය කිරීමේදී, starter motor එකේ ක්‍රියාකාරිත්වය සඳහා අවශ්‍ය බල සැපයුම සහ control circuit එක සම්බන්ධ වී ඇති ආකාරය නිරීක්ෂණය කළ යුතුය. මෙහි 5 සහ 6 යන terminals මගින් starter solenoid එක හරහා starter motor එකට ප්‍රධාන බල සැපයුම (Main power supply) සම්බන්ධ වේ. අනෙකුත් විකල්පයන් වන 1 සහ 2, 3 සහ 4 මගින් සාමාන්‍යයෙන් control circuit හෝ වෙනත් auxiliary components නිරූපණය කෙරේ. එබැවින්, starter එක සම්බන්ධ වී ඇත්තේ 5 සහ 6 terminals අතර බව පැහැදිලිය.",
         "tags": []
     },
     {
@@ -1245,7 +1245,7 @@
         ],
         "correct_answer": "Better linearity and increased accuracy.",
         "images": [],
-        "explanation": "",
+        "explanation": "Transmitter එකක measurement range එක පටු (narrow) වන විට, එම පරාසය තුළ සංවේදකයේ ප්‍රතිදානය (output) වඩාත් රේඛීය (linear) වේ. මෙයින් අදහස් වන්නේ input සහ output අතර සම්බන්ධය වඩාත් නිවැරදි වන බවයි. අනෙක් පිළිතුරු වැරදි වීමට හේතු: 1. ඕනෑම transmitter එකකට calibration අනිවාර්ය වේ. 2. Range එක පටු වීම සහ installation පහසුව අතර සම්බන්ධයක් නැත. 3. සාමාන්‍යයෙන් පටු පරාසයකට සකස් කළ transmitter එකක් මිලදී ගැනීම වඩා මිල අධික විය හැකිය. එබැවින්, 'Better linearity and increased accuracy' යනු නිවැරදි පිළිතුරයි.",
         "tags": [
             {
                 "sub_category": "Instrumentation",
@@ -1270,7 +1270,7 @@
         ],
         "correct_answer": "The slave controller receives the set-point from the output signal of the master controller.",
         "images": [],
-        "explanation": "",
+        "explanation": "Cascade control පද්ධතියකදී Master controller සහ Slave controller එකිනෙක සම්බන්ධ වී ක්‍රියා කරයි. මෙහිදී 'Remote mode' (හෝ Cascade mode) යනු Slave controller එකෙහි Set-point එක ස්වාධීනව ලබා නොදී, Master controller එකෙහි Output signal එක මගින් පාලනය වන අවස්ථාවයි. අනෙක් පිළිතුරු වැරදි වන්නේ: 1) මෙය Hand carried remote controller එකක් නොවේ. 2) Slave controller එක ඕනෑම mode එකක තිබිය නොහැක, එය Master ගේ පාලනයට යටත් විය යුතුය. 4) Engine control room එකෙන් පාලනය කිරීම යනු සාමාන්‍ය Remote operation එකක් මිස Cascade control හි නිශ්චිත අර්ථය නොවේ.",
         "tags": [
             {
                 "sub_category": "Controls",
@@ -1295,7 +1295,7 @@
         ],
         "correct_answer": "Adjust the slave controller with the master controller in manual mode.",
         "images": [],
-        "explanation": "",
+        "explanation": "Cascade control system එකකදී පද්ධතියේ ස්ථාවරත්වය (stability) පවත්වා ගැනීම සඳහා පියවරෙන් පියවර tuning සිදු කිරීම අත්‍යවශ්‍ය වේ. මෙහිදී ප්‍රධාන වශයෙන් Master controller සහ Slave controller ලෙස කොටස් දෙකක් ඇත. පළමුවෙන්ම, Master controller එක Manual mode එකට දමා එය ක්‍රියා විරහිත කර, Slave controller එක පමණක් ස්වාධීනව (independently) tune කළ යුතුය. මෙයට හේතුව Slave loop එක වේගවත් වන අතර එය Master loop එකට වඩා ඉක්මනින් ප්‍රතිචාර දැක්විය යුතු වීමයි. අනෙක් විකල්ප වැරදි වන්නේ: 'Adjust both controllers at the same time' යනු පද්ධතියේ පාලනය අස්ථාවර කිරීමට හේතු වන ක්‍රියාවකි. 'Adjust the slave controller with the master controller in auto mode' යනු Master controller එකේ බලපෑම නිසා Slave එක නිවැරදිව tune කිරීමට බාධාවක් වේ. එබැවින්, නිවැරදිම ක්‍රමය වන්නේ Master controller එක Manual mode එකේ තබා Slave controller එක මුලින්ම tune කිරීමයි.",
         "tags": [
             {
                 "sub_category": "Controls",
@@ -1320,7 +1320,7 @@
         ],
         "correct_answer": "The primary controller in a cascade control system.",
         "images": [],
-        "explanation": "",
+        "explanation": "Cascade control system එකකදී, පද්ධතියේ පාලනය කොටස් දෙකකට බෙදේ. මෙහිදී 'Master Controller' (Primary Controller) මගින් පද්ධතියේ ප්‍රධාන පරාමිතිය (Process Variable) නිරීක්ෂණය කර, එය පාලනය කිරීම සඳහා අවශ්‍ය Setpoint එක 'Slave Controller' (Secondary Controller) වෙත ලබා දෙයි. අනෙක් විකල්පයන් වැරදි වන්නේ ඒවා තාක්ෂණික වශයෙන් Cascade control පද්ධතියක Master Controller එකක කාර්යභාරය විස්තර නොකරන බැවිනි. උදාහරණයක් ලෙස, 'Captain’s controller' යනු වැරදි අර්ථකථනයකි, මන්ද මෙය යාන්ත්‍රික පද්ධතියක ස්වයංක්‍රීය පාලන ක්‍රියාවලියක් මිස පුද්ගලයෙකු පාලනය කරන දෙයක් නොවන බැවිනි. 'State of the art' හෝ 'Best possible' යනු පාලන පද්ධතියක ගුණාත්මක බව විස්තර කරන වචන මිස, පද්ධතියේ ව්‍යුහය තුළ පවතින නිශ්චිත Controller එකක් නොවේ.",
         "tags": [
             {
                 "sub_category": "Controls",
@@ -1345,7 +1345,7 @@
         ],
         "correct_answer": "Level control.",
         "images": [],
-        "explanation": "",
+        "explanation": "Automated control පද්ධතිවලදී Time constant යනු පද්ධතියක ප්‍රතිචාර දැක්වීමේ වේගය (response speed) තීරණය කරන සාධකයකි. Flow control, Temperature control සහ Pressure control වැනි පද්ධතිවලදී, පද්ධතියේ වෙනස්වීම් ඉතා වේගයෙන් සිදුවන අතර, ඒවා නිවැරදිව පාලනය කිරීමට නම් Time constant ඉතා වැදගත් වේ. නමුත් Level control (උදාහරණයක් ලෙස tank එකක ද්‍රව මට්ටම) පාලනය කිරීමේදී, ද්‍රව මට්ටම වෙනස් වීමට සාපේක්ෂව වැඩි කාලයක් ගතවන අතර, පද්ධතියේ Inertia සහ Capacity නිසා Time constant එකේ බලපෑම අනෙක් පද්ධතිවලට සාපේක්ෂව ඉතා අඩුය (minor importance). එබැවින් Level control යනු නිවැරදි පිළිතුරයි.",
         "tags": [
             {
                 "sub_category": "Controls",
@@ -1370,7 +1370,7 @@
         ],
         "correct_answer": "It is possible to predict the control mathematically.",
         "images": [],
-        "explanation": "",
+        "explanation": "Continuous control systems (නිරන්තර පාලන පද්ධති) යනු කාලයත් සමඟ අඛණ්ඩව ක්‍රියාත්මක වන පද්ධති වේ. මෙම පද්ධතිවල හැසිරීම Differential equations වැනි ගණිතමය ආකෘති (Mathematical models) මගින් ඉතා නිවැරදිව පුරෝකථනය කළ හැක. අනෙක් විකල්පයන් සලකා බලමු: 'The control valve will always be changing position' යනු වැරදියි, මන්ද පද්ධතිය Set point එකට ළඟා වූ පසු Valve එක ස්ථාවර විය හැක. 'It is not possible to have a stable process' යනු වැරදියි, මන්ද පාලන පද්ධතියක මූලික අරමුණම ක්‍රියාවලිය ස්ථාවර (Stable) කිරීමයි. 'The output signal is equal to the input signal' යනු වැරදියි, මන්ද පද්ධතියේ Gain එක අනුව Output එක වෙනස් විය හැක. එබැවින්, ගණිතමය වශයෙන් පද්ධතියේ හැසිරීම පුරෝකථනය කිරීම (Predicting mathematically) මෙහි ඇති නිවැරදිම ලක්ෂණය වේ.",
         "tags": [
             {
                 "sub_category": "Controls",
@@ -1395,7 +1395,7 @@
         ],
         "correct_answer": "Control of the process inlet side.",
         "images": [],
-        "explanation": "",
+        "explanation": "Feed-forward control පද්ධතියක මූලික ලක්ෂණය වන්නේ පද්ධතියේ ප්‍රතිදානය (output) නිරීක්ෂණය කිරීමට පෙර, පද්ධතියට ඇතුළු වන බාධා (disturbances) හඳුනාගෙන ඒවාට ප්‍රතිචාර දැක්වීමයි. එනම්, මෙය 'Control of the process inlet side' ලෙස හැඳින්වේ. අනෙක් විකල්පයන් වැරදි වන්නේ ඇයිද යත්: 1) 'Mathematical calculation of the system response' යනු පද්ධතියේ ආකෘතියක් සැකසීම පමණක් වන අතර එය පාලන ක්‍රමයේ අර්ථ දැක්වීම නොවේ. 2) 'Easy to obtain a perfect control' යනු වැරදි අදහසකි, මන්ද feed-forward පද්ධතියකට බාහිර බාධා සියල්ලම නිවැරදිව පුරෝකථනය කළ නොහැකි බැවිනි. 3) 'The process continually oscillates' යනු සාමාන්‍යයෙන් feedback control පද්ධතියක වැරදි tuning නිසා සිදුවන්නකි, feed-forward පද්ධතියක ලක්ෂණයක් නොවේ.",
         "tags": [
             {
                 "sub_category": "Controls",
@@ -1420,7 +1420,7 @@
         ],
         "correct_answer": "The secondary controller.",
         "images": [],
-        "explanation": "",
+        "explanation": "Cascade control system එකකදී පද්ධති දෙකක් එකිනෙක සම්බන්ධ වී පවතී. මෙහිදී Primary controller (Master) මගින් Secondary controller (Slave) හට setpoint එක ලබා දෙයි. පද්ධතියේ ස්ථායීතාවය (Stability) පවත්වා ගැනීම සඳහා පළමුව Secondary controller එක tune කළ යුතුය. ඊට හේතුව වන්නේ Secondary loop එක Primary loop එකට වඩා වේගයෙන් ප්‍රතිචාර දැක්විය යුතු වීමයි. ඔබ පළමුව Primary controller එක tune කළහොත්, Secondary loop එකේ පවතින දෝෂ හෝ ප්‍රමාදයන් (Time lag) නිසා පද්ධතියේ පාලනය අස්ථාවර වේ. එබැවින්, Secondary controller එක tune කර එය ස්ථාවර වූ පසු පමණක් Primary controller එක tune කිරීම නිවැරදි ක්‍රමවේදයයි.",
         "tags": [
             {
                 "sub_category": "Controls",
@@ -1445,7 +1445,7 @@
         ],
         "correct_answer": "Capillary tube.",
         "images": [],
-        "explanation": "",
+        "explanation": "Restricted flow viscometer එකකදී ද්‍රවයක දුස්ස්‍රාවීතාවය (Viscosity) මැනීම සඳහා Capillary tube එකක් භාවිතා කිරීම වඩාත් සුදුසු වේ. මෙහිදී ද්‍රවය කුඩා නලයක් (Capillary tube) හරහා ගමන් කිරීමේදී සිදුවන පීඩන වෙනස හෝ ගලන වේගය මැනීම මගින් දුස්ස්‍රාවීතාවය තීරණය කෙරේ. අනෙක් විකල්පයන් සලකා බලමු: Bourdon tube යනු පීඩනය මැනීමට භාවිතා කරන උපකරණයකි. Rotating cylinder යනු දුස්ස්‍රාවීතාවය මැනීමට භාවිතා කරන වෙනත් ක්‍රමයක් (Rotational viscometer) වුවත්, restricted flow මූලධර්මය සඳහා එය භාවිතා නොවේ. Capacitance probe යනු මට්ටම (Level) මැනීමට භාවිතා කරන උපකරණයකි. එබැවින්, restricted flow viscometer සඳහා නිවැරදිම පිළිතුර Capillary tube වේ.",
         "tags": [
             {
                 "sub_category": "Instrumentation",
@@ -1472,7 +1472,7 @@
         "images": [
             "https://sea-man.org/icons/ces_accuracy.jpg"
         ],
-        "explanation": "",
+        "explanation": "Pt 100 sensor එකක මිනුම් නිරවද්‍යතාවය (measuring accuracy) රඳා පවතින්නේ සම්බන්ධක වයර්වල ඇති Resistance එක මගින් මිනුම්වලට සිදුවන බලපෑම අවම කිරීම මතයි. Figure 1 හි දැක්වෙන්නේ 4-wire configuration එකයි. මෙහිදී වයර් දෙකක් මගින් sensor එකට excitation current එක ලබා දෙන අතර අනෙක් වයර් දෙක මගින් voltage drop එක මනිනු ලබයි. මෙහිදී මිනුම් උපකරණයට (measuring instrument) ඉහළ input impedance එකක් ඇති බැවින්, මිනුම් වයර් හරහා ධාරාව ගලා නොයන තරම්ය. එමනිසා වයර්වල ඇති Resistance එක මිනුම්වලට බලපාන්නේ නැත. Figure 2 (2-wire) හි වයර්වල Resistance එක මිනුමට එකතු වන නිසා දෝෂ සහිත වේ. Figure 3 (3-wire) මගින් දෝෂය යම්තාක් දුරට අඩු කළද, Figure 1 තරම් නිරවද්‍ය නොවේ. එබැවින් 4-wire ක්‍රමය (Figure 1) වඩාත්ම නිරවද්‍ය වේ.",
         "tags": []
     },
     {
@@ -1488,7 +1488,7 @@
         ],
         "correct_answer": "In a pressure transmitter.",
         "images": [],
-        "explanation": "",
+        "explanation": "Bourdon-tube එකක් යනු පීඩනය (Pressure) මැනීම සඳහා භාවිතා කරන ප්‍රධාන සංරචකයකි. මෙහි ක්‍රියාකාරිත්වය වන්නේ පීඩනය යෙදූ විට නලයේ හැඩය වෙනස් වීමයි (Elastic deformation). 1. Flow meter එකකදී සාමාන්‍යයෙන් භාවිතා වන්නේ orifice plate හෝ turbine වැනි උපකරණ මිස Bourdon-tube නොවේ. 2. Pressure transmitter එකකදී, Bourdon-tube එක මගින් පීඩනය යාන්ත්‍රික චලිතයක් බවට පත් කර, පසුව එය විද්‍යුත් සංඥාවක් (Electrical signal) ලෙස පරිවර්තනය කරයි. 3. Temperature transmitter එකකදී සාමාන්‍යයෙන් භාවිතා වන්නේ RTD හෝ Thermocouple වැනි උෂ්ණත්වය සංවේදනය කරන උපකරණයි. 4. A/D converter යනු Analog සංඥා Digital සංඥා බවට පත් කරන පරිපථයක් මිස මිනුම් උපකරණයක් නොවේ. එබැවින් නිවැරදි පිළිතුර Pressure transmitter වේ.",
         "tags": [
             {
                 "sub_category": "Instrumentation",

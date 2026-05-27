@@ -11,7 +11,7 @@
         ],
         "correct_answer": "Place sterile dressing over the burn and secure with a bandage.",
         "images": [],
-        "explanation": "",
+        "explanation": "විදුලි සැර වැදීමකින් සිදුවන පිළිස්සුම් (Electrical burns) සඳහා ප්‍රථමාධාර ලබා දීමේදී ආසාදනය වැළැක්වීම ප්‍රධාන වේ. 1. 'Place sterile dressing over the burn and secure with a bandage' යනු නිවැරදි පිළිතුරයි. මෙහිදී තුවාලය පිරිසිදු Sterile dressing එකකින් ආවරණය කිරීම මගින් බැක්ටීරියා ඇතුළු වීම වළක්වා ආසාදනය පාලනය කරයි. 2. 'Break blisters' කිරීම වැරදියි, මන්ද බිබිලි කැඩීමෙන් සමේ ආරක්ෂිත ස්ථරය විනාශ වී ආසාදන අවදානම වැඩි වේ. 3. 'Apply lotion and ointment' කිරීම නොකළ යුතුය, මන්ද මේවා තුවාලය මත තැවරීමෙන් පසුව වෛද්‍ය ප්‍රතිකාර ලබා දීමේදී තුවාලයේ තත්ත්වය පරීක්ෂා කිරීමට බාධාවක් වන අතර සමහර ආලේපන තුවාලය තවදුරටත් උග්‍ර කළ හැක. 4. 'Remove loose skin' කිරීම වෛද්‍යවරයෙකු විසින් පමණක් කළ යුතු කාර්යයකි; එය ප්‍රථමාධාර ලෙස සිදු කිරීමෙන් තුවාලය තවත් දරුණු විය හැක. එබැවින්, තුවාලය පිරිසිදුව තබා ගැනීම සඳහා Sterile dressing එකක් යෙදීම පමණක් ප්‍රථමාධාර ලෙස නිර්දේශ කෙරේ.",
         "tags": [
             {
                 "sub_category": "Medical",
@@ -35,7 +35,7 @@
         ],
         "correct_answer": "Extinguishing attempt is started immediately.",
         "images": [],
-        "explanation": "",
+        "explanation": "ගින්නක් හටගත් විට එය පාලනය කිරීමට ඇති වැදගත්ම සාධකය වන්නේ කාලයයි. ගින්නක් ආරම්භ වූ වහාම (Immediate action) එය නිවා දැමීමට උත්සාහ කිරීම මගින් ගින්න විශාල වීමට පෙර එය පාලනය කර ගැනීමට හැකියාව ලැබේ. අනෙක් විකල්පයන් වන Chief Officer දැනුවත් කිරීම, Fire fighting teams සංවිධානය කිරීම හෝ උපකරණ රැගෙන ඒම වැදගත් වුවත්, එම ක්‍රියාවලීන් සඳහා කාලය ගතවේ. ගින්නක් ආරම්භයේදීම එය නිවා දැමීමට උත්සාහ නොකළහොත්, එය ඉතා වේගයෙන් පැතිරී (Spread) පාලනය කළ නොහැකි තත්ත්වයකට පත්විය හැකිය. එබැවින්, 'Extinguishing attempt is started immediately' යනු වඩාත්ම නිවැරදි සහ ඵලදායී ක්‍රියාවයි.",
         "tags": [
             {
                 "sub_category": "Firefighting",
@@ -59,7 +59,7 @@
         ],
         "correct_answer": "Body temperature below 35 °C/Heat the body.",
         "images": [],
-        "explanation": "",
+        "explanation": "Hypothermia යනු ශරීරයේ අභ්‍යන්තර උෂ්ණත්වය සාමාන්‍ය මට්ටමට වඩා පහත වැටීමයි. වෛද්‍ය විද්‍යාත්මකව, ශරීර උෂ්ණත්වය 35 °C ට වඩා අඩු වූ විට එය Hypothermia ලෙස අර්ථ දැක්වේ. මෙහිදී ශරීරය උණුසුම් කිරීම (Heat the body) මගින් ප්‍රතිකාර සිදු කෙරේ. අනෙක් පිළිතුරු වැරදි වන්නේ: 23 °C යනු ඉතාම දරුණු මට්ටමකි, 39 °C යනු උණ (Fever) තත්ත්වයකි, සහ Heavy coughing යනු Hypothermia හි රෝග ලක්ෂණයක් නොවේ.",
         "tags": [
             {
                 "sub_category": "Medical",
@@ -83,7 +83,7 @@
         ],
         "correct_answer": "Stand on dry insulating material and pull the person away with insulating material.",
         "images": [],
-        "explanation": "",
+        "explanation": "විදුලි සැර වැදුණු පුද්ගලයෙකු බේරා ගැනීමේදී ප්‍රධානම කරුණ වන්නේ ඔබව විදුලි පරිපථයෙන් (Electrical circuit) හුදකලා කර ගැනීමයි. 1. 'Stand on dry insulating material and pull the person away with insulating material' යනු නිවැරදි පිළිතුරයි. මෙහිදී ඔබ වියළි රබර් මැට් එකක් හෝ වියළි ලී පුවරුවක් මත සිටගෙන, විදුලිය සන්නයනය නොකරන ද්‍රව්‍යයකින් (උදා: වියළි ලී කැබැල්ලක් හෝ ප්ලාස්ටික් දණ්ඩක්) පුද්ගලයාව ඉවත් කිරීමෙන් ඔබව විදුලි සැරෙන් ආරක්ෂා කරගත හැක. 2. 'Call the electrician immediately' යනු වැරදි ක්‍රියාවකි, මන්ද එම අවස්ථාවේදී තත්පර ගණනක් පවා පුද්ගලයාගේ ජීවිතයට තීරණාත්මක වන බැවිනි. 3. 'Just take the casualty in your arms' යනු ඉතාම භයානක ක්‍රියාවකි. මිනිස් සිරුර විදුලිය සන්නයනය කරන නිසා, ඔබ ඔහුව ස්පර්ශ කළහොත් විදුලි සැර ඔබ හරහාද ගමන් කර ඔබද අනතුරට ලක්වේ. 4. 'Apply oil on your hands and cut the cords by the use of any metallic pliers' යනු වැරදි ක්‍රියාවකි. තෙල් මගින් විදුලියෙන් ආරක්ෂා විය නොහැක. තවද, ලෝහමය ප්ලයර්ස් (Metallic pliers) භාවිතා කිරීමෙන් විදුලිය ඔබ හරහා ගමන් කර මාරාන්තික අනතුරක් සිදුවේ.",
         "tags": [
             {
                 "sub_category": "Safety",
@@ -107,7 +107,7 @@
         ],
         "correct_answer": "The appointed lifeboat commander.",
         "images": [],
-        "explanation": "",
+        "explanation": "SOLAS (Safety of Life at Sea) රෙගුලාසිවලට අනුව, සෑම survival craft එකක් සඳහාම නිශ්චිතව නම් කරන ලද 'Lifeboat Commander' කෙනෙකු සිටිය යුතුය. මෙම පුද්ගලයා එම යාත්‍රාවේ ආරක්ෂාව සහ මෙහෙයුම් කටයුතු සඳහා වගකිව යුතු ප්‍රධානියා වේ. අනෙක් විකල්පයන් වැරදි වන්නේ ඇයිද යන්න පහත දැක්වේ: 1. 'Senior deck officer' හෝ 'Senior engine officer' යනු සාමාන්‍ය තනතුරු පමණි; ඔවුන්ට එම විශේෂිත යාත්‍රාවේ අණ දීමේ වගකීම පැවරී නොතිබිය හැකිය. 2. 'The first member of the crew arriving at the survival craft' යනු හුදෙක් වේගයෙන් පැමිණි පුද්ගලයා පමණි, ඔහුට නායකත්වය දීමට නීතිමය හෝ ව්‍යුහාත්මක බලයක් නොමැත. එමනිසා, Muster List එකෙහි සඳහන් පරිදි නිල වශයෙන් පත් කරන ලද 'Appointed lifeboat commander' පමණක් මෙම කාර්යයට සුදුසු වේ.",
         "tags": [
             {
                 "sub_category": "Safety",
@@ -135,7 +135,7 @@
         ],
         "correct_answer": "Sitting on a chair, leaning forward with two fingers pressing the nose together.",
         "images": [],
-        "explanation": "",
+        "explanation": "නාසයෙන් ලේ ගැලීමක් (Epistaxis) සිදුවූ විට නිවැරදි ක්‍රියාමාර්ගය වන්නේ රෝගියා කෙලින් වාඩි කරවා, හිස තරමක් ඉදිරියට නමා, නාසයේ මෘදු කොටස (soft part of the nose) ඇඟිලි දෙකකින් තද කරගෙන සිටීමයි. මෙසේ කිරීමෙන් රුධිරය උගුරට ගලා ඒම වැළකේ. අනෙක් විකල්ප වැරදි වීමට හේතු: 1. 'Laying on the back' (පිටත වැතිරීම) කිරීමෙන් රුධිරය උගුරට ගලා ගොස් හුස්ම ගැනීමේ අපහසුතා හෝ වමනය ඇති විය හැක. 2. 'Head down' (හිස පහතට නැමීම) යනු හිස දණහිස් අතර තබා ගැනීමක් වැනි අස්වාභාවික ඉරියව්වකි, එය රුධිර පීඩනය වැඩි කිරීමට හේතු විය හැක. 3. හිස පසුපසට නැමීම (leaning the head back) මගින් රුධිරය උගුරට ගලා යාම නිසා රෝගියාට හුස්ම ගැනීමේ අපහසුතා ඇති විය හැක.",
         "tags": [
             {
                 "sub_category": "Medical",
@@ -155,7 +155,7 @@
         ],
         "correct_answer": "Checking the moorings for tightness/slack.",
         "images": [],
-        "explanation": "",
+        "explanation": "නැවක් වරායක නැංගුරම් ලා ඇති විට (at port), Watchman කෙනෙකුගේ ප්‍රධානතම වගකීම වන්නේ නැවේ ආරක්ෂාව සහතික කිරීමයි. මෙහිදී 'Checking the moorings for tightness/slack' යනු අත්‍යවශ්‍ය කාර්යයකි. මන්ද, වඩදිය බාදිය (tide) වෙනස්වීම් හෝ නැවේ බර වෙනස්වීම් නිසා Mooring lines ලිහිල් වීම හෝ අධික ලෙස තද වීම සිදුවිය හැක. මෙය නැවට හානි වීමට හෝ Mooring lines කැඩී යාමට හේතු විය හැක. අනෙක් විකල්ප සලකා බලමු: 'Checking the safe and secure handling of cargo' යනු ප්‍රධාන වශයෙන් Cargo Officer හෝ Duty Officer ගේ වගකීමකි. 'Checking the number of persons entering/leaving the vessel' යනු Gangway watchman ගේ කාර්යයක් වුවද, සමස්ත නැවේ ආරක්ෂාව සඳහා Mooring lines නිරන්තරයෙන් පරීක්ෂා කිරීම වඩාත් මූලික සහ අනිවාර්ය කාර්යයකි. 'Checking the trim of the vessel' යනු සාමාන්‍යයෙන් Duty Officer විසින් සිදුකරන කාර්යයකි. එබැවින්, Mooring lines පරීක්ෂා කිරීම නිවැරදිම පිළිතුර වේ.",
         "tags": [
             {
                 "sub_category": "Watchkeeping",
@@ -175,7 +175,7 @@
         ],
         "correct_answer": "The position ensures that an open airway is maintained.",
         "images": [],
-        "explanation": "",
+        "explanation": "Unconscious පුද්ගලයෙකුගේ ශරීරයේ මාංශ පේශි ලිහිල් වීම නිසා දිව පසුපසට ගොස් Airway එක අවහිර වීමට ඉඩ ඇත. Recovery position එක මගින් රෝගියාගේ හිස මදක් පහළට සහ පැත්තට හැරවීමෙන් දිව ඉදිරියට වැටීම වළක්වා Airway එක විවෘතව තබා ගනී. අනෙක් පිළිතුරු වැරදි වන්නේ: 'Because it keeps the heart beating' යනු වැරදියි, මන්ද මෙය හෘද ස්පන්දනයට බලපාන ක්‍රමයක් නොවේ. 'maintain any kind of bleeding' යනු වැරදියි, මන්ද රුධිර වහනය පාලනය කිරීමට සෘජු පීඩනය (Direct pressure) අවශ්‍ය වේ. 'prevents the patient from falling asleep' යනු වැරදියි, මන්ද රෝගියා දැනටමත් සිහිය නැතිව සිටින බැවිනි.",
         "tags": [
             {
                 "sub_category": "Medical",
@@ -195,7 +195,7 @@
         ],
         "correct_answer": "4.",
         "images": [],
-        "explanation": "",
+        "explanation": "LSA Code (Life-Saving Appliance Code) රෙගුලාසිවලට අනුව, සෑම lifeboat එකකම අවම වශයෙන් Rocket parachute flares 4ක් තිබිය යුතුය. මෙහිදී අනෙකුත් පිළිතුරු වැරදි වන්නේ, 6 හෝ 12 යනු නියමිත ප්‍රමාණය නොවන බැවිනි. 'Nil' යනු කිසිවක් නොමැති බවයි, නමුත් හදිසි අවස්ථාවකදී (Emergency) පිහිට පැතීමට (Distress signaling) මේවා අත්‍යවශ්‍ය වේ. එබැවින් SOLAS (Safety of Life at Sea) සම්මුතියට අනුව 4 යනු නිවැරදි පිළිතුරයි.",
         "tags": [
             {
                 "sub_category": "Safety",
@@ -219,7 +219,7 @@
         ],
         "correct_answer": "Complete 15 compressions at the rate of 80 compressions per minute.",
         "images": [],
-        "explanation": "",
+        "explanation": "CPR (Cardiopulmonary Resuscitation) ක්‍රියාවලියේදී External Chest Compression (ECC) සිදු කිරීමේදී නිවැරදි රිද්මය සහ වේගය පවත්වා ගැනීම ඉතා වැදගත් වේ. මෙහිදී 15:2 අනුපාතය (15 compressions සහ 2 breaths) සාමාන්‍යයෙන් අනුගමනය කෙරේ. ලබා දී ඇති විකල්ප අතරින්, 15 compressions සහ 80 compressions per minute යන වේගය මගින් හෘද ස්පන්දනය නැවත උත්තේජනය කිරීමට සහ රුධිර සංසරණය පවත්වා ගැනීමට අවශ්‍ය පීඩනය නිවැරදිව ලබා දෙයි. අනෙක් විකල්ප (10, 20, 25 compressions) සහ ඒවායේ වේගයන් (40, 60, 75 compressions per minute) වෛද්‍ය ප්‍රමිතීන්ට අනුව අසම්පූර්ණ හෝ වැරදි වේගයන් වේ. එබැවින්, 15 compressions at 80 compressions per minute යනු නිවැරදි පිළිතුරයි.",
         "tags": [
             {
                 "sub_category": "Medical",
@@ -243,7 +243,7 @@
         ],
         "correct_answer": "Seven short blasts followed by one prolonged blast.",
         "images": [],
-        "explanation": "",
+        "explanation": "SOLAS (Safety of Life at Sea) රෙගුලාසිවලට අනුව, නැවක හදිසි අවස්ථාවකදී කාර්ය මණ්ඩලය සහ මගීන් දැනුවත් කිරීම සඳහා නියමිත General Emergency Alarm සංඥාව වන්නේ 'Seven short blasts followed by one prolonged blast' වේ. මෙහිදී 'short blast' යනු තත්පරයකට අඩු කාලයක් නාද වන ශබ්දයකි. 'Prolonged blast' යනු තත්පර 4 සිට 6 දක්වා කාලයක් නාද වන ශබ්දයකි. අනෙක් විකල්පයන් වැරදි වන්නේ ඒවා ජාත්‍යන්තර නාවික නීතිවලට (International Regulations) අනුව General Emergency Alarm එක ලෙස අර්ථ දක්වා නොමැති බැවිනි. උදාහරණයක් ලෙස, 'Series of short blasts' යනු සාමාන්‍යයෙන් නැවක හදිසි අනතුරු ඇඟවීමක් නොව, වෙනත් නාවික සංඥා සඳහා භාවිතා වන්නකි.",
         "tags": [
             {
                 "sub_category": "Emergency",
@@ -267,7 +267,7 @@
         ],
         "correct_answer": "By muster lists exhibited in conspicuous places.",
         "images": [],
-        "explanation": "",
+        "explanation": "SOLAS (Safety of Life at Sea) රෙගුලාසිවලට අනුව, සෑම නැවකම හදිසි අවස්ථාවකදී කාර්ය මණ්ඩලයේ රාජකාරි සහ Alarm signals පැහැදිලිව දැක්වෙන Muster lists ප්‍රධාන ස්ථානවල (conspicuous places) ප්‍රදර්ශනය කළ යුතුය. මෙය නීත්‍යානුකූලව අනිවාර්ය වන අතර, නැවට අලුතින් එකතු වන ඕනෑම අයෙකුට තම රාජකාරි සහ හදිසි ක්‍රියාමාර්ග පිළිබඳව දැනුවත් වීමට ඇති ප්‍රධානතම මාර්ගය මෙයයි. අනෙක් විකල්පයන් වන 'oral instructions by the captain' හෝ 'folders' යනු අමතර දැනුවත් කිරීම් විය හැකි නමුත්, Muster list එකක් ප්‍රදර්ශනය කිරීම නීතිමය අවශ්‍යතාවයකි. 'Alarm instructions in cabins' යනු තොරතුරු සැපයීමේ එක් ක්‍රමයක් පමණක් වන අතර, Muster list එක මගින් මුළු නැවේම හදිසි සැලැස්ම සහ පුද්ගලික රාජකාරි පිළිබඳ සම්පූර්ණ විස්තරයක් ලබා දෙයි.",
         "tags": [
             {
                 "sub_category": "Safety",
@@ -291,7 +291,7 @@
         ],
         "correct_answer": "Rescuing of life.",
         "images": [],
-        "explanation": "",
+        "explanation": "නැවක ගින්නක් ඇති වූ විට අනුගමනය කළ යුතු ප්‍රධානතම මූලධර්මය වන්නේ 'Safety of Life at Sea' (SOLAS) වේ. මෙහිදී 'Rescuing of life' යනු අංක එකේ ප්‍රමුඛතාවයයි. අනෙකුත් පිළිතුරු වන 'To limit the fire', 'Try to put out the fire', සහ 'To put out the fire' යන සියල්ලම වැදගත් ක්‍රියාමාර්ග වුවද, ඒවා දෙවනියට වැදගත් වන්නේ මිනිස් ජීවිත ආරක්ෂා කිරීමෙන් පසුවය. ගින්න නිවා දැමීම හෝ පාලනය කිරීමේ අරමුණ වන්නේද අවසානයේදී මිනිස් ජීවිත බේරා ගැනීමයි. එබැවින්, ඕනෑම හදිසි අවස්ථාවකදී (Emergency situation) ප්‍රථම ප්‍රමුඛතාවය වන්නේ ජීවිත බේරා ගැනීමයි.",
         "tags": [
             {
                 "sub_category": "Firefighting",
@@ -339,7 +339,7 @@
         ],
         "correct_answer": "Until all crew members and passengers have reported to their respect muster stations.",
         "images": [],
-        "explanation": "",
+        "explanation": "SOLAS (Safety of Life at Sea) රෙගුලාසිවලට අනුව, හදිසි අවස්ථාවකදී (Emergency situation) නැවෙහි සිටින සියලුම කාර්ය මණ්ඩලය සහ මගීන් තමන්ගේ නියමිත Muster stations වෙත වාර්තා කරන තෙක් General Emergency Alarm එක නාද කළ යුතුය. අනෙක් විකල්පයන් වැරදි වන්නේ: '3 minutes' හෝ '3 times' යනු හුදෙක් සංඥා රටාවක් පමණක් වන අතර එයින් කාර්ය මණ්ඩලය සියලු දෙනාම එකතු වී ඇති බව සහතික නොවේ. 'Until the signal risk is over' යන්න වැරදි වන්නේ, එම අවස්ථාව වන විටත් හදිසි තත්ත්වය පවතින බැවින් අනතුරු ඇඟවීම අඛණ්ඩව පැවතිය යුතු බැවිනි. එබැවින්, සියලු දෙනාගේ ආරක්ෂාව සහ ස්ථානගත වීම තහවුරු කර ගැනීම සඳහා Muster stations වෙත වාර්තා කරන තෙක් මෙම සංඥාව ලබා දීම අනිවාර්ය වේ.",
         "tags": [
             {
                 "sub_category": "Emergency",
@@ -363,7 +363,7 @@
         ],
         "correct_answer": "Once every month.",
         "images": [],
-        "explanation": "",
+        "explanation": "SOLAS (Safety of Life at Sea) රෙගුලාසිවලට අනුව, සෑම කාර්ය මණ්ඩල සාමාජිකයෙකුම මසකට වරක් 'abandon ship drill' සඳහා සහභාගී විය යුතුය. මෙහිදී අනෙකුත් විකල්ප වැරදි වන්නේ: 'Once every week' යනු සාමාන්‍යයෙන් fire drill හෝ වෙනත් පුහුණුවීම් සඳහා අදාළ විය හැකි වුවද, abandon ship drill සඳහා නියමිත අවම කාලසීමාව මාසිකව සිදු කිරීමයි. 'Once a year' සහ 'Once every 6 months' යන කාලසීමාවන් ඉතා දීර්ඝ වන අතර, හදිසි අවස්ථාවකදී කාර්ය මණ්ඩලයේ සූදානම පවත්වා ගැනීමට ප්‍රමාණවත් නොවේ. එබැවින්, SOLAS Chapter III හි දක්වා ඇති පරිදි, සෑම කාර්ය මණ්ඩල සාමාජිකයෙකුම මසකට වරක් මෙම අභ්‍යාසයට සහභාගී වීම අනිවාර්ය වේ.",
         "tags": [
             {
                 "sub_category": "Safety",
@@ -387,7 +387,7 @@
         ],
         "correct_answer": "Clearing escape routes.",
         "images": [],
-        "explanation": "",
+        "explanation": "SOLAS (Safety of Life at Sea) රෙගුලාසිවලට අනුව, Muster list එකෙහි අනිවාර්යයෙන්ම ඇතුළත් විය යුතු කරුණු වන්නේ හදිසි අවස්ථාවකදී කාර්ය මණ්ඩලය විසින් ඉටු කළ යුතු විශේෂිත රාජකාරි වේ. මෙහිදී 'Preparation and launching of survival crafts', 'Muster of passengers' සහ 'Manning of fire parties' යනු හදිසි අවස්ථාවකදී ජීවිත ආරක්ෂාව සඳහා අත්‍යවශ්‍ය වන ප්‍රධාන රාජකාරි වේ. 'Clearing escape routes' යනු සාමාන්‍යයෙන් නෞකාවේ ආරක්ෂිත ක්‍රියා පටිපාටිවල කොටසක් වුවද, එය Muster list එකෙහි විශේෂිතව නම් කරන ලද කාර්ය මණ්ඩල රාජකාරියක් ලෙස අනිවාර්යයෙන්ම ඇතුළත් විය යුතු නොවේ. අනෙක් විකල්ප තුනම නෞකාවේ Emergency response සැලැස්මේ මූලික අංග වන අතර ඒවා Muster list එකෙහි අනිවාර්යයෙන්ම සඳහන් කළ යුතුය.",
         "tags": [
             {
                 "sub_category": "Emergency",
@@ -411,7 +411,7 @@
         ],
         "correct_answer": "Leather safety boots and gloves.",
         "images": [],
-        "explanation": "",
+        "explanation": "SOLAS II-2 රෙගුලාසිවලට අනුව, Fireman's outfit එකකට අයත් වන පෞද්ගලික උපකරණ (personal equipment) ලෙස Protective clothing, Electric safety lamp සහ Axe (ගිනි නිවන පොරව) අනිවාර්යයෙන්ම ඇතුළත් විය යුතුය. මෙහිදී 'Leather safety boots and gloves' යනු සාමාන්‍ය ආරක්ෂිත ඇඳුම් කට්ටලයක කොටසක් ලෙස සැලකුවද, SOLAS රෙගුලාසිවල විශේෂයෙන් සඳහන් වන Fireman's outfit හි අනිවාර්ය පෞද්ගලික උපකරණ ලැයිස්තුවේ (Personal equipment) මෙම අයිතමය නිශ්චිතවම ඇතුළත් නොවේ. එබැවින්, අනෙක් විකල්ප තුනම (Axe, Electric safety lamp, Protective clothing) SOLAS මගින් අනිවාර්ය කර ඇති අතර, Leather safety boots and gloves යනු එම ලැයිස්තුවේ නොමැති නිවැරදි පිළිතුර වේ.",
         "tags": [
             {
                 "sub_category": "Firefighting",
@@ -435,7 +435,7 @@
         ],
         "correct_answer": "All mentioned.",
         "images": [],
-        "explanation": "",
+        "explanation": "විෂ සහිත ද්‍රව්‍ය (poisonous material) ශරීරගත වීම ප්‍රධාන මාර්ග කිහිපයකින් සිදුවිය හැක. පළමුව, 'Inhalation' හෙවත් ආශ්වාස කිරීම මගින් වායු හෝ දූවිලි අංශු පෙනහළු හරහා රුධිරයට එකතු විය හැක. දෙවනුව, 'Swallowing' හෙවත් ආහාර හෝ පානීය ද්‍රව්‍ය සමඟ විෂ ද්‍රව්‍ය ගිලීම මගින් ආහාර ජීර්ණ පද්ධතිය හරහා ශරීරගත විය හැක. තෙවනුව, 'Skin penetration and skin absorption' හෙවත් සම හරහා විෂ ද්‍රව්‍ය අවශෝෂණය වීම හෝ සම සිදුරු කරගෙන ඇතුළු වීම මගින්ද විෂ ශරීරගත විය හැක. මෙම ක්‍රම තුනම විෂ ද්‍රව්‍ය ශරීරගත වීමට බලපාන ප්‍රධාන මාර්ග වන බැවින් 'All mentioned' යන්න නිවැරදි පිළිතුර වේ.",
         "tags": [
             {
                 "sub_category": "Safety",
@@ -455,7 +455,7 @@
         ],
         "correct_answer": "Notify master, deck officer and engineers in charge. The loop for this special senseor to be switched off and take normal precautions for hot work.",
         "images": [],
-        "explanation": "",
+        "explanation": "Hot work සිදු කිරීමේදී smoke detector එකක් අසල වැඩ කරන්නේ නම්, එම detector එක මගින් දුම හඳුනාගෙන අනවශ්‍ය ලෙස Fire Alarm එකක් ක්‍රියාත්මක වීම වැළැක්විය යුතුය. මෙහිදී නිවැරදි ක්‍රියාපටිපාටිය වන්නේ අදාළ අංශ දැනුවත් කර, එම විශේෂිත sensor loop එක පමණක් තාවකාලිකව විසන්ධි (isolate) කිරීමයි. අනෙක් පිළිතුරු වැරදි වන්නේ: 'Disconnect the smoke detector' යනු තාක්ෂණිකව නිවැරදි ක්‍රමවේදය නොවන අතර එයින් පද්ධතියේ ආරක්ෂාවට හානි විය හැක. 'No special precautions' යනු අතිශය භයානක අදහසකි. 'Notify Deck officer' පමණක් කිරීමෙන් අනවශ්‍ය Alarm එකක් නාද වීම වැළැක්විය නොහැක. එබැවින්, නිසි අවසරය ලබාගෙන, අදාළ loop එක isolate කර, සාමාන්‍ය Hot work ආරක්ෂිත පියවරයන් (Hot work permit, fire watch, fire extinguisher) අනුගමනය කිරීම අනිවාර්ය වේ.",
         "tags": [
             {
                 "sub_category": "Safety",
@@ -483,7 +483,7 @@
         ],
         "correct_answer": "Close the valves on both acetylene and the oxygen bottles.",
         "images": [],
-        "explanation": "",
+        "explanation": "Gas welding equipment වල Acetylene line එකක ගින්නක් හටගත් විට, එය ඉතා භයානක තත්ත්වයකි. මෙහිදී Acetylene සහ Oxygen යන වායු වර්ග දෙකම දහනයට දායක වන බැවින්, පළමුවෙන්ම කළ යුත්තේ එම වායු සැපයුම සම්පූර්ණයෙන්ම නතර කිරීමයි. Acetylene පමණක් වසා දැමීමෙන් ගින්න නිවී නොයනු ඇත, මන්ද Oxygen සැපයුම දිගටම පවතින බැවිනි. අනෙක් අතට, Oxygen පමණක් වසා දැමීමෙන් Acetylene සැපයුම දිගටම පවතින නිසා ගින්න පාලනය කළ නොහැක. එබැවින්, ආරක්ෂිතම සහ නිවැරදිම පියවර වන්නේ Acetylene සහ Oxygen යන සිලින්ඩර දෙකෙහිම Valves වසා දැමීමයි. මෙය මගින් ගින්නට අවශ්‍ය ඉන්ධන සහ ඔක්සිකාරකය යන දෙකම එකවර කපා හැරේ.",
         "tags": [
             {
                 "sub_category": "Safety",
@@ -507,7 +507,7 @@
         ],
         "correct_answer": "Foam.",
         "images": [],
-        "explanation": "",
+        "explanation": "Open oil fire එකක් නිවා දැමීම සඳහා Foam වඩාත් සුදුසු වන්නේ එය මගින් තෙල් මතුපිට 'blanketing effect' එකක් ඇති කර ඔක්සිජන් සැපයුම සම්පූර්ණයෙන්ම වළක්වන බැවිනි. අනෙකුත් විකල්ප සලකා බලමු: 1. Water: තෙල් ජලයට වඩා සැහැල්ලු නිසා ජලය දැමූ විට තෙල් මතුපිටට පාවී ගොස් ගින්න තවදුරටත් පැතිරීමට ඉඩ ඇත. 2. Powder: කුඩා ගින්නකට සුදුසු වුවත්, විශාල open oil fire එකකදී නැවත ගිනි ගැනීම (re-ignition) වැළැක්වීමට Foam තරම් සාර්ථක නොවේ. 3. Gas: මෙය සාමාන්‍යයෙන් භාවිතා කරන්නේ සංවෘත අවකාශයන්හි (enclosed spaces) වන අතර, open fire එකකදී වායුව විසිරී යන නිසා එය ඵලදායී නොවේ. එබැවින් Foam යනු නිවැරදිම පිළිතුරයි.",
         "tags": [
             {
                 "sub_category": "Firefighting",
@@ -531,7 +531,7 @@
         ],
         "correct_answer": "Get out of the engine room as soon as possible.",
         "images": [],
-        "explanation": "",
+        "explanation": "CO2 (Carbon Dioxide) පද්ධතියක් ක්‍රියාත්මක වීමේදී නිකුත් වන අනතුරු ඇඟවීමේ සංඥාව (CO2 alarm) මගින් අදහස් වන්නේ එම ප්‍රදේශයට CO2 වායුව මුදා හැරීමට සූදානම් වන බව හෝ දැනටමත් මුදා හැර ඇති බවයි. CO2 යනු හුස්ම හිරවීම (asphyxiation) ඇති කළ හැකි මාරාන්තික වායුවකි. එබැවින්, 'Ignore the alarm' යනු අතිශය භයානක ක්‍රියාවකි. 'Awaiting further order' යන්නෙන් කාලය නාස්ති වන අතර, 'Get into the control room' යන්නෙන් ආරක්ෂාව සහතික නොවේ. නිවැරදිම පියවර වන්නේ වහාම එම ප්‍රදේශයෙන් ඉවත් වී (Get out of the engine room as soon as possible) ආරක්ෂිත ස්ථානයකට යාමයි. මෙය ජීවිත ආරක්ෂාව සඳහා අනුගමනය කළ යුතු අනිවාර්ය Safety protocol එකකි.",
         "tags": [
             {
                 "sub_category": "Firefighting",
@@ -555,7 +555,7 @@
         ],
         "correct_answer": "Helmet, safety shoes, gloves and protecting cloths.",
         "images": [],
-        "explanation": "",
+        "explanation": "Mooring operation යනු නැවක් නැංගුරම් ලෑමේදී හෝ තොටුපළකට සම්බන්ධ කිරීමේදී සිදුකරන ඉතා අවදානම් සහගත කාර්යයකි. මෙහිදී කඹ (mooring lines) කැඩී යාම හෝ අනපේක්ෂිත ලෙස චලනය වීම නිසා බරපතල අනතුරු සිදුවිය හැක. එබැවින්, සම්පූර්ණ Personal Protective Equipment (PPE) කට්ටලයක් පැළඳීම අනිවාර්ය වේ. 1. 'No particular protection necessary' යන්න වැරදියි, මන්ද මෙය ඉතා අනතුරුදායක කාර්යයක් නිසා. 2. 'Safety shoes and boiler suit' හෝ 'Gloves and helmet' යන පිළිතුරු අසම්පූර්ණයි, මන්ද හිස, පාද, අත් සහ ශරීරය යන සියල්ල ආරක්ෂා කරගත යුතු බැවිනි. නිවැරදි පිළිතුර වන්නේ 'Helmet, safety shoes, gloves and protecting cloths' යන්නයි. මෙහිදී Helmet මගින් හිසට සිදුවන අනතුරු වළක්වයි, Safety shoes මගින් පාද ආරක්ෂා කරයි, Gloves මගින් කඹ හැසිරවීමේදී අත්වලට සිදුවන තුවාල වළක්වයි, සහ Protecting cloths (boiler suit) මගින් සම ආරක්ෂා කරයි.",
         "tags": [
             {
                 "sub_category": "Safety",
@@ -583,7 +583,7 @@
         ],
         "correct_answer": "Raise fire alarm.",
         "images": [],
-        "explanation": "",
+        "explanation": "නැවක ගින්නක් හටගත් විට පළමුවෙන්ම කළ යුතු කාර්යය වන්නේ 'Raise fire alarm' කිරීමයි. මෙයට හේතුව වන්නේ නැවේ සිටින සියලුම කාර්ය මණ්ඩලයට අනතුර පිළිබඳව දැනුම් දී, ඔවුන්ගේ 'Muster stations' වෙත ගොස් 'Emergency response' සඳහා සූදානම් වීමට අවස්ථාව ලබා දීමයි. අනෙක් විකල්පයන් වැරදි වන්නේ ඇයිද යත්: 1. ගින්න නිවීමට උත්සාහ කිරීම (Try to kill the fire) කළ යුත්තේ අනතුරු ඇඟවීමෙන් පසුව සහ තමන්ගේ ආරක්ෂාව තහවුරු කර ගැනීමෙන් පසුව පමණි. 2. 'Call the officer on duty' යනු කාලය නාස්ති වන ක්‍රියාවකි, මන්ද අනතුරු ඇඟවීම මගින් සියලුම නිලධාරීන්ට එකවර දැනුම් දිය හැකි බැවිනි. 3. 'Check all nearby compartments' යනු ගින්න පාලනය කිරීමෙන් පසු හෝ 'Emergency team' එක විසින් කළ යුතු කාර්යයකි. එබැවින්, මුලින්ම අනතුරු ඇඟවීම මගින් නැවේ ආරක්ෂාව සහතික කිරීම අනිවාර්ය වේ.",
         "tags": [
             {
                 "sub_category": "Firefighting",
@@ -631,7 +631,7 @@
         ],
         "correct_answer": "Posted on the notice board onboard.",
         "images": [],
-        "explanation": "",
+        "explanation": "නැවක Mooring operation එකකදී එක් එක් කාර්ය මණ්ඩල සාමාජිකයාගේ වගකීම් සහ ඔවුන් අයත් විය යුතු ස්ථානය (Forward හෝ Aft mooring station) පිළිබඳව නිශ්චිත තොරතුරු 'Muster List' හෝ 'Station Bill' මගින් දක්වා ඇත. මෙය සාමාන්‍යයෙන් නැවේ Notice board එකෙහි ප්‍රදර්ශනය කරනු ලබයි. අනෙක් පිළිතුරු වැරදි වීමට හේතු: 'Deck crew forward and engine crew aft' යන්න සැමවිටම සත්‍ය නොවේ, මන්ද නැවේ අවශ්‍යතාවය අනුව ඕනෑම අයෙකුට ඕනෑම ස්ථානයකට පත් කළ හැකි බැවිනි. 'Being distributed for each port' යන්න ප්‍රායෝගික නොවේ, මන්ද එය ස්ථිර රාජකාරි ලැයිස්තුවක් වන බැවිනි. 'Alarm instruction' යනු හදිසි අවස්ථාවකදී අනුගමනය කළ යුතු ක්‍රියාමාර්ග මිස, දෛනික Mooring රාජකාරි බෙදාහැරීම නොවේ.",
         "tags": [
             {
                 "sub_category": "Emergency",
@@ -655,7 +655,7 @@
         ],
         "correct_answer": "5-10 °C.",
         "images": [],
-        "explanation": "",
+        "explanation": "Refrigeration system එකක evaporator එකේ කාර්යක්ෂමතාව (efficiency) උපරිම කර ගැනීමට නම්, refrigerant එක සම්පූර්ණයෙන්ම වාෂ්ප වී (evaporate) ඉන්පසු සුළු වශයෙන් superheat වීම අත්‍යවශ්‍ය වේ. මෙහිදී 5-10 °C පරාසය පවත්වා ගැනීම මගින් compressor එකට ද්‍රව (liquid) ඇතුළු වීම වළක්වා (liquid slugging prevention) evaporator එකේ සම්පූර්ණ මතුපිට ප්‍රමාණයම සිසිලනය සඳහා භාවිතා කිරීමට ඉඩ ලැබේ. 0-1 °C යනු ඉතා අඩු අගයක් වන අතර, මෙහිදී compressor එකට liquid refrigerant ඇතුළු වීමේ අවදානම වැඩිය. 25-30 °C හෝ 40-50 °C වැනි ඉහළ අගයන් මගින් evaporator එකේ කාර්යක්ෂමතාව අඩු කරන අතර, එයින් අදහස් වන්නේ evaporator එකේ විශාල කොටසක් සිසිලනය සඳහා භාවිතා නොවන බවයි. එබැවින්, නිවැරදි සහ ආරක්ෂිත පරාසය 5-10 °C වේ.",
         "tags": [
             {
                 "sub_category": "HVAC",
@@ -675,7 +675,7 @@
         ],
         "correct_answer": "The smallest diameter piston is the stage two piston.",
         "images": [],
-        "explanation": "",
+        "explanation": "Two-stage compressor එකකදී, වාතය පළමු අදියරේදී (First stage) සම්පීඩනය වූ පසු එහි පරිමාව (Volume) අඩු වේ. දෙවන අදියරේදී (Second stage) එම වාතය තවදුරටත් ඉහළ පීඩනයකට (High pressure) ලක් කිරීමට අවශ්‍ය වන බැවින්, කුඩා පරිමාවක් සහිත වාතය හැසිරවීමට කුඩා විෂ්කම්භයක් සහිත පිස්ටනයක් (Small diameter piston) භාවිතා කරයි. එබැවින්, පළමු අදියරේ පිස්ටනය විශාල වන අතර දෙවන අදියරේ පිස්ටනය කුඩා වේ. අනෙක් විකල්පයන් වැරදි වන්නේ, පිස්ටනයේ ප්‍රමාණය වාතයේ වියළි බව (Dryness) හෝ තෙල් ප්‍රමාණය (Oil content) කෙලින්ම තීරණය නොකරන බැවිනි. එම සාධක තීරණය වන්නේ Intercooler සහ Lubrication පද්ධති මගිනි.",
         "tags": [
             {
                 "sub_category": "Compressor",
@@ -695,7 +695,7 @@
         ],
         "correct_answer": "Difficult to seal plates above this pressure.",
         "images": [],
-        "explanation": "",
+        "explanation": "Plate Heat Exchanger (PHE) එකක ප්‍රධානම අභියෝගය වන්නේ තහඩු (plates) අතර ඇති Gaskets මගින් කාන්දුවක් නොවන පරිදි මුද්‍රා තැබීමයි (sealing). පීඩනය 10 bar ඉක්මවා යන විට, මෙම Gaskets මත ඇතිවන අධික පීඩනය නිසා ඒවායේ හැඩය වෙනස් වීම හෝ විස්ථාපනය වීම සිදුවිය හැක. මෙහිදී 'Pump capacity' යනු පද්ධතියේ සැලසුම මත රඳා පවතින දෙයක් මිස PHE එකක සීමාවක් නොවේ. එසේම, තහඩු වලට 10 bar ට වඩා වැඩි පීඩනයක් දරාගත හැකි වුවද, ප්‍රධාන ගැටලුව වන්නේ එම පීඩනය යටතේ කාන්දුවක් නොමැතිව පද්ධතිය පවත්වා ගැනීමයි. එබැවින්, 'Difficult to seal plates above this pressure' යනු වඩාත්ම නිවැරදි පිළිතුරයි.",
         "tags": [
             {
                 "sub_category": "Exchanger",
@@ -715,7 +715,7 @@
         ],
         "correct_answer": "Yes.",
         "images": [],
-        "explanation": "",
+        "explanation": "Plate heat exchanger එකක කාර්යක්ෂමතාව (efficiency) ඉහළ නැංවීමට Turbulence ඉතා වැදගත් වේ. මෙහිදී ද්‍රවය තහඩු (plates) අතරින් ගමන් කරන විට ඇතිවන කැළඹිලි ස්වභාවය (turbulence) මගින් තාප හුවමාරුව සිදුවන පෘෂ්ඨය (heat transfer surface) මත ඇතිවන boundary layer එක බිඳ දැමීමට උපකාරී වේ. එමගින් තාපය ගලායාමේ වේගය (heat transfer rate) වැඩි වේ. අනෙක් පිළිතුරු වැරදි වන්නේ: 'No' යන්න වැරදියි මන්ද turbulence මගින් තාප හුවමාරුව වැඩි කරන බැවිනි. 'Turbulence is not possible' යන්න වැරදියි මන්ද plate වල ඇති corrugations මගින් විශේෂයෙන්ම turbulence ඇති කිරීමට සැලසුම් කර ඇති බැවිනි. 'Makes no difference' යන්න වැරදියි මන්ද turbulence මගින් heat transfer coefficient එක සැලකිය යුතු ලෙස වැඩි කරන බැවිනි.",
         "tags": [
             {
                 "sub_category": "Exchanger",
@@ -739,7 +739,7 @@
         ],
         "correct_answer": "All of the above.",
         "images": [],
-        "explanation": "",
+        "explanation": "Plate heat exchanger එකක ඇති corrugations මගින් ප්‍රධාන කාර්යයන් තුනක් ඉටු කරයි. පළමුව, ඉතා සිහින් ලෝහ තහඩු (thin metal sheets) වලට අවශ්‍ය ශක්තිය (Stiffening) ලබා දී ඒවායේ හැඩය ආරක්ෂා කරයි. දෙවනුව, ද්‍රව ප්‍රවාහය තුළ කැළඹිලි ස්වභාවයක් (Turbulence) ඇති කිරීම මගින් තාප හුවමාරු කාර්යක්ෂමතාව (Heat transfer efficiency) ඉහළ නංවයි. තෙවනුව, තහඩුවේ මතුපිට වර්ගඵලය (Surface area) වැඩි කිරීම මගින් තාපය හුවමාරු වීමට වැඩි ඉඩක් ලබා දෙයි. මෙම කරුණු තුනම නිවැරදි බැවින් 'All of the above' යනු නිවැරදි පිළිතුරයි.",
         "tags": [
             {
                 "sub_category": "Exchanger",
@@ -759,7 +759,7 @@
         ],
         "correct_answer": "Cooling water spaces insufficiently vented.",
         "images": [],
-        "explanation": "",
+        "explanation": "සිලින්ඩරයක Cooling water outlet උෂ්ණත්වය ඉහළ යාමට ප්‍රධාන හේතුවක් වන්නේ සිලින්ඩර ජැකට්ටුව තුළ වායු බුබුළු (Air pockets) සිරවීමයි. මෙයට හේතුව Cooling water spaces නිසි ලෙස Vented නොවීමයි. වාතය සිරවීම නිසා ජලය ගමන් කරන මාර්ගය අවහිර වී Heat transfer කාර්යක්ෂමතාව අඩු වේ. අනෙක් විකල්ප විශ්ලේෂණය කරමු: 1. Compression pressure අඩු වීම මගින් දහනය දුර්වල වන අතර එයින් උෂ්ණත්වය ඉහළ යාමක් සිදු නොවේ. 2. Engine overload වීමෙන් මුළු එන්ජිමේම උෂ්ණත්වය ඉහළ යන නමුත්, එක් සිලින්ඩරයක පමණක් උෂ්ණත්වය ඉහළ යාමට මෙය ප්‍රධාන හේතුව නොවේ. 3. Fuel booster pump pressure වැඩි වීමෙන් දහනයට බලපෑම් ඇති වුවද, එය සෘජුවම Cooling water උෂ්ණත්වය ඉහළ යාමට හේතුවක් නොවේ. එබැවින්, වාතය සිරවීම (Insufficiently vented) නිවැරදි පිළිතුර වේ.",
         "tags": [
             {
                 "sub_category": "Engine",
@@ -779,7 +779,7 @@
         ],
         "correct_answer": "All of the above.",
         "images": [],
-        "explanation": "",
+        "explanation": "Plate type heat exchangers (PHE) සහ Shell and tube heat exchangers (STHE) සැසඳීමේදී පහත කරුණු සලකා බැලිය යුතුය. 1. 'The capacity can easily be changed': Plate type heat exchangers වලදී අමතර plates එකතු කිරීමෙන් හෝ ඉවත් කිරීමෙන් ඉතා පහසුවෙන් heat transfer capacity වෙනස් කළ හැක. STHE වලදී මෙය කළ නොහැක. 2. 'Physically smaller for the same capacity': Plate type heat exchangers වල ඉහළ heat transfer efficiency එකක් පවතින නිසා, එකම capacity එකක් සඳහා STHE වලට වඩා කුඩා ඉඩ ප්‍රමාණයක් ප්‍රමාණවත් වේ. 3. 'Better sealing between liquids in shell and tube': STHE වලදී shell සහ tube අතර ද්‍රව මිශ්‍ර වීම වැළැක්වීම සඳහා වඩාත් ශක්තිමත් සහ විශ්වාසදායක sealing එකක් පවතී (විශේෂයෙන් high pressure යටතේ). PHE වලදී gaskets මගින් sealing සිදුකරන නිසා, ඉහළ පීඩනයකදී leakage අවදානම වැඩිය. එබැවින්, ඉහත සඳහන් සියලුම කරුණු නිවැරදි බැවින් 'All of the above' යනු නිවැරදි පිළිතුර වේ.",
         "tags": [
             {
                 "sub_category": "Exchanger",
@@ -799,7 +799,7 @@
         ],
         "correct_answer": "Operate valves gradually.",
         "images": [],
-        "explanation": "",
+        "explanation": "Water hammer යනු පයිප්ප පද්ධතියක ද්‍රව ප්‍රවාහයක් හදිසියේ නතර කිරීම හෝ වෙනස් කිරීම නිසා ඇතිවන අධික පීඩන තරංගයකි (pressure surge). මෙය වළක්වා ගැනීමට ප්‍රධානම ක්‍රමය වන්නේ පද්ධතියේ ඇති Valves ක්‍රමයෙන් (gradually) විවෘත කිරීම හෝ වැසීමයි. 'Operate valves quickly' යන්න වැරදියි, මන්ද වේගයෙන් Valve එකක් වැසීමෙන් ද්‍රවයේ ගම්‍යතාවය (momentum) හදිසියේ නතර වී විශාල පීඩනයක් ඇති කරයි. 'Start the system with open valves and empty pipes' යන්න වැරදියි, මන්ද හිස් පයිප්පවලට ද්‍රවය වේගයෙන් ඇතුළු වීමෙන් ද වායු බුබුලු සහ පීඩන වෙනස්කම් නිසා Water hammer ඇති විය හැක. 'Start pump with closed valves' යනු පොම්පය ආරම්භ කිරීමේදී ආරක්ෂිත ක්‍රමයක් වුවද, පද්ධතියේ Water hammer වළක්වා ගැනීමට වඩාත් අදාළ සහ සෘජු පිළිතුර වන්නේ Valve ක්‍රියාත්මක කිරීමේ වේගය පාලනය කිරීමයි.",
         "tags": [
             {
                 "sub_category": "Piping",
@@ -819,7 +819,7 @@
         ],
         "correct_answer": "When the boiler is firing on high rate.",
         "images": [],
-        "explanation": "",
+        "explanation": "Boiler tubes වල තැන්පත් වන soot (මඩ සහ කාබන් තැන්පතු) ඉවත් කිරීම සඳහා soot blowing ක්‍රියාවලිය සිදු කරයි. මෙහිදී boiler එක high firing rate එකක පවතින විට, flue gas වල වේගය (velocity) ඉතා ඉහළ මට්ටමක පවතී. මෙම ඉහළ වායු ප්‍රවාහය මගින් soot blowing මගින් ලිහිල් කරන ලද soot අංශු ඉක්මනින් සහ කාර්යක්ෂමව funnel හරහා පිටතට ගෙන යාමට උපකාරී වේ. අඩු firing rate එකකදී හෝ boiler එක idle පවතින විට වායු ප්‍රවාහය ප්‍රමාණවත් නොවන නිසා soot අංශු නැවත tubes මතම තැන්පත් වීමට ඉඩ ඇත. එබැවින් high firing rate එකකදී මෙය සිදු කිරීම වඩාත් සුදුසු සහ කාර්යක්ෂම වේ.",
         "tags": [
             {
                 "sub_category": "Maintenance",
@@ -839,7 +839,7 @@
         ],
         "correct_answer": "Segregate the oil in a separate tank for continuous purifying.",
         "images": [],
-        "explanation": "",
+        "explanation": "Lubricating oil වල ජල ප්‍රතිශතය 2% ඉක්මවීම බරපතල තත්ත්වයකි. මෙහිදී නිවැරදිම පියවර වන්නේ එම තෙල් (Lubricating oil) පද්ධතියෙන් වෙන් කර වෙනම ටැංකියකට (Separate tank) යොමු කර, Purifier එකක් මගින් අඛණ්ඩව පිරිසිදු කිරීමයි (Continuous purifying). අනෙක් විකල්පයන් වැරදි වීමට හේතු: 1. 'Boil out the water' කිරීම මගින් තෙල්වල ගුණාත්මකභාවය (Oil properties) පිරිහීමට ලක්විය හැකි අතර එය ප්‍රායෝගික නොවේ. 2. 'Continuous purifying the system with the oil pumps running' යනු සාමාන්‍ය ක්‍රියාවලියකි, නමුත් 2% කට වඩා ජලය ඇති විට පද්ධතියේ ඇති තෙල්වලින් කොටසක් වෙන් කර පිරිසිදු කිරීම වඩාත් ආරක්ෂිත සහ කාර්යක්ෂම වේ. 3. 'No danger until 6-8%' යන්න සම්පූර්ණයෙන්ම වැරදියි, මන්ද 2% ඉක්මවූ ජල ප්‍රමාණයක් මගින් Bearing සහ අනෙකුත් කොටස් වලට Corrosion සහ Lubrication අඩුවීම නිසා හානි සිදුවිය හැකි බැවිනි.",
         "tags": [
             {
                 "sub_category": "Lubrication",
@@ -863,7 +863,7 @@
         ],
         "correct_answer": "Provides feedback to the pump control.",
         "images": [],
-        "explanation": "",
+        "explanation": "Hydraulic steering system එකක Hunting gear එකේ ප්‍රධාන කාර්යය වන්නේ Rudder එකේ පිහිටීම (position) සහ Steering wheel එකේ පිහිටීම අතර සම්බන්ධතාවය පවත්වා ගැනීමයි. මෙහිදී Hunting gear එක මගින් Rudder එක නියමිත කෝණයට පැමිණි පසු, Variable delivery pump එකේ swash plate එක නැවත neutral position එකට ගෙන ඒම සඳහා feedback එකක් ලබා දෙයි. අනෙක් පිළිතුරු වැරදි වන්නේ: 'Limits the speed' යනු flow control valves මගින් සිදුවන්නකි. 'Transmit hydraulic pressure' යනු hydraulic oil වල කාර්යයකි. 'Control hydraulic motor swash plate' යනු Hunting gear එකේ ප්‍රතිඵලයක් ලෙස සිදුවන ක්‍රියාවක් මිස එහි මූලික අරමුණ නොවේ. එබැවින්, Hunting gear එකේ මූලික කාර්යය වන්නේ pump control එකට feedback ලබා දීමයි.",
         "tags": []
     },
     {
@@ -878,7 +878,7 @@
         ],
         "correct_answer": "Finned and tube.",
         "images": [],
-        "explanation": "",
+        "explanation": "Refrigeration system evaporators වර්ගීකරණය කිරීමේදී ප්‍රධාන වශයෙන් ඒවායේ ඉදිකිරීම් (construction) සහ තාප හුවමාරු ක්‍රියාවලිය මත පදනම්ව වර්ග දෙකක් හඳුනාගත හැකිය. 'Finned' evaporators මගින් තාප හුවමාරු පෘෂ්ඨ වර්ගඵලය (surface area) වැඩි කර කාර්යක්ෂමතාව ඉහළ නංවන අතර, 'Tube' evaporators මගින් ද්‍රව ශීතකාරක (refrigerant) ගලා යාම සඳහා නල මාර්ග සපයයි. අනෙකුත් විකල්ප වන 'Wet and dry' හෝ 'Dry and flooded' යනු evaporators වල ක්‍රියාකාරී තත්ත්වයන් (operating conditions) විස්තර කිරීමට භාවිතා කළ හැකි වුවද, මූලික ඉදිකිරීම් වර්ගීකරණය ලෙස පිළිගැනෙන්නේ Finned සහ Tube වර්ගයි. එබැවින් නිවැරදි පිළිතුර Finned and tube වේ.",
         "tags": [
             {
                 "sub_category": "HVAC",
@@ -898,7 +898,7 @@
         ],
         "correct_answer": "Any of the alternatives.",
         "images": [],
-        "explanation": "",
+        "explanation": "Refrigeration compressor valve එකක දෝෂයක් ඇති වූ විට පද්ධතියේ ක්‍රියාකාරිත්වයට බලපාන ප්‍රධාන කරුණු තුනක් මෙහි සඳහන් වේ. පළමුව, valve එක හරහා refrigerant කාන්දු වීම නිසා compressor එකේ capacity එක අඩු වේ (Gradual or sudden decrease in capacity). දෙවනුව, පද්ධතියේ නියමිත උෂ්ණත්වය පවත්වා ගැනීමට නොහැකි වීම නිසා compressor එක නිරන්තරයෙන් ක්‍රියාත්මක වීමට සිදු වේ (Continuous running). තෙවනුව, valve එකේ කාර්යක්ෂමතාව අඩු වීම නිසා discharge pressure (head pressure) අඩු වන අතර suction pressure ඉහළ යයි (Low head pressure, high suction pressure). මේ සියල්ලම faulty valve එකක ලක්ෂණ වන බැවින් 'Any of the alternatives' යන්න නිවැරදි පිළිතුර වේ.",
         "tags": [
             {
                 "sub_category": "HVAC",
@@ -918,7 +918,7 @@
         ],
         "correct_answer": "More efficient and take up less space.",
         "images": [],
-        "explanation": "",
+        "explanation": "Plate heat exchangers (PHE) වල ප්‍රධාන වාසිය වන්නේ ඒවායේ ඉහළ තාප හුවමාරු කාර්යක්ෂමතාව (Heat transfer efficiency) සහ සංයුක්ත සැලසුම (Compact design) නිසා ඉඩකඩ අඩුවෙන් වැය වීමයි. අනෙකුත් විකල්ප සලකා බලමු: 'Easier to clean' යන්න සමහර අවස්ථාවලදී සත්‍ය වුවත්, එය ප්‍රධාන වාසිය නොවේ, මන්ද තහඩු ගැලවීම සහ නැවත සවි කිරීම (Gasket maintenance) සංකීර්ණ විය හැක. 'Cheaper to install' යන්න සැමවිටම සත්‍ය නොවේ, මන්ද PHE වල මිල සහ ස්ථාපන පිරිවැය ද්‍රව්‍ය මත රඳා පවතී. 'Requires less maintenance' යන්න වැරදියි, මන්ද Gaskets නිතර පරීක්ෂා කිරීම සහ තහඩු වල ඇතිවන Fouling ඉවත් කිරීම සඳහා නිරන්තර නඩත්තුවක් අවශ්‍ය වේ. එබැවින්, ඉහළ කාර්යක්ෂමතාව සහ ඉඩකඩ ඉතිරි වීම ප්‍රධාන වාසිය ලෙස සැලකේ.",
         "tags": [
             {
                 "sub_category": "Exchanger",
@@ -938,7 +938,7 @@
         ],
         "correct_answer": "0,78 to 0,98.",
         "images": [],
-        "explanation": "",
+        "explanation": "Disc type oil separator (Purifier) එකක ක්‍රියාකාරිත්වය රඳා පවතින්නේ තෙල් සහ ජලය අතර ඇති Density difference මතය. සාමාන්‍යයෙන් Centrifugal separator එකකට 0,78 සිට 0,98 දක්වා Density පරාසයක පවතින ඉන්ධන තෙල් (Fuel oil) හෝ ලිහිසි තෙල් (Lube oil) වලින් ජලය සහ අපද්‍රව්‍ය වෙන් කිරීමේ හැකියාව ඇත. අනෙක් විකල්පයන් (0,84-0,945, 0,87-0,95, 0,845-0,965) ඉතා පටු පරාසයන් වන අතර, ඒවා මගින් Purifier එකක සම්පූර්ණ කාර්යක්ෂමතාවය හෝ හැකියාව නිරූපණය නොවේ. එබැවින් 0,78 සිට 0,98 දක්වා පරාසය නිවැරදි පිළිතුර වේ.",
         "tags": [
             {
                 "sub_category": "Purifier",
@@ -962,7 +962,7 @@
         ],
         "correct_answer": "Steam outlet valve throttled.",
         "images": [],
-        "explanation": "",
+        "explanation": "Steam oil heater එකක උෂ්ණත්වය පාලනය කිරීම සඳහා Steam outlet valve එක throttle කිරීම වඩාත් සුදුසු ක්‍රමය වේ. මෙහිදී Steam inlet valve එක සම්පූර්ණයෙන්ම විවෘතව තබාගෙන, outlet valve එක මගින් condensate ඉවත් වන ප්‍රමාණය පාලනය කිරීමෙන් heater එක තුළ පවතින steam ප්‍රමාණය සහ උෂ්ණත්වය පාලනය කළ හැක. අනෙක් විකල්ප සලකා බැලීමේදී: 1. Steam inlet valve එක throttle කිරීම මගින් heater එක තුළට එන steam ප්‍රමාණය අඩු කළ හැකි වුවත්, එය condensate එකතු වීමට (water logging) හේතු විය හැක. 2. Oil flow එක වැඩි කිරීමෙන් උෂ්ණත්වය අඩු කළ හැකි නමුත් එය නිවැරදි උෂ්ණත්ව පාලන ක්‍රමයක් නොවේ. 3. Steam supply pressure එක අඩු කිරීම මගින් පද්ධතියේ පීඩනය වෙනස් වන අතර එය ප්‍රායෝගිකව උෂ්ණත්වය පාලනය කිරීමට අපහසු ක්‍රමයකි. එබැවින්, condensate level එක පාලනය කිරීම මගින් තාප හුවමාරු පෘෂ්ඨය (heat transfer surface) පාලනය කරන Steam outlet valve throttling ක්‍රමය වඩාත් නිවැරදි වේ.",
         "tags": [
             {
                 "sub_category": "Fuels",
@@ -982,7 +982,7 @@
         ],
         "correct_answer": "Secondary refrigerant.",
         "images": [],
-        "explanation": "",
+        "explanation": "Refrigeration පද්ධතියකදී තාපය හුවමාරු කිරීම සඳහා පමණක් භාවිතා කරන ද්‍රව්‍යය Secondary refrigerant ලෙස හැඳින්වේ. මෙහිදී Primary refrigerant යනු වාෂ්පීකරණය (Evaporation) සහ ඝනීභවනය (Condensation) හරහා තාපය අවශෝෂණය කර පිට කරන ප්‍රධාන ද්‍රව්‍යයයි. අනෙක් විකල්ප වන Vaporizing refrigerant සහ Condensing refrigerant යනු Primary refrigerant එකක විවිධ අවස්ථා විස්තර කරන පද මිස තාපය රැගෙන යන මාධ්‍යයක් පමණක් නොවේ. එබැවින් Secondary refrigerant යනු නිවැරදි පිළිතුරයි. මෙය සාමාන්‍යයෙන් Brine හෝ Glycol වැනි ද්‍රව්‍යයක් විය හැක.",
         "tags": [
             {
                 "sub_category": "HVAC",
@@ -1002,7 +1002,7 @@
         ],
         "correct_answer": "Brine.",
         "images": [],
-        "explanation": "",
+        "explanation": "Marine Fresh Water Generator (Evaporator) එකක ක්‍රියාකාරිත්වයේදී, Sea water තාපය මගින් වාෂ්පීකරණය (Evaporation) කරනු ලබයි. මෙම ක්‍රියාවලියේදී වාෂ්පීකරණය නොවී ඉතිරි වන අධික ලවණ සාන්ද්‍රණයක් සහිත ද්‍රාවණය Brine ලෙස හැඳින්වේ. Evaporator එකේ පතුලේ ඇති collecting point එකේ එකතු වන්නේ මෙම Brine වේ. අනෙක් පිළිතුරු විශ්ලේෂණය කළහොත්: Freshwater යනු වාෂ්පීකරණයෙන් පසු ඝනීභවනය (Condensation) වී ලැබෙන පිරිසිදු ජලයයි. Ejector water යනු vacuum පවත්වා ගැනීමට භාවිතා කරන ජලය වන අතර එය evaporator එකේ පතුලේ එකතු නොවේ. Sea water යනු evaporator එකට ඇතුළු කරන අමුද්‍රව්‍යය වන අතර, එය තාපය ලබා ගැනීමෙන් පසු Brine බවට පත්වේ. එබැවින් නිවැරදි පිළිතුර Brine වේ.",
         "tags": [
             {
                 "sub_category": "HVAC",
@@ -1022,7 +1022,7 @@
         ],
         "correct_answer": "Store the refrigerant.",
         "images": [],
-        "explanation": "",
+        "explanation": "Refrigeration system එකක Receiver එකක ප්‍රධාන කාර්යය වන්නේ Condenser එකෙන් පිටවන ද්‍රව තත්ත්වයේ පවතින Refrigerant එක තාවකාලිකව ගබඩා කර තබා ගැනීමයි (Store the refrigerant). මෙහිදී අනෙකුත් විකල්පයන් වැරදි වීමට හේතු මෙසේය: 1. 'Separate oil from the refrigerant' යනු Oil Separator එකක කාර්යයයි. 2. 'Cool the hot gases' යනු Condenser එකේ කාර්යයයි. 3. 'Condense the refrigerant' යනු ද Condenser එකේ මූලික කාර්යයයි. එබැවින්, පද්ධතියේ Load එක වෙනස් වන විට අවශ්‍ය වන අමතර Refrigerant ප්‍රමාණය ගබඩා කර තබා ගැනීමට Receiver එක භාවිතා කරයි.",
         "tags": [
             {
                 "sub_category": "HVAC",
@@ -1042,7 +1042,7 @@
         ],
         "correct_answer": "Below 7 ppm.",
         "images": [],
-        "explanation": "",
+        "explanation": "නැවක ඇති Fresh Water Generator (Evaporator) මගින් නිපදවන ජලය පානය සඳහා සුදුසු මට්ටමේ පවතින්නට නම් එහි Salinity අගය ඉතා අඩු විය යුතුය. සාමාන්‍යයෙන් ජාත්‍යන්තර ප්‍රමිතීන්ට අනුව සහ නැව්වල භාවිත වන Fresh Water Generator වල ක්‍රියාකාරිත්වය අනුව, පානීය ජලය සඳහා Salinity අගය 7 ppm (parts per million) ට වඩා අඩු විය යුතුය. අනෙකුත් පිළිතුරු වන 20 ppm සහ 50 ppm යනු පානීය ජලය සඳහා ඉතා ඉහළ අගයන් වන අතර, 2 ppm යනු ඉතා පිරිසිදු ජලය සඳහා වන අගයක් වුවද, නැව්වල ප්‍රායෝගිකව පවත්වා ගන්නා සහ නියාමනය කර ඇති සම්මත අගය 7 ppm වේ. එබැවින් 'Below 7 ppm' යනු නිවැරදි පිළිතුරයි.",
         "tags": [
             {
                 "sub_category": "Evaporator",
@@ -1062,7 +1062,7 @@
         ],
         "correct_answer": "The waste heat from the main engine.",
         "images": [],
-        "explanation": "",
+        "explanation": "Fresh water generator එකකදී මුහුදු ජලය (sea water) වාෂ්ප බවට පත් කිරීම සඳහා විශාල තාප ශක්තියක් අවශ්‍ය වේ. මෙහිදී ප්‍රධාන එන්ජිමේ (Main Engine) Jacket Cooling Water මගින් රැගෙන එන Waste heat එක තාප හුවමාරුකාරකයක් (Heat Exchanger) හරහා භාවිතා කරනු ලැබේ. අනෙකුත් විකල්ප වන Ejector pump, Vacuum pump සහ Sea water pump යනු පද්ධතියේ ක්‍රියාකාරිත්වය සඳහා අවශ්‍ය පීඩනය සහ රික්තකය (Vacuum) පවත්වා ගැනීමට උපකාරී වන උපාංග මිස, ජලය වාෂ්ප කිරීමට අවශ්‍ය තාප ශක්තිය ලබා දෙන මූලාශ්‍ර නොවේ. එබැවින් Waste heat from the main engine යනු නිවැරදි පිළිතුරයි.",
         "tags": [
             {
                 "sub_category": "Evaporator",
@@ -1082,7 +1082,7 @@
         ],
         "correct_answer": "Slowing down production by opening the vacuum breaker valve.",
         "images": [],
-        "explanation": "",
+        "explanation": "Fresh Water Generator (FWG) එකක Salinity මට්ටම අඩු කිරීමට නම්, Evaporation ක්‍රියාවලිය වඩාත් පාලනයකින් යුතුව සිදු කළ යුතුය. Vacuum breaker valve එක මගින් Vacuum මට්ටම තරමක් අඩු කළ විට, Evaporator තුළ පීඩනය ඉහළ යන අතර එමගින් වාෂ්පීකරණ වේගය (Evaporation rate) අඩු වේ. මෙසේ නිෂ්පාදන වේගය (Production rate) අඩු කිරීමෙන්, Carry-over හෙවත් ලුණු මිශ්‍ර ජල බිඳිති වාෂ්පය සමඟ ඉහළට යාම අවම වී, අවසාන නිෂ්පාදනයේ Salinity මට්ටම පහළ යයි. අනෙක් විකල්පයන් වැරදි වන්නේ: Throttling sea water feed මගින් Scaling ඇති විය හැකි අතර, Cooling water අඩු කිරීමෙන් Condenser කාර්යක්ෂමතාව අඩු වී Salinity වැඩි විය හැක. එසේම Main engine jacket water සැපයුම අඩු කිරීමෙන් නිෂ්පාදනය නතර වීමට ඉඩ ඇත.",
         "tags": [
             {
                 "sub_category": "Evaporator",
@@ -1102,7 +1102,7 @@
         ],
         "correct_answer": "By the vapour eductor driven by the ejector pump.",
         "images": [],
-        "explanation": "",
+        "explanation": "Fresh Water Generator එකක vacuum එකක් නිර්මාණය කිරීම සඳහා ප්‍රධාන වශයෙන් භාවිතා කරන්නේ Ejector pump එකක් මගින් ක්‍රියාත්මක වන Air Eductor (හෝ Vapour Eductor) එකයි. මෙහිදී Venturi effect එක මගින් වාෂ්පීකරණ කුටීරයේ (evaporator chamber) ඇති වාතය සහ වාෂ්ප පිටතට ඇද ගැනීමෙන් අඩු පීඩනයක් (vacuum) ඇති කරයි. අනෙක් විකල්පයන් සලකා බැලීමේදී: Condensing effect එක මගින් වාෂ්ප ජලය බවට පත් වුවද, එය vacuum එකක් පවත්වා ගැනීමට උපකාරී වන සාධකයක් පමණි, vacuum එක නිර්මාණය කිරීමේ මූලික ක්‍රියාවලිය නොවේ. Brine ඉවත් කිරීම හෝ උෂ්ණත්ව වෙනස්කම් vacuum එකක් ඇති කිරීමට සෘජුවම වගකිව යුතු නොවේ. එබැවින් නිවැරදි පිළිතුර වන්නේ Ejector pump මගින් ක්‍රියාත්මක වන eductor එකයි.",
         "tags": [
             {
                 "sub_category": "Evaporator",
@@ -1122,7 +1122,7 @@
         ],
         "correct_answer": "To drive the air ejector of the evaporator.",
         "images": [],
-        "explanation": "",
+        "explanation": "Marine Evaporator පද්ධතියකදී, Sea water pump එක මගින් ප්‍රධාන වශයෙන් සිදු කරන්නේ Air ejector එක ක්‍රියාත්මක කිරීමට අවශ්‍ය පීඩනය සහ ජල ප්‍රවාහය සැපයීමයි. මෙහිදී Air ejector එක මගින් Evaporator shell එක තුළ ඇති වාතය සහ වාෂ්ප ඉවත් කර Vacuum එකක් පවත්වා ගනී. අනෙක් පිළිතුරු වැරදි වීමට හේතු: 'To cool the evaporator' යනු Condenser එකේ කාර්යයකි. 'To supply water to be evaporated' යනු Feed water pump එකේ කාර්යයකි. 'To supply sea water to the condenser' යනු Cooling water pump එකේ කාර්යයකි. එබැවින්, Air ejector එක ක්‍රියාත්මක කිරීම (To drive the air ejector) යනු මෙම පොම්පයේ නිවැරදි කාර්යය වේ.",
         "tags": [
             {
                 "sub_category": "Pump",
@@ -1146,7 +1146,7 @@
         ],
         "correct_answer": "Overhaul the compressor unit.",
         "images": [],
-        "explanation": "",
+        "explanation": "Air compressor crankcase එකේ ඇති breather valve එක හරහා තෙල් මිශ්‍ර වාතය පිටවීම (blow-by) පෙන්නුම් කරන්නේ Piston rings හෝ Cylinder liner දිරාපත් වී ඇති බවයි. මෙහිදී සිදුවන්නේ ඉහළ පීඩනයක් සහිත වාතය crankcase එකට කාන්දු වීමයි. අනෙක් විකල්පයන් විශ්ලේෂණය කරමු: 1. 'Check the clearance in the bearing' යනු ප්‍රධාන වශයෙන් bearing wear සඳහා කරන පරීක්ෂණයක් මිස blow-by සඳහා කෙලින්ම විසඳුමක් නොවේ. 2. 'Block off the valve' යනු ඉතා භයානක ක්‍රියාවකි, මන්ද crankcase එක තුළ පීඩනය වැඩි වී crankcase explosion එකක් ඇති විය හැක. 3. 'Lower the sump oil level' මගින් තෙල් කාන්දුව තාවකාලිකව අඩු කළ හැකි වුවත්, එය මූලික ගැටලුව වන ring wear හෝ liner wear විසඳන්නේ නැත. එබැවින්, නිවැරදිම ක්‍රියාව වන්නේ compressor එක Overhaul කර දිරාපත් වූ කොටස් ප්‍රතිස්ථාපනය කිරීමයි.",
         "tags": [
             {
                 "sub_category": "Compressor",
@@ -1170,7 +1170,7 @@
         ],
         "correct_answer": "20 miles.",
         "images": [],
-        "explanation": "",
+        "explanation": "නැවක ඇති Fresh Water Generator (FWG) මගින් මුහුදු ජලය ආසවනය කර පානීය ජලය නිපදවීමේදී, වෙරළ තීරයේ සිට අවම වශයෙන් සැතපුම් 20ක් (20 miles) දුරින් එම ක්‍රියාවලිය සිදු කිරීම අනිවාර්ය වේ. මෙයට ප්‍රධාන හේතුව වන්නේ වෙරළාසන්න ජලයේ ඇති අපද්‍රව්‍ය, රසායනික ද්‍රව්‍ය සහ බැක්ටීරියා මගින් ජලයේ ගුණාත්මකභාවය පහළ යාමයි. අනෙකුත් පිළිතුරු වන 5, 12 සහ 30 සැතපුම් යනු නීතිමය වශයෙන් හෝ තාක්ෂණික වශයෙන් මෙම ක්‍රියාවලිය සඳහා නියමිත දුර ප්‍රමාණයන් නොවේ. එබැවින්, ජාත්‍යන්තර නාවික රෙගුලාසි සහ සෞඛ්‍ය ආරක්ෂිත ප්‍රමිතීන්ට අනුව 20 miles යනු නිවැරදි පිළිතුරයි.",
         "tags": [
             {
                 "sub_category": "Legislation",
@@ -1194,7 +1194,7 @@
         ],
         "correct_answer": "Diesel engine charge air compressor.",
         "images": [],
-        "explanation": "",
+        "explanation": "මෙහිදී නිවැරදි පිළිතුර වන්නේ Diesel engine charge air compressor ය. සාමාන්‍යයෙන් නැව්වල භාවිතා වන Starting air compressor, Emergency air compressor සහ Control air compressor යන සියල්ලම Reciprocating type (පිස්ටන් මගින් ක්‍රියාත්මක වන) compressors වේ. නමුත් Diesel engine charge air compressor හෙවත් Turbocharger එකක් යනු Rotary compressor වර්ගයට අයත් උපකරණයකි. මෙහිදී වාතය සම්පීඩනය කරනු ලබන්නේ අධික වේගයෙන් භ්‍රමණය වන Impeller එකක් මගිනි. අනෙක් විකල්ප තුනම Reciprocating පද්ධති වන බැවින් ඒවා වැරදි වේ.",
         "tags": [
             {
                 "sub_category": "Compressor",
@@ -1214,7 +1214,7 @@
         ],
         "correct_answer": "Breadth squared / 12 × draught.",
         "images": [],
-        "explanation": "",
+        "explanation": "නෞකාවක Stability ගණනය කිරීමේදී Metacentric Radius (BM) යනු Transverse Metacentric Radius වේ. මෙහි සූත්‍රය BM = I / V වේ. මෙහි I යනු Moment of Inertia (I = LB^3 / 12) වන අතර V යනු Displacement Volume (V = L × B × d) වේ. මෙම අගයන් ආදේශ කළ විට, BM = (LB^3 / 12) / (L × B × d) ලෙස ලැබේ. මෙහිදී L සහ B හි බලයන් සුළු කිරීමෙන් පසු BM = B^2 / (12 × d) ලෙස ලැබේ. එනම් Breadth squared / 12 × draught වේ. අනෙක් පිළිතුරු වැරදි වන්නේ ඒවා මෙම ගණිතමය සූත්‍රයට අනුකූල නොවන බැවිනි.",
         "tags": [
             {
                 "sub_category": "Stability",
@@ -1234,7 +1234,7 @@
         ],
         "correct_answer": "It is the point where the total thrust of pressure could be considered to act.",
         "images": [],
-        "explanation": "",
+        "explanation": "Hydrostatics වලදී 'Centre of Pressure' යනු ද්‍රවයක ගිලී ඇති පෘෂ්ඨයක් මත ක්‍රියා කරන මුළු බලය (Total Thrust) එකම ලක්ෂ්‍යයකදී ක්‍රියා කරන බවට උපකල්පනය කළ හැකි ලක්ෂ්‍යයයි. පළමු විකල්පය වැරදියි, මන්ද එය ටැංකියක මැද පීඩනය ගැන සඳහන් කරන නිසා. දෙවන විකල්පය වැරදියි, මන්ද 'Centre of Flotation' යනු ජල මට්ටමේ ඇති පෘෂ්ඨයේ ජ්‍යාමිතික කේන්ද්‍රය වන අතර එය පීඩන කේන්ද්‍රයට වඩා වෙනස් සංකල්පයකි. තුන්වන විකල්පය ද වැරදියි, මන්ද එය ව්‍යුහාත්මක ශක්තිය ගැන සඳහන් කරන අතර එය හයිඩ්‍රොස්ටැටික් පීඩන මූලධර්මයට අදාළ නොවේ. එබැවින්, මුළු බලය (Total Thrust) ක්‍රියා කරන ලක්ෂ්‍යය ලෙස අර්ථ දැක්වෙන සිව්වන විකල්පය නිවැරදි වේ.",
         "tags": [
             {
                 "sub_category": "Stability",
@@ -1258,7 +1258,7 @@
         ],
         "correct_answer": "As freeboard increases, the range of stability also increases, and this in turn leads to a greater dynamical stability.",
         "images": [],
-        "explanation": "",
+        "explanation": "Dynamical stability යනු නැවක් heel වන විට එය නැවත කෙළින් වීමට (righting) සිදුකරන කාර්යය (work done) වේ. මෙය GZ curve එක යටතේ ඇති වර්ගඵලය (area under the GZ curve) මගින් මනිනු ලැබේ. Freeboard වැඩි වන විට, නැව විශාල කෝණයකින් heel වන විට පවා deck edge එක ජලයට යට නොවී පවතින නිසා, GZ curve එකේ Range of stability (vanishing angle) වැඩි වේ. එමගින් curve එක යටතේ ඇති මුළු වර්ගඵලය වැඩි වන අතර, ප්‍රතිඵලයක් ලෙස dynamical stability වැඩි වේ. අනෙක් පිළිතුරු වැරදි වන්නේ freeboard සහ stability අතර සෘජු සම්බන්ධයක් ඇති බැවිනි.",
         "tags": [
             {
                 "sub_category": "Stability",
@@ -1282,7 +1282,7 @@
         ],
         "correct_answer": "The relationship between the volume of a compartment and the volume available for water if bilged.",
         "images": [],
-        "explanation": "",
+        "explanation": "නැව් නිර්මාණයේදී සහ Stability ගණනය කිරීම් වලදී Permeability යනු ඉතා වැදගත් සංකල්පයකි. මෙහිදී Permeability යනු යම් Compartment එකක් ජලයෙන් පිරී ගියහොත් (Bilged), එම Compartment එක තුළ පවතින මුළු පරිමාවෙන් (Total volume) ජලය ඇතුළු විය හැකි සැබෑ ඉඩ ප්‍රමාණය (Volume available for water) අතර අනුපාතයයි. උදාහරණයක් ලෙස, යම් කාමරයක යන්ත්‍ර සූත්‍ර හෝ භාණ්ඩ තිබේ නම්, එම ද්‍රව්‍ය විසින් අත්පත් කරගෙන ඇති ඉඩ ප්‍රමාණයට ජලය ඇතුළු විය නොහැක. එබැවින්, එම කාමරයේ Permeability අගය 1 ට වඩා අඩු වේ. අනෙක් පිළිතුරු වැරදි වන්නේ: 'To make a compartment water tight' යනු Watertight integrity පවත්වා ගැනීමයි. 'Non-porus' කිරීම යනු කාන්දුවීම් වැළැක්වීමයි. 'Flooding of the engine room' යනු සිදුවීමක් මිස Permeability හි අර්ථ දැක්වීම නොවේ.",
         "tags": [
             {
                 "sub_category": "Stability",
@@ -1306,7 +1306,7 @@
         ],
         "correct_answer": "By filing the small divided double bottom tanks on the lower side, while jettisoning the deck cargo from the higher side.",
         "images": [],
-        "explanation": "",
+        "explanation": "නැවක Stability ගැටලුවක් ඇති වූ විට, විශේෂයෙන්ම Timber cargo රැගෙන යන විට, නැවේ KG (Height of Center of Gravity above Keel) අඩු කිරීම මගින් GM (Metacentric Height) වැඩි කර Stability වැඩි දියුණු කළ යුතුය. මෙහිදී නිවැරදි පිළිතුර වන්නේ 'By filing the small divided double bottom tanks on the lower side, while jettisoning the deck cargo from the higher side' යන්නයි. මෙහිදී deck cargo ඉවත් කිරීම මගින් ඉහළින් ඇති බර අඩු කර KG අඩු කරයි. අනෙක් විකල්පයන් වැරදි වන්නේ: 1) Wing ballast tanks පිරවීමෙන් KG වැඩි විය හැකි අතර එය Stability තවත් අඩු කරයි. 2) Double bottom tanks හි ඇති Free surface effect නිසා ඒවා සම්පූර්ණයෙන්ම හිස් කිරීම හෝ පිරවීම කළ යුතු වුවත්, ප්‍රශ්නයේ අරමුණ වන්නේ නැවේ සමතුලිතතාවය (List) නිවැරදි කරමින් KG අඩු කිරීමයි. 3) මුළු deck cargo එකම ඉවත් කිරීම ප්‍රායෝගික නොවන අතර, තනිවම එය කිරීමෙන් පමණක් නැවේ List එක නිවැරදි නොවේ.",
         "tags": [
             {
                 "sub_category": "Stability",
@@ -1330,7 +1330,7 @@
         ],
         "correct_answer": "Obtaining statical stability curves at known displacements.",
         "images": [],
-        "explanation": "",
+        "explanation": "Cross curves of stability (KN curves) යනු නෞකාවක විවිධ Displacement අගයන් සඳහා විවිධ Heel angles වලදී Righting lever (GZ) අගයන් ගණනය කිරීමට භාවිතා කරන ප්‍රස්ථාර වේ. මෙහිදී නිවැරදි පිළිතුර වන්නේ 'Obtaining statical stability curves at known displacements' යන්නයි. අනෙක් විකල්පයන් වැරදි වන්නේ: 'Capacity of holds or tanks' යනු Capacity plan මගින් ලබාගන්නා අතර, 'Bonjean curves' යනු නෞකාවේ ගිලී ඇති ප්‍රදේශය (immersed area) සහ Displacement අතර සම්බන්ධය පෙන්වන්නකි. 'Tank calibration' යනු Sounding tables මගින් ලබාගන්නා අතර ඒවා Cross curves වල කාර්යය නොවේ.",
         "tags": [
             {
                 "sub_category": "Stability",
@@ -1350,7 +1350,7 @@
         ],
         "correct_answer": "0,2 m.",
         "images": [],
-        "explanation": "",
+        "explanation": "IMO Intact Stability Code (IS Code) අනුව නැවක Stability පවත්වා ගැනීම සඳහා Righting Lever (GZ) අගය සම්බන්ධයෙන් නිශ්චිත නිර්ණායක පවතී. මෙහිදී උපරිම GZ අගය (Maximum GZ) අවම වශයෙන් 0.2 m විය යුතු බව නීතිගත කර ඇත. අනෙක් අගයන් වන 0.15 m, 0.42 m සහ 0.35 m යන අගයන් මෙම නීතිමය අවම අගයට (Minimum requirement) අනුකූල නොවේ. එබැවින් 0.2 m යනු නිවැරදි පිළිතුරයි.",
         "tags": [
             {
                 "sub_category": "Stability",
@@ -1374,7 +1374,7 @@
         ],
         "correct_answer": "Volume of displacement / (midship area × LBP). Also = cb / cm.",
         "images": [],
-        "explanation": "",
+        "explanation": "Prismatic coefficient (Cp) යනු නෞකාවක ජලයේ ගිලී ඇති පරිමාව (Volume of displacement) සහ එම නෞකාවේ Midship area (Am) හා Length between perpendiculars (LBP) ගුණිතයෙන් ලැබෙන පරිමාව අතර අනුපාතයයි. ගණිතමය වශයෙන් Cp = Volume / (Am × LBP) ලෙස දැක්වේ. තවද, Block coefficient (Cb) සහ Midship coefficient (Cm) අතර සම්බන්ධය අනුව Cp = Cb / Cm ලෙසද මෙය ලිවිය හැකිය. අනෙක් විකල්ප වැරදි වන්නේ: 'cm / cb' යනු වැරදි අනුපාතයකි. 'Block coefficient' යනු වෙනත් සංගුණකයකි (Volume / (L × B × T)). 'Box shaped vessel' සඳහා පමණක් නොව ඕනෑම නෞකාවක හැඩය මැනීමට මෙය භාවිතා කරයි.",
         "tags": [
             {
                 "sub_category": "Stability",
@@ -1398,7 +1398,7 @@
         ],
         "correct_answer": "Mainly for trim calculations for predicting end draughts.",
         "images": [],
-        "explanation": "",
+        "explanation": "Hydrostatic curves (Hydrostatic particulars) යනු නැවක draught එක වෙනස් වන විට එහි පාවෙන ගුණයන් (floating characteristics) වන Displacement, LCB, LCF, TPC, සහ MCTC වැනි දත්ත ලබා ගැනීමට භාවිතා කරන ප්‍රස්ථාර වේ. නැවක Trim calculations සිදු කිරීමේදී සහ end draughts (Forward සහ Aft draughts) ගණනය කිරීමේදී LCF (Longitudinal Centre of Flotation) සහ MCTC (Moment to Change Trim) වැනි දත්ත අත්‍යවශ්‍ය වේ. අනෙක් පිළිතුරු වැරදි වන්නේ: 'Hydrostatic pressures on bulkheads' යනු structural integrity හා සම්බන්ධ එකකි. 'Shape of body sections' යනු Lines plan එකට අදාළ වේ. 'Pressure in oil fuel bunkers' යනු ද්‍රවස්ථිතික පීඩනය (static pressure) පිළිබඳ ගැටලුවක් මිස Hydrostatic curves වල ප්‍රධාන කාර්යය නොවේ.",
         "tags": [
             {
                 "sub_category": "Stability",
@@ -1422,7 +1422,7 @@
         ],
         "correct_answer": "It is the time in seconds between successive wave crests or troughs, passing a fixed point.",
         "images": [],
-        "explanation": "",
+        "explanation": "Wave period යනු සාගර විද්‍යාවේදී තරංගයක ගුණාංග විස්තර කිරීමට භාවිතා කරන මූලික මිනුමකි. මෙහිදී නිශ්චිත ලක්ෂ්‍යයක් පසුකර යන අනුක්‍රමික තරංග ශීර්ෂ (successive wave crests) දෙකක් හෝ නිම්න (troughs) දෙකක් අතර ගතවන කාලය තත්පර වලින් මනිනු ලබයි. අනෙක් පිළිතුරු වැරදි වීමට හේතු: 1. තරංග උස (wave height) සංසන්දනය කිරීම යනු තරංගයක කාලය (period) නොව එහි විශාලත්වයයි. 2. කාලය මැනීමේදී මිනිත්තු (minutes) භාවිතා නොකර තත්පර (seconds) භාවිතා කිරීම සම්මතයයි. 3. ඉහළම තරංග අතර කාල පරතරය යනු තරංග කාලය (wave period) නොවේ, එය තරංග රටාවන්හි වෙනස්වීමකි. එබැවින් පළමු පිළිතුර නිවැරදි වේ.",
         "tags": [
             {
                 "sub_category": "Stability",
@@ -1446,7 +1446,7 @@
         ],
         "correct_answer": "This is a dangerous condition that occurs when the ship’s still water period and the apparent wave period are equal.",
         "images": [],
-        "explanation": "",
+        "explanation": "නැවක ස්ථාවරත්වය (Stability) සම්බන්ධයෙන් Synchronism හෝ Resonance යනු ඉතා භයානක තත්ත්වයකි. නැවක ස්වභාවික දෝලන කාලය (Natural rolling period) සහ මුහුදු රළවල පවතින කාලය (Apparent wave period) සමාන වූ විට, සෑම රළ පහරක්ම නැවේ පෙරළීමට (Rolling) අමතර බලයක් ලබා දෙයි. මෙහිදී නැවේ Rolling angle එක ක්‍රමයෙන් වැඩි වී නැව පෙරළී යාමේ අවදානමක් ඇති වේ. අනෙක් පිළිතුරු වැරදි වන්නේ ඒවා මෙම භෞතික විද්‍යාත්මක සංසිද්ධිය නිවැරදිව විස්තර නොකරන බැවිනි. Gentle rolling යනු Synchronism වලට ප්‍රතිවිරුද්ධ තත්ත්වයකි. එසේම, මෙය හුදෙක් 'violent rolling' ලෙස හැඳින්වීම පමණක් ප්‍රමාණවත් නොවේ, මන්ද එයට හේතුව වන කාල පරාසයන් දෙකේ සමාන වීම (Period matching) මෙහිදී අත්‍යවශ්‍ය සාධකය වන බැවිනි.",
         "tags": [
             {
                 "sub_category": "Stability",
@@ -1470,7 +1470,7 @@
         ],
         "correct_answer": "It is the ability of a vessel to return to her initial or upright position, after having been forcibly inclined.",
         "images": [],
-        "explanation": "",
+        "explanation": "Statical stability යනු නැවක් බාහිර බලයකින් (forcibly inclined) ඇල වූ විට, නැවතත් එහි මුල් පිහිටීමට (upright position) පැමිණීමට ඇති හැකියාවයි. මෙහිදී Righting lever (GZ) මගින් නැව නැවත කෙලින් කිරීමට උත්සාහ කරයි. අනෙක් පිළිතුරු වැරදි වන්නේ: 1. 'Basic stability information' යනු Stability booklet එකට අදාළ වන අතර එය stability හි අර්ථ දැක්වීමක් නොවේ. 2. 'Relationship between moment and lever' යනු statical stability ගණනය කිරීමේදී භාවිතා වන මූලධර්මයක් මිස එහි අර්ථ දැක්වීම නොවේ. 3. 'Metacentric height' (GM) යනු stability මැනීමට භාවිතා කරන දුරක් මිස statical stability යන්නට සමාන පදයක් නොවේ.",
         "tags": [
             {
                 "sub_category": "Stability",
@@ -1488,9 +1488,9 @@
             "L by Gm by KG.",
             "L by 1/2B by draft by freeboard."
         ],
-        "correct_answer": "B by Km by d by cb.",
+        "correct_answer": "L by B by d by cb.",
         "images": [],
-        "explanation": "",
+        "explanation": "නැවක Displacement Volume (V) ගණනය කිරීම සඳහා මූලික සූත්‍රය වන්නේ නැවේ Length (L), Breadth (B), සහ Draft (d) යන මානයන්හි ගුණිතය, Block Coefficient (Cb) සමඟ ගුණ කිරීමයි. එනම් V = L × B × d × Cb වේ. අනෙකුත් විකල්පයන් වැරදි වන්නේ ඒවා Stability ගණනය කිරීම් සඳහා භාවිතා කරන Km, Gm, KG වැනි පරාමිතීන් අඩංගු වන බැවිනි. උදාහරණයක් ලෙස, L × B × d යනු නැවක සෘජුකෝණාස්‍රාකාර කොටසක පරිමාව වන අතර, Cb මගින් නැවේ හැඩය අනුව සැබෑ ජල පරිමාව නිවැරදි කරයි.",
         "tags": [
             {
                 "sub_category": "Stability",
@@ -1514,7 +1514,7 @@
         ],
         "correct_answer": "It is the stability of the vessel in her initial position, and is expressed by metacentric height.",
         "images": [],
-        "explanation": "",
+        "explanation": "Initial stability යනු නැවක් කුඩා කෝණයකින් (small angle of heel) ඇල වූ විට නැවත කෙලින් වීමට ඇති හැකියාවයි. මෙය මැනීම සඳහා Metacentric Height (GM) භාවිතා කරයි. අනෙක් පිළිතුරු වැරදි වීමට හේතු: 1. නැවක් මුලින්ම භාර දීම (delivery) යනු නැවක ආයු කාලයේ ආරම්භය මිස stability පිළිබඳ තාක්ෂණික අර්ථ දැක්වීමක් නොවේ. 2. Loading අවසානයේ හෝ ආරම්භයේදී ඇති GM යනු එම අවස්ථාවට අදාළ අගයන් පමණක් වන අතර, 'Initial stability' යන්නෙන් අදහස් කරන්නේ ඕනෑම අවස්ථාවක නැවක පවතින කුඩා කෝණික ස්ථායීතාවයයි.",
         "tags": [
             {
                 "sub_category": "Stability",
@@ -1534,7 +1534,7 @@
         ],
         "correct_answer": "Couple is formed when two equal parallel forces in a vertical position are acting in opposite direction.",
         "images": [],
-        "explanation": "",
+        "explanation": "භෞතික විද්‍යාවේදී 'Couple' එකක් යනු එකම විශාලත්වයකින් යුත් (equal magnitude), සමාන්තර (parallel) සහ ප්‍රතිවිරුද්ධ දිශාවලට ක්‍රියා කරන (opposite direction) බල දෙකකි. මෙම බල දෙක එකිනෙක මත පතිත නොවන (non-collinear) නිසා ඒවා වස්තුවක් මත 'Turning effect' එකක් හෝ 'Moment' එකක් ඇති කරයි. පළමු පිළිතුර නිවැරදි වන්නේ එය මෙම නිර්වචනයට සම්පූර්ණයෙන්ම ගැලපෙන බැවිනි. අනෙක් පිළිතුරු වැරදි වන්නේ: දෙවන සහ තෙවන පිළිතුරු වල බල අසමාන (unequal) බව සඳහන් වීම නිසා ඒවා Couple එකක් නිර්මාණය නොකරයි. සිව්වන පිළිතුර හුදෙක් යාන්ත්‍රික ව්‍යුහයක් ගැන සඳහන් කරන අතර එය භෞතික විද්‍යාත්මක බල සංකල්පයක් නොවේ.",
         "tags": [
             {
                 "sub_category": "Stability",
@@ -1558,7 +1558,7 @@
         ],
         "correct_answer": "It is done to find out the GM of a vessel, place the ship’s lightweight and VCG and LCG at this lightweight.",
         "images": [],
-        "explanation": "",
+        "explanation": "Inclining experiment එකක් සිදු කරන්නේ නැවක Lightweight, Vertical Center of Gravity (VCG) සහ Longitudinal Center of Gravity (LCG) නිවැරදිව තීරණය කිරීමටයි. මෙහිදී නැවක Metacentric Height (GM) මැනීම මගින් නැවේ මූලික ස්ථාවරත්වය (Initial Stability) තහවුරු කරගනී. අනෙක් පිළිතුරු වැරදි වන්නේ: 1. Derrick හෝ Crane වල Safe Working Load පරීක්ෂා කිරීම Load Test එකක් මිස Inclining experiment එකක් නොවේ. 2. මෙම පරීක්ෂණය අත්‍යවශ්‍ය වන්නේ නැවේ ස්ථාවරත්වය පිළිබඳ නිවැරදි දත්ත ලබා ගැනීමට වෙනත් ක්‍රම නොමැති බැවිනි. 3. උපරිම Heel angle එක තීරණය කිරීම සඳහා වෙනත් Stability criteria භාවිතා කරන අතර එය Inclining experiment එකේ ප්‍රධාන අරමුණ නොවේ.",
         "tags": [
             {
                 "sub_category": "Stability",
@@ -1582,7 +1582,7 @@
         ],
         "correct_answer": "This expresses KM as moving away off the centreline at large angles of heel.",
         "images": [],
-        "explanation": "",
+        "explanation": "නැවක Stability පිළිබඳ අධ්‍යයනය කිරීමේදී, කුඩා Heel angles (සාමාන්‍යයෙන් 10° ට අඩු) සඳහා Metacenter (M) ලක්ෂ්‍යය Centreline මත පිහිටන බව අපි දනිමු. කෙසේ වෙතත්, නැවක් විශාල Heel angles වලට ලක් වූ විට, නැවේ ජ්‍යාමිතිය වෙනස් වීම නිසා Metacenter ලක්ෂ්‍යය Centreline එකෙන් ඉවතට ගමන් කරයි. මෙම සංසිද්ධිය Pro-metacenter ලෙස හැඳින්වේ. අනෙක් පිළිතුරු වැරදි වන්නේ: 1) GM යනු Metacentric height මිස Pro-metacenter නොවේ. 2) නැවක ස්ථාවරත්වය (Stability) යනු සාමාන්‍ය පදයක් මිස Pro-metacenter යන්නෙහි අර්ථය නොවේ. 3) Pro-metacenter යනු GM හි අගය වැඩි වීමක් හෝ ප්‍රමාණවත් බවක් දැක්වීමට භාවිතා කරන පදයක් නොවේ. එබැවින්, විශාල Heel angles වලදී KM ලක්ෂ්‍යය Centreline එකෙන් ඉවතට ගමන් කිරීම විස්තර කරන පළමු පිළිතුර නිවැරදි වේ.",
         "tags": [
             {
                 "sub_category": "Stability",
@@ -1602,7 +1602,7 @@
         ],
         "correct_answer": "GM = w by distance by length of plumbline divided by W by deflection of the plumbline.",
         "images": [],
-        "explanation": "",
+        "explanation": "Inclining experiment එකකදී නැවක Metacentric Height (GM) සොයාගැනීම සඳහා භාවිතා කරන මූලික සූත්‍රය වන්නේ GM = (w * d * L) / (W * a) වේ. මෙහි 'w' යනු චලනය කරන ලද බර (inclining weight), 'd' යනු එම බර චලනය කළ දුර (distance), 'L' යනු plumbline එකේ දිග (length of plumbline), 'W' යනු නැවේ මුළු බර (displacement) සහ 'a' යනු plumbline එකේ අපගමනය (deflection) වේ. අනෙක් විකල්ප වැරදි වන්නේ ඒවායේ සූත්‍රවල අඩංගු විය යුතු අත්‍යවශ්‍ය සාධක (distance හෝ deflection) නිවැරදිව අනුපාතගත කර නොමැති වීමයි. උදාහරණයක් ලෙස, දෙවන විකල්පය වැරදියි මන්ද එය ගණනය කිරීමක් නොවන නිසාය. තුන්වන සහ හතරවන විකල්පවල සූත්‍රවල අඩංගු පරාමිතීන් භෞතික විද්‍යාත්මකව GM සෙවීමට ප්‍රමාණවත් නොවේ.",
         "tags": [
             {
                 "sub_category": "Stability",
@@ -1622,7 +1622,7 @@
         ],
         "correct_answer": "Just before the ship takes the blocks at the stern.",
         "images": [],
-        "explanation": "",
+        "explanation": "Dry docking මෙහෙයුමකදී 'Critical time' ලෙස හඳුන්වන්නේ නැවෙහි stern කොටස (පසුපස) මුල්වරට keel blocks මත ස්පර්ශ වීමට මොහොතකට පෙර පවතින කාලයයි. මෙයට හේතුව වන්නේ, නැවෙහි stern කොටස blocks මත ස්පර්ශ වූ පසු, නැවෙහි Stability (Metacentric height - GM) හදිසියේම අඩුවීමයි. මෙහිදී නැවෙහි 'Virtual loss of GM' සිදුවන අතර, නැවෙහි Trim පාලනය කිරීම ඉතා අපහසු වේ. අනෙක් විකල්පයන් වැරදි වන්නේ: නැව dock එකට ඇතුළු වන විට හෝ ජලය ඉවත් කරන විට පවතින අවදානම, stern කොටස blocks මත ස්පර්ශ වන මොහොතේ පවතින Stability අර්බුදයට වඩා අඩු බැවිනි. එබැවින්, නැවෙහි Stability අඩුවීම නිසා ඇතිවන අනතුරුදායක තත්ත්වය පාලනය කළ යුතු බැවින්, stern කොටස blocks මත ස්පර්ශ වීමට පෙර කාලය වඩාත් තීරණාත්මක වේ.",
         "tags": [
             {
                 "sub_category": "Maintenance",
@@ -1646,7 +1646,7 @@
         ],
         "correct_answer": "The draft is increased by the difference in the heeled draft measured by a straight line in tangent with the keel, and the draft before heeling.",
         "images": [],
-        "explanation": "",
+        "explanation": "නැවක් Heeling හෝ Listing තත්ත්වයකට පත් වූ විට, එහි Draft එක වෙනස් වන ආකාරය මෙසේ තේරුම් ගත හැකිය. නැවක් ඇල වූ විට, එහි Center of Flotation හරහා නැව භ්‍රමණය වේ. මෙහිදී නැවේ Keel එකට ස්පර්ශක රේඛාවක් (tangent line) ලෙස මනිනු ලබන Draft එක, නැව කෙලින් තිබූ (upright) අවස්ථාවේ තිබූ Draft එකට වඩා වැඩි වේ. අනෙක් පිළිතුරු වැරදි වන්නේ: 1. High side සහ Low side draft අතර වෙනස මගින් පමණක් මුළු Draft එකේ වැඩිවීම නිවැරදිව ගණනය කළ නොහැක. 2. නැවක් ඇල වූ විට Displacement එක වෙනස් නොවූවත්, Draft එකේ වෙනසක් සිදුවන බව ජ්‍යාමිතිකව ඔප්පු වී ඇත. 3. High side එක ඉහළ යාම පමණක් Draft එකේ වෙනස තීරණය නොකරයි. එබැවින්, Keel එකට සාපේක්ෂව මනිනු ලබන Draft එකේ වැඩිවීම නිවැරදි පිළිතුර වේ.",
         "tags": [
             {
                 "sub_category": "Stability",
@@ -1670,7 +1670,7 @@
         ],
         "correct_answer": "Maintain sufficient intact stability.",
         "images": [],
-        "explanation": "",
+        "explanation": "නැවක Damaged stability තීරණය වන්නේ එම නැවට හානියක් සිදු වීමට පෙර පවතින Intact stability මතය. SOLAS රෙගුලාසි වලට අනුව, ඕනෑම මගී නැවක් (Passenger ship) සැලසුම් කර ඇත්තේ හානියක් සිදු වූ විට (Critical damage) එය ගිලී යාම වැළැක්වීමට අවශ්‍ය මූලික ස්ථාවරත්වය (Intact stability) පවත්වා ගැනීමටය. අනෙක් විකල්පයන් වන 'Weight redistribution' හෝ 'Water ballast' භාවිතය හදිසි අවස්ථාවකදී ප්‍රායෝගික නොවන අතර, 'Overloading' වැළැක්වීම සාමාන්‍ය මෙහෙයුම් රීතියක් පමණි. එබැවින්, ඕනෑම හදිසි අනතුරකදී නැවක පාවීමේ හැකියාව (Survivability) රඳා පවතින්නේ පූර්වයෙන් පවත්වාගෙන යන ප්‍රමාණවත් Intact stability මතය.",
         "tags": [
             {
                 "sub_category": "Stability",
@@ -1696,7 +1696,7 @@
         ],
         "correct_answer": "Perform test in calm conditions, with slack moorings, with minimum number of personnel and minimise free surface effects of liquids.",
         "images": [],
-        "explanation": "",
+        "explanation": "Inclining experiment එකකදී නිරවද්‍ය ප්‍රතිඵල ලබා ගැනීම සඳහා බාහිර බලපෑම් අවම කර ගැනීම අත්‍යවශ්‍ය වේ. පළමු පිළිතුර නිවැරදි වන්නේ, calm conditions මගින් සුළඟ සහ රළ පහර නිසා ඇතිවන බාධා වළක්වන බැවිනි. Slack moorings භාවිතා කරන්නේ නැවට බාහිරින් බලපෑමක් නොවන පරිදි නිදහසේ පාවීමට ඉඩ දීම සඳහාය. Free surface effects මගින් නැවේ Stability එකට බලපෑම් කරන බැවින්, ද්‍රව ටැංකි හිස් කිරීම හෝ සම්පූර්ණයෙන්ම පිරවීම මගින් එම බලපෑම අවම කළ යුතුය. දෙවන පිළිතුර වැරදියි, මන්ද සුළං සහිත තත්වයන් සහ නිසි සූදානමක් නොමැති වීම මගින් මිනුම්වල දෝෂ ඇති වී වැරදි GM අගයක් ලැබිය හැකි බැවිනි.",
         "tags": [
             {
                 "sub_category": "Stability",
@@ -1720,7 +1720,7 @@
         ],
         "correct_answer": "You should try to alter the wave period by altering course and by reducing speed.",
         "images": [],
-        "explanation": "",
+        "explanation": "Synchronous rolling (Synchronisation) යනු නැවක ස්වාභාවික රෝලින් කාලය (Natural rolling period) සහ මුහුදු රළවල කාලය (Wave period) එකිනෙක සමපාත වීම නිසා නැව ඉතා දරුණු ලෙස පැද්දීමට ලක්වන තත්ත්වයකි. මෙය නැවෙහි ස්ථාවරත්වයට (Stability) ඉතා අහිතකරය. මෙහිදී නැවෙහි ස්වාභාවික රෝලින් කාලය වෙනස් කිරීමට අපහසු බැවින්, නැවට දැනෙන 'Apparent wave period' එක වෙනස් කළ යුතුය. 1. 'You should put your ship’s beam on to the sea and increase speed' යනු වැරදි පිළිතුරකි, මන්ද Beam sea තත්ත්වයකදී රෝලින් තීව්‍ර වන බැවිනි. 2. 'Increase speed to full' කිරීමෙන් රළ පහරේ බලපෑම තවත් වැඩි විය හැක. 3. 'Stop your ship' කිරීමෙන් නැව පාලනය කරගත නොහැකි තත්ත්වයට පත්විය හැක. එබැවින්, නැවේ Course එක වෙනස් කිරීමෙන් සහ Speed එක අඩු කිරීමෙන් නැවට දැනෙන රළ කාලය (Encounter period) වෙනස් කර Synchronisation තත්ත්වය මඟහරවා ගැනීම නිවැරදි ක්‍රමයයි.",
         "tags": [
             {
                 "sub_category": "Stability",
@@ -1744,7 +1744,7 @@
         ],
         "correct_answer": "The vessel will roll violently.",
         "images": [],
-        "explanation": "",
+        "explanation": "Metacentric height (GM) යනු නැවක ස්ථායීතාවය (Stability) තීරණය කරන ප්‍රධාන සාධකයකි. GM අගය වැඩි වූ විට (Stiff ship), නැවක 'Righting lever' (GZ) අගය වැඩි වන අතර, නැවක් ඇල වූ විට එය නැවත කෙළින් වීමට ඇති බලය ඉතා ප්‍රබල වේ. මෙහි ප්‍රතිඵලයක් ලෙස නැව ඉතා වේගයෙන් සහ තදින් පැද්දේ (Roll violently). අනෙක් විකල්පයන් විශ්ලේෂණය කළහොත්: 'The vessel will roll slowly or be unstable' යනු අඩු GM අගයක් (Tender ship) ඇති විට සිදුවන්නකි. 'Bending moment' යනු නැවක බර බෙදී යාම මත රඳා පවතින කරුණක් මිස GM අගය මත පමණක් රඳා පවතින්නක් නොවේ. 'Tween deck height' යනු නැවේ ව්‍යුහයට අදාළ මිනුමක් මිස ස්ථායීතාවයට සෘජුව බලපාන සාධකයක් නොවේ. එබැවින් නිවැරදි පිළිතුර 'The vessel will roll violently' වේ.",
         "tags": [
             {
                 "sub_category": "Stability",
@@ -1764,7 +1764,7 @@
         ],
         "correct_answer": "15 minutes.",
         "images": [],
-        "explanation": "",
+        "explanation": "SOLAS (Safety of Life at Sea) රෙගුලාසිවලට අනුව, මගී නෞකාවක (Passenger ship) සිදුවන අසමමිතික ජල ගැලීම් (Unsymmetrical flooding) නිසා ඇතිවන අධික Heel angle එකක් නිවැරදි කිරීම සඳහා යොදාගන්නා Cross-flooding arrangements මගින් එම ජල මට්ටම් සමාන කිරීම (Equalization) මිනිත්තු 15ක කාලයක් ඇතුළත සිදු විය යුතුය. මෙය නෞකාවේ Stability පවත්වා ගැනීමට සහ තවදුරටත් අනතුරුදායක තත්ත්වයන් වළක්වා ගැනීමට අත්‍යවශ්‍ය වේ. අනෙක් විකල්පයන් වන 10, 20 හෝ 30 යන කාල සීමාවන් SOLAS රෙගුලාසිවල දක්වා ඇති ප්‍රමිතියට අනුකූල නොවේ. එබැවින් නිවැරදි පිළිතුර මිනිත්තු 15 වේ.",
         "tags": [
             {
                 "sub_category": "Emergency",
@@ -1788,7 +1788,7 @@
         ],
         "correct_answer": "When manoeuvring.",
         "images": [],
-        "explanation": "",
+        "explanation": "නැවක Watertight integrity යනු නැව තුළට ජලය ඇතුළු වීම වැළැක්වීම සඳහා වන අත්‍යවශ්‍ය ආරක්ෂිත පියවරකි. මෙහිදී නිවැරදි පිළිතුර 'When manoeuvring' යන්නයි. මන්ද, නැවක් Manoeuvring කරන විට (උදාහරණයක් ලෙස වරායකට ඇතුළු වන විට හෝ පිටවන විට) අනපේක්ෂිත ගැටීම් හෝ අනතුරු සිදුවීමේ අවදානම වැඩිය. එමනිසා Watertight doors සහ අනෙකුත් openings වසා තැබීම අනිවාර්ය වේ. අනෙක් විකල්පයන් වැරදි වන්නේ: 'In open waters only' යන්න වැරදියි, මන්ද ඕනෑම අවස්ථාවකදී Watertight integrity පවත්වා ගැනීම ආරක්ෂාවට වැදගත් වේ. 'Can be relaxed in inshore waters' සහ 'Can be relaxed during spells of fine weather' යන විකල්පයන් ද වැරදියි, මන්ද කාලගුණය හොඳ වුවත් හෝ වෙරළාසන්නයේ සිටියත්, හදිසි අනතුරක් ඕනෑම මොහොතක සිදුවිය හැකි බැවින් Watertight integrity කිසිවිටෙකත් ලිහිල් නොකළ යුතුය.",
         "tags": [
             {
                 "sub_category": "Safety",
@@ -1812,7 +1812,7 @@
         ],
         "correct_answer": "0,15 m.",
         "images": [],
-        "explanation": "",
+        "explanation": "නැවක ස්ථායීතාවය (Stability) සම්බන්ධයෙන් IMO (International Maritime Organization) විසින් නිකුත් කර ඇති Intact Stability Code අනුව, ඕනෑම අවස්ථාවක නැවක Metacentric Height (GM) අගය අවම වශයෙන් 0,15 m විය යුතුය. මෙය නැවක ආරම්භක ස්ථායීතාවය (Initial Stability) පවත්වා ගැනීමට අත්‍යවශ්‍ය අවම අගයයි. අනෙකුත් පිළිතුරු (0,25 m, 0,35 m, 0,45 m) වැරදි වන්නේ ඒවා නීතිමය වශයෙන් නියම කර ඇති අවම අගයට වඩා වැඩි අගයන් වන බැවිනි. එබැවින්, නාවික ආරක්ෂාව සහ ස්ථායීතා නිර්ණායකයන්ට අනුව නිවැරදි පිළිතුර 0,15 m වේ.",
         "tags": [
             {
                 "sub_category": "Stability",
@@ -1836,7 +1836,7 @@
         ],
         "correct_answer": "Correct method of release of survival craft from launching appliances.",
         "images": [],
-        "explanation": "",
+        "explanation": "SOLAS (Safety of Life at Sea) සම්මුතියේ Regulation 35 අනුව, සෑම නැවකම Training Manual එකක් තිබිය යුතුය. මෙහි ප්‍රධාන අරමුණ වන්නේ ජීවිතාරක්ෂක උපකරණ (Life-saving appliances) නිවැරදිව භාවිතා කරන ආකාරය කාර්ය මණ්ඩලයට පැහැදිලි කිරීමයි. මෙහිදී 'Correct method of release of survival craft from launching appliances' යනු අත්‍යවශ්‍ය කරුණකි, මන්ද හදිසි අවස්ථාවකදී Survival craft එකක් (Lifeboat/Liferaft) දියත් කිරීමේදී එය නිවැරදිව මුදා හැරීම (Release) ජීවිත බේරා ගැනීමට අතිශය වැදගත් වේ. අනෙක් විකල්පයන් වන 'Correct use of oars' හෝ 'Correct donning of fire protective clothing' වැනි දෑ සාමාන්‍ය පුහුණුවීම් වලදී ආවරණය වුවද, SOLAS මගින් Training Manual එකෙහි අනිවාර්යයෙන්ම ඇතුළත් විය යුතු මූලික කරුණක් ලෙස Launching appliances වලින් යාත්‍රාව මුදා හරින ආකාරය විශේෂයෙන් සඳහන් වේ.",
         "tags": [
             {
                 "sub_category": "Legislation",
@@ -1864,7 +1864,7 @@
         ],
         "correct_answer": "It must be constructed of inherently buoyant material.",
         "images": [],
-        "explanation": "",
+        "explanation": "SOLAS (Safety of Life at Sea) රෙගුලාසිවලට අනුව, lifebuoy එකක් සඳහා තිබිය යුතු ප්‍රධාන අවශ්‍යතාවය වන්නේ එය 'inherently buoyant material' (ස්වාභාවිකවම පාවෙන ද්‍රව්‍ය) වලින් සාදා තිබීමයි. අනෙක් විකල්පයන් වැරදි වීමට හේතු: 1. 'Sufficient air' යන්න වැරදියි, මන්ද lifebuoy එකක් වාතය මත රඳා නොපැවතිය යුතුය (එය සිදුරු වුවහොත් ගිලී යා හැක). 2. 'Mass less than 4 kgs' යන්න වැරදියි, මන්ද SOLAS රෙගුලාසිවලට අනුව lifebuoy එකක ස්කන්ධය අවම වශයෙන් 2.5 kg විය යුතු අතර, එය self-activating smoke signal හෝ light එකක් සක්‍රිය කිරීමට ප්‍රමාණවත් බරක් තිබිය යුතුය. 3. 'Mass greater than 2.5 kgs' යන්න තාක්ෂණිකව නිවැරදි ලෙස පෙනුනත්, SOLAS රෙගුලාසිවල නිශ්චිත අවශ්‍යතාවය වන්නේ lifebuoy එකක ස්කන්ධය 2.5 kg ට නොඅඩු විය යුතු බවයි, නමුත් 'inherently buoyant material' යන්න වඩාත් මූලික සහ නිවැරදි SOLAS අවශ්‍යතාවයයි.",
         "tags": [
             {
                 "sub_category": "Legislation",
@@ -1888,7 +1888,7 @@
         ],
         "correct_answer": "It’s the position from which the boat is steered and the safety systems are operated.",
         "images": [],
-        "explanation": "",
+        "explanation": "Enclosed lifeboat එකක Control position එකෙහි ප්‍රධාන කාර්යය වන්නේ යාත්‍රාව පාලනය කිරීමයි (Steering). මෙහිදී යාත්‍රාව පැදවීම (Steering), එන්ජිම පාලනය කිරීම සහ අනෙකුත් Safety systems ක්‍රියාත්මක කිරීම සිදු කෙරේ. අනෙකුත් පිළිතුරු වැරදි වන්නේ: 1. තුවාල වූවන් සඳහා වෙන් වූ ස්ථානයක් (Injured persons area) ලෙස මෙය භාවිත නොවේ. 2. Distress messages යැවීම සඳහා වෙනම Radio equipment හෝ Communication devices තිබුණද, Control position යනු යාත්‍රාව මෙහෙයවන ස්ථානයයි. 3. පුද්ගලයින්ගේ නම් ලියාපදිංචි කිරීම (Record keeping) යනු යාත්‍රාව පාලනය කිරීමේ කාර්යයක් නොවේ. එබැවින් පළමු පිළිතුර නිවැරදි වේ.",
         "tags": [
             {
                 "sub_category": "Safety",
@@ -1912,7 +1912,7 @@
         ],
         "correct_answer": "A unit subordinate to a rescue co-ordinating centre.",
         "images": [],
-        "explanation": "",
+        "explanation": "International Maritime Organization (IMO) සහ IAMSAR Manual එකට අනුව, Rescue Co-ordinating Centre (RCC) එකක් යනු සෙවීම් සහ මුදවාගැනීමේ මෙහෙයුම් (Search and Rescue operations) සම්බන්ධීකරණය කරන ප්‍රධාන මධ්‍යස්ථානයයි. Rescue Sub-Centre (RSC) යනු එම RCC එකේ පාලනය යටතේ ක්‍රියාත්මක වන සහ නිශ්චිත ප්‍රදේශයක මෙහෙයුම් සඳහා සහාය වන ඒකකයකි. පළමු පිළිතුර නිවැරදි වන්නේ එය RSC එකක මූලික අර්ථ දැක්වීම වන 'subordinate unit' යන සංකල්පය පැහැදිලි කරන බැවිනි. අනෙක් පිළිතුරු වැරදි වන්නේ ඒවා RSC එකක කාර්යභාරය හෝ ව්‍යුහය පිළිබඳ වැරදි අර්ථකථන ලබා දෙන නිසාය. විශේෂයෙන්ම, RSC යනු දිය යට (underwater) මෙහෙයුම් සඳහා පමණක් වෙන් වූවක් නොවන අතර, එය ජාත්‍යන්තර මධ්‍යස්ථානයකට යටත් වන ජාතික මධ්‍යස්ථානයක් ද නොවේ.",
         "tags": [
             {
                 "sub_category": "Emergency",
@@ -1932,7 +1932,7 @@
         ],
         "correct_answer": "A unit composed of trained personnel suitability equipped for expeditious search and rescue.",
         "images": [],
-        "explanation": "",
+        "explanation": "IAMSAR Manual (International Aeronautical and Maritime Search and Rescue) අනුව, Rescue Unit (RU) යනු සෙවීම් සහ මුදවාගැනීමේ මෙහෙයුම් (Search and Rescue operations) සඳහා සුදුසුකම් ලත් කාර්ය මණ්ඩලයකින් සහ අවශ්‍ය උපකරණවලින් සමන්විත ඒකකයකි. පළමු පිළිතුර නිවැරදි වන්නේ එය මෙහෙයුමකදී අවශ්‍ය වන 'trained personnel' සහ 'suitably equipped' යන ප්‍රධාන සාධක දෙකම ආවරණය කරන බැවිනි. අනෙක් පිළිතුරු (2, 3, සහ 4) මගින් Rescue Unit එකක තිබිය යුතු සාමාන්‍ය ලක්ෂණ හෝ කාර්යයන් විස්තර කළත්, ඒවා IAMSAR අර්ථ දැක්වීමට අනුව සම්පූර්ණ හෝ නිවැරදි අර්ථ දැක්වීම් නොවේ. උදාහරණයක් ලෙස, 'permanently manned' වීම හෝ 'specializing' වීම පමණක් Rescue Unit එකක් නිර්වචනය කිරීමට ප්‍රමාණවත් නොවේ. එබැවින්, පුහුණු කාර්ය මණ්ඩලයක් සහ සුදුසු උපකරණ තිබීම මෙහි මූලික අවශ්‍යතාවයයි.",
         "tags": [
             {
                 "sub_category": "Emergency",
@@ -1952,7 +1952,7 @@
         ],
         "correct_answer": "2 hours.",
         "images": [],
-        "explanation": "",
+        "explanation": "SOLAS (Safety of Life at Sea) රෙගුලාසි වලට අනුව, Lifebuoys සඳහා භාවිතා කරන Self-igniting lights වල ක්‍රියාකාරීත්වය පිළිබඳව පැහැදිලි ප්‍රමිතීන් පවතී. මෙම ආලෝකයන් හදිසි අවස්ථාවකදී මුහුදේ පාවෙන පුද්ගලයෙකු සොයා ගැනීමට උපකාරී වන අතර, ඒවා අවම වශයෙන් පැය 2ක කාලයක් අඛණ්ඩව දැල්වීමට හෝ නිශ්චිත වේගයකින් Flash වීමට හැකියාව තිබිය යුතුය. අනෙකුත් විකල්පයන් වන 30 minutes, 1 hour, හෝ 90 minutes යනු SOLAS ප්‍රමිතීන්ට අනුව ප්‍රමාණවත් කාලසීමාවන් නොවේ. එබැවින්, නිවැරදි පිළිතුර වන්නේ 2 hours යන්නයි.",
         "tags": [
             {
                 "sub_category": "Safety",
@@ -1976,7 +1976,7 @@
         ],
         "correct_answer": "Correct donning of life jackets.",
         "images": [],
-        "explanation": "",
+        "explanation": "SOLAS (Safety of Life at Sea) රෙගුලාසිවලට අනුව, සෑම නෞකාවකම Training Manual එකක් තිබිය යුතු අතර, එහි ජීවිතාරක්ෂක උපකරණ (Life-saving appliances) භාවිතා කරන ආකාරය පිළිබඳ පැහැදිලි උපදෙස් තිබිය යුතුය. මෙහිදී 'Correct donning of life jackets' යනු අත්‍යවශ්‍යම මූලික පුහුණු අංගයකි. අනෙක් විකල්ප වන oars, sails, communication equipment සහ protective clothing ද වැදගත් වුවත්, SOLAS Chapter III හි Training Manual එකෙහි අන්තර්ගත විය යුතු මූලිකම සහ අනිවාර්ය කරුණ ලෙස 'donning of life jackets' විශේෂයෙන් සඳහන් වේ. අනෙක් විකල්පයන් බොහෝ විට 'Instructions for onboard maintenance' හෝ 'Emergency procedures' යටතේ වෙනම අංශවලින් ආවරණය වේ.",
         "tags": [
             {
                 "sub_category": "Safety",
@@ -1999,7 +1999,7 @@
         ],
         "correct_answer": "Rapid recovery shall be possible with the boat’s full complement of persons and equipment.",
         "images": [],
-        "explanation": "",
+        "explanation": "SOLAS (Safety of Life at Sea) රෙගුලාසිවලට අනුව, Rescue boat එකක් නැවත නැවට ලබා ගැනීමේදී (Recovery) එය සම්පූර්ණ කාර්ය මණ්ඩලය (full complement of persons) සහ උපකරණ සමඟ ඉතා ඉක්මනින් සිදු කළ හැකි විය යුතුය. අනෙක් විකල්පයන් වැරදි වන්නේ: 1) '5 knots' යනු සාමාන්‍යයෙන් Lifeboat සඳහා වන වේගයකි, නමුත් Rescue boat සඳහා SOLAS මගින් නියම කර ඇත්තේ අවම වශයෙන් knots 5ක වේගයකින් වුවද දියත් කිරීමට හැකි විය යුතු බවයි, එබැවින් එම ප්‍රකාශය අසම්පූර්ණයි. 2) Release mechanism එක 'automatic' විය යුතු යැයි SOLAS හි සඳහන් නොවේ; එය 'on-load release' ක්‍රමයක් විය යුතු අතර එය අනුමත (approved) එකක් විය යුතුය. එබැවින් පළමු පිළිතුර නිවැරදි වේ.",
         "tags": [
             {
                 "sub_category": "Legislation",
@@ -2023,7 +2023,7 @@
         ],
         "correct_answer": "Correct launching, boarding and clearing of survival craft and rescue craft.",
         "images": [],
-        "explanation": "",
+        "explanation": "SOLAS (Safety of Life at Sea) සම්මුතියට අනුව, නෞකාවක ඇති Training Manual එකෙහි අනිවාර්යයෙන්ම ඇතුළත් විය යුතු කරුණු අතර Life Saving Appliances (LSA) නිසි ලෙස භාවිතා කිරීමේ ක්‍රමවේදයන් ප්‍රධාන වේ. මෙහිදී 'Correct launching, boarding and clearing of survival craft and rescue craft' යනු හදිසි අවස්ථාවකදී ජීවිතාරක්ෂක යාත්‍රා (Survival craft) සහ මුදාගැනීමේ යාත්‍රා (Rescue craft) ආරක්ෂිතව දියත් කිරීම, ඒවාට ගොඩවීම සහ නෞකාවෙන් ඉවත් වීම සම්බන්ධ මූලික සහ අනිවාර්ය පුහුණු අංගයකි. අනෙක් විකල්ප වන 'revival of casualties' (පළමු ආධාර), 'donning of protective clothing' (ආරක්ෂිත ඇඳුම් ඇඳීම) සහ 'use of oars and sails' යනු පුහුණු අත්පොතේ කොටස් විය හැකි වුවත්, SOLAS රෙගුලාසිවලට අනුව යාත්‍රා දියත් කිරීම සහ ඉන් ඉවත් වීම (launching, boarding and clearing) යනු වඩාත් මූලික සහ අනිවාර්යයෙන්ම ඇතුළත් විය යුතු ක්‍රියා පටිපාටියයි.",
         "tags": [
             {
                 "sub_category": "Safety",
@@ -2047,7 +2047,7 @@
         ],
         "correct_answer": "6.",
         "images": [],
-        "explanation": "",
+        "explanation": "LSA Code (Life-Saving Appliance Code) රෙගුලාසිවලට අනුව, සෑම lifeboat එකකම අවම වශයෙන් 'Rocket parachute flares' 4ක් සහ 'Hand flares' 6ක් තිබිය යුතුය. මෙහිදී 'Hand flares' යනු හදිසි අවස්ථාවකදී නැවක් හෝ බෝට්ටුවක් පිහිටි ස්ථානය හඳුනා ගැනීමට භාවිතා කරන උපකරණයකි. අනෙක් විකල්පයන් වන 2, 4, හෝ 10 යන සංඛ්‍යා LSA Code හි නියමිත ප්‍රමිතියට අනුකූල නොවේ. එබැවින් නිවැරදි පිළිතුර වන්නේ 6 වේ.",
         "tags": [
             {
                 "sub_category": "Safety",
@@ -2071,7 +2071,7 @@
         ],
         "correct_answer": "Turbo alternators.",
         "images": [],
-        "explanation": "",
+        "explanation": "Steamship එකකදී ප්‍රධාන බලශක්ති ප්‍රභවය වන්නේ Boiler මගින් නිපදවන High-pressure steam වේ. මෙම වාෂ්ප ශක්තිය භාවිතයෙන් විදුලිය නිපදවීමට Turbo alternators යොදා ගනී. අනෙක් විකල්ප විශ්ලේෂණය කරමු: 1. The main engine මගින් විදුලිය නිපදවීම සාමාන්‍යයෙන් සිදු නොවේ (Shaft generator තිබුණද එය ප්‍රධාන ක්‍රමය නොවේ). 2. Gas turbines සාමාන්‍යයෙන් Steamship වල ප්‍රධාන විදුලි උත්පාදක ලෙස භාවිතා නොවේ. 3. Diesel engines (Emergency generator ලෙස භාවිතා වුවද) සාමාන්‍යයෙන් Steamship එකක ප්‍රධාන විදුලි සැපයුම සඳහා භාවිතා කරන්නේ Turbo alternators වේ. එබැවින් Turbo alternators යනු නිවැරදි පිළිතුරයි.",
         "tags": [
             {
                 "sub_category": "Electrical",
@@ -2112,7 +2112,7 @@
         ],
         "correct_answer": "A labyrinth seal.",
         "images": [],
-        "explanation": "",
+        "explanation": "Steam turbine එකක shaft එක දිගේ steam leak වීම වැළැක්වීම සඳහා ප්‍රධාන වශයෙන් භාවිතා කරන්නේ Labyrinth seal එකකි. මෙහිදී shaft එක සහ casing එක අතර පරතරය තුළ කුඩා 'fins' හෝ 'teeth' මාලාවක් සකස් කර ඇත. එමගින් steam එක ගමන් කරන මාර්ගය සංකීර්ණ කර pressure drop එකක් ඇති කිරීම මගින් leak වීම අවම කරයි. අනෙක් විකල්පයන් සලකා බලමු: 'High temperature packing' සාමාන්‍යයෙන් භාවිතා කරන්නේ අඩු පීඩනයක් සහිත valve stems වැනි ස්ථානවල මිස high-speed turbine shafts වල නොවේ. 'Inlet nozzle' යනු steam එක turbine blades වෙත යොමු කරන කොටසකි, එය sealing සඳහා භාවිතා නොවේ. 'Blading' යනු turbine එකේ බලය උත්පාදනය කරන කොටස මිස sealing සඳහා නොවේ. එබැවින් නිවැරදි පිළිතුර වන්නේ Labyrinth seal වේ.",
         "tags": [
             {
                 "sub_category": "Turbine",
@@ -2132,7 +2132,7 @@
         ],
         "correct_answer": "Taken from the condenser and fed back to the boiler.",
         "images": [],
-        "explanation": "",
+        "explanation": "Boiler feed water යනු වාෂ්ප චක්‍රයේ (Steam cycle) අත්‍යවශ්‍ය අංගයකි. Steam turbine එක හරහා ගමන් කර ශක්තිය ලබා දුන් පසු, එම වාෂ්පය Condenser එක තුළදී සිසිල් වී නැවත ජලය බවට පත්වේ. මෙම ජලය නැවත Boiler එක වෙත පොම්ප කර වාෂ්ප බවට පත් කිරීම සඳහා යොදා ගනී. අනෙක් විකල්ප වැරදි වන්නේ: 1. Condenser එක තුළ ජලය සිසිල් කිරීම සඳහා යොදා ගන්නේ Cooling water මිස Feed water නොවේ. 2. Steam turbine සිසිල් කිරීම සඳහා Feed water භාවිතා නොවේ. 3. Feed water ඉන්ධන සමඟ මිශ්‍ර කර දහනය කිරීම තාක්ෂණිකව වැරදි සහ අකාර්යක්ෂම ක්‍රියාවකි. එබැවින්, Condenser එකෙන් ලබාගෙන නැවත Boiler එකට යවන ජලය Boiler feed water ලෙස හැඳින්වේ.",
         "tags": [
             {
                 "sub_category": "Water",
@@ -2152,7 +2152,7 @@
         ],
         "correct_answer": "Feed water in HP boilers is normally pumped with a single stage centrifugal pump.",
         "images": [],
-        "explanation": "",
+        "explanation": "මෙම ප්‍රශ්නයට අදාළව වැරදි ප්‍රකාශය වන්නේ 'Feed water in HP boilers is normally pumped with a single stage centrifugal pump' යන්නයි. ඒ මන්දයත්, High Pressure (HP) boilers සඳහා ඉතා ඉහළ Feed water pressure එකක් අවශ්‍ය වේ. Single stage centrifugal pump එකකට මෙතරම් ඉහළ පීඩනයක් ලබා දිය නොහැක. එබැවින් HP boilers සඳහා සාමාන්‍යයෙන් Multi-stage centrifugal pumps හෝ Reciprocating pumps භාවිතා කරනු ලැබේ. අනෙක් කරුණු සලකා බැලීමේදී: 1. Steam, condenser එක තුළදී සිසිල් වී නැවත feed water බවට පත්වීම සත්‍යයකි. 2. Boiler feed water යනු පිරිසිදු කළ Fresh water විය යුතුය. 3. Boiler එක තුළදී Feed water තාපය ලබාගෙන Steam බවට පත්වීම මූලික ක්‍රියාවලියයි. එබැවින් පළමු පිළිතුර පමණක් තාක්ෂණික වශයෙන් වැරදි වේ.",
         "tags": [
             {
                 "sub_category": "Water",
@@ -2172,7 +2172,7 @@
         ],
         "correct_answer": "The axial clearance alarm.",
         "images": [],
-        "explanation": "",
+        "explanation": "Thrust bearing එකක ප්‍රධාන කාර්යය වන්නේ shaft එකේ ඇති axial thrust එක දරා ගැනීමයි. මෙහිදී rotor එකේ පිහිටීම (axial position) ඉතා වැදගත් වේ. 'Axial clearance alarm' (හෝ wear detector) මගින් thrust pad එකේ ගෙවීමක් සිදුවුවහොත් හෝ rotor එකේ පිහිටීම සීමාව ඉක්මවා වෙනස් වුවහොත් එය හඳුනාගෙන අනතුරු ඇඟවීමක් හෝ shut-down එකක් සිදු කරයි. අනෙක් විකල්ප සලකා බලමු: 'Cooling water alarm' යනු සාමාන්‍යයෙන් heat exchanger සඳහා භාවිතා වන්නකි. 'Steam pressure reducing alarm' යනු steam system එකට අදාළ වන අතර 'Low lub oil flow alarm' යනු bearing lubrication system එකට පොදු වූවකි, නමුත් thrust bearing එකටම විශේෂිත වූ සහ එහි ආරක්ෂාව සඳහා අත්‍යවශ්‍යම උපාංගය වන්නේ axial clearance monitoring device එකයි.",
         "tags": [
             {
                 "sub_category": "Turbine",
@@ -2196,7 +2196,7 @@
         ],
         "correct_answer": "Steam is turned back into water.",
         "images": [],
-        "explanation": "",
+        "explanation": "Steam plant එකක Condenser එකෙහි ප්‍රධාන කාර්යය වන්නේ Turbine එකෙන් පිටවන Exhaust steam එක සිසිල් කර නැවත Condensate (ජලය) බවට පත් කිරීමයි. මෙහිදී සිදුවන ක්‍රියාවලිය Phase change (වාෂ්පයේ සිට ද්‍රවයට) වේ. අනෙක් විකල්පයන් සලකා බැලීමේදී: 'Electricity is supplied' යනු Generator එකක කාර්යයකි. 'Water is turned into steam' යනු Boiler එකෙහි සිදුවන ක්‍රියාවලියයි. 'Low pressure steam is produced' යනු Turbine එකෙහි වැඩ කිරීමේදී සිදුවන ප්‍රතිඵලයකි. එබැවින් නිවැරදි පිළිතුර වන්නේ Steam is turned back into water යන්නයි.",
         "tags": [
             {
                 "sub_category": "Boiler",
@@ -2220,7 +2220,7 @@
         ],
         "correct_answer": "Steam from the main steam manifold via manoeuvring stand.",
         "images": [],
-        "explanation": "",
+        "explanation": "නැවක ප්‍රධාන ටර්බයින පද්ධතියේ (Main Turbine System) Astern turbine එක ක්‍රියාත්මක කිරීම සඳහා ඉහළ පීඩනයකින් යුත් වාෂ්ප අවශ්‍ය වේ. නිවැරදි පිළිතුර වන්නේ 'Steam from the main steam manifold via manoeuvring stand' යන්නයි. මන්ද, නැවක් පසුපසට ධාවනය කිරීමේදී (Astern movement) ක්ෂණිකව සහ ප්‍රමාණවත් බලයක් ලබා ගැනීමට ප්‍රධාන බොයිලේරු පීඩනය (Main boiler pressure) සහිත වාෂ්පය manoeuvring stand හරහා කෙලින්ම Astern turbine වෙත යොමු කළ යුතුය. අනෙක් විකල්ප වැරදි වන්නේ: 'Regenerated steam' යනු තාප කාර්යක්ෂමතාව සඳහා භාවිතා වන්නක් මිස Astern turbine සඳහා නොවේ. 'Reduced superheated steam' යනු සාමාන්‍යයෙන් සහායක උපකරණ සඳහා මිස ප්‍රධාන ටර්බයින සඳහා නොවේ. 'Exhaust steam from the HP turbine' යනු LP turbine එක ඉදිරියට (Ahead) කරකැවීමට භාවිතා කරන වාෂ්පය මිස Astern turbine එක සඳහා නොවේ.",
         "tags": [
             {
                 "sub_category": "Turbine",
@@ -2257,7 +2257,7 @@
         ],
         "correct_answer": "Smaller than low pressure turbines.",
         "images": [],
-        "explanation": "",
+        "explanation": "Steam turbine එකකදී, High Pressure (HP) turbine එක හරහා ගමන් කරන විට steam එකේ pressure එක ඉහළ මට්ටමක පවතින නිසා එහි specific volume එක අඩුය. එමනිසා, අවශ්‍ය power එක ලබා ගැනීමට අවශ්‍ය වන blade ප්‍රමාණය සහ turbine casing එකේ ප්‍රමාණය කුඩා වේ. Low Pressure (LP) turbine එකේදී steam එකේ pressure එක අඩු වන විට එහි specific volume එක විශාල ලෙස වැඩි වේ. එම නිසා, එම steam volume එක හැසිරවීමට LP turbine එකේ blades සහ casing එක ප්‍රමාණයෙන් විශාල විය යුතුය. එබැවින් 'Smaller than low pressure turbines' යන්න නිවැරදි වේ. අනෙක් පිළිතුරු වැරදි වන්නේ: 'Larger than low pressure turbines' යනු ඉහත කරුණු අනුව වැරදිය. 'Directly coupled to the propeller shaft' යනු සාමාන්‍යයෙන් සිදු නොවේ, මන්ද turbine එකේ අධික වේගය (high RPM) නිසා reduction gear එකක් භාවිතා කළ යුතුය. 'Powered by feed water' යනු වැරදිය, මන්ද turbine එක ක්‍රියාත්මක වන්නේ steam මගිනි, feed water යනු boiler එකට යවන ජලයයි.",
         "tags": [
             {
                 "sub_category": "Turbine",
@@ -2277,7 +2277,7 @@
         ],
         "correct_answer": "From the HP turbine, the steam then goes to the condenser.",
         "images": [],
-        "explanation": "",
+        "explanation": "Steam turbine පද්ධතියකදී, High Pressure (HP) turbine එකෙන් පිටවන වාෂ්පය (exhaust steam) කෙලින්ම condenser එකට යන්නේ නැත. එය සාමාන්‍යයෙන් Low Pressure (LP) turbine එකට යොමු කරනු ලබන්නේ එහි ඇති ඉතිරි ශක්තියද ලබා ගැනීම සඳහාය. එබැවින් පළමු ප්‍රකාශය වැරදිය. අනෙක් කරුණු සලකා බලමු: 1. HP turbine එකේ භ්‍රමණ වේගය (rotational speed) සාමාන්‍ය diesel engine එකකට වඩා බෙහෙවින් වැඩි වේ, එබැවින් එය නිවැරදිය. 2. Steam flow එකේදී HP turbine එක මුලින්ම පිහිටා ඇති අතර ඉන්පසු LP turbine එකට වාෂ්පය ගමන් කරයි, එබැවින් එය නිවැරදිය. 3. HP turbine එකේදී වාෂ්පයේ පීඩනය වැඩි නිසා එහි ප්‍රමාණය (size) LP turbine එකට වඩා කුඩා වේ, එබැවින් එයද නිවැරදිය.",
         "tags": [
             {
                 "sub_category": "Turbine",
@@ -2297,7 +2297,7 @@
         ],
         "correct_answer": "Loss of vacuum.",
         "images": [],
-        "explanation": "",
+        "explanation": "Air ejector condenser එකක tube leakage එකක් සිදුවූ විට, condenser එක තුළ පවතින vacuum පද්ධතියට වායුගෝලීය වාතය (atmospheric air) ඇතුළු වේ. Air ejector එකේ ප්‍රධාන කාර්යය වන්නේ condenser එක තුළ පවතින non-condensable gases ඉවත් කර vacuum පවත්වා ගැනීමයි. Tube leakage එකක් නිසා විශාල වශයෙන් වාතය ඇතුළු වූ විට, ejector එකට එම වාතය ඉවත් කිරීමට නොහැකි වන අතර, එහි ප්‍රතිඵලයක් ලෙස condenser එකේ vacuum මට්ටම පහත වැටේ (Loss of vacuum). අනෙක් පිළිතුරු වන Faulty steam pressure, Clogged steam strainers, සහ Fouled nozzles යනු සෘජුවම vacuum පද්ධතියේ කාර්යක්ෂමතාවයට බලපාන සාධක නොවන අතර, tube leakage එකක ප්‍රධානම සහ ක්ෂණික ප්‍රතිඵලය වන්නේ vacuum අඩුවීමයි.",
         "tags": [
             {
                 "sub_category": "Boiler",
@@ -2334,7 +2334,7 @@
         ],
         "correct_answer": "Superheated steam.",
         "images": [],
-        "explanation": "",
+        "explanation": "Modern high pressure boilers (Marine Water Tube Boilers) නිර්මාණය කර ඇත්තේ ඉහළ කාර්යක්ෂමතාවයකින් යුතුව Superheated steam නිපදවීම සඳහාය. මෙහිදී Saturated steam, Superheater මගින් තවදුරටත් රත් කරනු ලබන අතර එමගින් steam වල ඇති තෙතමනය ඉවත් කර එහි enthalpy අගය වැඩි කරයි. අනෙක් විකල්ප සලකා බැලීමේදී: Feed water යනු boiler එකට ඇතුළු කරන ජලයයි. Fresh water for drinking යනු Evaporator හෝ Fresh Water Generator මගින් නිපදවන දෙයකි. Saturated steam යනු සාමාන්‍ය boiler එකක මුලින්ම නිපදවෙන වාෂ්පය වුවද, modern high pressure boilers වල ප්‍රධාන අරමුණ වන්නේ ඉහළ උෂ්ණත්වයකින් යුත් Superheated steam ලබා ගැනීමයි.",
         "tags": []
     },
     {
@@ -2349,7 +2349,7 @@
         ],
         "correct_answer": "That has been heated until it is “dry”.",
         "images": [],
-        "explanation": "",
+        "explanation": "Superheated steam යනු Saturated steam එකක් තවදුරටත් රත් කිරීමෙන් එහි ඇති සියලුම තෙතමනය (moisture) ඉවත් කර ලබාගන්නා වාෂ්පයයි. මෙහිදී වාෂ්පයේ උෂ්ණත්වය එම පීඩනයට අදාළ Saturated temperature එකට වඩා වැඩි වේ. අනෙක් පිළිතුරු වැරදි වන්නේ: 1. 'Condensed' යනු වාෂ්ප ද්‍රව බවට පත්වීමයි. 2. 'Mixed with water vapour' යනු Wet steam වල ලක්ෂණයකි. 3. 'Heating accommodation' සඳහා සාමාන්‍යයෙන් භාවිතා කරන්නේ Saturated steam හෝ අඩු පීඩන වාෂ්ප මිස Superheated steam නොවේ, මන්ද Superheated steam වල අධික උෂ්ණත්වය නිසා පද්ධති වලට හානි විය හැකි බැවිනි. එබැවින් 'heated until it is dry' යන්න නිවැරදිම විස්තරය වේ.",
         "tags": [
             {
                 "sub_category": "Boiler",
@@ -2369,7 +2369,7 @@
         ],
         "correct_answer": "From the high pressure turbine to the low pressure turbine.",
         "images": [],
-        "explanation": "",
+        "explanation": "Marine steam turbine පද්ධතියකදී steam එකේ පීඩනය (pressure) සහ උෂ්ණත්වය (temperature) ක්‍රමයෙන් අඩු වෙමින් ශක්තිය නිපදවයි. මුලින්ම Boiler එකෙන් එන අධි පීඩන වාෂ්පය High Pressure (HP) turbine එක හරහා ගමන් කර එහි ශක්තිය ලබා දෙයි. ඉන්පසු එම වාෂ්පය අඩු පීඩනයකින් යුතුව Low Pressure (LP) turbine එක වෙත යවනු ලැබේ. එබැවින්, 'From the high pressure turbine to the low pressure turbine' යනු නිවැරදි පිළිතුරයි. අනෙක් පිළිතුරු වැරදි වන්නේ: 'From the condenser to the low pressure turbine' යන්න වැරදියි, මන්ද condenser එකට යන්නේ LP turbine එකෙන් පිටවන වාෂ්පයයි. 'From the supply valve to the high pressure turbine' යනු ක්‍රියාවලියේ ආරම්භය පමණක් වන අතර සම්පූර්ණ ගමන් මග නොවේ. 'From the low pressure turbine to the high pressure turbine' යනු තාප ගති විද්‍යාවට (thermodynamics) පටහැනි ක්‍රියාවලියකි.",
         "tags": [
             {
                 "sub_category": "Boiler",
@@ -2393,7 +2393,7 @@
         ],
         "correct_answer": "The bearing and gear oil circuit/the governor oil circuit.",
         "images": [],
-        "explanation": "",
+        "explanation": "Steam turbine lubrication පද්ධතියේ ප්‍රධාන වශයෙන් පරිපථ දෙකක් පවතී. පළමුවැන්න Bearing සහ Reduction gear සඳහා ලිහිසි තෙල් සපයන පද්ධතියයි (Bearing and gear oil circuit). දෙවැන්න Turbine හි වේගය පාලනය කරන Governor පද්ධතිය ක්‍රියාත්මක කිරීම සඳහා අධි පීඩන තෙල් සපයන පද්ධතියයි (Governor oil circuit). අනෙකුත් පිළිතුරු වැරදි වන්නේ ඒවා Turbine එකක ඇති ලිහිසි තෙල් පද්ධතියේ සම්පූර්ණ කාර්යභාරය නිරූපණය නොකරන අතර, ඒවා හුදෙක් Bearing වර්ග හෝ ස්ථාන පමණක් සඳහන් කරන බැවිනි. එබැවින් Bearing/Gear සහ Governor ලෙස වෙන් කිරීම තාක්ෂණික වශයෙන් නිවැරදි වේ.",
         "tags": [
             {
                 "sub_category": "Turbine",
@@ -2417,7 +2417,7 @@
         ],
         "correct_answer": "The feed water need not be very pure.",
         "images": [],
-        "explanation": "",
+        "explanation": "Main boiler එකක ක්‍රියාකාරිත්වය සඳහා Feed water ඉතාමත් පිරිසිදු (High purity) විය යුතුය. Boiler එක තුළ ඇතිවන Scale formation, Corrosion සහ Carry-over වැනි ගැටලු වළක්වා ගැනීමට Feed water treatment අත්‍යවශ්‍ය වේ. එබැවින් 'The feed water need not be very pure' යන්න වැරදි ප්‍රකාශයකි. අනෙක් කරුණු සලකා බලමු: 1. Superheated steam pressure 60 bar හෝ ඊට වැඩි අගයක් දක්වා ඉහළ යා හැකි අතර එය නූතන Marine boilers වල සාමාන්‍ය තත්ත්වයකි. 2. Burners ඉහළින් සවිකර පහළට ගිනි දැල්වීම (Top firing) සමහර Boiler designs වල දක්නට ලැබේ. 3. Boiler එකක ආරක්ෂාව සඳහා අවම වශයෙන් Safety valves දෙකක් තිබීම අනිවාර්ය නීතියකි (SOLAS requirements). මේ අනුව පළමු ප්‍රකාශය පමණක් අසත්‍ය වේ.",
         "tags": []
     },
     {
@@ -2432,7 +2432,7 @@
         ],
         "correct_answer": "Supplying electricity on steamships when the main boiler is operating.",
         "images": [],
-        "explanation": "",
+        "explanation": "Turbo alternators යනු වාෂ්ප බලයෙන් (Steam power) ක්‍රියාත්මක වන විදුලි උත්පාදක යන්ත්‍ර වේ. මේවා ක්‍රියාත්මක වීමට නම් ප්‍රධාන බොයිලේරුව (Main boiler) මගින් නිපදවන අධි පීඩන වාෂ්ප අවශ්‍ය වේ. එබැවින්, ප්‍රධාන බොයිලේරුව ක්‍රියාත්මක වන විට පමණක් මේවාට විදුලිය සැපයිය හැකිය. අනෙක් විකල්පයන් වැරදි වන්නේ: 1) Diesel engines මගින් ක්‍රියාත්මක වන්නේ Diesel alternators මිස Turbo alternators නොවේ. 2) ප්‍රධාන බොයිලේරුව අක්‍රිය වූ විට (Shut down) වාෂ්ප නොමැති නිසා Turbo alternators ක්‍රියා කළ නොහැක. එවැනි අවස්ථාවකදී සාමාන්‍යයෙන් Emergency generator හෝ Diesel alternator භාවිතා කරයි. 3) Motorships වල ප්‍රධාන වශයෙන් භාවිතා කරන්නේ Diesel alternators හෝ Shaft alternators වන අතර, Turbo alternators ප්‍රධාන වශයෙන් Steamships සඳහා පමණක් සීමා වේ.",
         "tags": [
             {
                 "sub_category": "Electrical",
@@ -2473,7 +2473,7 @@
         ],
         "correct_answer": "Make the tug fast on port shoulder to pull.",
         "images": [],
-        "explanation": "",
+        "explanation": "නැවක් පටු ඇළ මාර්ගයකදී (narrow canal) වරාය පැත්තට (port side) හැරවීමට නම්, නැවේ දුන්න (bow) වරාය පැත්තට ඇදීම වඩාත් කාර්යක්ෂම වේ. මෙහිදී tug එක port shoulder එකට සම්බන්ධ කර ඇදීමෙන් (pulling) නැවේ bow එක පහසුවෙන් වරාය දෙසට හැරවිය හැක. අනෙක් විකල්ප විශ්ලේෂණය කරමු: 1. starboard shoulder එකට push කිරීමෙන් නැව දකුණට හැරවීමට උත්සාහ කරයි, එය වැරදියි. 2. aft (පසුපස) කොටසට tug එක සම්බන්ධ කිරීමෙන් නැවේ bow එක හැරවීමට අවශ්‍ය බලය (leverage) නොලැබේ. 3. centre bow fairlead එකට සම්බන්ධ කිරීමෙන් නැව ඉදිරියට ඇදීමක් මිස හැරවීමේ බලයක් (turning moment) ප්‍රමාණවත් ලෙස නොලැබේ. එබැවින්, port shoulder එකට tug එක සම්බන්ධ කර ඇදීම (pulling) මගින් නැවේ engine එකේ සහාය ඇතිව ඉතා නිවැරදිව හැරීම සිදු කළ හැක.",
         "tags": [
             {
                 "sub_category": "Navigation",
@@ -2497,7 +2497,7 @@
         ],
         "correct_answer": "Fast FWD and AFT in centre lead to pull the vessel out from the jetty and make it in position for voyage.",
         "images": [],
-        "explanation": "",
+        "explanation": "නැවක් ජැටියකින් (jetty) ඉවත් කිරීමේදී (unmooring) Tug boats දෙකක් භාවිතා කරන්නේ නම්, නැව ආරක්ෂිතව සහ පාලනයකින් යුතුව ජැටියෙන් ඉවතට ඇද ගැනීමට (pulling) සහ නැව ගමන් මාර්ගයට (voyage position) සකසා ගැනීමට නිවැරදිම ක්‍රමය වන්නේ නැවේ ඉදිරිපස (Forward) සහ පසුපස (Aft) යන ස්ථාන දෙකෙහිම Centre lead හරහා Tug boats සම්බන්ධ කිරීමයි. අනෙක් විකල්පයන් වැරදි වන්නේ ඒවා මගින් නැව ජැටියෙන් ඉවත් කිරීමේදී අවශ්‍ය වන සමබරතාවය (balance) සහ පාලනය ලබා නොදෙන බැවිනි. උදාහරණයක් ලෙස, පසුපසට පමණක් Tug එකක් සම්බන්ධ කිරීමෙන් නැවේ ඉදිරිපස කොටස ජැටියේ ගැටීමට ඉඩ ඇති අතර, අනෙක් විකල්පයන් අසම්පූර්ණ හෝ තාක්ෂණික වශයෙන් වැරදි උපදෙස් වේ.",
         "tags": [
             {
                 "sub_category": "Navigation",
@@ -2555,7 +2555,7 @@
         ],
         "correct_answer": "Check the position only.",
         "images": [],
-        "explanation": "",
+        "explanation": "නැවක් නැංගුරම් දැමීමේදී (anchoring) Pilot onboard සිටියද, Bridge මත සිටින Duty Officer ගේ ප්‍රධානතම වගකීම වන්නේ නෞකාවේ පිහිටීම (vessel's position) නිරන්තරයෙන් නිරීක්ෂණය කිරීමයි. මෙහිදී අනෙකුත් පිළිතුරු වැරදි වීමට හේතු: 1. 'Follow the master’s order' හෝ 'Follow pilots order' යන්න වැදගත් වුවද, Duty Officer ගේ මූලික වෘත්තීය වගකීම වන්නේ නෞකාවේ ආරක්ෂාව තහවුරු කිරීම සඳහා නිරන්තරයෙන් Position Monitoring කිරීමයි. 2. 'No duty when pilot is onboard' යන්න සම්පූර්ණයෙන්ම වැරදියි, මන්ද Pilot යනු උපදේශකයෙකු පමණක් වන අතර නෞකාවේ ආරක්ෂාව පිළිබඳ අවසාන වගකීම සැමවිටම Master සහ Bridge Team එක සතු වේ. එබැවින්, නෞකාව නිවැරදි ස්ථානයේ නැංගුරම් ලන බව තහවුරු කර ගැනීමට Position Check කිරීම අත්‍යවශ්‍ය වේ.",
         "tags": [
             {
                 "sub_category": "Navigation",
@@ -2579,7 +2579,7 @@
         ],
         "correct_answer": "The vessel’s bow is pushed away from the nearest bank.",
         "images": [],
-        "explanation": "",
+        "explanation": "Bank effect යනු පටු ජල මාර්ගයකදී (narrow channel) යාත්‍රාවක් ඉවුරකට ආසන්නව ගමන් කරන විට ඇතිවන සංසිද්ධියකි. මෙහිදී සිදුවන්නේ යාත්‍රාවේ bow එක සහ ඉවුර අතර පවතින ජල පීඩනය (water pressure) වෙනස් වීමයි. යාත්‍රාවේ bow එක ඉවුරට ආසන්න වන විට, bow එක සහ ඉවුර අතර ජලය සිරවීම නිසා ඉහළ පීඩනයක් (high pressure) ඇතිවේ. මෙම පීඩනය නිසා bow එක ඉවුරෙන් ඉවතට තල්ලු වේ (bow cushion effect). ඒ අතරම, stern එක ඉවුර දෙසට ඇදගැනීමක් (stern suction) සිදුවේ. එබැවින්, bow එක ඉවුරෙන් ඉවතට තල්ලු වීම නිවැරදි පිළිතුර වේ. අනෙක් විකල්ප වැරදි වන්නේ ඒවා මගින් යාත්‍රාවේ සමස්ත චලිතය හෝ stern එකේ බලපෑම පමණක් වැරදි ලෙස විස්තර කර ඇති බැවිනි.",
         "tags": [
             {
                 "sub_category": "Navigation",
@@ -2602,7 +2602,7 @@
         ],
         "correct_answer": "Pushing, made fast in the vessel.",
         "images": [],
-        "explanation": "",
+        "explanation": "පටු ඇළ මාර්ගයක (narrow canal) නැවක් හැරවීමේදී සුළඟේ බලපෑම (wind effect) ඉතා වැදගත් වේ. මෙහිදී 'moderate/strong' සුළඟක් පවතින විට, නැව පාලනය කිරීම සඳහා tugs දෙකම 'Pushing' කිරීම වඩාත් සුදුසු වේ. 1. 'Pushing, made fast in the vessel' යනු නිවැරදි පිළිතුරයි. මෙහිදී tugs දෙකම නැවට තදින් බැඳ (made fast) තල්ලු කිරීම මගින් නැවේ චලනයන් වඩාත් නිවැරදිව පාලනය කළ හැක. 2. 'One tug pushing, one tug pulling' යනු වැරදි පිළිතුරකි. මෙවැනි අවස්ථාවක බලය අසමතුලිත විය හැකි අතර, සුළඟ නිසා නැව පාලනයෙන් ගිලිහී යාමට ඉඩ ඇත. 3. 'Pulling, made fast in the vessel' යනු වැරදි පිළිතුරකි. පටු ඇළ මාර්ගයකදී pulling කිරීම මගින් නැවේ හැරවුම් අරය (turning radius) පාලනය කිරීම අපහසු විය හැකි අතර, සුළඟේ බලපෑම නිසා නැව ඇළේ ඉවුරේ ගැටීමට ඉඩ ඇත. එබැවින්, උපරිම පාලනයක් ලබා ගැනීමට tugs දෙකම 'Pushing' කිරීම වඩාත් ආරක්ෂිත වේ.",
         "tags": [
             {
                 "sub_category": "Navigation",
@@ -2643,7 +2643,7 @@
         ],
         "correct_answer": "The vessel becomes sluggish in responding to the rudder.",
         "images": [],
-        "explanation": "",
+        "explanation": "Shallow water effect හෙවත් 'Squat effect' සහ 'Bank effect' වැනි සංසිද්ධීන් නිසා නෞකාවක් නොගැඹුරු ජලයේ ගමන් කරන විට, නෞකාව යටින් ගලා යන ජල ප්‍රවාහය (water flow) සීමා වේ. මෙහිදී නෞකාවේ Hull එක සහ මුහුදු පතුල අතර පීඩන වෙනස්කම් (pressure distribution) ඇතිවීම නිසා නෞකාවේ Steering response එක දුර්වල වේ. එනම්, Rudder එක මගින් ලබාදෙන විධානයන්ට නෞකාව ඉතා මන්දගාමීව (sluggish) ප්‍රතිචාර දක්වයි. අනෙක් පිළිතුරු වැරදි වන්නේ, නෞකාව ඉක්මනින් ප්‍රතිචාර දැක්වීම (responds quickly) යනු ගැඹුරු ජලයේදී සිදුවන සාමාන්‍ය තත්ත්වයකි. එමෙන්ම, නෞකාව වමට හෝ දකුණට හැරවීමේ ප්‍රවණතාවය (turning tendency) යනු Propeller effect හෝ Bank effect වැනි වෙනත් සාධක මත රඳා පවතින අතර, Shallow water effect හි ප්‍රධානතම ලක්ෂණය වන්නේ නෞකාවේ පාලනය (maneuverability) අපහසු වීම සහ Rudder response එක අඩුවීමයි.",
         "tags": [
             {
                 "sub_category": "Navigation",
@@ -2684,7 +2684,7 @@
         ],
         "correct_answer": "Quadrupled.",
         "images": [],
-        "explanation": "",
+        "explanation": "නැවක් මත ක්‍රියා කරන සුළං බලය (Wind force) ගණනය කරනු ලබන්නේ F = 0.5 * ρ * A * V² * Cd යන සූත්‍රය ඇසුරෙනි. මෙහිදී සුළං බලය (Force) සුළඟේ වේගයේ වර්ගයට (Square of the wind speed - V²) සමානුපාතික වේ. මුලින් සුළඟේ වේගය 30 knots වූ අතර එය 60 knots දක්වා දෙගුණයක් (2 times) වී ඇත. වේගය දෙගුණ වූ විට, බලය 2² = 4 ගුණයකින් වැඩි වේ. එබැවින්, වැරදි පිළිතුරු ලෙස දක්වා ඇති 'Doubled', 'Tripled' හෝ 'Quintupled' යන්නන් භෞතික විද්‍යාත්මකව වැරදිය. නිවැරදි පිළිතුර වන්නේ බලය හතර ගුණයකින් (Quadrupled) වැඩි වීමයි.",
         "tags": [
             {
                 "sub_category": "Navigation",
@@ -2702,13 +2702,13 @@
         "question": "What is the reason for the effect we call squat?",
         "answers": [
             "Increased velocity and decreased water pressure around the ship’s hull.",
-            "Decreased velocity and increased water pressure around the ship’s hull.",
+            "Decreased velocity and decreased water pressure around the ship’s hull.",
             "Increased effect of gravity due to closeness of the sea bed.",
             "The bow and stern wave make the ship sink lower in the water."
         ],
         "correct_answer": "Increased velocity and decreased water pressure around the ship’s hull.",
         "images": [],
-        "explanation": "",
+        "explanation": "Squat යනු නැවක් නොගැඹුරු ජලයේ (shallow water) ගමන් කරන විට ඇතිවන සංසිද්ධියකි. Bernoulli's principle අනුව, නැවක hull එක සහ මුහුදු පතුල අතර පවතින පටු ඉඩ හරහා ජලය ගමන් කරන විට එහි velocity එක වැඩි වේ. මෙසේ velocity එක වැඩි වන විට එම ප්‍රදේශයේ water pressure එක අඩු වේ. මෙම අඩු පීඩනය (low pressure) නිසා නැව පහළට ඇදීමක් සිදුවේ, මෙය squat effect ලෙස හැඳින්වේ. අනෙක් පිළිතුරු වැරදි වන්නේ: 1) Decreased velocity යනු Bernoulli's principle එකට පටහැනි වීමයි. 2) Gravity බලපෑම මෙහිදී වෙනස් නොවේ. 3) Bow සහ stern wave යනු wave making resistance හා සම්බන්ධ වන අතර squat සඳහා ප්‍රධාන හේතුව වන්නේ hull එක යට ඇති pressure වෙනස් වීමයි.",
         "tags": [
             {
                 "sub_category": "Navigation",
@@ -2765,7 +2765,7 @@
         ],
         "correct_answer": "Use the winch. Forerunner and wire stopper to pick up the slack and stop the wire. One man operating each. Make the forerunner fast on the bit, releasing the eye of wire and the stopper, lower the wire easy by forerunner.",
         "images": [],
-        "explanation": "",
+        "explanation": "Towing wire එකක් වැනි අධික බරක් සහිත උපකරණයක් සමඟ වැඩ කිරීමේදී ආරක්ෂාව (Safety) ප්‍රධාන වේ. දෙවන පිළිතුරේ සඳහන් පරිදි 'cutting the forerunner' කිරීම ඉතා අනතුරුදායක වන අතර එයින් පාලනයකින් තොරව wire එක මුදා හැරීමක් සිදුවේ. තුන්වන පිළිතුරේ සඳහන් පරිදි 'manpower' පමණක් භාවිතා කිරීම ප්‍රමාණවත් නොවන අතර එය කාර්ය මණ්ඩලයට තුවාල සිදු විය හැකි අවදානම් සහගත ක්‍රියාවකි. නිවැරදි ක්‍රමය වන්නේ winch එක සහ stopper භාවිතා කර wire එකේ ආතතිය (tension) පාලනය කරමින්, forerunner එක මගින් එය ආරක්ෂිතව bit එකට මාරු කර, පසුව පාලනය සහිතව (controlled manner) මුදා හැරීමයි. මෙහිදී එක් එක් පුද්ගලයාට නිශ්චිත කාර්යයක් පැවරීම මගින් අනතුරු අවම කර ගත හැක.",
         "tags": [
             {
                 "sub_category": "Deck",
@@ -2789,7 +2789,7 @@
         ],
         "correct_answer": "Decrease the speed as much as practicable.",
         "images": [],
-        "explanation": "",
+        "explanation": "Squat effect යනු shallow water වලදී නැවක් ගමන් කරන විට ඇතිවන සංසිද්ධියකි. මෙහිදී නැවේ bow සහ stern ප්‍රදේශවල pressure වෙනස් වීම නිසා නැව පතුලට ඇදීමක් (sinkage) සහ trim වෙනස් වීමක් සිදු වේ. Squat effect එකේ ප්‍රමාණය නැවේ speed එකේ වර්ගයට (square of the speed) සමානුපාතික වේ. එනම්, speed එක වැඩි වන විට squat effect එක ඉතා වේගයෙන් වැඩි වේ. එබැවින්, squat effect එක අවම කර ගැනීමට ඇති හොඳම ක්‍රමය වන්නේ නැවේ speed එක හැකි තරම් අඩු කිරීමයි. අනෙක් විකල්පයන් වැරදි වන්නේ: 'Maintain your course and speed' මගින් squat එක අඩු නොවේ. 'Do a zig-zag manoeuvre' යනු හදිසි අවස්ථාවකදී හැර සාමාන්‍යයෙන් squat අඩු කිරීමට භාවිතා කරන ක්‍රමයක් නොවේ. 'Increase speed' කිරීමෙන් squat effect එක තවත් වැඩි වන අතර එය grounding වීමට හේතු විය හැක.",
         "tags": [
             {
                 "sub_category": "Navigation",
@@ -2813,7 +2813,7 @@
         ],
         "correct_answer": "Vegetable/fish oil.",
         "images": [],
-        "explanation": "",
+        "explanation": "මුහුදු රළවල බලපෑම අවම කිරීම සඳහා (Wave damping) සාම්ප්‍රදායිකව භාවිතා කරනු ලබන්නේ Vegetable oil හෝ Fish oil වේ. මෙහිදී සිදුවන්නේ තෙල් මගින් ජල පෘෂ්ඨය මත තුනී පටලයක් (Surface film) නිර්මාණය කර, සුළඟ මගින් රළ ඇතිවීම (Wave formation) වළක්වාලීමයි. අනෙකුත් විකල්ප වන Fuel oil හෝ Crude oil භාවිතය පරිසර දූෂණයට (Marine pollution) හේතු වන අතර, ඒවා ජලයේ මතුපිට පෘෂ්ඨික ආතතිය (Surface tension) වෙනස් කිරීමේදී Vegetable oil තරම් කාර්යක්ෂම නොවන අතරම නීතිමය වශයෙන් තහනම් වේ. Foam යනු රළ මර්දනයට යොදාගන්නා ද්‍රව්‍යයක් නොවේ. එබැවින් Vegetable/fish oil යනු නිවැරදි පිළිතුරයි.",
         "tags": [
             {
                 "sub_category": "Deck",

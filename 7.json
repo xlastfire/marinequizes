@@ -1120,7 +1120,7 @@
         ],
         "correct_answer": "0,7-1,5 mm.",
         "images": [],
-        "explanation": "",
+        "explanation": "LNG carriers වල භාවිතා වන Membrane containment systems (උදාහරණ ලෙස Gaztransport & Technigaz - GTT පද්ධති) වල Primary barrier එක ඉතා සිහින් ලෝහ තහඩුවකින් (සාමාන්‍යයෙන් Invar හෝ Stainless steel) සමන්විත වේ. මෙහි ප්‍රධාන අරමුණ වන්නේ Cargo containment සඳහා අවශ්‍ය නම්‍යශීලී බව (flexibility) ලබා දීමයි. 0,2-0,5 mm යනු ඉතා සිහින් අගයක් වන අතර එය පීඩනයට ඔරොත්තු දීමට ප්‍රමාණවත් නොවේ. 1,5 mm ට වැඩි අගයන් (1,5-2,0 mm හෝ 2,0-2,5 mm) Membrane පද්ධතියක අවශ්‍ය වන Thermal contraction සහ expansion වලට ඔරොත්තු දීමේ හැකියාව අඩු කරයි, මන්ද ඒවා ඉතා ඝනකම වැඩි නිසාය. එබැවින්, 0,7-1,5 mm පරාසය මෙම පද්ධතිවල Structural integrity සහ Thermal stress කළමනාකරණය සඳහා කර්මාන්තයේ සම්මත අගය ලෙස පිළිගැනේ.",
         "tags": [
             {
                 "sub_category": "Shipboarding",
@@ -1144,7 +1144,7 @@
         ],
         "correct_answer": "That the vessel is operating astern propulsion.",
         "images": [],
-        "explanation": "",
+        "explanation": "COLREGs (International Regulations for Preventing Collisions at Sea) රෙගුලාසි වලට අනුව, නෞකාවක් 'operating astern propulsion' හෙවත් පසුපසට ගමන් කිරීමේදී (propulsion astern) ශබ්ද සංඥාවක් ලෙස කෙටි පිඹීම් තුනක් (three short blasts) නිකුත් කරයි. අනෙක් විකල්පයන් වැරදි වන්නේ: 'altering course to starboard' සඳහා එක් කෙටි පිඹීමක් (one short blast) භාවිතා කරන අතර, 'starting engine' හෝ 'picking up pilot' සඳහා COLREGs වල නිශ්චිත ශබ්ද සංඥාවක් අර්ථ දක්වා නොමැති බැවිනි. එබැවින්, නෞකාවක් තමන් පසුපසට ගමන් කරන බව අවට සිටින අනෙකුත් නෞකා වෙත දැනුම් දීමට මෙම සංඥාව භාවිතා කරයි.",
         "tags": [
             {
                 "sub_category": "Navigation",
@@ -1164,7 +1164,7 @@
         ],
         "correct_answer": "Light winds and fair weather, sometimes fog.",
         "images": [],
-        "explanation": "",
+        "explanation": "Anticyclone හෙවත් High Pressure කලාපයක කේන්ද්‍රය ආශ්‍රිතව වායු පීඩනය ඉතා ඉහළ මට්ටමක පවතින අතර, එහිදී වාතය පහළට ගමන් කිරීම (subsidence) සිදුවේ. මෙහිදී සුළඟේ වේගය ඉතා අඩු (Light winds) මට්ටමක පවතින අතර අහස පැහැදිලිව පවතී (Fair weather). කෙසේ වෙතත්, රාත්‍රී කාලයේදී පෘථිවි පෘෂ්ඨය ඉක්මනින් සිසිල් වීම නිසා වාතයේ ඇති තෙතමනය ඝනීභවනය වී Fog (මීදුම) ඇති විය හැක. අනෙක් විකල්පයන් වන Strong winds සහ Heavy rain යනු සාමාන්‍යයෙන් Low Pressure (Cyclone) පද්ධතිවල ලක්ෂණ වන බැවින් ඒවා වැරදි වේ.",
         "tags": [
             {
                 "sub_category": "Science",
@@ -1184,7 +1184,7 @@
         ],
         "correct_answer": "Net Pressure Suction Head.",
         "images": [],
-        "explanation": "",
+        "explanation": "NPSH යනු Net Positive Suction Head යන්නයි. කෙසේ වෙතත්, ලබා දී ඇති විකල්ප අතරින් වඩාත්ම නිවැරදි අර්ථ දැක්වීම ලෙස Net Pressure Suction Head යන්න තෝරාගත යුතුය. පොම්පයක ක්‍රියාකාරිත්වයේදී Cavitation වළක්වා ගැනීම සඳහා මෙම අගය ඉතා වැදගත් වේ. අනෙක් විකල්ප වන Nominal Pressure Suction Head, Natural Pumping Standard Height සහ Necessary Pumping Suction Hazard යන ඒවා තාක්ෂණික වශයෙන් වැරදි අර්ථ දැක්වීම් වේ. NPSH මගින් මනිනු ලබන්නේ පොම්පයේ Suction පැත්තේ පවතින පීඩනය, ද්‍රවයේ Vapor pressure ට වඩා කොපමණ ප්‍රමාණයකින් වැඩිද යන්නයි.",
         "tags": [
             {
                 "sub_category": "Pump",
@@ -1208,7 +1208,7 @@
         ],
         "correct_answer": "To determine whether the ship is seaworthy.",
         "images": [],
-        "explanation": "",
+        "explanation": "නැවක සිදුකරන unscheduled inspections හෙවත් හදිසි පරීක්ෂාවන්හි ප්‍රධාන අරමුණ වන්නේ එම නෞකාව මුහුදු ගමන් සඳහා සුදුසු තත්ත්වයක (seaworthy) පවතින්නේද යන්න තහවුරු කර ගැනීමයි. අනෙක් විකල්පයන් සලකා බලන විට: 1. 'To issue a certificate of seaworthiness' යනු සාමාන්‍යයෙන් නියමිත පරීක්ෂාවන් (scheduled surveys) අවසානයේ සිදුකරන්නකි. 2. 'To issue a trading permit' යනු පරිපාලනමය කටයුත්තකි. 3. 'Manning regulations' පරීක්ෂා කිරීම පරීක්ෂාවක කොටසක් විය හැකි වුවද, සමස්ත පරීක්ෂාවේ මූලික අරමුණ වන්නේ නෞකාවේ ආරක්ෂිත බව (seaworthiness) තහවුරු කිරීමයි. එබැවින්, නෞකාවක ආරක්ෂාව සහ නීතිමය අනුකූලතාවය පවත්වා ගැනීම සඳහා මෙම පරීක්ෂාවන් අත්‍යවශ්‍ය වේ.",
         "tags": [
             {
                 "sub_category": "Legislation",
@@ -1230,7 +1230,7 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2023/03/cargo_tank.jpg"
         ],
-        "explanation": "",
+        "explanation": "SOLAS (Safety of Life at Sea) රෙගුලාසිවලට අනුව, Inert Gas System එකක් මගින් නිකුත් කරන Inert Gas වල අඩංගු විය හැකි උපරිම Oxygen ප්‍රමාණය 5% by volume ලෙස නියම කර ඇත. මෙයට හේතුව වන්නේ ටැංකිය තුළ ඇති වායු මිශ්‍රණය Flammability සීමාවෙන් පිටත තබා ගැනීමයි. 12% හෝ 8% යනු ඉතා ඉහළ අගයන් වන අතර එමගින් ගිනි ගැනීමේ අවදානම (Fire risk) පාලනය කළ නොහැක. 2% යනු සාමාන්‍යයෙන් පද්ධතියේ ක්‍රියාකාරීත්වයේදී පවත්වා ගන්නා ඉතා ආරක්ෂිත අගයක් වුවද, නීතිමය වශයෙන් උපරිම සීමාව ලෙස පිළිගැනෙන්නේ 5% වේ. එබැවින්, නිවැරදි පිළිතුර 5% by volume වේ.",
         "tags": []
     },
     {
@@ -1245,7 +1245,7 @@
         ],
         "correct_answer": "First aspect confirm death. Notify company, and next-of-kin, and if on board to be advised and comforted as may be required. Arrange to have body moved to freezer area. Notify local agents and British Consul when abroad. Entry to be made in Record of Births and Deaths.",
         "images": [],
-        "explanation": "",
+        "explanation": "නැවක මගියෙකු මියගිය විට Master විසින් අනුගමනය කළ යුතු නීතිමය සහ පරිපාලනමය ක්‍රියාමාර්ග ඉතා පැහැදිලි විය යුතුය. පළමුව, මරණය තහවුරු කර ගැනීම (Confirm death) අත්‍යවශ්‍ය වේ. ඉන්පසු සමාගම (Company) සහ මියගිය අයගේ ඥාතීන් (Next-of-kin) දැනුවත් කිරීම, මෘත දේහය ශීතකරණ පහසුකම් සහිත ස්ථානයක (Freezer area) තැන්පත් කිරීම, සහ විදේශයකදී නම් දේශීය නියෝජිතයා (Local agent) සහ British Consul දැනුවත් කිරීම අනිවාර්ය වේ. අවසාන වශයෙන්, නිල ලේඛනගත කිරීම (Record of Births and Deaths) සිදු කළ යුතුය. අනෙක් පිළිතුරු වල අසම්පූර්ණ තොරතුරු හෝ වැරදි ක්‍රියා පටිපාටි අඩංගු වේ. උදාහරණයක් ලෙස, මෘත දේහය වහාම medi-vac කිරීම සැමවිටම කළ නොහැකි අතර, නිසි නීතිමය වාර්තා තැබීම (Official Log Book entries) මෙහිදී ප්‍රධාන වේ. පළමු පිළිතුර මගින් මෙම සියලුම පියවර නිවැරදි අනුපිළිවෙලින් සහ නීතිමය අවශ්‍යතාවයන්ට අනුකූලව දක්වා ඇත.",
         "tags": [
             {
                 "sub_category": "Legislation",
@@ -1271,7 +1271,7 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2023/03/suez.jpg"
         ],
-        "explanation": "",
+        "explanation": "Suez Canal යනු මුහුදු මට්ටමේ පවතින (sea-level canal) ඇළ මාර්ගයක් වන අතර එහි Locks නොමැත. එබැවින් Locks සම්බන්ධ විකල්පය වැරදිය. ඕනෑම විශාල නෞකාවකට අසීමිතව ගමන් කළ නොහැකි අතර, නෞකාවේ Beam (පළල) සහ Draft (ගැඹුර) සම්බන්ධයෙන් Suez Canal Authority (SCA) විසින් නියම කර ඇති සීමාවන් පවතී. 'Master's discretion' මත පමණක් ගමන් කළ නොහැකි අතර, නෞකාවේ ප්‍රමාණය අනුව නියමිත සීමාවන් තුළ තිබීම අනිවාර්ය වේ. එබැවින් පළමු පිළිතුර නිවැරදි වේ.",
         "tags": []
     },
     {
@@ -1286,7 +1286,7 @@
         ],
         "correct_answer": "Start with suction valve throttled in to minimise risk of drawing liquid refrigerant into the compressor.",
         "images": [],
-        "explanation": "",
+        "explanation": "Refrigeration compressor එකක් දිගු කාලයක් නතර කර තිබූ විට, compressor එකේ crankcase එක තුළ Liquid refrigerant එක තැන්පත් වී තිබිය හැක. Compressor එක එකවරම පූර්ණ වේගයෙන් ක්‍රියාත්මක කළහොත්, මෙම Liquid refrigerant එක සිලින්ඩරය තුළට ඇදී ගොස් 'Liquid slugging' නම් තත්ත්වය ඇති විය හැක. මෙය compressor එකේ valves සහ piston වලට බරපතල හානි සිදු කරයි. එබැවින්, suction valve එක 'throttled in' (අඩක් වැසීම) කිරීමෙන් compressor එකට ඇතුළු වන refrigerant ප්‍රමාණය පාලනය කර, Liquid slugging අවදානම අවම කර ගත හැක. අනෙක් පිළිතුරු වැරදි වන්නේ: 'Start and stop repeatedly' කිරීම මගින් motor එකට හානි විය හැකි අතර, 'all valves fully opened' කිරීමෙන් Liquid slugging වීමේ අවදානම වැඩිය. 'Discharge valve throttled in' කිරීම මගින් compressor එකේ discharge pressure එක අනවශ්‍ය ලෙස ඉහළ ගොස් compressor එකට හානි විය හැක.",
         "tags": [
             {
                 "sub_category": "HVAC",
@@ -1312,7 +1312,7 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2023/03/plot.jpg"
         ],
-        "explanation": "",
+        "explanation": "ජාත්‍යන්තර සංඥා ක්‍රමවේදයන්ට (International Maritime Signal Code) අනුව, අන්තරායකර තත්ත්වයන් හෝ හදිසි අවස්ථා (Distress situations) සඳහා රතු පැහැය (Red colour) භාවිතා කරයි. මෙහිදී 'Red flare' එකක් මගින් ගොඩබෑමේ ස්ථානයක් අතිශය අන්තරායකර (Highly dangerous) බව සංඥා කරයි. අනෙක් වර්ණ වන Yellow, Orange හෝ Blue යනු සාමාන්‍යයෙන් අන්තරායකර තත්ත්වයන් සඳහා භාවිතා නොවන අතර, Orange වර්ණය බොහෝ විට දුම් සංඥා (Smoke signals) සඳහා පමණක් සීමා වේ. එබැවින්, නිවැරදි පිළිතුර Red වේ.",
         "tags": []
     },
     {
@@ -1327,7 +1327,7 @@
         ],
         "correct_answer": "Every 3 months.",
         "images": [],
-        "explanation": "",
+        "explanation": "SOLAS (Safety of Life at Sea) රෙගුලාසිවලට අනුව, Rescue boats ජලයට බාගත කිරීම (launching) සහ ඒවායේ කාර්ය මණ්ඩලය සමඟ ජලය මත හැසිරවීම (manoeuvring) අවම වශයෙන් මාස 3කට වරක් සිදු කළ යුතුය. 'Every week' සහ 'Every 2 weeks' යන පිළිතුරු වැරදියි, මන්ද සතිපතා සිදු කරන්නේ Rescue boat එකේ තත්ත්වය පරීක්ෂා කිරීම (inspection) පමණි. 'Every 6 months' යනු නියමිත කාලසීමාවට වඩා වැඩි කාලයක් වන බැවින් එයද වැරදියි. එබැවින්, SOLAS Chapter III, Regulation 17.3 අනුව නිවැරදි පිළිතුර වන්නේ 'Every 3 months' වේ.",
         "tags": [
             {
                 "sub_category": "Safety",
@@ -1355,7 +1355,7 @@
         ],
         "correct_answer": "He should step on the comers of the cartons.",
         "images": [],
-        "explanation": "",
+        "explanation": "කාඩ්බෝඩ් පෙට්ටි (Cartons) වල ව්‍යුහය සැලකූ විට, එහි ශක්තිමත්ම කොටස වන්නේ කොන් (Corners) හතරයි. පෙට්ටියක මැද කොටස (Middle) සාපේක්ෂව දුර්වල වන අතර, එහි බරක් යෙදූ විට පහසුවෙන් ඇතුළට නැමී හෝ කැඩී යා හැක. එබැවින්, භාණ්ඩවලට හානි වීම අවම කර ගැනීමට නම්, බර දරාගත හැකි ශක්තිමත්ම ස්ථානය වන කොන් මත පය තැබීම වඩාත් සුදුසු වේ. අනෙක් විකල්පයන් වැරදි වන්නේ: 1. මැද කොටස මත පය තැබීමෙන් පෙට්ටිය පහසුවෙන් විනාශ විය හැක. 2. පෙට්ටියේ සෑම කොටසක්ම එකම ශක්තියකින් යුක්ත නොවේ. 3. දාර (Edges) මත පය තැබීමෙන් ද පෙට්ටියට හානි විය හැකි අතර, කොන් තරම් ස්ථාවර නොවේ.",
         "tags": [
             {
                 "sub_category": "Cargo",
@@ -1375,7 +1375,7 @@
         ],
         "correct_answer": "To prevent the steam and water in the boiler from discharging out by the feed line, if a feed line fracture or a joint in the line blows.",
         "images": [],
-        "explanation": "",
+        "explanation": "Feed check valve එකක ප්‍රධාන කොටස් දෙකක් ඇත: Screw down valve සහ Non-return valve. Non-return valve එකේ ප්‍රධාන කාර්යය වන්නේ Boiler එක තුළ පවතින අධික පීඩනය සහිත ජලය සහ වාෂ්ප (steam and water), Feed line එකේ යම් බිඳීමක් (fracture) හෝ කාන්දුවක් සිදු වූ විට ආපසු පිටතට පැමිණීම වැළැක්වීමයි. අනෙක් පිළිතුරු වැරදි වන්නේ: 1. මෙය නඩත්තු කටයුතු සඳහා අමතර වැඩක් නොව ආරක්ෂක පියවරකි. 2. Screw down valve එක අලුත්වැඩියා කිරීමට නම් Boiler එකේ පීඩනය ඉවත් කළ යුතුය, එබැවින් steaming තත්ත්වයේදී එය කළ නොහැක. 3. Feed water flow එක පාලනය කරන්නේ Screw down valve එක මගිනි, Non-return valve එක මගින් නොවේ.",
         "tags": [
             {
                 "sub_category": "Piping",
@@ -1395,7 +1395,7 @@
         ],
         "correct_answer": "An increased number of air changes may be required when vehicles are being loaded or unloaded, or where flammable gases or liquids are stowed in closed ro-ro spaces.",
         "images": [],
-        "explanation": "",
+        "explanation": "Ro-ro spaces වල වාහන ප්‍රවාහනය කිරීමේදී ඇතිවන ප්‍රධාන අවදානම වන්නේ වාහනවලින් පිටවන Exhaust gases (කාබන් මොනොක්සයිඩ් වැනි විෂ වායු) සහ ඉන්ධන කාන්දුවීම් නිසා ඇතිවිය හැකි Flammable gases එකතු වීමයි. එබැවින්, SOLAS රෙගුලාසිවලට අනුව, වාහන ඇති විට වායු සංසරණය (Air changes) අඛණ්ඩව පවත්වා ගැනීම අනිවාර්ය වේ. අනෙක් විකල්පයන් වැරදි වන්නේ ඒවා ආරක්ෂාවට වඩා පහසුව හෝ නඩත්තුව ගැන පමණක් අවධානය යොමු කරන බැවිනි. වායුගෝලය පරීක්ෂා කිරීම (Atmosphere testing) අත්‍යවශ්‍ය වුවද, එය විදුලි පංකා ක්‍රියාත්මක කිරීමේ එකම හේතුව නොවේ. එබැවින්, වාහන පැටවීමේදී සහ ගොඩබෑමේදී හෝ අන්තරායකර ද්‍රව්‍ය ගබඩා කර ඇති විට වැඩි වායු සංසරණයක් අවශ්‍ය වීම නිවැරදි හේතුවයි.",
         "tags": [
             {
                 "sub_category": "Shipboarding",
@@ -1419,7 +1419,7 @@
         ],
         "correct_answer": "Sodium Hydroxide solution.",
         "images": [],
-        "explanation": "",
+        "explanation": "Caustic Soda යනු කාර්මික වශයෙන් Sodium Hydroxide (NaOH) සඳහා භාවිතා කරන පොදු නාමයයි. මෙහිදී අනෙකුත් විකල්පයන් වැරදි වීමට හේතු මෙසේය: 1. Potassium Hydroxide (KOH) යනු Caustic Potash ලෙස හැඳින්වේ. 2. Sodium Chlorate යනු ප්‍රබල ඔක්සිකාරකයක් වන අතර එය බ්ලීචින් හෝ පිපිරුම් ද්‍රව්‍ය සඳහා භාවිතා වේ. 3. Sodium Hypochlorite යනු සාමාන්‍යයෙන් බ්ලීචින් ද්‍රාවණ (Bleaching solution) ලෙස භාවිතා වන රසායනිකයකි. එබැවින්, Caustic Soda සඳහා නිවැරදි රසායනික නාමය වන්නේ Sodium Hydroxide solution වේ.",
         "tags": [
             {
                 "sub_category": "Safety",
@@ -1443,7 +1443,7 @@
         ],
         "correct_answer": "Passenger ships carrying more than 36 passengers.",
         "images": [],
-        "explanation": "",
+        "explanation": "SOLAS (Safety of Life at Sea) රෙගුලාසිවලට අනුව, ගිනි නිවීමේ උපකරණ සම්බන්ධයෙන් දැඩි නීති පවතී. 'Water fog applicator' එකක් සෑම Breathing Apparatus (BA) කට්ටල දෙකකටම එකක් බැගින් තිබිය යුතු බවට නියම කර ඇත්තේ මගීන් 36කට වඩා වැඩි සංඛ්‍යාවක් රැගෙන යන මගී නෞකා (Passenger ships carrying more than 36 passengers) සඳහාය. අනෙකුත් විකල්ප වන Chemical tankers, Tankers හෝ car decks සහිත මගී නෞකා සඳහා මෙම විශේෂිත නීතිය අදාළ නොවේ. මෙහිදී BA කට්ටල සමඟ Water fog applicator තිබීමෙන් ගින්නක් ඇති වූ විට ජල මීදුම (water fog) මගින් තාපය අඩු කිරීමට සහ ගින්න පාලනය කිරීමට පහසු වේ. එබැවින්, නීතිමය අවශ්‍යතාවය අනුව නිවැරදි පිළිතුර වන්නේ මගීන් 36කට වඩා වැඩි මගී නෞකා වේ.",
         "tags": [
             {
                 "sub_category": "Firefighting",
@@ -1469,7 +1469,7 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2023/03/kitchen.jpg"
         ],
-        "explanation": "",
+        "explanation": "නැවක් වරායකට ඇතුළු වීමේදී හෝ Berthing කිරීමේදී අමතර Tug boat එකක් ලබා ගැනීමට ප්‍රධාන හේතුව වන්නේ නැවේ පාලනය (Maneuverability) වැඩි දියුණු කර ගැනීමයි. මෙහිදී 'Because they wanted to make sure that the ship could be turned safely' යන්න නිවැරදි වන්නේ, නැවක් ආරක්ෂිතව හැරවීමට (Turning) ප්‍රමාණවත් බලයක් අවශ්‍ය වන බැවිනි. අනෙක් පිළිතුරු සලකා බලමු: 'Bow thrust' අසාර්ථක වීම එක් හේතුවක් විය හැකි වුවත්, එය සැමවිටම අමතර Tug එකක් ගැනීමට හේතුව නොවේ. 'Mates' ලාගේ අදහස මත පමණක් Tug එකක් ඇණවුම් නොකරන අතර, 'Port side' හෝ 'Starboard side' Berthing කිරීම නැවක හැරවීමේ හැකියාවට (Turning capability) කෙලින්ම බලපාන සාධකයක් නොවේ. එබැවින්, ආරක්ෂිතව නැව හැරවීම (Safe turning) සඳහා අමතර Tug එකක් ලබා ගැනීම වඩාත් තාර්කික සහ වෘත්තීයමය තීරණය වේ.",
         "tags": []
     },
     {
@@ -1484,7 +1484,7 @@
         ],
         "correct_answer": "Secure area, passwords, a firewall and a secure network.",
         "images": [],
-        "explanation": "",
+        "explanation": "මෙම සිදුවීම විශ්ලේෂණය කිරීමේදී ප්‍රධාන ගැටලු දෙකක් පැන නගී. පළමුවැන්න, නැවේ schematics (ප්‍රස්ථාර) අනවසරයෙන් ඡායාරූප ගැනීමයි. මෙය වැළැක්වීමට නම් එම ලේඛන Secure area එකක (ආරක්ෂිත ස්ථානයක) තැබිය යුතුව තිබුණි. දෙවනුව, නිවසේ සිට නැවේ ජාලයට (network) අනවසරයෙන් ඇතුළු වීමයි. මෙය වැළැක්වීමට ශක්තිමත් Passwords, Firewall සහ Secure network එකක් අත්‍යවශ්‍ය වේ. අනෙක් විකල්පවල සඳහන් 'Protective markings' හෝ 'Vetting' මගින් දැනටමත් ජාලයට ඇතුළු වී ඇති අයෙකුගේ ක්‍රියාකාරකම් වහාම නතර කළ නොහැක. එබැවින්, භෞතික ආරක්ෂාව (Secure area) සහ ඩිජිටල් ආරක්ෂාව (Passwords, Firewall, Secure network) යන දෙකම අඩංගු පළමු පිළිතුර නිවැරදි වේ.",
         "tags": [
             {
                 "sub_category": "Security",
@@ -1508,7 +1508,7 @@
         ],
         "correct_answer": "The use of the ship’s line throwing apparatus.",
         "images": [],
-        "explanation": "",
+        "explanation": "SOLAS (Safety of Life at Sea) රෙගුලාසිවලට අනුව, Training Manual එකක අනිවාර්යයෙන්ම ඇතුළත් විය යුතු කරුණු අතර 'Line throwing apparatus' භාවිතය පිළිබඳ උපදෙස් පැහැදිලිව සඳහන් වේ. අනෙක් විකල්පයන් වන escape routes, surface to air signals සහ navigational equipment යනු Training Manual එකේ කොටස් විය හැකි වුවත්, SOLAS Chapter III, Regulation 35 මගින් විශේෂයෙන්ම Line throwing apparatus භාවිතය පිළිබඳව Training Manual එකේ ඇතුළත් කළ යුතු බව අවධාරණය කර ඇත. එබැවින්, නියාමන අවශ්‍යතා (Regulatory requirements) අනුව වඩාත් නිවැරදි පිළිතුර වන්නේ Line throwing apparatus භාවිතයයි.",
         "tags": [
             {
                 "sub_category": "Safety",
@@ -1538,7 +1538,7 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2023/03/co2.jpg"
         ],
-        "explanation": "",
+        "explanation": "SOLAS රෙගුලාසිවලට අනුව, fixed CO2 fire-extinguishing system එකක් ප්‍රධාන වශයෙන් භාවිතා කරනුයේ Machinery spaces of category A (උදාහරණ ලෙස main engines, boilers, oil fuel units ඇති ස්ථාන) ආරක්ෂා කිරීමටයි. 'Cargo tanks of tankers' සඳහා CO2 භාවිතා නොකරයි, මන්ද එය මගින් static electricity ඇතිවීමේ අවදානමක් පවතින අතර ඒ සඳහා සාමාන්‍යයෙන් inert gas system භාවිතා කරයි. 'Special category spaces' සඳහා සාමාන්‍යයෙන් water-based systems (deluge systems) භාවිතා කරයි. එබැවින්, නිවැරදි පිළිතුර වන්නේ Machinery spaces of category A යන්නයි.",
         "tags": []
     },
     {
@@ -1555,7 +1555,7 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2023/03/firefighting.jpg"
         ],
-        "explanation": "",
+        "explanation": "තෙල් ගින්නක් (Oil fire) නිවා දැමීමේදී ජලය භාවිතා කිරීමේදී ඉතා සැලකිලිමත් විය යුතුය. මෙහිදී 'Water jet' එකක් භාවිතා කිරීමෙන් තෙල් විසිරී ගොස් ගින්න තවදුරටත් පැතිර යා හැක (Splashing effect). එබැවින්, පළමු සහ දෙවන පිළිතුරු වැරදිය. තෙල් ගින්නක් සඳහා ජලය භාවිතා කිරීම සාමාන්‍යයෙන් නිර්දේශ නොකළත්, වෙනත් විකල්පයක් නොමැති විට 'Water fog' හෝ 'Fine spray' භාවිතා කිරීමෙන් ගින්නෙහි උෂ්ණත්වය අඩු කර (Cooling effect) ගින්න පාලනය කළ හැක. 'Fine spray' එකක් භාවිතා කරමින් ඉදිරිපස සිට පසුපසට 'Sweeping motion' එකකින් ජලය යෙදීමෙන් තෙල් විසිරීම වළක්වා ගනිමින් ගින්න නිවා දැමීමට උත්සාහ කළ හැක. එබැවින් හතරවන පිළිතුර නිවැරදි වේ.",
         "tags": []
     },
     {
@@ -1570,7 +1570,7 @@
         ],
         "correct_answer": "The Annex II Procedures and Arrangements Manual.",
         "images": [],
-        "explanation": "",
+        "explanation": "Chemical tanker එකක cargo handling, tank stripping, tank cleaning, සහ residues discharge වැනි ක්‍රියාවලීන් සඳහා අනිවාර්යයෙන්ම තිබිය යුතු ලේඛනය වන්නේ 'Procedures and Arrangements Manual' (P&A Manual) වේ. මෙය MARPOL Annex II යටතේ අනිවාර්ය කර ඇති ලේඛනයකි. අනෙක් විකල්පයන් සලකා බැලීමේදී: 1. Equipment manufacturer manuals මගින් උපකරණවල නඩත්තුව ගැන පමණක් කියැවෙන අතර සමස්ත මෙහෙයුම් ක්‍රියාපටිපාටිය එහි නැත. 2. Cargo Handling Logbook යනු සිදුකරන ලද මෙහෙයුම් වාර්තා කිරීම සඳහා මිස ක්‍රියාපටිපාටි විස්තර කිරීම සඳහා නොවේ. 3. MARPOL 73/78 යනු ජාත්‍යන්තර සම්මුතියක් වන අතර එය පොදු නීති රීති පද්ධතියක් මිස නිශ්චිත නැවක cargo handling ක්‍රියාපටිපාටි විස්තර කරන අත්පොතක් නොවේ. එබැවින් නිවැරදි පිළිතුර වන්නේ P&A Manual වේ.",
         "tags": [
             {
                 "sub_category": "Cargo",
@@ -1590,7 +1590,7 @@
         ],
         "correct_answer": "To handle the LNG boil-off vapour for fuelling the boiler.",
         "images": [],
-        "explanation": "",
+        "explanation": "LNG carrier එකක Boil-off gas (BOG) කළමනාකරණය කිරීම සඳහා Low Duty (LD) compressors භාවිතා කරයි. මෙහිදී, cargo tanks තුළ ඇතිවන boil-off vapour එක එකතු කර, එය ප්‍රධාන බොයිලේරු (boilers) සඳහා ඉන්ධන ලෙස භාවිතා කිරීමට අවශ්‍ය පීඩනයට පත් කිරීම මෙම LD compressors වල ප්‍රධාන කාර්යයයි. අනෙක් විකල්ප වැරදි වන්නේ: 'discharging the LNG cargo' යනු cargo pumps වල කාර්යයකි. 'Inert gas' සැපයීම සඳහා වෙනම Inert Gas Generator එකක් භාවිතා කරන අතර, 'transfer cargo vapour to shore' යනු High Duty (HD) compressors වල කාර්යයකි. එබැවින්, boil-off vapour ඉන්ධන ලෙස භාවිතා කිරීම සඳහා LD compressors යොදාගැනීම නිවැරදි පිළිතුර වේ.",
         "tags": [
             {
                 "sub_category": "Shipboarding",
@@ -1614,7 +1614,7 @@
         ],
         "correct_answer": "Charts, nautical publications, GMDSS log, Oil Record book(s).",
         "images": [],
-        "explanation": "",
+        "explanation": "නැවක අනිවාර්යයෙන්ම තිබිය යුතු ලේඛන සහ ප්‍රකාශන සම්බන්ධයෙන් SOLAS සහ MARPOL වැනි ජාත්‍යන්තර සම්මුතීන් මගින් නීති රීති පනවා ඇත. නිවැරදි පිළිතුර වන්නේ 'Charts, nautical publications, GMDSS log, Oil Record book(s)' යන්නයි. මෙයට හේතුව වන්නේ, නාවික ආරක්ෂාව (Navigation safety) සඳහා Charts සහ Nautical publications අත්‍යවශ්‍ය වීමත්, ගුවන් විදුලි සන්නිවේදනය සඳහා GMDSS log අත්‍යවශ්‍ය වීමත්, පරිසර දූෂණය වැළැක්වීම සඳහා Oil Record Book අනිවාර්ය වීමත්ය. අනෙක් පිළිතුරු වැරදි වන්නේ ඇයිද යත්: පළමු පිළිතුරේ සඳහන් ISGOTT හෝ OCIMF මාර්ගෝපදේශ සියලුම නැව් සඳහා අනිවාර්ය නොවන අතර ඒවා ප්‍රධාන වශයෙන් Tankers සඳහා පමණක් අදාළ වේ. දෙවන පිළිතුර වැරදියි, මන්ද නීතියෙන් නියම කර ඇති තවත් බොහෝ ලේඛන නැවක තිබිය යුතු බැවිනි. හතරවන පිළිතුර වැරදියි, මන්ද සියලුම තාක්ෂණික පොත්පත් (Technical books) අනිවාර්ය ලේඛන ලෙස වර්ග නොකෙරේ.",
         "tags": [
             {
                 "sub_category": "Legislation",
@@ -1634,7 +1634,7 @@
         ],
         "correct_answer": "Yes – any consular official can detain a vessel.",
         "images": [],
-        "explanation": "",
+        "explanation": "Merchant Shipping Act යටතේ, විදේශීය වරායකදී බ්‍රිතාන්‍ය නෞකාවක් සම්බන්ධයෙන් නීතිමය ගැටලු හෝ ආරක්ෂාව පිළිබඳ ගැටලු පැනනැඟුණු විට, බ්‍රිතාන්‍ය Consular official කෙනෙකුට එම නෞකාව රඳවා තබා ගැනීමට (detain) නීත්‍යානුකූල බලය ඇත. මෙහිදී 'any consular official' යන්නෙන් අදහස් වන්නේ එම තනතුරේ සිටින ඕනෑම නිලධාරියෙකුට මෙම බලය පැවරී ඇති බවයි. අනෙක් විකල්පයන් වන 'senior official' පමණක් වීම හෝ 'Marine Officer' විය යුතු වීම වැනි කොන්දේසි නීතියේ සඳහන් නොවේ. එසේම, මෙය කිසිසේත් කළ නොහැකි දෙයක් නොවන බැවින්, පළමු පිළිතුර නිවැරදි වේ.",
         "tags": [
             {
                 "sub_category": "Legislation",
@@ -1658,7 +1658,7 @@
         ],
         "correct_answer": "A person appointed by a cargo terminal for operations conducted by that terminal with regard to a ship.",
         "images": [],
-        "explanation": "",
+        "explanation": "Terminal Representative යනු නෞකාවක් සහ ගොඩබිම පර්යන්තයක් (Cargo terminal) අතර සිදුවන මෙහෙයුම් සම්බන්ධීකරණය සඳහා පර්යන්තය විසින් පත් කරනු ලබන නිලධාරියා වේ. මෙහිදී අනෙකුත් පිළිතුරු වැරදි වීමට හේතු: 1. 'Bulk cargo terminal agent' හෝ 'Cargo facility terminal agent' යනු ඉතා සීමිත අර්ථ දැක්වීම් වන අතර, Terminal Representative යන්නෙහි පුළුල් වගකීම් ආවරණය නොකරයි. 2. 'Crew welfare' යනු Terminal Representative ගේ මූලික වගකීමක් නොවේ; එය ප්‍රධාන වශයෙන් නෞකාවේ Master සහ අදාළ නියෝජිතයන්ගේ වගකීමකි. එබැවින්, නෞකාවේ ආරක්ෂිත සහ කාර්යක්ෂම Cargo operations සඳහා පර්යන්තය නියෝජනය කරන පුද්ගලයා ලෙස නිවැරදි පිළිතුර තෝරාගත යුතුය.",
         "tags": [
             {
                 "sub_category": "Management",
@@ -1682,7 +1682,7 @@
         ],
         "correct_answer": "The HV cable carriers a smaller current and therefore requires less copper.",
         "images": [],
-        "explanation": "",
+        "explanation": "විදුලි බලය (Power) ගණනය කරනු ලබන්නේ P = V × I යන සූත්‍රය මගිනි. මෙහිදී Power එක නියතව පවතින විට, Voltage (V) වැඩි වන විට Current (I) අගය අඩුවේ. විදුලි කේබලයක ප්‍රමාණය (Cross-sectional area) තීරණය කරනු ලබන්නේ එය හරහා ගලා යන Current එක මතය. එනම්, වැඩි Current එකක් සඳහා විශාල තඹ ප්‍රමාණයක් (Copper) අවශ්‍ය වේ. High Voltage (HV) පද්ධතිවලදී Voltage එක ඉතා ඉහළ බැවින්, එම බලයම සම්ප්‍රේෂණය කිරීමට අවශ්‍ය වන Current එක ඉතා අඩු අගයක් ගනී. එම නිසා කුඩා ප්‍රමාණයේ කේබලයක් ප්‍රමාණවත් වේ. අනෙක් පිළිතුරු වැරදි වන්නේ, කේබලයේ ප්‍රමාණය තීරණය කරන්නේ Current එක මිස Insulation එකේ ඝනකම හෝ ලෝහයේ ගුණාත්මකභාවය නොවන බැවිනි. HV කේබල්වල Insulation එක සාමාන්‍යයෙන් Low Voltage කේබල්වලට වඩා ඝනකමින් වැඩි විය යුතුය.",
         "tags": [
             {
                 "sub_category": "Electrical",
@@ -1706,7 +1706,7 @@
         ],
         "correct_answer": "A noxious liquid substance in category “X” or “Y” with a viscosity equal to or greater than 50 mPas at the unloading temperature.",
         "images": [],
-        "explanation": "",
+        "explanation": "MARPOL Annex II යටතේ 'high-viscosity substance' යන්න අර්ථ දක්වා ඇත්තේ Category X හෝ Y වලට අයත්, බෑමේ උෂ්ණත්වයේදී (unloading temperature) 50 mPas හෝ ඊට වැඩි viscosity අගයක් සහිත ද්‍රව්‍ය ලෙසය. අනෙක් විකල්ප වැරදි වීමට හේතු: 1) 'pour point' පිළිබඳ සඳහන මෙහි අර්ථ දැක්වීමට අදාළ නොවේ. 2) 75 litres පිළිබඳ සඳහන 'stripping requirements' වලට අදාළ වන අතර එය viscosity අර්ථ දැක්වීමක් නොවේ. 3) 100 mPas අගය සහ 37.8 degrees Celsius උෂ්ණත්වය මෙම නීතිමය අර්ථ දැක්වීමට අනුකූල නොවේ. එබැවින්, නිවැරදි පිළිතුර වන්නේ Category X හෝ Y සහ 50 mPas අගය සඳහන් වන විකල්පයයි.",
         "tags": [
             {
                 "sub_category": "Legislation",
@@ -1732,7 +1732,7 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2023/03/cargo_containment_system.jpg"
         ],
-        "explanation": "",
+        "explanation": "තෙල් භාණ්ඩයක (oil cargo) 'wax content' යනු එම crude oil සාම්පලයක අඩංගු paraffinic wax ප්‍රමාණය පරිමාව අනුව (by volume) ප්‍රතිශතයක් ලෙස දැක්වීමයි. අනෙක් පිළිතුරු වැරදි වීමට හේතු: 1. දෙවන පිළිතුරේ සඳහන් වන්නේ 'pour point depressants' වැනි additives ගැන මිස wax content ගැන නොවේ. 2. තුන්වන පිළිතුරේ සඳහන් වන්නේ discharge කිරීමෙන් පසු ටැංකියේ ඉතිරි වන 'clingage' හෝ 'sediment' ගැන මිස තෙල්වල ස්වභාවික ගුණාංගයක් වන wax content ගැන නොවේ. 3. හතරවන පිළිතුර වැරදියි, මන්ද distillation ක්‍රියාවලියෙන් පසු ඉතිරි වන ද්‍රව්‍යය සාමාන්‍යයෙන් residue ලෙස හඳුන්වන අතර එය wax content ලෙස අර්ථ දැක්විය නොහැක. එබැවින් පළමු පිළිතුර නිවැරදි වේ.",
         "tags": []
     },
     {
@@ -1749,7 +1749,7 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2023/03/gmdss.jpg"
         ],
-        "explanation": "",
+        "explanation": "මෙම ප්‍රශ්නයට පිළිතුරු දීමට අප SI units හි ඇති 'Prefixes' පිළිබඳ අවබෝධයක් ලබාගත යුතුය. මෙහි 'Giga' (G) යනු 10^9 හෙවත් 1,000,000,000 (බිලියනයක්) නිරූපණය කරන ඒකකයකි. එබැවින් 1 GHz යනු 1,000,000,000 Hz වේ. අනෙකුත් පිළිතුරු විශ්ලේෂණය කළහොත්: 100,000 Hz යනු 100 kHz වේ. 1,000,000 Hz යනු 1 MHz (Mega Hertz) වේ. 10,000,000,000 Hz යනු 10 GHz වේ. එබැවින් නිවැරදි පිළිතුර 1,000,000,000 Hz වේ.",
         "tags": []
     },
     {
@@ -1764,7 +1764,7 @@
         ],
         "correct_answer": "A tank is only to be considered as gas free when no traces of flammable and/or poisonous gas are measured and in addition O2 content is measured to be 21 %.",
         "images": [],
-        "explanation": "",
+        "explanation": "නැවක ටැංකියක් 'Gas free' ලෙස සැලකීම සඳහා විද්‍යාත්මකව තහවුරු කළ හැකි මිනුම් ලබා ගැනීම අත්‍යවශ්‍ය වේ. පළමු පිළිතුර නිවැරදි වන්නේ, එහිදී Flammable gas (ගිනිගන්නාසුළු වායු) සහ Poisonous gas (විෂ වායු) නොමැති බව මැනීමෙන් තහවුරු කරන අතරම, Oxygen (O2) මට්ටම 21% ක් ලෙස පැවතීම මගින් වාතයේ ගුණාත්මකභාවය සහ ශ්වසනයට සුදුසු බව තහවුරු කරන බැවිනි. අනෙක් පිළිතුරු වැරදි වන්නේ, 'Cleaning' හෝ 'Smell' (සුවඳ) මත පමණක් පදනම් වීමෙන් ආරක්ෂාව තහවුරු කළ නොහැකි බැවිනි. සුවඳ නොමැති වීමෙන් පමණක් වායූන් නොමැති බව තීරණය කළ නොහැක (සමහර විෂ වායු සුවඳක් නැත). එසේම, O2 මට්ටම 21% වුවද, විෂ වායු හෝ ගිනිගන්නා වායු තිබිය හැකි බැවින්, සියලුම සාධක එකවර පරීක්ෂා කිරීම අනිවාර්ය වේ.",
         "tags": [
             {
                 "sub_category": "Safety",
@@ -1788,7 +1788,7 @@
         ],
         "correct_answer": "5 years.",
         "images": [],
-        "explanation": "",
+        "explanation": "නැවක ඇති Lifting appliances (උදාහරණ ලෙස Cranes, Derricks) සඳහා වන පරීක්ෂණ සහ සහතික කිරීම් පිළිබඳ නීති රීති ILO (International Labour Organization) සම්මුතීන් සහ SOLAS මගින් නියම කර ඇත. මෙහිදී 'Thorough examination' වාර්ෂිකව (Annually) සිදු කළ යුතු වුවත්, 'Proof load test' හෙවත් බර පටවා පරීක්ෂා කිරීම (Testing) සිදු කළ යුත්තේ සෑම වසර 5කට වරක් (5 years) වේ. අනෙක් විකල්ප වන 2 1/2 years හෝ 2 years යනු Lifting gear (උදාහරණ ලෙස Chains, Shackles) සඳහා වන පරීක්ෂණ කාලසීමාවන් මිස Lifting appliances සඳහා නොවේ. එබැවින් නිවැරදි පිළිතුර වන්නේ 5 years වේ.",
         "tags": [
             {
                 "sub_category": "Maintenance",
@@ -1808,7 +1808,7 @@
         ],
         "correct_answer": "To maintain a specified minimum temperature for a prescribed time period to kill off any fruit fly which may be present when loading the cargo.",
         "images": [],
-        "explanation": "",
+        "explanation": "In-transit cold treatment යනු පලතුරු අපනයනයේදී අනිවාර්ය වන ජාත්‍යන්තර ශාක සෞඛ්‍ය රෙගුලාසි (Phytosanitary regulations) අනුව සිදුකරන ක්‍රියාවලියකි. මෙහි ප්‍රධාන අරමුණ වන්නේ පලතුරු තුළ තිබිය හැකි fruit fly (පලතුරු මැස්සන්) වැනි කෘමි සතුන් විනාශ කිරීමයි. ඒ සඳහා පලතුරු නියමිත උෂ්ණත්වයක (specified minimum temperature) නියමිත කාලයක් පුරා තබා ගත යුතුය. අනෙක් විකල්පයන් වන උෂ්ණත්වය පාලනය කිරීම (tight tolerances) හෝ ගුණාත්මකභාවය ආරක්ෂා කිරීම (uniform quality) යනු සාමාන්‍ය Refrigerated cargo කළමනාකරණයේ කොටස් වුවද, 'Cold treatment' යන විශේෂිත පදය භාවිතා වන්නේ කෘමි පාලනය (pest control) සඳහා පමණි. එබැවින් පළමු පිළිතුර නිවැරදි වේ.",
         "tags": [
             {
                 "sub_category": "Cargo",
@@ -1834,7 +1834,7 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2023/03/separator.jpg"
         ],
-        "explanation": "",
+        "explanation": "Solids ejecting separator එකක bowl එකේ sealing පවත්වා ගැනීමට bowl closing water අත්‍යවශ්‍ය වේ. bowl closing water ප්‍රමාණවත් නොමැති නම්, bowl එකේ ඇති sliding piston එක නිසි ලෙස වසා තැබීමට නොහැකි වන අතර, එමගින් oil bowl casing drain එක හරහා පිටතට කාන්දු වේ. අනෙක් විකල්පයන් සලකා බලමු: 'Oil has been fed before full speed' යනු වැරදි ක්‍රියාවලියක් වුවද, එය ප්‍රධාන වශයෙන් oil leakage එකට වඩා separator එකේ vibration හෝ separation efficiency අඩුවීමට හේතු වේ. 'Sludge tank is full' වීමෙන් sludge discharge එකට බාධා ඇති විය හැකි නමුත් එය කෙලින්ම bowl casing drain එකෙන් oil පිටවීමට හේතු නොවේ. 'Flow rate is too high' වීමෙන් separation efficiency එක අඩු වුවද, එය bowl එකේ mechanical sealing එකට බලපාන්නේ නැත. එබැවින්, bowl closing water හි අඩුවක් පැවතීම වඩාත් නිවැරදි හේතුව වේ.",
         "tags": []
     },
     {
@@ -1851,7 +1851,7 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2023/03/deck_scheme.jpg"
         ],
-        "explanation": "",
+        "explanation": "නැවක Windlass යනු නැංගුරම (Anchor) එසවීමට සහ පහත් කිරීමට භාවිතා කරන ප්‍රධාන Deck machinery උපකරණයයි. ලබා දී ඇති රූප සටහනේ D මගින් දැක්වෙන්නේ නැවේ ඉදිරිපස (Forecastle deck) පිහිටි Windlass එකයි. අනෙකුත් අකුරු මගින් නැවේ අනෙකුත් උපකරණ වන Mooring winches (A, B) සහ Capstan (C) වැනි දේ නිරූපණය කරයි. එබැවින් Windlass එක නිවැරදිව හඳුනාගැනීම සඳහා D යන්න නිවැරදි පිළිතුර වේ.",
         "tags": []
     },
     {
@@ -1868,7 +1868,7 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2023/03/hydrant.jpg"
         ],
-        "explanation": "",
+        "explanation": "SOLAS රෙගුලාසිවලට අනුව, ගිනි නිවීමේ පද්ධතියක Fire hydrants පිහිටීම තීරණය කරනු ලබන්නේ නෞකාවේ ඕනෑම ස්ථානයකට අවම වශයෙන් ජල ජෙට් (water jets) දෙකක්වත් ළඟා විය හැකි පරිදිය. මෙහිදී වැදගත් කරුණ වන්නේ, මෙම ජෙට් දෙකම එකම hydrant එකකින් ලබා නොගත යුතු වීමයි. නීතියට අනුව, එක් ජෙට් එකක් තනි Hose length එකකින් ද, අනෙක් ජෙට් එක Hose lengths දෙකක් එකතු කිරීමෙන් ද ලබා ගැනීමට අවසර ඇත. අනෙක් විකල්පයන් වැරදි වන්නේ ඒවා SOLAS හි නිශ්චිත අවශ්‍යතාවයන්ට අනුකූල නොවන බැවිනි. විශේෂයෙන්ම, සෑම ජෙට් එකක්ම තනි Hose එකකින් පමණක් විය යුතු යැයි පැවසීම හෝ මීටර් 20/40 වැනි දුර ප්‍රමාණයන් සඳහන් කිරීම නීතිමය අවශ්‍යතාවය නිවැරදිව නිරූපණය නොකරයි.",
         "tags": []
     },
     {
@@ -1883,7 +1883,7 @@
         ],
         "correct_answer": "Routine.",
         "images": [],
-        "explanation": "",
+        "explanation": "GMDSS පද්ධතියේ DSC (Digital Selective Calling) පණිවිඩ වර්ගීකරණය අනුව, OBS (Observation) වාර්තා යනු කාලගුණික තත්ත්වයන් පිළිබඳ තොරතුරු හුවමාරු කරගැනීමයි. මෙහිදී 'Safety' යනු හදිසි අනතුරු හෝ අනතුරු ඇඟවීම් සඳහා භාවිතා වන අතර, 'Ship’s business' යනු නෞකාවේ මෙහෙයුම් කටයුතු සඳහා වන පෞද්ගලික පණිවිඩ වේ. OBS වාර්තා යනු සාමාන්‍ය කාලසටහනකට අනුව සිදුකරන දත්ත හුවමාරුවක් බැවින් එය 'Routine' කාණ්ඩයට අයත් වේ. එබැවින් අනෙක් විකල්ප වැරදි වන අතර 'Routine' යනු නිවැරදි පිළිතුරයි.",
         "tags": [
             {
                 "sub_category": "Communication",
@@ -1903,7 +1903,7 @@
         ],
         "correct_answer": "Select the telex in on-line position.",
         "images": [],
-        "explanation": "",
+        "explanation": "Telex communication හරහා call-request එකක් සිදු කිරීමේදී, පද්ධතිය සක්‍රීයව පණිවිඩ යැවීමට හෝ ලබා ගැනීමට සූදානම් විය යුතුය. මෙහිදී 'Select the telex in on-line position' යන්න නිවැරදි වන්නේ, පද්ධතිය Network එක සමඟ සම්බන්ධ වී (On-line) තිබිය යුතු බැවිනි. 'Off-line' තත්ත්වයේදී පද්ධතියට බාහිර සම්බන්ධතා ඇති කරගත නොහැක. එසේම 'ID of the NCS' තෝරා ගැනීම යනු පද්ධතියේ සැකසුමක් මිස call-request එකක් ආරම්භ කිරීමේ මූලික පියවර නොවේ. එබැවින්, Telex පද්ධතිය On-line තත්ත්වයට පත් කිරීම මගින් පමණක් සන්නිවේදන ඉල්ලීමක් (call-request) ආරම්භ කළ හැක.",
         "tags": [
             {
                 "sub_category": "Communication",
@@ -1925,7 +1925,7 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2023/03/launching.jpg"
         ],
-        "explanation": "",
+        "explanation": "SOLAS (Safety of Life at Sea) රෙගුලාසිවලට අනුව, Lifeboat සහ Rescue boat සඳහා භාවිතා කරන Falls (launching appliances) නඩත්තු කිරීම අනිවාර්ය වේ. මෙහිදී 'turned end for end' කිරීම යනු කඹයේ හෝ වයර් එකේ ඇඳීම (wear and tear) ඒකාකාරව බෙදී යාම සඳහා එය අනෙක් පැත්තට හරවා සවි කිරීමයි. මෙය අවම වශයෙන් මාස 30කට වරක් සිදු කළ යුතුය. එමෙන්ම, ආරක්ෂිත හේතූන් මත මෙම Falls වසර 5කට වරක් අනිවාර්යයෙන්ම අලුත් (renew) කළ යුතුය. අනෙක් විකල්පයන් (6/2, 12/4, 20/3) SOLAS නීතිවලට පටහැනි වන අතර ඒවා වැරදි වේ. එබැවින් නිවැරදි පිළිතුර 30 months/5 years වේ.",
         "tags": []
     },
     {
@@ -1940,7 +1940,7 @@
         ],
         "correct_answer": "Two, and at least one of the rescue boats shall be a Fast Rescue Boat.",
         "images": [],
-        "explanation": "",
+        "explanation": "SOLAS Chapter III රෙගුලාසිවලට අනුව, ro-ro passenger ships සඳහා විශේෂ ආරක්ෂක අවශ්‍යතා පවතී. 500 gross tons සහ ඊට වැඩි ro-ro passenger ships සඳහා අවම වශයෙන් rescue boats දෙකක් තිබිය යුතුය. මෙයින් එකක් අනිවාර්යයෙන්ම Fast Rescue Boat (FRB) එකක් විය යුතු අතර, එය ඕනෑම කාලගුණික තත්ත්වයකදී ඉක්මනින් දියත් කිරීමට හැකි විය යුතුය. අනෙක් විකල්ප වැරදි වන්නේ, නෞකාවේ ප්‍රමාණය සහ වර්ගය අනුව නීතිමය අවශ්‍යතාවය වන්නේ rescue boats දෙකක් වීම සහ ඉන් එකක් FRB විය යුතු වීමයි. Lifeboats තිබීමෙන් පමණක් rescue boats අවශ්‍යතාවය මග හැරිය නොහැක.",
         "tags": [
             {
                 "sub_category": "Safety",
@@ -1964,7 +1964,7 @@
         ],
         "correct_answer": "Preferably light colour.",
         "images": [],
-        "explanation": "",
+        "explanation": "SOLAS Regulation II-1/3-2 මගින් තෙල් ටැංකිවල (oil tankers) ඇති seawater ballast tanks සඳහා කාර්යක්ෂම corrosion prevention system එකක් තිබිය යුතු බව අනිවාර්ය කරයි. මෙහිදී භාවිතා කරන hard protective coating එකේ වර්ණය සම්බන්ධයෙන් SOLAS මගින් 'Preferably light colour' ලෙස නිර්දේශ කර ඇත. මෙයට ප්‍රධාන හේතුව වන්නේ ටැංකිය තුළ පරීක්ෂා කිරීමේදී (inspection) මලකඩ (corrosion) හෝ හානි වූ ස්ථාන පහසුවෙන් හඳුනා ගැනීමට හැකි වීමයි. අඳුරු වර්ණ (dark colours) මගින් ආලෝකය අවශෝෂණය කර ගන්නා අතර පරීක්ෂණ කටයුතු අපහසු කරයි. එබැවින්, අනෙකුත් විකල්ප වැරදි වන අතර, ආලෝකය පරාවර්තනය කරන සැහැල්ලු වර්ණ (light colour) වඩාත් සුදුසු වේ.",
         "tags": [
             {
                 "sub_category": "Legislation",
@@ -1990,7 +1990,7 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2023/03/gmdss-1.jpg"
         ],
-        "explanation": "",
+        "explanation": "GMDSS (Global Maritime Distress and Safety System) රෙගුලාසි වලට අනුව, නෞකාවක තිබිය යුතු ගුවන් විදුලි සන්නිවේදන උපකරණ (radio-communication devices) තීරණය කරනු ලබන්නේ එම නෞකාව යාත්‍රා කරන Sea Areas මත පදනම්වය. මෙහිදී A1, A2, A3 සහ A4 ලෙස Sea Areas වර්ග කර ඇති අතර, එක් එක් ප්‍රදේශයේ පවතින Shore-based facilities සහ ආවරණය මත පදනම්ව අවශ්‍ය උපකරණ වෙනස් වේ. 'Type of vessel' හෝ 'Tonnage' යනු ප්‍රධාන සාධක නොවේ, මන්ද කුඩා නෞකාවක් වුවද සාගරයේ දුර බැහැර ප්‍රදේශයක (උදාහරණයක් ලෙස A3 හෝ A4) යාත්‍රා කරන්නේ නම්, එයට අදාළ නීතිමය අවශ්‍යතා සපුරාලිය යුතුය. එබැවින් නිවැරදි පිළිතුර 'The sea areas' වේ.",
         "tags": []
     },
     {
@@ -2007,7 +2007,7 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2023/03/deck_scheme.jpg"
         ],
-        "explanation": "",
+        "explanation": "නැව් තට්ටුවේ (deck) ඇති උපකරණ හඳුනාගැනීමේදී, Fairlead යනු Mooring lines හෝ Towing lines වල දිශාව වෙනස් කිරීමට හෝ ඒවා නිවැරදිව මඟ පෙන්වීමට භාවිතා කරන උපකරණයකි. ලබා දී ඇති රූප සටහන අනුව, C මගින් පෙන්වා ඇත්තේ Mooring lines ගමන් කරන Fairlead එකයි. අනෙකුත් විකල්පයන් වන A, B සහ D මගින් නැවේ අනෙකුත් උපකරණ වන Bollards හෝ Winch වැනි කොටස් නිරූපණය කරයි. Fairlead එකෙහි ප්‍රධාන කාර්යය වන්නේ කඹය (rope) හෝ වයර් එක ඝර්ෂණය අවම වන පරිදි නිවැරදි කෝණයකින් යොමු කිරීමයි. එබැවින් C යනු නිවැරදි පිළිතුර වේ.",
         "tags": []
     },
     {
@@ -2024,7 +2024,7 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2023/03/pump-1.jpg"
         ],
-        "explanation": "",
+        "explanation": "මෙම රූපයේ දැක්වෙන්නේ Centrifugal pump එකකි. මෙහි ප්‍රධාන ලක්ෂණය වන්නේ Impeller එකක් මගින් ද්‍රවයට චාලක ශක්තියක් (Kinetic energy) ලබා දී එය පීඩන ශක්තියක් (Pressure energy) බවට පත් කර පිටතට යැවීමයි. අනෙකුත් විකල්පයන් මෙසේ ප්‍රතික්ෂේප කළ හැක: Reciprocating pump එකක piston හෝ plunger එකක් මගින් ද්‍රවය තල්ලු කරයි, Gear pump එකක එකිනෙක ගැටෙන gear දෙකක් මගින් ද්‍රවය ගමන් කරවයි, සහ Scroll pump එකක සර්පිලාකාර කොටස් දෙකක් මගින් ද්‍රවය සම්පීඩනය කරයි. රූපයේ ඇති Volute casing සහ Impeller ව්‍යුහය අනුව මෙය නිසැකවම Centrifugal pump එකක් බව හඳුනාගත හැක.",
         "tags": []
     },
     {
@@ -2041,7 +2041,7 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2023/03/inductors.jpg"
         ],
-        "explanation": "",
+        "explanation": "Inductors සමාන්තරව (Parallel) සම්බන්ධ වූ විට, ඒවායේ සමස්ත Inductance (L_eq) ගණනය කරනු ලබන්නේ 1/L_eq = 1/L1 + 1/L2 යන සූත්‍රය භාවිතා කරමිනි. මෙහි L1 = 6 H සහ L2 = 12 H වේ. එබැවින්, 1/L_eq = 1/6 + 1/12 වේ. මෙය සුළු කිරීමේදී 1/L_eq = (2+1)/12 = 3/12 = 1/4 ලෙස ලැබේ. එමනිසා L_eq = 4 H වේ. අනෙකුත් පිළිතුරු වැරදි වන්නේ, 18 H යනු ශ්‍රේණිගත (Series) සම්බන්ධතාවයකදී ලැබෙන අගය වන අතර, 1.5 H සහ 0.667 H යනු ගණිතමය වශයෙන් වැරදි ක්‍රමවේදයන් අනුගමනය කිරීමෙන් ලැබෙන අගයන් බැවිනි.",
         "tags": []
     },
     {
@@ -2058,7 +2058,7 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2023/03/cargo_containment_system.jpg"
         ],
-        "explanation": "",
+        "explanation": "Polymerisation යනු unsaturated chemical compounds වල අඩංගු අණු (molecules) තාපය සහ පීඩනය (heat and pressure) යටතේ එකිනෙක ප්‍රතික්‍රියා කර විශාල අණු (larger molecules) සෑදීමේ ක්‍රියාවලියයි. මෙහිදී වැරදි පිළිතුරු විශ්ලේෂණය කරමු: 1. දෙවන පිළිතුර වැරදියි, මන්ද මෙය සිදුවන්නේ සිසිලනය (cooling) නිසා නොව තාපය නිසාය. 2. තුන්වන සහ හතරවන පිළිතුරු වැරදියි, මන්ද Polymerisation සිදුවන්නේ unsaturated compounds වල මිස saturated compounds වල නොවේ. තවද, මෙහිදී සිදුවන්නේ කුඩා අණු එකතු වී විශාල අණු සෑදීමයි (forming larger molecules), කුඩා අණු සෑදීම නොවේ.",
         "tags": []
     },
     {
@@ -2075,7 +2075,7 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2023/03/plot.jpg"
         ],
-        "explanation": "",
+        "explanation": "මෙම ප්‍රශ්නය Wind Chill Factor පිළිබඳව විමසයි. සුළඟේ වේගය වැඩි වන විට ශරීරයෙන් තාපය පිටවීමේ වේගය (rate of heat loss) වැඩි වේ. මෙය Wind Chill Effect ලෙස හැඳින්වේ. ලබා දී ඇති දත්ත අනුව, වායු උෂ්ණත්වය 10 °C වන විට සහ සුළඟේ වේගය 10 m/sec වන විට, Wind Chill chart එකක් හෝ සූත්‍රයක් භාවිතා කර බැලූ විට ශරීරයට දැනෙන උෂ්ණත්වය (equivalent temperature) ආසන්න වශයෙන් 0 °C දක්වා පහත වැටේ. අනෙක් පිළිතුරු වැරදි වන්නේ, -10 °C යනු අධික සීතලක් වන අතර, +10 °C යනු සුළඟ නොමැති විට දැනෙන උෂ්ණත්වයයි. +20 °C යනු සැබෑ උෂ්ණත්වයට වඩා වැඩි අගයක් වන බැවින් එය තාර්කික නොවේ. එබැවින් 0 °C යනු නිවැරදි පිළිතුරයි.",
         "tags": []
     },
     {
@@ -2092,7 +2092,7 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2023/03/engine.jpg"
         ],
-        "explanation": "",
+        "explanation": "Engine knocking හෙවත් අසාමාන්‍ය ශබ්දයක් ඇතිවීමට ප්‍රධාන හේතු කිහිපයක් බලපායි. පළමුව, Faulty injection valves හෝ වැරදි Injection timing (too early) නිසා සිලින්ඩරය තුළ අධික පීඩනයක් ඇති වී 'Combustion knock' හට ගනී. දෙවනුව, Piston clearance වැඩිවීම හෝ Cylinder liner ගෙවී යාම නිසා Piston එක සිලින්ඩරය තුළ ගැටීමෙන් (Piston slap) ශබ්දයක් ඇති වේ. තෙවනුව, Gudgeon pin හෝ Big end bearing වල Clearance වැඩිවීම (Mechanical wear) නිසා එම කොටස් වල ගැටීමෙන් ශබ්දයක් ඇති වේ. මෙම සියලු කරුණු එන්ජිමක Knocking ඇතිවීමට හේතු වන බැවින් 'Any of the below' යන්න නිවැරදි පිළිතුර වේ.",
         "tags": []
     },
     {
@@ -2109,7 +2109,7 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2023/03/crane.jpg"
         ],
-        "explanation": "",
+        "explanation": "නැව්වල ඇති Cargo gear සහ Cranes සඳහා වන ජාත්‍යන්තර රෙගුලාසි (ILO Convention 152 සහ Class rules) අනුව, මෙම උපකරණ සඳහා පූර්ණ පරීක්ෂාවක් (Thorough examination) සහ Load test එකක් සිදුකිරීම අනිවාර්ය වේ. මෙහිදී 'Annually' යනු වාර්ෂික පරීක්ෂාව සඳහා වන අතර, 'Every 2 1/2 year' යනු සාමාන්‍ය පරීක්ෂාවන් සඳහා වන කාලසීමාවකි. කෙසේ වෙතත්, සම්පූර්ණ Load test එකක් සහ පූර්ණ පරීක්ෂාවක් (Thorough examination and load test) සෑම වසර 5කට වරක් (Every 5th year) සිදුකිරීම අනිවාර්ය වේ. එබැවින් අනෙක් විකල්ප වැරදි වන අතර නිවැරදි පිළිතුර වන්නේ වසර 5කට වරක් යන්නයි.",
         "tags": []
     },
     {
@@ -2124,7 +2124,7 @@
         ],
         "correct_answer": "The accumulated water is to be drained periodically and the scupper plugs to be immediately closed once the water has been run off. Water containing oily residues is to be transferred to a slop tank or other suitable receptacle.",
         "images": [],
-        "explanation": "",
+        "explanation": "ISGOTT (International Safety Guide for Oil Tankers and Terminals) මාර්ගෝපදේශයන්ට අනුව, තෙල් ප්‍රවාහන නෞකාවක Cargo handling මෙහෙයුම් සිදුකරන විට පරිසර දූෂණය වැළැක්වීම අත්‍යවශ්‍ය වේ. මෙහිදී Scupper plugs සෑම විටම වසා තැබීම අනිවාර්ය වේ. වැසි සහිත කාලගුණයකදී Deck මත එකතු වන ජලය ඉවත් කිරීම සඳහා, එම ජලය තෙල් මිශ්‍ර වී ඇත්දැයි පරීක්ෂා කර, පසුව පමණක් පාලනය කළ ආකාරයට (periodically) ඉවත් කළ යුතුය. ඉවත් කිරීමෙන් පසු වහාම Scupper plugs නැවත වසා දැමිය යුතුය. අනෙක් පිළිතුරු වැරදි වන්නේ: Scupper plugs නිරන්තරයෙන් විවෘත කර තැබීම හෝ ඉවත් කිරීම (Option 3) මගින් තෙල් කාන්දුවක් සිදුවුවහොත් එය මුහුදට යාමට ඉඩ ඇති බැවිනි. එමෙන්ම ජලය පාලනයකින් තොරව පිටාර ගැලීමට ඉඩ දීම (Option 2) ද ආරක්ෂිත නොවේ. එබැවින් පළමු පිළිතුර පමණක් ISGOTT ප්‍රමිතීන්ට අනුකූල වේ.",
         "tags": [
             {
                 "sub_category": "Cargo",
@@ -2150,7 +2150,7 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2023/03/hose.jpg"
         ],
-        "explanation": "",
+        "explanation": "33 CFR 156 රෙගුලාසිවලට අනුව, තෙල් ටැංකි නෞකාවල Cargo transfer hoses සහ piping පද්ධතිවල ආරක්ෂාව තහවුරු කිරීම සඳහා නිශ්චිත පීඩන පරීක්ෂණයක් සිදු කළ යුතුය. මෙහිදී අනුගමනය කළ යුතු අවම අවශ්‍යතාවය වන්නේ, එම උපකරණවල Maximum Allowable Working Pressure (MAWP) මෙන් 1.5 ගුණයක Static liquid pressure එකක් යටතේ කිසිදු කාන්දුවක් (leakage) සිදු නොවිය යුතු බවයි. අනෙක් විකල්ප වැරදි වන්නේ: 1.25 ගුණයක පීඩනය ප්‍රමාණවත් නොවීම, Dynamic fluid pressure යොදා ගැනීම නීතිමය අවශ්‍යතාවය නොවීම සහ Nominal working pressure පමණක් භාවිතා කිරීම ආරක්ෂිත නොවන බැවිනි.",
         "tags": []
     },
     {
@@ -2165,7 +2165,7 @@
         ],
         "correct_answer": "Near to the deck, crawl out keeping your face as near to the deck as possible.",
         "images": [],
-        "explanation": "",
+        "explanation": "ගින්නක් ඇති වූ විට දුම (smoke) සහ විෂ වායු (toxic gases) සාමාන්‍යයෙන් ඉහළට ගමන් කරයි (buoyancy). එබැවින්, කාමරයක හෝ කොරිඩෝවක ඉහළ කොටස දුමෙන් පිරී පවතින අතර, බිම ආසන්නයේ (near to the deck) පිරිසිදු වාතය පවතින බව විද්‍යාත්මකව තහවුරු වී ඇත. 'Towards the upper part, stand as tall as possible' යන්න වැරදියි, මන්ද ඉහළ වාතයේ විෂ සහිත බව වැඩි නිසා. 'Sit and wait' යන්න අනතුරුදායකයි, මන්ද ගින්න පැතිරීමට පෙර හැකි ඉක්මනින් ඉවත් විය යුතු බැවිනි. 'It will be the same in all parts' යන්න වැරදියි, මන්ද දුම ස්ථර වශයෙන් (stratification) පවතින නිසා. එබැවින්, බිම දිගේ බඩගාමින් (crawl out) යාම ආරක්ෂිතම ක්‍රමයයි.",
         "tags": [
             {
                 "sub_category": "Firefighting",
@@ -2189,7 +2189,7 @@
         ],
         "correct_answer": "Have separate draining pumps of sufficient capacity.",
         "images": [],
-        "explanation": "",
+        "explanation": "LSA Code (Life-Saving Appliance Code) රෙගුලාසි වලට අනුව, fire-protected lifeboat එකක water spray system එකක් සඳහා අවශ්‍යතා කිහිපයක් පවතී. මෙහිදී වැරදි ප්‍රකාශය වන්නේ 'Have separate draining pumps of sufficient capacity' යන්නයි. මන්ද, lifeboat එකක ජලය ඉවත් කිරීම සඳහා සාමාන්‍යයෙන් භාවිතා කරන්නේ ස්වභාවික ජලවහන පද්ධතියක් (drainage system) මිස වෙනම පොම්ප (separate pumps) නොවේ. අනෙක් කරුණු තුන වන fresh water flushing, 8 minutes continuous oil fire protection සහ turn on/turn off පහසුකම යන සියල්ල LSA Code හි අනිවාර්ය අවශ්‍යතා වේ. එබැවින්, මෙම විකල්පය රෙගුලාසි වලට අනුකූල නොවන එකම කරුණ වේ.",
         "tags": [
             {
                 "sub_category": "Firefighting",
@@ -2215,7 +2215,7 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2023/03/hose.jpg"
         ],
-        "explanation": "",
+        "explanation": "US Coast Guard (USCG) රෙගුලාසිවලට අනුව, තෙල් හුවමාරු පද්ධතියේ (Oil transfer system) කොටස් වන hoses සහ loading arms වැනි දෑ පරීක්ෂා කිරීමේදී, ඒවායේ Maximum Allowable Working Pressure (MAWP) මෙන් 1.5 ගුණයක පීඩනයක් යෙදිය යුතුය. අනෙකුත් විකල්පයන් වැරදි වන්නේ ඒවා USCG ප්‍රමිතීන්ට අනුකූල නොවන බැවිනි. 1.75 ගුණය යනු අධික පීඩනයකි, 1.25 ගුණය යනු ප්‍රමාණවත් නොවන පීඩනයකි, සහ MAWP ට සමාන පීඩනයක් යෙදීමෙන් පද්ධතියේ ආරක්ෂිත සීමාවන් (Safety margin) නිසි ලෙස පරීක්ෂා කළ නොහැක. එබැවින් 1.5 ගුණය යනු නිවැරදි පිළිතුරයි.",
         "tags": []
     },
     {
@@ -2232,7 +2232,7 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2023/03/tank.jpg"
         ],
-        "explanation": "",
+        "explanation": "Crude Oil Washing (COW) මෙහෙයුම් වලදී ආරක්ෂාව ඉතා වැදගත් වේ. MARPOL රෙගුලාසි වලට අනුව, Inert Gas System (IGS) මගින් ටැංකිය තුළ ඇති ඔක්සිජන් මට්ටම 8% ට වඩා අඩු මට්ටමක පවත්වා ගත යුතුය. ඔක්සිජන් මට්ටම 8% ට වඩා වැඩි වුවහොත් (මෙම අවස්ථාවේදී 9%), එය ගිනි ගැනීමේ අවදානමක් (fire hazard) ඇති කරයි. එබැවින්, වහාම washing process එක නතර කළ යුතුය. අනෙක් විකල්ප වැරදි වන්නේ: 11% යනු ආරක්ෂිත සීමාව නොවේ, 2% යනු සාමාන්‍ය inert gas මට්ටම වුවද, නීතිමය වශයෙන් 8% ට වඩා අඩු වීම ප්‍රමාණවත් වේ. එබැවින්, ඔක්සිජන් මට්ටම 8% ට වඩා අඩු වන තුරු මෙහෙයුම නැවත ආරම්භ නොකළ යුතුය.",
         "tags": []
     },
     {
@@ -2247,7 +2247,7 @@
         ],
         "correct_answer": "F1B.",
         "images": [],
-        "explanation": "",
+        "explanation": "NBDP (Narrow Band Direct Printing) පද්ධතිවලදී දත්ත සම්ප්‍රේෂණය සඳහා භාවිතා කරනු ලබන්නේ F1B emission class එකයි. මෙහි F යන්නෙන් Frequency Shift Keying (FSK) ද, 1 යන්නෙන් single channel එකක් ද, B යන්නෙන් telegraphy සඳහා භාවිතා වන automatic reception ද අදහස් වේ. අනෙක් විකල්පයන් සලකා බැලීමේදී: G3E යනු VHF voice communications සඳහා භාවිතා වන Frequency Modulation (FM) වේ. J3E යනු SSB (Single Sideband) voice communications සඳහා භාවිතා වන emission class එකකි. G2B යනු සාමාන්‍යයෙන් DSC (Digital Selective Calling) සඳහා භාවිතා වන emission class එකක් වන අතර, එය NBDP සඳහා භාවිතා නොවේ. එබැවින්, නිවැරදි පිළිතුර F1B වේ.",
         "tags": [
             {
                 "sub_category": "Communication",
@@ -2267,7 +2267,7 @@
         ],
         "correct_answer": "On the tank top mid-way in 40′ guides to prevent transverse movement of 20′ containers.",
         "images": [],
-        "explanation": "",
+        "explanation": "Container vessel එකක 40' (40-foot) cell guides තුළ 20' (20-foot) containers ගබඩා කිරීමේදී, එම containers වලට පැතිවලින් (transverse direction) චලනය වීමට ඉඩක් ලැබේ. මෙය වැළැක්වීම සඳහා 40' guide එකේ මැද කොටසේ 'mid-bay guide' හෙවත් 'intermediate guide' සවි කරනු ලැබේ. අනෙක් විකල්ප වැරදි වන්නේ: 'At the ends of 40' bays' යනු 40' containers සඳහා වන අතර, 'At the base of cell guides' යනු සාමාන්‍ය guide ව්‍යුහය මිස mid-bay guide එකේ විශේෂ කාර්යය නොවේ. 'Between 20' bays on deck' යනු deck stowage සඳහා වන අතර, mid-bay guide යනු hold තුළ tank top මත සවි කරන අංගයකි.",
         "tags": [
             {
                 "sub_category": "Cargo",
@@ -2293,7 +2293,7 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2023/03/water_spray.jpg"
         ],
-        "explanation": "",
+        "explanation": "මෙම සංකේතය මගින් නිරූපණය කරන්නේ 'Start water-spray' පද්ධතියයි. මෙය සාමාන්‍යයෙන් Lifeboat එකක ඇති Fire protection system එකක් ක්‍රියාත්මක කිරීම සඳහා භාවිතා කරයි. අනෙක් පිළිතුරු වැරදි වන්නේ: 'Secure lifeboat hatches' යනු දොරවල් වසා දැමීමයි, 'Rescue boat with waterproof canopy' යනු බෝට්ටුවේ ව්‍යුහය විස්තර කිරීමකි, සහ 'Lower lifeboat to water' යනු බෝට්ටුව දියත් කිරීමේ ක්‍රියාවලියකි. මෙම සංකේතයේ ඇති ජල දහරාවන් මගින් පැහැදිලිවම පෙන්නුම් කරන්නේ Water-spray පද්ධතියක් ක්‍රියාත්මක කිරීමේ අවශ්‍යතාවයයි.",
         "tags": []
     },
     {
@@ -2310,7 +2310,7 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2023/03/diesel_engine.jpg"
         ],
-        "explanation": "",
+        "explanation": "2-stroke diesel engine එකක ක්‍රියාකාරිත්වය තේරුම් ගැනීමේදී, 'Cycle' එකක් යනු Intake, Compression, Power සහ Exhaust යන ක්‍රියාවලීන් හතරයි. 2-stroke එන්ජිමකදී මෙම ක්‍රියාවලීන් හතරම පියස්ටන් එකේ සම්පූර්ණ වට දෙකක් වෙනුවට, පියස්ටන් එකේ එක් වටයකින් (one revolution) එනම් 360 degree rotation එකකින් සම්පූර්ණ වේ. අනෙක් විකල්පයන් වැරදි වන්නේ: 1. Piston skirt එකේ දිග එන්ජින් සැලසුම මත රඳා පවතී, එය 2-stroke හෝ 4-stroke ලෙස වර්ගීකරණයට අදාළ නැත. 2. Turbocharger ගණන එන්ජිමේ ප්‍රමාණය සහ සැලසුම මත මිස stroke ගණන මත පමණක් තීරණය නොවේ. 3. බොහෝ විශාල 2-stroke marine diesel engines වල air inlet valves වෙනුවට cylinder liner එකේ ඇති 'scavenge ports' භාවිතා කරයි, එබැවින් cylinder cover එකේ inlet valve තිබීම අනිවාර්ය නොවේ.",
         "tags": []
     },
     {
@@ -2325,7 +2325,7 @@
         ],
         "correct_answer": "Cargo hold ventilation systems and associated ducting.",
         "images": [],
-        "explanation": "",
+        "explanation": "Ro-Ro නෞකාවක වාහන මත මලකඩ (rust) ඇතිවීමට ප්‍රධානම හේතුව වන්නේ Cargo hold ventilation systems හරහා නෞකාව තුළට ඇතුළු වන තෙතමනය සහිත වාතයයි. මෙහිදී Cargo hold ventilation systems සහ ඒ ආශ්‍රිත ducting පද්ධති හරහා වාතය ගමන් කරන විට, නෞකාවේ බඳ (hull) සහ වාහන අතර උෂ්ණත්ව වෙනස්කම් නිසා 'sweating' හෙවත් ඝනීභවනය (condensation) ඇතිවේ. අනෙක් විකල්පයන් වන Pipes passing through cargo holds හෝ Hydraulic units මගින් සාමාන්‍යයෙන් මලකඩ ඇති නොකරයි. Vehicles loaded wet යනු තාවකාලික තෙතමනයක් පමණක් වන අතර, දිගු කාලීන මලකඩ ඇතිවීමට ප්‍රධානම සාධකය වන්නේ වාතාශ්‍රය පද්ධතිය හරහා සිදුවන නිරන්තර තෙතමනය එකතු වීමයි.",
         "tags": [
             {
                 "sub_category": "Shipboarding",
@@ -2351,7 +2351,7 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2023/03/smoke_signals.jpg"
         ],
-        "explanation": "",
+        "explanation": "ජාත්‍යන්තර නාවික නීතිවලට (SOLAS) අනුව, ගලවා ගැනීමේ කණ්ඩායම් (Rescue units) විසින් ආපදා සංඥා (Distress signals) දුටු බව තහවුරු කිරීමට දිවා කාලයේදී භාවිතා කරන්නේ 'Orange' පැහැති දුම් සංඥාවකි (Orange smoke signal). අනෙක් වර්ණ වන Blue, Yellow හෝ Green යනු ආපදා තත්ත්වයන් තහවුරු කිරීම සඳහා භාවිතා කරන සම්මත වර්ණ නොවේ. Orange වර්ණය දිවා කාලයේදී මුහුදේ පසුබිමෙන් ඉතා පැහැදිලිව කැපී පෙනෙන බැවින් එය ගලවා ගැනීමේ මෙහෙයුම් සඳහා ප්‍රමිතියක් ලෙස භාවිතා කරයි.",
         "tags": []
     },
     {
@@ -2368,7 +2368,7 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2023/03/fire_wires.jpg"
         ],
-        "explanation": "",
+        "explanation": "Emergency towing-off wires, හෙවත් Fire wires, නැවක Mooring මෙහෙයුම් වලදී අත්‍යවශ්‍ය ආරක්ෂක උපකරණයකි. මෙහි ප්‍රධාන අරමුණ වන්නේ හදිසි ගින්නක් හෝ වෙනත් හදිසි අවස්ථාවකදී, Tug boat එකක් මගින් නැව වහාම Terminal එකෙන් ඉවතට ඇදගෙන යාමට පහසුකම් සැලසීමයි. 1. 'During loading/discharging of persistent/non-persistent oil' යනු නිවැරදි පිළිතුරයි. මන්ද, තෙල් ප්‍රවාහනය කරන නැව්වල (Oil Tankers) ගින්නක් ඇතිවීමේ අවදානම ඉහළ බැවින්, ජාත්‍යන්තර නීති රීති (ISGOTT වැනි) අනුව Cargo මෙහෙයුම් වලදී Fire wires සූදානම් කර තැබීම අනිවාර්ය වේ. 2. 'At all terminals where tugs are available' යන්න වැරදියි, මන්ද Tug එකක් තිබීම පමණක් Fire wires භාවිතා කිරීමට හේතුවක් නොවේ. 3. 'When requested by the terminal staff' යන්න අර්ධ වශයෙන් සත්‍ය වුවත්, මෙය නීතියක් ලෙස සැමවිටම අනිවාර්ය වන්නේ තෙල් මෙහෙයුම් වලදීය. 4. 'At the terminals in Canada and USA' යන්න වැරදියි, මන්ද මෙය ලොව පුරා තෙල් පර්යන්තවල අනුගමනය කළ යුතු පොදු ආරක්ෂක ක්‍රියා පටිපාටියක් මිස එක් රටකට පමණක් සීමා වූවක් නොවේ.",
         "tags": []
     },
     {
@@ -2385,7 +2385,7 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2023/03/flat_file.jpg"
         ],
-        "explanation": "",
+        "explanation": "මෙම රූපයේ දැක්වෙන්නේ ලෝහ හෝ දැව මතුපිටක් සුමට කිරීමට හෝ අතිරික්ත ද්‍රව්‍ය ඉවත් කිරීමට භාවිතා කරන 'Flat file' එකකි. අනෙකුත් විකල්පයන් විශ්ලේෂණය කරමු: 1. Grinding machine යනු විදුලියෙන් ක්‍රියාත්මක වන භ්‍රමණය වන රෝද සහිත උපකරණයකි, මෙය අතින් භාවිතා කරන මෙවලමක් නොවේ. 2. Chisel (මිටියකින් තට්ටු කර කැපීමට ගන්නා උපකරණය) මෙයට වඩා වෙනස් හැඩයකින් යුක්ත වේ. 3. Pliers යනු වස්තූන් අල්ලා ගැනීමට හෝ කම්බි කැපීමට භාවිතා කරන මෙවලමකි. එබැවින්, රූපයේ ඇති මෙවලමෙහි හැඩය සහ දත් සහිත මතුපිට අනුව එය නිවැරදිව 'Flat file' ලෙස හඳුනාගත හැකිය.",
         "tags": []
     },
     {
@@ -2402,7 +2402,7 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2023/03/circuit.jpg"
         ],
-        "explanation": "",
+        "explanation": "විද්‍යුත් පරිපථයක ප්‍රතිරෝධක (Resistors) ශ්‍රේණිගතව (Series connection) සම්බන්ධ කර ඇති විට, එහි සමස්ත ප්‍රතිරෝධය (Equivalent resistance - R(S)) සෙවීම සඳහා එම ප්‍රතිරෝධකවල අගයන් එකතු කළ යුතුය. සූත්‍රය වන්නේ R(S) = R1 + R2 වේ. මෙහි R1 = 6 ohm සහ R2 = 12 ohm ලෙස ලබා දී ඇත. එබැවින් R(S) = 6 + 12 = 18 ohm වේ. අනෙක් පිළිතුරු වැරදි වන්නේ, 4 ohm, 2 ohm සහ 1.5 ohm යන අගයන් ලැබෙන්නේ ප්‍රතිරෝධක සමාන්තරගතව (Parallel connection) සම්බන්ධ කිරීමේදී හෝ වෙනත් වැරදි ගණිතමය ක්‍රම භාවිතා කිරීමේදී පමණක් වන බැවිනි. ශ්‍රේණිගත සම්බන්ධතාවයකදී ප්‍රතිරෝධය සැමවිටම තනි තනි ප්‍රතිරෝධකවල අගයන්ට වඩා වැඩි වේ.",
         "tags": []
     },
     {
@@ -2419,7 +2419,7 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2023/03/circuits.jpg"
         ],
-        "explanation": "",
+        "explanation": "Capacitors ශ්‍රේණිගතව (Series connection) සම්බන්ධ කර ඇති විට, ඒවායේ සමක ධාරිතාව (Equivalent Capacitance - Cs) සෙවීමට 1/Cs = 1/C1 + 1/C2 යන සූත්‍රය භාවිතා කරයි. මෙහි C1 = 6 μF සහ C2 = 12 μF වේ. එබැවින් 1/Cs = 1/6 + 1/12 වේ. හරය සමාන කිරීමේදී 1/Cs = 2/12 + 1/12 = 3/12 ලැබේ. එවිට Cs = 12/3 = 4 μF ලෙස ලැබේ. අනෙක් පිළිතුරු වැරදි වන්නේ: 1.5 μF යනු ගණනය කිරීමේදී වැරදි සූත්‍ර භාවිතයකි, 2 μF යනු වැරදි බෙදීමකි, සහ 18 μF යනු Capacitor සමාන්තරගතව (Parallel) සම්බන්ධ කළ විට ලැබෙන අගයයි (C1+C2). එබැවින් නිවැරදි පිළිතුර 4 μF වේ.",
         "tags": []
     },
     {
@@ -2436,7 +2436,7 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2023/03/signal.jpg"
         ],
-        "explanation": "",
+        "explanation": "COLREGs රීතිවලට අනුව, යාත්‍රා කරන යාත්‍රාවක (Sailing vessel) රාත්‍රී කාලයේදී පෙන්විය යුතු ආලෝක රටාවන් මෙහිදී වැදගත් වේ. රූපයේ දැක්වෙන්නේ රතු සහ කොළ පැහැති ආලෝකයන් එකම ස්ථානයක (Combined lantern) දැල්වෙන ආකාරයයි. මෙය 'Head-on' දර්ශනයකි. COLREGs රීති 25 ට අනුව, මීටර් 20 ට අඩු යාත්‍රා සඳහා වෙන වෙනම sidelights වෙනුවට masthead එකේ හෝ ඒ ආසන්නයේ Combined lantern එකක් භාවිතා කිරීමට අවසර ඇත. අනෙක් විකල්ප වැරදි වන්නේ: 'Astern' දර්ශනයකදී සුදු පැහැති Stern light එකක් දැකිය යුතුය. මීටර් 10 ට අඩු යාත්‍රා සඳහා ද මෙම නීතිය අදාළ වුවත්, සාමාන්‍යයෙන් මෙම ආලෝක රටාව මීටර් 20 ට අඩු යාත්‍රා සඳහා වන විකල්පයක් ලෙස හඳුනා ගැනේ. 'At anchor' තත්ත්වයේදී සුදු පැහැති All-round light එකක් දැකිය යුතු බැවින් එයද වැරදිය.",
         "tags": []
     },
     {
@@ -2451,7 +2451,7 @@
         ],
         "correct_answer": "Because they are more easily tightened and held in tension.",
         "images": [],
-        "explanation": "",
+        "explanation": "General cargo lashing වලදී කෙටි lashing (short lashings) භාවිතා කිරීම වඩාත් සුදුසු වන්නේ, ඒවා මගින් භාණ්ඩය වඩාත් තදින් (tight) සහ ස්ථාවරව රඳවා ගැනීමට හැකි වන බැවිනි. දිගු lashing (long lashings) භාවිතා කරන විට, ඒවායේ ඇති ප්‍රත්‍යාස්ථතාව (elasticity) නිසා භාණ්ඩය චලනය වීමට වැඩි ඉඩක් ලැබේ. කෙටි lashing මගින් tension එක පවත්වා ගැනීම පහසු වන අතර, නැව ගමන් කරන විට ඇතිවන චලනයන් හමුවේ භාණ්ඩය ලිහිල් වීම (slackening) අවම කරයි. අනෙක් පිළිතුරු වැරදි වන්නේ, vibration හෝ lashing points වල සැලසුම ප්‍රධාන හේතුව නොවන අතර, Safe Working Load (SWL) යනු ද්‍රව්‍යයේ දිග මත පමණක් රඳා පවතින සාධකයක් නොවන බැවිනි.",
         "tags": [
             {
                 "sub_category": "Cargo",
@@ -2475,7 +2475,7 @@
         ],
         "correct_answer": "When wave lengths are equal to the ship’s length.",
         "images": [],
-        "explanation": "",
+        "explanation": "නැවක Pitching චලිතය උපරිම මට්ටමට පත්වන්නේ නැවේ දිග (Ship's length) සහ තරංගයේ දිග (Wave length) සමාන වූ විටය. මෙහිදී නැවේ ඉදිරිපස (Bow) සහ පසුපස (Stern) එකවර තරංග මුදුන්වල හෝ තරංග නිම්නවල පිහිටීම නිසා නැව දැඩි ලෙස Pitch වීමට ලක්වේ. අනෙක් විකල්පයන් වන තරංග දිග නැවේ දිගට වඩා අඩු හෝ වැඩි අවස්ථාවලදී Pitching බලපෑම සාපේක්ෂව අඩු වේ. Confused seas යනු තරංග විවිධ දිශාවලින් පැමිණෙන අවස්ථාවක් වුවද, Pitching උපරිම වීමට භෞතික විද්‍යාත්මකව වඩාත්ම බලපාන්නේ තරංග දිග සහ නැවේ දිග සමාන වීමයි.",
         "tags": [
             {
                 "sub_category": "Shipboarding",
@@ -2499,7 +2499,7 @@
         ],
         "correct_answer": "Take over the steering of the ship.",
         "images": [],
-        "explanation": "",
+        "explanation": "නාවික ක්ෂේත්‍රයේ 'Helm' යනු නෞකාව මෙහෙයවන සුක්කානම (Steering wheel) හැඳින්වීමට භාවිතා කරන පදයකි. එබැවින් 'Take the helm' යන්නෙන් අදහස් වන්නේ නෞකාවේ සුක්කානම පාලනය කිරීමේ වගකීම භාර ගැනීමයි. අනෙක් පිළිතුරු විශ්ලේෂණය කළහොත්: 'Take a message to another officer' යනු පණිවිඩයක් රැගෙන යාමයි, 'Take over heaving of a rope' යනු කඹයක් ඇදීමේ කාර්යය භාර ගැනීමයි, සහ 'Change the place where the lookout is standing' යනු නිරීක්ෂකයා සිටින ස්ථානය වෙනස් කිරීමයි. මේවා කිසිවක් සුක්කානම පාලනය කිරීම හා සම්බන්ධ නොවේ. එබැවින් නිවැරදි පිළිතුර වන්නේ 'Take over the steering of the ship' යන්නයි.",
         "tags": [
             {
                 "sub_category": "Navigation",
@@ -2549,7 +2549,7 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2023/03/first_aid.jpg"
         ],
-        "explanation": "",
+        "explanation": "විෂ සහිත ද්‍රව්‍ය (poisonous material) ශරීරගත විය හැකි ප්‍රධාන මාර්ග තුනක් මෙහි දක්වා ඇත. 1. Skin absorption සහ Skin penetration: සම හරහා විෂ ද්‍රව්‍ය අවශෝෂණය වීම හෝ තුවාලයක් හරහා රුධිරයට ඇතුළු වීම සිදුවිය හැක. 2. Swallowing (ආහාර මාර්ගය හරහා): විෂ සහිත ද්‍රව්‍ය අහම්බෙන් හෝ නොදැනුවත්ව මුඛය හරහා ශරීරගත වීම. 3. Inhalation (ආශ්වාස කිරීම): වාතයේ පවතින විෂ සහිත වායු, දූවිලි හෝ රසායනික වාෂ්ප ආශ්වාස කිරීමෙන් පෙනහළු හරහා රුධිරයට විෂ ඇතුළු විය හැක. මෙම ක්‍රම තුනම විෂ ශරීරගත වීමට හේතු වන බැවින් 'All mentioned' යනු නිවැරදි පිළිතුරයි.",
         "tags": []
     },
     {
@@ -2564,7 +2564,7 @@
         ],
         "correct_answer": "A helm used to steer the ship.",
         "images": [],
-        "explanation": "",
+        "explanation": "නැවක Steering wheel එකක් යනු නැව පාලනය කිරීමට (Steering) භාවිතා කරන ප්‍රධාන උපකරණයයි. මෙය සාමාන්‍යයෙන් Helm ලෙස හඳුන්වනු ලබයි. අනෙක් විකල්පයන් වැරදි වන්නේ: 'A drum for heaving of ropes' යනු Winch හෝ Capstan එකක් මිස Steering wheel එකක් නොවේ. 'A steering compass' යනු නැවේ දිශාව බලා ගැනීමට භාවිතා කරන උපකරණයකි. 'Another name for a lifebuoy' යනු ජීවිතාරක්ෂක උපකරණයක් වන අතර එය නැව පාලනය කිරීමට සම්බන්ධ නැත. එබැවින් නිවැරදි පිළිතුර වන්නේ A helm used to steer the ship යන්නයි.",
         "tags": [
             {
                 "sub_category": "Navigation",
@@ -2584,7 +2584,7 @@
         ],
         "correct_answer": "Outside the colored zone.",
         "images": [],
-        "explanation": "",
+        "explanation": "Mooring operations වලදී Snap-back zone හඳුනා ගැනීම ඉතා වැදගත් වේ. Snap-back zone යනු Mooring rope එකක් හෝ wire එකක් හදිසියේ කැඩී ගියහොත් (Snap-back), එය අධික වේගයෙන් ආපසු පැමිණිය හැකි අනතුරුදායක ප්‍රදේශයයි. මෙම ප්‍රදේශ බොහෝ විට තීන්ත ආලේප කර (Colored zone) සලකුණු කර ඇත. 'Behind the point of restraint' හෝ 'Between the point of break and restraint' යන ස්ථාන ඉතා අනතුරුදායක වන්නේ, එම ස්ථානවලට Snap-back එකක් පැමිණීමේ ඉහළ සම්භාවිතාවක් පවතින බැවිනි. 'Where ever you feel safe' යන්න වැරදි පිළිතුරකි, මන්ද ආරක්ෂාව තීරණය වන්නේ පුද්ගලික හැඟීම මත නොව නිවැරදි Safety protocols මත බැවිනි. එබැවින්, සෑම විටම Colored zone එකෙන් පිටත (Outside the colored zone) සිටීම පමණක් ආරක්ෂිත වේ.",
         "tags": [
             {
                 "sub_category": "Deck",
@@ -2610,7 +2610,7 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2023/03/inductors-1.jpg"
         ],
-        "explanation": "",
+        "explanation": "Inductors ශ්‍රේණිගතව (Series connection) සම්බන්ධ කර ඇති විට, ඒවායේ මුළු Inductance එක (Total Inductance - L(S)) සෙවීම සඳහා සරලව එම අගයන් එකතු කළ යුතුය. සූත්‍රය වන්නේ L(S) = L(1) + L(2) වේ. මෙහි L(1) = 6 H සහ L(2) = 12 H බැවින්, L(S) = 6 H + 12 H = 18 H වේ. අනෙක් පිළිතුරු වැරදි වන්නේ, 4 H සහ 2 H යනු Inductors සමාන්තරගතව (Parallel connection) සම්බන්ධ කළ විට ලැබෙන අගයන් ගණනය කිරීමේදී හෝ වැරදි සූත්‍ර භාවිත කිරීමේදී ලැබෙන අගයන් වන බැවිනි. එබැවින් 18 H යනු නිවැරදි පිළිතුරයි.",
         "tags": []
     },
     {
@@ -2625,7 +2625,7 @@
         ],
         "correct_answer": "Methanol.",
         "images": [],
-        "explanation": "",
+        "explanation": "Wall-wash test එකක් සිදු කිරීමේදී, cargo tank එකේ පිරිසිදුකම පරීක්ෂා කිරීමට පෙර tank walls මත ඉතිරි වී ඇති අපද්‍රව්‍ය ඉවත් කිරීමට හෝ පරීක්ෂණ සාම්පල ලබා ගැනීමට සුදුසු ද්‍රාවකයක් (solvent) භාවිතා කළ යුතුය. මෙහිදී Methanol ප්‍රධාන වශයෙන් භාවිතා කරන්නේ එහි ඇති ඉහළ ද්‍රාව්‍යතා හැකියාව (solvency power) සහ පහසුවෙන් වාෂ්ප වී යාමේ ගුණය නිසාය. අනෙකුත් විකල්ප සලකා බැලීමේදී: Water යනු බොහෝ රසායනික ද්‍රව්‍ය සඳහා ප්‍රමාණවත් ද්‍රාවකයක් නොවේ. Industrial Ethanol සහ Iso-propanol ද ඇතැම් විට භාවිතා කළ හැකි වුවද, කර්මාන්තයේ ප්‍රමිතියට අනුව සහ බොහෝ sensitive chemical cargoes සඳහා wall-wash agent එක ලෙස බහුලවම නිර්දේශ කරන්නේ Methanol වේ. එබැවින් Methanol නිවැරදි පිළිතුර වේ.",
         "tags": [
             {
                 "sub_category": "Shipboarding",
@@ -2651,7 +2651,7 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2023/03/lifejacket.jpg"
         ],
-        "explanation": "",
+        "explanation": "LSA Code (International Life-Saving Appliance Code) රෙගුලාසිවලට අනුව, ඕනෑම පුද්ගලයෙකුට Lifejacket එකක් කිසිදු සහායකයෙකු නොමැතිව, නිවැරදිව සහ ඉක්මනින් පැළඳ ගැනීමට හැකි විය යුතුය. මෙම රෙගුලාසිවලට අනුව, එම ක්‍රියාවලිය සඳහා ගතවන උපරිම කාලය මිනිත්තු 1ක් (1 min) ලෙස නියම කර ඇත. මෙහිදී අනෙකුත් විකල්ප වන 30 sec, 2 min සහ 10 sec වැරදි වන්නේ ඒවා LSA Code හි සඳහන් වන නිල ප්‍රමිතියට අනුකූල නොවන බැවිනි. හදිසි අවස්ථාවකදී (Emergency situation) කාලය ඉතා තීරණාත්මක බැවින්, මිනිත්තු 1ක කාල සීමාව තුළ එය පැළඳීමට හැකිවීම අනිවාර්ය වේ.",
         "tags": []
     },
     {
@@ -2666,7 +2666,7 @@
         ],
         "correct_answer": "They must now be carried in double-hull tankers.",
         "images": [],
-        "explanation": "",
+        "explanation": "2007 ජනවාරි 1 වන දින සිට MARPOL සහ IBC Code වෙත හඳුන්වා දුන් සංශෝධනවලට අනුව, Vegetable Oils (එළවළු තෙල්) ප්‍රවාහනය කිරීමේදී දැඩි ආරක්ෂිත පියවරයන් අනුගමනය කිරීම අනිවාර්ය විය. මෙහිදී ප්‍රධානම වෙනස වූයේ මෙම ද්‍රව්‍ය ප්‍රවාහනය කරන ටැංකි නෞකා (Tankers) අනිවාර්යයෙන්ම Double-hull ව්‍යුහයකින් සමන්විත විය යුතු බවයි. අනෙක් විකල්පයන් වැරදි වන්නේ: 'Type 2 tanks' යනු රසායනික ද්‍රව්‍ය සඳහා වන වර්ගීකරණයක් මිස එළවළු තෙල් සඳහා පමණක් සීමා වූ අනිවාර්ය අවශ්‍යතාවයක් නොවේ. 'There is no changes' යන්න වැරදියි, මන්ද පරිසර දූෂණය වැළැක්වීම සඳහා මෙම නීති සංශෝධනය ඉතා වැදගත් වූ බැවිනි.",
         "tags": [
             {
                 "sub_category": "Legislation",
@@ -2692,7 +2692,7 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2023/03/water_tube_boiler.jpg"
         ],
-        "explanation": "",
+        "explanation": "Water-tube boiler එකක ජලය ගමන් කරන්නේ නල (tubes) තුළින් වන අතර, දහන වායු (combustion gases) නල වටා ගමන් කරයි. මෙහි ජල පරිමාව (water capacity) අඩු බැවින් සහ තාප හුවමාරුව (heat transfer) ඉතා කාර්යක්ෂම බැවින්, ජලය නොමැතිව (run dry) ක්‍රියාත්මක වුවහොත් නල ඉතා ඉක්මනින් අධික උෂ්ණත්වයට පත්වී විනාශ වේ. අනෙක් විකල්ප වැරදි වීමට හේතු: 1) ඕනෑම boiler එකකට feedwater line එකේ Non-return valve එකක් අනිවාර්ය වේ. 2) ජලය නොමැතිව Water-tube boiler එකක් ක්‍රියාත්මක කිරීම ඉතා භයානක වන අතර එය කිසිසේත් ඉවසිය නොහැක. 3) Fire-tube boiler එකක ජල පරිමාව වැඩි බැවින් එය ඉහළ පීඩනයකට (high steam pressure) ඔරොත්තු දීමට සුදුසු නොවේ; ඉහළ පීඩනය සඳහා වඩාත් සුදුසු වන්නේ Water-tube boiler වේ.",
         "tags": []
     },
     {
@@ -2709,7 +2709,7 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2023/03/deck_1.jpg"
         ],
-        "explanation": "",
+        "explanation": "Panama Lead යනු Panama Canal හරහා ගමන් කරන නැව් සඳහා විශේෂයෙන් නිර්මාණය කර ඇති, නැවේ තට්ටුවේ (deck) ඉදිරිපස හෝ පසුපස කොටසේ සවි කර ඇති විශාල 'closed chocks' වර්ගයකි. ලබා දී ඇති රූප සටහන අනුව, A සහ B යනු සාමාන්‍ය Fairleads හෝ Roller fairleads වේ. D යනු Bollard එකක් වේ. C මගින් පෙන්වා ඇත්තේ Panama Canal නීති රීති වලට අනුකූලව ටග් බෝට්ටු (tug boats) මගින් ලබා දෙන කඹ (towing lines) සඳහා භාවිතා කරන විශේෂිත ව්‍යුහය වන Panama Lead එකයි. එබැවින් C නිවැරදි පිළිතුර වේ.",
         "tags": []
     },
     {
@@ -2724,7 +2724,7 @@
         ],
         "correct_answer": "The bottom washing starts whilst there is still a small amount of cargo in the tank.",
         "images": [],
-        "explanation": "",
+        "explanation": "Crude Oil Washing (COW) ක්‍රියාවලියේදී 'Wet washing' යනු ටැංකියේ පතුලේ තවමත් යම් ප්‍රමාණයක භාණ්ඩයක් (cargo) ඉතිරිව තිබියදී සේදීම ආරම්භ කිරීමයි. අනෙක් විකල්ප වැරදි වන්නේ: 'Dry top washing and wet bottom washing' යනු ක්‍රම දෙකක එකතුවක් මිස 'wet washing' පමණක් නොවේ. 'Oil is too wet' යන්නෙන් අදහස් කරන්නේ තෙල්වල ජලය අඩංගු වීමයි, එය මෙහි අර්ථ දැක්වීමට අදාළ නොවේ. 'Start the wet crude on washing on a dry bottom' යනු වැරදි අර්ථ දැක්වීමකි, මන්ද 'dry bottom' යනු 'dry washing' සඳහා භාවිතා කරන පදයකි.",
         "tags": [
             {
                 "sub_category": "Shipboarding",
@@ -2748,7 +2748,7 @@
         ],
         "correct_answer": "Bleach.",
         "images": [],
-        "explanation": "",
+        "explanation": "Galley areas (මුළුතැන්ගෙයි ප්‍රදේශ) පිරිසිදු කිරීමේදී විෂබීජ නාශකයක් ලෙස සහ පැල්ලම් ඉවත් කිරීම සඳහා බහුලව භාවිතා කරන රසායනික ද්‍රව්‍යය වන්නේ Bleach (Sodium Hypochlorite) වේ. අනෙකුත් විකල්ප විශ්ලේෂණය කරමු: 'Beach' යනු වෙරළ තීරයයි, 'Blanch' යනු ආහාර පිසීමේදී එළවළු වැනි දේ උණු වතුරේ දමා ඉක්මනින් ඉවත් කිරීමේ ක්‍රියාවලියකි, සහ 'Breach' යනු යම් නීතියක් හෝ ගිවිසුමක් කඩ කිරීමයි. මේවා කිසිවක් පිරිසිදු කිරීමේ රසායනික ද්‍රව්‍ය නොවේ. එබැවින් නිවැරදි පිළිතුර Bleach වේ.",
         "tags": [
             {
                 "sub_category": "Safety",
@@ -2768,7 +2768,7 @@
         ],
         "correct_answer": "Tell the jettyman to stop loading immediately.",
         "images": [],
-        "explanation": "",
+        "explanation": "මෙම අවස්ථාවේදී ප්‍රධානතම අරමුණ වන්නේ තවදුරටත් තෙල් කාන්දුවීම වැළැක්වීමයි (Stop the pollution source). 'Find out if the oil is coming from your vessel' යන්න වැරදියි, මන්ද පරීක්ෂා කිරීමට කාලය ගතවන අතර එම කාලය තුළ තෙල් කාන්දුවීම වැඩි විය හැකි බැවිනි. 'Call the Master' යනු කළ යුතු දෙයක් වුවද, එය පළමු පියවර නොවේ. 'Check the ODME' යනු මෙහිදී අදාළ නොවේ, මන්ද ODME භාවිතා කරන්නේ මුහුදේදී තෙල් මිශ්‍ර ජලය බැහැර කිරීමේදී පමණි. එබැවින්, ඕනෑම තෙල් කාන්දුවක් වාර්තා වූ වහාම 'Cargo loading' ක්‍රියාවලිය වහාම නතර කිරීම (Stop loading) මගින් පරිසර දූෂණය අවම කිරීම සහ වගකීමෙන් බැඳී සිටීම සිදු කළ යුතුය.",
         "tags": [
             {
                 "sub_category": "Environmental",
@@ -2794,7 +2794,7 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2023/03/gmdss.jpg"
         ],
-        "explanation": "",
+        "explanation": "GMDSS (Global Maritime Distress and Safety System) හි Sea areas වර්ගීකරණය අනුව A4 ප්‍රදේශය යනු A1, A2 සහ A3 යන කලාපවලට අයත් නොවන ප්‍රදේශ වේ. මෙහිදී A1 යනු VHF ආවරණය සහිත වෙරළබඩ ප්‍රදේශයයි. A2 යනු MF ආවරණය සහිත ප්‍රදේශයයි. A3 යනු Inmarsat චන්ද්‍රිකා ආවරණය සහිත ප්‍රදේශයයි. A4 ප්‍රදේශය ප්‍රධාන වශයෙන් පෘථිවියේ ධ්‍රැවීය ප්‍රදේශ (Polar regions) ආවරණය කරයි. එබැවින්, 'Outside the sea areas A1, A2 and A3' යන්න නිවැරදි පිළිතුර වේ. අනෙක් පිළිතුරු වැරදි වන්නේ ඒවා A1, A2 හෝ A3 කලාපවල අර්ථ දැක්වීම් විස්තර කරන බැවිනි.",
         "tags": []
     },
     {
@@ -2811,7 +2811,7 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2023/03/scheme.jpg"
         ],
-        "explanation": "",
+        "explanation": "Power triangle එකක (Power Triangle) Active Power (kW) සැමවිටම තිරස් අක්ෂය (Horizontal axis) ඔස්සේ නිරූපණය කෙරේ. මෙහි (X) මගින් නිරූපණය වන්නේ Active Power හෙවත් Real Power වේ. Reactive Power (kVAR) සැමවිටම සිරස් අක්ෂය (Vertical axis) ඔස්සේ නිරූපණය වන අතර, ලබා දී ඇති රූප සටහනේ (Y) මගින් නිරූපණය වන්නේ Reactive Power වේ. එබැවින්, (X) යනු Active Power වන බැවින් එය වැරදි පිළිතුරකි. (Y) යනු Reactive Power වන බැවින් එය නිවැරදි පිළිතුර වේ. Alternators parallel ක්‍රියාත්මක වන විට Reactive load බෙදාගැනීම සඳහා Excitation පාලනය කිරීම අත්‍යවශ්‍ය වේ.",
         "tags": []
     },
     {
@@ -2826,7 +2826,7 @@
         ],
         "correct_answer": "Checking that passengers and crew are suitably dressed and lifejackets correctly donned.",
         "images": [],
-        "explanation": "",
+        "explanation": "SOLAS (Safety of Life at Sea) රෙගුලාසිවලට අනුව, 'abandon ship' අභ්‍යාසයකදී (drill) ප්‍රධාන අරමුණ වන්නේ හදිසි අවස්ථාවකදී ජීවිත ආරක්ෂාව තහවුරු කිරීමයි. මෙහිදී මගීන් සහ කාර්ය මණ්ඩලය නිසි ලෙස ඇඳුම් ඇඳ සිටිනවාද සහ Lifejackets නිවැරදිව පැළඳ සිටිනවාද යන්න පරීක්ෂා කිරීම අනිවාර්ය වේ. අනෙක් විකල්පයන් වන 'Checking that all crew and passenger are present' යන්න Muster list එක අනුව සිදුකළ යුතු වුවත්, drill එකකදී වඩාත් තීරණාත්මක වන්නේ පුද්ගලයන්ගේ ආරක්ෂිත ඇඳුම් පැළඳුම් සහ Lifejackets නිවැරදි බව තහවුරු කිරීමයි. 'Distress signal rockets' සහ 'Lifeboat provisions' පරීක්ෂා කිරීම නඩත්තු කටයුතු (Maintenance) යටතට ගැනෙන අතර, ඒවා drill එකකදී ප්‍රධාන අංග නොවේ.",
         "tags": [
             {
                 "sub_category": "Safety",
@@ -2850,7 +2850,7 @@
         ],
         "correct_answer": "Inform the bridge of any new lights when they appear over the horizon or any other items observed which may affect the ship.",
         "images": [],
-        "explanation": "",
+        "explanation": "රාත්‍රී කාලයේදී Bridge lookout කෙනෙකුගේ ප්‍රධාන වගකීම වන්නේ නෞකාවේ ආරක්ෂාවට බලපෑ හැකි ඕනෑම දෙයක් පිළිබඳව දැනුවත් කිරීමයි. මෙහිදී නිවැරදි පිළිතුර වන්නේ 'Inform the bridge of any new lights when they appear over the horizon or any other items observed which may affect the ship' යන්නයි. අනෙක් පිළිතුරු වැරදි වන්නේ ඒවා ඉතා සීමිත අරමුණු පමණක් ආවරණය කරන බැවිනි. උදාහරණයක් ලෙස, කාලගුණික රටා (weather patterns) නිරීක්ෂණය කිරීම lookout කෙනෙකුගේ ප්‍රධාන කාර්යය නොවන අතර, හුදෙක් ආලෝකයන් (lights) පමණක් නොව පාවෙන වස්තූන් හෝ වෙනත් අනතුරුදායක දේවල් (items) නිරීක්ෂණය කිරීම අත්‍යවශ්‍ය වේ. එසේම, ළඟා වන නැව් පමණක් නොව, ඕනෑම නව වස්තුවක් හෝ ආලෝකයක් පිළිබඳව වහාම දැනුම් දීම නාවික ආරක්ෂාව (Navigation safety) සඳහා අනිවාර්ය වේ.",
         "tags": [
             {
                 "sub_category": "Watchkeeping",
@@ -2874,7 +2874,7 @@
         ],
         "correct_answer": "Good eyesight and able to communicate with the OOW (officer on watch).",
         "images": [],
-        "explanation": "",
+        "explanation": "Lookout කෙනෙකුගේ ප්‍රධානතම වගකීම වන්නේ නෞකාවේ ආරක්ෂාව සඳහා අවට පරිසරය නිරීක්ෂණය කිරීමයි. මෙහිදී 'Good eyesight' තිබීම අත්‍යවශ්‍ය වන්නේ දෘශ්‍යමාන වන ඕනෑම වස්තුවක් හෝ අනතුරක් ඉක්මනින් හඳුනා ගැනීමටයි. එසේම, හඳුනාගන්නා තොරතුරු වහාම 'Officer of the Watch' (OOW) වෙත වාර්තා කිරීමට හැකිවීම අත්‍යවශ්‍ය වේ. අනෙක් විකල්පයන් වන කාලගුණ රටා බැලීම හෝ නැව් වර්ග තක්සේරු කිරීම lookout කෙනෙකුගේ ද්විතීයික කාර්යයන් විය හැකි නමුත්, ප්‍රධාන අවශ්‍යතාවය වන්නේ සන්නිවේදනය සහ නිරීක්ෂණ හැකියාවයි. 'To detect new targets' යනු කාර්යයේ කොටසක් වුවද, එය ඉටු කිරීමට නම් මූලිකවම හොඳ පෙනීමක් සහ OOW සමඟ සන්නිවේදනය කිරීමේ හැකියාව තිබිය යුතුය.",
         "tags": [
             {
                 "sub_category": "Watchkeeping",
@@ -2898,7 +2898,7 @@
         ],
         "correct_answer": "Insufficient amount of bowl closing water.",
         "images": [],
-        "explanation": "",
+        "explanation": "Solids ejecting separator එකක bowl එකේ ඇති sliding piston එක නිසි ලෙස වසා තබා ගැනීමට (seal කිරීමට) bowl closing water පීඩනය අත්‍යවශ්‍ය වේ. bowl closing water ප්‍රමාණය ප්‍රමාණවත් නොවන විට, sliding piston එක සම්පූර්ණයෙන්ම වසා තැබීමට නොහැකි වීම නිසා, පිරිසිදු කරන තෙල් (oil) bowl එකේ අභ්‍යන්තරයෙන් කාන්දු වී bowl casing drain එක හරහා පිටතට පැමිණේ. අනෙක් විකල්පයන් වන flow rate එක වැඩි වීම හෝ sludge tank එක පිරී තිබීම මගින් සාමාන්‍යයෙන් separator එකේ ක්‍රියාකාරිත්වයට බාධා ඇති වුවද, bowl casing drain එකෙන් කෙලින්ම තෙල් පිටවීම සිදුවන්නේ bowl එකේ seal එක අසාර්ථක වීමෙනි. එබැවින්, bowl closing water ප්‍රමාණවත් නොවීම මෙයට ප්‍රධානතම හේතුව වේ.",
         "tags": [
             {
                 "sub_category": "Fuels",
@@ -2924,7 +2924,7 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2023/03/vessel_sheme.jpg"
         ],
-        "explanation": "",
+        "explanation": "නාවික ශිල්පයේදී (Naval Architecture) නැවක 'Height' හෙවත් 'Depth' යනු නැවේ keel මට්ටමේ සිට uppermost continuous deck හෙවත් ප්‍රධාන තට්ටුව දක්වා ඇති සිරස් දුරයි (vertical distance). ලබා දී ඇති රූප සටහනට අනුව, D මගින් නිරූපණය වන්නේ නැවේ පතුලේ සිට ඉහළම තට්ටුව දක්වා ඇති සම්පූර්ණ සිරස් උසයි. අනෙක් විකල්පයන් වන A, B සහ C මගින් නැවේ අනෙකුත් මානයන් වන Draft, Freeboard හෝ Breadth වැනි දේ නිරූපණය විය හැකි බැවින් ඒවා වැරදිය. එබැවින් D යනු නිවැරදි පිළිතුරයි.",
         "tags": []
     },
     {
@@ -2941,7 +2941,7 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2023/03/gmdss.jpg"
         ],
-        "explanation": "",
+        "explanation": "VHF radio උපකරණවල සාමාන්‍යයෙන් High power (25 watts) සහ Low power (Reduced power) ලෙස සැකසුම් දෙකක් පවතී. මෙහිදී 'Reduced transmitting power' යන්නෙන් අදහස් කරන්නේ 0.5 සිට 1 watt දක්වා පරාසයයි. අනෙක් විකල්ප වන 5-10 watt හෝ 6-25 watt යනු VHF සඳහා නියමිත සම්මත අඩු බල සැකසුම් නොවේ. 25 watts යනු උපරිම බලය (Maximum power) වන අතර, අනවශ්‍ය ලෙස සංඥා දුරස්ථ ස්ථානවලට යාම වැළැක්වීමට සහ බැටරි බලය ඉතිරි කර ගැනීමට කෙටි දුර සන්නිවේදනය සඳහා මෙම 0.5-1 watt පරාසය භාවිතා කරයි.",
         "tags": []
     },
     {
@@ -2956,7 +2956,7 @@
         ],
         "correct_answer": "Interrupt.",
         "images": [],
-        "explanation": "",
+        "explanation": "Duplex mode යනු එකම අවස්ථාවකදී දත්ත හෝ හඬ සම්ප්‍රේෂණය (transmit) සහ ලබා ගැනීම (receive) සිදු කළ හැකි සන්නිවේදන ක්‍රමයකි. මෙය දුරකථන ඇමතුමක් මෙන් ක්‍රියා කරයි. 1. 'Interrupt' යනු නිවැරදි පිළිතුරයි, මන්ද Duplex mode හිදී අනෙක් පාර්ශවය කතා කරමින් සිටියදී ඔබට ඔවුන්ට බාධා කරමින් (interrupt) කතා කිරීමට හැකියාව ඇත. 2. 'Not to interrupt' යනු වැරදියි, මන්ද එය Simplex mode (Walkie-talkie වැනි) සඳහා අදාළ වන සීමාවකි. 3. 'Talk to two stations simultaneously' යනු වැරදියි, මන්ද Duplex යනු සාමාන්‍යයෙන් Point-to-point සන්නිවේදනයකි. 4. 'Interrupt after releasing the PTT-switch' යනු වැරදියි, මන්ද PTT (Push-to-talk) ස්විචය භාවිතා කරන්නේ Simplex mode වලදී වන අතර, Duplex mode වලදී නිරන්තරයෙන් සම්බන්ධතාවය පවතින බැවින් PTT අවශ්‍ය නොවේ.",
         "tags": [
             {
                 "sub_category": "Communication",
@@ -2978,7 +2978,7 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2023/03/device.jpg"
         ],
-        "explanation": "",
+        "explanation": "121.5 MHz සංඛ්‍යාතය (frequency) ප්‍රධාන වශයෙන් භාවිතා කරනු ලබන්නේ ගුවන් සේවා හදිසි අවස්ථා සඳහා සහ SARSAT-COSPAS පද්ධතියේ EPIRB (Emergency Position Indicating Radio Beacon) මගින් ස්ථානය හඳුනා ගැනීමට (homing signal) සහය වීම සඳහාය. අනෙක් විකල්පයන් සලකා බලන විට: INMARSAT E EPIRBS ක්‍රියා කරන්නේ L-band සංඛ්‍යාත හරහාය. SART (Search and Rescue Transponder) ක්‍රියා කරන්නේ 9 GHz (X-band) රේඩාර් සංඛ්‍යාත පරාසයේය. DSS VHF calls සඳහා භාවිතා කරන්නේ 156-174 MHz පරාසයයි. එබැවින් 121.5 MHz යනු SARSAT-COSPAS පද්ධතියේ හදිසි සංඥා සඳහා භාවිතා වන ජාත්‍යන්තර සංඛ්‍යාතයකි.",
         "tags": []
     },
     {
@@ -2993,7 +2993,7 @@
         ],
         "correct_answer": "Every 4 years.",
         "images": [],
-        "explanation": "",
+        "explanation": "EPIRB (Emergency Position Indicating Radio Beacon) එකක බැටරියක් මාරු කිරීම සම්බන්ධයෙන් SOLAS සහ IMO රෙගුලාසිවලට අනුව නිශ්චිත කාලසීමාවක් නියම කර ඇත. මෙහිදී නිවැරදි පිළිතුර වන්නේ 'Every 4 years' යන්නයි. අනෙකුත් පිළිතුරු (වසර 1, 2 හෝ 3) වැරදි වන්නේ නිෂ්පාදකයාගේ නිර්දේශ සහ ජාත්‍යන්තර සමුද්‍රීය ආරක්ෂක ප්‍රමිතීන්ට අනුව බැටරියේ ආයු කාලය සාමාන්‍යයෙන් වසර 4ක් ලෙස තීරණය කර ඇති බැවිනි. බැටරියක් මාරු කිරීමේදී එහි 'Expiry date' එක පරීක්ෂා කිරීම අනිවාර්ය වන අතර, එය නියමිත කාලයට පෙර හෝ නියමිත කාලයේදී මාරු කිරීම මගින් හදිසි අවස්ථාවකදී උපකරණය නිවැරදිව ක්‍රියාත්මක වන බව සහතික කර ගත හැක.",
         "tags": [
             {
                 "sub_category": "Maintenance",
@@ -3013,7 +3013,7 @@
         ],
         "correct_answer": "The method of donning life-jackets, escape routes and alarm signals.",
         "images": [],
-        "explanation": "",
+        "explanation": "SOLAS (Safety of Life at Sea) රෙගුලාසිවලට අනුව, මගී නෞකාවල මගී කුටිවල (Passenger cabins) අනිවාර්යයෙන්ම ප්‍රදර්ශනය කළ යුතු හදිසි උපදෙස්වල අවම වශයෙන් කරුණු තුනක් ඇතුළත් විය යුතුය: 1. Life-jackets පැළඳිය යුතු ආකාරය (Method of donning), 2. හදිසි අවස්ථාවකදී පිටවීමේ මාර්ග (Escape routes), සහ 3. අනතුරු ඇඟවීමේ සංඥා (Alarm signals). අනෙක් විකල්පයන් සලකා බැලීමේදී: 'Name of cabin attendant' යනු අත්‍යවශ්‍ය තොරතුරක් නොවේ. 'Escape routes and alarm signals' පමණක් තිබීම ප්‍රමාණවත් නොවේ මන්ද Life-jacket පැළඳීම ජීවිතාරක්ෂාව සඳහා අත්‍යවශ්‍ය වන බැවිනි. 'Thermal protective aids' සොයා ගන්නා ස්ථානය දැනගැනීම වැදගත් වුවද, SOLAS මගින් නියම කර ඇති අවම අවශ්‍යතාවය වන්නේ පළමු විකල්පයේ සඳහන් කරුණු තුනයි.",
         "tags": [
             {
                 "sub_category": "Safety",
@@ -3037,7 +3037,7 @@
         ],
         "correct_answer": "Windows on both sides which can be closed watertight and opened for ventilation.",
         "images": [],
-        "explanation": "",
+        "explanation": "LSA Code (Life-Saving Appliance Code) රෙගුලාසිවලට අනුව, Totally Enclosed Lifeboat එකක enclosure එක සම්බන්ධයෙන් පහත කරුණු සලකා බලමු. 1. Access hatches watertight විය යුතු අතර දෙපැත්තෙන්ම (inside and outside) විවෘත කිරීමට හැකි විය යුතුය. එබැවින් දෙවන සහ හතරවන පිළිතුරු නිවැරදි රෙගුලාසි වේ. 2. හදිසි අවස්ථාවකදී එන්ජිම අක්‍රිය වුවහොත් යාත්‍රාව ගමන් කරවීම සඳහා Arrangement for rowing අනිවාර්ය වේ. 3. නමුත්, Windows සම්බන්ධයෙන් රෙගුලාසිවල සඳහන් වන්නේ ඒවා watertight විය යුතු බව පමණි. ඒවා ventilation සඳහා විවෘත කිරීමට අවශ්‍ය නොවන අතර, එසේ විවෘත කිරීම මගින් යාත්‍රාවේ watertight integrity එකට හානි විය හැක. එබැවින් 'Windows on both sides which can be closed watertight and opened for ventilation' යන්න වැරදි ප්‍රකාශයකි. එබැවින් මෙය නිවැරදි පිළිතුර වේ.",
         "tags": [
             {
                 "sub_category": "Safety",
@@ -3061,7 +3061,7 @@
         ],
         "correct_answer": "One on every corner, 4 in total.",
         "images": [],
-        "explanation": "",
+        "explanation": "RoRo vessel එකක Maffi Trailers මත Double Stacked containers ප්‍රවාහනය කිරීමේදී, containers දෙක අතර ආරක්ෂාව සහ ස්ථාවරභාවය (stability) තහවුරු කිරීම අත්‍යවශ්‍ය වේ. මෙහිදී Twist locks භාවිතා කිරීමේදී සෑම කොනකම (every corner) එක බැගින්, එනම් මුළු 4ක් භාවිතා කිරීම අනිවාර්ය වේ. අනෙක් විකල්පයන් වන 2ක් හෝ 3ක් භාවිතා කිරීම මගින් containers වලට අවශ්‍ය වන නිසි බර බෙදී යාම (load distribution) සහ ආරක්ෂිත බැඳීම (securing) සිදු නොවන අතර, එය මුහුදු ගමනේදී අනතුරුදායක තත්ත්වයක් ඇති කළ හැකිය. එමනිසා, සම්මත Cargo Securing Manual අනුව සෑම කොනකම Twist lock එකක් බැගින් යෙදීම නිවැරදි ක්‍රමය වේ.",
         "tags": [
             {
                 "sub_category": "Cargo",
@@ -3078,14 +3078,14 @@
         "index": 151,
         "question": "At what calendar interval is a “Special Survey” required?",
         "answers": [
-            "Beach.",
-            "Bleach.",
-            "Blanch.",
-            "Breach."
+            "Every 5 years.",
+            "Every 2.5 years.",
+            "Every 1 year.",
+            "Every 10 years."
         ],
-        "correct_answer": "Bleach.",
+        "correct_answer": "Every 5 years.",
         "images": [],
-        "explanation": "",
+        "explanation": "නාවික නීති රෙගුලාසි (Classification Society rules) අනුව, නෞකාවක 'Special Survey' හෙවත් 'Renewal Survey' සෑම වසර 5කට වරක්ම සිදු කළ යුතුය. මෙහිදී නෞකාවේ ව්‍යුහය (Hull) සහ යන්ත්‍රෝපකරණ (Machinery) පිළිබඳව පුළුල් පරීක්ෂාවක් සිදු කෙරේ. අනෙකුත් විකල්පයන් වන 2.5, 1 හෝ 10 වසරක කාල පරාසයන් නෞකාවක පන්තිය පවත්වා ගැනීම සඳහා වන නිවැරදි 'Special Survey' කාල පරතරය නොවේ. එබැවින් වසර 5ක කාල පරාසය නිවැරදි පිළිතුර වේ.",
         "tags": [
             {
                 "sub_category": "Legislation",
@@ -3105,7 +3105,7 @@
         ],
         "correct_answer": "Some cargoes are very sensitive to ethylene levels and it may be difficult to accurately measure the low levels that would affect a cargo.",
         "images": [],
-        "explanation": "",
+        "explanation": "පලතුරු වර්ග ප්‍රවාහනයේදී 'Respiration' ක්‍රියාවලිය නිසා Ethylene වායුව නිපදවේ. Ethylene යනු පලතුරු ඉක්මනින් ඉදුණු බවට පත් කරන (ripening agent) වායුවකි. සමහර පලතුරු වර්ග ඉතා අඩු Ethylene සාන්ද්‍රණයකට පවා සංවේදී වේ. මෙම ඉතා අඩු මට්ටම් නිවැරදිව මැනීම (accurate measurement) සංවේදක (sensors) මගින් සිදු කිරීම අපහසු විය හැකි බැවින්, අවදානම අවම කර ගැනීමට 'Constant air change' ක්‍රමය භාවිතා කරයි. අනෙක් පිළිතුරු වැරදි වන්නේ: 1. මෙය සරල නිසා පමණක් කරන දෙයක් නොවේ, එය තාක්ෂණික අවශ්‍යතාවයකි. 2. පලතුරු 'acclimatise' කිරීම මෙහි අරමුණ නොවේ. 4. ඕනෑවට වඩා නැවුම් වාතය ඇතුළු කිරීමෙන් ආර්ද්‍රතාවය (humidity) සහ උෂ්ණත්වය පාලනය කිරීම අපහසු වී භාණ්ඩයට හානි විය හැක.",
         "tags": [
             {
                 "sub_category": "Cargo",
@@ -3129,7 +3129,7 @@
         ],
         "correct_answer": "Measuring the distance from the surface of the cargo to the ullage reference point.",
         "images": [],
-        "explanation": "",
+        "explanation": "Ullage යනු තෙල් ටැංකියක (Cargo tank) පවතින ද්‍රව මට්ටමේ සිට ටැංකියේ ඉහළින් ඇති නියමිත Ullage reference point එක දක්වා ඇති දුර මැනීමයි. මෙහිදී අනෙක් පිළිතුරු වැරදි වන්නේ: 1. 'Bottom of the tank to the ullage reference point' යනු ටැංකියේ සම්පූර්ණ උස (Tank depth) මිස Ullage නොවේ. 2. 'Bottom of the tank to the surface of cargo' යනු ද්‍රවයේ ගැඹුර (Innage හෝ Sounding) වේ. 3. 'Surface of the cargo to the underside of the maindeck' යනු සාමාන්‍ය මිනුමක් වුවද, නිවැරදි තාක්ෂණික අර්ථ දැක්වීම වන්නේ Ullage reference point එක භාවිතා කිරීමයි. එබැවින්, නිවැරදි පිළිතුර වන්නේ ද්‍රව පෘෂ්ඨයේ සිට Ullage reference point දක්වා ඇති දුර මැනීමයි.",
         "tags": [
             {
                 "sub_category": "Cargo",
@@ -3153,7 +3153,7 @@
         ],
         "correct_answer": "In Section 6 of the Act.",
         "images": [],
-        "explanation": "",
+        "explanation": "මෙම ප්‍රශ්නය මගින් විමසනු ලබන්නේ Maritime service අධීක්ෂණයට අදාළ නීතිමය වගකීම් Master හට පැවරෙන අංශය කුමක්ද යන්නයි. නීතිමය ලේඛනවල (Act) ව්‍යුහය අනුව, සාමාන්‍යයෙන් පළමු කොටස් (Section 1, 2) අර්ථ දැක්වීම් සහ පනතේ විෂය පථය ගැන සඳහන් කරයි. Section 6 යනු නෞකාවේ Master ගේ වගකීම් සහ අධීක්ෂණ බලතල පිළිබඳව නිශ්චිතව දක්වා ඇති කොටසයි. අනෙක් විකල්ප (Section 1, 2, 3) මගින් සාමාන්‍යයෙන් පනතේ අරමුණු හෝ මූලික නීතිමය අර්ථ දැක්වීම් ආවරණය වන බැවින්, Master ගේ විශේෂිත වගකීම සම්බන්ධයෙන් Section 6 නිවැරදි පිළිතුර වේ.",
         "tags": [
             {
                 "sub_category": "Legislation",
@@ -3177,7 +3177,7 @@
         ],
         "correct_answer": "Send a distress message and collect survival suits/thermal bags.",
         "images": [],
-        "explanation": "",
+        "explanation": "නැවක් අනතුරකට ලක්වූ විට සහ නැව අතහැර යාමට (Abandon Ship) සිදුවන විට, ප්‍රමුඛතාවය දිය යුත්තේ ජීවිත ආරක්ෂාවට සහ ගලවා ගැනීමේ මෙහෙයුම් සඳහා අවශ්‍ය පියවර ගැනීමටයි. 1. 'Send a distress message and collect survival suits/thermal bags' යනු නිවැරදි පිළිතුරයි. මන්ද, Distress message එකක් මගින් ගලවා ගැනීමේ කණ්ඩායම් වෙත දැනුම් දීම අත්‍යවශ්‍ය වන අතර, Survival suits හෝ Thermal protective aids මගින් සීතල වතුරේදී Hypothermia තත්ත්වයෙන් ආරක්ෂා විය හැක. 2. 'Collect your own personal belongings' සහ 'Assist your friends to collect their personal belongings' වැරදි වන්නේ, හදිසි අවස්ථාවකදී පුද්ගලික බඩු බාහිරාදිය එකතු කිරීම සඳහා කාලය වැය කිරීම ජීවිත අවදානම වැඩි කරන බැවිනි. 3. 'Just jump over board and be ready' යනු ඉතාම භයානක සහ වැරදි ක්‍රියාවකි. නිසි උපකරණ නොමැතිව සහ සැලසුමකින් තොරව මුහුදට පැනීම මගින් ජීවිත හානි සිදුවිය හැක. එබැවින්, නිසි ක්‍රියා පටිපාටිය අනුගමනය කරමින් Distress message යවා ආරක්ෂිත උපකරණ ලබා ගැනීම එකම නිවැරදි ක්‍රමයයි.",
         "tags": [
             {
                 "sub_category": "Emergency",
@@ -3201,7 +3201,7 @@
         ],
         "correct_answer": "Removing boil-off gas.",
         "images": [],
-        "explanation": "",
+        "explanation": "LNG carriers වල cargo tanks තුළ පවතින ද්‍රව ස්වභාවයේ ඇති LNG, තාපය හේතුවෙන් වාෂ්ප බවට පත්වේ. මෙයට Boil-off gas (BOG) ලෙස හැඳින්වේ. මෙම වාෂ්ප ඉවත් නොකළහොත් ටැංකිය තුළ පීඩනය (Pressure) අධික ලෙස ඉහළ යයි. එබැවින්, මෙම පීඩනය පාලනය කිරීමට සහ ඉවත් වන වාෂ්ප ප්‍රධාන එන්ජිම සඳහා ඉන්ධන ලෙස හෝ නැවත ද්‍රවීකරණය (Reliquefaction) සඳහා යොදා ගැනීමට Cargo compressors භාවිතා කරයි. අනෙක් විකල්පයන් වැරදි වන්නේ: 'Inerting and gas freeing' සඳහා වෙනම Inert gas generators හෝ Nitrogen plants භාවිතා කරන බැවිනි. 'Discharging' සඳහා Cargo pumps භාවිතා කරන අතර, 'Loading' සඳහා වෙරළබඩ පහසුකම් (Shore facilities) මගින් පීඩනය ලබා දෙන බැවිනි.",
         "tags": [
             {
                 "sub_category": "Shipboarding",
@@ -3221,13 +3221,17 @@
             "Ignore the alarm.",
             "Get out of the engine room as soon as possible.",
             "Awaiting further order.",
-            "Get into the control room."
+            "Get into the control room.",
+            "correct_answer",
+            "Get out of the engine room as soon as possible.",
+            "images",
+            "https://sea-man.org/wp-content/uploads/2023/03/co2-1.jpg"
         ],
         "correct_answer": "Get out of the engine room as soon as possible.",
         "images": [
             "https://sea-man.org/wp-content/uploads/2023/03/co2-1.jpg"
         ],
-        "explanation": "",
+        "explanation": "CO2 (Carbon Dioxide) යනු ගින්නක් නිවා දැමීම සඳහා භාවිතා කරන ඉතා භයානක වායුවකි. CO2 alarm එකක් නාද වේ නම්, එයින් අදහස් වන්නේ එම ප්‍රදේශයට CO2 මුදා හැරීමට සූදානම් වන බව හෝ දැනටමත් මුදා හැර ඇති බවයි. CO2 මගින් වාතයේ ඇති Oxygen මට්ටම ඉතා වේගයෙන් අඩු කරන බැවින්, එම ස්ථානයේ රැඳී සිටීම මරණීය විය හැක. එබැවින්, 'Ignore the alarm' යනු ඉතා භයානක ක්‍රියාවකි. 'Awaiting further order' යනු කාලය නාස්ති කිරීමකි, මන්ද CO2 මගින් හුස්ම හිරවීම තත්පර කිහිපයකින් සිදුවිය හැකි බැවිනි. 'Get into the control room' යනු ආරක්ෂිත ක්‍රියාවක් නොවේ, මන්ද CO2 පද්ධතියේ බලපෑමට එම ස්ථානයද ලක්විය හැකි බැවිනි. නිවැරදිම සහ ආරක්ෂිතම ක්‍රියාමාර්ගය වන්නේ කිසිදු ප්‍රමාදයකින් තොරව වහාම Engine room එකෙන් පිටවීමයි (Get out of the engine room as soon as possible).",
         "tags": []
     },
     {
@@ -3262,7 +3266,7 @@
         ],
         "correct_answer": "Piston, screw and centrifugal type compressors.",
         "images": [],
-        "explanation": "",
+        "explanation": "Gas carriers වල Cargo handling සඳහා විවිධ වර්ගයේ Cargo compressors භාවිතා කරනු ලබයි. මෙහිදී පීඩනය (pressure) සහ වායුවේ ස්වභාවය අනුව Piston, Screw සහ Centrifugal යන වර්ග තුනම බහුලව භාවිතා වේ. අනෙක් විකල්පයන් වන 'Oil free piston' හෝ 'Three stage' යනු විශේෂිත අවස්ථා සඳහා පමණක් සීමා වූ වර්ග වන අතර, සාමාන්‍යයෙන් Gas carrier එකක Cargo system එකක මෙම වර්ග තුනම විවිධ කාර්යයන් සඳහා (උදාහරණයක් ලෙස Boil-off gas handling හෝ Cargo transfer) යොදා ගනී. එබැවින් වඩාත් නිවැරදි සහ පුළුල් පිළිතුර වන්නේ Piston, screw and centrifugal type compressors යන්නයි.",
         "tags": [
             {
                 "sub_category": "Shipboarding",
@@ -3286,7 +3290,7 @@
         ],
         "correct_answer": "Multiply the values taken from tables 2, 3 and 4 of the Cargo Stowage and Security (CSS) Code.",
         "images": [],
-        "explanation": "",
+        "explanation": "IMO හි Cargo Stowage and Securing (CSS) Code හි Annex 13 අනුව, නැවක ගමන් කිරීමේදී ඇතිවන Transverse acceleration ගණනය කිරීම සඳහා නිශ්චිත ක්‍රමවේදයක් අනුගමනය කළ යුතුය. මෙහිදී 'a' (acceleration) අගය ලබා ගැනීමට Tables 2, 3 සහ 4 හි දක්වා ඇති අගයන් එකිනෙක ගුණ කිරීම සිදු කරයි. අනෙක් විකල්ප වැරදි වන්නේ, Tables 3 සහ 4 පමණක් භාවිතා කිරීම ප්‍රමාණවත් නොවන බැවිනි. Cargo Securing Manual (CSM) යනු නැවට අදාළ උපදෙස් මාලාවක් වුවද, මූලික ගණනය කිරීමේ ප්‍රමිතිය CSS Code හි අන්තර්ගත වේ. 'Rule of thumb' හෝ අත්දැකීම් මත පමණක් යැපීම නාවික ආරක්ෂාවට (Safety) අහිතකර වේ.",
         "tags": [
             {
                 "sub_category": "Stability",
@@ -3310,7 +3314,7 @@
         ],
         "correct_answer": "Vitamin B.",
         "images": [],
-        "explanation": "",
+        "explanation": "පිටි (Flour) සහ ධාන්‍ය වර්ග (Grain products) ප්‍රධාන වශයෙන් කාබෝහයිඩ්‍රේට් (Carbohydrates) අඩංගු ආහාර වේ. මෙම ආහාර වර්ගවල ස්වභාවිකවම බහුලව පවතින්නේ Vitamin B සංකීර්ණයයි (Vitamin B complex). Vitamin A ප්‍රධාන වශයෙන් අක්මාව, බිත්තර සහ කහ පැහැති එළවළු වල අඩංගු වේ. Vitamin C ප්‍රධාන වශයෙන් පැඟිරි කුලයේ පලතුරු (Citrus fruits) වල අඩංගු වන අතර, Vitamin D ප්‍රධාන වශයෙන් හිරු එළියෙන් සහ තෙල් සහිත මාළු වර්ග වලින් ලැබේ. එබැවින්, පිටි සහ ධාන්‍ය වර්ග වල බහුලවම පවතින්නේ Vitamin B බව පැහැදිලිය.",
         "tags": [
             {
                 "sub_category": "Management",
@@ -3332,7 +3336,7 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2023/03/suez.jpg"
         ],
-        "explanation": "",
+        "explanation": "SOLAS Chapter V, Regulation 34 මගින් නෞකාවක Voyage Plan එකක් සකස් කිරීම අනිවාර්ය කර ඇත. මෙහිදී 'Passage Plan' යනු නැව පිටත් වන තැන සිට ගමනාන්තය දක්වාම අඛණ්ඩව පවතින සැලැස්මකි. නෞකාවක් Pilot කෙනෙකුගේ මගපෙන්වීම යටතේ (under pilotage) ඇළ මාර්ගයක හෝ ගංගාවක ගමන් කළද, එම කාලසීමාව තුළද නෞකාවේ ආරක්ෂාව සහ Navigation පිළිබඳ වගකීම පැවරෙන්නේ Master සහ Bridge Team එක වෙතය. එබැවින්, Pilot සිටියද නැතද, නෞකාවේ ආරක්ෂිත ගමනාගමනය සඳහා Passage Plan එකක් තිබීම අනිවාර්ය වේ. අනෙක් පිළිතුරු වැරදි වන්නේ ඒවා මගින් Pilot සිටින විට සැලැස්ම අවශ්‍ය නොවන බව හෝ සීමිත දුරකට පමණක් අවශ්‍ය බව පවසන බැවිනි, නමුත් නීතියට අනුව ඕනෑම ගමනක් සඳහා මෙය අනිවාර්ය වේ.",
         "tags": []
     },
     {
@@ -3349,7 +3353,7 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2023/03/buoy.jpg"
         ],
-        "explanation": "",
+        "explanation": "SOLAS (Safety of Life at Sea) රෙගුලාසිවලට අනුව, නැවක දිග මත පදනම්ව අවශ්‍ය වන Lifebuoys සංඛ්‍යාව තීරණය වේ. මීටර් 150 ට වැඩි නමුත් මීටර් 200 ට අඩු නැව් සඳහා අවම වශයෙන් Lifebuoys 12 ක් තිබිය යුතුය. මෙහිදී 8, 10 සහ 14 යන පිළිතුරු වැරදි වන්නේ එම සංඛ්‍යාවන් අදාළ දිග ප්‍රමාණයට නියමිත SOLAS ප්‍රමිතීන්ට නොගැලපෙන බැවිනි. මීටර් 100 ට අඩු නැව් සඳහා 8 ක් ද, මීටර් 100-150 අතර නැව් සඳහා 10 ක් ද, මීටර් 150-200 අතර නැව් සඳහා 12 ක් ද, සහ මීටර් 200 ට වැඩි නැව් සඳහා 14 ක් ද ලෙස මෙම සංඛ්‍යාවන් වර්ගීකරණය කර ඇත. එබැවින් මීටර් 190 ක් දිග නැවක් සඳහා නිවැරදි පිළිතුර 12 කි.",
         "tags": []
     },
     {
@@ -3364,7 +3368,7 @@
         ],
         "correct_answer": "The HSE has authority only where an interface exists between the ship and shore e. g. means of access regs. In a serious case, they would contact the local Marine Officer.",
         "images": [],
-        "explanation": "",
+        "explanation": "නාවික කටයුතු (shipping matters) සම්බන්ධයෙන් Health & Safety Executive (HSE) ආයතනයට පූර්ණ බලතල නොමැත. ඔවුන්ගේ අධිකරණ බලය සීමා වී ඇත්තේ නැව සහ ගොඩබිම අතර සම්බන්ධ වන ස්ථාන (interface between ship and shore) සඳහා පමණි. උදාහරණයක් ලෙස, නැවට ගොඩවීමට භාවිතා කරන පඩිපෙළ (means of access) වැනි දේවල ආරක්ෂාව ඔවුන්ගේ නියාමනයට යටත් වේ. අනෙක් පිළිතුරු වැරදි වන්නේ: 1) මත්ද්‍රව්‍ය පරීක්ෂණ පැවැත්වීම හෝ Marine Officer කෙනෙකුට සමාන බලතල ඔවුන්ට නොමැති වීම, 2) ඔවුන්ට නාවික කටයුතු සම්බන්ධයෙන් කිසිදු වගකීමක් නොමැති බව පැවසීම වැරදිය, මන්ද ඔවුන්ට සීමිත වගකීමක් පවතින බැවිනි. බරපතල සිදුවීමකදී ඔවුන් සැමවිටම අදාළ නාවික බලධාරීන් (Marine Officer) දැනුවත් කිරීමට කටයුතු කරයි.",
         "tags": [
             {
                 "sub_category": "Legislation",
@@ -3388,7 +3392,7 @@
         ],
         "correct_answer": "23:23.",
         "images": [],
-        "explanation": "",
+        "explanation": "DSC (Digital Selective Calling) පණිවිඩයක ආකෘතියේ මුලින්ම සඳහන් වන්නේ පණිවිඩය ලැබුණු දිනය සහ වේලාවයි. මෙහි '27.05.1997 23:23' ලෙස සඳහන් වන්නේ පණිවිඩය ලැබුණු වේලාවයි. '00:00' ලෙස සඳහන් වන්නේ DIST-UTC වේලාව වන අතර එය ආපදාවට පත් වූ යාත්‍රාවේ සිදුවීම වාර්තා වූ වේලාව මිස පණිවිඩය ලැබුණු වේලාව නොවේ. එබැවින් 23:23 යනු නිවැරදි පිළිතුරයි.",
         "tags": [
             {
                 "sub_category": "Communication",
@@ -3408,7 +3412,7 @@
         ],
         "correct_answer": "To avoid uncontrolled decomposition the cargo should be discharged overboard.",
         "images": [],
-        "explanation": "",
+        "explanation": "Hydrogen Peroxide (H2O2) යනු ඉතා අස්ථායී (unstable) රසායනික ද්‍රව්‍යයකි. මෙහි උෂ්ණත්වය ඉහළ යාමෙන් පෙන්නුම් කරන්නේ 'autocatalytic decomposition' නම් ක්‍රියාවලිය ආරම්භ වී ඇති බවයි. 40 °C ට වැඩි උෂ්ණත්වයකදී පැය 5 කට 2 °C බැගින් උෂ්ණත්වය ඉහළ යාම ඉතා භයානක තත්ත්වයකි. මෙවැනි අවස්ථාවකදී 'uncontrolled decomposition' නිසා ඇතිවන පීඩනයෙන් ටැංකිය පුපුරා යාමට (tank rupture) ඉඩ ඇත. එබැවින්, අනෙකුත් විකල්ප වැරදිය: 1) කිසිවක් නොකිරීමෙන් විශාල අනතුරක් සිදුවේ. 3) උෂ්ණත්වය තවදුරටත් වැඩි කිරීමෙන් පිපිරීම ඉක්මන් වේ. 4) තවදුරටත් බලා සිටීමෙන් (monitoring) අනතුර වළක්වා ගත නොහැක. නිවැරදි ක්‍රියාමාර්ගය වන්නේ වහාම එම භාණ්ඩය 'discharged overboard' කිරීමයි. මෙය IBC Code හි දක්වා ඇති ආරක්ෂිත ක්‍රියා පටිපාටියකි.",
         "tags": [
             {
                 "sub_category": "Cargo",
@@ -3434,7 +3438,7 @@
         "images": [
             "https://sea-man.org/wp-content/uploads/2023/03/suez.jpg"
         ],
-        "explanation": "",
+        "explanation": "Suez Canal නීති රීතිවලට අනුව, රාත්‍රී කාලයේ ගමන් කිරීමේදී සියලුම නැව් සඳහා Searchlight එකක් අනිවාර්ය වේ. මෙහිදී, Bulbous bow සහිත නැව්, LPG සහ LNG නැව් සඳහා විශේෂ ආරක්ෂක අවශ්‍යතා පවතින බැවින්, එම නැව් විසින්ම අනුමත කරන ලද තමන්ගේම Searchlight එකක් (Projector) රැගෙන යාම අනිවාර්ය වේ. අනෙකුත් සාමාන්‍ය නැව් සඳහා Canal Mooring and Light Company මගින් ලබා දෙන Projector භාවිතා කළ හැකි වුවද, Bulbous bow සහිත නැව්වලට එම Projector එක සවි කිරීමට අපහසු වීම සහ විශේෂිත ආරක්ෂක හේතූන් මත ඔවුන්ට තමන්ගේම උපකරණ තිබිය යුතුය. එබැවින්, 'All vessels must provide their own projector' යන්න වැරදියි, මන්ද සාමාන්‍ය නැව්වලට කුලියට ගත හැකි බැවිනි. 'Only projectors hired... are permitted' යන්න වැරදියි, මන්ද විශේෂ නැව්වලට තමන්ගේම ඒවා තිබිය යුතු බැවිනි. 'Extra fee will be levied' යන්න වැරදියි, මන්ද තමන්ගේම උපකරණ තිබීම නීතියේ අවශ්‍යතාවයක් මිස දඩයක් නොවන බැවිනි.",
         "tags": []
     },
     {
@@ -3449,7 +3453,7 @@
         ],
         "correct_answer": "Within 24 hrs.",
         "images": [],
-        "explanation": "",
+        "explanation": "SOLAS (Safety of Life at Sea) සම්මුතියේ නීතිරීතිවලට අනුව, නැවක් වරායෙන් පිටත්වීමට පෙර හෝ පිටත්වූ වහාම හදිසි අවස්ථා පුහුණුවීම් (Emergency drills) පැවැත්වීම අනිවාර්ය වේ. විශේෂයෙන්ම, නැවේ කාර්ය මණ්ඩලයෙන් 25%කට වඩා වැඩි පිරිසක් පසුගිය මාසයේදී එවැනි පුහුණුවීම්වලට සහභාගී වී නොමැති නම්, නැව වරායෙන් පිටත්වී පැය 24ක් ඇතුළත අනිවාර්යයෙන්ම එම පුහුණුවීම් පැවැත්විය යුතුය. අනෙකුත් විකල්ප වන පැය 12, 30 හෝ 48 යන කාලසීමාවන් SOLAS රෙගුලාසිවලට අනුකූල නොවන අතර, පැය 24 යනු ජාත්‍යන්තර නීතිය මගින් නියම කර ඇති නිවැරදි කාල සීමාවයි.",
         "tags": [
             {
                 "sub_category": "Legislation",
@@ -3473,7 +3477,7 @@
         ],
         "correct_answer": "Traces of insect infestation in the bilges.",
         "images": [],
-        "explanation": "",
+        "explanation": "සීනි (Sugar) යනු ඉතා සංවේදී ආහාර ද්‍රව්‍යයක් (Food grade cargo) වන අතර එය ප්‍රවාහනය කිරීමේදී දැඩි සනීපාරක්ෂක ප්‍රමිතීන් අනුගමනය කළ යුතුය. 'Traces of insect infestation in the bilges' යනු බරපතල ගැටලුවකි, මන්ද කෘමීන් සිටීමෙන් භාණ්ඩය දූෂණය වීමට (Contamination) සහ හානි වීමට ඉඩ ඇති බැවින් එවැනි තත්වයක් යටතේ Cargo hold එක පරීක්ෂණයෙන් අසමත් වේ. අනෙක් විකල්ප වන 'Hardened rust spots' සහ 'Rust-stained tank top plating' යනු සාමාන්‍යයෙන් Bulk cargo ප්‍රවාහනයේදී පවතින තත්වයන් වන අතර, ඒවා නිසි ලෙස පිරිසිදු කර (Cleaning) සහ අවශ්‍ය නම් සුදුසු ආලේපන (Coating) යෙදීමෙන් පසු භාණ්ඩ පැටවීමට අවසර ලැබිය හැක. නමුත් කෘමීන් සිටීම සෞඛ්‍යාරක්ෂිත නොවන බැවින් එය කිසිසේත්ම පිළිගත නොහැක.",
         "tags": [
             {
                 "sub_category": "Cargo",
@@ -3497,7 +3501,7 @@
         ],
         "correct_answer": "10,08 metres.",
         "images": [],
-        "explanation": "",
+        "explanation": "මෙම ගැටලුව විසඳීම සඳහා Dock Water Allowance (DWA) පිළිබඳ මූලධර්මය තේරුම් ගත යුතුය. නැවක් Salt Water (SW) සිට Fresh Water (FW) වෙත ගමන් කරන විට හෝ එහි ප්‍රතිවිරුද්ධ අවස්ථාවේදී, ජලයේ ඝනත්වය (density) වෙනස් වීම නිසා නැවේ draught එක වෙනස් වේ. මෙහිදී නැව Salt Water හිදී 10.00m draught එකකට පැටවිය යුතු අතර, එය River Water (එනම් Fresh Water) හිදී පැටවීමේදී, නැවට වැඩි ජල පරිමාවක් විස්ථාපනය කිරීමට සිදුවේ. DWA යනු Salt Water සහ Fresh Water අතර draught එකේ වෙනසයි. එබැවින්, River Water හිදී නැව පැටවීමේදී, Salt Water draught එකට වඩා DWA ප්‍රමාණය (80mm = 0.08m) එකතු කළ යුතුය. එනම් 10.00m + 0.08m = 10.08m වේ. අනෙකුත් පිළිතුරු වැරදි වන්නේ ඒවා ගණිතමය වශයෙන් වැරදි එකතු කිරීම් හෝ අඩු කිරීම් සිදු කර ඇති බැවිනි.",
         "tags": [
             {
                 "sub_category": "Stability",
@@ -3521,7 +3525,7 @@
         ],
         "correct_answer": "Your ship’s name and call sign.",
         "images": [],
-        "explanation": "",
+        "explanation": "Piracy attack alert එකකදී ප්‍රධානතම අරමුණ වන්නේ අදාළ බලධාරීන් (Maritime Security Centres) වෙත නැව හඳුනාගත හැකි මූලික තොරතුරු ලබාදීමයි. මෙහිදී 'Ship's name' සහ 'Call sign' අනිවාර්යයෙන්ම ඇතුළත් විය යුතුය. අනෙක් විකල්ප වන 'Number of crew', 'Number of pirates' හෝ 'Type of weapons' යනු තත්ත්වය තවදුරටත් පැහැදිලි කිරීමට වැදගත් වුවද, මුල්ම සහ අත්‍යවශ්‍යම දත්තය වන්නේ නැව හඳුනාගැනීමයි (Identification). එබැවින්, ජාත්‍යන්තර නීති සහ BMP (Best Management Practices) අනුව, alert එකක් නිකුත් කිරීමේදී නැවේ අනන්‍යතාවය තහවුරු කිරීම ප්‍රමුඛ වේ.",
         "tags": [
             {
                 "sub_category": "Security",

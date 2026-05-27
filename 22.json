@@ -11,7 +11,7 @@
         ],
         "correct_answer": "In the Flag State official language with copies in English or French.",
         "images": [],
-        "explanation": "",
+        "explanation": "SOLAS (Safety of Life at Sea) රෙගුලාසිවලට අනුව, නැවක Fire control plans හෝ booklets සකස් කිරීමේදී ජාත්‍යන්තර ප්‍රමිතීන් අනුගමනය කළ යුතුය. මෙහිදී ප්‍රධාන කරුණ වන්නේ, එම ලේඛන නැව ලියාපදිංචි කර ඇති රටේ (Flag State) නිල භාෂාවෙන් තිබිය යුතු බවයි. කෙසේ වෙතත්, නැව ජාත්‍යන්තර ගමන්වල යෙදෙන බැවින්, කාර්ය මණ්ඩලයට සහ වරාය පරීක්ෂකවරුන්ට පහසුවෙන් තේරුම් ගැනීම සඳහා එම ලේඛනවල පිටපත් ඉංග්‍රීසි (English) හෝ ප්‍රංශ (French) භාෂාවෙන් තිබීම අනිවාර්ය වේ. අනෙක් විකල්පයන් වැරදි වන්නේ, ඒවා Flag State හි නීතිමය අවශ්‍යතාවය සම්පූර්ණ නොකරන නිසා හෝ අසම්පූර්ණ නිසාය. එබැවින්, Flag State භාෂාව සහ ඉංග්‍රීසි හෝ ප්‍රංශ භාෂාව යන දෙකම අඩංගු විය යුතු බව නිවැරදි පිළිතුර වේ.",
         "tags": [
             {
                 "sub_category": "Firefighting",
@@ -76,7 +76,7 @@
         ],
         "correct_answer": "Instructions for onboard maintenance of life-saving appliances in accordance with the regulations shall be provided.",
         "images": [],
-        "explanation": "",
+        "explanation": "SOLAS (Safety of Life at Sea) රෙගුලාසිවලට අනුව, නැවක ඇති Life-saving appliances නිසි ලෙස නඩත්තු කිරීම සඳහා 'Instructions for onboard maintenance' අනිවාර්යයෙන්ම තිබිය යුතුය. අනෙක් පිළිතුරු වැරදි වීමට හේතු: 1. සියලුම නඩත්තු කටයුතු ගොඩබිමේදී (ashore) පමණක් සිදු කළ යුතු බවට නීතියක් නැත, බොහෝ දෛනික සහ මාසික පරීක්ෂාවන් නැව තුළම සිදු කළ යුතුය. 2. නාවික කාර්ය මණ්ඩලයේ ඕනෑම අයෙකුට 'repairman certificate' තිබිය යුතු බවට SOLAS හි සඳහන් නොවේ. 3. සියලුම නඩත්තු කටයුතු 'certified ship staff' පමණක් කළ යුතු බවට නීතියක් නැත, නමුත් නඩත්තු කටයුතු සිදු කළ යුත්තේ පුහුණු ලත් පුද්ගලයින් විසින් සහ අදාළ උපදෙස් අනුගමනය කරමිනි. එබැවින්, නිවැරදිම පිළිතුර වන්නේ නැව තුළ නඩත්තු කටයුතු සඳහා උපදෙස් මාලාවක් තිබිය යුතු බවයි.",
         "tags": [
             {
                 "sub_category": "Safety",
@@ -100,7 +100,7 @@
         ],
         "correct_answer": "Once every month.",
         "images": [],
-        "explanation": "",
+        "explanation": "SOLAS (Safety of Life at Sea) රෙගුලාසිවලට අනුව, සෑම භාණ්ඩ ප්‍රවාහන නෞකාවකම (Cargo vessel) 'Abandon ship' අභ්‍යාසය (drill) අවම වශයෙන් මසකට වරක් පැවැත්විය යුතුය. මෙහිදී අනෙකුත් විකල්පයන් වැරදි වන්නේ ඇයිද යන්න සලකා බලමු: 'Once every week' යනු සාමාන්‍යයෙන් මගී නෞකා (Passenger ships) සඳහා අදාළ වන නීතියකි. 'Once every 6 months' හෝ 'Once every year' යන කාලසීමාවන් SOLAS මගින් නියම කර ඇති අවම සංඛ්‍යාතයට වඩා බෙහෙවින් අඩු බැවින් ඒවා නීතිමය වශයෙන් ප්‍රමාණවත් නොවේ. එබැවින්, නෞකාවේ කාර්ය මණ්ඩලයේ සූදානම සහ ආරක්ෂාව තහවුරු කිරීම සඳහා මසකට වරක් මෙම අභ්‍යාසය පැවැත්වීම අනිවාර්ය වේ.",
         "tags": [
             {
                 "sub_category": "Safety",
@@ -158,7 +158,7 @@
         ],
         "correct_answer": "That people are well trained.",
         "images": [],
-        "explanation": "",
+        "explanation": "හදිසි අවස්ථාවකදී (Emergency) කාර්ය මණ්ඩලයේ සාර්ථකත්වය රඳා පවතින්නේ ඔවුන්ගේ පුහුණුව මතය. 'That people know where to muster' සහ 'That people know where to find designated equipment' යන කරුණු දෙකම පුහුණුවක (Training) කොටස් වේ. එසේම 'That people listen to orders given' යනු විනයානුකූල හැසිරීමක් වන අතර එයද පුහුණුව ලැබූ අයෙකු තුළ ස්වභාවිකවම පවතී. එබැවින්, පුහුණුව (Well trained) යනු අනෙක් සියලුම කරුණු ආවරණය කරන පුළුල් සහ මූලිකම සාධකයයි. පුහුණුව ලත් කාර්ය මණ්ඩලයකට ඕනෑම හදිසි අවස්ථාවකදී නිවැරදි තීරණ ගැනීමට සහ උපකරණ නිසි ලෙස භාවිතා කිරීමට හැකියාව ලැබේ.",
         "tags": [
             {
                 "sub_category": "Safety",
@@ -182,7 +182,7 @@
         ],
         "correct_answer": "A survival manual.",
         "images": [],
-        "explanation": "",
+        "explanation": "LSA Code (Life-Saving Appliance Code) රෙගුලාසිවලට අනුව, සෑම lifeboat එකකම අනිවාර්යයෙන්ම තිබිය යුතු උපකරණ ලැයිස්තුවක් පවතී. මෙහිදී 'A survival manual' යනු අනිවාර්ය අංගයකි. අනෙක් විකල්ප විශ්ලේෂණය කරමු: 1. Oil pollution equipment යනු lifeboat එකක තිබිය යුතු අනිවාර්ය උපකරණයක් නොවේ. 2. Sea charts සහ navigation equipment සාමාන්‍යයෙන් lifeboat එකක අනිවාර්ය අංගයක් ලෙස නොසැලකේ (එය rescue craft වලට වඩා වෙනස් වේ). 3. Helicopter rescue equipment යනු lifeboat එකක තිබිය යුතු මූලික උපකරණයක් නොවේ. එබැවින්, SOLAS සහ LSA Code රෙගුලාසිවලට අනුව 'A survival manual' යනු නිවැරදි පිළිතුරයි.",
         "tags": [
             {
                 "sub_category": "Safety",
@@ -210,7 +210,7 @@
         ],
         "correct_answer": "Checking that passengers and crew are suitably dressed and lifejackets correctly donned.",
         "images": [],
-        "explanation": "",
+        "explanation": "SOLAS රෙගුලාසි වලට අනුව 'abandon ship' drill එකකදී ප්‍රධාන අරමුණ වන්නේ හදිසි අවස්ථාවකදී නැව හැර යාමට අවශ්‍ය සූදානම පරීක්ෂා කිරීමයි. මෙහිදී මගීන් සහ කාර්ය මණ්ඩලය නිසි ලෙස ඇඳුම් ඇඳ සිටිනවාද සහ Lifejackets නිවැරදිව පැළඳ සිටිනවාද යන්න පරීක්ෂා කිරීම අනිවාර්ය වේ. අනෙක් විකල්පයන් වන Distress signals පරීක්ෂා කිරීම, මගීන්ගේ මනෝභාවය (moral) පරීක්ෂා කිරීම හෝ Lifeboat provisions පරීක්ෂා කිරීම යනු නඩත්තු කටයුතු හෝ වෙනත් පරීක්ෂාවන් මිස 'abandon ship' drill එකක මූලික අරමුණ නොවේ. එබැවින් පළමු විකල්පය නිවැරදි වේ.",
         "tags": [
             {
                 "sub_category": "Safety",
@@ -262,7 +262,7 @@
         ],
         "correct_answer": "Every week.",
         "images": [],
-        "explanation": "",
+        "explanation": "SOLAS (Safety of Life at Sea) රෙගුලාසිවලට අනුව, මගී නෞකාවක (Passenger ships) 'Abandon ship drill' එකක් සතියකට වරක් (Every week) පැවැත්වීම අනිවාර්ය වේ. මෙයට හේතුව මගී නෞකාවක සිටින මගීන් සහ කාර්ය මණ්ඩලය නිරන්තරයෙන් වෙනස් වන බැවින්, හදිසි අවස්ථාවකදී ආරක්ෂිතව ඉවත් වීමට අවශ්‍ය පුහුණුව ලබා දීම අත්‍යවශ්‍ය වීමයි. අනෙක් විකල්පයන් වන මසකට වරක් හෝ මාස තුනකට වරක් යනු භාණ්ඩ ප්‍රවාහන නෞකා (Cargo ships) සඳහා අදාළ වන කාලසීමාවන් විය හැකි නමුත්, මගී නෞකා සඳහා නීතිය වඩාත් දැඩි වේ. එබැවින් 'Every week' යනු නිවැරදි පිළිතුරයි.",
         "tags": [
             {
                 "sub_category": "Safety",
@@ -290,7 +290,7 @@
         ],
         "correct_answer": "Every 5 years.",
         "images": [],
-        "explanation": "",
+        "explanation": "SOLAS (Safety of Life at Sea) රෙගුලාසිවලට අනුව, විශේෂයෙන්ම MSC.1/Circ.1206/Rev.1 මාර්ගෝපදේශවලට අනුව, Lifeboat හෝ Rescue boat වල Winch brake සඳහා dynamic test එකක් සිදුකළ යුතුය. මෙහිදී 1.1 times the weight of the survival craft (සම්පූර්ණ බර මෙන් 1.1 ගුණයක්) ප්‍රමාණයේ proof load එකක් යොදා පරීක්ෂා කිරීම අනිවාර්ය වේ. මෙම පරීක්ෂණය සිදුකළ යුත්තේ සෑම වසර 5කට වරක් (Every 5 years) පමණි. අනෙකුත් පිළිතුරු (වසර 1, 3 හෝ 10) වැරදි වන්නේ එම කාලසීමාවන් අදාළ නීතිමය අවශ්‍යතාවලට නොගැලපෙන බැවිනි. වාර්ෂිකව සිදුකරන්නේ සාමාන්‍ය පරීක්ෂණ (Annual thorough examination) පමණක් වන අතර, වසර 5ක පරීක්ෂණය වඩාත් විස්තීර්ණ (Comprehensive) පරීක්ෂණයකි.",
         "tags": [
             {
                 "sub_category": "Safety",
@@ -309,7 +309,7 @@
     {
         "category": "CES – Survival (Advanced)",
         "index": 14,
-        "question": "Referring to the SOLAS convention, how often should a crew member on a cargo ship participate in one abandon ship drill and one fire drill?",
+        "question": "Referring to the SOLAS convention, how often should a crew member on a crew member on a cargo ship participate in one abandon ship drill and one fire drill?",
         "answers": [
             "Monthly.",
             "Every second week.",
@@ -318,7 +318,7 @@
         ],
         "correct_answer": "Monthly.",
         "images": [],
-        "explanation": "",
+        "explanation": "SOLAS (Safety of Life at Sea) සම්මුතියට අනුව, සෑම කාර්ය මණ්ඩල සාමාජිකයෙකුම මසකට වරක් (Monthly) Abandon ship drill එකකට සහ Fire drill එකකට සහභාගී විය යුතුය. මෙහිදී අනෙකුත් පිළිතුරු වැරදි වීමට හේතු: 'Weekly' යනු සාමාන්‍යයෙන් උපකරණ පරීක්ෂා කිරීම් සඳහා මිස drills සඳහා නොවේ. 'Every second week' යනු SOLAS නීතිවලට අනුකූල නොවන අතර, 'Only when he joins the ship' යනු අතිශය භයානක සහ නීති විරෝධී අදහසකි, මන්ද හදිසි අවස්ථාවකදී කාර්ය මණ්ඩලය නිරන්තර පුහුණුවකින් සිටිය යුතු බැවිනි.",
         "tags": [
             {
                 "sub_category": "Safety",
@@ -342,7 +342,7 @@
         ],
         "correct_answer": "Reduce speed and, if possible, keep the fire zone to the leeward of the ship.",
         "images": [],
-        "explanation": "",
+        "explanation": "නැවක ගින්නක් හටගත් විට ප්‍රධාන අරමුණ වන්නේ ගින්න පැතිරීම පාලනය කිරීම සහ ගිනි නිවන කණ්ඩායමට ආරක්ෂිතව වැඩ කිරීමට ඉඩ සැලසීමයි. 1. 'Reduce speed and, if possible, keep the fire zone to the leeward of the ship' යනු නිවැරදි පිළිතුරයි. මෙහිදී නැවේ වේගය අඩු කිරීමෙන් සුළඟේ බලපෑම (Apparent wind) අඩු කර ගත හැකි අතර, ගින්න පවතින ප්‍රදේශය 'leeward' (සුළඟ හමන දිශාවට ප්‍රතිවිරුද්ධ පැත්ත) පැත්තේ තබා ගැනීමෙන් ගින්නට සුළඟින් ලැබෙන ඔක්සිජන් සැපයුම අවම කර ගත හැක. 2. 'Keep the stem up against the wind' යනු වැරදි ක්‍රියාවකි, මන්ද එයින් සුළඟ නැව හරහා ගමන් කර ගින්න තවදුරටත් ඇවිලීමට ඉඩ සලසයි. 3. 'Continue on course and speed' යනු ඉතා භයානක ක්‍රියාවකි, මන්ද අධික වේගයෙන් නැව ගමන් කරන විට ඇතිවන සුළඟ ගින්න තව තවත් උග්‍ර කරයි. 4. 'Let the ship follow the wind' යනු ප්‍රායෝගික නොවන අතර එයින් නැවේ පාලනය ගිලිහී යා හැක.",
         "tags": [
             {
                 "sub_category": "Firefighting",
@@ -366,7 +366,7 @@
         ],
         "correct_answer": "Every 12 months.",
         "images": [],
-        "explanation": "",
+        "explanation": "SOLAS (Safety of Life at Sea) රෙගුලාසිවලට අනුව, Inflatable liferafts, inflatable lifejackets සහ Hydrostatic release units (HRU) වැනි ජීවිතාරක්ෂක උපකරණවල විශ්වාසනීයත්වය සහතික කිරීම සඳහා නිතිපතා නඩත්තු කිරීම අනිවාර්ය වේ. මෙම උපකරණවල ඇති වායු සිලින්ඩර, පිම්බෙන පද්ධති සහ රසායනික ද්‍රව්‍ය කාලයත් සමඟ දිරාපත් විය හැකි බැවින්, ඒවා සෑම මාස 12කට වරක්ම (Every 12 months) අනුමත සේවා මධ්‍යස්ථානයකදී (Approved service station) පරීක්ෂා කර සේවා සැපයිය යුතුය. අනෙකුත් විකල්ප වන මාස 18, 24 හෝ 36 යනු වැරදි කාලසීමාවන් වන අතර, ඒවා අන්තර්ජාතික නීති රීතිවලට පටහැනි වේ. එබැවින්, නිවැරදි පිළිතුර වන්නේ සෑම මාස 12කට වරක් යන්නයි.",
         "tags": [
             {
                 "sub_category": "Safety",
@@ -394,7 +394,7 @@
         ],
         "correct_answer": "100 % of the ship’s complement on each side.",
         "images": [],
-        "explanation": "",
+        "explanation": "SOLAS (Safety of Life at Sea) රෙගුලාසිවලට අනුව, මීටර් 85 ට වැඩි දිගකින් යුත් සාමාන්‍ය භාණ්ඩ ප්‍රවාහන නෞකාවක (Conventional cargo ship) සෑම පැත්තකම නැවේ සිටින මුළු පිරිසටම (Ship's complement) සමාන වන පරිදි 100% ක Lifeboat ධාරිතාවක් තිබිය යුතුය. මෙහිදී 50% යනු වැරදි අගයකි, මන්ද එය හදිසි අවස්ථාවකදී සියලුම දෙනාට ආරක්ෂිතව ඉවත් වීමට ප්‍රමාණවත් නොවන බැවිනි. 150% හෝ 125% යනු නීතිමය අවශ්‍යතාවයට වඩා වැඩි අගයන් වන අතර, SOLAS රෙගුලාසි මගින් නියම කර ඇත්තේ එක් එක් පැත්තෙන් 100% ක ධාරිතාවක් තිබීමයි. එමගින් නැවේ එක් පැත්තක් හානි වී භාවිතයට ගත නොහැකි වුවද, අනෙක් පැත්තේ ඇති Lifeboats මගින් මුළු පිරිසම බේරා ගැනීමට හැකි වේ.",
         "tags": [
             {
                 "sub_category": "Safety",
@@ -466,7 +466,7 @@
         ],
         "correct_answer": "3 sets.",
         "images": [],
-        "explanation": "",
+        "explanation": "GMDSS (Global Maritime Distress and Safety System) රෙගුලාසි වලට අනුව, ඕනෑම නෞකාවක හදිසි අවස්ථාවකදී භාවිතය සඳහා අවම වශයෙන් Portable two-way VHF radiotelephone apparatus කට්ටල 3ක් තිබිය යුතුය. මෙම උපකරණ Survival craft වලදී සන්නිවේදනය සඳහා අත්‍යවශ්‍ය වේ. අනෙක් පිළිතුරු වැරදි වන්නේ, SOLAS (Safety of Life at Sea) සම්මුතියේ සඳහන් වන පරිදි නෞකාවක තිබිය යුතු අවම සංඛ්‍යාව 3ක් ලෙස නිශ්චිතව දක්වා ඇති බැවිනි. 1 හෝ 2 යන පිළිතුරු ප්‍රමාණවත් නොවන අතර, මෙම උපකරණ අනිවාර්යයෙන්ම තිබිය යුතු බැවින් 'no requirement' යන පිළිතුරද වැරදිය.",
         "tags": [
             {
                 "sub_category": "Safety",
@@ -520,7 +520,7 @@
         ],
         "correct_answer": "The specific duties assigned to passengers that are in charge of a group of others.",
         "images": [],
-        "explanation": "",
+        "explanation": "SOLAS රෙගුලාසිවලට අනුව, Muster list එකෙහි අනිවාර්යයෙන්ම ඇතුළත් විය යුතු කරුණු අතර මගීන් භාරව සිටින පුද්ගලයින්ගේ වගකීම් පැහැදිලිව සඳහන් විය යුතුය. අනෙක් විකල්පයන් වැරදි වන්නේ මන්දැයි බලමු: 1) 'Action to be taken by crew and passengers' යනු Muster list එකෙහි කොටසක් වුවද, එය ඉතා සාමාන්‍ය ප්‍රකාශයකි. 2) 'The muster list has been prepared and approved...' යනු Muster list එකෙහි අන්තර්ගත විය යුතු තොරතුරක් නොව, එය නීතිමය අවශ්‍යතාවයකි. 3) 'The abandon ship signal consisting of two long blasts' යනු වැරදි තොරතුරකි, මන්ද Abandon ship signal එක යනු සාමාන්‍යයෙන් හතක් හෝ ඊට වැඩි කෙටි නාද සහ පසුව එක් දිගු නාදයක් (seven or more short blasts followed by one long blast) වන බැවිනි. එබැවින්, මගීන් භාරව සිටින පුද්ගලයින්ගේ රාජකාරි පැහැදිලි කිරීම වඩාත් නිවැරදි සහ අනිවාර්ය අවශ්‍යතාවයකි.",
         "tags": [
             {
                 "sub_category": "Emergency",
@@ -602,7 +602,7 @@
         ],
         "correct_answer": "Every three months. Details of test with signatures of Master and witness.",
         "images": [],
-        "explanation": "",
+        "explanation": "SOLAS රෙගුලාසිවලට අනුව, Emergency Steering Gear පරීක්ෂාව සෑම මාස තුනකට වරක් (Every three months) සිදු කළ යුතුය. මෙහිදී පරීක්ෂණයේ විස්තර Official Log Book (OLB) හි සටහන් කළ යුතු අතර, ඊට Master සහ සාක්ෂිකරුවෙකු (witness) අත්සන් තැබිය යුතුය. අනෙක් විකල්පයන් වන මාසික (Monthly) හෝ සති දෙකකට වරක් (Fortnightly) පරීක්ෂා කිරීම් නීතිමය අවශ්‍යතාවයට අනුකූල නොවේ. එබැවින් පළමු පිළිතුර නිවැරදි වේ.",
         "tags": [
             {
                 "sub_category": "Emergency",
@@ -622,7 +622,7 @@
         ],
         "correct_answer": "Wearing and fastening of lifejackets and associated equipment.",
         "images": [],
-        "explanation": "",
+        "explanation": "SOLAS (Safety of Life at Sea) රෙගුලාසිවලට අනුව, Abandon ship drill එකකදී සියලුම කාර්ය මණ්ඩලය Lifejackets නිවැරදිව පැළඳීම සහ ඒවායේ ඇති අමතර උපාංග (whistle, light, retro-reflective tape) භාවිතා කරන ආකාරය ප්‍රායෝගිකව පෙන්විය යුතුය. අනෙක් විකල්පයන් වන Immersion suits සහ Thermal protective aids වල පිහිටීම දැනගැනීම වැදගත් වුවත්, drill එකකදී ප්‍රධානතම අනිවාර්ය ක්‍රියාව වන්නේ Lifejacket පැළඳීමයි. Hand-held radios සහ Lifeboat radio භාවිතය විශේෂිත සන්නිවේදන පුහුණුවකට අයත් වන අතර, එය මූලික Abandon ship drill එකකදී අනිවාර්යයෙන්ම පෙන්විය යුතුම අංගයක් නොවේ. එබැවින්, Lifejackets නිවැරදිව පැළඳීම සහ සවි කිරීම (Wearing and fastening) යනු ඕනෑම හදිසි අවස්ථාවකදී ජීවිතාරක්ෂාව සඳහා අත්‍යවශ්‍යම මූලික පියවරයි.",
         "tags": [
             {
                 "sub_category": "Safety",
@@ -646,7 +646,7 @@
         ],
         "correct_answer": "In the SOLAS convention and its annex.",
         "images": [],
-        "explanation": "",
+        "explanation": "නැවක සිදුකළ යුතු අවම පුහුණු අභ්‍යාස (minimum drill requirements) පිළිබඳ නීතිමය රාමුව තීරණය කරනු ලබන්නේ ජාත්‍යන්තර නාවික සංවිධානය (IMO) විසින් පනවා ඇති SOLAS (Safety of Life at Sea) සම්මුතිය මගිනි. අනෙකුත් විකල්ප වන Owner's instructions, Manager's instructions හෝ Classification society rules මගින් අමතර මාර්ගෝපදේශ ලබා දිය හැකි වුවද, නීත්‍යානුකූලව අනිවාර්ය වන අවම අවශ්‍යතා (statutory requirements) අන්තර්ගත වන්නේ SOLAS සම්මුතියේ සහ එහි උපග්‍රන්ථවල (annex) වේ. එබැවින්, නීතිමය වශයෙන් පිළිගත හැකි නිවැරදිම පිළිතුර වන්නේ SOLAS සම්මුතියයි.",
         "tags": [
             {
                 "sub_category": "Safety",
@@ -670,7 +670,7 @@
         ],
         "correct_answer": "All of the below mentioned.",
         "images": [],
-        "explanation": "",
+        "explanation": "නැවක හෝ බෝට්ටුවක හදිසි අවස්ථාවකදී වෙනත් යාත්‍රාවකට හෝ ගුවන් යානයකට සංඥා ලබා දීම සඳහා විවිධ Pyrotechnic උපකරණ භාවිතා කරයි. Rocket parachute flare මගින් ඉහළ අහසේ දීප්තිමත් ආලෝකයක් ලබා දෙන අතර, Hand flare මගින් අතේ තබාගෙන ආසන්නයේ සිටින අයට සංඥා ලබා දිය හැක. Buoyant smoke signal මගින් දිවා කාලයේදී දෘශ්‍ය සංඥාවක් ලෙස ඝන දුමාරයක් නිකුත් කරයි. මෙම සියලුම උපකරණ SOLAS (Safety of Life at Sea) රෙගුලාසිවලට අනුව හදිසි අවස්ථාවකදී දෘශ්‍ය සංඥා ලබා දීම සඳහා අනුමත කර ඇති බැවින්, නිවැරදි පිළිතුර වන්නේ 'All of the below mentioned' යන්නයි.",
         "tags": [
             {
                 "sub_category": "Safety",
@@ -694,7 +694,7 @@
         ],
         "correct_answer": "Each lifeboat shall be launched, and maneuvered in the water its assigned crew at least once every three months during an abandon ship drill.",
         "images": [],
-        "explanation": "",
+        "explanation": "SOLAS Chapter III, Regulation 19 අනුව, සෑම lifeboat එකක්ම එහි අදාළ crew එක සමඟින් අවම වශයෙන් මාස තුනකට වරක් ජලයේදී (in the water) දියත් කර (launched) හැසිරවිය (maneuvered) යුතුය. අනෙක් විකල්පයන් වැරදි වන්නේ: 'All lifeboats shall be lowered' යන්න සෑම drill එකකදීම අනිවාර්ය නොවන අතර, 'six months' යන්න වැරදි කාල පරාසයකි. එසේම, drills නැව වරායේදී පමණක් සිදු කළ යුතු බවට නීතියක් නොමැති අතර, එය මුහුදේදීද සිදු කළ යුතුය. එබැවින් පළමු විකල්පය නිවැරදි වේ.",
         "tags": [
             {
                 "sub_category": "Safety",
@@ -742,7 +742,7 @@
         ],
         "correct_answer": "Where the fire breaks out, how many fire teams are available, the strength of the fire, the ships mobility, what is burning and communication.",
         "images": [],
-        "explanation": "",
+        "explanation": "නැවක ගින්නක් ඇති වූ විට එය පාලනය කිරීම සඳහා සංවිධානාත්මක ප්‍රයත්නයක් දැරීම අත්‍යවශ්‍ය වේ. මෙහිදී නිවැරදි පිළිතුර තෝරා ගැනීමට පහත කරුණු සලකා බලන්න: 1. 'Where the fire breaks out' (ගින්න ඇති වූ ස්ථානය) සහ 'What is burning' (දැවෙන ද්‍රව්‍ය) යනු ගිනි නිවීමේ උපක්‍රම තීරණය කිරීමට අත්‍යවශ්‍ය වේ. 2. 'Strength of the fire' (ගින්නේ ප්‍රබලතාවය) සහ 'Ships mobility' (නැවේ ගමන් කිරීමේ හැකියාව) මගින් ගින්න පැතිරීම පාලනය කිරීමට ගත යුතු පියවර තීරණය කරයි. 3. 'Communication' (සන්නිවේදනය) සහ 'Fire teams' (ගිනි නිවන කණ්ඩායම්) සංඛ්‍යාව මෙහෙයුමේ සාර්ථකත්වයට තීරණාත්මක වේ. අනෙක් විකල්පවල සඳහන් 'Distance to the fire station' (ගිනි නිවන ස්ථානයට ඇති දුර) යනු වෙරළාසන්න ගිනි නිවන ඒකක සඳහා අදාළ වන කරුණක් මිස නැවක අභ්‍යන්තර ගිනි නිවීමේ මෙහෙයුමකට ප්‍රධාන සාධකයක් නොවේ. එබැවින් පළමු විකල්පය වඩාත් පුළුල් සහ නිවැරදි වේ.",
         "tags": [
             {
                 "sub_category": "Firefighting",
@@ -762,7 +762,7 @@
         ],
         "correct_answer": "Every week.",
         "images": [],
-        "explanation": "",
+        "explanation": "SOLAS (Safety of Life at Sea) රෙගුලාසිවලට අනුව, General Emergency Alarm system එක සතියකට වරක් (Every week) පරීක්ෂා කිරීම අනිවාර්ය වේ. මෙයට හේතුව හදිසි අවස්ථාවකදී මෙම පද්ධතිය නිවැරදිව ක්‍රියාත්මක වන බව සහතික කිරීමයි. අනෙකුත් විකල්ප වන සති 2, 3 හෝ මාසික පරීක්ෂාවන් SOLAS අවශ්‍යතාවලට අනුකූල නොවේ. එබැවින්, නෞකාවේ ආරක්ෂාව සහ නීතිමය අනුකූලතාවය සඳහා සතිපතා පරීක්ෂාව (Weekly testing) අත්‍යවශ්‍ය වේ.",
         "tags": [
             {
                 "sub_category": "Safety",
@@ -786,7 +786,7 @@
         ],
         "correct_answer": "Muster and embarkation stations shall be readily accessible from accommodation and work areas.",
         "images": [],
-        "explanation": "",
+        "explanation": "SOLAS (Safety of Life at Sea) රෙගුලාසිවලට අනුව, Muster and embarkation stations යනු හදිසි අවස්ථාවකදී කාර්ය මණ්ඩලය සහ මගීන් ඉක්මනින් රැස්විය යුතු සහ යාත්‍රාවට ගොඩවිය යුතු ස්ථාන වේ. එබැවින්, මෙම ස්ථාන Accommodation සහ Work areas වල සිට ඉතා පහසුවෙන් සහ ඉක්මනින් ළඟා විය හැකි (readily accessible) පරිදි පිහිටුවිය යුතුය. අනෙක් විකල්පයන් වැරදි වන්නේ: 1. Muster සහ embarkation stations වෙන වෙනම තිබිය යුතු බවට රෙගුලාසියක් නොමැත; බොහෝ විට ඒවා එකම ස්ථානයක පිහිටුවීම වඩාත් කාර්යක්ෂම වේ. 2. Stretcher පහසුකම පිළිබඳව රෙගුලාසිවල සඳහන් වුවද, එය ප්‍රධාන අවශ්‍යතාවය ලෙස දක්වා ඇත්තේ Muster station වලට වඩා Rescue boat හෝ වෙනත් විශේෂිත යාත්‍රා සඳහාය. 3. Searchlights තිබීම වැදගත් වුවත්, SOLAS රෙගුලාසිවල මූලික අවශ්‍යතාවය ලෙස දක්වා ඇත්තේ ස්ථානවල ප්‍රවේශ විය හැකි බව (accessibility) වේ.",
         "tags": [
             {
                 "sub_category": "Legislation",
@@ -810,7 +810,7 @@
         ],
         "correct_answer": "Not less than half the total number of lifebuoys shall be provided with self-ignighting lights.",
         "images": [],
-        "explanation": "",
+        "explanation": "SOLAS Chapter III, Regulation 7.1 හි සඳහන් වන පරිදි, නැවක ඇති මුළු Life-buoys සංඛ්‍යාවෙන් අවම වශයෙන් භාගයක් (50%) Self-igniting lights වලින් සමන්විත විය යුතුය. අනෙක් විකල්ප වැරදි වීමට හේතු: 1) Buoyant lifelines තිබිය යුත්තේ අවම වශයෙන් Life-buoys සංඛ්‍යාවෙන් භාගයක පමණි, හතරක් බැගින් නොවේ. 2) Self-activating smoke signal තිබිය යුත්තේ නැවේ දෙපස (bridge wings) මිස stern එකේ පමණක් නොවේ. 3) සියලුම Life-buoys සඳහා quick-release arrangement අවශ්‍ය නොවේ, නමුත් ඒවා ඕනෑම අවස්ථාවක පහසුවෙන් ලබාගත හැකි (readily accessible) ලෙස තැබිය යුතුය.",
         "tags": [
             {
                 "sub_category": "Legislation",
@@ -834,7 +834,7 @@
         ],
         "correct_answer": "6 knots for 24 hours.",
         "images": [],
-        "explanation": "",
+        "explanation": "SOLAS (Safety of Life at Sea) රෙගුලාසිවලට අනුව, සම්පූර්ණයෙන්ම පටවා ඇති (fully loaded) ජීවිතාරක්ෂක බෝට්ටුවක් (lifeboat) සන්සුන් ජලයේදී අවම වශයෙන් පැය 24ක කාලයක් සඳහා පැයට නාවික සැතපුම් 6ක (6 knots) වේගයකින් ගමන් කිරීමට සැලසුම් කර තිබිය යුතුය. අනෙකුත් විකල්පයන් වන 3 knots, 4 knots හෝ 10 knots යන වේගයන් සහ 48 hours වැනි කාලසීමාවන් SOLAS ප්‍රමිතීන්ට අනුකූල නොවේ. එබැවින්, නිවැරදි පිළිතුර වන්නේ 6 knots for 24 hours යන්නයි.",
         "tags": [
             {
                 "sub_category": "Safety",
@@ -858,7 +858,7 @@
         ],
         "correct_answer": "Once every month.",
         "images": [],
-        "explanation": "",
+        "explanation": "SOLAS (Safety of Life at Sea) රෙගුලාසිවලට අනුව, සෑම කාර්ය මණ්ඩල සාමාජිකයෙකුම මසකට වරක් 'abandon ship' drill එකකට සහභාගී විය යුතුය. මෙහිදී අනෙකුත් විකල්ප වැරදි වන්නේ: 'Once every week' යනු සාමාන්‍යයෙන් fire drill හෝ වෙනත් පුහුණුවීම් සඳහා අදාළ විය හැකි වුවත්, abandon ship drill සඳහා නියමිත අවම කාලසීමාව මසකට වරක් වීමයි. 'Once a year' සහ 'Once every 6 months' යන කාලසීමාවන් ඉතා දීර්ඝ වන අතර, ඒවා නෞකාවේ ආරක්ෂාව සහ හදිසි අවස්ථාවකදී කාර්ය මණ්ඩලයේ සූදානම පවත්වා ගැනීමට ප්‍රමාණවත් නොවේ. එබැවින්, නීතිමය අවශ්‍යතාවය අනුව 'Once every month' යනු නිවැරදි පිළිතුරයි.",
         "tags": [
             {
                 "sub_category": "Safety",
@@ -882,7 +882,7 @@
         ],
         "correct_answer": "All the mentioned alternatives.",
         "images": [],
-        "explanation": "",
+        "explanation": "UMS (Unattended Machinery Space) යාත්‍රාවක ගිනි නිවීමේ පද්ධතියේ විශ්වාසනීයත්වය ඉතා වැදගත් වේ. Fire detectors නිවැරදිව ක්‍රියාත්මක වන බව තහවුරු කර ගැනීමට පියවර කිහිපයක් අනුගමනය කළ යුතුය. පළමුව, නිෂ්පාදකයාගේ උපදෙස් පරිදි (manual) තාපය (heat) හෝ දුම (smoke) භාවිතයෙන් detector එක පරීක්ෂා කළ යුතුය. දෙවනුව, එම පරීක්ෂණයේදී sensor එකේ self-controlling system එක (උදාහරණයක් ලෙස flashing light) නිවැරදිව ක්‍රියාත්මක දැයි බැලිය යුතුය. තෙවනුව, detector එක මගින් central control unit එකට නිවැරදි සංඥා ලැබේද සහ විදුලි සම්බන්ධතා (electric connections) හොඳින් පවතීද යන්න පරීක්ෂා කළ යුතුය. මෙම සියලු කරුණු අත්‍යවශ්‍ය බැවින් 'All the mentioned alternatives' යනු නිවැරදි පිළිතුරයි.",
         "tags": [
             {
                 "sub_category": "Controls",
@@ -923,7 +923,7 @@
         ],
         "correct_answer": "Checking that life-jackets are correctly donned.",
         "images": [],
-        "explanation": "",
+        "explanation": "SOLAS (Safety of Life at Sea) රෙගුලාසිවලට අනුව, abandon ship drill එකකදී අනිවාර්යයෙන්ම සිදුකළ යුතු මූලික පියවරක් වන්නේ සියලුම කාර්ය මණ්ඩලය විසින් Life-jackets නිවැරදිව පැළඳ සිටිනවාද යන්න පරීක්ෂා කිරීමයි. අනෙක් විකල්පයන් වන Launching and recovery of a survival craft, Starting and operating radio life-saving appliances සහ Manoeuvring the lifeboat in the water යන ක්‍රියාවලීන් drill එකකදී සිදුකළ හැකි වුවද, SOLAS රෙගුලාසිවලට අනුව සෑම drill එකකදීම අනිවාර්යයෙන්ම ඇතුළත් විය යුතු මූලිකම අංගය වන්නේ Life-jackets නිවැරදිව පැළඳීම (donning) තහවුරු කර ගැනීමයි. මෙය හදිසි අවස්ථාවකදී ජීවිත ආරක්ෂාව සඳහා ඉතාම වැදගත් පියවරක් ලෙස සැලකේ.",
         "tags": [
             {
                 "sub_category": "Safety",
@@ -947,7 +947,7 @@
         ],
         "correct_answer": "For a total period of not less than 10 minutes every week.",
         "images": [],
-        "explanation": "",
+        "explanation": "SOLAS (Safety of Life at Sea) රෙගුලාසිවලට අනුව, lifeboat සහ rescue boat වල ඇති එන්ජින් නඩත්තු කිරීම සහ හදිසි අවස්ථාවකදී ක්‍රියාත්මක වන බව සහතික කිරීම අත්‍යවශ්‍ය වේ. මෙහිදී, එන්ජිම සතියකට වරක් අවම වශයෙන් විනාඩි 10ක කාලයක් ක්‍රියාත්මක කළ යුතුය. අනෙකුත් විකල්පයන් වන විනාඩි 5ක් හෝ 3ක් වැනි කාලසීමාවන් සහ මාසික පරීක්ෂාවන් SOLAS ප්‍රමිතීන්ට අනුකූල නොවේ. එන්ජිම සතියකට වරක් විනාඩි 10ක් ක්‍රියාත්මක කිරීම මගින් එන්ජිමේ ඇති moving parts වල ලිහිසි තෙල් (lubrication) නිසි ලෙස බෙදී යාම, බැටරි ආරෝපණය පවත්වා ගැනීම සහ ඉන්ධන පද්ධතියේ (fuel system) වාතය ඉවත් වී එන්ජිම ඕනෑම මොහොතක start වීමට සූදානම් බව තහවුරු කරගත හැක.",
         "tags": [
             {
                 "sub_category": "Safety",
@@ -971,7 +971,7 @@
         ],
         "correct_answer": "All prescribed life-saving appliances shall be made of non-combustible or fire retardant material.",
         "images": [],
-        "explanation": "",
+        "explanation": "LSA Code (Life-Saving Appliance Code) රෙගුලාසිවලට අනුව, සියලුම ජීවිතාරක්ෂක උපකරණ (Life-saving appliances) ගින්නට ඔරොත්තු දෙන හෝ ගින්න පැතිරීම වළක්වන (non-combustible or fire retardant) ද්‍රව්‍යවලින් නිපදවිය යුතුය. මෙය හදිසි අවස්ථාවකදී ගින්නක් ඇති වුවහොත් උපකරණවලට හානි නොවී පැවතීම සහතික කිරීම සඳහා අත්‍යවශ්‍ය වේ. අනෙක් විකල්පයන් වැරදි වන්නේ: 1) වර්ණය සම්බන්ධයෙන් නීතියේ සඳහන් වන්නේ 'highly visible' වර්ණයක් විය යුතු බව මිස ඕනෑම වර්ණයක් සමඟ contrast විය යුතු බව නොවේ. 2) රතු වර්ණයෙන් සලකුණු කිරීම සෑම උපකරණයකටම අනිවාර්ය නොවේ. 3) නිෂ්පාදකයාගේ නම සහ ලාංඡනය තිබීම වැදගත් වුවත්, එය ගිනි ආරක්ෂාව සම්බන්ධ මූලික නියාමන අවශ්‍යතාවය (regulatory requirement) ලෙස LSA Code හි ප්‍රධාන වශයෙන් දක්වා නැත.",
         "tags": [
             {
                 "sub_category": "Safety",
@@ -1060,7 +1060,7 @@
         ],
         "correct_answer": "Evaluation of the situation, rescue and life-saving, confinement of fire, extinction, then feed back on the emergency.",
         "images": [],
-        "explanation": "",
+        "explanation": "ගිනි නිවීමේ හදිසි අවස්ථාවකදී (Fire emergency) අනුගමනය කළ යුතු නිවැරදි පියවර අනුපිළිවෙල මෙසේ වේ: 1. Evaluation of the situation: පළමුව ගින්නෙහි ස්වභාවය සහ ප්‍රමාණය තක්සේරු කළ යුතුය. 2. Rescue and life-saving: අනතුරේ සිටින පුද්ගලයින් බේරා ගැනීම ප්‍රමුඛතාවය වේ. 3. Confinement of fire: ගින්න පැතිරීම වැළැක්වීම සඳහා එය සීමා කළ යුතුය (Boundary cooling). 4. Extinction: ඉන්පසු ගින්න නිවා දැමීම සිදු කළ යුතුය. 5. Feedback: අවසානයේ සිදුවීම පිළිබඳ වාර්තා කිරීම සහ පසු විපරම් කිරීම සිදු කෙරේ. අනෙක් පිළිතුරු වැරදි වන්නේ ඒවායේ අනුපිළිවෙල තාර්කික නොවන බැවිනි. උදාහරණයක් ලෙස, තක්සේරු කිරීමකින් තොරව ගින්න නිවීමට යාම (Extinction) අනතුරුදායක විය හැකි අතර, ජීවිත බේරා ගැනීමට පෙර ගින්න නිවීමට යාම මගින් මිනිස් ජීවිත අවදානමට ලක්විය හැක.",
         "tags": [
             {
                 "sub_category": "Firefighting",
@@ -1101,7 +1101,7 @@
         ],
         "correct_answer": "A deck officer or certificated person shall be placed in charge of each survival craft to be used.",
         "images": [],
-        "explanation": "",
+        "explanation": "SOLAS Chapter III, Regulation 10 හි සඳහන් වන පරිදි, සෑම survival craft එකක්ම භාරව සිටින පුද්ගලයා සම්බන්ධයෙන් පැහැදිලි නීති රීති පවතී. නිවැරදි පිළිතුර වන්නේ 'A deck officer or certificated person shall be placed in charge of each survival craft to be used' යන්නයි. මෙහිදී 'certificated person' යනු එම කාර්යය සඳහා සුදුසුකම් ලත් සහ පුහුණුව ලත් අයෙකි. අනෙක් පිළිතුරු වැරදි වීමට හේතු: 1. '5 trained persons' යන කොන්දේසිය SOLAS හි මෙලෙස සඳහන් නොවේ. 2. 'Radio telegraph installation' සඳහා deck officer කෙනෙකුම සිටිය යුතු බවට වන නීතියක් survival craft සඳහා සාමාන්‍ය manning අවශ්‍යතාවයක් ලෙස නොමැත. 3. 'Certificated engineer' කෙනෙකු සෑම motorised survival craft එකකම සිටිය යුතු බවට SOLAS හි අනිවාර්ය නීතියක් නොමැත, මන්ද survival craft එකක් ක්‍රියාත්මක කිරීමට අවශ්‍ය මූලික පුහුණුව ඕනෑම deck officer කෙනෙකුට හෝ certificated person කෙනෙකුට ලබා දිය හැකි බැවිනි.",
         "tags": [
             {
                 "sub_category": "Legislation",
@@ -1142,7 +1142,7 @@
         ],
         "correct_answer": "Once every month.",
         "images": [],
-        "explanation": "",
+        "explanation": "SOLAS (Safety of Life at Sea) රෙගුලාසිවලට අනුව, සෑම කාර්ය මණ්ඩල සාමාජිකයෙකුම මසකට වරක් (Once every month) Fire drill එකකට සහභාගී වීම අනිවාර්ය වේ. මෙහිදී අනෙක් විකල්ප වැරදි වන්නේ ඇයිද යන්න සලකා බලමු: 'Once every week' යනු සාමාන්‍යයෙන් Abandon ship drill සඳහා අදාළ වන අතර, 'Once every 6 months' හෝ 'Once every year' යනු Fire drill සඳහා නියමිත කාලසීමාවට වඩා බෙහෙවින් වැඩි කාලයක් බැවින් ඒවා වැරදිය. නෞකාවේ ආරක්ෂාව සහ හදිසි අවස්ථාවකදී කාර්ය මණ්ඩලයේ සූදානම තහවුරු කිරීම සඳහා මෙම මාසික පුහුණුව අත්‍යවශ්‍ය වේ.",
         "tags": [
             {
                 "sub_category": "Safety",
@@ -1166,7 +1166,7 @@
         ],
         "correct_answer": "The appointed lifeboat commander.",
         "images": [],
-        "explanation": "",
+        "explanation": "SOLAS රෙගුලාසි වලට අනුව, සෑම Survival craft එකක් සඳහාම නිශ්චිත වගකීම් පැවරී ඇති පුද්ගලයින් සිටිය යුතුය. 'Muster List' එකෙහි සඳහන් කර ඇති පරිදි, එක් එක් ජීවිතාරක්ෂක බෝට්ටුව (Lifeboat) සඳහා 'Lifeboat commander' ලෙස නම් කරන ලද නිලධාරියෙකු හෝ කාර්ය මණ්ඩල සාමාජිකයෙකු සිටී. ඔහු එම බෝට්ටුවේ ආරක්ෂාව සහ මෙහෙයුම් කටයුතු සඳහා වගකිව යුතු නායකයා වේ. අනෙක් විකල්පයන් වැරදි වන්නේ: 'Sen. Off. Deck' හෝ 'Sen. Off. Engine' යනු සාමාන්‍ය තනතුරු පමණි, ඔවුන් සෑම විටම එම බෝට්ටුවේ නායකයා නොවිය හැක. 'The first member of the crew arriving' යන්න වැරදි වන්නේ, නායකත්වය තීරණය වන්නේ පුද්ගලයා පැමිණි වේලාව මත නොව, Muster List එකෙහි ඔහුට පවරා ඇති වගකීම මත බැවිනි.",
         "tags": [
             {
                 "sub_category": "Safety",
@@ -1190,7 +1190,7 @@
         ],
         "correct_answer": "All ships that are covered by the IMO safety conventions.",
         "images": [],
-        "explanation": "",
+        "explanation": "SOLAS (Safety of Life at Sea) සම්මුතියට අනුව, ගිනි නිවීමේ ආරක්ෂාව සහතික කිරීම සඳහා නෞකාවල Automatic fire detection පද්ධති තිබීම අනිවාර්ය වේ. මෙහිදී, 'All ships that are covered by the IMO safety conventions' යන්න නිවැරදි පිළිතුර වන්නේ, IMO මගින් නිකුත් කර ඇති ජාත්‍යන්තර නීති රීතිවලට යටත් වන සියලුම නෞකා සඳහා මෙම ආරක්ෂක පියවරයන් අනිවාර්ය වන බැවිනි. අනෙක් විකල්පයන් වන '1986 වර්ෂයට පසු ඉදි කළ නෞකා' හෝ 'අයිතිකරුගේ කැමැත්ත' යන කරුණු නීතිමය වශයෙන් අසම්පූර්ණ හෝ වැරදි වේ. මන්ද, SOLAS රෙගුලාසි මගින් නෞකාවේ වර්ගය සහ ප්‍රමාණය අනුව මෙම පද්ධති අනිවාර්ය කර ඇති අතර, එය අයිතිකරුගේ තීරණය මත පදනම් වූවක් නොවේ.",
         "tags": [
             {
                 "sub_category": "Firefighting",
@@ -1214,7 +1214,7 @@
         ],
         "correct_answer": "Development of toxic gases.",
         "images": [],
-        "explanation": "",
+        "explanation": "Halon යනු ගින්නක් නිවා දැමීමට භාවිතා කරන ඉතා කාර්යක්ෂම extinguishing agent එකකි. කෙසේ වෙතත්, විශාල ගින්නක් (extensive fire) පවතින විට Halon ඉහළ උෂ්ණත්වයකට නිරාවරණය වූ විට, එය රසායනිකව වියෝජනය වී (thermal decomposition) හයිඩ්‍රජන් ෆ්ලෝරයිඩ් (HF) සහ හයිඩ්‍රජන් බ්‍රෝමයිඩ් (HBr) වැනි ඉතා විෂ සහිත (toxic) වායුන් නිපදවයි. අනෙකුත් පිළිතුරු විශ්ලේෂණය කළහොත්: 'Depletion of oxygen' යනු CO2 වැනි වායුන් මගින් සිදුවන ක්‍රියාවලියකි, Halon මගින් ගින්න නිවන්නේ රසායනික දාම ප්‍රතික්‍රියාව (chain reaction) නැවැත්වීමෙනි. 'Depletion of the ozone layer' යනු Halon වල පාරිසරික බලපෑමක් මිස ගින්නක් නිවීමේදී ක්ෂණිකව ඇතිවන අනතුරක් නොවේ. 'Development of explosive gases' යනු Halon වල ලක්ෂණයක් නොවේ. එබැවින්, මිනිස් ජීවිතයට ක්ෂණිකව බලපාන ප්‍රධාන අනතුර වන්නේ විෂ සහිත වායුන් (toxic gases) නිර්මාණය වීමයි.",
         "tags": [
             {
                 "sub_category": "Firefighting",
@@ -1238,7 +1238,7 @@
         ],
         "correct_answer": "Checking that passengers and crew are suitably dressed and lifejackets correctly donned.",
         "images": [],
-        "explanation": "",
+        "explanation": "SOLAS රෙගුලාසිවලට අනුව, 'abandon ship' අභ්‍යාසයකදී (drill) ප්‍රධාන අරමුණ වන්නේ හදිසි අවස්ථාවකදී නැව හැර යාමට අවශ්‍ය සූදානම පරීක්ෂා කිරීමයි. මෙහිදී මගීන් සහ කාර්ය මණ්ඩලය නිසි ලෙස ඇඳුම් ඇඳ සිටිනවාද සහ Lifejackets නිවැරදිව පැළඳ සිටිනවාද යන්න පරීක්ෂා කිරීම අනිවාර්ය වේ. අනෙක් විකල්පයන් වන Distress signals පරීක්ෂා කිරීම, මනෝභාවය (morale) පරීක්ෂා කිරීම හෝ Lifeboat provisions පරීක්ෂා කිරීම යනු නඩත්තු කටයුතු හෝ වෙනත් පරීක්ෂාවන් මිස, අභ්‍යාසයකදී පුද්ගලයන්ගේ ආරක්ෂාව තහවුරු කිරීමේ මූලික පියවර නොවේ.",
         "tags": [
             {
                 "sub_category": "Safety",
@@ -1286,7 +1286,7 @@
         ],
         "correct_answer": "4,5 metres.",
         "images": [],
-        "explanation": "",
+        "explanation": "SOLAS II-2 රෙගුලාසිවලට අනුව, ගිනි නිවන පොම්පවල (Fire pumps) කාර්යක්ෂමතාව සහ විශ්වසනීයත්වය සහතික කිරීම සඳහා ඒවායේ suction head එක සීමා කර ඇත. මෙහිදී, පොම්පය මගින් ජලය ලබා ගන්නා මට්ටම (suction lift) මීටර් 4.5 ට වඩා වැඩි නොවිය යුතුය. අනෙක් විකල්පයන් වන 9m, 1.5m සහ 3m යන අගයන් SOLAS රෙගුලාසිවල සඳහන් වන නිවැරදි සීමාවන් නොවේ. 9m යනු සාමාන්‍යයෙන් centrifugal pumps වල න්‍යායාත්මක උපරිම suction lift එක වුවද, ප්‍රායෝගිකව සහ නීතිමය වශයෙන් ගිනි නිවන පද්ධති සඳහා 4.5m සීමාව අනිවාර්ය වේ. එබැවින් 4.5 metres යනු නිවැරදි පිළිතුරයි.",
         "tags": [
             {
                 "sub_category": "Firefighting",
@@ -1310,7 +1310,7 @@
         ],
         "correct_answer": "Every 4 months.",
         "images": [],
-        "explanation": "",
+        "explanation": "SOLAS (Safety of Life at Sea) රෙගුලාසිවලට අනුව, නැවක ඇති Davit-launched liferafts භාවිතය පිළිබඳ පුහුණුවීම් (Training) අවම වශයෙන් සෑම මාස 4කට වරක්ම සිදු කළ යුතුය. මෙහිදී liferaft එකක් උද්ධමනය කිරීම (Inflation) සහ පහත් කිරීම (Lowering) හැකි සෑම අවස්ථාවකදීම ප්‍රායෝගිකව සිදු කළ යුතුය. අනෙකුත් විකල්ප වන මාස 3, 2 හෝ 1 යන කාලසීමාවන් SOLAS නීතිවලට අනුකූල නොවේ. එබැවින් නිවැරදි පිළිතුර වන්නේ 'Every 4 months' වේ.",
         "tags": [
             {
                 "sub_category": "Safety",

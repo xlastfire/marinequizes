@@ -10,7 +10,7 @@
         ],
         "correct_answer": "To transfer heat from one fluid to another",
         "images": [],
-        "explanation": "",
+        "explanation": "Heat exchanger එකක මූලික කාර්යය වන්නේ තාපය (heat) එක් මාධ්‍යයකින් (fluid) තවත් මාධ්‍යයකට හුවමාරු කිරීමයි. මෙහිදී සිසිලන පද්ධතියේ (cooling water system) ඇති උණුසුම් ජලය හෝ තෙල්, මුහුදු ජලය (sea water) වැනි සිසිල් මාධ්‍යයක් හරහා ගමන් කරවා තාපය ඉවත් කරනු ලැබේ. අනෙක් විකල්ප සලකා බලන විට, 'To reduce engine room temperature' යනු වායු සමීකරණ හෝ වාතාශ්‍රය පද්ධතිවල කාර්යයක් මිස Heat exchanger එකක ප්‍රධාන කාර්යය නොවේ. එමෙන්ම 'To increase fluid pressure' යනු Pump එකක කාර්යයක් මිස Heat exchanger එකක කාර්යයක් නොවේ. එබැවින් නිවැරදි පිළිතුර 'To transfer heat from one fluid to another' වේ.",
         "tags": [
             {
                 "sub_category": "Exchanger",
@@ -29,7 +29,7 @@
         ],
         "correct_answer": "To check condensate returns for oil.",
         "images": [],
-        "explanation": "",
+        "explanation": "Boiler feed system එකේදී Observation tank එකේ ප්‍රධාන කාර්යය වන්නේ Condensate returns වල Oil contamination එකක් තිබේදැයි පරීක්ෂා කිරීමයි. මන්ද, Boiler එකට Oil ඇතුළු වුවහොත් එය Boiler tubes මත තැන්පත් වී Overheating සහ අවසානයේදී Tube failure වැනි බරපතල හානි සිදු කළ හැකි බැවිනි. අනෙක් පිළිතුරු වැරදි වන්නේ: Boiler water level monitor කිරීම සඳහා Water gauge glass භාවිතා කරන අතර, Steam pressure මැනීම සඳහා Pressure gauge භාවිතා කරන බැවිනි. එබැවින්, Condensate returns වල Oil පරීක්ෂා කිරීම එකම නිවැරදි පිළිතුර වේ.",
         "tags": [
             {
                 "sub_category": "Water",
@@ -48,7 +48,7 @@
         ],
         "correct_answer": "To avoid accidental intake of water into the engine room in case of valve or pipeline failure.",
         "images": [],
-        "explanation": "",
+        "explanation": "Bilge සහ Ballast පද්ධති යනු නැවක ජල මට්ටම පාලනය කරන ඉතා වැදගත් පද්ධති වේ. මෙහෙයුම අවසන් වූ පසු සියලුම Valves වසා දැමීම අනිවාර්ය වන්නේ, යම් හෙයකින් පයිප්පයක (Pipeline) හෝ Valve එකක කාන්දුවක් හෝ අසාර්ථක වීමක් (Failure) සිදු වුවහොත්, පිටතින් ජලය නැව තුළට ගලා ඒම (Flooding) වැළැක්වීම සඳහාය. අනෙක් විකල්පයන් සලකා බැලීමේදී: 'Pressure build-up' යනු මෙහිදී ප්‍රධාන ගැටලුව නොවේ, මන්ද මෙම පද්ධති සාමාන්‍යයෙන් අඩු පීඩනයකින් ක්‍රියාත්මක වන බැවිනි. එබැවින්, ආරක්ෂාව (Safety) සහ නැවේ ජල කාන්දු වීම වැළැක්වීම (Prevention of flooding) සඳහා නිවැරදිම පිළිතුර වන්නේ පළමු විකල්පයයි.",
         "tags": [
             {
                 "sub_category": "Piping",
@@ -94,7 +94,7 @@
         ],
         "correct_answer": "A hydraulic hand pump is usually used to tighten G-nuts",
         "images": [],
-        "explanation": "",
+        "explanation": "Hydraulic hand pump එකක් ප්‍රධාන වශයෙන් භාවිතා කරනු ලබන්නේ අධික පීඩනයක් (high pressure) අවශ්‍ය වන කාර්යයන් සඳහාය. මෙහිදී G-nuts හෙවත් Hydraulic nuts තද කිරීමේදී (tightening) අවශ්‍ය වන පීඩනය ලබා දීමට මෙම pump එක යොදා ගනී. අනෙක් විකල්පයන් සලකා බැලීමේදී, 'To measure fluid levels' යනු වැරදි පිළිතුරකි, මන්ද ද්‍රව මට්ටම් මැනීම සඳහා Dipstick හෝ Level sensors වැනි උපකරණ මිස Hydraulic pump භාවිතා නොකරන බැවිනි. එබැවින්, G-nuts තද කිරීම සඳහා Hydraulic hand pump භාවිතා කිරීම නිවැරදි තාක්ෂණික පිළිතුර වේ.",
         "tags": [
             {
                 "sub_category": "Mechanics",
@@ -145,7 +145,7 @@
         ],
         "correct_answer": "At the highest point of the steam drum.",
         "images": [],
-        "explanation": "",
+        "explanation": "Steam boiler එකක Air vent cock එකේ ප්‍රධාන කාර්යය වන්නේ boiler එක පිරවීමේදී හෝ පීඩනය අඩු කිරීමේදී එහි ඇතුළත ඇති වාතය (Air) ඉවත් කිරීමයි. වාතය ජලයට වඩා සැහැල්ලු බැවින් එය සැමවිටම boiler එකේ ඉහළම ස්ථානයේ එකතු වේ. එබැවින්, වාතය කාර්යක්ෂමව ඉවත් කිරීමට නම් Air vent cock එක Steam drum එකේ ඉහළම ස්ථානයේ (Highest point) පිහිටා තිබිය යුතුය. 'Near the water level gauge' යනු වැරදි පිළිතුරකි, මන්ද Water level gauge එක මගින් ජල මට්ටම පෙන්වන අතර එය වාතය ඉවත් කිරීමට සුදුසු ස්ථානයක් නොවේ.",
         "tags": [
             {
                 "sub_category": "Boiler",
@@ -164,7 +164,7 @@
         ],
         "correct_answer": "… the furnace purge sequence is completed.",
         "images": [],
-        "explanation": "",
+        "explanation": "Boiler එකක් light up කිරීමට පෙර Furnace purge sequence එක සම්පූර්ණ කිරීම අනිවාර්ය වේ. මෙයට හේතුව වන්නේ Furnace එක තුළ ඉතිරි වී තිබිය හැකි දහනය නොවූ ඉන්ධන වාෂ්ප (unburnt fuel vapors) ඉවත් කිරීමයි. එසේ නොකළහොත්, ignition එකේදී Furnace explosion එකක් සිදුවීමේ දැඩි අවදානමක් ඇත. ජල මට්ටම (water level) නිවැරදිව තිබීම වැදගත් වුවත්, ආරක්ෂාව අතින් Furnace purge එක අත්‍යවශ්‍යම පියවරයි. එබැවින්, purge sequence එක සම්පූර්ණ කිරීම නිවැරදි පිළිතුර වේ.",
         "tags": [
             {
                 "sub_category": "Safety",
@@ -231,7 +231,7 @@
         ],
         "correct_answer": "Horizontal.",
         "images": [],
-        "explanation": "",
+        "explanation": "මුහුදේ සිටින පුද්ගලයෙකු ගොඩගැනීමේදී ඔහුව 'Horizontal' (තිරස්) පිහිටීමකින් ගොඩගැනීම අනිවාර්ය වේ. මෙයට ප්‍රධාන හේතුව වන්නේ 'Vertical' (සිරස්) ලෙස ඔසවා තැබීමේදී පුද්ගලයාගේ හෘද ස්පන්දනයට (Heart) සහ රුධිර සංසරණයට (Blood circulation) දැඩි බලපෑමක් ඇති වීමයි. දිගු වේලාවක් සීතල වතුරේ සිටි පුද්ගලයෙකුගේ ශරීරයේ රුධිර පීඩනය පහත වැටී තිබිය හැකි අතර, ඔහුව සිරස් අතට එසවීමෙන් 'Postural hypotension' තත්ත්වය නිසා හෘදයාබාධයක් හෝ ක්ලාන්ත වීමක් සිදුවිය හැක. එබැවින්, 'Horizontal' ක්‍රමය මගින් ශරීරයේ රුධිර පීඩනය ස්ථාවරව පවත්වා ගනිමින් ආරක්ෂිතව ගොඩගැනීම සිදුකළ යුතුය. 'Vertical' ක්‍රමය වැරදි සහගත වන්නේ ඉහත සඳහන් කළ සෞඛ්‍ය අවදානම් හේතුවෙනි.",
         "tags": [
             {
                 "sub_category": "Safety",
@@ -286,7 +286,7 @@
         ],
         "correct_answer": "Raise the fire alarm.",
         "images": [],
-        "explanation": "",
+        "explanation": "නැවක ගින්නක් හඳුනාගත් විට, පළමු සහ වැදගත්ම පියවර වන්නේ 'Raise the fire alarm' කිරීමයි. මෙයට හේතුව වන්නේ නැවේ සිටින අනෙකුත් කාර්ය මණ්ඩලය දැනුවත් කිරීම සහ Emergency Response කණ්ඩායම වහාම ක්‍රියාත්මක වීම සඳහා අවස්ථාව ලබා දීමයි. 'Attempt to extinguish the fire immediately' යනු වැරදි පිළිතුරකි, මන්ද ඔබ තනිවම ගින්න නිවීමට උත්සාහ කිරීම අනතුරුදායක විය හැකි අතර, ඒ සඳහා ප්‍රමාණවත් කාලයක් ගත වුවහොත් ගින්න පාලනය කළ නොහැකි ලෙස පැතිර යා හැකිය. එබැවින්, මුලින්ම අනතුරු ඇඟවීම මගින් අනෙක් අයගේ සහාය ලබා ගැනීම සහ ආරක්ෂිත පියවර ගැනීම අනිවාර්ය වේ.",
         "tags": [
             {
                 "sub_category": "Firefighting",
@@ -309,7 +309,7 @@
         ],
         "correct_answer": "Confirm with their search partner that the object found is suspicious.",
         "images": [],
-        "explanation": "",
+        "explanation": "නැවක සෝදිසි මෙහෙයුමකදී (Search operation) සැක සහිත වස්තුවක් හමු වූ විට, ආරක්ෂක ක්‍රියාපටිපාටියට අනුව පළමුව කළ යුත්තේ තමන් සමඟ සිටින සහකරු (Search partner) සමඟ එම වස්තුව සැක සහිත බව තහවුරු කර ගැනීමයි. 'Immediately attempt to disarm the object' යන්න වැරදියි, මන්ද පුපුරණ ද්‍රව්‍ය පිළිබඳ විශේෂ පුහුණුවක් නොමැතිව එවැනි දේ ස්පර්ශ කිරීම හෝ අක්‍රිය කිරීමට උත්සාහ කිරීම ජීවිත අවදානමක් ඇති කරන බැවිනි. 'Don’t know' යන්න පිළිතුරක් නොවේ. එබැවින්, වස්තුව ස්පර්ශ නොකර, එය සැක සහිත බව සහකරු සමඟ තහවුරු කරගෙන වහාම ආරක්ෂිත පියවර (Reporting and cordoning off) ගැනීම නිවැරදි ක්‍රියාවයි.",
         "tags": [
             {
                 "sub_category": "Security",
@@ -409,7 +409,7 @@
         ],
         "correct_answer": "The material safety data sheets supplied with the chemicals.",
         "images": [],
-        "explanation": "",
+        "explanation": "නැවක භාවිතා කරන ඕනෑම රසායනික ද්‍රව්‍යයක (Chemicals) ඇති විය හැකි අනතුරුදායක තත්ත්වයන් (Hazards), ඒවා හැසිරවිය යුතු ආකාරය සහ හදිසි අවස්ථාවකදී ගත යුතු පියවර පිළිබඳ සවිස්තරාත්මක තොරතුරු අඩංගු වන්නේ Material Safety Data Sheets (MSDS) හෙවත් Safety Data Sheets (SDS) තුළය. 'The equipment operating manual' යනු යන්ත්‍රෝපකරණ ක්‍රියාත්මක කරන ආකාරය පිළිබඳ උපදෙස් පොතක් මිස රසායනික ද්‍රව්‍යවල ඇති අනතුරුදායක බව විස්තර කරන ලේඛනයක් නොවේ. එබැවින්, රසායනික ද්‍රව්‍ය සමඟ වැඩ කිරීමේදී ආරක්ෂාව තහවුරු කර ගැනීමට සෑම විටම අදාළ MSDS පත්‍රිකාව පරීක්ෂා කිරීම අනිවාර්ය වේ.",
         "tags": [
             {
                 "sub_category": "Safety",
@@ -505,7 +505,7 @@
         ],
         "correct_answer": "Make a new gasket from old chart paper or other similar material of the same thickness as the original gasket.",
         "images": [],
-        "explanation": "",
+        "explanation": "Pump එකක casing එක seal කිරීමේදී gasket එකක් අත්‍යවශ්‍ය වේ. මෙහිදී නිවැරදි පිළිතුර වන්නේ මුල් gasket එකේ thickness එකට සමාන වන පරිදි සුදුසු ද්‍රව්‍යයකින් (උදාහරණයක් ලෙස chart paper) නව gasket එකක් සාදා ගැනීමයි. වැරදි පිළිතුරු විශ්ලේෂණය: 1. Sealant පමණක් භාවිතා කිරීමෙන් pump එකේ clearance එක වෙනස් විය හැකි අතර, එය high pressure යටතේ කාන්දු වීමට (leakage) ඉඩ ඇත. Gasket එකක් මගින් පෘෂ්ඨ දෙක අතර පරතරය නිවැරදිව පවත්වා ගනී. 2. 'Don't know' යනු තාක්ෂණික විසඳුමක් නොවේ. එබැවින්, නිසි thickness එකකින් යුත් gasket එකක් සාදා ගැනීම මගින් pump එකේ mechanical integrity එක ආරක්ෂා කර ගත හැක.",
         "tags": [
             {
                 "sub_category": "Maintenance",
@@ -574,7 +574,7 @@
         ],
         "correct_answer": "Inform the engineer in case it has been left inside the compressor when it was closed up.",
         "images": [],
-        "explanation": "",
+        "explanation": "මෙම තත්ත්වය තුළ නිවැරදිම ක්‍රියාමාර්ගය වන්නේ වහාම අදාළ Engineer දැනුවත් කිරීමයි. මෙයට හේතුව වන්නේ, අතුරුදහන් වූ Allen key එක Air compressor එක ඇතුළත අමතක වී තිබේ නම්, එය යන්ත්‍රය ක්‍රියාත්මක වන විට බරපතළ හානි (Mechanical damage) සිදු කිරීමට හෝ අනතුරක් වීමට හේතු විය හැකි බැවිනි. අනෙක් විකල්ප දෙක වැරදියි: 'Don't know' යනු වගකීම් විරහිත පිළිතුරකි. 'Continue putting the tools away and ignore it' යන්න ඉතා භයානක ක්‍රියාවකි, මන්ද මෙවලමක් යන්ත්‍රයක් තුළ ඉතිරි වීමෙන් බරපතළ අසාර්ථකත්වයක් (Catastrophic failure) සිදුවිය හැකි බැවිනි. එබැවින්, Tool accountability පවත්වා ගැනීම සහ ආරක්ෂාව (Safety) තහවුරු කිරීම සඳහා වහාම වාර්තා කිරීම අනිවාර්ය වේ.",
         "tags": [
             {
                 "sub_category": "Maintenance",
@@ -601,7 +601,7 @@
         ],
         "correct_answer": "Leave the tank immediately and have the atmosphere retested.",
         "images": [],
-        "explanation": "",
+        "explanation": "මෙම තත්ත්වය තුළ ආරක්ෂාව (Safety) ප්‍රමුඛ වේ. ඉන්ධන ටැංකියක් (Fuel tank) තුළ වැඩ කරන විට වායුගෝලය පරීක්ෂා කර තිබුණද, පසුව යම් දුර්ගන්ධයක් හෝ වාෂ්ප (Fumes) දැනේ නම්, එයින් අදහස් වන්නේ ටැංකිය තුළ භයානක වායූන් කාන්දු වීමක් හෝ වායුගෝලීය තත්ත්වයන් වෙනස් වීමක් සිදුවී ඇති බවයි. මෙවැනි අවස්ථාවක 'Continue working as long as the fumes are not strong' යන්න ඉතා භයානක තීරණයකි, මන්ද කුඩා වාෂ්ප ප්‍රමාණයක් වුවද විෂ සහිත හෝ ගිනි ගැනීමට (Flammable) ඉඩ ඇති බැවිනි. 'Don’t know' යනු පිළිතුරක් නොවේ. එබැවින්, වහාම ටැංකියෙන් ඉවත් වී (Leave the tank immediately) නැවතත් වායුගෝලය පරීක්ෂා කිරීම (Atmosphere retested) අනිවාර්ය ආරක්ෂක පියවර වේ.",
         "tags": [
             {
                 "sub_category": "Safety",
@@ -628,7 +628,7 @@
         ],
         "correct_answer": "Rig chain blocks to lift the cylinder head from its cradle and then transfer it gradually over to the crane hook by working the chain blocks.",
         "images": [],
-        "explanation": "",
+        "explanation": "මෙම කාර්යයේදී ප්‍රධාන ගැටලුව වන්නේ Engine room crane එකට Cylinder head එකට කෙලින්ම ඉහළින් පිහිටීමට නොහැකි වීමයි. Forklift එකක් භාවිතා කිරීම බොහෝ විට Engine room එකක පටු ඉඩකඩ සහ බිම් මට්ටමේ සීමාවන් නිසා ප්‍රායෝගික නොවන අතර එය අනාරක්ෂිත විය හැක. නිවැරදි ක්‍රමය වන්නේ Chain blocks (Tirfor හෝ Chain hoists) භාවිතා කර බර ක්‍රමයෙන් Crane hook එක වෙත මාරු කිරීමයි. මෙහිදී Chain blocks මගින් බර එසවීම සහ පාලනය කිරීම සිදු කරන අතර, Crane hook එකට බර මාරු කිරීමෙන් පසු ආරක්ෂිතව එය අවශ්‍ය ස්ථානයට ගෙන යා හැක. මෙය 'Load transfer' ක්‍රියාවලියක් ලෙස හඳුන්වන අතර, එය බර හදිසියේ පැද්දීම (swinging) වළක්වා ගැනීමට සහ ආරක්ෂාව තහවුරු කිරීමට අත්‍යවශ්‍ය වේ.",
         "tags": [
             {
                 "sub_category": "Safety",
@@ -674,7 +674,7 @@
         ],
         "correct_answer": "Carry out a hose test on the manhole cover.",
         "images": [],
-        "explanation": "",
+        "explanation": "Ballast tank එකක manhole cover එකක් සඳහා නව gasket එකක් සවි කිරීමෙන් පසු එහි කාන්දුවක් නොමැති බව තහවුරු කර ගැනීමට වඩාත් සුදුසුම ක්‍රමය වන්නේ Hose test එකක් සිදු කිරීමයි. මෙහිදී වැරදි පිළිතුරු විශ්ලේෂණය කරමු: 1. 'Inspect the gasket visually' යනු මතුපිටින් බැලීමක් පමණක් වන අතර, පීඩනය යටතේ කාන්දුවක් සිදුවේද යන්න මෙයින් තහවුරු කළ නොහැක. 2. 'Perform a pressure test on the tank' යනු මුළු ballast tank එකම පීඩනයට ලක් කිරීමයි. මෙය අනවශ්‍ය ලෙස කාලය ගතවන සහ සංකීර්ණ ක්‍රියාවලියකි. එබැවින්, ජල පීඩනය යොදා සිදුකරන Hose test එක මගින් gasket එක නිසි ලෙස seal වී ඇත්දැයි පහසුවෙන් සහ ආරක්ෂිතව පරීක්ෂා කළ හැක.",
         "tags": [
             {
                 "sub_category": "Maintenance",
@@ -711,7 +711,7 @@
         ],
         "correct_answer": "The drill should be a smaller size than the diameter of the tap.",
         "images": [],
-        "explanation": "",
+        "explanation": "Threaded hole එකක් සෑදීමේදී (Tapping), drill bit එකේ ප්‍රමාණය tap එකේ nominal diameter එකට වඩා කුඩා විය යුතුය. මෙයට හේතුව වන්නේ, tap එක මගින් සිදුරේ ඇතුළත බිත්තිවල 'threads' කැපීම සඳහා ප්‍රමාණවත් තරම් ලෝහ (material) ඉතිරිව තිබිය යුතු වීමයි. අපි tap එකේ ප්‍රමාණයටම drill කළහොත්, tap එකට කැපීමට ලෝහ ඉතිරි නොවන අතර thread එකක් සෑදෙන්නේ නැත. tap එකට වඩා විශාල drill එකක් භාවිතා කළහොත් සිදුර ඉතා විශාල වී thread එකක් සෑදීමට නොහැකි වේ. එබැවින්, නිවැරදි ක්‍රමය වන්නේ 'Tap Drill Size' භාවිතා කිරීමයි, එය සැමවිටම tap එකේ ප්‍රමාණයට වඩා කුඩා වේ.",
         "tags": [
             {
                 "sub_category": "Mechanics",
@@ -731,7 +731,7 @@
         ],
         "correct_answer": "Bend the inner tab up against one flat of the nut and the other tab down over the edge of the component.",
         "images": [],
-        "explanation": "",
+        "explanation": "Tab washers (Lock washers) මගින් bolted assemblies වල nuts සහ bolts ලිහිල් වීම (slackening) වළක්වයි. මෙහිදී නිවැරදි ක්‍රමය වන්නේ washer එකේ inner tab එක nut එකේ flat surface එකකට එරෙහිව ඉහළට නැමීම (bend up) සහ outer tab එක component එකේ කෙළවරට (edge) එරෙහිව පහළට නැමීම (bend down) ය. අනෙක් විකල්ප වැරදි වන්නේ ඒවා මගින් nut එකේ rotation එක නිසි ලෙස lock නොකරන බැවිනි. උදාහරණයක් ලෙස, tabs දෙකම පහළට නැමීමෙන් nut එකේ rotation එක වළක්වා ගත නොහැක. එබැවින්, nut එකේ flat එකට එරෙහිව tab එකක් තැබීම මගින් nut එක කැරකීම සම්පූර්ණයෙන්ම නතර වේ.",
         "tags": [
             {
                 "sub_category": "Maintenance",
@@ -768,7 +768,7 @@
         ],
         "correct_answer": "Pirates are persons who attempt to board and take over a ship at sea.",
         "images": [],
-        "explanation": "",
+        "explanation": "මෙහි නිවැරදි පිළිතුර වන්නේ 'Pirates are persons who attempt to board and take over a ship at sea' යන්නයි. Maritime Security ක්ෂේත්‍රයේදී, Pirates යනු නීති විරෝධී ලෙස නැවකට ගොඩවී එය අත්පත් කර ගැනීමට හෝ කොල්ලකෑමට උත්සාහ කරන පුද්ගලයන් වේ. අනෙක් විකල්ප විශ්ලේෂණය කළහොත්: 'Individuals who sail for treasure' යනු ප්‍රබන්ධ කතා වල එන අර්ථයක් මිස නූතන නාවික ආරක්ෂක අර්ථ දැක්වීම නොවේ. 'People who fish illegally' යනු නීති විරෝධී ධීවර කටයුතුවල නිරත වන අය (Illegal, Unreported and Unregulated fishing - IUU) මිස මුහුදු කොල්ලකරුවන් නොවේ. එබැවින්, නැවක ආරක්ෂාව සම්බන්ධයෙන් ගත් කල, මුහුදු කොල්ලකරුවන් යනු නැවක් අත්පත් කර ගැනීමට උත්සාහ කරන සන්නද්ධ කණ්ඩායම් වේ.",
         "tags": [
             {
                 "sub_category": "Security",
