@@ -414,7 +414,7 @@
         ],
         "correct_answer": "Measurement of differential pressure.",
         "images": [],
-        "explanation": "",
+        "explanation": "නැව්වල භාවිතා වන Viscosity controllers මගින් ඉන්ධනවල (Fuel oil) දුස්ස්රාවීතාවය පාලනය කරනු ලබන්නේ Differential pressure මැනීමේ මූලධර්මය මත පදනම්වය. මෙහිදී නියමිත ප්‍රමාණයේ orifice එකක් හෝ capillary tube එකක් හරහා ඉන්ධන ගලා යාමට සලස්වන අතර, එමගින් ඇතිවන පීඩන වෙනස (Pressure drop) මගින් දුස්ස්රාවීතාවය ගණනය කෙරේ. අනෙකුත් පිළිතුරු වැරදි වීමට හේතු: 1. Measurement of flow යනු ප්‍රවාහ අනුපාතය මැනීමයි, එය දුස්ස්රාවීතාවයට සෘජුවම සම්බන්ධ නොවේ. 2. Measurement of temperature යනු උෂ්ණත්වය මැනීමයි; උෂ්ණත්වය දුස්ස්රාවීතාවයට බලපාන සාධකයක් වුවද, පාලකයේ මූලික මිනුම් මූලධර්මය එය නොවේ. 3. Measurement of two different temperatures යනු දෝෂ සහිත ක්‍රමයකි. එබැවින්, Differential pressure මැනීම වඩාත් නිවැරදි තාක්ෂණික පිළිතුර වේ.",
         "tags": [
             {
                 "sub_category": "Instrumentation",
@@ -439,7 +439,7 @@
         ],
         "correct_answer": "0,2 A.",
         "images": [],
-        "explanation": "",
+        "explanation": "Zener diode එකක උපරිම ධාරාව (Maximum Current) ගණනය කිරීම සඳහා Power (P) සහ Voltage (V) අතර සම්බන්ධය භාවිතා කළ යුතුය. මෙහිදී Power Formula එක වන්නේ P = V × I වේ. එනම්, I = P / V වේ. මෙහි P = 3 Watts සහ V = 15 Volts ලෙස දී ඇත. එබැවින්, I = 3 / 15 = 0.2 Amperes වේ. අනෙක් පිළිතුරු වැරදි වන්නේ ඒවා මෙම සූත්‍රයට අනුව ගණනය කළ විට නොගැලපෙන බැවිනි. උදාහරණයක් ලෙස 0.45 A හෝ 0.5 A යනු මෙම diode එකට දරාගත හැකි ප්‍රමාණයට වඩා වැඩි අගයන් වන අතර, 20 A යනු ඉතා විශාල අගයකි. එබැවින් නිවැරදි පිළිතුර 0.2 A වේ.",
         "tags": [
             {
                 "sub_category": "Electronics",
@@ -460,7 +460,7 @@
         ],
         "correct_answer": "One Henry.",
         "images": [],
-        "explanation": "",
+        "explanation": "Inductance (L) යනු විද්‍යුත් පරිපථයක ධාරාවේ වෙනස්වීම් වලට එරෙහිව පවතින ගුණාංගයයි. Faraday's Law අනුව, EMF (e) = L * (di/dt) වේ. මෙහිදී 1 Volt EMF එකක් ලබා ගැනීමට 1 Amp/sec ධාරා වෙනස්වීමක් අවශ්‍ය නම්, එම Inductance අගය 1 Henry ලෙස අර්ථ දැක්වේ. අනෙක් පිළිතුරු වැරදි වන්නේ: 'One Farad' යනු Capacitance මැනීමේ ඒකකයයි. 'One Reactance Unit' යනු නිශ්චිත ඒකකයක් නොවන අතර Reactance මනින්නේ Ohms වලිනි. 'One milliHenry' යනු Henry එකකින් දහසෙන් පංගුවක් පමණි. එබැවින් නිවැරදි පිළිතුර 'One Henry' වේ.",
         "tags": [
             {
                 "sub_category": "Electrical",
@@ -485,7 +485,7 @@
         ],
         "correct_answer": "10-200.",
         "images": [],
-        "explanation": "",
+        "explanation": "Common Emitter (CE) configuration එකකදී, Transistor එකක Current gain හෙවත් Beta (β) අගය සාමාන්‍යයෙන් 10 සිට 200 දක්වා පරාසයක පවතී. මෙහිදී Collector current (Ic) සහ Base current (Ib) අතර අනුපාතය (β = Ic/Ib) මගින් මෙය මනිනු ලැබේ. අනෙක් විකල්පයන් සලකා බැලීමේදී: 1-5 යනු Common Base (CB) configuration එකක Current gain අගයයි (එය 1 ට වඩා අඩු හෝ සමාන වේ). 500-5000 හෝ 1-100 000 වැනි අගයන් සාමාන්‍ය Transistor එකක Current gain සඳහා ඉතා ඉහළ අගයන් වන අතර ඒවා ප්‍රායෝගිකව භාවිතා නොවේ. එබැවින් 10-200 යනු නිවැරදි පරාසය වේ.",
         "tags": [
             {
                 "sub_category": "Electronics",
@@ -506,7 +506,7 @@
         ],
         "correct_answer": "Multi-meter.",
         "images": [],
-        "explanation": "",
+        "explanation": "Semiconductor diode එකක් පරීක්ෂා කිරීමේදී ප්‍රධාන වශයෙන් සිදු කරන්නේ එහි Forward bias සහ Reverse bias අවස්ථාවන්හිදී පවතින Resistance හෝ Voltage drop එක මැන බැලීමයි. මෙහිදී 'Multi-meter' එකක් භාවිතා කරන්නේ එහි ඇති 'Diode test mode' එක මගින් ඉතා පහසුවෙන් diode එකක සෞඛ්‍ය තත්ත්වය (Health) තහවුරු කරගත හැකි බැවිනි. අනෙකුත් උපකරණ විශ්ලේෂණය කරමු: 1. Voltmeter සහ Ammeter මගින් diode එකක සරල පරීක්ෂාවක් සිදු කිරීම අපහසු වන අතර ඒවා මගින් diode එකක අභ්‍යන්තර Junction එකේ තත්ත්වය නිවැරදිව හඳුනාගත නොහැක. 2. Oscilloscope එකක් භාවිතා කළ හැකි වුවද, එය ඉතා සංකීර්ණ සහ මිල අධික උපකරණයක් වන අතර සාමාන්‍ය නඩත්තු කටයුතු සඳහා එය ප්‍රායෝගික නොවේ. එබැවින්, ක්ෂේත්‍රයේ බහුලවම භාවිතා වන සහ පහසුම උපකරණය වන්නේ Multi-meter එකයි.",
         "tags": [
             {
                 "sub_category": "Electronics",
@@ -793,7 +793,7 @@
         ],
         "correct_answer": "Between 0,1 and 1,0 Ohm.",
         "images": [],
-        "explanation": "",
+        "explanation": "මෙම ගැටලුව විසඳීම සඳහා අපට Resistance (R) සූත්‍රය භාවිතා කළ හැක: R = (ρ * L) / A. මෙහි ρ යනු තඹ (Copper) සඳහා වන Resistivity (ආසන්න වශයෙන් 1.72 x 10^-8 Ωm), L යනු දිග (100 m), සහ A යනු හරස්කඩ වර්ගඵලය (25 mm² = 25 x 10^-6 m²). මෙම අගයන් ආදේශ කළ විට, R = (1.72 x 10^-8 * 100) / (25 x 10^-6) = 0.0688 Ohms ලැබේ. මෙය 0.1 සහ 1.0 Ohm පරාසයට ඉතා ආසන්න අගයකි. අනෙකුත් පිළිතුරු වැරදි වන්නේ: 1.0 M Ohm හෝ ඊට වැඩි අගයක් ලැබෙන්නේ Insulation Resistance පරීක්ෂා කිරීමේදී මිස Continuity පරීක්ෂා කිරීමේදී නොවේ. Micro Ohm පරාසය ඉතා කුඩා අගයක් වන අතර සාමාන්‍ය මල්ටිමීටරයකින් මැනිය නොහැකි තරම් කුඩා වේ. එබැවින්, නිවැරදි පිළිතුර 0.1 සහ 1.0 Ohm අතර අගයකි.",
         "tags": [
             {
                 "sub_category": "Electrical",
@@ -843,7 +843,7 @@
         ],
         "correct_answer": "Incorrect frequency.",
         "images": [],
-        "explanation": "",
+        "explanation": "Transformer එකක් අධික ලෙස රත් වීමට (Overheating) ප්‍රධාන හේතුව වන්නේ එහි Core එකෙහි ඇති Magnetic flux density එක ඉහළ යාමයි. Transformer එකක Magnetic flux density එක එහි Frequency එකට ප්‍රතිලෝමව සමානුපාතික වේ (Flux density ∝ 1/Frequency). Shore supply එකේ Frequency එක නියමිත අගයට වඩා අඩු වූ විට (උදාහරණයක් ලෙස 60Hz වෙනුවට 50Hz), Core එකෙහි Magnetic saturation ඇති වී Eddy current සහ Hysteresis losses ඉහළ යයි. මෙය Transformer එක අධික ලෙස රත් වීමට හේතු වේ. 'Incorrect voltage' යනු වැරදි පිළිතුරකි, මන්ද Voltage එක වැඩි වුවහොත් පමණක් එය රත් විය හැකි නමුත්, සාමාන්‍යයෙන් Shore supply එකකදී Frequency වෙනස වඩාත් බරපතල බලපෑමක් ඇති කරයි. 'Incorrect earthing' මගින් ආරක්ෂාවට ගැටලු ඇති වුවද එය කෙලින්ම Transformer එක රත් වීමට හේතු නොවේ. 'Incorrect current' යනු Load එක මත රඳා පවතින දෙයක් මිස Transformer එකේ අභ්‍යන්තර දෝෂයක් නොවේ. එබැවින් නිවැරදිම පිළිතුර වන්නේ Incorrect frequency වේ.",
         "tags": [
             {
                 "sub_category": "Electrical",
@@ -893,7 +893,7 @@
         ],
         "correct_answer": "Zero-point is accurate, but 100 % input is not giving 100 % output.",
         "images": [],
-        "explanation": "",
+        "explanation": "Instrumentation පද්ධතියක Span යනු මිනුම් පරාසයේ පහළ අගය (Zero) සහ ඉහළ අගය (Full scale/100%) අතර පරතරයයි. මෙහිදී 'Zero-point is accurate, but 100 % input is not giving 100 % output' යන්න නිවැරදි වන්නේ, Span දෝෂයක් (Span error) ඇතිවූ විට උපකරණයේ Zero calibration නිවැරදි වුවත්, උපරිම අගය (Full scale) කරා ළඟා වීමේදී එය නියමිත අගය නොපෙන්වන බැවිනි. අනෙකුත් පිළිතුරු විශ්ලේෂණය කළහොත්: 1) Zero-point වැරදි වීම යනු Zero shift දෝෂයකි. 2) Linearity problems යනු උපකරණයේ ප්‍රතිදානය (Output) සහ ආදානය (Input) අතර සම්බන්ධය සරල රේඛීය නොවීමයි. 3) Zero සහ 100% නිවැරදිව mid-range වැරදි වීම Hysteresis හෝ linearity දෝෂයක් විය හැක. එබැවින් Span දෝෂයක් හඳුනාගැනීමට හොඳම ක්‍රමය වන්නේ උපරිම අගයේදී සිදුවන අපගමනය පරීක්ෂා කිරීමයි.",
         "tags": [
             {
                 "sub_category": "Instrumentation",
@@ -1035,7 +1035,7 @@
         ],
         "correct_answer": "22 Ohms.",
         "images": [],
-        "explanation": "",
+        "explanation": "මෙම ගැටලුව විසඳීම සඳහා අප Ohm's Law භාවිතා කළ යුතුය. මෙහිදී අපට ලබා දී ඇති දත්ත වන්නේ Voltage (V) = 220 V සහ Power (P) = 2.2 kW (එනම් 2200 W) වේ. Resistance (R) සෙවීම සඳහා P = V^2 / R යන සූත්‍රය භාවිතා කළ හැක. එවිට R = V^2 / P වේ. එනම් R = (220 * 220) / 2200 = 48400 / 2200 = 22 Ohms වේ. විකල්ප 0.1 Ohms සහ 10 Ohms වැරදි වන්නේ ඒවා මගින් ලැබෙන Power අගය නිවැරදි නොවන බැවිනි. 220 Ohms යනු වැරදි ගණනය කිරීමකි. එබැවින් 22 Ohms යනු නිවැරදි පිළිතුරයි.",
         "tags": [
             {
                 "sub_category": "Electrical",
@@ -1513,7 +1513,7 @@
         ],
         "correct_answer": "Ionization type.",
         "images": [],
-        "explanation": "",
+        "explanation": "ගින්නක් ඇතිවීමේදී දුම (smoke) හඳුනා ගැනීම සඳහා Ionization type detector එක වඩාත් සුදුසු වේ. මෙහිදී සිදුවන්නේ කුඩා විකිරණශීලී ප්‍රභවයක් (radioactive source) මගින් වාතය අයනීකරණය කර විද්‍යුත් ධාරාවක් පවත්වා ගැනීමයි. දුමාර අංශු මෙම කුටීරයට ඇතුළු වූ විට එම ධාරාවේ වෙනසක් සිදුවන අතර එයින් අනතුරු ඇඟවීම (alarm) ක්‍රියාත්මක වේ. අනෙක් විකල්ප සලකා බලමු: Thermocouple සහ Thermometer යනු උෂ්ණත්වය මැනීමට භාවිතා කරන උපකරණ මිස දුම හඳුනා ගැනීමට නොවේ. Strain gauge යනු යාන්ත්‍රික පීඩනය හෝ වික්‍රියාව (strain) මැනීමට භාවිතා කරන උපකරණයකි. එබැවින්, දුම හඳුනා ගැනීම සඳහා Ionization type detector එක නිවැරදි පිළිතුර වේ.",
         "tags": [
             {
                 "sub_category": "Firefighting",

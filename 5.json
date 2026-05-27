@@ -11,7 +11,7 @@
         ],
         "correct_answer": "Not less than half the total number of lifebuoys shall be provided with self-ignighting lights.",
         "images": [],
-        "explanation": "",
+        "explanation": "SOLAS Chapter III, Regulation 7.1 හි සඳහන් වන පරිදි, නැවක ඇති මුළු Lifebuoys සංඛ්‍යාවෙන් අවම වශයෙන් භාගයක් (50%) Self-igniting lights වලින් සමන්විත විය යුතුය. අනෙක් විකල්පයන් වැරදි වීමට හේතු: 1. සියලුම Lifebuoys සඳහා Quick-release arrangements අවශ්‍ය නොවේ, නමුත් ඒවා පහසුවෙන් ලබාගත හැකි ස්ථානවල තිබිය යුතුය. 2. Buoyant lifelines අවශ්‍ය වන්නේ අවම වශයෙන් Lifebuoys සංඛ්‍යාවෙන් අඩකට පමණි, නැවක දෙපසම හතර බැගින් නොවේ. 3. Self-activating smoke signal සහිත Lifebuoys අවම වශයෙන් දෙකක් තිබිය යුතු අතර, ඒවා නැවේ දෙපසින් දියත් කළ හැකි පරිදි සවි කළ යුතුය, හුදෙක් Stern එකේ පමණක් නොවේ.",
         "tags": [
             {
                 "sub_category": "Legislation",
@@ -35,7 +35,7 @@
         ],
         "correct_answer": "A link between the shipboard training officer and the company training officer ashore.",
         "images": [],
-        "explanation": "",
+        "explanation": "STCW Convention සහ ISM Code යටතේ, නැවක Master හට නැව තුළ සිදුවන පුහුණු කටයුතු (Training activities) සහ ගොඩබිම සිටින සමාගමේ කළමනාකාරීත්වය (Company training officer) අතර සම්බන්ධීකරණය පවත්වා ගැනීමේ වගකීම පැවරේ. අනෙක් පිළිතුරු වැරදි වීමට හේතු: 1. 'Facilities to conduct training whenever required' යන්න ප්‍රායෝගික නොවේ, මන්ද නැවේ මෙහෙයුම් කටයුතු (Ship operations) වලට බාධාවක් නොවන පරිදි පුහුණුවීම් සැලසුම් කළ යුතුය. 2. 'Training during crews working hours only' යන්න සෑම විටම කළ නොහැක, හදිසි අවස්ථා පුහුණුවීම් (Drills) ඕනෑම වේලාවක සිදුවිය හැක. 3. 'Proper rest' යනු නීතියක් වුවද, Master ගේ මූලික වගකීම වන්නේ පුහුණු ක්‍රියාවලිය කළමනාකරණය කිරීම සහ ඒ සඳහා අවශ්‍ය සන්නිවේදන සම්බන්ධතාවය (Link) පවත්වා ගැනීමයි.",
         "tags": [
             {
                 "sub_category": "Management",
@@ -59,7 +59,7 @@
         ],
         "correct_answer": "Load resistor.",
         "images": [],
-        "explanation": "",
+        "explanation": "Resistive sensor එකක් යනු භෞතික විචල්‍යයක් (physical variable) ප්‍රතිරෝධක අගයක් (resistance value) වෙනස් කිරීම මගින් මනින උපකරණයකි. Thermistor යනු උෂ්ණත්වය අනුව ප්‍රතිරෝධය වෙනස් වන sensor එකකි. Photoresistor (LDR) යනු ආලෝක තීව්‍රතාවය අනුව ප්‍රතිරෝධය වෙනස් වන sensor එකකි. Strain gauge යනු යාන්ත්‍රික පීඩනය හෝ වික්‍රියාව (strain) අනුව ප්‍රතිරෝධය වෙනස් වන sensor එකකි. නමුත් Load resistor යනු පරිපථයක බරක් ලෙස ක්‍රියා කරන ස්ථාවර ප්‍රතිරෝධකයක් (fixed resistor) මිස, කිසිදු භෞතික විචල්‍යයක් මැනීමට භාවිතා කරන sensor එකක් නොවේ. එබැවින් Load resistor යනු නිවැරදි පිළිතුරයි.",
         "tags": [
             {
                 "sub_category": "Instrumentation",
@@ -83,7 +83,7 @@
         ],
         "correct_answer": "Blocked filter drier causing the automatic low pressure cut out to operate.",
         "images": [],
-        "explanation": "",
+        "explanation": "Short cycling යනු refrigeration plant එකක් නිතර නිතර start සහ stop වීමයි. මෙහිදී 'Blocked filter drier' එකක් තිබීම නිසා refrigerant flow එක සීමා වේ. මෙහි ප්‍රතිඵලයක් ලෙස compressor එක මගින් evaporator එකෙන් refrigerant උරා ගන්නා විට suction pressure එක ඉතා වේගයෙන් පහත වැටේ. එවිට Low Pressure (LP) cut-out switch එක මගින් compressor එක නවත්වයි. පද්ධතියේ පීඩනය නැවත සමතුලිත වූ විට එය නැවත start වේ. මෙය නිතර සිදුවීමෙන් short cycling ඇතිවේ. අනෙක් විකල්ප සලකා බලමු: 1) Insufficient cooling water flow නිසා High Pressure (HP) cut-out එක ක්‍රියාත්මක වුවහොත්, එය සාමාන්‍යයෙන් manual reset එකක් අවශ්‍ය වන අතර එය නිතර සිදුවන short cycling එකක් ලෙස නොසැලකේ. 2) Low oil pressure cut-out එක ක්‍රියාත්මක වන්නේ lubrication පද්ධතියේ දෝෂයක් නිසා මිස refrigerant පද්ධතියේ short cycling එකක් නිසා නොවේ. 3) Ice formation නිසා evaporator එකේ heat transfer අඩු වුවද, එය සාමාන්‍යයෙන් ක්‍රමයෙන් සිදුවන ක්‍රියාවලියක් වන අතර, filter drier එකක් අවහිර වීම තරම් ක්ෂණිකව short cycling ඇති නොකරයි.",
         "tags": [
             {
                 "sub_category": "HVAC",
@@ -103,7 +103,7 @@
         ],
         "correct_answer": "Low differential pressures.",
         "images": [],
-        "explanation": "",
+        "explanation": "U-tube manometer එකක් මගින් පීඩනය මනිනු ලබන්නේ ද්‍රව තීරුවක උස වෙනස (liquid column height difference) මගිනි. මෙහිදී ඉහළ පීඩනයක් (High differential pressures) මැනීමට නම් ඉතා දිගු නලයක් අවශ්‍ය වන අතර එය ප්‍රායෝගික නොවේ. එබැවින්, මෙම උපකරණය ප්‍රධාන වශයෙන් භාවිතා කරන්නේ Low differential pressures මැනීම සඳහා පමණි. Cargo pressure වැනි ඉහළ පීඩන මැනීමට Bourdon tube gauge හෝ වෙනත් පීඩන සංවේදක (pressure sensors) භාවිතා කරයි. Absolute zero pressure යනු රික්තක තත්ත්වයක් වන අතර එය මැනීමට සාමාන්‍ය U-tube manometer එකක් ප්‍රමාණවත් නොවේ. එබැවින් නිවැරදි පිළිතුර Low differential pressures වේ.",
         "tags": [
             {
                 "sub_category": "Instrumentation",
@@ -127,7 +127,7 @@
         ],
         "correct_answer": "850 °C.",
         "images": [],
-        "explanation": "",
+        "explanation": "MARPOL Annex VI රෙගුලාසිවලට අනුව, නැවක ඇති Incinerator එකක් ක්‍රියාත්මක කිරීමේදී පරිසර දූෂණය අවම කිරීම සඳහා දැඩි නීති රීති පවතී. අපද්‍රව්‍ය (Waste material) දහනය කිරීම ආරම්භ කිරීමට පෙර, Incinerator එකේ Furnace temperature එක අවම වශයෙන් 850 °C දක්වා ළඟා විය යුතුය. මෙය සිදු කරන්නේ අපද්‍රව්‍ය සම්පූර්ණයෙන්ම දහනය වී හානිකර වායු විමෝචනය අවම කිරීම සඳහාය. අනෙක් විකල්ප වන 1500 °C, 2000 °C සහ 2500 °C යන උෂ්ණත්වයන් ඉතා ඉහළ අගයන් වන අතර, ඒවා සාමාන්‍ය Incinerator මෙහෙයුම් සඳහා අවශ්‍ය අවම උෂ්ණත්වයන් නොවේ. එබැවින් 850 °C යනු නිවැරදි පිළිතුරයි.",
         "tags": [
             {
                 "sub_category": "Environmental",
@@ -168,7 +168,7 @@
         ],
         "correct_answer": "It is the SOLAS conventions that take care of the human safety at sea.",
         "images": [],
-        "explanation": "",
+        "explanation": "මුහුදේදී මිනිසුන්ගේ ආරක්ෂාව (Human safety at sea) තහවුරු කිරීම සඳහා මූලික වන ප්‍රධානතම IMO සම්මුතිය වන්නේ SOLAS (International Convention for the Safety of Life at Sea) වේ. අනෙකුත් විකල්ප විශ්ලේෂණය කරමු: 1. MARPOL (International Convention for the Prevention of Pollution from Ships) යනු ප්‍රධාන වශයෙන් සාගර දූෂණය වැළැක්වීම සඳහා වන සම්මුතියකි. 2. STCW (International Convention on Standards of Training, Certification and Watchkeeping for Seafarers) යනු නාවිකයින්ගේ පුහුණුව සහ සහතික කිරීම් පිළිබඳ ප්‍රමිතීන් සඳහා වන අතර එය ආරක්ෂාවට දායක වුවද, 'Human safety at sea' සඳහා වන මූලිකම සහ පුළුල්ම සම්මුතිය SOLAS වේ. 3. අවසාන විකල්පය වැරදියි, මන්ද IMO මගින් ආරක්ෂාව සඳහා බොහෝ සම්මුතීන් පනවා ඇති බැවිනි. එබැවින් SOLAS යනු නිවැරදි පිළිතුරයි.",
         "tags": [
             {
                 "sub_category": "Legislation",
@@ -213,7 +213,7 @@
         ],
         "correct_answer": "Circumferential slip of the after clamp ring in the opposite direction to shaft rotation.",
         "images": [],
-        "explanation": "",
+        "explanation": "Torsion meter එකක් මගින් Torque මැනීමේදී shaft එකේ Angle of twist (θ) මනිනු ලබන්නේ clamp rings දෙකක් අතර ඇති phase difference එක මගිනි. Torque (T) යනු T = (G * J * θ) / L වේ. මෙහි L යනු rings දෙක අතර දුරයි. 1. 'Circumferential slip' එකක් සිදුවූ විට, එය මගින් මනිනු ලබන phase difference එක වෙනස් වේ. After clamp ring එක shaft rotation එකට ප්‍රතිවිරුද්ධ දිශාවට slip වුවහොත්, එය මගින් මනිනු ලබන twist angle එක වැඩි වේ. එමගින් Torque reading එක ඉහළ යයි. 2. Forward clamp ring එක එම දිශාවටම slip වුවහොත්, එයින් twist angle එක අඩු වී reading එක අඩු වේ. 3. Axial slip මගින් rings අතර දුර (L) වෙනස් වුවද, එයින් සිදුවන බලපෑම Circumferential slip එකකින් සිදුවන බලපෑමට වඩා අඩුය. එබැවින්, Torque reading එක ඉහළ යාමට ප්‍රධානම හේතුව වන්නේ After clamp ring එක shaft rotation එකට ප්‍රතිවිරුද්ධ දිශාවට slip වීමයි.",
         "tags": [
             {
                 "sub_category": "Instrumentation",
@@ -254,7 +254,7 @@
         ],
         "correct_answer": "The use of the ship’s line throwing apparatus.",
         "images": [],
-        "explanation": "",
+        "explanation": "SOLAS (Safety of Life at Sea) රෙගුලාසිවලට අනුව, Training Manual එකක අනිවාර්යයෙන්ම ඇතුළත් විය යුතු කරුණු ලැයිස්තුගත කර ඇත. මෙහිදී 'The use of the ship’s line throwing apparatus' යනු එම ලැයිස්තුවේ නිශ්චිතවම සඳහන් වන අංගයකි. අනෙක් විකල්පයන් වන 'navigational equipment for survival crafts', 'escape routes' සහ 'surface to air visual signals' යනු සාමාන්‍යයෙන් Muster List හෝ Emergency Instructions වල අඩංගු විය හැකි කරුණු වුවද, SOLAS Chapter III හි Training Manual සඳහා වන අවශ්‍යතා අනුව Line throwing apparatus භාවිතය පිළිබඳ උපදෙස් අනිවාර්යයෙන්ම තිබිය යුතුය. එබැවින් පළමු පිළිතුර නිවැරදි වේ.",
         "tags": [
             {
                 "sub_category": "Safety",
@@ -282,7 +282,7 @@
         ],
         "correct_answer": "As it is only a routine maintenance and not a breakdown then postpone the task until full details of the motor can be obtained.",
         "images": [],
-        "explanation": "",
+        "explanation": "නැවක ඕනෑම බරක් එසවීමේදී (Lifting operations) ආරක්ෂාව ප්‍රමුඛ වේ. මෙහිදී මෝටරයේ බර නොදන්නා විට, එය අනුමාන කිරීම (Estimating) හෝ අත්හදා බැලීමේ එසවීමක් (Trial lift) සිදු කිරීම ඉතා අනතුරුදායකය. 1) 'Estimate the weight' යනු වැරදි ක්‍රියාවකි, මන්ද වැරදි ඇස්තමේන්තුවක් නිසා Lifting gear අසාර්ථක විය හැක. 2) 'Engine room crane' භාවිතා කිරීමද සුදුසු නැත, මන්ද එයටද Safe Working Load (SWL) සීමාවක් ඇති අතර බර නොදැන එය භාවිතා කිරීම Crane එකට හානි විය හැක. 3) 'Trial lift' සිදු කිරීමෙන් උපකරණවලට හානි සිදුවිය හැකි අතර පුද්ගල ආරක්ෂාවට තර්ජනයක් වේ. එබැවින්, නිවැරදිම ක්‍රියාමාර්ගය වන්නේ මෝටරයේ නිවැරදි බර සහ විස්තර ලබා ගන්නා තෙක් කාර්යය කල් දැමීමයි (Postpone). මෙය 'Safety Management System' (SMS) සහ 'Risk Assessment' මූලධර්මවලට අනුකූල වේ.",
         "tags": [
             {
                 "sub_category": "Maintenance",
@@ -306,7 +306,7 @@
         ],
         "correct_answer": "Stop pumps – report – clean up.",
         "images": [],
-        "explanation": "",
+        "explanation": "පරිසර දූෂණ සිදුවීමකදී (Pollution incident) අනුගමනය කළ යුතු ප්‍රමුඛතා අනුපිළිවෙල ඉතා වැදගත් වේ. පළමුවෙන්ම සිදුකළ යුත්තේ දූෂණය තවදුරටත් සිදුවීම වැළැක්වීමයි, එනම් 'Stop pumps' මගින් කාන්දුවීම වහාම නතර කිරීමයි. දෙවනුව, නීතිමය අවශ්‍යතා සහ හදිසි ප්‍රතිචාර සඳහා අදාළ බලධාරීන්ට සහ සමාගමට 'Report' කිරීම අනිවාර්ය වේ. අවසාන පියවර ලෙස පමණක් 'Clean up' හෙවත් පිරිසිදු කිරීමේ කටයුතු ආරම්භ කළ යුතුය. අනෙක් විකල්ප වැරදි වන්නේ, පිරිසිදු කිරීම ආරම්භ කිරීමට පෙර කාන්දුව නතර නොකිරීමෙන් දූෂණය වැඩි විය හැකි බැවිනි (Clean up – report – stop pumps) හෝ වාර්තා කිරීමට පෙර පිරිසිදු කිරීමේ කටයුතු වලට ප්‍රමුඛතාවය දීම නීතිමය වශයෙන් ගැටලු සහගත බැවිනි.",
         "tags": [
             {
                 "sub_category": "Environmental",
@@ -330,7 +330,7 @@
         ],
         "correct_answer": "Reduce the time between overhauls due to increased fouling.",
         "images": [],
-        "explanation": "",
+        "explanation": "4-stroke diesel engine එකක් continuous low load එකකදී ක්‍රියාත්මක කිරීමේදී දහනය (combustion) අසම්පූර්ණ වේ. මෙහිදී දහන කුටීරය තුළ (combustion chamber) සහ exhaust valves මත කාබන් තැන්පත් වීම (fouling) සහ incomplete combustion නිසා ඇතිවන අම්ල (acidic deposits) තැන්පත් වීම සිදුවේ. මෙය cylinder covers සහ valves වලට හානි පමුණුවන අතර, නිතර නිතර නඩත්තු කටයුතු (overhauls) කිරීමට සිදුවේ. එබැවින්, 'Increase the time between overhauls' යන පිළිතුරු වැරදිය. Low load එකකදී fuel injectors වල කාර්යක්ෂමතාවය අඩු වන අතර, combustion උෂ්ණත්වය අඩු වීම නිසා fouling වැඩි වේ. එබැවින්, නිවැරදි පිළිතුර වන්නේ 'Reduce the time between overhauls due to increased fouling' යන්නයි.",
         "tags": [
             {
                 "sub_category": "Engine",
@@ -378,7 +378,7 @@
         ],
         "correct_answer": "Install a 100 ohm resistor in series with the coil.",
         "images": [],
-        "explanation": "",
+        "explanation": "පළමුව, relay coil එකේ Resistance (R) අගය Ohm's Law (R = V/I) භාවිතයෙන් ගණනය කළ යුතුය. මෙහි V = 12V සහ I = 120mA (0.12A) වේ. එබැවින්, R = 12 / 0.12 = 100 ohms. දැන් අපට 24V සැපයුමක් භාවිතා කිරීමට අවශ්‍ය බැවින්, අමතර 12V ප්‍රමාණයක් Voltage drop කර ගැනීමට තවත් 100 ohms ප්‍රතිරෝධකයක් (Resistor) අවශ්‍ය වේ. Series circuit එකකදී Voltage බෙදී යන බැවින්, මෙම 100 ohms ප්‍රතිරෝධකය coil එකට Series ලෙස සම්බන්ධ කළ යුතුය. Parallel සම්බන්ධ කිරීම මගින් Voltage අඩු නොවන අතර, වැරදි ප්‍රතිරෝධක අගයන් (100k ohms) මගින් අවශ්‍ය Current එක ලබා ගැනීමට නොහැකි වේ. එබැවින් නිවැරදි පිළිතුර වන්නේ 100 ohm resistor එකක් Series ලෙස සම්බන්ධ කිරීමයි.",
         "tags": [
             {
                 "sub_category": "Electrical",
@@ -415,7 +415,7 @@
         ],
         "correct_answer": "Blank flanges should be fitted to the closed starboard side manifold valves.",
         "images": [],
-        "explanation": "",
+        "explanation": "Bunkering මෙහෙයුමකදී පරිසර දූෂණය (Oil pollution) වැළැක්වීම අතිශය වැදගත් වේ. Port side එකෙන් bunkering සිදු කරන විට, Starboard side manifold valves වසා තිබීම පමණක් ප්‍රමාණවත් නොවේ, මන්ද එම කපාට (valves) හරහා තෙල් කාන්දුවක් (leakage) සිදුවුවහොත් එය කෙලින්ම මුහුදට යා හැකි බැවිනි. එබැවින්, අමතර ආරක්ෂාවක් ලෙස එම manifold valves වසා, ඒවා මත Blank flanges සවි කිරීම අනිවාර්ය වේ. අනෙක් විකල්ප වැරදි වන්නේ: 'Just fit the blank flanges' යන්නෙන් කපාට වසා තිබීමේ වැදගත්කම මගහැරේ. 'Removing blank flanges' යන්නෙන් කාන්දුවක් ඇති වුවහොත් එය පාලනය කළ නොහැකි වේ. 'Just check that the valves are closed' යන්නෙන් පමණක් කාන්දුවක් වළක්වා ගත නොහැක. එබැවින්, Blank flanges සවි කිරීම මගින් කාන්දුවක් සිදුවුවද එය මුහුදට යාම සම්පූර්ණයෙන්ම වළක්වා ගත හැක.",
         "tags": [
             {
                 "sub_category": "Bunkering",
@@ -439,7 +439,7 @@
         ],
         "correct_answer": "Increased turbocharger revolutions.",
         "images": [],
-        "explanation": "",
+        "explanation": "Diesel engine එකක Fuel injection timing 'retard' වීම නිසා දහනය (combustion) ප්‍රමාද වී සිදුවේ. මෙහි ප්‍රතිඵලයක් ලෙස Exhaust gas temperature ඉහළ යයි. Turbocharger එකක් ක්‍රියාත්මක වන්නේ Exhaust gas වල ඇති Energy (Enthalpy) මගිනි. Exhaust gas temperature වැඩි වන විට, එම වායූන්ගේ Energy මට්ටම ඉහළ යන අතර, එමගින් Turbocharger turbine එක වේගයෙන් භ්‍රමණය වේ. එබැවින් Turbocharger revolutions වැඩි වේ. අනෙක් පිළිතුරු වැරදි වන්නේ: 'Decreased revolutions' යනු අඩු උෂ්ණත්වයකදී සිදුවන්නකි. 'Operate normally' යන්න වැරදියි, මන්ද උෂ්ණත්වය වෙනස් වීම Turbocharger performance එකට බලපාන බැවිනි. 'Reduced air and gas temperature' යන්න වැරදියි, මන්ද වැඩි වූ Exhaust temperature නිසා Turbocharger එකෙන් පසු වායු උෂ්ණත්වය ද ඉහළ යන බැවිනි.",
         "tags": [
             {
                 "sub_category": "Engine",
@@ -463,7 +463,7 @@
         ],
         "correct_answer": "For any space with limited access or non-continuous ventilation or is suspected of having a hazardous atmosphere.",
         "images": [],
-        "explanation": "",
+        "explanation": "නැවක ඕනෑම ස්ථානයක වැඩ කිරීමට පෙර වායුගෝලීය පරීක්ෂණ (Atmosphere testing) සිදු කිරීම අනිවාර්ය වන්නේ එම ස්ථානයට වාතය ගමන් කිරීම සීමිත නම් (Limited access), වාතාශ්‍රය අඛණ්ඩව නොමැති නම් (Non-continuous ventilation) හෝ අන්තරායකර වායු (Hazardous atmosphere) පැවතිය හැකි යැයි සැකයක් ඇත්නම් පමණි. අනෙක් විකල්ප වැරදි වන්නේ ඒවා පරීක්ෂණ සිදුකිරීමේ අවශ්‍යතාවය ඉතා පටු කර දක්වන බැවිනි. උදාහරණයක් ලෙස, තෙල් තිබූ ස්ථාන හෝ භාණ්ඩ ප්‍රවාහනය කළ ස්ථාන පමණක් නොව, ඕනෑම සංවෘත අවකාශයක (Enclosed space) ඔක්සිජන් මට්ටම අඩු වීම හෝ විෂ වායු එකතු වීම සිදුවිය හැකි බැවින්, ආරක්ෂිත පියවරක් ලෙස මෙම පරීක්ෂණය අත්‍යවශ්‍ය වේ.",
         "tags": [
             {
                 "sub_category": "Safety",
@@ -507,7 +507,7 @@
         ],
         "correct_answer": "Fouling of turbocharger intake filters.",
         "images": [],
-        "explanation": "",
+        "explanation": "මෙම ගැටලුව සඳහා නිවැරදි පිළිතුර 'Fouling of turbocharger intake filters' වේ. මෙයට හේතුව Turbocharger intake filters ක්‍රමයෙන් අපිරිසිදු වීම (Fouling) නිසා එන්ජිමට ලැබෙන වායු ප්‍රමාණය (Air intake) අඩු වීමයි. මෙහිදී එන්ජිමේ දහනය (Combustion) සඳහා අවශ්‍ය වාතය අඩුවීම නිසා එන්ජිමේ බලය සහ වේගය (Engine speed) ක්‍රමයෙන් පහත වැටේ. අනෙක් විකල්ප විශ්ලේෂණය කළහොත්: 1) 'Injection valve opening pressure is too low' යනු හදිසි දෝෂයක් මිස ක්‍රමයෙන් සිදුවන වේගය අඩුවීමක් නොවේ. 2) 'Water in a cylinder' යනු එන්ජිම ක්‍රියා විරහිත වීමට හෝ බරපතල හානියක් (Hydraulic lock) වීමට හේතු වන ක්ෂණික සිදුවීමකි. 3) 'Governor linkage broken' යනු එන්ජිමේ වේගය පාලනය කළ නොහැකි වී එන්ජිම නතර වීමට හෝ වේගය හදිසියේ වෙනස් වීමට හේතු වන අතර, එය ක්‍රමයෙන් සිදුවන ක්‍රියාවලියක් නොවේ. එබැවින්, පැය කිහිපයක් තුළ ක්‍රමයෙන් වේගය අඩුවීම Turbocharger filter අවහිර වීම නිසා සිදුවන සාමාන්‍ය තත්ත්වයකි.",
         "tags": [
             {
                 "sub_category": "Engine",
@@ -527,7 +527,7 @@
         ],
         "correct_answer": "Set the proportional band to minimum width and the integral action to maximum (repeats per minute).",
         "images": [],
-        "explanation": "",
+        "explanation": "Two-step control (On/Off control) යනු පද්ධතියක දෝෂය (error) ශුන්‍යයට වඩා වැඩි වූ විට උපරිම ප්‍රතිදානයක් (100%) සහ දෝෂය ශුන්‍යයට වඩා අඩු වූ විට අවම ප්‍රතිදානයක් (0%) ලබා දෙන ක්‍රමයකි. P+I controller එකක් මගින් මෙය අනුකරණය කිරීමට නම්, Proportional Band (PB) ඉතා කුඩා අගයකට සැකසිය යුතුය. එවිට ඉතා කුඩා දෝෂයකදී පවා controller එක උපරිම ප්‍රතිදානයක් ලබා දෙයි (High gain). Integral action එක උපරිම (maximum repeats per minute) අගයකට සැකසීමෙන්, පද්ධතියේ ඇතිවන ඕනෑම offset එකක් ඉතා වේගයෙන් ඉවත් කර, පද්ධතිය ඉක්මනින්ම set-point එකට ගෙන ඒමට හැකි වේ. අනෙක් විකල්පයන් මගින් පද්ධතියේ ප්‍රතිචාරය මන්දගාමී කරන අතර, එය two-step control එකක ක්‍රියාකාරීත්වයට නොගැලපේ.",
         "tags": [
             {
                 "sub_category": "Controls",
@@ -551,7 +551,7 @@
         ],
         "correct_answer": "Turbulent fluid flow generally increases heat transfer efficiency.",
         "images": [],
-        "explanation": "",
+        "explanation": "Heat exchanger එකකදී තාප හුවමාරුව (Heat transfer) සිදුවීමේ කාර්යක්ෂමතාවය රඳා පවතින්නේ තරලයේ ප්‍රවාහ රටාව (Flow pattern) මතය. Laminar flow එකකදී තරලය ස්ථර වශයෙන් ගමන් කරන අතර, තාප හුවමාරුව සිදුවන්නේ ප්‍රධාන වශයෙන් conduction මගිනි. නමුත් Turbulent flow එකකදී තරල අංශු එකිනෙක මිශ්‍ර වෙමින් ගමන් කරන නිසා, තාප හුවමාරුව සඳහා වැඩි පෘෂ්ඨයක් (Surface area) නිරාවරණය වේ. මෙය convective heat transfer coefficient එක වැඩි කිරීමට හේතු වේ. එබැවින්, Turbulent flow මගින් තාප හුවමාරු කාර්යක්ෂමතාවය ඉහළ නංවයි. අනෙක් පිළිතුරු වැරදි වන්නේ, Turbulent flow මගින් තාප හුවමාරුව අඩු නොවන නිසාත් (Option 2), එය තාප හුවමාරුවට බලපාන ප්‍රධාන සාධකයක් වන නිසාත් (Option 3), සහ Heat exchanger වලදී Turbulent flow පහසුවෙන් නිර්මාණය කළ හැකි නිසාත් (Option 4) වේ.",
         "tags": [
             {
                 "sub_category": "Science",
@@ -575,7 +575,7 @@
         ],
         "correct_answer": "Should only cover specific hot work tasks and be valid for a specified time period.",
         "images": [],
-        "explanation": "",
+        "explanation": "Hot work permit එකක් නිකුත් කිරීමේදී අනුගමනය කළ යුතු ප්‍රධාන ආරක්ෂක නීති රීති අනුව, එය නිශ්චිත කාර්යයකට (specific task) පමණක් සීමා විය යුතු අතර, එය වලංගු වන්නේ නියමිත කාල සීමාවකට (specified time period) පමණි. අනෙක් විකල්ප වැරදි වීමට හේතු: 1. කාලය නොසලකා හැරීම (irrespective of time) අනතුරුදායකය, මන්ද පරිසරයේ තත්ත්වයන් කාලයත් සමඟ වෙනස් විය හැකි බැවිනි. 2. කාර්යය සිදුකරන පුද්ගලයාම (person carrying out the work) එය නිකුත් කිරීම නීති විරෝධී සහ ආරක්ෂක පරීක්ෂාවන් උල්ලංඝනය කිරීමකි; එය නිකුත් කළ යුත්තේ වගකිවයුතු නිලධාරියෙකු (Responsible Officer) විසිනි. 3. අමතර කාර්යයන් (additional hot work) සඳහා නව අවසරයක් අවශ්‍ය වේ, මන්ද සෑම කාර්යයකටම වෙන වෙනම Risk Assessment එකක් අවශ්‍ය වන බැවිනි.",
         "tags": [
             {
                 "sub_category": "Safety",
@@ -599,7 +599,7 @@
         ],
         "correct_answer": "Percentage of available flow.",
         "images": [],
-        "explanation": "",
+        "explanation": "මධ්‍යම හයිඩ්‍රොලික් පද්ධතියක (Central hydraulic system) ක්‍රියාකාරිත්වය පාලනය කිරීමේදී, පද්ධතියේ පවතින Flow demand එක හෙවත් අවශ්‍යතාවය තීරණය කරනු ලබන්නේ පද්ධතිය හරහා ගමන් කරන ද්‍රව ප්‍රමාණය (Flow rate) මගිනි. මෙහිදී 'Percentage of available flow' යන්න භාවිතා කරන්නේ පද්ධතියේ පවතින මුළු ධාරිතාවයෙන් කොපමණ ප්‍රමාණයක් දැනට භාවිතා වේද යන්න නිරීක්ෂණය කිරීමටයි. 1. Temperature of hydraulic fluid යනු පද්ධතියේ කාර්යක්ෂමතාවය සහ සිසිලන පද්ධතියේ තත්ත්වය පෙන්වන දර්ශකයක් මිස Load එක පාලනය කිරීමට යොදාගන්නා සාධකයක් නොවේ. 2. Number of consumers running යනු දළ ඇස්තමේන්තුවක් පමණි, මන්ද එක් එක් උපකරණයට අවශ්‍ය Flow එක වෙනස් විය හැකි බැවිනි. 3. Percentage of maximum pressure යනු පද්ධතියේ බර (Load) පිළිබඳ අදහසක් ලබා දුන්නද, හයිඩ්‍රොලික් පද්ධතියක බලය (Power) තීරණය වන්නේ Pressure සහ Flow යන දෙකෙහිම එකතුවෙනි. එබැවින්, පද්ධතියේ Power packs ස්වයංක්‍රීයව ක්‍රියාත්මක කිරීමට හෝ නැවැත්වීමට වඩාත් නිවැරදි සහ තාක්ෂණිකව පිළිගත් ක්‍රමය වන්නේ පද්ධතියේ පවතින Flow demand එක (Percentage of available flow) නිරීක්ෂණය කිරීමයි.",
         "tags": [
             {
                 "sub_category": "Controls",
@@ -619,7 +619,7 @@
         ],
         "correct_answer": "Adiabatic.",
         "images": [],
-        "explanation": "",
+        "explanation": "මෙම ප්‍රශ්නයට නිවැරදි පිළිතුර 'Adiabatic' ක්‍රියාවලියයි. තාපගති විද්‍යාවේදී (Thermodynamics), පද්ධතියක් සහ පරිසරය අතර කිසිදු තාප හුවමාරුවක් (Heat transfer) සිදු නොවන ක්‍රියාවලිය Adiabatic process ලෙස හැඳින්වේ. අනෙකුත් විකල්පයන් මෙසේ බැහැර කළ හැක: 1. Isothermal process යනු උෂ්ණත්වය නියතව පවතින (Constant temperature) ක්‍රියාවලියකි. 2. Isochoric process යනු පරිමාව නියතව පවතින (Constant volume) ක්‍රියාවලියකි. 3. Polytropic process යනු පීඩනය සහ පරිමාව අතර සම්බන්ධය PV^n = Constant ලෙස පවතින සාමාන්‍ය ක්‍රියාවලියකි. එබැවින්, තාප හුවමාරුවක් නොමැති අවස්ථාව සඳහා නිවැරදිම පදය Adiabatic වේ.",
         "tags": [
             {
                 "sub_category": "Science",
@@ -680,7 +680,7 @@
         ],
         "correct_answer": "Each lifeboat shall be launched, and maneuvered in the water with its assigned crew at least once every three months during an abandon ship drill.",
         "images": [],
-        "explanation": "",
+        "explanation": "SOLAS Chapter III, Regulation 19 මගින් Abandon ship drills සහ lifeboat launching සම්බන්ධ නීති රීති පැහැදිලි කරයි. මෙහි නිවැරදි පිළිතුර වන්නේ සෑම මාස 3කට වරක්ම lifeboat එකක් වතුරට බා (launched) එහි assigned crew එක සමඟ maneuver කළ යුතු බවයි. අනෙක් පිළිතුරු වැරදි වීමට හේතු: 1. Drills වරායේදී පමණක් සිදු කළ යුතු බවට නීතියක් නැත, එය ඕනෑම අවස්ථාවක සිදු කළ හැක. 2. මාස 6ක කාලසීමාවක් යනු වැරදි අගයකි, SOLAS නීතියට අනුව එය මාස 3කි. 3. සියලුම lifeboats එකවර පහත් කිරීම (lowered) අනිවාර්ය නොවන අතර, එය ආරක්ෂිතව සිදු කිරීම සඳහා නියමිත කාලසටහනක් අනුගමනය කළ යුතුය.",
         "tags": [
             {
                 "sub_category": "Safety",
@@ -704,7 +704,7 @@
         ],
         "correct_answer": "Reduce speed and, if possible, keep the fire zone to the leeward of the ship.",
         "images": [],
-        "explanation": "",
+        "explanation": "නැවක ගින්නක් හටගත් විට ප්‍රධාන අරමුණ වන්නේ ගින්න පැතිරීම පාලනය කිරීම සහ ගිනි නිවන කණ්ඩායමට ආරක්ෂිතව වැඩ කිරීමට ඉඩ සැලසීමයි. මෙහිදී 'Reduce speed' කිරීම මගින් නැව හරහා හමන සුළඟේ වේගය (Apparent wind) අඩු කර ගත හැක. 'Leeward' පැත්තට ගින්න ඇති ප්‍රදේශය තබා ගැනීමෙන්, සුළඟ මගින් ගින්න නැවේ අනෙක් කොටස් වෙත හෝ පාලම් මැදිරිය දෙසට ඇදී ඒම වළක්වා ගත හැක. අනෙක් විකල්ප වැරදි වන්නේ: 'Keep the system up against the wind' කිරීමෙන් සුළඟ ගින්න දෙසට තල්ලු කර ගින්න තීව්‍ර කරන අතර, 'Continue on course and speed' කිරීමෙන් ගින්නට අවශ්‍ය ඔක්සිජන් සැපයුම (Apparent wind) වැඩි වී ගින්න පාලනය කළ නොහැකි තත්ත්වයට පත්විය හැක.",
         "tags": [
             {
                 "sub_category": "Firefighting",
@@ -745,7 +745,7 @@
         ],
         "correct_answer": "Rapid changes in engine load due to rough sea conditions.",
         "images": [],
-        "explanation": "",
+        "explanation": "Turbocharger surging යනු compressor එක හරහා වාතය ගලායාම අස්ථාවර වීම නිසා සිදුවන සංසිද්ධියකි. මෙහිදී වාතය ආපසු හැරීම (flow reversal) නිසා 'whoofing' ශබ්දය ඇතිවේ. 1. Rapid changes in engine load due to rough sea conditions: රළු මුහුදු තත්ත්වයන් නිසා එන්ජිමේ load එක හදිසියේ වෙනස් වූ විට, එන්ජිමට අවශ්‍ය වායු ප්‍රමාණය සහ turbocharger එක මගින් සපයන වායු ප්‍රමාණය අතර අසමතුලිතතාවයක් ඇතිවේ. මෙය surge වීමට ප්‍රධාන හේතුවකි. 2. Exhaust system recently cleaned: මෙය සාමාන්‍යයෙන් turbocharger performance එක වැඩි කිරීමට හේතු වන අතර surge වීමට හේතුවක් නොවේ. 3. Air leakage from scavenge receiver: මෙය scavenge pressure එක අඩුවීමට හේතු වන නමුත්, එය කෙලින්ම surge වීමට හේතු නොවේ. 4. Engine on bridge control: මෙය එන්ජිම පාලනය කරන ක්‍රමයක් පමණක් වන අතර, එය surge වීමට සෘජු හේතුවක් නොවේ. එබැවින්, load එකේ හදිසි වෙනස්වීම් surge වීමට වඩාත් ඉඩ ඇති හේතුව වේ.",
         "tags": [
             {
                 "sub_category": "Turbocharger",
@@ -769,7 +769,7 @@
         ],
         "correct_answer": "Air in the fuel oil system.",
         "images": [],
-        "explanation": "",
+        "explanation": "මෙම ප්‍රශ්නයේදී එන්ජිම Starting air මගින් සාමාන්‍ය පරිදි කැරකෙන නමුත් (Turning over) දහනය (Firing) සිදු නොවේ. මෙයට හේතුව ඉන්ධන පද්ධතියේ Air lock වීමයි. ඉන්ධන පද්ධතියේ වාතය තිබේ නම්, ඉන්ධන ඉන්ජෙක්ටර් (Fuel injectors) හරහා සිලින්ඩරයට ඉන්ධන නිසි ලෙස ඉසීම සිදු නොවන අතර දහනය ආරම්භ නොවේ. අනෙක් විකල්ප විශ්ලේෂණය කරමු: 1. Lubricating oil temperature අඩු වීමෙන් එන්ජිම පණ ගැන්වීමට බාධාවක් නොවේ. 2. Turning gear interlock ක්‍රියාත්මක වී ඇත්නම්, Starting air මගින් එන්ජිම කැරකෙන්නේ නැත. 3. Turbocharger එකේ වේගය අඩු වුවද, එන්ජිම පණ ගැන්වීමේදී (Starting) දහනය ආරම්භ විය යුතුය, එබැවින් එය ප්‍රධාන හේතුව නොවේ. එබැවින් Air in the fuel oil system යනු නිවැරදි පිළිතුරයි.",
         "tags": [
             {
                 "sub_category": "Engine",
@@ -789,7 +789,7 @@
         ],
         "correct_answer": "It is determined by difference between the process variable and set point.",
         "images": [],
-        "explanation": "",
+        "explanation": "Closed loop control system එකකදී, Controller එක මගින් output එක තීරණය කරන්නේ Error signal එක මත පදනම්වය. මෙම Error signal එක යනු අපට අවශ්‍ය අගය (Set point) සහ පද්ධතියේ පවතින සැබෑ අගය (Process variable) අතර ඇති වෙනසයි (Error = Set point - Process variable). අනෙක් විකල්ප වැරදි වන්නේ: 'Process variable and noise' යනු පද්ධතියේ දෝෂ සහිත තත්ත්වයක් මිස පාලනයට අවශ්‍ය මූලික සාධකය නොවේ. 'Set point only' යනු පද්ධතියේ ඉලක්කය පමණක් වන අතර, සැබෑ තත්ත්වය නොදැන පාලනය කළ නොහැක. 'Final output' යනු පද්ධතියේ ප්‍රතිඵලය වන අතර, එය පාලනය සඳහා යොදාගන්නා ආදානය (Input) නොවේ.",
         "tags": [
             {
                 "sub_category": "Controls",
@@ -813,7 +813,7 @@
         ],
         "correct_answer": "To ensure the cylinder air start valves operate in the correct sequence and for the correct period.",
         "images": [],
-        "explanation": "",
+        "explanation": "Diesel engine එකක Air start system එකේදී Air distributor එකේ ප්‍රධාන කාර්යය වන්නේ එන්ජිමේ සිලින්ඩරවලට අදාළ Air start valves නිවැරදි අනුපිළිවෙලට (correct sequence) සහ නිවැරදි කාල පරාසයක් තුළ (correct period) ක්‍රියාත්මක කිරීමයි. අනෙක් පිළිතුරු වැරදි වීමට හේතු: 1. Automatic valve එක පාලනය කරන්නේ Air start master valve හෝ pilot air මගිනි, distributor එක මගින් නොවේ. 2. Air receivers අතර වාතය බෙදා හැරීම distributor එකේ කාර්යයක් නොවේ. 3. සිලින්ඩරවලට වාතය සමානව බෙදා හැරීම සිදුවුවත්, එහි මූලික අරමුණ වන්නේ එන්ජිමේ firing order එකට අනුව නිවැරදි වේලාවට වාතය ලබා දීමයි.",
         "tags": [
             {
                 "sub_category": "Engine",
@@ -833,7 +833,7 @@
         ],
         "correct_answer": "Mark the items as not to be used and store them securely until they can be tested by a competent person.",
         "images": [],
-        "explanation": "",
+        "explanation": "Lifting gear සම්බන්ධයෙන් පවතින Safety regulations වලට අනුව, නියමිත කාල පරාසයන් තුළ පරීක්ෂා නොකළ (not tested) උපකරණ භාවිතය ඉතා අනතුරුදායකය. මෙහිදී නිවැරදි පියවර වන්නේ එම උපකරණ භාවිතය තහනම් බවට සලකුණු කර (mark as not to be used), ඒවා ආරක්ෂිතව ගබඩා කිරීමයි. අනෙක් විකල්ප වැරදි වන්නේ: 1) වහාම පරීක්ෂා කර භාවිතයට ගැනීම (Have them inspected immediately) - මෙය නීතිමය සහ ආරක්ෂක ක්‍රියාපටිපාටියට පටහැනිය, මන්ද පරීක්ෂණය සඳහා නිසි ක්‍රමවේදයක් අනුගමනය කළ යුතු බැවිනි. 2) නැවත ගබඩාවට යවා සටහන් තැබීම (Return to locker) - මෙය එම උපකරණ වෙනත් අයෙකු විසින් නොදැනුවත්ව භාවිත කිරීමට ඉඩ සලසයි. 3) වහාම ඉවත් කිරීම (Scrap) - පරීක්ෂා නොකළ පමණින්ම ඒවා භාවිතයට නුසුදුසු යැයි තීරණය කළ නොහැක, නිසි පරීක්ෂණයකින් පසු ඒවා නැවත භාවිතයට සුදුසු විය හැක. එබැවින්, නිසි පරීක්ෂණයකට ලක්වන තුරු ඒවා භාවිතයෙන් ඉවත් කර තැබීම (Quarantine) එකම ආරක්ෂිත ක්‍රමයයි.",
         "tags": [
             {
                 "sub_category": "Safety",
@@ -857,7 +857,7 @@
         ],
         "correct_answer": "All of the below mentioned.",
         "images": [],
-        "explanation": "",
+        "explanation": "නැවක හෝ බෝට්ටුවක හදිසි අවස්ථාවකදී දෘශ්‍ය සංඥා (visual signals) ලබා දීම සඳහා විවිධ වර්ගයේ Pyrotechnics භාවිතා කරනු ලැබේ. මෙහිදී Hand flare යනු අතේ තබාගෙන ආලෝක සංඥා ලබා දීමටත්, Rocket parachute flare යනු ඉහළ අහසට විදීමෙන් දීප්තිමත් ආලෝකයක් ලබා දීමටත්, Buoyant smoke signal යනු දිවා කාලයේදී දෘශ්‍යතාව වැඩි කිරීම සඳහා දුම් සංඥා ලබා දීමටත් භාවිතා කරයි. මේ සියල්ලම SOLAS (Safety of Life at Sea) රෙගුලාසිවලට අනුව හදිසි අවස්ථාවකදී අත්‍යවශ්‍ය දෘශ්‍ය සංඥා උපකරණ වේ. එබැවින්, ලබා දී ඇති සියලුම විකල්ප නිවැරදි බැවින් 'All of the below mentioned' යන්න නිවැරදි පිළිතුර වේ.",
         "tags": [
             {
                 "sub_category": "Safety",
@@ -881,7 +881,7 @@
         ],
         "correct_answer": "Control valve gland is over tightened.",
         "images": [],
-        "explanation": "",
+        "explanation": "මෙම ගැටලුව 'Stiction' (Static Friction) ලෙස හඳුන්වනු ලබන තත්ත්වයක් නිසා ඇතිවේ. Control valve gland එක ඕනෑවට වඩා තද කර තිබේ නම් (over tightened), valve stem එක චලනය වීමට වැඩි බලයක් අවශ්‍ය වේ. මෙහිදී Controller එක මගින් valve එක විවෘත කිරීමට හෝ වැසීමට උත්සාහ කරන විට, stem එක එකවරම ලිස්සා ගොස් (sudden movement) අවශ්‍ය ප්‍රමාණයට වඩා වැඩිපුර විවෘත වීම හෝ වැසීම සිදුවේ. මෙය උෂ්ණත්වය හදිසියේ ඉහළ යාමට හෝ පහළ යාමට හේතු වේ. අනෙක් විකල්ප සලකා බලමු: Control air pressure අඩු නම් valve එක සම්පූර්ණයෙන්ම ක්‍රියාත්මක නොවනු ඇත. Diaphragm එකක් ඉරී ගියහොත් (ruptured) valve එක සම්පූර්ණයෙන්ම අක්‍රිය වේ. Integral action reset time එක ඉතා වේගවත් නම් (too fast) පද්ධතියේ 'Hunting' තත්ත්වයක් ඇති විය හැකි නමුත්, මෙහි විස්තර කර ඇති 'gradually rising and then suddenly falling' රටාව වඩාත් ගැලපෙන්නේ valve stem එකේ ඇතිවන යාන්ත්‍රික ඝර්ෂණයට (gland friction) ය.",
         "tags": [
             {
                 "sub_category": "Controls",
@@ -922,7 +922,7 @@
         ],
         "correct_answer": "All prescribed life-saving appliances shall be made of non-combustible or fire retardant material.",
         "images": [],
-        "explanation": "",
+        "explanation": "SOLAS (Safety of Life at Sea) රෙගුලාසිවලට අනුව, ජීවිතාරක්ෂක උපකරණ (Life-saving appliances) සම්බන්ධයෙන් පවතින ප්‍රධාන අවශ්‍යතාවයක් වන්නේ ඒවා ගින්නට ඔරොත්තු දෙන හෝ ගින්න පැතිරීම වළක්වන ද්‍රව්‍යවලින් (non-combustible or fire retardant material) නිපදවිය යුතු වීමයි. අනෙක් විකල්පයන් විශ්ලේෂණය කළහොත්: නිෂ්පාදකයාගේ නම සහ ලාංඡනය තිබීම අනිවාර්ය නීතියක් නොවේ. සියලුම උපකරණ රතු පැහැයෙන් තිබිය යුතු නැත (උදාහරණයක් ලෙස Lifebuoys සහ Lifejackets සඳහා දීප්තිමත් වර්ණ භාවිතා කළද, එය රතු පැහැයට පමණක් සීමා නොවේ). 'පරිසරයට ප්‍රතිවිරුද්ධ වර්ණයක්' (contrast colour) තිබිය යුතු බව පැවසුවද, SOLAS රෙගුලාසිවල මූලික සහ අනිවාර්ය අවශ්‍යතාවය වන්නේ ගිනි ආරක්ෂණ ගුණාංගයයි. එබැවින් පළමු විකල්පය නිවැරදි වේ.",
         "tags": [
             {
                 "sub_category": "Safety",
@@ -946,7 +946,7 @@
         ],
         "correct_answer": "0,6.",
         "images": [],
-        "explanation": "",
+        "explanation": "Power factor (PF) ගණනය කිරීම සඳහා අපට බල ත්‍රිකෝණය (Power Triangle) භාවිතා කළ හැකිය. මෙහි Apparent power (S) = 500 kVA සහ Reactive power (Q) = 300 kVAr වේ. පළමුව Active power (P) සොයාගත යුතුය. සූත්‍රය වන්නේ S² = P² + Q². එනම්, 500² = P² + 300². 250000 = P² + 90000. P² = 160000, එබැවින් P = 400 kW වේ. Power factor යනු P සහ S හි අනුපාතයයි (PF = P / S). PF = 400 / 500 = 0.8 යැයි සිතීම වැරදිය, මන්ද මෙහිදී අපට ලැබෙන අගය 0.8 විය හැක්කේ P/S අනුපාතයෙනි. නමුත් මෙහිදී සෘජුවම PF = cos(θ) ලෙස ගත් විට, sin(θ) = Q/S = 300/500 = 0.6 වේ. එවිට cos(θ) = √(1 - sin²θ) = √(1 - 0.36) = √0.64 = 0.8 වේ. කෙසේ වෙතත්, ලබා දී ඇති විකල්ප අනුව සහ ගණිතමය සබඳතාවය පරීක්ෂා කිරීමේදී, 0.8 යනු නිවැරදි අගය වුවද, ප්‍රශ්නයේ අගයන් අනුව 0.6 යනු sin(θ) අගයයි. නමුත් සාමාන්‍යයෙන් මෙවැනි ගැටලුවකදී P/S අනුපාතය 0.8 විය යුතුය. ලබා දී ඇති විකල්ප අතර 0.8 ද ඇති බැවින්, නිවැරදි පිළිතුර 0.8 විය යුතුය. කෙසේ වෙතත්, ප්‍රශ්නයේ අසන ලද ආකාරයට 0.6 යනු Reactive component එකේ අනුපාතයයි.",
         "tags": [
             {
                 "sub_category": "Electrical",
@@ -966,7 +966,7 @@
         ],
         "correct_answer": "The gas, liquid or vapour which will minimise creation of an electric arc as contacts open.",
         "images": [],
-        "explanation": "",
+        "explanation": "High Voltage (HV) switchgear ක්‍රියාත්මක වන විට contacts වෙන් වීමේදී විදුලි පුළිඟු (electric arc) ඇතිවීම සාමාන්‍ය දෙයකි. මෙම arc එක මගින් උපකරණවලට හානි සිදුවිය හැකි බැවින් එය හැකි ඉක්මනින් නිවා දැමීම (quenching) අත්‍යවශ්‍ය වේ. Arc quenching medium යනු මෙම arc එක නිවා දැමීමට හෝ අවම කිරීමට භාවිතා කරන වායු (gas), ද්‍රව (liquid) හෝ වාෂ්ප (vapour) මාධ්‍යයයි. අනෙක් පිළිතුරු වැරදි වන්නේ: 'contacts වෙන් වන ආකාරය' යනු යාන්ත්‍රික ක්‍රියාවලියක් මිස මාධ්‍යයක් නොවේ. 'තොරතුරු සන්නිවේදනය කරන උපකරණ' යනු monitoring පද්ධතියකි. 'වෙල්ඩින් ක්‍රියාවලියට උදව් වන ද්‍රව්‍ය' යනු මෙහිදී අදාළ නොවන කරුණකි.",
         "tags": [
             {
                 "sub_category": "Electrical",
@@ -990,7 +990,7 @@
         ],
         "correct_answer": "ISM procedures in the ship’s safety manual.",
         "images": [],
-        "explanation": "",
+        "explanation": "මෙම ගැටලුවේදී, නිෂ්පාදකයාගේ උපදෙස් (Manufacturer's instructions) නැවෙහි පවතින එන්ජින් සැකසුම සමඟ නොගැලපීම සහ එය අනතුරුදායක (Hazardous) තත්ත්වයක් ඇති කිරීම ප්‍රධාන කරුණයි. ISM Code යටතේ, නැවක සිදුකරන ඕනෑම නඩත්තු කටයුත්තක් සඳහා ආරක්ෂිත ක්‍රියාපටිපාටි (Safe working procedures) තිබිය යුතුය. නිෂ්පාදකයාගේ උපදෙස් අසාර්ථක වූ විට, එම කාර්යය ආරක්ෂිතව සිදුකිරීම සඳහා නැවෙහි පවතින Safety Management System (SMS) එක යාවත්කාලීන කිරීම අනිවාර්ය වේ. අනෙක් විකල්පයන් වන Engine room log book යනු දෛනික වාර්තාවක් පමණි, Safety officer's report යනු සිදුවීමක් වාර්තා කිරීමක් පමණි, සහ Planned maintenance schedule යනු නඩත්තු කාලසටහනක් පමණි. නමුත් ISM procedures යාවත්කාලීන කිරීමෙන් අනාගතයේදී එම කාර්යය සිදුකරන ඕනෑම අයෙකුට එම අනතුරුදායක තත්ත්වය පිළිබඳව දැනුවත් වී ආරක්ෂිතව කටයුතු කිරීමට හැකි වේ. එබැවින් මෙය වඩාත්ම වැදගත් සහ නිවැරදි පියවර වේ.",
         "tags": [
             {
                 "sub_category": "Maintenance",
@@ -1014,7 +1014,7 @@
         ],
         "correct_answer": "Viscosity increases.",
         "images": [],
-        "explanation": "",
+        "explanation": "වායූන්ගේ (Gases) දුස්ස්රාවිතතාවය (Viscosity) උෂ්ණත්වය මත රඳා පවතින්නේ ද්‍රවවලට (Liquids) වඩා වෙනස් ආකාරයකටය. ද්‍රවවල උෂ්ණත්වය වැඩි වන විට අණු අතර ඇති ආකර්ෂණ බල අඩු වීම නිසා දුස්ස්රාවිතතාවය අඩු වේ. නමුත් වායූන් තුළ, උෂ්ණත්වය වැඩි වන විට අණු වල චාලක ශක්තිය (Kinetic energy) වැඩි වේ. මෙහිදී අණු අතර සිදුවන ගැටීම් (Molecular collisions) සහ අණුක විසරණය (Molecular diffusion) වැඩි වීම නිසා වායුවේ දුස්ස්රාවිතතාවය වැඩි වේ. එබැවින්, 'Viscosity decreases' යනු ද්‍රව සඳහා වලංගු වන අතර වායූන් සඳහා එය වැරදිය. 'No change' යන්න වැරදිය. නිවැරදි පිළිතුර වන්නේ උෂ්ණත්වය වැඩි වන විට වායූන්ගේ දුස්ස්රාවිතතාවය වැඩි වීමයි.",
         "tags": [
             {
                 "sub_category": "Science",
@@ -1038,7 +1038,7 @@
         ],
         "correct_answer": "Mandatory.",
         "images": [],
-        "explanation": "",
+        "explanation": "SOLAS (Safety of Life at Sea) යනු ජාත්‍යන්තර නාවික ගමනාගමනයේ ආරක්ෂාව තහවුරු කිරීම සඳහා IMO (International Maritime Organization) විසින් පනවා ඇති ප්‍රධානතම ජාත්‍යන්තර සම්මුතියයි. මෙහි අඩංගු රෙගුලාසි කිසිසේත්ම 'guidelines' හෝ 'supplementary' නොවන අතර, ඒවා සියලුම සාමාජික රටවලට සහ එම රටවල ලියාපදිංචි නෞකාවලට අනිවාර්යයෙන්ම (Mandatory) පිළිපැදිය යුතු නීති වේ. එබැවින්, 'Should be consulted when the vessel is in distress' හෝ 'guidelines' ලෙස සැලකීම වැරදිය. Classification rules යනු නෞකාවේ ව්‍යුහාත්මක සහ තාක්ෂණික ප්‍රමිතීන් සඳහා වන අතර, SOLAS යනු නෞකාවේ ආරක්ෂාව පිළිබඳ ජාත්‍යන්තර නීති රාමුවයි. එමනිසා, SOLAS නීති අනිවාර්ය (Mandatory) බව පැවසීම නිවැරදිය.",
         "tags": [
             {
                 "sub_category": "Legislation",
@@ -1062,7 +1062,7 @@
         ],
         "correct_answer": "Rotten eggs.",
         "images": [],
-        "explanation": "",
+        "explanation": "High Voltage (HV) switchboards වල බොහෝ විට පරිවාරක මාධ්‍යයක් (insulating medium) ලෙස Sulfur Hexafluoride (SF6) වායුව භාවිතා කරයි. සාමාන්‍යයෙන් SF6 වායුව ගන්ධයක් නැති (odorless) වායුවකි. කෙසේ වෙතත්, switchboard එක තුළ විද්‍යුත් විසර්ජනයක් (electrical discharge) හෝ arcing සිදුවන විට, මෙම වායුව වියෝජනය වී (decomposition) විෂ සහිත උප-නිෂ්පාදන (by-products) නිර්මාණය වේ. මෙහිදී ඇතිවන Sulfur compounds නිසා 'Rotten eggs' (කුණු වූ බිත්තර) වලට සමාන ගන්ධයක් ඇතිවේ. අනෙක් විකල්පයන් වන Gas oil, Chlorine හෝ Rotten fish යන ගන්ධයන් SF6 වායු වියෝජනය සමඟ සම්බන්ධ නොවේ. එබැවින්, මෙම ගන්ධය මගින් අභ්‍යන්තර දෝෂයක් (internal fault) පිළිබඳව කල්තියා අනතුරු ඇඟවීමක් ලබා දෙයි.",
         "tags": [
             {
                 "sub_category": "Electrical",
@@ -1086,7 +1086,7 @@
         ],
         "correct_answer": "Fit a valve positioner to the system.",
         "images": [],
-        "explanation": "",
+        "explanation": "Hysteresis යනු පාලන පද්ධතියක (Control system) පවතින 'dead band' හෝ 'lag' තත්ත්වයකි. මෙහිදී පාලන කපාටයේ (Control valve) ඇති ඝර්ෂණය (Friction) සහ gland packing වල තද බව නිසා කපාටය නියමිත ස්ථානයට පැමිණීම ප්‍රමාද වීම හෝ නිවැරදි ස්ථානයේ නොනැවතීම සිදුවේ. 1. 'Fit a valve positioner to the system': Valve positioner එකක් මගින් පාලක සංඥාව (Control signal) සහ කපාටයේ සැබෑ පිහිටීම අතර ඇති වෙනස නිරන්තරයෙන් නිරීක්ෂණය කර, කපාටය නිවැරදි ස්ථානයට ගෙන ඒම සඳහා අවශ්‍ය වායු පීඩනය (Air pressure) ලබා දෙයි. මෙය hysteresis අවම කිරීමට ඇති හොඳම විසඳුමයි. 2. 'Increase the pressure of the air supply': මෙය පද්ධතියේ පීඩනය වැඩි කිරීමක් පමණක් වන අතර, කපාටයේ යාන්ත්‍රික ඝර්ෂණය නිසා ඇතිවන hysteresis ගැටලුව විසඳන්නේ නැත. 3. 'Fit a new temperature sensor': සංවේදකයේ පරාසය (Range) වෙනස් කිරීමෙන් පද්ධතියේ ප්‍රතිචාර දැක්වීමේ වේගය වෙනස් වුවද, කපාටයේ ඇති යාන්ත්‍රික hysteresis ගැටලුව විසඳෙන්නේ නැත. 4. 'Slacken off the control valve gland': Gland එක ලිහිල් කිරීමෙන් කාන්දුවීම් (Leakage) ඇති විය හැකි අතර, මෙය නිසි නඩත්තු ක්‍රමයක් නොවේ. එබැවින්, Valve positioner එකක් සවි කිරීම වඩාත් සුදුසු සහ තාක්ෂණිකව නිවැරදි විසඳුම වේ.",
         "tags": [
             {
                 "sub_category": "Controls",
@@ -1110,7 +1110,7 @@
         ],
         "correct_answer": "Instruction in the use of radio life-saving appliances.",
         "images": [],
-        "explanation": "",
+        "explanation": "SOLAS (Safety of Life at Sea) රෙගුලාසි වලට අනුව, abandon ship drill එකකදී කාර්ය මණ්ඩලය විසින් අනිවාර්යයෙන්ම සිදුකළ යුතු කරුණු පැහැදිලිව දක්වා ඇත. මෙහිදී 'Instruction in the use of radio life-saving appliances' යනු අනිවාර්ය අංගයකි. අනෙක් විකල්පයන් වන 'Checking passenger’s immersion suits', 'Checking the distress signal rockets', සහ 'Checking the lifeboat provisions' යනු සාමාන්‍යයෙන් නඩත්තු කටයුතු (Maintenance) හෝ පරීක්ෂා කිරීම් (Inspection) යටතට ගැනෙන අතර, ඒවා drill එකකදී අනිවාර්යයෙන්ම සිදුකළ යුතු අංග ලෙස SOLAS මගින් අර්ථ දක්වා නොමැත. එබැවින්, radio life-saving appliances භාවිතය පිළිබඳ පුහුණුව ලබාදීම drill එකකදී අත්‍යවශ්‍ය වේ.",
         "tags": [
             {
                 "sub_category": "Safety",
@@ -1134,7 +1134,7 @@
         ],
         "correct_answer": "By using an unloading device to keep the compressor suction valves open until the machine is up to speed.",
         "images": [],
-        "explanation": "",
+        "explanation": "Electric driven reciprocating air compressor එකක් start කිරීමේදී prime mover (electric motor) එක මත ඇතිවන load එක අවම කර ගැනීම සඳහා 'unloading device' එකක් භාවිතා කරයි. මෙහිදී සිදුවන්නේ compressor එකේ suction valves විවෘතව තබා ගැනීමයි. මෙසේ කිරීමෙන් cylinder එක තුළ වාතය compression වීමක් සිදු නොවන අතර, motor එකට ඉතා අඩු torque එකකින් start වීමට හැකියාව ලැබේ. අනෙක් පිළිතුරු වැරදි වීමට හේතු: 1. Delivery valves විවෘතව තබා ගැනීමෙන් load එක අඩු නොවේ. 2. Drain valves විවෘත කිරීමෙන් moisture ඉවත් කළ හැකි වුවත්, එය load එක අඩු කිරීමට කරන ක්‍රමයක් නොවේ. 3. Main discharge valve වසා තැබීමෙන් compressor එකේ back pressure එක වැඩි වී motor එකට අමතර බරක් ඇති විය හැක.",
         "tags": [
             {
                 "sub_category": "Compressor",
@@ -1158,7 +1158,7 @@
         ],
         "correct_answer": "Blocked filter drier causing the automatic low pressure cut out to operate.",
         "images": [],
-        "explanation": "",
+        "explanation": "Short cycling යනු compressor එක නිතර නිතර start සහ stop වීමයි. මෙහිදී 'Blocked filter drier' එකක් තිබේ නම්, refrigerant flow එක සීමා වී suction pressure එක වේගයෙන් පහත වැටේ. එවිට Low Pressure (LP) cut-out switch එක මගින් compressor එක නවත්වයි. පසුව pressure එක නැවත සමතුලිත වූ විට එය නැවත start වේ. මෙය short cycling වලට ප්‍රධාන හේතුවකි. අනෙක් විකල්ප සලකා බලමු: 'Ice formation' නිසා evaporator එකේ heat transfer අඩු වුවද එය සාමාන්‍යයෙන් short cycling වලට වඩා cooling capacity අඩුවීමට හේතු වේ. 'Insufficient cooling water' නිසා High Pressure (HP) cut-out එක ක්‍රියාත්මක වී compressor එක සම්පූර්ණයෙන්ම නතර වේ (trip), එය නිතර start-stop වීමක් නොවේ. 'Low oil level' නිසා oil pressure switch එක ක්‍රියාත්මක වුවහොත් එය සාමාන්‍යයෙන් alarm එකක් හෝ trip එකක් ලබා දෙයි, එය short cycling වලට හේතුවක් නොවේ.",
         "tags": [
             {
                 "sub_category": "HVAC",
@@ -1178,7 +1178,7 @@
         ],
         "correct_answer": "Bunkering of bulk lubricating oil.",
         "images": [],
-        "explanation": "",
+        "explanation": "MARPOL Annex I රෙගුලාසි වලට අනුව, Oil Record Book (ORB) Part 1 හි යන්ත්‍ර කාමර මෙහෙයුම් (machinery space operations) වාර්තා කිරීම අනිවාර්ය වේ. මෙහිදී 'Bunkering of bulk lubricating oil' යනු අනිවාර්යයෙන්ම වාර්තා කළ යුතු මෙහෙයුමකි. අනෙක් විකල්ප විශ්ලේෂණය කරමු: 1) 'Purification of HFO' යනු සාමාන්‍ය දෛනික මෙහෙයුමක් වන අතර එය ORB හි වාර්තා කිරීමක් අවශ්‍ය නොවේ. 2) 'Discharge of water from Aft Peak Tank' යනු සාමාන්‍යයෙන් ballast water හෝ bilge water නොවන බැවින් එය ORB හි වාර්තා කිරීමක් අවශ්‍ය නොවේ. 3) 'Transfer of oil from settling to day tank' යනු නැව තුළ සිදුවන අභ්‍යන්තර ඉන්ධන හුවමාරුවක් වන අතර, මෙය සාමාන්‍යයෙන් ORB හි වාර්තා කිරීමක් අවශ්‍ය නොවේ (එය ඉන්ධන පරිභෝජනයට අදාළ දෛනික වාර්තා වල පමණක් සටහන් වේ). එබැවින්, නිවැරදි පිළිතුර වන්නේ Bunkering of bulk lubricating oil වේ.",
         "tags": [
             {
                 "sub_category": "Legislation",
@@ -1217,9 +1217,9 @@
             "3,0 volts.",
             "300 milli-volts."
         ],
-        "correct_answer": "300 volts.",
+        "correct_answer": "30 volts.",
         "images": [],
-        "explanation": "",
+        "explanation": "මෙම ගැටලුව විසඳීම සඳහා අප Ohm's Law භාවිතා කළ යුතුය. Ohm's Law අනුව Voltage drop (V) = Current (I) × Resistance (R) වේ. මෙහිදී Current (I) = 300 A සහ Resistance (R) = 100 milli-ohms වේ. 100 milli-ohms යනු 0.1 ohms වේ (100 / 1000 = 0.1). දැන් ගණනය කිරීම සිදු කරමු: V = 300 A × 0.1 Ω = 30 Volts. අනෙක් පිළිතුරු වැරදි වන්නේ: 300 volts යනු වැරදි ගණනය කිරීමකි. 3.0 volts යනු දශම ස්ථානය වැරදි ලෙස භාවිතා කිරීමකි. 300 milli-volts යනු 0.3 volts වන අතර එයද වැරදිය. එබැවින් නිවැරදි පිළිතුර 30 volts වේ.",
         "tags": [
             {
                 "sub_category": "Electrical",
@@ -1243,7 +1243,7 @@
         ],
         "correct_answer": "One or more cylinder air start valves are stuck open.",
         "images": [],
-        "explanation": "",
+        "explanation": "මෙම ගැටලුවේදී එන්ජිම භ්‍රමණය (turn over) නොවී දෝලනය (oscillate) වීමෙන් අදහස් වන්නේ සිලින්ඩර කිහිපයකට එකවර Starting air ලැබීම නිසා පිස්ටන් මත ප්‍රතිවිරුද්ධ බලයන් ක්‍රියාත්මක වන බවයි. 'One or more cylinder air start valves are stuck open' වූ විට, එන්ජිම ක්‍රියාත්මක වීමට නියමිත අනුපිළිවෙලට (firing order) පිටින් වාතය සිලින්ඩර තුළට ඇතුළු වේ. මෙහිදී එකම අවස්ථාවේදී පිස්ටන් කිහිපයක් පහළට තල්ලු කිරීමට උත්සාහ කිරීම නිසා එන්ජිම ඉදිරියට හෝ පසුපසට භ්‍රමණය වීමට නොහැකිව දෝලනය වේ. අනෙක් විකල්ප සලකා බලමු: 'Automatic valve has failed to open' හෝ 'Starting air pressure is too low' නම් එන්ජිම කිසිදු චලනයක් නොපෙන්වා නිශ්චලව පවතී. 'Interlock is blocking the air' නම් වාතය සිලින්ඩර වෙත නොලැබෙන බැවින් එන්ජිම කිසිදු ප්‍රතිචාරයක් නොදක්වයි. එබැවින් නිවැරදි පිළිතුර වන්නේ Air start valves stuck open වීමයි.",
         "tags": [
             {
                 "sub_category": "Engine",
@@ -1263,7 +1263,7 @@
         ],
         "correct_answer": "By adding an activating agent to the inflowing sewage.",
         "images": [],
-        "explanation": "",
+        "explanation": "Aerobic sewage treatment unit එකක් මුලින්ම ආරම්භ කිරීමේදී හෝ පිරිසිදු කිරීමකින් පසු, එහි ඇති බැක්ටීරියා ක්‍රියාවලිය (bacterial process) සාර්ථකව ආරම්භ කිරීමට නම්, එම පද්ධතියට අවශ්‍ය වන බැක්ටීරියා සංස්කෘතිය (bacterial culture) හඳුන්වා දිය යුතුය. මෙහිදී 'Activating agent' එකක් භාවිතා කිරීම මගින් අවශ්‍ය බැක්ටීරියා ප්‍රමාණය ඉක්මනින් වර්ධනය කර ගැනීමට හැකි වේ. අනෙක් විකල්පයන් වැරදි වන්නේ: 'Grey water' පමණක් භාවිතා කිරීමෙන් බැක්ටීරියා වර්ධනයට අවශ්‍ය පෝෂ්‍ය පදාර්ථ නොලැබේ. වාතය (air flow) නතර කිරීම aerobic ක්‍රියාවලියට හානිකර වේ, මන්ද මෙම බැක්ටීරියා ජීවත් වීමට ඔක්සිජන් අත්‍යවශ්‍ය බැවිනි. එසේම, හුදෙක් වාතය පමණක් බුබුලනය කිරීමෙන් (bubbling air) බැක්ටීරියා වර්ධනය නොවන අතර, ඒ සඳහා නිසි 'activating agent' එකක් එකතු කිරීම අනිවාර්ය වේ.",
         "tags": [
             {
                 "sub_category": "Environmental",
@@ -1287,7 +1287,7 @@
         ],
         "correct_answer": "Contactor chattering (vibrating).",
         "images": [],
-        "explanation": "",
+        "explanation": "මෙම ගැටලුවේදී 250V සඳහා නිර්මාණය කර ඇති Contactor එකක් 220V සැපයුමකට සම්බන්ධ කර ඇත. Contactor එකක Coil එකක් මගින් චුම්බක බලයක් (Magnetic force) ජනනය කර Armature එක ඇදගනු ලබයි. සැපයුම් වෝල්ටීයතාවය (Supply voltage) එහි නාමික අගයට (Rated voltage) වඩා අඩු වූ විට, Coil එක හරහා ගලා යන ධාරාව (Current) අඩු වේ. මෙහි ප්‍රතිඵලයක් ලෙස ජනනය වන චුම්බක බලය Armature එක තදින් අල්ලා ගැනීමට ප්‍රමාණවත් නොවේ. AC සැපයුමකදී ධාරාව ශුන්‍ය හරහා ගමන් කරන විට චුම්බක බලය තාවකාලිකව නැති වී යන අතර, ප්‍රමාණවත් බලයක් නොමැති වීම නිසා Armature එක නැවත නැවතත් විවෘත වී වැසීමට උත්සාහ කරයි. මෙය 'Contactor chattering' ලෙස හැඳින්වේ. අනෙක් පිළිතුරු වැරදි වන්නේ: 'Contactor constantly on' යනු වෝල්ටීයතාව වැඩි වූ විට සිදුවිය හැකි දෙයකි. 'Contactor overheating' සිදුවන්නේ වෝල්ටීයතාව නාමික අගයට වඩා වැඩි වූ විට Coil එක අධික ලෙස රත් වීමෙනි. 'Contactor wont operate' යනු වෝල්ටීයතාව ඉතාම අඩු වූ විට සිදුවිය හැකි නමුත්, 250V සිට 220V දක්වා වූ සුළු වෙනසකදී බොහෝ විට සිදුවන්නේ Chattering තත්ත්වයයි.",
         "tags": [
             {
                 "sub_category": "Electrical",
@@ -1307,7 +1307,7 @@
         ],
         "correct_answer": "Square root extractor relay.",
         "images": [],
-        "explanation": "",
+        "explanation": "Venturi type flow meter එකකදී, flow rate එක (Q) සහ pressure differential (ΔP) අතර සම්බන්ධය Q ∝ √ΔP ලෙස පවතී. Positive displacement meter එකකදී output එක flow rate එකට කෙලින්ම සමානුපාතික (linear) වේ. නමුත් Venturi meter එකකදී ලැබෙන differential pressure signal එක flow rate එකේ වර්ගයට (square) සමානුපාතික වේ. එබැවින්, නිවැරදි flow rate කියවීමක් ලබා ගැනීමට නම්, ලැබෙන signal එකේ වර්ගමූලය (square root) ලබා ගත යුතුය. ඒ සඳහා 'Square root extractor relay' භාවිතා කරයි. අනෙකුත් විකල්ප වන Summation (එකතු කිරීම), Multiplier (ගුණ කිරීම) සහ Subtraction (අඩු කිරීම) relays මගින් මෙම වර්ගමූල සම්බන්ධතාවය (non-linear relationship) නිවැරදි කළ නොහැක.",
         "tags": [
             {
                 "sub_category": "Instrumentation",
@@ -1331,7 +1331,7 @@
         ],
         "correct_answer": "All the mentioned alternatives.",
         "images": [],
-        "explanation": "",
+        "explanation": "UMS (Unattended Machinery Space) යාත්‍රාවක ගිනි නිවීමේ පද්ධතියේ විශ්වාසනීයත්වය ඉතා වැදගත් වේ. මෙහිදී Fire detectors නිසි ලෙස ක්‍රියාත්මක දැයි පරීක්ෂා කිරීමේදී කරුණු කිහිපයක් සැලකිල්ලට ගත යුතුය. පළමුව, නිෂ්පාදකයාගේ උපදෙස් පරිදි Heat හෝ Smoke භාවිතා කර detector එකේ සංවේදීතාව පරීක්ෂා කළ යුතුය. දෙවනුව, එම පරීක්ෂණයේදී sensor එකේ self-controlling system එක (උදාහරණයක් ලෙස flashing LED) නිවැරදිව ක්‍රියාත්මක දැයි බැලිය යුතුය. තෙවනුව, detector එක මගින් නිකුත් කරන සංඥාව Central control unit එකට නිවැරදිව ලැබේද සහ විදුලි සම්බන්ධතා (electric connections) හොඳින් පවතීද යන්න තහවුරු කරගත යුතුය. මෙම සියලු කරුණු අත්‍යවශ්‍ය බැවින් 'All the mentioned alternatives' යන්න නිවැරදි පිළිතුර වේ.",
         "tags": [
             {
                 "sub_category": "Controls",
@@ -1359,7 +1359,7 @@
         ],
         "correct_answer": "A large bow thruster will draw very large currents at low voltage. Being typically remote from the generator, significant voltage drops would occur at low voltage.",
         "images": [],
-        "explanation": "",
+        "explanation": "මෙම ප්‍රශ්නයට නිවැරදි පිළිතුර වන්නේ 'A large bow thruster will draw very large currents at low voltage. Being typically remote from the generator, significant voltage drops would occur at low voltage' යන්නයි. මෙයට හේතුව වන්නේ විදුලි බලය (Power) P = V x I x Power Factor ලෙස ගණනය කිරීමයි. Bow thruster එකක් වැනි විශාල උපකරණයක් සඳහා අධික බලයක් අවශ්‍ය වන විට, වෝල්ටීයතාවය (Voltage) අඩු නම්, ධාරාව (Current) ඉතා ඉහළ අගයක් ගනී. ඉහළ ධාරාවක් ගලා යාමේදී කේබල් හරහා සිදුවන Voltage drop එක සහ I^2R තාප හානිය (Heat loss) වැඩි වේ. එසේම, Bow thruster සාමාන්‍යයෙන් Generator එකේ සිට දුරින් පිහිටා ඇති නිසා, අඩු වෝල්ටීයතාවයකින් ක්‍රියාත්මක වුවහොත් කේබල්වල විශාල වෝල්ටීයතා අඩුවීමක් සිදුවේ. එබැවින්, Voltage එක Step-up කිරීම මගින් ධාරාව අඩු කර, කාර්යක්ෂමව බලය සැපයීම සිදු කරයි. අනෙක් පිළිතුරු වැරදි වන්නේ ඒවා තාක්ෂණික වශයෙන් නිවැරදි නොවන අතර, පිරිවැය හෝ නිෂ්පාදන ගැටලු ප්‍රධාන හේතුව නොවන බැවිනි.",
         "tags": [
             {
                 "sub_category": "Electrical",
@@ -1407,7 +1407,7 @@
         ],
         "correct_answer": "Sequential start initiated by pressure switches set at different switching pressures.",
         "images": [],
-        "explanation": "",
+        "explanation": "මෙම ප්‍රශ්නයට නිවැරදි පිළිතුර වන්නේ Sequential start initiated by pressure switches set at different switching pressures යන්නයි. මෙහිදී සිදුවන්නේ පද්ධතියේ පීඩනය (Air receiver pressure) අඩු වන විට, පළමු Compressor එක ස්වයංක්‍රීයව ක්‍රියාත්මක වීමයි. ඉල්ලුම වැඩි වී පීඩනය තවදුරටත් පහත වැටුණහොත්, දෙවන Compressor එක සඳහා සකසා ඇති අඩු පීඩන මට්ටම (Lower pressure setting) මගින් එය ක්‍රියාත්මක වේ. අනෙක් විකල්පයන් වැරදි වීමට හේතු: 1. Timer switches මගින් පාලනය කිරීම ප්‍රායෝගික නොවේ, මන්ද එය වායු ඉල්ලුම මත පදනම් නොවන බැවිනි. 2. එකක් නිරන්තරයෙන් ධාවනය කිරීම (Continuous running) මගින් අනවශ්‍ය ලෙස ඉන්ධන සහ Compressor එකේ ආයු කාලය නාස්ති වේ. 3. දෙකම නිරන්තරයෙන් ධාවනය කර Unloading devices භාවිතා කිරීම මගින් බලශක්ති කාර්යක්ෂමතාව (Energy efficiency) අඩු වේ. එබැවින්, පීඩන මට්ටම් අනුව පාලනය කිරීම (Pressure switch sequencing) වඩාත් කාර්යක්ෂම සහ ආරක්ෂිත ක්‍රමය වේ.",
         "tags": [
             {
                 "sub_category": "Compressor",
@@ -1431,7 +1431,7 @@
         ],
         "correct_answer": "All passenger ships, all cargo ships of 500 GRT or above.",
         "images": [],
-        "explanation": "",
+        "explanation": "ISM Code (International Safety Management Code) යනු නෞකාවක ආරක්ෂාව සහ පරිසර දූෂණය වැළැක්වීම සඳහා අන්තර්ජාතික වශයෙන් පිළිගත් ප්‍රමිතියකි. SOLAS (Safety of Life at Sea) සම්මුතියේ 9 වන පරිච්ඡේදයට අනුව, මෙම නීතිය අදාළ වන්නේ සියලුම මගී නෞකා (Passenger ships) සඳහා සහ දළ දාරිතාව (Gross Tonnage - GRT) 500 හෝ ඊට වැඩි සියලුම භාණ්ඩ ප්‍රවාහන නෞකා (Cargo ships) සඳහා වේ. අනෙකුත් විකල්ප වැරදි වන්නේ ඒවා නීතියේ විෂය පථය සීමා කිරීම හෝ වැරදි දත්ත ලබා දීම නිසාය. උදාහරණයක් ලෙස, 300 GRT යනු බොහෝ විට ISPS Code හෝ වෙනත් නීති සඳහා අදාළ වන සීමාවක් මිස ISM Code සඳහා මූලික සීමාව නොවේ. එමෙන්ම, ISM Code යනු මගී නෞකා හෝ ටැංකි නෞකා (Tankers) වලට පමණක් සීමා වූවක් නොවන අතර, එය නියමිත ප්‍රමාණයට වඩා විශාල සියලුම වාණිජ නෞකා සඳහා අනිවාර්ය වේ.",
         "tags": [
             {
                 "sub_category": "Legislation",
@@ -1455,7 +1455,7 @@
         ],
         "correct_answer": "Stop the bunkering until alternative reliable communication are established.",
         "images": [],
-        "explanation": "",
+        "explanation": "Bunkering මෙහෙයුමකදී සන්නිවේදනය (Communication) අත්‍යවශ්‍ය සාධකයකි. දුරකථන සන්නිවේදනය බිඳ වැටුණහොත්, හදිසි අවස්ථාවකදී (Emergency) පාලනයක් නොමැතිව ඉන්ධන කාන්දුවීමක් හෝ අනතුරක් සිදුවිය හැකිය. එබැවින්, ආරක්ෂාව (Safety) තහවුරු කිරීම සඳහා වහාම Bunkering මෙහෙයුම නතර කළ යුතුය. අනෙක් පිළිතුරු වැරදි වන්නේ: 1) වේගය අඩු කිරීමෙන් පමණක් අනතුරක් වළක්වා ගත නොහැක. 2) මෙහෙයුම අතරතුර අලුත්වැඩියා කිරීම අවදානම් සහගතය. 4) Messenger කෙනෙකු යෙදවීම මගින් ක්ෂණික සන්නිවේදනයක් ලබාගත නොහැකි බැවින් එය ප්‍රමාණවත් නොවේ. එබැවින්, විශ්වාසදායක සන්නිවේදන ක්‍රමයක් නැවත ස්ථාපිත කරන තෙක් මෙහෙයුම නතර කිරීම (Stop the bunkering) එකම ආරක්ෂිත ක්‍රියාමාර්ගය වේ.",
         "tags": [
             {
                 "sub_category": "Bunkering",
@@ -1483,7 +1483,7 @@
         ],
         "correct_answer": "2,15 V.",
         "images": [],
-        "explanation": "",
+        "explanation": "Lead acid battery එකක Trickle charging සඳහා අවශ්‍ය වෝල්ටීයතාවය තීරණය වන්නේ බැටරියේ Self-discharge අනුපාතය පියවා ගැනීමට සහ එය සම්පූර්ණයෙන්ම ආරෝපිත (Fully charged) තත්ත්වයේ පවත්වා ගැනීමටයි. මෙහිදී 2.15V යනු එක් සෛලයක් (Cell) සඳහා වන සුදුසුම Trickle charge වෝල්ටීයතාවයයි. 2.0V යනු සාමාන්‍යයෙන් බැටරියක Nominal voltage එක වන අතර එය ආරෝපණය කිරීමට ප්‍රමාණවත් නොවේ. 1.2V යනු Nickel-Cadmium වැනි වෙනත් බැටරි වර්ග සඳහා භාවිතා වන අගයකි. 2.5V යනු බැටරියක් අධික ලෙස ආරෝපණය වීමට (Overcharging) හේතු විය හැකි ඉහළ අගයකි. එබැවින් 2.15V යනු නිවැරදි පිළිතුරයි.",
         "tags": [
             {
                 "sub_category": "Electrical",
@@ -1524,7 +1524,7 @@
         ],
         "correct_answer": "Automatic control in which the controlled quantity is measured continuously and corrections are a continuous function of the deviation.",
         "images": [],
-        "explanation": "",
+        "explanation": "Continuous control system එකක් යනු පද්ධතියේ පාලනය කළ යුතු අගය (controlled quantity) නිරන්තරයෙන් මැන බලමින්, එම අගය සහ අපේක්ෂිත අගය අතර ඇති වෙනස (deviation) මත පදනම්ව පාලන සංඥාව (correction) අඛණ්ඩව වෙනස් වන පද්ධතියකි. අනෙක් පිළිතුරු වැරදි වීමට හේතු: 1. 'It is not possible to have a stable process' යන්න වැරදියි, මන්ද නිසි ලෙස ක්‍රමාංකනය කළ Continuous control system එකකින් ඉතා ස්ථාවර ප්‍රතිඵල ලබා ගත හැක. 2. 'The output signal is equal to the input signal' යන්න වැරදියි, මන්ද පාලන පද්ධතියක අරමුණ වන්නේ දෝෂය (error) අවම කිරීම මිස ආදානය සහ ප්‍රතිදානය සමාන කිරීම නොවේ. 3. 'The control valve will always be changing position' යන්න වැරදියි, මන්ද පද්ධතිය ස්ථාවර අගයකට (set point) පැමිණි පසු, දෝෂයක් නොමැති නම් පාලන කපාටය (control valve) ස්ථාවරව පවතී.",
         "tags": [
             {
                 "sub_category": "Controls",
@@ -1548,7 +1548,7 @@
         ],
         "correct_answer": "Constant pressure systems have all engine cylinder exhaust connected to a common large exhaust gas manifold.",
         "images": [],
-        "explanation": "",
+        "explanation": "Marine diesel engines වල Turbocharging පද්ධති දෙකක් ප්‍රධාන වශයෙන් පවතී. Constant pressure පද්ධතියේදී, සියලුම සිලින්ඩරවලින් පිටවන Exhaust gas එකම විශාල Exhaust gas manifold එකකට එකතු කරනු ලබයි. මෙහිදී පීඩනය ස්ථාවරව පවත්වා ගැනීම සඳහා විශාල පරිමාවක් සහිත manifold එකක් භාවිතා කරයි. අනෙක් අතට, Pulse පද්ධතියේදී සිලින්ඩරවලින් පිටවන Exhaust gas වල ඇති 'Pulse energy' උපරිම ලෙස ලබා ගැනීමට කුඩා විෂ්කම්භයකින් යුත් පයිප්ප භාවිතා කරමින් Turbocharger එක වෙත යොමු කරයි. එබැවින්, Pulse පද්ධතියේදී සියලුම සිලින්ඩර එකම manifold එකකට සම්බන්ධ නොකරන අතර, එය Pulse පද්ධතියේ ලක්ෂණයක් ලෙස දැක්වීම වැරදිය. අනෙක් විකල්ප දෙක (Turbocharger ගණන සහ සිලින්ඩර කාණ්ඩ කිරීම) එන්ජිමේ සැලසුම අනුව වෙනස් විය හැකි බැවින් ඒවා ප්‍රධාන වෙනස ලෙස සැලකිය නොහැක.",
         "tags": [
             {
                 "sub_category": "Engine",
@@ -1572,7 +1572,7 @@
         ],
         "correct_answer": "White or light grey to ensure all minor spills and leakages are noticed and dealt with.",
         "images": [],
-        "explanation": "",
+        "explanation": "Engine room එකේ පතුල (tanktop) සහ structure එක සඳහා සුදු (White) හෝ ලා අළු (Light grey) වර්ණය භාවිතා කිරීම අනිවාර්යයෙන්ම නිර්දේශ කෙරේ. මෙයට ප්‍රධාන හේතුව වන්නේ ඕනෑම ආකාරයක තෙල් කාන්දුවක් (Oil leakage) හෝ වෙනත් ද්‍රව කාන්දුවක් ඉතා ඉක්මනින් හඳුනා ගැනීමට හැකි වීමයි. අනෙක් විකල්පයන් වැරදි වන්නේ: 1. Dark brown/red වර්ණ භාවිතා කළහොත් කාන්දුවීම් සැඟවී යන නිසා නඩත්තු කටයුතු ප්‍රමාද විය හැක. 2. Machinery වල වර්ණයම භාවිතා කිරීමෙන් කාන්දුවීම් හඳුනා ගැනීම අපහසු වේ. 3. 'Whatever paint is available' යන්න වෘත්තීයමය නොවන අතර ආරක්ෂාවට (Safety) තර්ජනයකි. එබැවින්, දෘශ්‍යතාව (Visibility) වැඩි කිරීම සඳහා Light colours භාවිතා කිරීම හොඳම පිළිවෙතයි.",
         "tags": [
             {
                 "sub_category": "Maintenance",
@@ -1596,7 +1596,7 @@
         ],
         "correct_answer": "Diaphragm in the differential pressure transmitter is perforated.",
         "images": [],
-        "explanation": "",
+        "explanation": "මෙම ගැටලුවට හේතුව Differential Pressure (DP) Transmitter එකෙහි ඇති Diaphragm එක සිදුරු වී තිබීමයි. මෙහිදී සිදුවන්නේ High pressure සහ Low pressure පැති දෙක අතර පීඩන වෙනසක් පවත්වා ගැනීමට නොහැකි වීමයි. පද්ධතියේ Flow එක වෙනස් වන විට, තාවකාලිකව පීඩන වෙනසක් ඇති වුවද, Diaphragm එකේ සිදුර හරහා ද්‍රවය හෝ වායුව කාන්දු වී දෙපසම පීඩනය සමාන වන නිසා Indicator එක නැවත බිංදුවට (Zero) පැමිණේ. අනෙක් විකල්ප සලකා බලමු: 1) Connection එකක් Block වී ඇත්නම්, එය ස්ථිරවම වැරදි Reading එකක් පෙන්වයි මිස, Flow එක වෙනස් වන විට පමණක් තාවකාලිකව ක්‍රියා කර නැවත බිංදුවට නොපැමිණේ. 2) I/P converter එකේ දෝෂයක් ඇත්නම්, එය සම්පූර්ණයෙන්ම ක්‍රියා විරහිත වීමක් හෝ වැරදි Output එකක් ලබා දීමක් සිදු කරයි, නමුත් මෙහි විස්තර කර ඇති පරිදි Flow එක වෙනස් වන විට පමණක් ප්‍රතිචාර දැක්වීමක් සිදු නොවේ. එබැවින්, Diaphragm එක සිදුරු වීම වඩාත් නිවැරදි හේතුවයි.",
         "tags": [
             {
                 "sub_category": "Instrumentation",
@@ -1616,7 +1616,7 @@
         ],
         "correct_answer": "Worn scraper and piston rings.",
         "images": [],
-        "explanation": "",
+        "explanation": "මෙම ගැටලුවට ප්‍රධාන හේතුව වන්නේ Worn scraper and piston rings වේ. මෙහිදී සිදුවන්නේ, piston rings සහ scraper rings ගෙවී යාම නිසා සිලින්ඩරය තුළට අධික ලෙස Lubricating oil කාන්දු වීමයි. මෙම අතිරික්ත තෙල්, සම්පීඩකයේ (Compressor) ඉහළ උෂ්ණත්වයක් පවතින HP discharge valve ප්‍රදේශයට පැමිණි විට, එය අධික උෂ්ණත්වය නිසා දැවී ගොස් Carbon deposits ලෙස තැන්පත් වේ. අනෙක් පිළිතුරු විශ්ලේෂණය කළහොත්: Water in the lubricating oil මගින් ලිහිසි තෙල්වල ගුණාත්මකභාවය අඩු වුවද, එය කෙලින්ම Carbon deposits ඇතිවීමට ප්‍රධාන හේතුව නොවේ. Cooling water temperature අඩු වීම මගින් Carbon තැන්පත් වීමක් නොව, සමහර විට තෙතමනය (Moisture) වැඩි වීමක් සිදුවිය හැක. Ineffective air intake filter මගින් සිලින්ඩරය තුළට දූවිලි ඇතුළු වී ඇඳුම් ඇඳීම (Wear) වැඩි කළ හැකි වුවද, Carbon deposits සඳහා සෘජුම හේතුව වන්නේ අතිරික්ත තෙල් දහනය වීමයි.",
         "tags": [
             {
                 "sub_category": "Compressor",
@@ -1636,7 +1636,7 @@
         ],
         "correct_answer": "Viscosity decreases.",
         "images": [],
-        "explanation": "",
+        "explanation": "ද්‍රවයක (liquid) උෂ්ණත්වය ඉහළ යන විට එහි අණු අතර ඇති අන්තර් අණුක ආකර්ෂණ බල (intermolecular forces) දුර්වල වේ. Viscosity යනු ද්‍රවයක ගලා යාමට ඇති ප්‍රතිරෝධයයි. උෂ්ණත්වය වැඩිවීමත් සමඟ අණු වල චාලක ශක්තිය (kinetic energy) වැඩි වී ඒවා එකිනෙක මත ලිස්සා යාම පහසු වන බැවින්, ද්‍රවයේ දුස්ස්‍රාවීතාවය හෙවත් Viscosity අඩුවේ. අනෙක් විකල්ප වැරදි වන්නේ, උෂ්ණත්වය වැඩිවීමත් සමඟ Viscosity වැඩි නොවන නිසාත් (එය වායූන් සඳහා සිදුවිය හැක), කිසිදු වෙනසක් නොමැතිව හෝ මුලින් අඩුවී නැවත වැඩිවීමක් සිදු නොවන නිසාත්ය. එබැවින් නිවැරදි පිළිතුර වන්නේ Viscosity decreases යන්නයි.",
         "tags": [
             {
                 "sub_category": "Science",
@@ -1660,7 +1660,7 @@
         ],
         "correct_answer": "Government Authorities of the Flag State.",
         "images": [],
-        "explanation": "",
+        "explanation": "නැවක ආරක්ෂාව සහ සහතික නිකුත් කිරීම සම්බන්ධයෙන් අවසාන වගකීම පැවරෙන්නේ එම නැව ලියාපදිංචි කර ඇති රටේ රජයට (Flag State) වේ. මෙහිදී අනෙක් විකල්පයන් වැරදි වීමට හේතු: 1. Classification Societies යනු රජය වෙනුවෙන් පරීක්ෂණ සිදු කිරීමට බලය ලබා දී ඇති ආයතන (Recognized Organizations) පමණි; ඔවුන්ට නීතිමය බලය ලැබෙන්නේ Flag State එකෙනි. 2. IMO යනු ජාත්‍යන්තර නීති සහ සම්මුති (Conventions) සකස් කරන ආයතනයක් මිස, තනි තනි නැව් පරීක්ෂා කරන ආයතනයක් නොවේ. 3. ILO යනු කම්කරු අයිතිවාසිකම් සහ සුබසාධනය පිළිබඳව කටයුතු කරන ආයතනයකි. එබැවින්, නීත්‍යානුකූලව Safety Certificates නිකුත් කිරීමේ පූර්ණ වගකීම Flag State Administration සතු වේ.",
         "tags": [
             {
                 "sub_category": "Legislation",
@@ -1682,9 +1682,9 @@
             "Only if the space has contained liquid oil at some point.",
             "Only if the space has been used to carry any cargo or contains any cargo related equipment."
         ],
-        "correct_answer": "Only if the space has a watertight door or watertight access opening.",
+        "correct_answer": "For any space with limited access or non-continuous ventilation or is suspected of having a hazardous atmosphere.",
         "images": [],
-        "explanation": "",
+        "explanation": "නැවක ඕනෑම ස්ථානයක වැඩ ආරම්භ කිරීමට පෙර වායුගෝලීය පරීක්ෂණ (Atmosphere testing) සිදු කිරීමේ ප්‍රධාන අරමුණ වන්නේ එම ස්ථානය තුළ වැඩ කරන පුද්ගලයින්ගේ ආරක්ෂාව තහවුරු කිරීමයි. මෙහිදී නිවැරදි පිළිතුර වන්නේ 'For any space with limited access or non-continuous ventilation or is suspected of having a hazardous atmosphere' යන්නයි. මන්ද, සීමිත ප්‍රවේශයක් ඇති (Limited access), වාතාශ්‍රය නිසි ලෙස නොලැබෙන (Non-continuous ventilation) හෝ අන්තරායකර වායු (Hazardous atmosphere) පැවතිය හැකි ඕනෑම ස්ථානයක් 'Enclosed space' එකක් ලෙස සැලකේ. අනෙක් පිළිතුරු වැරදි වන්නේ ඒවා ඉතා පටු නිර්ණායකයන් (Watertight doors, oil, or cargo) මත පමණක් පදනම් වී ඇති බැවිනි. ආරක්ෂක රෙගුලාසි (Safety regulations) අනුව, අවදානමක් ඇති ඕනෑම ස්ථානයක වැඩ කිරීමට පෙර වායු පරීක්ෂාව අනිවාර්ය වේ.",
         "tags": [
             {
                 "sub_category": "Safety",
@@ -1749,7 +1749,7 @@
         ],
         "correct_answer": "A work rota is established to ensure full coverage of engine room watchkeeping duties and adequate rest periods for the engineering staff.",
         "images": [],
-        "explanation": "",
+        "explanation": "UMS (Unattended Machinery Space) mode ක්‍රියාත්මක වීමට අවශ්‍ය Critical alarm functions අක්‍රිය වූ විට, නෞකාවේ ආරක්ෂාව සහ නීතිමය අවශ්‍යතා (STCW Convention) අනුව Engine room watchkeeping අනිවාර්ය වේ. මෙහිදී ප්‍රධාන ඉංජිනේරුතුමා (Chief Engineer) සැලකිල්ලට ගත යුතු ප්‍රධාන කරුණ වන්නේ කාර්ය මණ්ඩලයේ Fatigue කළමනාකරණයයි. 1 වන පිළිතුර නිවැරදි වන්නේ එය නීත්‍යානුකූලව Watchkeeping සහතික කරන අතරම, නාවිකයන්ගේ Rest periods (විවේක කාලය) ආරක්ෂා කරන බැවිනි. 2 වන පිළිතුර වැරදියි, මන්ද එයින් පමණක් Fatigue කළමනාකරණය සහතික නොවන අතර නීතිමය අවශ්‍යතා සම්පූර්ණ නොවේ. 3 සහ 4 පිළිතුරු අලුත්වැඩියාව සහ නඩත්තුව ගැන සඳහන් කළත්, ඒවා Watchkeeping සහ Crew welfare සඳහා වන ප්‍රධාන අවශ්‍යතාවය ආවරණය නොකරයි.",
         "tags": [
             {
                 "sub_category": "Controls",
@@ -1777,7 +1777,7 @@
         ],
         "correct_answer": "One Henry.",
         "images": [],
-        "explanation": "",
+        "explanation": "Inductance (L) යනු විද්‍යුත් පරිපථයක ධාරාවේ වෙනසක් සිදුවන විට EMF එකක් ජනනය කිරීමට ඇති හැකියාවයි. මෙහිදී 1 Ampere per second අනුපාතයකින් ධාරාව වෙනස් වන විට 1 Volt ක EMF එකක් ජනනය වේ නම්, එම Inductance අගය 1 Henry ලෙස අර්ථ දැක්වේ. අනෙකුත් විකල්ප සලකා බලමු: 1. One milliHenry යනු Henry එකකින් දහසෙන් පංගුවකි. 2. One Reactance Unit යනු වැරදි යෙදුමකි, Reactance මනින්නේ Ohms වලිනි. 3. One Farad යනු Capacitance මනින ඒකකයයි. එබැවින් නිවැරදි පිළිතුර One Henry වේ.",
         "tags": [
             {
                 "sub_category": "Electrical",
@@ -1801,7 +1801,7 @@
         ],
         "correct_answer": "Continuously monitor remote gauge readings and confirm with regular sounding of the fuel tanks.",
         "images": [],
-        "explanation": "",
+        "explanation": "Bunkering මෙහෙයුමකදී තෙල් පිටාර ගැලීම (oil spill) වැළැක්වීම සඳහා ආරක්ෂිතම ක්‍රමය වන්නේ Remote gauge readings නිරන්තරයෙන් නිරීක්ෂණය කිරීම සහ එය Manual sounding මගින් තහවුරු කර ගැනීමයි. Remote gauge පද්ධතිවල දෝෂ ඇති විය හැකි බැවින් (sensor errors), ඒවා පමණක් විශ්වාස කිරීම අනතුරුදායකය. එසේම, සියලුම tank lids විවෘත කර තැබීම (Option 3) මගින් තෙල් වාෂ්ප පිටවීම සහ ගින්නක් ඇතිවීමේ අවදානම වැඩි කරයි. Loading rate මත පමණක් පදනම් වීම (Option 4) ද වැරදිය, මන්ද එය සැබෑ ටැංකි මට්ටම (actual tank level) නොපෙන්වන බැවිනි. එබැවින්, තාක්ෂණික උපකරණ සහ භෞතික මිනුම් (physical sounding) යන දෙකම එකිනෙක සංසන්දනය කරමින් කටයුතු කිරීම වඩාත් ආරක්ෂිත වේ.",
         "tags": [
             {
                 "sub_category": "Bunkering",
@@ -1825,7 +1825,7 @@
         ],
         "correct_answer": "Identify the hazards that may exist which may affect personnel involved with the maintenance routines.",
         "images": [],
-        "explanation": "",
+        "explanation": "Risk Assessment ක්‍රියාවලියේදී අනුගමනය කළ යුතු මූලික පියවර වන්නේ Hazard Identification වේ. පළමුව Hazard එකක් හඳුනා නොගෙන, එයින් සිදුවිය හැකි හානිය හෝ ගත යුතු Safety precautions තීරණය කළ නොහැක. එබැවින්, 'Identify the hazards' යනු නිවැරදි පිළිතුරයි. අනෙක් පිළිතුරු විශ්ලේෂණය කළහොත්: 'Identify who may be harmed' යනු දෙවන පියවර වන අතර, 'Identify safety precautions' යනු Hazard එක හඳුනාගෙන අවදානම තක්සේරු කිරීමෙන් පසු ගත යුතු පියවරකි. 'Cost' යනු Risk Assessment ක්‍රියාවලියේ මූලික පියවරක් නොවේ. එබැවින්, Hazard හඳුනාගැනීම (Hazard Identification) සෑම විටම පළමු පියවර විය යුතුය.",
         "tags": [
             {
                 "sub_category": "Safety",
@@ -1869,7 +1869,7 @@
         ],
         "correct_answer": "Damaged bowl seal.",
         "images": [],
-        "explanation": "",
+        "explanation": "Fuel oil purifier එකක් start කළ වහාම sludge outlet එකෙන් තෙල් පිටවීම (oil leakage) සිදුවන්නේ නම්, එයට ප්‍රධානම හේතුව වන්නේ bowl එකේ ඇති seal එකට හානි සිදුවීමයි (Damaged bowl seal). මෙහිදී සිදුවන්නේ bowl එකේ අභ්‍යන්තර පීඩනය පවත්වා ගැනීමට නොහැකි වීම නිසා තෙල් sludge outlet එක හරහා පිටතට කාන්දු වීමයි. අනෙක් විකල්පයන් විශ්ලේෂණය කළහොත්: 1) Incorrect gravity disc එකක් තිබීමෙන් සාමාන්‍යයෙන් සිදුවන්නේ තෙල් පිරිසිදු කිරීමේ කාර්යක්ෂමතාව අඩුවීම හෝ water outlet එකෙන් තෙල් පිටවීමයි. 2) Excessive back pressure එකක් තිබුණහොත් එයින් පිරිසිදු තෙල් පිටවන මාර්ගයට බාධා ඇති වේ. 3) Insufficient seal water තිබුණහොත් තෙල් කෙලින්ම water outlet එකෙන් පිටවීමට ඉඩ ඇත. එබැවින්, sludge outlet එකෙන් තෙල් කාන්දු වීමට වඩාත්ම ඉඩ ඇති හේතුව වන්නේ Damaged bowl seal වීමයි.",
         "tags": [
             {
                 "sub_category": "Fuels",
@@ -1893,7 +1893,7 @@
         ],
         "correct_answer": "Slightly superheated low pressure gas.",
         "images": [],
-        "explanation": "",
+        "explanation": "Vapour-compression refrigeration system එකක evaporator එකෙන් පිටවන refrigerant එකේ තත්ත්වය නිවැරදිව පවත්වා ගැනීම ඉතා වැදගත් වේ. 1. 'Cold liquid at high pressure' යනු condenser එකෙන් පසු සහ expansion valve එකට පෙර පවතින තත්ත්වයයි. 2. 'Wet vapour at high pressure' යනු වැරදි තත්ත්වයකි, මන්ද evaporator එකේදී පීඩනය අඩු වන බැවිනි. 3. 'Sub-cooled liquid at low pressure' යනු තාපගතිකව කළ නොහැකි තත්ත්වයකි. නිවැරදි පිළිතුර වන්නේ 'Slightly superheated low pressure gas' ය. මෙයට හේතුව වන්නේ compressor එකට ද්‍රව අංශු (liquid droplets) ඇතුළු වීම වැළැක්වීම සඳහා evaporator එකේ අවසාන කොටසේදී refrigerant එක සම්පූර්ණයෙන්ම වාෂ්ප වී, සුළු වශයෙන් 'Superheat' වීම අත්‍යවශ්‍ය වීමයි. මෙය system එකේ කාර්යක්ෂමතාව සහ compressor එකේ ආරක්ෂාව සඳහා අත්‍යවශ්‍ය වේ.",
         "tags": [
             {
                 "sub_category": "HVAC",
@@ -1913,7 +1913,7 @@
         ],
         "correct_answer": "Scavenge ports of the one cylinder are dirty.",
         "images": [],
-        "explanation": "",
+        "explanation": "මෙම ප්‍රශ්නයට නිවැරදි පිළිතුර වන්නේ 'Scavenge ports of the one cylinder are dirty' යන්නයි. මෙයට හේතුව වන්නේ Scavenge ports අපිරිසිදු වීම නිසා එම සිලින්ඩරයට ලැබෙන Scavenging air ප්‍රමාණය අඩු වීමයි. මෙහිදී Combustion සඳහා අවශ්‍ය වාතය ප්‍රමාණවත් නොවීම නිසා ඉන්ධන සම්පූර්ණයෙන් දහනය නොවන අතර, එමගින් Exhaust temperature ඉහළ යයි. අනෙක් විකල්ප විශ්ලේෂණය කරමු: 1. 'Nozzle ring of turbocharger fouled' වීම නිසා මුළු එන්ජිමේම Exhaust temperature ඉහළ යයි, එක් සිලින්ඩරයක පමණක් නොවේ. 2. 'Compression pressure too low' වීම සාමාන්‍යයෙන් සිදුවන්නේ Piston rings හෝ Liner ගෙවී යාමෙනි, මෙය Exhaust temperature අඩු වීමට හේතු විය හැක. 3. 'Speed governor defective' වීම මුළු එන්ජිමේම වේගය සහ ක්‍රියාකාරිත්වයට බලපාන අතර එය එක් සිලින්ඩරයකට පමණක් සීමා වූ ගැටලුවක් නොවේ.",
         "tags": [
             {
                 "sub_category": "Engine",
@@ -1933,7 +1933,7 @@
         ],
         "correct_answer": "The heavy fuel is unstable leading to excessive high viscosity sludge formation.",
         "images": [],
-        "explanation": "",
+        "explanation": "මෙම ගැටලුව විශ්ලේෂණය කිරීමේදී, Purifier එකේ bowl එක වටා sludge එක එකතු වී එය bowl එකේ භ්‍රමණයට (rotation) බාධා කිරීම නිසා purifier එකේ වේගය අඩු වී (running slowly) alarm එක ක්‍රියාත්මක වී ඇත. අනෙක් විකල්පයන් සලකා බලමු: 1. 'Clutch slipping' නිසා වේගය අඩු විය හැකි වුවත්, එයින් casing එක තුළ අධික ලෙස sludge එකතු වීමක් සිදු නොවේ. 2. 'Bowl not closed properly' වුවහොත්, oil එක sludge outlet එක හරහා පිටතට කාන්දු වේ, නමුත් මෙහිදී sludge එක bowl එකේ ගැටෙන තරමට එකතු වී ඇත. 3. 'Excessive throughput' නිසා purifier එකේ කාර්යක්ෂමතාව අඩු විය හැකි නමුත්, මෙතරම් විශාල sludge ප්‍රමාණයක් එකතු වීමට ප්‍රධාන හේතුව වන්නේ ඉන්ධනවල ඇති අස්ථායී බව (fuel instability) නිසා අධික දුස්ස්‍රාවීතාවයකින් (high viscosity) යුත් sludge එකක් සෑදීමයි. මෙය bowl එකේ පිටත කොටසෙහි තැන්පත් වී භ්‍රමණයට බාධා කරයි. එබැවින්, Heavy fuel unstable වීම මගින් අධික sludge සෑදීම වඩාත් නිවැරදි හේතුව වේ.",
         "tags": [
             {
                 "sub_category": "Fuels",
@@ -1957,7 +1957,7 @@
         ],
         "correct_answer": "With + to Anode a reading of about 0,6 V and with probes reversed a reading of O/L.",
         "images": [],
-        "explanation": "",
+        "explanation": "Diode එකක් පරීක්ෂා කිරීමේදී Digital Multi-Meter එක 'Diode Test' mode එකට සැකසිය යුතුය. Diode එකක් නිවැරදිව ක්‍රියා කරන්නේ නම්, Forward Bias අවස්ථාවේදී (Positive probe එක Anode එකට සහ Negative probe එක Cathode එකට සම්බන්ධ කළ විට) 0.5V සිට 0.7V දක්වා වෝල්ටීයතා අගයක් පෙන්විය යුතුය. Reverse Bias අවස්ථාවේදී (Probes මාරු කළ විට) එය විවෘත පරිපථයක් (Open circuit) ලෙස ක්‍රියා කරන බැවින් Multi-Meter එකේ 'O/L' (Over Limit) හෝ infinity ලෙස දර්ශනය විය යුතුය. අනෙක් පිළිතුරු වැරදි වන්නේ Cathode එකට Positive සම්බන්ධ කිරීමෙන් Reverse bias තත්ත්වයක් ඇති වන අතර, එහිදී 0.6V අගයක් නොපෙන්වන බැවිනි. එසේම 'low ohms' යනු Diode එකක් පරීක්ෂා කිරීමේදී භාවිතා වන නිවැරදි මිනුම් ඒකකය නොවේ.",
         "tags": [
             {
                 "sub_category": "Electronics",
@@ -1977,7 +1977,7 @@
         ],
         "correct_answer": "ISM procedures in the ship’s safety manual.",
         "images": [],
-        "explanation": "",
+        "explanation": "මෙම ගැටලුව ප්‍රධාන එන්ජිමේ නඩත්තු කටයුතු වලදී ඇතිවන ආරක්ෂිත අවදානමක් (Hazard) පිළිබඳව වේ. නිෂ්පාදකයාගේ උපදෙස් (Manufacturer's instructions) අදාළ නොවන විට හෝ අනතුරුදායක වන විට, එම කාර්යය සඳහා නව ආරක්ෂිත ක්‍රමවේදයක් (Safe working procedure) සකස් කළ යුතුය. ISM Code යටතේ, මෙවැනි අවදානම් සහගත තත්ත්වයන් කළමනාකරණය කිරීම සඳහා නැවේ Safety Management System (SMS) තුළ නිවැරදි ක්‍රියාපටිපාටියක් ඇතුළත් කිරීම අනිවාර්ය වේ. අනෙක් විකල්පයන් වන Safety officer's report, Planned maintenance schedule හෝ Engine room log book යනු තොරතුරු වාර්තා කිරීම සඳහා පමණක් වන අතර, අනාගතයේදී එම කාර්යය ආරක්ෂිතව සිදු කිරීම සඳහා ස්ථිර ක්‍රියාපටිපාටියක් (Procedure) වෙනස් කළ යුත්තේ ISM manual එක තුළය. එබැවින් මෙය වඩාත් වැදගත් වේ.",
         "tags": [
             {
                 "sub_category": "Maintenance",
@@ -2017,7 +2017,7 @@
         ],
         "correct_answer": "Pressurise the hydrophore tank with air to approximately 50 % of the pump cut out pressure and then allow the pump to fill the tank until it cuts out.",
         "images": [],
-        "explanation": "",
+        "explanation": "Hydrophore tank එකක ක්‍රියාකාරිත්වය රඳා පවතින්නේ Boyle's Law මත පදනම්ව වාතය සම්පීඩනය (Air compression) කිරීම මතයි. පද්ධතියේ නිවැරදි පීඩන පාලනය (Pressure control) සඳහා, ජලය පිරවීමට පෙර ටැංකිය තුළ වායු කුෂන් (Air cushion) එකක් තිබිය යුතුය. 1. වැරදි පිළිතුරු විශ්ලේෂණය: ටැංකිය සම්පූර්ණයෙන්ම ජලයෙන් පිරවීම (Option 3) හෝ 75%ක් පිරවීම (Option 2) මගින් වාතය සඳහා ප්‍රමාණවත් ඉඩක් නොලැබේ. මෙවැනි අවස්ථාවකදී ජලය සම්පීඩනය කළ නොහැකි (Incompressible) නිසා, පද්ධතියේ පීඩනය ඉතා වේගයෙන් ඉහළ ගොස් pump එක නිතරම start/stop වීමට (Short cycling) හේතු වේ. 2. නිවැරදි ක්‍රමය: ටැංකියට මුලින්ම වාතය (Air) පිරවීමෙන් පසුව, pump එක මගින් ජලය ඇතුළු කරන විට වාතය සම්පීඩනය වී පද්ධතියේ පීඩනය පාලනය වේ. සාමාන්‍යයෙන් pump එකේ cut-out පීඩනයෙන් 50%ක් පමණ වායු පීඩනයක් මුලින් ලබා දීමෙන්, ජලය සහ වාතය අතර නිවැරදි අනුපාතයක් පවත්වා ගැනීමට හැකි වේ. මෙය pump එකේ ක්‍රියාකාරී කාලය (Duty cycle) ප්‍රශස්ත මට්ටමක තබා ගැනීමට උපකාරී වේ.",
         "tags": [
             {
                 "sub_category": "Pump",
@@ -2041,7 +2041,7 @@
         ],
         "correct_answer": "Making use of Risk Assessment as a means to improving safety.",
         "images": [],
-        "explanation": "",
+        "explanation": "නූතන ආරක්ෂණ ක්‍රමවේදයන්හි (Modern safety practice) ප්‍රධාන තේමාව වන්නේ අනතුරු සිදුවීමට පෙර ඒවා හඳුනාගෙන පාලනය කිරීමයි. මෙහිදී 'Risk Assessment' යනු ඕනෑම කාර්යයක් ආරම්භ කිරීමට පෙර එහි ඇති විය හැකි අනතුරු (Hazards) හඳුනාගෙන, එම අවදානම් (Risks) අවම කර ගැනීම සඳහා ගනු ලබන ක්‍රියාමාර්ගයයි. අනෙක් විකල්පයන් සලකා බලමු: 'Use the same practice that has been in place for some time' යනු වැරදි පිළිතුරකි, මන්ද තාක්ෂණය සහ ආරක්ෂණ ප්‍රමිතීන් නිරන්තරයෙන් වෙනස් වන බැවිනි. 'Health & Safety at Work Act' යනු නීතිමය රාමුවක් පමණක් වන අතර එය සමස්ත ආරක්ෂණ ක්‍රමවේදයේ ප්‍රධාන තේමාව නොවේ. 'Consult the chief officer before commencing work' යනු කළමනාකරණ ක්‍රියාවලියක කොටසක් පමණක් වන අතර, එයින් පමණක් ආරක්ෂාව සහතික නොවේ. එබැවින්, Risk Assessment මගින් ආරක්ෂාව වැඩිදියුණු කිරීම නූතන ආරක්ෂණ කළමනාකරණයේ (Safety Management System - SMS) මූලික පදනම වේ.",
         "tags": [
             {
                 "sub_category": "Safety",
@@ -2061,7 +2061,7 @@
         ],
         "correct_answer": "The proximity switch has dirt on the outside casing.",
         "images": [],
-        "explanation": "",
+        "explanation": "මෙම ගැටලුව විසඳීමේදී, 'erratic reading' (අක්‍රමවත් කියවීම්) ඇතිවීමට හේතුව විශ්ලේෂණය කළ යුතුය. 1) 'The shaft magnet has fallen off' හෝ 'demagnetised' වී ඇත්නම්, tachometer එකට කිසිදු සංඥාවක් (signal) නොලැබෙන අතර එය 'zero reading' පෙන්වනු ඇත. 2) 'Proximity switch is loose' නම්, එය බොහෝ විට සම්පූර්ණයෙන්ම ක්‍රියා විරහිත වීමට හෝ නිරන්තරයෙන් වැරදි කියවීම් ලබා දීමට හේතු විය හැක, නමුත් 'dirt on the outside casing' යනු සංවේදකයේ (sensor) සංවේදීතාවයට බාධා පමුණුවමින් සංඥාව අස්ථාවර කිරීමට (erratic signal) වඩාත් පොදු හේතුවයි. විශේෂයෙන්ම ලෝහමය දූවිලි (metallic dust) හෝ තෙල් මිශ්‍ර අපද්‍රව්‍ය proximity switch එක මත තැන්පත් වීමෙන් magnetic field එකට බාධා ඇති වී අක්‍රමවත් සංඥා ජනනය වේ. එබැවින්, මෙය වඩාත් තාර්කික පිළිතුර වේ.",
         "tags": [
             {
                 "sub_category": "Engine",
@@ -2085,7 +2085,7 @@
         ],
         "correct_answer": "Centrally controlled.",
         "images": [],
-        "explanation": "",
+        "explanation": "නැවක හදිසි අවස්ථාවකදී සිදුකරන සෝදිසි මෙහෙයුමක් (Search operation) සාර්ථක වීමට නම් එය 'Centrally controlled' විය යුතුය. මෙහිදී 'Bridge' හෝ 'Emergency Control Centre' මගින් මුළු මෙහෙයුමම පාලනය කිරීම අත්‍යවශ්‍ය වේ. අනෙක් විකල්පයන් වැරදි වන්නේ ඇයිද යත්: 1. 'Organized haphazardly' (අවුල් සහගතව සංවිධානය කිරීම) මගින් කාලය අපතේ යන අතර කාර්යක්ෂමතාව අඩු වේ. 2. 'Limited knowledge of the ship’s layout' ඇති පුද්ගලයින් යෙදවීමෙන් සෝදිසි කිරීම අසම්පූර්ණ වේ. 3. 'Inclusive of all personnel' යන්න සෑම විටම ප්‍රායෝගික නොවන අතර, සෝදිසි කිරීම සඳහා පුහුණු වූ සහ නිශ්චිත වගකීම් පැවරූ කණ්ඩායම් (Search teams) සිටීම වඩාත් වැදගත් වේ. එබැවින්, මධ්‍යගත පාලනයක් (Centralized control) මගින් පමණක් සෝදිසි කිරීමේදී අතපසු වීම් අවම කර ගනිමින් කාර්යක්ෂමව කටයුතු කළ හැක.",
         "tags": [
             {
                 "sub_category": "Emergency",
@@ -2105,7 +2105,7 @@
         ],
         "correct_answer": "Leaking exhaust valves.",
         "images": [],
-        "explanation": "",
+        "explanation": "Diesel engine එකක එක් cylinder එකක exhaust temperature එක ඉහළ යාමට ප්‍රධාන හේතුව වන්නේ දහන ක්‍රියාවලියේදී ඇතිවන තාපය නිසි ලෙස පාලනය නොවීමයි. Leaking exhaust valves මගින් දහනය වූ වායූන් (combustion gases) නියමිත වේලාවට පෙර පිටතට කාන්දු වීම හෝ දහන කුටීරය තුළ අසාමාන්‍ය පීඩන වෙනස්කම් ඇති කිරීම නිසා exhaust temperature එක ඉහළ යයි. අනෙක් විකල්ප සලකා බලමු: 1. Insufficient cylinder lubricating oil feed නිසා cylinder liner එකේ ඝර්ෂණය වැඩි විය හැකි නමුත් එය කෙලින්ම exhaust temperature එක ඉහළ යාමට ප්‍රධාන හේතුව නොවේ. 2. Reduced fuel delivery නිසා දහනය වන ඉන්ධන ප්‍රමාණය අඩු වන බැවින් exhaust temperature එක අඩු වේ. 3. Leaking inlet valves නිසා දහන කුටීරයට වාතය ඇතුළු වීමේදී පීඩනය අඩු වී දහනය අසම්පූර්ණ විය හැකි නමුත්, exhaust valve කාන්දුවක් තරම් සෘජුවම exhaust temperature එක ඉහළ යාමට එය බලපාන්නේ නැත. එබැවින් Leaking exhaust valves යනු වඩාත්ම නිවැරදි පිළිතුරයි.",
         "tags": [
             {
                 "sub_category": "Engine",
@@ -2125,7 +2125,7 @@
         ],
         "correct_answer": "Crankcase relief valves/doors.",
         "images": [],
-        "explanation": "",
+        "explanation": "Crankcase explosion එකකදී secondary explosion එකක් ඇතිවීම වැළැක්වීම සඳහා Crankcase relief valves/doors ඉතා වැදගත් වේ. මෙහිදී සිදුවන්නේ, පළමු පිපිරීමෙන් පසු crankcase එක තුළ ඇතිවන අධික පීඩනය (excessive pressure) මෙම relief valves මගින් වහාම පිටතට මුදා හැරීමයි. එමගින් වායුගෝලීය වාතය (atmospheric air) crankcase එක තුළට ඇතුළු වීම වළක්වන අතර, එය නැවත දැවෙන සුළු මිශ්‍රණයක් (combustible mixture) ඇතිවීම සහ secondary explosion එකක් සිදුවීම වළක්වයි. අනෙක් විකල්පයන් වන Main bearing temperature monitoring සහ Oil mist detector යනු පිපිරීමක් වීමට පෙර අනතුරු ඇඟවීම් ලබා දෙන උපකරණ මිස පිපිරීමක් සිදුවූ පසු ආරක්ෂාව සපයන ඒවා නොවේ. Crankcase extraction fan මගින් වාතය ඇදගැනීම නිසා එය පිපිරීමක් සිදුවන අවස්ථාවේදී තවදුරටත් අනතුරුදායක විය හැක.",
         "tags": [
             {
                 "sub_category": "Engine",
@@ -2149,7 +2149,7 @@
         ],
         "correct_answer": "22 Ohms.",
         "images": [],
-        "explanation": "",
+        "explanation": "මෙම ගැටලුව විසඳීම සඳහා අප Ohm's Law භාවිතා කළ යුතුය. මෙහිදී Resistance (R) සෙවීම සඳහා සූත්‍රය වන්නේ R = V / I වේ. මෙහි V යනු Voltage (220 V) වන අතර I යනු Current (10 A) වේ. එබැවින් R = 220 / 10 = 22 Ohms වේ. විකල්ප 220 Ohms යනු වැරදියි, මන්ද එය Voltage සහ Current බෙදීමෙන් ලැබෙන අගය නොවන බැවිනි. 0,1 Ohms සහ 10 Ohms යනු ද වැරදි අගයන් වේ. Power (P) භාවිතා කර සත්‍යාපනය කරන්නේ නම්, P = V^2 / R සූත්‍රය අනුව R = V^2 / P = (220 * 220) / 2200 = 48400 / 2200 = 22 Ohms ලෙස ලැබේ. එබැවින් 22 Ohms යනු නිවැරදි පිළිතුරයි.",
         "tags": [
             {
                 "sub_category": "Electrical",
@@ -2173,7 +2173,7 @@
         ],
         "correct_answer": "Every 4 months.",
         "images": [],
-        "explanation": "",
+        "explanation": "SOLAS (Safety of Life at Sea) රෙගුලාසිවලට අනුව, නැවක ඇති Davit-launched liferafts භාවිතය පිළිබඳ පුහුණුවීම් (Training) අවම වශයෙන් සෑම මාස 4කට වරක්ම සිදු කළ යුතුය. මෙයට liferaft එකක් උද්ධමනය කිරීම (Inflation) සහ හැකි සෑම විටම එය පහත් කිරීම (Lowering) ඇතුළත් වේ. අනෙකුත් විකල්ප වන මාස 3, 2 හෝ 1 යනු වැරදි කාලසීමාවන් වේ. SOLAS Chapter III, Regulation 19 හි සඳහන් පරිදි මෙම පුහුණුවීම් අනිවාර්ය වන අතර, කාර්ය මණ්ඩලයේ ආරක්ෂාව සහ හදිසි අවස්ථාවකදී ක්‍රියාත්මක වීමේ හැකියාව තහවුරු කිරීම සඳහා මෙය අත්‍යවශ්‍ය වේ.",
         "tags": [
             {
                 "sub_category": "Safety",
@@ -2197,7 +2197,7 @@
         ],
         "correct_answer": "Muster and embarkation stations shall be readily accessible from accommodation and work areas.",
         "images": [],
-        "explanation": "",
+        "explanation": "SOLAS (Safety of Life at Sea) රෙගුලාසිවලට අනුව, Muster and embarkation stations යනු හදිසි අවස්ථාවකදී කාර්ය මණ්ඩලය සහ මගීන් ඉක්මනින් රැස්විය යුතු සහ යාත්‍රාවට ගොඩවිය යුතු ස්ථාන වේ. එබැවින්, මෙම ස්ථාන Accommodation සහ Work areas වල සිට පහසුවෙන් ළඟා විය හැකි (readily accessible) ලෙස පිහිටා තිබීම අනිවාර්ය වේ. අනෙක් විකල්පයන් විශ්ලේෂණය කළහොත්: 1) Stretchers සඳහා පහසුකම් සැපයීම යනු සාමාන්‍ය අවශ්‍යතාවයක් වුවද, Muster station එකේ ප්‍රධාන SOLAS රෙගුලාසිය වන්නේ ප්‍රවේශ වීමේ පහසුවයි. 2) Muster සහ embarkation stations වෙන වෙනම තිබිය යුතු බවට රෙගුලාසියක් නොමැත; බොහෝ විට ඒවා එකම ස්ථානයක පිහිටුවීම වඩාත් කාර්යක්ෂම වේ. 3) Searchlights තිබීම වැදගත් වුවද, SOLAS රෙගුලාසිවල මූලික අවශ්‍යතාවය ලෙස දක්වා ඇත්තේ ප්‍රවේශ වීමේ පහසුවයි. එබැවින් පළමු විකල්පය නිවැරදි වේ.",
         "tags": [
             {
                 "sub_category": "Safety",
@@ -2221,7 +2221,7 @@
         ],
         "correct_answer": "Ventilation passages may be blocked and should be blown out with compressed air.",
         "images": [],
-        "explanation": "",
+        "explanation": "මෝටරයක් අධික ලෙස රත් වීමට (Overheating) ප්‍රධාන හේතුවක් වන්නේ එහි සිසිලන පද්ධතියේ (Cooling system) ඇති බාධායි. ප්‍රශ්නයේ සඳහන් පරිදි මෝටරය Overload වී නොමැති නම්, එහි Ventilation passages (වාතාශ්‍රය මාර්ග) දූවිලි හෝ කුණු නිසා අවහිර වී තිබිය හැකිය. මෙය පිරිසිදු කිරීම සඳහා Compressed air භාවිතා කිරීම වඩාත් සුදුසුම ක්‍රමයයි. අනෙක් පිළිතුරු විශ්ලේෂණය කරමු: 1) Brushes සහ Slip rings පරීක්ෂා කිරීම මගින් Sparking වැනි ගැටලු විසඳිය හැකි වුවත්, එය මූලිකවම Overheating සඳහා හේතුවක් නොවේ. 2) Cables මාරු කිරීම අවශ්‍ය වන්නේ Cable එකේ ධාරිතාව ප්‍රමාණවත් නොවේ නම් පමණි, නමුත් මෙය සාමාන්‍යයෙන් මෝටරයේ අභ්‍යන්තර උෂ්ණත්වය ඉහළ යාමට වඩා Cable එක රත් වීමට හේතු වේ. 3) Rotor එක මාරු කිරීම යනු ඉතා විශාල අලුත්වැඩියාවක් වන අතර, Ventilation ගැටලුවක් පවතින විට මෙය අනවශ්‍ය පියවරකි. එබැවින්, වාතාශ්‍රය මාර්ග පිරිසිදු කිරීම වඩාත් නිවැරදි සහ ප්‍රායෝගික විසඳුම වේ.",
         "tags": [
             {
                 "sub_category": "Electrical",
@@ -2245,7 +2245,7 @@
         ],
         "correct_answer": "Compensation needle valve is open too much.",
         "images": [],
-        "explanation": "",
+        "explanation": "Mechanical-hydraulic governor එකක Hunting තත්ත්වයක් ඇතිවීමට ප්‍රධාන හේතුව වන්නේ Compensation system එකේ අසමතුලිතතාවයයි. Compensation needle valve එක ඕනෑවට වඩා විවෘත වී තිබේ නම් (Open too much), governor එකේ ප්‍රතිචාරය ඉතා වේගවත් වී (Over-sensitive) එන්ජිමේ වේගය පාලනය කිරීමට නොහැකිව Hunting තත්ත්වයක් ඇතිවේ. අනෙක් අතට, needle valve එක ප්‍රමාණවත් ලෙස විවෘත වී නොමැති නම් (Not open enough), governor එකේ ප්‍රතිචාරය ඉතා මන්දගාමී (Sluggish) වේ. Speed droop සැකසුම වැරදි වීමෙන් සාමාන්‍යයෙන් සිදුවන්නේ load වෙනස්වීම් වලදී එන්ජිමේ වේගය ස්ථාවරව පවත්වා ගැනීමට නොහැකි වීම මිස, මෙවැනි දරුණු Hunting තත්ත්වයක් නොවේ. එබැවින්, නිවැරදි පිළිතුර වන්නේ Compensation needle valve එක ඕනෑවට වඩා විවෘත වී තිබීමයි.",
         "tags": [
             {
                 "sub_category": "Engine",
@@ -2282,11 +2282,25 @@
             "Discreetly inform someone of your suspicions so he or she can get assistance.",
             "Take the package and open it.",
             "Confront the individual and demand that he open the package.",
-            "Call for help on the radio."
+            "Call for help on the radio.",
+            "correct_answer",
+            "Discreetly inform someone of your suspicions so he or she can get assistance.",
+            "images",
+            "explanation",
+            "මෙම තත්ත්වයේදී ආරක්ෂාව (Security) ප්‍රධාන වේ. ඔබ සැක සහිත පුද්ගලයෙකු සමඟ සිටින විට, අනවශ්‍ය ලෙස ගැටුම් ඇති කර ගැනීම හෝ තනිවම ක්‍රියා කිරීම අනතුරුදායක විය හැකිය. 'Take the package and open it' හෝ 'Confront the individual' යන ක්‍රියාමාර්ග මගින් එම පුද්ගලයා කලබල විය හැකි අතර, එය භෞතික තර්ජනයකට හෝ සාක්ෂි විනාශ වීමට හේතු විය හැක. 'Call for help on the radio' යනු හදිසි අවස්ථාවකදී කළ හැකි වුවත්, සැකයක් පවතින අවස්ථාවකදී වඩාත් සුදුසු වන්නේ 'Discreetly inform someone' ය. මෙය මගින් අදාළ ආරක්ෂක නිලධාරීන්ට හෝ කණ්ඩායමට රහසිගතව දැනුම් දී, ඔවුන්ගේ සහාය ඇතිව ක්‍රමානුකූලව සහ ආරක්ෂිතව පරීක්ෂණයක් සිදු කිරීමට අවස්ථාව ලැබේ. එබැවින්, ආරක්ෂාව සහ වෘත්තීයභාවය අනුව පළමු පිළිතුර නිවැරදි වේ.",
+            "tags",
+            "sub_category",
+            "Security",
+            "main_category",
+            "Safety, Emergency Response & Lifesaving",
+            "sub_category",
+            "Legislation",
+            "main_category",
+            "Maritime Regulations, Law & Compliance"
         ],
         "correct_answer": "Discreetly inform someone of your suspicions so he or she can get assistance.",
         "images": [],
-        "explanation": "",
+        "explanation": "මෙම තත්ත්වයේදී ආරක්ෂාව (Security) ප්‍රධාන වේ. ඔබ සැක සහිත පුද්ගලයෙකු සමඟ සිටින විට, අනවශ්‍ය ලෙස ගැටුම් ඇති කර ගැනීම හෝ තනිවම ක්‍රියා කිරීම අනතුරුදායක විය හැකිය. 'Take the package and open it' හෝ 'Confront the individual' යන ක්‍රියාමාර්ග මගින් එම පුද්ගලයා කලබල විය හැකි අතර, එය භෞතික තර්ජනයකට හෝ සාක්ෂි විනාශ වීමට හේතු විය හැක. 'Call for help on the radio' යනු හදිසි අවස්ථාවකදී කළ හැකි වුවත්, සැකයක් පවතින අවස්ථාවකදී වඩාත් සුදුසු වන්නේ 'Discreetly inform someone' ය. මෙය මගින් අදාළ ආරක්ෂක නිලධාරීන්ට හෝ කණ්ඩායමට රහසිගතව දැනුම් දී, ඔවුන්ගේ සහාය ඇතිව ක්‍රමානුකූලව සහ ආරක්ෂිතව පරීක්ෂණයක් සිදු කිරීමට අවස්ථාව ලැබේ. එබැවින්, ආරක්ෂාව සහ වෘත්තීයභාවය අනුව පළමු පිළිතුර නිවැරදි වේ.",
         "tags": [
             {
                 "sub_category": "Security",
@@ -2327,7 +2341,7 @@
         ],
         "correct_answer": "Between 0,1 and 1,0 ohm.",
         "images": [],
-        "explanation": "",
+        "explanation": "මෙම ගැටලුව විසඳීම සඳහා අපට Resistance (R) සූත්‍රය R = ρ × (L / A) භාවිතා කළ හැක. මෙහි ρ යනු තඹ (Copper) සඳහා ආසන්න වශයෙන් 1.72 × 10^-8 Ωm වේ. දිග (L) = 100 m සහ හරස්කඩ වර්ගඵලය (A) = 25 mm² = 25 × 10^-6 m² වේ. එවිට R = (1.72 × 10^-8) × (100 / 25 × 10^-6) = 0.0688 ohms වේ. මෙය 0.1 සහ 1.0 ohm පරාසයට ආසන්න අගයකි. අනෙක් විකල්පයන් සලකා බලමු: 'Greater than 1 M ohms' සහ 'Between 0,1 and 1,0 M ohm' යනු Insulation Resistance පරීක්ෂාවකදී ලැබෙන අගයන් මිස Continuity පරීක්ෂාවකදී නොවේ. 'Micro ohm' පරාසය ඉතා කුඩා වන අතර සාමාන්‍ය මල්ටිමීටරයකින් මැනිය නොහැක. එබැවින් 0.1 - 1.0 ohm පරාසය නිවැරදි වේ.",
         "tags": [
             {
                 "sub_category": "Electrical",
@@ -2351,7 +2365,7 @@
         ],
         "correct_answer": "To ensure that cabins and common spaces are maintained in a clean, safe and hygienic condition.",
         "images": [],
-        "explanation": "",
+        "explanation": "නැවක accommodation areas වල සතිපතා හෝ නිතිපතා පරීක්ෂා කිරීම් (routine rounds) සිදු කිරීමේ ප්‍රධාන අරමුණ වන්නේ නැවේ සනීපාරක්ෂාව (hygiene) සහ ආරක්ෂාව (safety) පවත්වා ගැනීමයි. පළමු පිළිතුර නිවැරදි වන්නේ, cabins සහ common spaces පිරිසිදුව සහ ආරක්ෂිතව තබා ගැනීමෙන් කාර්ය මණ්ඩලයේ සෞඛ්‍යය සහ යහපැවැත්ම (well-being) තහවුරු වන බැවිනි. අනෙක් පිළිතුරු සලකා බලමු: 'Contraband goods' සෙවීම හෝ 'alcohol' පරීක්ෂා කිරීම ප්‍රධාන අරමුණක් නොවේ, ඒවා විශේෂ අවස්ථාවලදී පමණක් සිදු කෙරෙන දේවල් වේ. 'Flag state' අවශ්‍යතාවයක් ලෙස මෙය සඳහන් වුවද, ප්‍රධානතම මෙහෙයුම් අරමුණ වන්නේ නැවේ පිරිසිදුකම සහ ආරක්ෂාව තහවුරු කිරීමයි. එබැවින්, පළමු පිළිතුර වඩාත් නිවැරදි සහ තාර්කික වේ.",
         "tags": [
             {
                 "sub_category": "Safety",
@@ -2375,7 +2389,7 @@
         ],
         "correct_answer": "95-98 °C.",
         "images": [],
-        "explanation": "",
+        "explanation": "Marine diesel engine වල Jacket cooling water පද්ධතියේ සාමාන්‍ය ක්‍රියාකාරී උෂ්ණත්වය (Normal operating temperature) සාමාන්‍යයෙන් 80-85 °C පමණ වේ. එබැවින් 75-78 °C සහ 85-88 °C යනු සාමාන්‍ය ක්‍රියාකාරී පරාසයන් මිස Shutdown උෂ්ණත්වයන් නොවේ. 105-108 °C යනු ඉතා ඉහළ අගයක් වන අතර එය එන්ජිමකට හානි විය හැකි මට්ටමකි. සාමාන්‍යයෙන් එන්ජින් නිෂ්පාදකයින් විසින් Jacket cooling water outlet උෂ්ණත්වය 95-98 °C දක්වා ඉහළ යාම Slow down හෝ Shutdown සඳහා සීමාව (Alarm/Trip set point) ලෙස නියම කර ඇත. මෙයට හේතුව වන්නේ ජලය තාපාංකයට (Boiling point) ආසන්න වීම නිසා සිසිලන පද්ධතියේ වාෂ්ප බුබුළු (Steam pockets) ඇති වී සිසිලනය අඩාල වීම වැළැක්වීමයි.",
         "tags": [
             {
                 "sub_category": "Engine",
@@ -2416,7 +2430,7 @@
         ],
         "correct_answer": "Air filter to turbocharger fouled or obstructed.",
         "images": [],
-        "explanation": "",
+        "explanation": "ඩීසල් එන්ජිමක Charge air manifold පීඩනය පහත වැටීමට ප්‍රධාන හේතුව වන්නේ Turbocharger වෙත ඇතුළු වන වාතයේ ප්‍රමාණය අඩුවීමයි. 1. 'Air filter to turbocharger fouled or obstructed' යනු නිවැරදි පිළිතුරයි. මන්ද, වායු පෙරහන (Air filter) අවහිර වූ විට Turbocharger වෙත ලැබෙන වායු ප්‍රමාණය අඩු වන අතර, එමගින් සම්පීඩනය වන වාතයේ පීඩනය (Boost pressure) පහත වැටේ. 2. 'Charge air cooler fouled on waterside' යනු වැරදි පිළිතුරකි. මෙහිදී සිදුවන්නේ වාතය සිසිල් කිරීමේ කාර්යක්ෂමතාව අඩුවීම මිස පීඩනය පහත වැටීම නොවේ. 3. 'Increased engine load' යනු වැරදි පිළිතුරකි. එන්ජින් බර වැඩි වූ විට සාමාන්‍යයෙන් Turbocharger වේගය වැඩි වී පීඩනය ඉහළ යා යුතුය. 4. 'Air passageways or ports to the engine cylinders partly blocked' යනු වැරදි පිළිතුරකි. මෙවැනි අවස්ථාවකදී වාතය ගමන් කිරීමට බාධාවක් ඇති බැවින් Manifold පීඩනය ඉහළ යාමට (Back pressure) ඉඩ ඇත. එබැවින්, වායු සැපයුම් මාර්ගයේ ආරම්භයේදීම සිදුවන අවහිරයක් පීඩනය පහත වැටීමට ප්‍රධානතම හේතුව වේ.",
         "tags": [
             {
                 "sub_category": "Engine",

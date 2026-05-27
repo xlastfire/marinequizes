@@ -4497,7 +4497,7 @@
         "images": [
             "https://i.ibb.co/0RxkdNhy/scheme.jpg"
         ],
-        "explanation": "",
+        "explanation": "Instrumentation ක්ෂේත්‍රයේදී I/P Transducer එකක් යනු 'Current to Pressure' පරිවර්තකයකි. මෙහි 'I' යන්නෙන් Electric Current (සාමාන්‍යයෙන් 4-20mA) ද, 'P' යන්නෙන් Pneumatic Pressure (සාමාන්‍යයෙන් 3-15 psi) ද නිරූපණය වේ. පළමු පිළිතුර නිවැරදි වන්නේ එය විද්‍යුත් ධාරාවක් සමානුපාතික වායු පීඩනයක් බවට පත් කරන බැවිනි. දෙවන පිළිතුර වැරදියි, මන්ද එය සංඥාවක් Invert කිරීමක් නොවන බැවිනි. තුන්වන පිළිතුර වැරදියි, මන්ද පීඩනය විද්‍යුත් සංඥාවක් බවට පත් කරන්නේ P/I Transducer එකක් මගිනි. හතරවන පිළිතුර වැරදියි, මන්ද එය පීඩනය වැඩි කරන Booster එකක් නොවන බැවිනි.",
         "tags": [
             {
                 "sub_category": "Controls",
