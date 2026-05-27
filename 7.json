@@ -31,11 +31,11 @@
         "explanation": "නල පද්ධතියක ෆ්ලැන්ජ් (Flanges) එකිනෙකට නොගැලපෙන විට, ඒවා බලහත්කාරයෙන් බෝල්ට් මගින් ඇද තද කිරීම නලයට දැඩි ආතතියක් (Stress) ඇති කරයි. නිවැරදි ක්‍රියා පටිපාටිය වන්නේ අසල ඇති අනෙකුත් නල පද්ධති වල බෝල්ට් ලිහිල් කර (Slacken off), නළය නිසි ලෙස පෙළගැස්වීමයි. ඉන්පසුව බ්‍රැකට් (Brackets) අවශ්‍ය පරිදි සකස් කළ යුතුය. ක්‍රෝබාරයක් (Crowbar) භාවිතා කර බලයෙන් පෙළගැස්වීමෙන් පසුව නළය කැඩී යාමට හෝ කාන්දු වීමට ඉඩ ඇති බැවින් එය නොකළ යුතුය.",
         "tags": [
             {
-                "sub_category": "Piping Systems",
+                "sub_category": "Piping",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             },
             {
-                "sub_category": "maintenance",
+                "sub_category": "Maintenance",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             }
         ]
@@ -55,11 +55,11 @@
         "explanation": "නැවක කෙටුම්පත් සලකුණු (draught marks) ඉදිරි ලම්බකයට (forward perpendicular) පසුපසින් (abaft) පිහිටා ඇති විට සහ නැව පසුපසට බරව (trimmed by the stern) පවතින විට, සැබෑ ඉදිරි කෙටුම්පත ලබා ගැනීමට ගණනය කරන ලද නිවැරදි කිරීමේ සාධකය (correction factor) කියවීමෙන් අඩු කළ යුතුය. මෙහිදී 8.50 m - 0.0242 m = 8.4758 m ලෙස ලැබේ. අනෙක් පිළිතුරු වැරදි වන්නේ: 8.5242 m යනු එකතු කිරීමෙන් ලැබෙන අගයයි (මෙය වැරදියි), 8.5484 m යනු වැරදි ගණිතමය ක්‍රියාවලියකි, සහ 8.4516 m යනු වැරදි අඩු කිරීමකි.",
         "tags": [
             {
-                "sub_category": "stability",
+                "sub_category": "Stability",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             },
             {
-                "sub_category": "naval architecture",
+                "sub_category": "Stability",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             }
         ]
@@ -96,11 +96,11 @@
         "explanation": "නැව්වලින් බැහැර කරන අපද්‍රව්‍ය (ගැලී අපද්‍රව්‍ය ඇතුළුව) පාලනය කරනු ලබන්නේ MARPOL 73/78 සම්මුතියේ V වන උපග්‍රන්ථය (Annex V) මගිනි. මෙය මුහුදු දූෂණය වැළැක්වීම සඳහා වූ ජාත්‍යන්තර නීති මාලාවකි. අනෙක් විකල්ප වැරදි වන්නේ: ISPS Code යනු නැව් සහ වරාය පහසුකම්වල ආරක්ෂාව (Security) සම්බන්ධ නීති මාලාවකි. SOLAS 1974 යනු නැව්වල ජීවිත ආරක්ෂාව (Safety of Life at Sea) සම්බන්ධ නීති මාලාවකි. 'The Industry Best Practise Guide for Restaurant Management' යනු කිසිදු ජාත්‍යන්තර නාවික නීති පද්ධතියක් නොවන අතර එය සාමාන්‍ය ආපනශාලා කළමනාකරණය සඳහා වූ මාර්ගෝපදේශයකි.",
         "tags": [
             {
-                "sub_category": "marpol",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             },
             {
-                "sub_category": "regulations",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             }
         ]
@@ -188,11 +188,11 @@
         "explanation": "SOLAS රෙගුලාසිවලට අනුව, ජීවිතාරක්ෂක කබායක (Lifejacket) අනිවාර්යයෙන්ම තිබිය යුතු දේ වන්නේ විසිල් එකක් (whistle), ආලෝකයක් (light) සහ පරාවර්තක පටි (retro-reflective material) වේ. දුම් සංඥා (smoke signals) ජීවිතාරක්ෂක කබායක සවි කරනු නොලැබේ. එබැවින් පළමු පිළිතුර වැරදි ප්‍රකාශයකි. අනෙක් පිළිතුරු තුනම SOLAS රෙගුලාසිවලට අනුකූල වේ: Ro-ro මගී නෞකා සඳහා විශේෂිත ජීවිතාරක්ෂක බෝයි (lifebuoys) අවශ්‍යතා පවතී, සියලුම කබා සඳහා පරාවර්තක පටි, විසිල් සහ ආලෝකය අනිවාර්ය වේ, සහ අමතර 5% කබා පහසුවෙන් දැකගත හැකි ස්ථානවල තැබිය යුතුය.",
         "tags": [
             {
-                "sub_category": "SOLAS",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             },
             {
-                "sub_category": "LSA",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -212,11 +212,11 @@
         "explanation": "LSA (Life Saving Appliance) කේතයට අනුව, රොකට් පැරෂුට් ෆ්ලෙයාර් (Rocket Parachute Flare) එකක් අවම වශයෙන් මීටර් 180ක උසකට ළඟා විය යුතුය. මෙය හදිසි අවස්ථාවකදී ගලවා ගැනීමේ කණ්ඩායම්වලට දෘශ්‍ය සංඥාවක් ලබා දීම සඳහා අත්‍යවශ්‍ය වේ. අනෙක් විකල්ප වැරදි වන්නේ: මීටර් 40 යනු සාමාන්‍ය අත් අල්ලාගෙන පත්තු කරන ෆ්ලෙයාර් (Hand flare) සඳහා ප්‍රමාණවත් උසක් නොවන අතර, මීටර් 300 සහ 450 යන අගයන් SOLAS රෙගුලාසිවල දක්වා ඇති අවම ප්‍රමිතියට වඩා වැඩි අගයන් වේ.",
         "tags": [
             {
-                "sub_category": "LSA",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "Safety Equipment",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -236,11 +236,11 @@
         "explanation": "නාවික නීතියට අනුව, නැවක සේවය කරන කාර්ය මණ්ඩල සාමාජිකයෙකුට නැව තුළදී බරපතල අනතුරක් සිදුවී, පසුව ගොඩබිම රෝහලකදී මියගියහොත්, එම සිදුවීම සම්බන්ධයෙන් නාවික විමර්ශනයක් (Maritime Inquiry) පැවැත්වීම නැව් ප්‍රධානියාගේ (Master) වගකීමකි. මරණය නැව තුළදී සිදු නොවූවත්, අනතුර සිදුවූයේ නැව තුළදී බැවින් මෙම විමර්ශනය අනිවාර්ය වේ. අනෙක් පිළිතුරු වැරදි වන්නේ ඒවා මගින් විමර්ශනය සඳහා පවතින නීතිමය වගකීමේ විෂය පථය සීමා කරන බැවිනි. 'ඔව්, ඔහු වැඩ කරමින් සිටියේ නම් පමණි' යන්න වැරදියි, මන්ද අනතුරක් සිදුවූයේ ඕනෑම අවස්ථාවක වුවද විමර්ශනයක් අවශ්‍ය විය හැකි බැවිනි. 'ඔව්, මාරාන්තික ප්‍රතිඵලය නිසා පමණි' යන්න ප්‍රමාණවත් නොවේ, මන්ද මරණයට හේතු වූ අනතුරේ ස්වභාවය සහ එය නැව තුළ සිදුවීම විමර්ශනයට මූලික හේතුව වන බැවිනි. 'නැත' යන්න වැරදියි, මන්ද නීතිමය වශයෙන් මෙවැනි සිදුවීම් වාර්තා කිරීම සහ විමර්ශනය කිරීම අනිවාර්ය වන බැවිනි.",
         "tags": [
             {
-                "sub_category": "regulations",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             },
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -277,11 +277,11 @@
         "explanation": "සංවෘත අවකාශයක (enclosed space) වාතයේ ගුණාත්මකභාවය පිළිබඳ සැකයක් පවතී නම්, ආරක්ෂිතව ඇතුළු වීමට පෙර වායු පරීක්ෂණයක් (Atmospheric testing) සිදු කිරීම අනිවාර්ය වේ. ඔක්සිජන් මට්ටම 21% ක් ලෙස පැවතීම සහ කාබන් මොනොක්සයිඩ් වැනි විෂ වායු නියමිත සීමාවට වඩා (50 ppm ට අඩු) පහළින් පැවතීම ජීවිත ආරක්ෂාව සඳහා අත්‍යවශ්‍ය වේ. අනෙක් පිළිතුරු වැරදි වන්නේ: ෆිල්ටර් මාස්ක් මගින් ඔක්සිජන් හිඟයක් හෝ විෂ වායු සාන්ද්‍රණයක් පවතින විට ප්‍රමාණවත් ආරක්ෂාවක් නොලැබේ. රෝ-රෝ (Ro-ro) තට්ටු වාතාශ්‍රය කිරීම හොඳ පුරුද්දක් වුවද, එය පමණක් වායු පරීක්ෂණයකට ආදේශකයක් නොවේ. දුනු සහ පසුපස දොරවල් විවෘත කිරීමෙන් පමණක් අවකාශය තුළ වාතය ආරක්ෂිත බව සහතික කළ නොහැක.",
         "tags": [
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "Enclosed Space Entry",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -335,7 +335,7 @@
         "explanation": "COLREGs (ජාත්‍යන්තර නාවික රෙගුලාසි) වලට අනුව, සීමිත දෘශ්‍යතාවයකදී (Restricted visibility) මිනිත්තු දෙකක කාල පරතරයකින් නිකුත් කරන අඛණ්ඩව පිඹින කෙටි පිඹීම් දෙකක් (Two prolonged blasts) මගින් අදහස් වන්නේ එම යාත්‍රාව ගමන් කරමින් (Underway) පවතින නමුත්, එන්ජිම නවතා දමා ජලය හරහා කිසිදු චලනයක් නොමැතිව (Making no way through the water) පවතින බවයි. අනෙක් පිළිතුරු වැරදි වන්නේ: නැංගුරම් ලා ඇති යාත්‍රාවක් සඳහා නිකුත් කරන්නේ සීනුවක් හෝ ගොං නාදයක් මිස කෙටි පිඹීම් දෙකක් නොවේ. යාත්‍රා දෙකක් තිබීම හෝ ගමන් මග වෙනස් කිරීම සඳහා මෙවැනි සංඥා භාවිතා නොවේ.",
         "tags": [
             {
-                "sub_category": "navigation",
+                "sub_category": "Navigation",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             }
         ]
@@ -372,11 +372,11 @@
         "explanation": "PVC බිම් මතුපිටක් නඩත්තු කිරීමේදී සම්පූර්ණයෙන්ම පොලිෂ් ඉවත් කර නැවත දැමීම අතර කාලයේදී, රතු පැහැති පෑඩ් එකක් භාවිතා කර මෘදු ලෙස මැෂින් ස්ක්‍රබ් කිරීම සහ වැඩි වශයෙන් ගමනාගමනය සිදුවන ස්ථානවල (උදාහරණයක් ලෙස කොරිඩෝවේ මැද කොටස) පමණක් පොලිෂ් නැවත ආලේප කිරීම වඩාත් සුදුසු ක්‍රමයයි. මෙය බිමෙහි දීප්තිය ආරක්ෂා කිරීමට සහ අනවශ්‍ය ලෙස පොලිෂ් තට්ටු ගොඩගැසීම වැළැක්වීමට උපකාරී වේ. අනෙක් පිළිතුරු වැරදි වන්නේ: 1. වියළි ස්ක්‍රබ් කිරීමෙන් බිමෙහි මතුපිට සීරීමට ලක්විය හැක. 2. මාසිකව අමතර පොලිෂ් තට්ටු දැමීමෙන් බිමෙහි පොලිෂ් ඝනකම වැඩි වී එය පසුව ඉවත් කිරීම අපහසු වේ. 3. ජලය සහ පොලිෂ් මිශ්‍රණයකින් සේදීමෙන් බිමෙහි පවතින පොලිෂ් තට්ටුව දුර්වල වී බිමෙහි දීප්තිය නැති වී යයි.",
         "tags": [
             {
-                "sub_category": "Housekeeping",
+                "sub_category": "Management",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             },
             {
-                "sub_category": "maintenance",
+                "sub_category": "Maintenance",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             }
         ]
@@ -413,11 +413,11 @@
         "explanation": "GPS පද්ධතියක් මගින් ලබාදෙන පිහිටීම (Position) කඩදාසි සිතියමකට (Paper chart) මාරු කිරීමේදී වඩාත්ම වැදගත් කරුණ වන්නේ GPS datum සහ Chart datum අතර වෙනස හඳුනාගෙන අවශ්‍ය නිවැරදි කිරීම් (Corrections) සිදු කිරීමයි. ලෝකයේ බොහෝ සිතියම් WGS 84 datum භාවිතා කළද, පැරණි සිතියම් වෙනත් datum භාවිතා කළ හැක. මෙම වෙනස නොසලකා හැරීමෙන් සැතපුම් ගණනක දෝෂයක් ඇති විය හැක. අනෙක් පිළිතුරු වැරදි වීමට හේතු: සිතියම යාවත්කාලීන කිරීම (Corrected up to date) වැදගත් වුවත්, එය datum ගැටලුවට වඩා වෙනස් කරුණකි. GPS 2D හෝ 3D ලෙස සැකසීම පිහිටීමේ නිරවද්‍යතාවයට බලපාන නමුත් datum ගැටලුව තරම් මූලික නොවේ. GPS එක සහ සිතියම එකම datum එකක තිබීම හොඳ වුවත්, සෑම විටම එය එසේ නොවන බැවින්, වෙනසක් ඇත්නම් නිවැරදි කිරීම් (Corrections) යෙදීම අනිවාර්ය වේ.",
         "tags": [
             {
-                "sub_category": "navigation",
+                "sub_category": "Navigation",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             },
             {
-                "sub_category": "Bridge Procedures",
+                "sub_category": "Navigation",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             }
         ]
@@ -471,11 +471,11 @@
         "explanation": "දුෂණය වීමේ අවදානමක් ඇති මෙහෙයුම් (උදාහරණ ලෙස ඉන්ධන පිරවීම හෝ තෙල් සහිත අපද්‍රව්‍ය බැහැර කිරීම) සුදුසුකම් ලත් නිලධාරියෙකු විසින් අධීක්ෂණය කරනු ලබන්නේ එම මෙහෙයුම අතරතුර සිදුවිය හැකි කාන්දුවීම් හෝ අනතුරු වළක්වා ගැනීම මගින් පරිසර දූෂණය සම්පූර්ණයෙන්ම වළක්වා ගැනීමටයි. අනෙක් පිළිතුරු වැරදි වන්නේ: 'To relieve the master' යනු නිලධාරියෙකුගේ වගකීමක් නොවේ, එය මෙහෙයුම් ආරක්ෂාවට අදාළ නොවේ. 'To inform the authorities' යනු දූෂණයක් සිදුවුවහොත් කළ යුතු දෙයකි, එය වැළැක්වීමේ පියවරක් නොවේ. 'To restrict pollution' යනු දූෂණය අවම කිරීම පමණක් අදහස් කරන අතර, නාවික නීති රීති අනුව අපගේ අරමුණ විය යුත්තේ දූෂණය සම්පූර්ණයෙන්ම වළක්වා ගැනීමයි.",
         "tags": [
             {
-                "sub_category": "pollution prevention",
+                "sub_category": "Environmental",
                 "main_category": "Maritime Regulations, Law & Compliance"
             },
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -512,11 +512,11 @@
         "explanation": "LNG (Liquefied Natural Gas) වැනි ද්‍රව්‍යවල තාපගතික ගුණාංග (thermodynamic properties) එනම් එන්තැල්පිය (enthalpy), එන්ට්‍රොපිය (entropy) සහ පීඩනය වැනි දේ තීරණය කිරීම සඳහා Mollier chart එකක් බහුලව භාවිතා වේ. මෙය වාෂ්ප හෝ වායුමය තත්ත්වයන්හිදී තාපගතික වෙනස්කම් අධ්‍යයනය කිරීමට ඉතා වැදගත් වේ. අනෙක් විකල්පයන් වැරදි වීමට හේතු: 1. Material safety data sheet (MSDS) යනු රසායනික ද්‍රව්‍යයක ආරක්ෂාව සහ හදිසි පියවර පිළිබඳ තොරතුරු සපයන ලේඛනයකි, එය තාපගතික ගණනය කිරීම් සඳහා භාවිතා නොවේ. 2. Cargo manifest යනු නැවක ඇති භාණ්ඩ ලැයිස්තුව පමණි. 3. IGC Code යනු ගෑස් රැගෙන යන නැව්වල ආරක්ෂිත සැලසුම් සහ මෙහෙයුම් සඳහා වන ජාත්‍යන්තර නීති මාලාවකි, එය තාපගතික දත්ත ලබා දෙන මූලාශ්‍රයක් නොවේ.",
         "tags": [
             {
-                "sub_category": "LNG",
+                "sub_category": "Shipboarding",
                 "main_category": "Cargo Operations & Vessel Types"
             },
             {
-                "sub_category": "Cargo Operations",
+                "sub_category": "Cargo",
                 "main_category": "Cargo Operations & Vessel Types"
             }
         ]
@@ -536,11 +536,11 @@
         "explanation": "නැවක හැච් කවරයක (hatch cover) හරස් සන්ධි කුඤ්ඤයක (cross-joint wedge) ඇති පැතලි වසන්තය (flat spring) මගින් කුඤ්ඤය නිසි ස්ථානයේ රඳවා තබා ගැනීම සහ අවශ්‍ය පීඩනය ලබා දීම සිදු කරයි. මෙම වසන්තය නොමැති නම්, කුඤ්ඤය ලිහිල් වී හැච් කවරයේ තද බව (watertight integrity) නැති වී යා හැක. එබැවින් එය අනිවාර්යයෙන්ම ප්‍රතිස්ථාපනය කළ යුතුය. අනෙක් පිළිතුරු වැරදි වීමට හේතු: මලකඩ බැඳීම (rusty) යනු නඩත්තු කිරීමෙන් පිරිසිදු කර තීන්ත ආලේප කළ හැකි දෙයකි, එය වහාම ප්‍රතිස්ථාපනය කිරීමට හේතුවක් නොවේ. වසන්තය නැමී තිබීම (bent) බොහෝ විට නැවත සකස් කර (straighten) භාවිතා කළ හැකි අතර, එය සම්පූර්ණයෙන්ම අතුරුදහන් වීම තරම් බරපතල තත්ත්වයක් නොවේ.",
         "tags": [
             {
-                "sub_category": "Deck Maintenance",
+                "sub_category": "Deck",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             },
             {
-                "sub_category": "Hatch Covers",
+                "sub_category": "Deck",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             }
         ]
@@ -560,11 +560,11 @@
         "explanation": "නාවිකයෙකු සේවයට වාර්තා කිරීමට පෙර ඔහුගේ සේවා කොන්දේසි සහ සුදුසුකම් පිළිබඳ මූලික අධීක්ෂණය සිදු කිරීමේ වගකීම පැවරෙන්නේ සේවායෝජකයාට හෝ නැවේ කපිතාන්වරයාට (Master) වේ. මෙය නාවිකයාගේ සේවා ගිවිසුම සහ නීතිමය අවශ්‍යතා නිසි පරිදි ඉටු වී ඇති බව තහවුරු කිරීම සඳහා අත්‍යවශ්‍ය වේ. අනෙක් විකල්ප වැරදි වන්නේ: 'නාවිකයාගේ දේශීය කම්කරු බලධාරීන්' යනු නාවිකයාගේ රටේ නීතිමය ආයතන වන අතර ඔවුන් සේවයට පෙර අධීක්ෂණයට සෘජුව සම්බන්ධ නොවේ. 'නෝර්වීජියානු කොන්සල් කාර්යාලය' හෝ 'නෝර්වීජියානු නැව් පාලන අධිකාරිය' (Norwegian Ship Control) යනු නියාමන ආයතන වන අතර, දෛනික මෙහෙයුම් මට්ටමින් සේවකයින්ගේ මූලික අධීක්ෂණය සිදු කිරීම ඔවුන්ගේ කාර්යභාරය නොවේ.",
         "tags": [
             {
-                "sub_category": "STCW",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             },
             {
-                "sub_category": "regulations",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             }
         ]
@@ -584,11 +584,11 @@
         "explanation": "නැවක බහාලුම් (containers) සුරක්ෂිත කිරීම සඳහා අනුගමනය කළ යුතු නිවැරදි ක්‍රමවේදය තීරණය කරනු ලබන්නේ එම නැව සඳහාම සකස් කරන ලද 'Cargo Securing Manual' (CSM) මගිනි. මෙය අන්තර්ජාතික නීති රීතිවලට අනුකූලව නැවේ ස්ථාවරත්වය සහ බහාලුම්වල බර සැලකිල්ලට ගෙන සකස් කර ඇත. අනෙක් විකල්පයන් වැරදි වීමට හේතු: SOLAS 74/88 යනු සමුද්‍රීය ආරක්ෂාව පිළිබඳ පොදු ජාත්‍යන්තර සම්මුතියක් මිස බහාලුම් ලෑෂ් කිරීමේ සවිස්තරාත්මක උපදෙස් පොතක් නොවේ. වෙරළබඩ සැලසුම්කරුවන්ගේ (shore planners) උපදෙස් වැදගත් වුවත්, ඒවා නීතිමය ලේඛනයක් නොවන අතර නැවේ ආරක්ෂාව තහවුරු කරන්නේ CSM මගිනි. OSHA යනු ඇමරිකානු රැකියා ස්ථාන ආරක්ෂණ ආයතනය වන අතර එය නැව්වල බහාලුම් ලෑෂ් කිරීමේ තාක්ෂණික ක්‍රමවේද තීරණය කරන ප්‍රධාන ආයතනය නොවේ.",
         "tags": [
             {
-                "sub_category": "Cargo Operations",
+                "sub_category": "Cargo",
                 "main_category": "Cargo Operations & Vessel Types"
             },
             {
-                "sub_category": "Deck Operations",
+                "sub_category": "Deck",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             }
         ]
@@ -608,7 +608,7 @@
         "explanation": "තාපගතික විද්‍යාවේදී (Thermodynamics), එන්තැල්පිය (Enthalpy - H) යනු පද්ධතියක අභ්‍යන්තර ශක්තිය (Internal Energy - U) සහ පද්ධතිය විසින් සිදුකරන කාර්යය (Pressure-Volume work - PV) යන දෙකෙහි එකතුවයි. එනම් H = U + PV වේ. මෙහි අභ්‍යන්තර ශක්තිය යනු අණුක මට්ටමේ පවතින ශක්තිය වන අතර, බාහිර ශක්තිය (PV) යනු පද්ධතියේ පීඩනය සහ පරිමාව මගින් නිරූපණය වන ශක්තියයි. අනෙක් පිළිතුරු වැරදි වීමට හේතු: 'අභ්‍යන්තර ශක්තිය' පමණක් යනු එන්තැල්පියේ කොටසක් පමණි. 'ගුප්ත ශක්තිය' (Latent energy) යනු ද්‍රව්‍යයක අවස්ථා විපර්යාසයකදී පමණක් සම්බන්ධ වන ශක්තියකි. 'බාහිර ශක්තිය' පමණක් යනු පද්ධතියේ පීඩනය සහ පරිමාව මත පමණක් රඳා පවතින කොටස වන අතර එය සම්පූර්ණ එන්තැල්පිය නිරූපණය නොකරයි.",
         "tags": [
             {
-                "sub_category": "thermodynamics",
+                "sub_category": "Science",
                 "main_category": "Marine Engineering & Motive Power"
             }
         ]
@@ -628,11 +628,11 @@
         "explanation": "IBC කේතයට (International Bulk Chemical Code) අනුව, Type 3 රසායනික ටැංකි නෞකාවක තනි ටැංකියක් සඳහා නාමික ධාරිතා සීමාවක් (Nominal filling restriction) පනවා නොමැත. Type 1 සහ Type 2 නෞකා සඳහා අනතුරුදායක ද්‍රව්‍ය ප්‍රවාහනයේදී ටැංකි ප්‍රමාණය සම්බන්ධයෙන් සීමාවන් පවතින නමුත්, Type 3 නෞකා සඳහා එවැනි සීමාවක් නොමැත. අනෙක් පිළිතුරු (1250, 1750, සහ 3000 cubic metres) වැරදි වන්නේ ඒවා IBC කේතයේ Type 3 නෞකා සඳහා අදාළ වන සීමාවන් නොවන බැවිනි.",
         "tags": [
             {
-                "sub_category": "Chemical Tanker",
+                "sub_category": "Shipboarding",
                 "main_category": "Cargo Operations & Vessel Types"
             },
             {
-                "sub_category": "regulations",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             }
         ]
@@ -652,11 +652,11 @@
         "explanation": "මුහුදු ජලයේ ඝනත්වය සාමාන්‍යයෙන් 1.025 t/m³ ලෙස සැලකේ. ටැංකියේ පරිමාව (V) සෙවීමට: V = 400 / 1.025 = 390.24 m³. දැන්, 90% ධාරිතාවය = 390.24 * 0.9 = 351.22 m³. නව ද්‍රවයේ ඝනත්වය 0.9300 t/m³ බැවින්, එහි බර = 351.22 * 0.9300 = 326.63 Mt. අනෙක් පිළිතුරු වැරදි වන්නේ ගණනය කිරීමේදී ඝනත්ව වෙනස්කම් හෝ ප්‍රතිශතයන් නිවැරදිව සැලකිල්ලට නොගැනීම නිසාය.",
         "tags": [
             {
-                "sub_category": "stability",
+                "sub_category": "Stability",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             },
             {
-                "sub_category": "Cargo Operations",
+                "sub_category": "Cargo",
                 "main_category": "Cargo Operations & Vessel Types"
             }
         ]
@@ -676,11 +676,11 @@
         "explanation": "ටැංකියක ඇති 'Mud Box' එකෙහි ප්‍රධාන කාර්යය වන්නේ නල මාර්ග පද්ධතියට ඇතුළු වන ද්‍රව්‍යවල ඇති අපද්‍රව්‍ය, රොන්මඩ හෝ ඝන අංශු පෙරීම මගින් නල මාර්ගය අවහිර වීම වැළැක්වීමයි. මෙය නල මාර්ගයේ කෙළවරේ පිහිටා ඇති පෙරහනක් ලෙස ක්‍රියා කරයි. අනෙක් පිළිතුරු වැරදි වන්නේ: ගබඩා කාමරවල ඇති අපද්‍රව්‍ය එකතු කරන පෙට්ටියක් ලෙස මෙය භාවිතා නොවේ. නැංගුරම් දාමයේ මඩ ඉවත් කිරීම සඳහා මෙවැනි පෙට්ටියක් නැංගුරම් ප්‍රදේශයේ නොමැත. මැනිෆෝල්ඩ් යට ඇති පෙට්ටිය 'Drip Tray' ලෙස හඳුන්වන අතර එය කාන්දුවීම් එකතු කිරීමට මිස 'Mud Box' ලෙස නොහඳුන්වයි.",
         "tags": [
             {
-                "sub_category": "Piping Systems",
+                "sub_category": "Piping",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             },
             {
-                "sub_category": "Bilge Systems",
+                "sub_category": "Bilge",
                 "main_category": "Marine Engineering & Motive Power"
             }
         ]
@@ -700,11 +700,11 @@
         "explanation": "MARPOL 73/78 ප්‍රඥප්තියේ ඇමුණුම I (Annex I) අනුව, තෙල් ප්‍රවාහනය කරන නෞකාවල (Combination carriers) ස්ලොප් ටැංකි (Slop tanks) ධාරිතාව තීරණය කිරීමේදී නෞකාවේ බිත්තිවල ස්වභාවය වැදගත් වේ. සාමාන්‍යයෙන් තෙල් ප්‍රවාහනය කරන නෞකාවක ස්ලොප් ටැංකි ධාරිතාව නෞකාවේ මුළු තෙල් රැගෙන යා හැකි ධාරිතාවෙන් 3%ක් විය යුතුය. කෙසේ වෙතත්, නෞකාවේ බිත්ති (Bulkheads) සිනිඳු (Smooth) මතුපිටකින් යුක්ත නම්, පිරිසිදු කිරීමේදී ඉතිරි වන තෙල් ප්‍රමාණය අඩු බැවින්, මෙම ධාරිතාව 1% දක්වා අඩු කිරීමට අවසර ලැබේ. අනෙක් විකල්පයන් වන 3%, 1.5% සහ 2% වැරදි වන්නේ ඒවා මෙම විශේෂිත නීතිමය අවශ්‍යතාවයට අනුකූල නොවන බැවිනි. 3% යනු සාමාන්‍ය නෞකාවලට අදාළ වන ප්‍රමිතිය වන අතර, 1% යනු සිනිඳු බිත්ති සහිත නෞකාවලට පමණක් අදාළ වන විශේෂිත සහනයයි.",
         "tags": [
             {
-                "sub_category": "marpol",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             },
             {
-                "sub_category": "tanker operations",
+                "sub_category": "Cargo",
                 "main_category": "Cargo Operations & Vessel Types"
             }
         ]
@@ -741,11 +741,11 @@
         "explanation": "SOLAS රෙගුලාසිවලට අනුව, මගීන් 36කට වඩා අඩු සංඛ්‍යාවක් ප්‍රවාහනය කරන RoRo නෞකාවක, මෝටර් රථ ප්‍රවාහනය කරන සාමාන්‍ය භාණ්ඩ අවකාශයන් සඳහා අවම වාතාශ්‍රය ධාරිතාව පැයකට වාතය 6 වතාවක් මාරු වන පරිදි (6 air changes per hour) තිබිය යුතුය. මෙය ඉන්ධන වාෂ්ප එකතු වීම වැළැක්වීමට සහ ගිනි ආරක්ෂාව තහවුරු කිරීමට අත්‍යවශ්‍ය වේ. අනෙක් විකල්ප වැරදි වන්නේ: පැයකට 2 වතාවක් යනු ඉතා අඩු අගයකි, පැයකට 12 හෝ 20 වතාවක් යනු මගීන් වැඩි සංඛ්‍යාවක් සිටින හෝ විශේෂිත අවදානම් සහිත අවකාශයන් සඳහා අවශ්‍ය වන ඉහළ අගයන් වේ.",
         "tags": [
             {
-                "sub_category": "RoRo",
+                "sub_category": "Shipboarding",
                 "main_category": "Cargo Operations & Vessel Types"
             },
             {
-                "sub_category": "Safety Systems",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -765,11 +765,11 @@
         "explanation": "SOLAS රෙගුලාසිවලට අනුව, මගීන් 36කට වඩා අඩු සංඛ්‍යාවක් සිටින නැව්වල හෝ භාණ්ඩ ප්‍රවාහන නැව්වල, වාහන ප්‍රවාහනය සඳහා වෙන් කර ඇති කාර්ගෝ අවකාශයන්හි (විශේෂ කාණ්ඩයේ අවකාශයන් හැර) වාතාශ්‍රය පද්ධතියේ අවම ධාරිතාව පැයකට වාතය 6 වතාවක් මාරු කිරීමට (6 air changes per hour) ප්‍රමාණවත් විය යුතුය. මෙය ඉන්ධන වාෂ්ප එකතු වීම වැළැක්වීම සඳහා අත්‍යවශ්‍ය වේ. අනෙක් විකල්ප වැරදි වන්නේ: 12 air changes per hour යනු සාමාන්‍යයෙන් විශේෂ කාණ්ඩයේ අවකාශයන් (Special Category Spaces) සඳහා අවශ්‍ය වන අගයයි. 20 air changes per hour යනු රෝ-රෝ (Ro-Ro) නැව්වල වාහන තට්ටු සඳහා අවශ්‍ය වන ඉහළම වාතාශ්‍රය අගයයි. 2 air changes per hour යනු වාහන ප්‍රවාහනය නොකරන සාමාන්‍ය කාර්ගෝ අවකාශයන් සඳහා පමණක් ප්‍රමාණවත් වන අගයකි.",
         "tags": [
             {
-                "sub_category": "RoRo",
+                "sub_category": "Shipboarding",
                 "main_category": "Cargo Operations & Vessel Types"
             },
             {
-                "sub_category": "Safety Systems",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -823,11 +823,11 @@
         "explanation": "තාප හුවමාරුකාරකයක (Heat Exchanger) තාප හුවමාරු ධාරිතාව අඩුවීමට ප්‍රධානතම හේතුව වන්නේ එහි නල තුළ හෝ පිටත තැන්පත් වන අපද්‍රව්‍ය, තෙල් තැන්පතු හෝ පරිමාණයන් (scaling) නිසා තාප සන්නායකතාවය අඩුවීමයි. එබැවින්, තාප හුවමාරු පෘෂ්ඨයන් පිරිසිදු කිරීම මගින් නැවතත් තාප හුවමාරු කාර්යක්ෂමතාව ඉහළ නැංවිය හැකිය. අනෙක් විකල්ප වැරදි වන්නේ: සිසිලන ජල පීඩනය වැඩි කිරීමෙන් පද්ධතියේ කාන්දුවීම් ඇති විය හැකි අතර එය මූලික ගැටළුව විසඳන්නේ නැත. ලිහිසි තෙල් ප්‍රවාහය වැඩි කිරීම හෝ අඩු කිරීම මගින් තාප හුවමාරුකාරකයේ ඇති අපද්‍රව්‍ය ඉවත් නොවන අතර, එය එන්ජිමේ ලිහිසි තෙල් පීඩනයට සහ උෂ්ණත්ව පාලනයට අහිතකර ලෙස බලපෑ හැකිය.",
         "tags": [
             {
-                "sub_category": "maintenance",
+                "sub_category": "Maintenance",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             },
             {
-                "sub_category": "Heat Exchangers",
+                "sub_category": "Exchanger",
                 "main_category": "Marine Engineering & Motive Power"
             }
         ]
@@ -864,11 +864,11 @@
         "explanation": "IMO Gas Codes (IGC Code) වලට අනුව, 5000 m3 ට වඩා වැඩි ධාරිතාවයකින් යුත් LNG නෞකාවක අවම වශයෙන් ගිනි නිවන ඇඳුම් කට්ටල (Firemen's outfits) 5 ක් තිබිය යුතුය. මෙහිදී ආරක්ෂාව සහ හදිසි අවස්ථාවකදී කාර්ය මණ්ඩලයේ ක්‍රියාකාරීත්වය සඳහා මෙම ප්‍රමාණය අනිවාර්ය කර ඇත. අනෙක් පිළිතුරු වැරදි වන්නේ ඒවා නියමිත ජාත්‍යන්තර ආරක්ෂක ප්‍රමිතීන්ට (IGC Code) අනුකූල නොවන බැවිනි. 2, 3 හෝ 4 යන සංඛ්‍යා මෙම නෞකා වර්ගය සඳහා නියමිත අවම අගය නොවේ.",
         "tags": [
             {
-                "sub_category": "Fire Fighting",
+                "sub_category": "Firefighting",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "regulations",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             }
         ]
@@ -888,11 +888,11 @@
         "explanation": "පද්ධතියේ පවතින විදුලි බර 75% බැගින් උත්පාදක යන්ත්‍ර දෙකක් මගින් බෙදාගෙන සිටින විට, එකක් හදිසියේම විසන්ධි වුවහොත් (trip), ඉතිරිව ඇති එකම උත්පාදක යන්ත්‍රය මත 150%ක පමණ බරක් පැටවේ. මෙය එම උත්පාදක යන්ත්‍රයද අක්‍රිය වීමට (Blackout) හේතු විය හැක. එබැවින්, ප්‍රධාන උත්පාදක යන්ත්‍රය ආරක්ෂා කර ගැනීම සඳහා පළමු පියවර ලෙස අනවශ්‍ය විදුලි බර (nonessential loads) වහාම විසන්ධි කළ යුතුය. අනෙක් පිළිතුරු වැරදි වීමට හේතු: 1. පරිපථ කඩනය (circuit breaker) පරීක්ෂා කිරීම වැදගත් වුවත්, එය බර කළමනාකරණයට වඩා ප්‍රමාද විය හැකි පියවරකි. 2. හදිසි උත්පාදක යන්ත්‍රය (emergency alternator) ස්වයංක්‍රීයව ක්‍රියාත්මක විය යුතු අතර, එය අතින් ක්‍රියාත්මක කිරීමට පෙර ප්‍රධාන පුවරුවේ බර පාලනය කිරීම අත්‍යවශ්‍ය වේ. 3. වහාම නැවත උත්පාදක යන්ත්‍රය ආරම්භ කිරීමට උත්සාහ කිරීමෙන් පද්ධතියේ අස්ථාවරත්වය වැඩි විය හැක.",
         "tags": [
             {
-                "sub_category": "electrical",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "Power Management",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -929,7 +929,7 @@
         "explanation": "නැවට භාණ්ඩ ලබා ගැනීමේදී හෝ පයිප්ප පිරිසිදු කිරීමේදී (lineblowing/pigging) නැවේ මැනිෆෝල්ඩ් (manifold) අසල පුද්ගලයෙකු සිටීම අනිවාර්ය වේ. මෙයට හේතුව වන්නේ වෙරළේ සිට එන අධික පීඩනය පාලනය කර ටැංකිය තුළ පීඩනය අනවශ්‍ය ලෙස ඉහළ යාම වැළැක්වීමයි. පළමු විකල්පය වැරදියි, මන්ද නැවේ කාර්යාලයේ සිට මැනිෆෝල්ඩ් කපාටය පාලනය කළ නොහැකි බැවිනි. දෙවන විකල්පය ඉතා අනතුරුදායකයි, මන්ද කපාට විවෘතව තැබීමෙන් පීඩනය පාලනය කළ නොහැකි වී ටැංකිවලට හානි සිදුවිය හැකි බැවිනි. සිව්වන විකල්පය වැරදියි, මන්ද පාලම් මැදිරියේ (bridge) සිට මැනිෆෝල්ඩ් කපාට පාලනය කළ නොහැකි අතර එය නැවේ පාලනයට සම්බන්ධ කාර්යයක් නොවන බැවිනි.",
         "tags": [
             {
-                "sub_category": "Cargo Operations",
+                "sub_category": "Cargo",
                 "main_category": "Cargo Operations & Vessel Types"
             }
         ]
@@ -983,11 +983,11 @@
         "explanation": "SOLAS (Safety of Life at Sea) රෙගුලාසිවලට අනුව, අතේ ගෙන යා හැකි පෙන නිවාරකයක (portable foam applicator) අඩංගු විය යුතු පෙන ද්‍රාවණ ටැංකියේ අවම ධාරිතාව ලීටර් 1 කි. මෙම උපකරණය ගින්නක් නිවා දැමීම සඳහා ඉක්මනින් භාවිතා කළ හැකි වන පරිදි කුඩා හා සැහැල්ලු ලෙස නිර්මාණය කර ඇත. අනෙක් විකල්ප වන ලීටර් 5, 10 සහ 20 යන අගයන් මෙම උපකරණය සඳහා නියමිත ප්‍රමිතියට වඩා වැඩි වන අතර, ඒවා අතේ ගෙන යා හැකි උපකරණයක අරමුණට නොගැලපේ.",
         "tags": [
             {
-                "sub_category": "Fire Fighting",
+                "sub_category": "Firefighting",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "Safety Equipment",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -1007,11 +1007,11 @@
         "explanation": "n-Propyl Acetate වැනි භාණ්ඩයක් ටැංකිවල 98% ක ධාරිතාවයකින් පිරවූ විට, පයිප්පවල ඉතිරිව ඇති ද්‍රව්‍ය ඉවත් කිරීමේදී (line clearing) වාතය හෝ නිෂ්ක්‍රීය වායුව (inert gas) අධික පීඩනයකින් ටැංකියට ඇතුළු වුවහොත්, ටැංකිය තුළ ඇති ද්‍රව්‍ය කැළඹීමට ලක්වේ. ටැංකිය දැනටමත් 98% ක් පිරී ඇති බැවින්, මෙම කැළඹීම නිසා ද්‍රව්‍ය වායු පිටවන නල (vent risers) හරහා පිටතට කාන්දු වීමට හෝ පිටාර ගැලීමට (overflow) ඉඩ ඇත. අනෙක් පිළිතුරු වැරදි වන්නේ: ටැංකි අතර ගුරුත්වාකර්ෂණයෙන් ද්‍රව්‍ය ගමන් කිරීම පාලනය කළ හැකි දෙයක් වන අතර, පයිප්ප පිරිසිදු කිරීමේ අනුපිළිවෙල (aft to forward) ප්‍රධාන අවදානම නොවේ. වෙරළබඩ කාර්ය මණ්ඩලයේ සහයෝගය වැදගත් වුවද, එය මෙහෙයුමේදී සිදුවිය හැකි භෞතික කාන්දුවක් තරම් විශාල අවදානමක් නොවේ.",
         "tags": [
             {
-                "sub_category": "Cargo Operations",
+                "sub_category": "Cargo",
                 "main_category": "Cargo Operations & Vessel Types"
             },
             {
-                "sub_category": "Chemical Tanker",
+                "sub_category": "Shipboarding",
                 "main_category": "Cargo Operations & Vessel Types"
             }
         ]
@@ -1082,11 +1082,11 @@
         "explanation": "RoRo මගී නෞකාවන් සිරස් කලාප (Vertical zones) වලට බෙදනු ලබන්නේ ගින්නක් පැතිරීම පාලනය කිරීම සඳහාය. මෙම කලාප ගිනි වැලැක්වීමේ දොරවල් (Fire doors) මගින් වෙන් කර ඇති අතර, ගින්නක් ඇති වූ විට එම දොරවල් වසා දැමීමෙන් ගින්න සහ දුම එක් කලාපයකට පමණක් සීමා කර නෞකාවේ අනෙකුත් කොටස් ආරක්ෂා කර ගත හැක. දෙවන පිළිතුර වැරදියි, මන්ද ගිනි අනතුරු ඇඟවීමක් වූ පමණින් සියලුම දොරවල් ස්වයංක්‍රීයව වැසෙන්නේ නැත, ඒවා බොහෝ විට අතින් හෝ පාලක මැදිරියකින් ක්‍රියාත්මක කළ යුතුය. තුන්වන පිළිතුර වැරදියි, මන්ද ජලරෝධී දොරවල් (Watertight doors) භාවිතා කරන්නේ නෞකාවට ජලය ඇතුළුවීම වැළැක්වීමට මිස ගින්න පාලනය කිරීමට නොවේ. හතරවන පිළිතුර වැරදියි, මන්ද කලාප බෙදීම සිදු කරන්නේ ගිනි නිවන කණ්ඩායම් සංවිධානය කිරීමට නොව, නෞකාවේ ව්‍යුහාත්මක ආරක්ෂාව සඳහාය.",
         "tags": [
             {
-                "sub_category": "RoRo",
+                "sub_category": "Shipboarding",
                 "main_category": "Cargo Operations & Vessel Types"
             },
             {
-                "sub_category": "fire safety",
+                "sub_category": "Firefighting",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -1123,11 +1123,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "LNG",
+                "sub_category": "Shipboarding",
                 "main_category": "Cargo Operations & Vessel Types"
             },
             {
-                "sub_category": "Cargo Containment",
+                "sub_category": "Cargo",
                 "main_category": "Cargo Operations & Vessel Types"
             }
         ]
@@ -1147,7 +1147,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "navigation",
+                "sub_category": "Navigation",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             }
         ]
@@ -1167,7 +1167,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Meteorology",
+                "sub_category": "Science",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             }
         ]
@@ -1187,11 +1187,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "pumps",
+                "sub_category": "Pump",
                 "main_category": "Marine Engineering & Motive Power"
             },
             {
-                "sub_category": "tanker operations",
+                "sub_category": "Cargo",
                 "main_category": "Cargo Operations & Vessel Types"
             }
         ]
@@ -1211,7 +1211,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Regulatory",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             }
         ]
@@ -1248,11 +1248,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Legal",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             },
             {
-                "sub_category": "management",
+                "sub_category": "Management",
                 "main_category": "Management, Administration & Human Factors"
             }
         ]
@@ -1289,11 +1289,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "refrigeration",
+                "sub_category": "HVAC",
                 "main_category": "Marine Engineering & Motive Power"
             },
             {
-                "sub_category": "Air Conditioning",
+                "sub_category": "HVAC",
                 "main_category": "Marine Engineering & Motive Power"
             }
         ]
@@ -1330,15 +1330,15 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "LSA",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "Drills",
+                "sub_category": "Safety",
                 "main_category": "Management, Administration & Human Factors"
             },
             {
-                "sub_category": "SOLAS",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             }
         ]
@@ -1358,7 +1358,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Cargo Operations",
+                "sub_category": "Cargo",
                 "main_category": "Cargo Operations & Vessel Types"
             }
         ]
@@ -1378,7 +1378,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Piping Systems",
+                "sub_category": "Piping",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             }
         ]
@@ -1398,11 +1398,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Ro-Ro",
+                "sub_category": "Shipboarding",
                 "main_category": "Cargo Operations & Vessel Types"
             },
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -1422,11 +1422,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Chemicals",
+                "sub_category": "Safety",
                 "main_category": "Cargo Operations & Vessel Types"
             },
             {
-                "sub_category": "tanker operations",
+                "sub_category": "Cargo",
                 "main_category": "Cargo Operations & Vessel Types"
             }
         ]
@@ -1446,11 +1446,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "fire safety",
+                "sub_category": "Firefighting",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "SOLAS",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             }
         ]
@@ -1487,11 +1487,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Cyber Security",
+                "sub_category": "Security",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "Maritime Security",
+                "sub_category": "Security",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -1511,15 +1511,15 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "LSA",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "SOLAS",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             },
             {
-                "sub_category": "training",
+                "sub_category": "Management",
                 "main_category": "Management, Administration & Human Factors"
             }
         ]
@@ -1573,7 +1573,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "tanker operations",
+                "sub_category": "Cargo",
                 "main_category": "Cargo Operations & Vessel Types"
             }
         ]
@@ -1593,11 +1593,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "LNG",
+                "sub_category": "Shipboarding",
                 "main_category": "Cargo Operations & Vessel Types"
             },
             {
-                "sub_category": "Cargo Operations",
+                "sub_category": "Cargo",
                 "main_category": "Cargo Operations & Vessel Types"
             }
         ]
@@ -1617,7 +1617,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Regulatory",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             }
         ]
@@ -1637,11 +1637,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Legal",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             },
             {
-                "sub_category": "Regulatory",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             }
         ]
@@ -1661,11 +1661,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "operations",
+                "sub_category": "Management",
                 "main_category": "Management, Administration & Human Factors"
             },
             {
-                "sub_category": "tanker operations",
+                "sub_category": "Cargo",
                 "main_category": "Cargo Operations & Vessel Types"
             }
         ]
@@ -1685,11 +1685,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Electrical Engineering",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "high voltage",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -1709,11 +1709,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "marpol",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             },
             {
-                "sub_category": "pollution prevention",
+                "sub_category": "Environmental",
                 "main_category": "Maritime Regulations, Law & Compliance"
             }
         ]
@@ -1767,11 +1767,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "Enclosed Space Entry",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -1791,7 +1791,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "maintenance",
+                "sub_category": "Maintenance",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             }
         ]
@@ -1811,11 +1811,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Cargo Operations",
+                "sub_category": "Cargo",
                 "main_category": "Cargo Operations & Vessel Types"
             },
             {
-                "sub_category": "refrigeration",
+                "sub_category": "HVAC",
                 "main_category": "Marine Engineering & Motive Power"
             }
         ]
@@ -1886,7 +1886,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "communication",
+                "sub_category": "Communication",
                 "main_category": "Management, Administration & Human Factors"
             }
         ]
@@ -1906,7 +1906,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "communication",
+                "sub_category": "Communication",
                 "main_category": "Management, Administration & Human Factors"
             }
         ]
@@ -1943,11 +1943,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "LSA",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "SOLAS",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             }
         ]
@@ -1967,11 +1967,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "SOLAS",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             },
             {
-                "sub_category": "maintenance",
+                "sub_category": "Maintenance",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             }
         ]
@@ -2127,11 +2127,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "tanker operations",
+                "sub_category": "Cargo",
                 "main_category": "Cargo Operations & Vessel Types"
             },
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -2168,11 +2168,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Fire Fighting",
+                "sub_category": "Firefighting",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -2192,11 +2192,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "fire safety",
+                "sub_category": "Firefighting",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "LSA",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -2250,7 +2250,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "communication",
+                "sub_category": "Communication",
                 "main_category": "Management, Administration & Human Factors"
             }
         ]
@@ -2270,11 +2270,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Cargo Operations",
+                "sub_category": "Cargo",
                 "main_category": "Cargo Operations & Vessel Types"
             },
             {
-                "sub_category": "Container Ship",
+                "sub_category": "Shipboarding",
                 "main_category": "Cargo Operations & Vessel Types"
             }
         ]
@@ -2328,11 +2328,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Ro-Ro",
+                "sub_category": "Shipboarding",
                 "main_category": "Cargo Operations & Vessel Types"
             },
             {
-                "sub_category": "maintenance",
+                "sub_category": "Maintenance",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             }
         ]
@@ -2454,11 +2454,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Cargo Operations",
+                "sub_category": "Cargo",
                 "main_category": "Cargo Operations & Vessel Types"
             },
             {
-                "sub_category": "Lashing",
+                "sub_category": "Deck",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             }
         ]
@@ -2478,11 +2478,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Ro-Ro",
+                "sub_category": "Shipboarding",
                 "main_category": "Cargo Operations & Vessel Types"
             },
             {
-                "sub_category": "navigation",
+                "sub_category": "Navigation",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             }
         ]
@@ -2502,11 +2502,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Bridge Procedures",
+                "sub_category": "Navigation",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             },
             {
-                "sub_category": "navigation",
+                "sub_category": "Navigation",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             }
         ]
@@ -2526,11 +2526,11 @@
         "explanation": "එන්ජින් කාමරය තුළ විදුලි උපකරණ සහ ඉන්ධන බහුලව පවතින බැවින්, එහිදී භාවිතා කළ යුත්තේ කුඩු (Powder) හෝ කාබන් ඩයොක්සයිඩ් (CO2) ගිනි නිවන උපකරණ පමණි. CO2 සහ පවුඩර් විදුලිය සන්නයනය නොකරන බැවින් විදුලි ගිනි නිවීමට ආරක්ෂිත වන අතර තෙල් ගිනි නිවීමටද සාර්ථක වේ. ජලය හෝ ෆෝම් (Foam) වර්ගයේ ගිනි නිවන උපකරණ භාවිතා කිරීමෙන් විදුලි සැර වැදීමේ හෝ තෙල් ගින්න තවදුරටත් පැතිරීමේ අවදානමක් පවතින බැවින් ඒවා Engine Room සඳහා සුදුසු නොවේ.",
         "tags": [
             {
-                "sub_category": "Fire Fighting",
+                "sub_category": "Firefighting",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "Safety Equipment",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -2567,7 +2567,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Bridge Procedures",
+                "sub_category": "Navigation",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             }
         ]
@@ -2587,11 +2587,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Mooring",
+                "sub_category": "Deck",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             },
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -2628,11 +2628,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Chemical Tanker",
+                "sub_category": "Shipboarding",
                 "main_category": "Cargo Operations & Vessel Types"
             },
             {
-                "sub_category": "Cleaning",
+                "sub_category": "Maintenance",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             }
         ]
@@ -2669,11 +2669,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "marpol",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             },
             {
-                "sub_category": "tanker operations",
+                "sub_category": "Cargo",
                 "main_category": "Cargo Operations & Vessel Types"
             }
         ]
@@ -2727,11 +2727,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Chemical Tanker",
+                "sub_category": "Shipboarding",
                 "main_category": "Cargo Operations & Vessel Types"
             },
             {
-                "sub_category": "Cleaning",
+                "sub_category": "Maintenance",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             }
         ]
@@ -2751,7 +2751,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -2771,11 +2771,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "pollution prevention",
+                "sub_category": "Environmental",
                 "main_category": "Maritime Regulations, Law & Compliance"
             },
             {
-                "sub_category": "Emergency Procedures",
+                "sub_category": "Emergency",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -2829,11 +2829,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Drills",
+                "sub_category": "Safety",
                 "main_category": "Management, Administration & Human Factors"
             },
             {
-                "sub_category": "SOLAS",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             }
         ]
@@ -2853,11 +2853,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "watchkeeping",
+                "sub_category": "Watchkeeping",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             },
             {
-                "sub_category": "Bridge Procedures",
+                "sub_category": "Navigation",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             }
         ]
@@ -2877,11 +2877,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "watchkeeping",
+                "sub_category": "Watchkeeping",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             },
             {
-                "sub_category": "Bridge Procedures",
+                "sub_category": "Navigation",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             }
         ]
@@ -2901,11 +2901,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Fuel Treatment",
+                "sub_category": "Fuels",
                 "main_category": "Marine Engineering & Motive Power"
             },
             {
-                "sub_category": "purifier",
+                "sub_category": "Purifier",
                 "main_category": "Marine Engineering & Motive Power"
             }
         ]
@@ -2959,7 +2959,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "communication",
+                "sub_category": "Communication",
                 "main_category": "Management, Administration & Human Factors"
             }
         ]
@@ -2996,7 +2996,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "maintenance",
+                "sub_category": "Maintenance",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             }
         ]
@@ -3016,11 +3016,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "SOLAS",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             }
         ]
@@ -3040,11 +3040,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "LSA",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "SOLAS",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             }
         ]
@@ -3064,11 +3064,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Cargo Operations",
+                "sub_category": "Cargo",
                 "main_category": "Cargo Operations & Vessel Types"
             },
             {
-                "sub_category": "RoRo",
+                "sub_category": "Shipboarding",
                 "main_category": "Cargo Operations & Vessel Types"
             }
         ]
@@ -3088,7 +3088,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Class Regulations",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             }
         ]
@@ -3108,11 +3108,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Cargo Operations",
+                "sub_category": "Cargo",
                 "main_category": "Cargo Operations & Vessel Types"
             },
             {
-                "sub_category": "refrigeration",
+                "sub_category": "HVAC",
                 "main_category": "Marine Engineering & Motive Power"
             }
         ]
@@ -3132,11 +3132,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Cargo Operations",
+                "sub_category": "Cargo",
                 "main_category": "Cargo Operations & Vessel Types"
             },
             {
-                "sub_category": "tanker operations",
+                "sub_category": "Cargo",
                 "main_category": "Cargo Operations & Vessel Types"
             }
         ]
@@ -3156,11 +3156,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Maritime Law",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             },
             {
-                "sub_category": "regulations",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             }
         ]
@@ -3180,11 +3180,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Emergency Procedures",
+                "sub_category": "Emergency",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "Abandon Ship",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -3204,11 +3204,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "LNG",
+                "sub_category": "Shipboarding",
                 "main_category": "Cargo Operations & Vessel Types"
             },
             {
-                "sub_category": "Gas Carriers",
+                "sub_category": "Shipboarding",
                 "main_category": "Cargo Operations & Vessel Types"
             }
         ]
@@ -3245,7 +3245,7 @@
         "explanation": "ශීතකරණ කොම්ප්‍රෙෂරයක පිටත මතුපිට සහ return line එක මත අධික ලෙස අයිස් තැන්පත් වීම සිදුවන්නේ Thermostatic Expansion Valve (TEV) එකෙහි Superheat අගය ඉතා අඩුවෙන් සකසා ඇති විටයි. මෙවිට වාෂ්පීකාරකයෙන් (Evaporator) පිටවන ශීතකරණ ද්‍රව්‍ය ප්‍රමාණවත් ලෙස රත් නොවන (Superheat නොවන) බැවින් ද්‍රවමය ශීතකරණ ද්‍රව්‍ය කෙළින්ම කොම්ප්‍රෙෂරය වෙත ගලා ඒමට පටන් ගනී (Liquid slugging). මෙය කොම්ප්‍රෙෂරයේ උෂ්ණත්වය ඉතා පහළ හෙළන අතර මතුපිට අයිස් බැඳීමට හේතු වේ. අනෙකුත් හේතු වන high superheat හෝ low charge නිසා සාමාන්‍යයෙන් සිසිලනය අඩු වීම මිස මෙවැනි අයිස් බැඳීමක් සිදු නොවේ.",
         "tags": [
             {
-                "sub_category": "refrigeration",
+                "sub_category": "HVAC",
                 "main_category": "Marine Engineering & Motive Power"
             }
         ]
@@ -3265,11 +3265,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Gas Carriers",
+                "sub_category": "Shipboarding",
                 "main_category": "Cargo Operations & Vessel Types"
             },
             {
-                "sub_category": "Cargo Operations",
+                "sub_category": "Cargo",
                 "main_category": "Cargo Operations & Vessel Types"
             }
         ]
@@ -3289,11 +3289,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "stability",
+                "sub_category": "Stability",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             },
             {
-                "sub_category": "Cargo Operations",
+                "sub_category": "Cargo",
                 "main_category": "Cargo Operations & Vessel Types"
             }
         ]
@@ -3313,7 +3313,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Provisions",
+                "sub_category": "Management",
                 "main_category": "Cargo Operations & Vessel Types"
             }
         ]
@@ -3367,11 +3367,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "regulations",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             },
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -3391,7 +3391,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Communications",
+                "sub_category": "Communication",
                 "main_category": "Management, Administration & Human Factors"
             }
         ]
@@ -3411,11 +3411,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Dangerous Goods",
+                "sub_category": "Cargo",
                 "main_category": "Cargo Operations & Vessel Types"
             },
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -3452,11 +3452,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "SOLAS",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             },
             {
-                "sub_category": "Safety Management",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -3476,11 +3476,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Cargo Operations",
+                "sub_category": "Cargo",
                 "main_category": "Cargo Operations & Vessel Types"
             },
             {
-                "sub_category": "Bulk Carrier",
+                "sub_category": "Shipboarding",
                 "main_category": "Cargo Operations & Vessel Types"
             }
         ]
@@ -3500,11 +3500,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "stability",
+                "sub_category": "Stability",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             },
             {
-                "sub_category": "Cargo Operations",
+                "sub_category": "Cargo",
                 "main_category": "Cargo Operations & Vessel Types"
             }
         ]
@@ -3524,11 +3524,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Ship Security",
+                "sub_category": "Security",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "isps",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             }
         ]

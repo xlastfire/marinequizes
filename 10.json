@@ -14,11 +14,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Automation",
+                "sub_category": "Controls",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "Control Systems",
+                "sub_category": "Controls",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -42,7 +42,7 @@
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "Fuel Systems",
+                "sub_category": "Fuels",
                 "main_category": "Marine Engineering & Motive Power"
             }
         ]
@@ -62,11 +62,11 @@
         "explanation": "පයිරොටෙක්නික් සංඥා (උදා: දුම් සංඥා, රොකට් flares) විවිධ නිෂ්පාදකයන් විසින් විවිධ මෝස්තරවලින් නිපදවනු ලබයි. මේවා ක්‍රියාත්මක කරන ක්‍රමවේද (උදා: පින් එකක් ඇදීම, කරකැවීම) එකිනෙකට වෙනස් විය හැක. වැරදි ලෙස භාවිතය මගින් සංඥාව ක්‍රියාත්මක නොවීම හෝ පරිශීලකයාට බරපතල තුවාල සිදුවීම විය හැක. එම නිසා එම උපකරණයේ බඳ මත මුද්‍රණය කර ඇති උපදෙස් සහ රූප සටහන් (instructions/diagrams) අනුගමනය කිරීම අත්‍යවශ්‍ය වේ. අනෙකුත් සාමාන්‍ය ක්‍රමවේද මත විශ්වාසය තැබීම අවදානම් සහගතය.",
         "tags": [
             {
-                "sub_category": "Life Saving Appliances",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -85,11 +85,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "hot work",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -109,11 +109,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Main Engine",
+                "sub_category": "Engine",
                 "main_category": "Marine Engineering & Motive Power"
             },
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -133,11 +133,11 @@
         "explanation": "ඇමරිකානු මුහුදු තීරයේ (US waters) සිදුවන තෙල් කාන්දුවකදී හෝ දූෂණයකදී, පිරිසිදු කිරීමේ කොන්ත්‍රාත්කරුවන්ට (Cleaning up contractor) ඒ පිළිබඳව දැනුම් දීමට සහ පියවර ගැනීමට නීත්‍යානුකූලව බැඳී සිටින්නේ 'Qualified Individual' (QI) ලෙස හැඳින්වෙන පුද්ගලයාය. මෙය OPA-90 (Oil Pollution Act of 1990) රෙගුලාසිය යටතේ එන අවශ්‍යතාවයකි. නෞකාවේ හිමිකරු විසින් පත් කරන ලද මෙම පුද්ගලයාට පිරිසිදු කිරීමේ කටයුතු සඳහා මුදල් වැය කිරීමට සහ තීරණ ගැනීමට පූර්ණ බලය ඇත. අනෙකුත් නිලධාරීන්ට දැනුම් දීමේ වගකීම තිබිය හැකි නමුත්, කොන්ත්‍රාත්කරු සෘජුව සම්බන්ධ කර ගැනීමේ ප්‍රධාන වගකීම QI සතු වේ.",
         "tags": [
             {
-                "sub_category": "Environmental Protection",
+                "sub_category": "Environmental",
                 "main_category": "Maritime Regulations, Law & Compliance"
             },
             {
-                "sub_category": "marpol",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             }
         ]
@@ -157,7 +157,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "refrigeration",
+                "sub_category": "HVAC",
                 "main_category": "Marine Engineering & Motive Power"
             }
         ]
@@ -176,7 +176,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Control Systems",
+                "sub_category": "Controls",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
@@ -200,11 +200,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Environmental Protection",
+                "sub_category": "Environmental",
                 "main_category": "Maritime Regulations, Law & Compliance"
             },
             {
-                "sub_category": "USCG",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             }
         ]
@@ -224,11 +224,11 @@
         "explanation": "ද්වි පහර ප්‍රධාන ඩීසල් එන්ජිමක (2-stroke main diesel engine) පිස්ටන් වළලු (piston rings) ගෙවී යාම නිසා දහන වායූන් පිස්ටනය සහ සිලින්ඩර් ලයිනරය (cylinder liner) අතරින් පහළට කාන්දු වීම හෙවත් බ්ලෝ බයි (blow-by) තත්ත්වයක් ඇති වූ විට එය එන්ජිමේ ක්‍රියාකාරිත්වයට දැඩි බලපෑමක් එල්ල කරයි. මෙම තත්ත්වයේදී පිස්ටන් වළලු සහ සිලින්ඩර් ලයිනරය අතර පවතින ලිහිසි තෙල් පටලය (lubricating oil film) පිලිස්සී ඉවත් වන අතර එමඟින් ලෝහමය කොටස් එකිනෙක ගැටීමෙන් ඇති වන ඝර්ෂණය (friction) සහ තාපය (heat) අධික ලෙස ඉහළ යයි. වහාම පිස්ටනය ගලවා අලුත්වැඩියා කිරීම (piston overhaul) කළ නොහැකි අවස්ථාවකදී ගත යුතු ප්‍රධානතම පියවර වන්නේ සිලින්ඩරයට ලබා දෙන ලිහිසි තෙල් ප්‍රමාණය (cylinder oil feed rate) සුළු වශයෙන් වැඩි කිරීමයි. මෙසේ තෙල් ප්‍රමාණය තරමක් වැඩි කිරීම මඟින් ගෙවී ගිය වළලු අතරින් කාන්දු වන වායූන් නිසා විනාශ වන තෙල් පටලය නැවත ස්ථාපිත කිරීමටත් එමඟින් ලයිනරය සහ වළලු සීරීමට (scuffing) ලක් වීම වැළැක්වීමටත් හැකියාව ලැබේ. කෙසේ වෙතත් සිලින්ඩර් ඔයිල් ප්‍රමාණය උපරිම මට්ටමට (maximum feed rate) වැඩි කිරීම නොකළ යුත්තේ එසේ කිරීමෙන් ස්කැවෙන්ජ් අවකාශය (scavenge space) තුළ අනවශ්‍ය ලෙස තෙල් එකතු වී කාබන් තැන්පතු (carbon deposits) ඇති වීමටත් එය ස්කැවෙන්ජ් ගින්නක් (scavenge fire) ඇති වීමේ අවදානම වැඩි කිරීමටත් හේතු වන බැවිනි. මේ හා සමාන්තරව ස්කැවෙන්ජ් අවකාශයේ ඇති කාණු (scavenge space drains) නිරන්තරයෙන් පරීක්ෂා කිරීම (monitor) ඉතා වැදගත් වේ. එම කාණුවලින් පිටවන තෙල්වල ස්වභාවය පරීක්ෂා කිරීමෙන් සිලින්ඩරය තුළ සිදුවන ගෙවී යාමේ ප්‍රමාණය සහ ලෝහ කොටස් (metal particles) පවතීද යන්න පිළිබඳව අවබෝධයක් ලබා ගත හැකිය. තවද තෙල් කළු පැහැ වී තිබේ නම් හෝ පිළිස්සුණු ගන්ධයක් පවතී නම් එය තත්ත්වය දරුණු වන බවට සංඥාවක් වන අතර එවැනි අවස්ථාවකදී එන්ජිමේ වේගය (engine speed) අඩු කිරීම වැනි අතිරේක පියවර වෙත යොමු වීමට ඉංජිනේරුවරයාට තීරණය කළ හැකිය. එබැවින් තෙල් ප්‍රමාණය සුළු වශයෙන් වැඩි කර ස්කැවෙන්ජ් ඩ්‍රේන්ස් නිරීක්ෂණය කිරීම වඩාත් සුදුසු සහ ප්‍රායෝගික තාවකාලික ක්‍රියාමාර්ගය (temporary action) ලෙස සැලකේ.",
         "tags": [
             {
-                "sub_category": "Main Engine",
+                "sub_category": "Engine",
                 "main_category": "Marine Engineering & Motive Power"
             },
             {
-                "sub_category": "Diesel Engine Maintenance",
+                "sub_category": "Engine",
                 "main_category": "Marine Engineering & Motive Power"
             }
         ]
@@ -248,7 +248,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "pumps",
+                "sub_category": "Pump",
                 "main_category": "Marine Engineering & Motive Power"
             }
         ]
@@ -268,11 +268,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "SOLAS",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             }
         ]
@@ -292,7 +292,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Main Engine",
+                "sub_category": "Engine",
                 "main_category": "Marine Engineering & Motive Power"
             }
         ]
@@ -312,11 +312,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Ship Structure",
+                "sub_category": "Stability",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             },
             {
-                "sub_category": "naval architecture",
+                "sub_category": "Stability",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             }
         ]
@@ -336,7 +336,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Electrical Engineering",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -356,11 +356,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Main Engine",
+                "sub_category": "Engine",
                 "main_category": "Marine Engineering & Motive Power"
             },
             {
-                "sub_category": "Safety Systems",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -380,7 +380,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Electrical Safety",
+                "sub_category": "Safety",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -400,11 +400,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Main Engine",
+                "sub_category": "Engine",
                 "main_category": "Marine Engineering & Motive Power"
             },
             {
-                "sub_category": "Diagnostics",
+                "sub_category": "Maintenance",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -424,11 +424,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Main Engine",
+                "sub_category": "Engine",
                 "main_category": "Marine Engineering & Motive Power"
             },
             {
-                "sub_category": "operations",
+                "sub_category": "Management",
                 "main_category": "Management, Administration & Human Factors"
             }
         ]
@@ -448,11 +448,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Main Engine",
+                "sub_category": "Engine",
                 "main_category": "Marine Engineering & Motive Power"
             },
             {
-                "sub_category": "Safety Systems",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -472,11 +472,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "refrigeration",
+                "sub_category": "HVAC",
                 "main_category": "Marine Engineering & Motive Power"
             },
             {
-                "sub_category": "operations",
+                "sub_category": "Management",
                 "main_category": "Management, Administration & Human Factors"
             }
         ]
@@ -496,11 +496,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Main Engine",
+                "sub_category": "Engine",
                 "main_category": "Marine Engineering & Motive Power"
             },
             {
-                "sub_category": "lubrication",
+                "sub_category": "Lubrication",
                 "main_category": "Marine Engineering & Motive Power"
             }
         ]
@@ -520,7 +520,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
@@ -547,7 +547,7 @@
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "Main Engine",
+                "sub_category": "Engine",
                 "main_category": "Marine Engineering & Motive Power"
             }
         ]
@@ -567,11 +567,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Ballast Water Management",
+                "sub_category": "Ballast",
                 "main_category": "Maritime Regulations, Law & Compliance"
             },
             {
-                "sub_category": "Environmental Protection",
+                "sub_category": "Environmental",
                 "main_category": "Maritime Regulations, Law & Compliance"
             }
         ]
@@ -590,11 +590,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "SOLAS",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             }
         ]
@@ -614,11 +614,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "ISM Code",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             },
             {
-                "sub_category": "Certification",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             }
         ]
@@ -638,11 +638,11 @@
         "explanation": "Lead-acid බැටරියක් සම්පූර්ණයෙන්ම ආරෝපිත (fully charged) ද නැද්ද යන්න තහවුරු කර ගැනීම සඳහා වඩාත්ම නිවැරදි සහ තාක්ෂණික ක්‍රමය වන්නේ එහි Electrolyte වල සාපේක්ෂ ඝනත්වය හෙවත් Specific gravity මැන බැලීමයි. මෙම ක්‍රියාවලියේදී Hydrometer නම් උපකරණය භාවිතා කරමින් බැටරි සෛලයක (cell) ඇති අම්ල ද්‍රාවණයේ සාන්ද්‍රණය මනිනු ලැබේ. බැටරිය ආරෝපණය වන විට එහි ඇති රසායනික ප්‍රතික්‍රියාව හේතුවෙන් Electrolyte වල අඩංගු සල්ෆියුරික් අම්ලයේ (Sulphuric acid) සාන්ද්‍රණය වැඩි වන අතර ජලයේ ප්‍රමාණය සාපේක්ෂව අඩු වේ. එමනිසා බැටරිය පූර්ණ ආරෝපිත තත්ත්වයක පවතින විට එහි Specific gravity අගය වැඩි අගයක් පෙන්වයි. බැටරිය විසර්ජනය (discharge) වන විට අම්ලය තහඩු (plates) වල තැන්පත් වන බැවින් Electrolyte වල අම්ල සාන්ද්‍රණය අඩු වී ජලයේ ප්‍රමාණය වැඩි වීමෙන් Specific gravity අගය පහළ යයි. බැටරි වෝල්ටීයතාවය (Voltage) මැනීම මගින් ද බැටරියේ තත්ත්වය පිළිබඳ දළ අදහසක් ලබාගත හැකි වුවත්, එය පෘෂ්ඨීය ආරෝපණය (surface charge) නිසා වැරදි දත්ත ලබා දීමට ඉඩ ඇති බැවින් සාපේක්ෂ ඝනත්වය මැනීම වඩාත් විශ්වාසදායක වේ. Electrolyte වල මට්ටම (level) මැනීමෙන් බැටරියේ ආරෝපණ තත්ත්වය තීරණය කළ නොහැකි අතර එයින් සිදු වන්නේ බැටරියට ජලය එකතු කිරීමේ අවශ්‍යතාවය හඳුනා ගැනීම පමණි. එමෙන්ම Electrolyte වල උෂ්ණත්වය (temperature) මැනීම මගින් ආරෝපණ තත්ත්වය සෘජුවම තීරණය කළ නොහැකි වුවත්, සාපේක්ෂ ඝනත්වය මැනීමේදී උෂ්ණත්ව වෙනස්කම් සඳහා නිවැරදි කිරීම් (temperature correction) සිදු කිරීම අනිවාර්ය වේ. මේ සියලු කරුණු සැලකිල්ලට ගත් විට සාපේක්ෂ ඝනත්වය මැනීම ප්‍රායෝගිකව බැටරියක තත්ත්වය තහවුරු කිරීමට ඇති හොඳම ක්‍රමවේදයයි.",
         "tags": [
             {
-                "sub_category": "Electrical Engineering",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "maintenance",
+                "sub_category": "Maintenance",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             }
         ]
@@ -662,11 +662,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Master's Responsibilities",
+                "sub_category": "Management",
                 "main_category": "Management, Administration & Human Factors"
             },
             {
-                "sub_category": "Safety Management",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -686,11 +686,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Purifiers",
+                "sub_category": "Purifier",
                 "main_category": "Marine Engineering & Motive Power"
             },
             {
-                "sub_category": "Fuel Systems",
+                "sub_category": "Fuels",
                 "main_category": "Marine Engineering & Motive Power"
             }
         ]
@@ -710,11 +710,11 @@
         "explanation": "රාත්‍රී කාලයේදී බන්කර් කිරීමේදී (Bunkering) තත්ත්වය පාලනයෙන් ගිලිහෙන බව දැනුනහොත් ගත යුතු ආරක්ෂිතම පියවර වන්නේ වහාම බන්කර් කිරීම නතර කිරීමයි. ඉන්පසු සියලු කරුණු පරීක්ෂා කර, පද්ධතිය නැවත පාලනයට නතු කර ගැනීමෙන් පසුව පමණක් වැඩ ආරම්භ කළ යුතුය. දිගටම කරගෙන යාමෙන් තෙල් පිටාර ගැලීම (Oil spill) වැනි බරපතල පාරිසරික හානි සිදුවිය හැක. සන්නිවේදනය හෝ වේගය අඩු කිරීම පමණක් මෙහිදී ප්‍රමාණවත් නොවේ.",
         "tags": [
             {
-                "sub_category": "bunkering",
+                "sub_category": "Bunkering",
                 "main_category": "Cargo Operations & Vessel Types"
             },
             {
-                "sub_category": "Safety Management",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -734,7 +734,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Main Engine",
+                "sub_category": "Engine",
                 "main_category": "Marine Engineering & Motive Power"
             }
         ]
@@ -754,7 +754,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Electrical Power",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -774,7 +774,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "electronics",
+                "sub_category": "Electronics",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -794,7 +794,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Electrical Engineering",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -814,7 +814,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Electrical Machines",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -834,7 +834,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Main Engine",
+                "sub_category": "Engine",
                 "main_category": "Marine Engineering & Motive Power"
             }
         ]
@@ -854,11 +854,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Purifiers",
+                "sub_category": "Purifier",
                 "main_category": "Marine Engineering & Motive Power"
             },
             {
-                "sub_category": "operations",
+                "sub_category": "Management",
                 "main_category": "Management, Administration & Human Factors"
             }
         ]
@@ -882,7 +882,7 @@
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "Fuel Systems",
+                "sub_category": "Fuels",
                 "main_category": "Marine Engineering & Motive Power"
             }
         ]
@@ -902,11 +902,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "Emergency Procedures",
+                "sub_category": "Emergency",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -926,11 +926,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "IMO",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             },
             {
-                "sub_category": "Maritime Law",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             }
         ]
@@ -950,11 +950,11 @@
         "explanation": "නැවක සිදුවන කුඩා තෙල් කාන්දුවීම් වලින් සිදුවන පරිසර දූෂණය වැළැක්වීමේ හොඳම ක්‍රමය වන්නේ එම තෙල් නැව තුළම රඳවා ගැනීමයි (containment). මුහුදට තෙල් කාන්දු වීමට පෙර නැව මතුපිට ඇති scuppers වසා දැමීම, sawdust හෝ oil pads භාවිතා කර තෙල් අවශෝෂණය කිරීම මෙයට අයත් වේ. තෙල් මුහුදට ගිය පසු එය පිරිසිදු කිරීම වඩාත් අපහසු සහ වියදම් අධික කටයුත්තකි. එබැවින් තෙල් කාන්දුව නැවෙන් පිටතට යාම වැළැක්වීම ප්‍රමුඛතම කාර්යය වේ.",
         "tags": [
             {
-                "sub_category": "Environmental Protection",
+                "sub_category": "Environmental",
                 "main_category": "Maritime Regulations, Law & Compliance"
             },
             {
-                "sub_category": "Shipboard Maintenance",
+                "sub_category": "Maintenance",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             }
         ]
@@ -974,11 +974,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Safety Equipment",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "maintenance",
+                "sub_category": "Maintenance",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             }
         ]
@@ -998,7 +998,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Electrical Engineering",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -1017,11 +1017,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Main Engine",
+                "sub_category": "Engine",
                 "main_category": "Marine Engineering & Motive Power"
             },
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -1058,11 +1058,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Main Engine",
+                "sub_category": "Engine",
                 "main_category": "Marine Engineering & Motive Power"
             },
             {
-                "sub_category": "turbocharger",
+                "sub_category": "Turbocharger",
                 "main_category": "Marine Engineering & Motive Power"
             }
         ]
@@ -1082,11 +1082,11 @@
         "explanation": "නැවක ආරක්ෂාව තහවුරු කිරීම සඳහා නැවට අලුතින් පැමිණෙන හෝ දැනට සිටින සෑම පුද්ගලයෙකුම (Everyone) හුරුපුරුදු වීමේ පුහුණුව (familiarization training) ලබාගත යුතුය. මෙයට නැව් කාර්ය මණ්ඩලය මෙන්ම වෙනත් සේවා සඳහා පැමිණෙන පුද්ගලයන්ද ඇතුළත් වේ. හදිසි අවස්ථාවකදී ක්‍රියා කළ යුතු ආකාරය සහ ආරක්ෂක උපකරණ පිහිටා ඇති ස්ථාන පිළිබඳව සෑම දෙනාම දැනුවත් වී සිටීම අනිවාර්ය ජාත්‍යන්තර නීතියකි. එන්ජින් කාර්ය මණ්ඩලයට හෝ තෝරාගත් පිරිසකට පමණක් මෙය සීමා කිරීම අනාරක්ෂිතය.",
         "tags": [
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "training",
+                "sub_category": "Management",
                 "main_category": "Management, Administration & Human Factors"
             }
         ]
@@ -1106,11 +1106,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Main Engine",
+                "sub_category": "Engine",
                 "main_category": "Marine Engineering & Motive Power"
             },
             {
-                "sub_category": "operations",
+                "sub_category": "Management",
                 "main_category": "Management, Administration & Human Factors"
             }
         ]
@@ -1130,11 +1130,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "ship stability",
+                "sub_category": "Stability",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             },
             {
-                "sub_category": "naval architecture",
+                "sub_category": "Stability",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             }
         ]
@@ -1154,11 +1154,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Main Engine",
+                "sub_category": "Engine",
                 "main_category": "Marine Engineering & Motive Power"
             },
             {
-                "sub_category": "turbocharger",
+                "sub_category": "Turbocharger",
                 "main_category": "Marine Engineering & Motive Power"
             }
         ]
@@ -1178,11 +1178,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Main Engine",
+                "sub_category": "Engine",
                 "main_category": "Marine Engineering & Motive Power"
             },
             {
-                "sub_category": "Safety Systems",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -1206,7 +1206,7 @@
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "Sensors",
+                "sub_category": "Instrumentation",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -1226,11 +1226,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Main Engine",
+                "sub_category": "Engine",
                 "main_category": "Marine Engineering & Motive Power"
             },
             {
-                "sub_category": "maintenance",
+                "sub_category": "Maintenance",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             }
         ]
@@ -1254,7 +1254,7 @@
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "Control Engineering",
+                "sub_category": "Controls",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -1274,11 +1274,11 @@
         "explanation": "නැවක හෝ ඕනෑම කාර්මික පසුබිමක භාවිතා වන තාපන මූලද්‍රව්‍යයක (Heating element) අඛණ්ඩතාව සහ ප්‍රතිරෝධය (Resistance) ගණනය කිරීම සඳහා අපි ඕම් නියමය (Ohm's Law) පදනම් කර ගනිමු. මෙහිදී අපට ලබා දී ඇති දත්ත වන්නේ වෝල්ටීයතාවය (Voltage) 220V සහ බලය (Power) 2.2kW හෙවත් 2200W වේ. ඕම් නියමය අනුව ප්‍රතිරෝධය සෙවීමට භාවිතා කරන සූත්‍රය වන්නේ R සමාන වේ V වර්ගය බෙදීම P (R=V²/P) යන්නයි. මෙහිදී 220 වැඩි කිරීම 220 ලබාගත් විට 48400 ලැබෙන අතර එය 2200න් බෙදූ විට 22 ඕම්ස් (22 Ohms) ලෙස අගය ලැබේ. තාපන මූලද්‍රව්‍යයක් ක්‍රියාත්මක වන විට එහි උෂ්ණත්වය ඉහළ යාමත් සමඟ ලෝහයේ විද්‍යුත් ප්‍රතිරෝධය යම් ප්‍රමාණයකින් වෙනස් විය හැකි නමුත්, නාමික ක්‍රියාකාරී උෂ්ණත්වයේදී (Rated operating temperature) එහි ප්‍රතිරෝධය නිවැරදිව පෙන්වන්නේ මෙම ගණනය කිරීමේ අගයයි. විකල්ප අතරින් 22 ඕම්ස් යනු නිවැරදි පිළිතුර වන්නේ ඉහත ගණිතමය සූත්‍රයට අනුව තාපන මූලද්‍රව්‍යයේ භෞතික ලක්ෂණ තීරණය වන බැවිනි. අනෙක් අගයන් වන 220 ඕම්ස් හෝ 10 ඕම්ස් වැනි අගයන් මෙම වෝල්ටීයතාවයට සහ බලයට අනුරූප නොවන අතර 0.1 ඕම්ස් යනු කෙටි පරිපථයක් (Short circuit) පවතින බව හඟවන අගයකි. එමනිසා නඩත්තු කටයුතු වලදී බහුමාපකයක් (Multimeter) මගින් පරීක්ෂා කිරීමේදී මෙම 22 ඕම්ස් අගය ලැබීම මගින් මූලද්‍රව්‍යයේ අඛණ්ඩතාව (Continuity) නිවැරදි බව සහ එය නියමිත පරාසය තුළ ක්‍රියාත්මක වන බව තහවුරු කර ගත හැකිය.",
         "tags": [
             {
-                "sub_category": "Electrical Engineering",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "maintenance",
+                "sub_category": "Maintenance",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             }
         ]
@@ -1298,11 +1298,11 @@
         "explanation": "නෞකාවක හදිසි අවස්ථාවකදී කාර්ය මණ්ඩලයේ එක් එක් සාමාජිකයා විසින් ඉටු කළ යුතු කාර්යයන් සහ වගකීම් පැහැදිලිව සඳහන් කර ඇති ලේඛනය Muster List ලෙස හැඳින්වේ. මෙම ලේඛනය SOLAS (Safety of Life at Sea) සම්මුතියේ ප්‍රධාන අවශ්‍යතාවයක් වන අතර නැවක ආරක්ෂාව පවත්වා ගැනීමට එය අත්‍යවශ්‍ය වේ. ඔබ විමසා ඇති විකල්පයන් අතරින් ජීවිතාරක්ෂක බෝට්ටු සහ පරාල (Survival crafts) සූදානම් කිරීම සහ ඒවා මුහුදට මුදා හැරීම (Launching) යනු Muster List එකෙහි අනිවාර්යයෙන්ම ඇතුළත් විය යුතු මූලිකම රාජකාරියකි. මීට හේතුව වන්නේ හදිසි අවස්ථාවකදී නැව අතහැර යාමට (Abandon ship) සිදු වුවහොත් කාර්ය මණ්ඩලය සහ මගීන් ආරක්ෂිතව ජලය මත පාවෙන උපකරණ වෙත යොමු කිරීම සඳහා නිශ්චිත කණ්ඩායම් වලට වගකීම් පැවරීම අත්‍යවශ්‍ය වීමයි. මෙහිදී එක් එක් පුද්ගලයාට නියමිත ස්ථානයට යාම (Muster station), ජීවිතාරක්ෂක කබා (Life jackets) පැළඳීම සහ Survival crafts ක්‍රියාත්මක කිරීම සඳහා අවශ්‍ය තාක්ෂණික කාර්යයන් සඳහා වෙන වෙනම වගකීම් පවරා තිබිය යුතුය. අනෙකුත් විකල්පයන් වන ගැලවී යාමේ මාර්ග (Escape routes) පිරිසිදු කිරීම හෝ හදිසි විදුලි ජනකය (Emergency generator) ක්‍රියාත්මක කිරීම වැනි රාජකාරි ද නැවක ආරක්ෂාවට වැදගත් වුවද, Muster List එකෙහි ප්‍රධාන අරමුණ වන්නේ ජීවිත බේරා ගැනීමේ මෙහෙයුම් වේගවත් කිරීමයි. විශේෂයෙන්ම Survival crafts සූදානම් කිරීමේ කාර්යය වැනි තීරණාත්මක කටයුතු පිළිබඳව කාර්ය මණ්ඩලය නිරන්තරයෙන් පුහුණු වී සිටීමත්, එම තොරතුරු Muster List එකෙහි පැහැදිලිව සටහන් වී තිබීමත් නීතිමය වශයෙන් අනිවාර්ය වේ. එමගින් හදිසි අවස්ථාවකදී සිදුවිය හැකි ව්‍යාකූලත්වය අවම කර ගනිමින් කාර්යක්ෂමව ජීවිතාරක්ෂක කටයුතු සිදු කිරීමට හැකි වේ.",
         "tags": [
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "Emergency Procedures",
+                "sub_category": "Emergency",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -1322,7 +1322,7 @@
         "explanation": "නැවක ප්‍රධාන විදුලි ජනන පද්ධතිය සාමාන්‍යයෙන් වෝල්ට් 440 වැනි අඩු වෝල්ටීයතාවයකින් (Low Voltage) ක්‍රියාත්මක වුවද, බවු ත්‍රස්ටර් (Bow Thruster) වැනි ඉතා ඉහළ බලයක් අවශ්‍ය වන උපකරණ සඳහා වෝල්ටීයතාව ඉහළ නැංවීමට (Step up) ප්‍රධාන හේතුව වන්නේ විද්‍යුත් බලය සම්ප්‍රේෂණය කිරීමේදී සිදුවන ශක්ති හානිය අවම කර ගැනීමයි. විදුලි බලය යනු වෝල්ටීයතාව සහ ධාරාවෙහි ගුණිතයයි. බවු ත්‍රස්ටර් එකක් වැනි විශාල මෝටරයක් ක්‍රියාත්මක කිරීමේදී විශාල විද්‍යුත් ධාරාවක් (Current) අවශ්‍ය වේ. මෙම ධාරාව අඩු වෝල්ටීයතාවයකදී ප්‍රවාහනය කළහොත් විදුලි කේබල් හරහා විශාල වෝල්ටීයතා පහත වැටීමක් (Voltage drop) සිදුවේ. එනම් කේබල්වල ඇති අභ්‍යන්තර ප්‍රතිරෝධය නිසා යම් විද්‍යුත් ශක්තියක් තාපය ලෙස අපතේ යයි. නෞකාවක විදුලි ජනකය (Generator) සහ බවු ත්‍රස්ටරය අතර පරතරය තරමක් වැඩි බැවින් දිගු කේබල් හරහා අඩු වෝල්ටීයතාවයකින් විශාල ධාරාවක් ගෙන යාම අතිශය අකාර්යක්ෂම වේ. එබැවින් ට්‍රාන්ස්ෆෝමරයක් (Transformer) භාවිතයෙන් වෝල්ටීයතාව ඉහළ නැංවූ විට, එම බලයම ගෙන යාමට අවශ්‍ය ධාරාවේ ප්‍රමාණය අඩු වේ. ඕම් නියමයට අනුව ධාරාව අඩු වූ විට කේබල් හරහා සිදුවන බල හානිය සහ වෝල්ටීයතා පහත වැටීම සැලකිය යුතු ලෙස අඩු වේ. එසේම මෙසේ වෝල්ටීයතාව වැඩි කිරීමෙන් වඩා කුඩා හරස්කඩක් සහිත කේබල් (Cables) භාවිත කිරීමට හැකි වීම නිසා නැවේ බර අඩු කර ගැනීමට සහ විදුලි පද්ධතියේ කාර්යක්ෂමතාව ඉහළ නංවා ගැනීමට ඉංජිනේරුවන්ට හැකි වේ. එමනිසා නෞකා නිර්මාණයේදී ඉහළ ශක්තියක් අවශ්‍ය වන උපකරණ සඳහා මෙම ක්‍රමවේදය අනුගමනය කිරීම තාක්ෂණික වශයෙන් වඩාත් සුදුසු සහ ආර්ථිකමය වශයෙන් ලාභදායී විසඳුමකි.",
         "tags": [
             {
-                "sub_category": "Electrical Engineering",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -1342,11 +1342,11 @@
         "explanation": "නැවක සිදුවිය හැකි ඕනෑම පරිසර දූෂණයක් වැළැක්වීමට (To avoid pollution) සුදුසුකම් ලත් නිලධාරියෙකු (Duly qualified officer) අධීක්ෂණය කිරීම අත්‍යවශ්‍ය වන්නේ එම මෙහෙයුම්වල ඇති සංකීර්ණත්වය සහ ඉන් සිදුවිය හැකි බරපතල පාරිසරික බලපෑම් හේතුවෙනි. ඉන්ධන ලබාගැනීම (Bunkering), තෙල් මිශ්‍ර ජලය බැහැර කිරීම (Oily water discharge) හෝ භාණ්ඩ පැටවීම හා බෑම වැනි මෙහෙයුම් වලදී ඉතා කුඩා අත්වැරදීමකින් වුවද විශාල මුහුදු පරිසර දූෂණයක් සිදුවිය හැක. සුදුසුකම් ලත් නිලධාරියෙකු මෙම ක්‍රියාවලිය අධීක්ෂණය කිරීමේදී අදාළ නීති රෙගුලාසි වන මාපෝල් (MARPOL) සම්මුතියේ නියමයන් මෙන්ම සමාගමේ ආරක්ෂක කළමනාකරණ පද්ධතියේ (Safety Management System) උපදෙස් නිවැරදිව ක්‍රියාත්මක වේදැයි සහතික කරයි. මෙම නිලධාරියා සතුව පවතින තාක්ෂණික දැනුම සහ අත්දැකීම් මගින් මෙහෙයුම අතරතුරදී සිදුවිය හැකි කාන්දුවීම් (Leakages) වැනි හදිසි තත්ත්වයන් කල්තියා හඳුනාගෙන ඒවා පාලනය කිරීමටත්, පද්ධතිවල පීඩනය (Pressure) සහ කපාටවල ක්‍රියාකාරිත්වය (Valve operation) නිසි පරිදි පවත්වා ගැනීමටත් හැකිවේ. මෙසේ වගකිවයුතු නිලධාරියෙකුගේ මගපෙන්වීම යටතේ මෙහෙයුම් සිදු කිරීම මගින් මානව දෝෂ (Human error) අවම කරගෙන නාවික පරිසරය ආරක්ෂා කිරීම ප්‍රධාන අරමුණයි. එබැවින් මෙම කාර්යය හුදෙක් විධිමත්භාවය සඳහා පමණක් නොව සැබෑ ලෙසම පරිසරයට හානි සිදුවීම මුලිනුපුටා දැමීම සඳහා සිදු කරනු ලබන අනිවාර්ය ආරක්ෂක පියවරකි.",
         "tags": [
             {
-                "sub_category": "Environmental Protection",
+                "sub_category": "Environmental",
                 "main_category": "Maritime Regulations, Law & Compliance"
             },
             {
-                "sub_category": "regulations",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             }
         ]
@@ -1366,11 +1366,11 @@
         "explanation": "නැව් එන්ජිමක් හෝ මධ්‍යම වේග ඩීසල් එන්ජිමක් (Medium speed diesel engine) මගින් පාලනය කළ හැකි තණතීරු ප්‍රචාලකයක් (Controllable pitch propeller - CPP) ධාවනය කිරීමේදී එන්ජිම ආරම්භ කිරීමෙන් පසු සහ ක්ලච් (Clutch) යාන්ත්‍රණය සම්බන්ධ කිරීමට පෙර ප්‍රචාලක තල (Propeller blades) අනිවාර්යයෙන්ම ශුන්‍ය තණතීරු පිහිටුමේ (Zero pitch position) තිබිය යුතුය. මෙයට ප්‍රධාන හේතුව වන්නේ එන්ජිම සහ ප්‍රචාලකය අතර සම්බන්ධතාවය ඇති කරන අවස්ථාවේදී එන්ජිම මත පැටවෙන බර (Engine load) අවම කිරීමයි. ප්‍රචාලක තල ශුන්‍ය පිහිටුමේ පවතින විට ජලය තුළදී ඒවා මගින් නිර්මාණය වන තෙරපුම (Thrust) නොමැති තරම් බැවින් එන්ජිම ඉතා සැහැල්ලුවෙන් භ්‍රමණය වේ. ඔබ එන්ජිම ආරම්භ කළ පසු ක්ලච් එක සම්බන්ධ කරන අවස්ථාවේදී ප්‍රචාලක තල යම් කෝණයක හෝ තණතීරුවක තිබුණහොත් එය එන්ජිමට හදිසි අධික බරක් (Sudden heavy load) පැටවීමට හේතු විය හැකි අතර එය එන්ජිම හදිසියේ නතර වීමට (Stalling) හෝ ගියර් පෙට්ටියට (Reduction gearbox) සහ ක්ලච් පද්ධතියට විශාල යාන්ත්‍රික හානියක් සිදු වීමට මග පාදයි. එම නිසා ආරම්භක අවස්ථාවේදී මෙම ශුන්‍ය තණතීරු පිහිටුම එනම් ප්‍රචාලක තල ජලයේ ගමන් නොකරන උදාසීන පිහිටුමේ තබා ගැනීම නාවික ඉංජිනේරු විද්‍යාවේදී අනිවාර්ය ආරක්ෂිත පියවරක් ලෙස සැලකේ. ක්ලච් එක සාර්ථකව සම්බන්ධ කිරීමෙන් පසුව පමණක් අවශ්‍යතාවය අනුව ප්‍රචාලක තලවල කෝණය වෙනස් කරමින් නැව ඉදිරියට හෝ පසුපසට ගමන් කිරීම සඳහා අවශ්‍ය තෙරපුම ලබා ගනු ලැබේ.",
         "tags": [
             {
-                "sub_category": "propulsion",
+                "sub_category": "Engine",
                 "main_category": "Marine Engineering & Motive Power"
             },
             {
-                "sub_category": "Main Engine",
+                "sub_category": "Engine",
                 "main_category": "Marine Engineering & Motive Power"
             }
         ]
@@ -1390,11 +1390,11 @@
         "explanation": "මුහුදු යාත්‍රා, බෝට්ටු හෝ ගුවන් යානා වලින් වෙනත් යාත්‍රා වලට, බෝට්ටු වලට හෝ ගුවන් යානා වලට දෘශ්‍ය සංඥා (visual signals) සම්ප්‍රේෂණය කිරීම සඳහා විවිධ වර්ගයේ පයිරොටෙක්නික් (pyrotechnics) භාවිතා කරන අතර, මෙහි සඳහන් කරුණු තුනම මෙම අරමුණු සඳහා යොදා ගැනෙනවා. \"රොකට් පැරෂුට් ෆ්ලෙයාර්\" (Rocket parachute flare) යනු දිවා කාලයේදී මෙන්ම රාත්‍රී කාලයේදීත් දුරස්ථව සිටින අයට හදිසි ආපදාවක් (distress) පිළිබඳ සංඥා කිරීමට භාවිතා කරන උපකරණයක්. මෙය අහසට වෙඩි තැබූ විට, රොකට්ටුව මගින් ඉතා ඉහළට ගමන් කර, පසුව පැරෂූටයක් විවෘත වී, දීප්තිමත් රතු ආලෝකයක් විහිදුවන ෆ්ලෙයාර් එකක් සෙමෙන් බිමට පාවී එනවා. මෙය කිලෝමීටර් ගණනාවක් ඈත සිට දැකගත හැකි අතර, ආලෝකය මිනිත්තු කිහිපයක් පවතින නිසා උපකාර ඉල්ලන යාත්‍රාවේ හෝ පුද්ගලයාගේ පිහිටීම පහසුවෙන් හඳුනාගත හැකියි. \"බොයන්ට් ස්මෝක් සිග්නල්\" (Buoyant smoke signal) යනු දිවා කාලයේදී පමණක් භාවිතා කරන සංඥා උපකරණයක්. මෙය ජලයට දැමූ විට, එය ජලය මත පාවෙමින් (buoyant) දීප්තිමත් තැඹිලි පැහැති ඝන දුමාරයක් මිනිත්තු කිහිපයක් නිකුත් කරනවා. මෙම දුමාරය ගලවා ගැනීමේ මෙහෙයුම් වලදී (rescue operations) යාත්‍රා හෝ ගුවන් යානා වලට මුහුදේ පිහිටීම නිශ්චිතව හඳුනා ගැනීමට (marking position) මහත් උපකාරයක් වනවා. \"හැන්ඩ් ෆ්ලෙයාර්\" (Hand flare) යනු අතින් අල්ලාගෙන භාවිතා කරන සංඥා උපකරණයක් වන අතර, මෙය සාමාන්‍යයෙන් රාත්‍රී කාලයේදී හෝ අඩු දෘශ්‍යතාවයකින් (low visibility) යුත් අවස්ථාවලදී ගලවා ගැනීමේ යාත්‍රාවක් හෝ ගුවන් යානයක් ළඟට පැමිණි විට, තමන් සිටින නිශ්චිත ස්ථානය පෙන්වීමට (pinpointing location) භාවිතා කරනවා. එය ඉතා දීප්තිමත් රතු ආලෝකයක් සාමාන්‍යයෙන් මිනිත්තුවක් පමණ කාලයක් නිකුත් කරනවා. එබැවින් මෙම පයිරොටෙක්නික් වර්ග තුනම විවිධ තත්වයන් යටතේ දෘශ්‍ය සංඥා සම්ප්‍රේෂණය කිරීමේ පොදු අරමුණක් සඳහා භාවිතා වන නිසා, \"සියල්ලම\" (All of the below mentioned) යන්න නිවැරදි පිළිතුරයි.",
         "tags": [
             {
-                "sub_category": "Life Saving Appliances",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -1414,11 +1414,11 @@
         "explanation": "අධිවේග ඩීසල් එන්ජිමක සිලින්ඩර බලයන් (cylinder powers) නිවැරදිව සමබර වී ඇති බව තහවුරු කරගැනීම සඳහා හොඳම ක්‍රමය වන්නේ මොනොබ්ලොක් බහු-සිලින්ඩර ඉන්ධන පොම්පය (monoblock multi-cylinder fuel pump) පරීක්ෂණ වැඩපොළකදී (test workshop) ෆේස් (phased) කර ක්‍රමාංකනය (calibrated) කිරීමයි. මක්නිසාද යත්, එන්ජිමක සිලින්ඩර අතර බලය සමබරතාවය සඳහා ප්‍රධාන වශයෙන්ම බලපාන්නේ එක් එක් සිලින්ඩරයට නිවැරදි එන්නත් කාලයකදී (injection timing) නිවැරදි ඉන්ධන ප්‍රමාණයක් (fuel quantity) සැපයීමයි. මොනොබ්ලොක් ඉන්ධන පොම්පයක, සෑම සිලින්ඩරයක් සඳහාම වෙන වෙනම පොම්ප මූලද්‍රව්‍යයක් (pump element) පවතී. මෙම මූලද්‍රව්‍යයන් නිශ්චිතවම ෆේස් කිරීමෙන් (එන්නත් කාලය සකස් කිරීමෙන්) සහ ක්‍රමාංකනය කිරීමෙන් (ඉන්ධන ප්‍රමාණය සකස් කිරීමෙන්), සෑම සිලින්ඩරයකටම අවශ්‍ය ඉන්ධන එකම වෙලාවට සහ එකම ප්‍රමාණයට ලැබෙන බව සහතික කළ හැකිය. මෙය සිලින්ඩර බලයන් සමබර කිරීම සඳහා මූලික හා සෘජුම ක්‍රමයයි. අධිවේග එන්ජින් වලදී ඉන්ධන එන්නත් කිරීමේ නිරවද්‍යතාවය ඉතා වැදගත් වන අතර, වැඩපොළක ඇති විශේෂ උපකරණ මගින් මෙම නිරවද්‍යතාවය ඉහළ මට්ටමකින් ලබාගත හැකිය.\n\nවෙනත් විකල්ප එතරම් සුදුසු නොවන හේතු මෙසේය:\nසෑම සිලින්ඩරයකම පිටාර වායු උෂ්ණත්වය (exhaust temperatures) සමාන දැයි පරීක්ෂා කිරීමෙන් සාමාන්‍ය දහන තත්ත්වය පිළිබඳ අදහසක් ලබාගත හැකි වුවද, එය බලය සමබරතාවය මැන බැලීම සඳහා හෝ ඉන්ධන පොම්පය සකස් කිරීම සඳහා සෘජු හා නිරවද්‍ය ක්‍රමයක් නොවේ. පිටාර වායු උෂ්ණත්වය ඉන්ධන ප්‍රමාණය, වාතය සැපයීම, එන්නත්කාරකයේ (injector) තත්ත්වය සහ සම්පීඩනය (compression) වැනි විවිධ සාධක මත රඳා පවතී. එමනිසා එය ඉන්ධන පොම්පයේ සමබරතාවය තහවුරු කිරීමට හොඳම මිනුමක් නොවේ.\n\nසෑම සිලින්ඩරයකම උපරිම පීඩනය (maximum pressure) මැනීම ද දහනයේ තත්ත්වය පිළිබඳ වැදගත් තොරතුරු සපයයි. නමුත් මෙයද දහනයේ ප්‍රතිඵලයක් වන අතර, අධිවේග එන්ජින් වලදී උපරිම පීඩනය නිවැරදිව මැනීම අපහසු විය හැක. එසේම, මෙය මගින් ඉන්ධන පොම්පයේ මූලද්‍රව්‍යයන් සෘජුවම සමබර කිරීමට අවශ්‍ය නිරවද්‍ය දත්ත ලබා නොදේ.\n\nයාන්ත්‍රික දර්ශකයක් (mechanical indicator) භාවිතයෙන් දර්ශක කාඩ්පත් (indicator cards) ලබාගෙන සිලින්ඩර බලයන් ගණනය කිරීම, මධ්‍යම සහ මන්දගාමී වේග එන්ජින් වලට වඩාත් සුදුසු ක්‍රමයකි. නමුත් අධිවේග ඩීසල් එන්ජින් වලදී යාන්ත්‍රික දර්ශක භාවිතය ක්‍රියාකාරී නොවන අතර, අධික වේගය නිසා නිවැරදි දත්ත ලබාගැනීම අපහසු වේ. ඉලෙක්ට්‍රොනික දර්ශක (electronic indicators) භාවිත කළ හැකි වුවද, එයින් සිලින්ඩර බලය පිළිබඳව දැනගත හැකි වුවත්, ඉන්ධන පොම්පය සෘජුවම සකස් කිරීම සඳහා එය හොඳම ක්‍රමය නොවේ. ඉන්ධන පොම්පය ක්‍රමාංකනය කිරීමෙන් සිලින්ඩර බලයන් මුලින්ම සමබර කර ගැනීම, පසුව විශ්ලේෂණ ක්‍රම මගින් පරීක්ෂා කිරීමට වඩා කාර්යක්ෂම වේ.",
         "tags": [
             {
-                "sub_category": "Main Engine",
+                "sub_category": "Engine",
                 "main_category": "Marine Engineering & Motive Power"
             },
             {
-                "sub_category": "maintenance",
+                "sub_category": "Maintenance",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             }
         ]
@@ -1438,11 +1438,11 @@
         "explanation": "මෙම ගැටලුව සඳහා වඩාත්ම සුදුසු සහ ආර්ථිකමය වශයෙන් ලාභදායී ස්ථිර විසඳුම වන්නේ හානි වූ වානේ චොක්ස් (Steel chocks) ඉවත් කර ඒ වෙනුවට සුදුසු ප්‍රමාණයේ රෙසින් පදනම් කරගත් චොක්ස් (Resin based chocks) භාවිතා කිරීමයි. සාමාන්‍යයෙන් මධ්‍යම වේගයේ ඩීසල් එන්ජින් (Medium speed diesel engines) වලදී වානේ චොක්ස් නිශ්චිත ඉවසීමේ සීමාවන් තුළ යන්ත්‍රගත කිරීම (Machining) සහ සවි කිරීම ඉතා අපහසු කාර්යයකි. මෙහිදී සිදුවී ඇති ප්‍රධාන ගැටලුව වන්නේ එන්ජින් ඇඳේ (Bedplate) සහ ටැංකි මුදුනේ (Tank top) පෘෂ්ඨයන් අතර පවතින සුළු අසමානතාවන් නිසා ලෝහමය වානේ චොක්ස් මගින් සම්පූර්ණ පෘෂ්ඨීය සම්බන්ධතාවයක් ලබා නොදීමයි. රෙසින් චොක්ස් භාවිතා කිරීමේදී එම ද්‍රව්‍යය දියරමය තත්ත්වයෙන් පවතින නිසා එය එන්ජින් පාදය සහ ටැංකි මුදුන අතර පවතින සියලුම කුඩා හිඩැස් සහ අසමානතාවන් පිරී යන පරිදි ස්වයං-සකස් වීමක් (Self-leveling) සිදු කරයි. මෙය මගින් එන්ජින් බර සම්පූර්ණයෙන්ම සහ ඒකාකාරව බෙදී යාම සහතික කෙරෙන අතර එමගින් නැවත වරක් කම්පනය නිසා ඇතිවන ලිහිල් වීම් (Slackening) සහ ඝර්ෂණයෙන් සිදුවන හානිය (Fretting damage) වළක්වා ගත හැකිය. වානේ චොක්ස් මෙන් නොව රෙසින් චොක්ස් මගින් යම් ප්‍රමාණයක කම්පන අවශෝෂණය කිරීමේ හැකියාවක් ද පවතින අතර එය මෙවැනි ගැටලු නැවත ඇතිවීම වැළැක්වීමට විශාල දායකත්වයක් ලබා දෙයි. අනෙකුත් විකල්ප සලකා බැලීමේදී බෝල්ට් තද කිරීමේ බලය වැඩි කිරීමෙන් පමණක් මෙම හානිය නිවැරදි කළ නොහැකි අතර එය එන්ජින් ඇඳ මත අමතර ආතතියක් (Stress) ඇති කිරීමට හේතු වේ. සම්පූර්ණ පද්ධතියම රෙසින් හෝ රිසිලියන්ට් මවුන්ට්ස් (Resilient mounts) මගින් ප්‍රතිස්ථාපනය කිරීම අතිශය වියදම්කාරී වන අතර එන්ජින් පෙළගැස්ම (Alignment) සම්පූර්ණයෙන්ම වෙනස් කිරීමට සිදුවන බැවින් හානි වූ කොටස් පමණක් රෙසින් චොක්ස් මගින් ප්‍රතිස්ථාපනය කිරීම වඩාත් කාර්යක්ෂම සහ දිරිගැන්විය හැකි ක්‍රියාවලියකි.",
         "tags": [
             {
-                "sub_category": "Main Engine",
+                "sub_category": "Engine",
                 "main_category": "Marine Engineering & Motive Power"
             },
             {
-                "sub_category": "maintenance",
+                "sub_category": "Maintenance",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             }
         ]
@@ -1462,7 +1462,7 @@
         "explanation": "මෙම ප්‍රශ්නයට අදාළ නිවැරදි පිළිතුර වන්නේ ආරම්භක වායු කපාටයක (starting air valve) අධික ලෙස වාතය කාන්දු වීම මගින් ආරම්භක වායු නල පද්ධතියේ (starting air pipe system) පිපිරීමක් සිදුවිය හැකි බවයි. සමුද්‍රීය ඩීසල් එන්ජින් (marine diesel engines) ක්‍රියාත්මක කිරීමේදී සිලින්ඩරය තුළට අධි පීඩන සම්පීඩිත වාතය (compressed air) ඇතුළු කරනු ලබන අතර එම වායු කපාටය කිසියම් හේතුවකින් නිසි පරිදි වැසෙන්නේ නැතිනම් සිලින්ඩරය තුළ පවතින ඉන්ධන දහනය වීමේදී ඇතිවන උණුසුම් වායූන් නැවතත් වායු නල පද්ධතිය වෙත ගමන් කිරීමට ඉඩ ඇත. මෙහිදී එම නල තුළ පවතින ලිහිසි තෙල් වාෂ්ප (lube oil vapors) සමඟ දහනයට අවශ්‍ය වාතය මිශ්‍ර වීම නිසා පද්ධතිය තුළම දහනයක් හෝ පිපිරීමක් සිදුවීමේ දැඩි අවදානමක් පවතී. ඉතිරි විකල්පයන් වැරදි වීමට හේතුව වන්නේ ආරම්භක වායු ඇතුළු කිරීම එන්ජිම ක්‍රියාත්මක වීමට පටන් ගත් වහාම නතර කළ යුතු බැවිනි. එසේම එන්ජිම නොකැරකෙන අවස්ථාවකදී ටර්නින් ගියර් (turning gear) එක එන්ජිම ක්‍රියාත්මක කිරීමට භාවිතා කිරීම අතිශය භයානක මෙන්ම යාන්ත්‍රික හානි සිදුවිය හැකි ක්‍රියාවකි. අවසාන වශයෙන් ඔක්සිජන් බෝතලයක් භාවිතා කිරීම කිසිසේත්ම නොකළ යුත්තකි මන්ද ඔක්සිජන් යනු දැඩි ලෙස දහනය උත්ප්‍රේරණය කරන වායුවක් වන අතර එය නල පද්ධතිය තුළ භාවිතා කිරීමෙන් ක්ෂණික පිපිරීමක් හෝ ගින්නක් ඇතිවී ජීවිත හානි සිදුවිය හැකි බැවිනි. එම නිසා නිවැරදි ආරක්ෂිත ක්‍රියා පටිපාටිය වන්නේ ආරම්භක වායු කපාටවල තද බව සහ ක්‍රියාකාරීත්වය නිරන්තරයෙන් නිරීක්ෂණය කිරීමයි.",
         "tags": [
             {
-                "sub_category": "Main Engine",
+                "sub_category": "Engine",
                 "main_category": "Marine Engineering & Motive Power"
             }
         ]
@@ -1482,11 +1482,11 @@
         "explanation": "නැවක ආරක්ෂක සැලැස්ම හෙවත් Ship Security Plan හෙවත් කෙටියෙන් SSP නමැති ලේඛනය ජාත්‍යන්තර නෞකා සහ වරාය පහසුකම් ආරක්ෂණ කේතයේ හෙවත් International Ship and Port Facility Security Code හෙවත් ISPS Code හි දක්වා ඇති නීති රීතිවලට අනුකූල වන බවට වග බලා ගැනීමේ ප්‍රධාන වගකීම පැවරෙන්නේ සමාගමේ ආරක්ෂක නිලධාරියා හෙවත් Company Security Officer හෙවත් CSO වෙතය. මෙම තනතුර දරන පුද්ගලයා නැවට පිටතින් සිටින එනම් නැව් සමාගමේ ගොඩබිම් කාර්යාලයේ සේවය කරන අයෙකි. නෞකාවේ ආරක්ෂාව සම්බන්ධයෙන් අවශ්‍ය සියලුම සැලසුම් සකස් කිරීම, ඒවා ක්‍රියාත්මක කිරීම සඳහා නැවේ සිටින Ship Security Officer හෙවත් SSO හට උපදෙස් ලබා දීම සහ අදාළ නීතිමය ලියකියවිලි නෞකාවේ ආරක්ෂක කළමනාකරණ පද්ධතියට අනුකූලව පවත්වාගෙන යාම ඔහුගේ ප්‍රධාන රාජකාරිය වේ. නැවේ ආරක්ෂාව සම්බන්ධයෙන් වන ඕනෑම ගැටලුවකදී හෝ ISPS Code හි සඳහන් වන ආරක්ෂක මට්ටම් හෙවත් Security Levels වෙනස් වීමකදී සමාගමේ මූලස්ථානය සහ නැව අතර සම්බන්ධීකරණය සිදු කරමින් ආරක්ෂක සැලැස්ම නිසි පරිදි ක්‍රියාත්මක වන බවට සහතික කරන්නේ මෙම නිලධාරියා විසිනි. Flag State Administration හෙවත් ධජ රාජ්‍ය පරිපාලනය විසින් මෙම ආරක්ෂක සැලැස්ම අවසාන වශයෙන් අනුමත කළද, එම සැලැස්ම ISPS Code හි අවශ්‍යතාවයන් සපුරාලන බවට සහතික කරමින් එය සකස් කිරීමේ සහ පවත්වාගෙන යාමේ වගකීම නීතිමය වශයෙන් පැවරෙන්නේ Company Security Officer වෙතය. එම නිසා නෞකාවක ආරක්ෂාවට අදාළ අභ්‍යන්තර සහ බාහිර සම්බන්ධීකරණ කටයුතු සිදු කරන මූලික පුද්ගලයා ලෙස ඔහු අතිශයින්ම වැදගත් වේ.",
         "tags": [
             {
-                "sub_category": "security",
+                "sub_category": "Security",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "ISPS Code",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             }
         ]
@@ -1506,7 +1506,7 @@
         "explanation": "ISM යන්නෙහි සම්පූර්ණ අර්ථය 'The International Management Code for the Safe Operation of Ships and for Pollution Prevention' යන්නයි. මෙය ජාත්‍යන්තර මුහුදු ගමන් වලදී නැවෙහි ආරක්ෂිත මෙහෙයුම් පවත්වාගෙන යාම සහ සාගර පරිසර දූෂණය වැළැක්වීම සඳහා පනවා ඇති ජාත්‍යන්තර නීති පද්ධතියකි. අනෙකුත් විකල්ප වැරදි වන්නේ ඒවා මෙම නිල අර්ථ දැක්වීමට සමාන නොවන බැවිනි. උදාහරණයක් ලෙස මෙය හුදෙක් කාර්මික කළමනාකරණය හෝ වෙළඳ කළමනාකරණය සඳහා පමණක් නොව, ජීවිත සහ පරිසර ආරක්ෂාව සඳහාම වෙන් වූවකි.",
         "tags": [
             {
-                "sub_category": "Safety Management",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -1527,7 +1527,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Electrical Engineering",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -1548,7 +1548,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Electrical Power",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -1569,11 +1569,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "high voltage",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -1593,11 +1593,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "high voltage",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "Switchgear",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -1618,11 +1618,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "high voltage",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "maintenance",
+                "sub_category": "Maintenance",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             }
         ]
@@ -1643,7 +1643,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Electrical Power",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -1664,11 +1664,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Electrical Machines",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "Motors",
+                "sub_category": "Motor",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -1689,11 +1689,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Electrical Protection",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "Motors",
+                "sub_category": "Motor",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -1714,7 +1714,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Electrical Engineering",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -1735,11 +1735,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Electrical Systems",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -1760,7 +1760,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Electrical Machines",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -1781,11 +1781,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Electrical Engineering",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "Cabling",
+                "sub_category": "Electrical",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             }
         ]
@@ -1806,7 +1806,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Electrical Machines",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -1827,7 +1827,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Electrical Machines",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -1848,7 +1848,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Electrical Machines",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -1869,7 +1869,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Control Systems",
+                "sub_category": "Controls",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -1890,7 +1890,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Electrical Machines",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -1915,7 +1915,7 @@
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "Sensors",
+                "sub_category": "Instrumentation",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -1940,7 +1940,7 @@
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "Control Systems",
+                "sub_category": "Controls",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -1982,7 +1982,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "electronics",
+                "sub_category": "Electronics",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -2003,7 +2003,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "electronics",
+                "sub_category": "Electronics",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -2024,7 +2024,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Electrical Safety",
+                "sub_category": "Safety",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -2045,11 +2045,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Batteries",
+                "sub_category": "Battery",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "Electrochemistry",
+                "sub_category": "Science",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -2074,7 +2074,7 @@
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "Basic Science",
+                "sub_category": "Science",
                 "main_category": "Management, Administration & Human Factors"
             }
         ]
@@ -2095,7 +2095,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Electrical Power",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -2138,7 +2138,7 @@
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "Automation",
+                "sub_category": "Controls",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -2159,11 +2159,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Control Systems",
+                "sub_category": "Controls",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "Automation",
+                "sub_category": "Controls",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -2184,11 +2184,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Control Systems",
+                "sub_category": "Controls",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "Automation",
+                "sub_category": "Controls",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -2209,11 +2209,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Control Systems",
+                "sub_category": "Controls",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "Automation",
+                "sub_category": "Controls",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -2234,11 +2234,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Control Systems",
+                "sub_category": "Controls",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "Automation",
+                "sub_category": "Controls",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -2259,11 +2259,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Control Systems",
+                "sub_category": "Controls",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "Automation",
+                "sub_category": "Controls",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -2284,11 +2284,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Control Systems",
+                "sub_category": "Controls",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "Automation",
+                "sub_category": "Controls",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -2309,11 +2309,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Control Systems",
+                "sub_category": "Controls",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "Automation",
+                "sub_category": "Controls",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -2338,7 +2338,7 @@
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "Fuel Systems",
+                "sub_category": "Fuels",
                 "main_category": "Marine Engineering & Motive Power"
             }
         ]
@@ -2381,7 +2381,7 @@
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "Pressure Measurement",
+                "sub_category": "Instrumentation",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -2401,11 +2401,11 @@
         "explanation": "නැව් ඉංජිනේරු විද්‍යාවේදී සහ ටැංකර් මෙහෙයුම්වලදී ගිනිගැනීම් සහ පිපිරීම් අවදානම අවම කිරීම සඳහා භයානක කලාප (Hazardous zones) වර්ගීකරණය කිරීම අත්‍යවශ්‍ය වේ. ඔබ විමසා සිටින Zone 1 යනු දහනය විය හැකි වායු මිශ්‍රණයක් (Flammable mixture) සාමාන්‍ය මෙහෙයුම් ක්‍රියාවලීන්හිදී නිතර හෝ දිගු කාලයක් පවතින ප්‍රදේශයක් ලෙස අර්ථ දැක්වේ. එනම් ටැංකර් යාත්‍රාවක ඉන්ධන පැටවීමේදී හෝ ගොඩබෑමේදී (Loading or discharging) සහ ටැංකි වාතාශ්‍රය ලබා දීමේදී (Tank venting) වැනි අවස්ථාවලදී මෙම ප්‍රදේශවල දහනය විය හැකි වායු සාන්ද්‍රණයන් නිරන්තරයෙන්ම පැවතිය හැක. එවැනි ස්ථානයක සවිකරන විදුලි උපකරණ සහ පද්ධති අනිවාර්යයෙන්ම පිපිරීම් පාලනය කළ හැකි ලෙස (Explosion-proof or Intrinsically safe) නිපදවා තිබිය යුතුය. මෙම කලාපය Zone 0 ට වඩා තරමක් වෙනස් වන්නේ එහි වායු මිශ්‍රණය නිරන්තරයෙන්ම නොවූවත් සාමාන්‍ය ක්‍රියාකාරකම් අතරතුරදී ප්‍රමාණවත් කාලයක් පවතින බැවිනි. එබැවින් මෙම Zone 1 කලාපවලදී ගිනි පුපුරක් හෝ අධික උෂ්ණත්වයක් ඇතිවන ඕනෑම ක්‍රියාවක් ඉතාමත් භයානක විය හැකි බැවින් දැඩි ආරක්ෂණ විධිවිධාන අනුගමනය කිරීම නාවික ගමනාගමනයේදී අනිවාර්ය වේ.",
         "tags": [
             {
-                "sub_category": "tanker operations",
+                "sub_category": "Cargo",
                 "main_category": "Cargo Operations & Vessel Types"
             },
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -2425,11 +2425,11 @@
         "explanation": "නැවක ප්‍රධාන එන්ජිමේ (Main Engine) නඩත්තු කටයුතු සිදුකරන විට නිෂ්පාදකයාගේ උපදෙස් අදාළ නොවන හෝ අනතුරුදායක තත්ත්වයක් උද්ගත වුවහොත් එම තොරතුරු අනිවාර්යයෙන්ම නැවේ ආරක්ෂක කළමනාකරණ පද්ධතියේ (ISM - International Safety Management Code) අඩංගු ක්‍රියාපටිපාටිවල (ISM procedures in the ship’s safety manual) සටහන් කිරීම වඩාත්ම වැදගත් වේ. මෙයට හේතුව වන්නේ ISM කේතය මගින් නැවේ සිදුකරන සියලුම තීරණාත්මක මෙහෙයුම් සහ නඩත්තු කටයුතු ආරක්ෂිතව සිදු කිරීම සඳහා ක්‍රමවේදයක් ලබා දීමයි. යම් හෙයකින් නිෂ්පාදකයාගේ අත්පොතෙහි (Manufacturer manual) ඇති ක්‍රමය ප්‍රායෝගිකව ක්‍රියාත්මක කිරීමේදී අනතුරක් සිදුවිය හැකි නම් එම ක්‍රමවේදය වෙනස් කර ආරක්ෂිත නව ක්‍රමවේදයක් හඳුන්වා දීමට සිදු වේ. මෙම වෙනස්කම් හුදෙක් ඉංජිනේරු කාර්යාලයේ හෝ ලොග් පොතේ පමණක් සටහන් කිරීම ප්‍රමාණවත් නොවන අතර එය නැවේ පවතින නිල ආරක්ෂක අත්පොතෙහි (Safety Management System - SMS) ඇතුළත් කළ යුතුය. මෙසේ කිරීමෙන් අනාගතයේදී එම කාර්යය සිදුකරන ඕනෑම ඉංජිනේරුවෙකුට හෝ කාර්ය මණ්ඩල සාමාජිකයෙකුට මෙම අනතුරුදායක තත්ත්වය සහ ඒ සඳහා අනුගමනය කළ යුතු නිවැරදි සහ ආරක්ෂිත ක්‍රමවේදය පිළිබඳව අවබෝධයක් ලැබෙනු ඇත. මෙය නැවේ ආරක්ෂාව සහතික කිරීම සඳහා වන ප්‍රධාන කළමනාකරණ ලේඛනය වන බැවින් එය අනිවාර්යයෙන්ම SMS අත්පොතේ යාවත්කාලීන කිරීම මගින් අදාළ ආයතනික අනුමැතිය සහ නීතිමය පිළිගැනීම ද තහවුරු කරගැනීමට හැකි වේ. වෙනත් විකල්පයන් වන එන්ජින් කාමරයේ ලොග් පොත (Engine room log book) හෝ සැලසුම්ගත නඩත්තු කාලසටහන (Planned Maintenance System - PMS) මගින් මෙවැනි තීරණාත්මක ආරක්ෂක වෙනස්කම් නිසි පරිදි කළමනාකරණය නොවන අතර ඒවා සරල වාර්තා තබා ගැනීම් පමණක් වේ. එබැවින් නැවේ සමස්ත ආරක්ෂාව සහ ISM කේතයේ නියමයන්ට අනුකූලව කටයුතු කිරීම සඳහා SMS අත්පොතෙහිම මෙම අසාමාන්‍ය තත්ත්වය සටහන් කිරීම ඉංජිනේරු විද්‍යාත්මක සහ නීතිමය වශයෙන් අනිවාර්ය පියවරකි.",
         "tags": [
             {
-                "sub_category": "maintenance",
+                "sub_category": "Maintenance",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             },
             {
-                "sub_category": "Safety Management",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -2449,11 +2449,11 @@
         "explanation": "ශීතකරණ පරිපථයක (refrigeration circuit) ඇති ෆිල්ටර් ඩ්‍රයර් (filter drier) එකක ප්‍රධාන කාර්යය වන්නේ ශීතකාරකයෙන් (refrigerant) තෙතමනය (moisture) සහ අනෙකුත් අපද්‍රව්‍ය (contaminants) ඉවත් කිරීමයි. මෙය පරිපථයේ (circuit) සුමට ක්‍රියාකාරිත්වය සඳහා අත්‍යවශ්‍ය වේ. ෆිල්ටර් ඩ්‍රයර් එක අවහිර වූ විට, ශීතකාරකයේ (refrigerant) ගලනයට (flow) බාධාවක් ඇති වේ. මෙම අවහිරතාවය නිසා ඩ්‍රයර් එක හරහා ශීතකාරකය ගමන් කිරීම අපහසු වන අතර, එහි ප්‍රතිඵලයක් ලෙස ඩ්‍රයර් එකේ ඇතුල්වන පැත්ත (inlet side) සහ පිටවන පැත්ත (outlet side) අතර සැලකිය යුතු පීඩන පහත වැටීමක් (pressure drop) සිදු වේ.\n\nඕනෑම ශීතකාරකයක් (refrigerant) අවහිරතාවයක් (restriction) හරහා ගමන් කරන විට, එය ප්‍රසාරණය වී (expands) පීඩනය පහත වැටේ. පීඩනය පහත වැටීමත් සමඟම, ශීතකාරකයේ (refrigerant) උෂ්ණත්වයද (temperature) පහත වැටේ. මෙය තාපගති විද්‍යාවේ (thermodynamics) මූලධර්මයක් වන අතර, ත්‍රොට්ලිං ආචරණය (throttling effect) ලෙස හැඳින්විය හැක. එබැවින්, අවහිර වූ ෆිල්ටර් ඩ්‍රයර් එකක් හරහා ශීතකාරකය ගමන් කරන විට, ඩ්‍රයර් එකේ ඇතුල්වන පැත්තේ (inlet side) උෂ්ණත්වයට වඩා පිටවන පැත්තේ (outlet side) උෂ්ණත්වය සැලකිය යුතු ලෙස අඩු වේ. ඔබට ඩ්‍රයර් එකේ පිටවන පැත්ත (outlet side) ස්පර්ශ කිරීමෙන් එය සීතල වී ඇති බව හෝ තුහින බැඳී (frosting) ඇති බව පවා දැනිය හැක. ෆිල්ටර් ඩ්‍රයර් එකේ ඇතුල්වන පැත්ත (inlet side) සහ පිටවන පැත්ත (outlet side) අතර මෙවැනි විශාල උෂ්ණත්ව පහත වැටීමක් (large temperature drop) පෙන්නුම් කරන්නේ ඩ්‍රයර් එක අවහිර වී ඇති බවත්, එය ප්‍රතිස්ථාපනය (replace) කළ යුතු බවත්ය. සම්පීඩකයෙන් (compressor) අසාමාන්‍ය ශබ්ද (hammering noise) හෝ ඩ්‍රයර් එකට පෙර පීඩන වැඩිවීමක් (pressure rise before the drier) යනු ඩ්‍රයර් එක අවහිර වූ විට ඇතිවන සෘජු රෝග ලක්ෂණ නොව, උෂ්ණත්ව පහත වැටීම (temperature drop) යනු අවහිර වූ ඩ්‍රයර් එකක වඩාත්ම නිශ්චිත හා පැහැදිලි දර්ශකය වේ.",
         "tags": [
             {
-                "sub_category": "refrigeration",
+                "sub_category": "HVAC",
                 "main_category": "Marine Engineering & Motive Power"
             },
             {
-                "sub_category": "maintenance",
+                "sub_category": "Maintenance",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             }
         ]
@@ -2473,11 +2473,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Main Engine",
+                "sub_category": "Engine",
                 "main_category": "Marine Engineering & Motive Power"
             },
             {
-                "sub_category": "maintenance",
+                "sub_category": "Maintenance",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             }
         ]
@@ -2497,11 +2497,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "lubrication",
+                "sub_category": "Lubrication",
                 "main_category": "Marine Engineering & Motive Power"
             },
             {
-                "sub_category": "Tribology",
+                "sub_category": "Lubrication",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             }
         ]
@@ -2521,7 +2521,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Main Engine",
+                "sub_category": "Engine",
                 "main_category": "Marine Engineering & Motive Power"
             }
         ]
@@ -2541,11 +2541,11 @@
         "explanation": "ඔබ නොදන්නා හෝ හුරුපුරුදු නැති යාන්ත්‍රික උපකරණයක් ක්‍රියාත්මක කිරීමට පැවසුවහොත්, එය කිරීමට පෙර වහාම ඔබේ ඉහළ නිලධාරියාගෙන් උපදෙස් ලබා ගත යුතුය. වැරදි ලෙස ක්‍රියාත්මක කිරීමෙන් උපකරණ වලට හානි සිදුවිය හැකි අතර ඔබේ ජීවිතයටද අනතුරක් විය හැක. තනිව උත්සාහ කිරීම හෝ උපදෙස් නොමැතිව ක්‍රියා කිරීම බරපතල අනතුරු වලට මග පාදයි.",
         "tags": [
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "Operational Procedure",
+                "sub_category": "Management",
                 "main_category": "Management, Administration & Human Factors"
             }
         ]
@@ -2565,11 +2565,11 @@
         "explanation": "රාත්‍රී කාලයේ ගිනි මුර සංචාරයක යෙදෙන විට වසා ඇති කැබින් දොරකින් දුම් පිටවන බව දුටුවහොත්, වහාම ළඟම ඇති ගිනි අනතුරු ඇඟවීමේ බොත්තම (Fire alarm button) ක්‍රියාත්මක කර නෞකාවේ බ්‍රිජ් (Bridge) එකට එම ස්ථානය පිළිබඳව දැනුම් දිය යුතුය. තනිවම දොර විවෘත කිරීම ඉතා අවදානම් සහගතය, මන්ද දොර විවෘත කිරීමේදී ඇතුළට ලැබෙන ඔක්සිජන් නිසා ගින්න ක්ෂණිකව පිපිරීමක් බඳු විශාල වීමක් (Backdraft) සිදුවිය හැකි බැවිනි. මුලින්ම පණිවිඩය ලබා දීමෙන් සහය කණ්ඩායම් වලට සූදානම් වීමට අවස්ථාව ලැබේ.",
         "tags": [
             {
-                "sub_category": "Fire Fighting",
+                "sub_category": "Firefighting",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "Emergency Procedures",
+                "sub_category": "Emergency",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -2589,11 +2589,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Fire Fighting",
+                "sub_category": "Firefighting",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -2613,7 +2613,7 @@
         "explanation": "බොයිලේරුවක් දල්වා ගැනීමට පෙර එහි දහන කුටීරය (Combustion chamber) හොඳින් වාතාශ්‍රය කිරීම (Ventilation/Purging) අතිශය වැදගත්ය. මක්නිසාද යත්, පෙර අවස්ථාවක කාන්දු වූ ඉන්ධන වාෂ්ප කුටීරය තුළ තිබිය හැකි බැවිනි. එම වාෂ්ප ඉවත් නොකර දැල්වීමට උත්සාහ කළහොත් විශාල පිපිරීමක් (Explosion) සිදුවීමට ඉඩ ඇත. මෙය එන්ජින් රූම් එකේ ආරක්ෂාව සඳහා අනුගමනය කළ යුතු අනිවාර්ය පියවරකි.",
         "tags": [
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -2633,7 +2633,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "pumps",
+                "sub_category": "Pump",
                 "main_category": "Marine Engineering & Motive Power"
             }
         ]
@@ -2653,11 +2653,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "pumps",
+                "sub_category": "Pump",
                 "main_category": "Marine Engineering & Motive Power"
             },
             {
-                "sub_category": "Ballast Operations",
+                "sub_category": "Ballast",
                 "main_category": "Maritime Regulations, Law & Compliance"
             }
         ]
@@ -2677,11 +2677,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Bilge and Ballast",
+                "sub_category": "Bilge",
                 "main_category": "Marine Engineering & Motive Power"
             },
             {
-                "sub_category": "operations",
+                "sub_category": "Management",
                 "main_category": "Management, Administration & Human Factors"
             }
         ]
@@ -2701,7 +2701,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Steam Systems",
+                "sub_category": "Boiler",
                 "main_category": "Marine Engineering & Motive Power"
             }
         ]
@@ -2721,7 +2721,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "maintenance",
+                "sub_category": "Maintenance",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             }
         ]
@@ -2741,7 +2741,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -2761,11 +2761,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "pumps",
+                "sub_category": "Pump",
                 "main_category": "Marine Engineering & Motive Power"
             },
             {
-                "sub_category": "maintenance",
+                "sub_category": "Maintenance",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             }
         ]
@@ -2851,11 +2851,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Fire Fighting",
+                "sub_category": "Firefighting",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "Emergency Procedures",
+                "sub_category": "Emergency",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -2892,11 +2892,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Life Saving Appliances",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -2916,7 +2916,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -2936,11 +2936,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Fire Fighting",
+                "sub_category": "Firefighting",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "LSA",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -2960,11 +2960,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Fire Fighting",
+                "sub_category": "Firefighting",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -2984,7 +2984,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Fire Fighting",
+                "sub_category": "Firefighting",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -3021,11 +3021,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "LSA",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -3045,11 +3045,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "LSA",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "Abandon Ship",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -3086,11 +3086,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "LSA",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "SOLAS",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             }
         ]
@@ -3110,11 +3110,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "LSA",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "SOLAS",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             }
         ]
@@ -3134,7 +3134,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -3154,11 +3154,11 @@
         "explanation": "සිහිසුන් හෝ අසාධ්‍ය තත්ත්වයේ සිටින පුද්ගලයින් මුහුදෙන් ගොඩට ගැනීමේදී දැල් (nets) භාවිතා කිරීම වඩාත් ආරක්ෂිත වේ. මෙහිදී පුද්ගලයා තිරස් (horizontal) මට්ටමේ තබා ගනිමින් එසවිය හැකි අතර, එමඟින් හයිපෝතර්මියාව (hypothermia) ඇති අයගේ හෘද ස්පන්දනය නතර වීම වළක්වයි. ලණු හෝ කොකු භාවිතා කිරීමෙන් පුද්ගලයා සිරස් අතට එසවෙන බැවින් එය මාරාන්තික විය හැක.",
         "tags": [
             {
-                "sub_category": "Emergency Procedures",
+                "sub_category": "Emergency",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "Search and Rescue",
+                "sub_category": "Emergency",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -3178,11 +3178,11 @@
         "explanation": "Void spaces වැනි සංවෘත ස්ථාන (Enclosed spaces) දීර්ඝ කාලයක් වසා තැබීම නිසා ඒවායේ ඔක්සිජන් හිඟයක් (Lack of oxygen) පවතින බවට අනතුරු ඇඟවීමේ පුවරු ප්‍රදර්ශනය කළ යුතුය. වාතාශ්‍රය නොමැති වීම නිසා ලෝහ මලබැඳීමේ ක්‍රියාවලියෙන් ඔක්සිජන් වැයවීම හෝ විෂ වායු පිරීම සිදු විය හැකිය. ලිස්සා යාම වැනි අනතුරු වලට වඩා මෙහි ඇති ප්‍රධානතම මාරාන්තික අනතුර වන්නේ හුස්ම ගැනීමට අවශ්‍ය ඔක්සිජන් නොමැති වීමයි.",
         "tags": [
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "Enclosed Space Entry",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -3202,11 +3202,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Ship Security",
+                "sub_category": "Security",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "isps",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             }
         ]
@@ -3226,7 +3226,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Ship Security",
+                "sub_category": "Security",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -3246,15 +3246,15 @@
         "explanation": "එන්ජින් කාමරයේ දුම් අනාවරකයක් (Smoke detector) අසල උණුසුම් වැඩ (Hot work) කිරීමේදී, අනතුරු ඇඟවීමේ පද්ධතිය ක්‍රියාත්මක වීම වැළැක්වීම සඳහා අදාළ ලූපය (Loop) තාවකාලිකව හුදකලා (Isolate) කළ යුතුය. එසේම ඒ පිළිබඳව තට්ටුවේ නිලධාරියා (Deck Officer) සහ ඉංජිනේරු නිලධාරියා දැනුවත් කර 'Permit to work' බලපත්‍රයක් ලබාගත යුතුය. අනාවරකය වැසීම පමණක් ප්‍රමාණවත් නොවන අතර, පද්ධතියේ ක්‍රියාකාරිත්වය නිසි පරිදි කළමනාකරණය නොකිරීම අනතුරුදායක බැවින් අනෙකුත් විකල්ප වැරදි වේ.",
         "tags": [
             {
-                "sub_category": "hot work",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "Fire Protection",
+                "sub_category": "Firefighting",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -3274,7 +3274,7 @@
         "explanation": "බොයිලේරු සූට් බ්ලෝවර් (sootblowers) නිවැරදි අනුපිළිවෙලට ක්‍රියාත්මක කළ යුත්තේ දැලි සහ අළු පහළ නලවල සිට ඉහළටත්, ඉන්පසු දුම් කවුළුව (uptake) දෙසටත් ක්‍රමානුකූලව තල්ලු කර යැවීමටයි. මෙලෙස සිදු කිරීමෙන් ඉවත් කරන දැලි නැවත පිරිසිදු කරන ලද පහළ නල මත තැන්පත් වීම වළක්වයි. වැරදි අනුපිළිවෙලක් අනුගමනය කිරීමෙන් දැලි නිසි ලෙස බැහැර නොවන අතර බොයිලේරුවේ කාර්යක්ෂමතාව අඩු විය හැක.",
         "tags": [
             {
-                "sub_category": "maintenance",
+                "sub_category": "Maintenance",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             }
         ]
@@ -3294,11 +3294,11 @@
         "explanation": "අධි පීඩන බොයිලේරුවක (high pressure boiler) ජල මට්ටම පෙන්වන වීදුරුවක (gauge glass) දැඩි කාන්දුවක් පවතී නම්, එය වාෂ්ප පිපිරීමක් වැනි භයානක තත්ත්වයකට මග පෑදිය හැක. එබැවින් වහාම රාජකාරියේ නියුතු නිලධාරියා (Officer of the Watch) දැනුවත් කර, පද්ධතිය ආරක්ෂිතව හුදකලා කර වීදුරුව මාරු කිරීමට කටයුතු කළ යුතුය. මෙය නොසලකා හැරීමෙන් බොයිලේරුවේ ජල මට්ටම නිවැරදිව හඳුනාගත නොහැකි වී බොයිලේරුවට හානි විය හැක.",
         "tags": [
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "watchkeeping",
+                "sub_category": "Watchkeeping",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             }
         ]
@@ -3318,7 +3318,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -3338,11 +3338,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "maintenance",
+                "sub_category": "Maintenance",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             },
             {
-                "sub_category": "operations",
+                "sub_category": "Management",
                 "main_category": "Management, Administration & Human Factors"
             }
         ]
@@ -3362,11 +3362,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Environmental Protection",
+                "sub_category": "Environmental",
                 "main_category": "Maritime Regulations, Law & Compliance"
             },
             {
-                "sub_category": "marpol",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             }
         ]
@@ -3386,11 +3386,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Main Engine",
+                "sub_category": "Engine",
                 "main_category": "Marine Engineering & Motive Power"
             },
             {
-                "sub_category": "operations",
+                "sub_category": "Management",
                 "main_category": "Management, Administration & Human Factors"
             }
         ]
@@ -3410,11 +3410,11 @@
         "explanation": "බැලාස්ට් (ballast) මෙහෙයුම් තාවකාලිකව නතර කළ විට, සියලුම පොම්ප නතර කර කපාට (valves) වසා දැමිය යුතුය. බැලාස්ට් පද්ධතියේ පයිප්ප මාර්ග භාවිතයේ නොමැති සෑම විටම වසා තැබීම නාවික ආරක්ෂාව සඳහා අත්‍යවශ්‍ය වේ. පද්ධතිය විවෘතව තැබීමෙන් අනපේක්ෂිත ලෙස ජලය පිරීමෙන් නැවේ ස්ථාවරත්වයට (stability) හානි සිදුවිය හැකි බැවින් අනෙකුත් විකල්ප වැරදි වේ.",
         "tags": [
             {
-                "sub_category": "watchkeeping",
+                "sub_category": "Watchkeeping",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             },
             {
-                "sub_category": "Ballast Operations",
+                "sub_category": "Ballast",
                 "main_category": "Maritime Regulations, Law & Compliance"
             }
         ]
@@ -3434,11 +3434,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "Work at Height",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -3458,11 +3458,11 @@
         "explanation": "මුහුදු ජලය පම්ප් කරන පොම්පයක shaft gland එකක් සඳහා වඩාත් සුදුසු ඇසුරුම වන්නේ 'Greasy cotton packing' ය. කපු (Cotton) මෘදු වන අතර ජලය උරා ගැනීමේ හැකියාව ඇත. එහි අඩංගු ග්‍රීස් මගින් shaft එක ලිහිසි කරන අතර මුහුදු ජලයෙන් සිසිලනය ලබා දෙයි. රබර් හෝ ප්ලාස්ටික් ඇසුරුම් අධික තාපය නිසා දිය විය හැකි අතර shaft එකට හානි කළ හැකිය. ඇස්බැස්ටෝස් (Asbestos) සෞඛ්‍යයට අහිතකර බැවින් දැන් භාවිතා නොවේ. ලෝහමය ඇසුරුම් (Metallic packing) මගින් shaft එක සීරීමට ලක්විය හැකි බැවින් කපු මිශ්‍ර ඇසුරුම් වඩාත් ප්‍රායෝගික වේ.",
         "tags": [
             {
-                "sub_category": "maintenance",
+                "sub_category": "Maintenance",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             },
             {
-                "sub_category": "pumps",
+                "sub_category": "Pump",
                 "main_category": "Marine Engineering & Motive Power"
             }
         ]
@@ -3482,11 +3482,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "maintenance",
+                "sub_category": "Maintenance",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             }
         ]
@@ -3506,11 +3506,11 @@
         "explanation": "ක්‍රියාත්මක වන පොම්පයක ආරක්ෂිත ආවරණය (Guard) බුරුල් වී ඇත්නම්, එය වහාම වගකිව යුතු නිලධාරියාට (Watchkeeper) දැනුම් දිය යුතුය. පොම්පය නතර කර අලුත් බෝල්ට් එකක් දමා එය ස්ථිරව සවි කිරීම නිවැරදි ක්‍රමයයි. යන්ත්‍රය ක්‍රියාත්මක වෙමින් පවතිද්දී එය අලුත්වැඩියා කිරීමට උත්සාහ කිරීම හෝ නොසලකා හැරීම භයානක අනතුරු වලට මග පාදයි. එබැවින් යන්ත්‍රය නවත්වා පිළිසකර කිරීම ආරක්ෂිතම ක්‍රමය වේ.",
         "tags": [
             {
-                "sub_category": "maintenance",
+                "sub_category": "Maintenance",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             },
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -3530,11 +3530,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "maintenance",
+                "sub_category": "Maintenance",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             },
             {
-                "sub_category": "operations",
+                "sub_category": "Management",
                 "main_category": "Management, Administration & Human Factors"
             }
         ]
@@ -3554,15 +3554,15 @@
         "explanation": "අඩු පීඩන වාෂ්ප වෑල්ව (Low pressure steam valves) සඳහා ග්‍රැෆයිට් ෆයිබර් පැකින් (Graphite fibre packing) වඩාත් සුදුසු වේ. ග්‍රැෆයිට් වලට ඉහළ උෂ්ණත්වයන්ට ඔරොත්තු දීමේ හැකියාව ඇති අතර එය ස්වයං-ලිහිස්සි ද්‍රව්‍යයක් (Self-lubricating) ලෙස ක්‍රියා කරයි. කපු (Cotton) හෝ හෙම්ප් (Hemp) වැනි ද්‍රව්‍ය වාෂ්ප වල උෂ්ණත්වය නිසා ඉක්මනින් පිලිස්සී ගොස් කාන්දු වීම් ඇති විය හැක. PTFE පැකින් ද භාවිතා කළ හැකි වුවත්, වාෂ්ප පද්ධති සඳහා වඩාත් විශ්වාසදායක වන්නේ ග්‍රැෆයිට් ය.",
         "tags": [
             {
-                "sub_category": "maintenance",
+                "sub_category": "Maintenance",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             },
             {
-                "sub_category": "Steam Systems",
+                "sub_category": "Boiler",
                 "main_category": "Marine Engineering & Motive Power"
             },
             {
-                "sub_category": "auxiliary machinery",
+                "sub_category": "Auxiliaries",
                 "main_category": "Marine Engineering & Motive Power"
             }
         ]
@@ -3582,15 +3582,15 @@
         "explanation": "තාප හුවමාරුකයක (Heat exchanger) ලෝකඩ කෙළවර ආවරණයක නූල් (Threads) හානි වී ඇති විට සහ අමතර කොටස් නොමැති විට, වඩාත්ම තාක්ෂණික විසඳුම වන්නේ ලැතර් යන්ත්‍රයක් (Lathe) භාවිතයෙන් එම සිදුරට නිවැරදිව ගැලපෙන නව පිත්තල ඇබයක් (Brass plug) සකසා ගැනීමයි. මෙයට හේතුව වන්නේ ලෝකඩ සමග වෙනත් ලෝහ (උදාහරණයක් ලෙස වානේ) භාවිතා කළහොත් ගැල්වනික් විඛාදනය (Galvanic corrosion) ඇති වී උපකරණයට හානි විය හැකි බැවිනි. ලී ඇබ හෝ ප්ලාස්ටික් ඇබ පීඩනය දරා ගැනීමට ප්‍රමාණවත් නොවන නිසා ඒවා නුසුදුසුය.",
         "tags": [
             {
-                "sub_category": "maintenance",
+                "sub_category": "Maintenance",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             },
             {
-                "sub_category": "heat exchanger",
+                "sub_category": "Exchanger",
                 "main_category": "Marine Engineering & Motive Power"
             },
             {
-                "sub_category": "Workshop Practice",
+                "sub_category": "Mechanics",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             }
         ]
@@ -3610,11 +3610,11 @@
         "explanation": "Stuffing box gland සහ Mechanical seal අතර ප්‍රධාන වෙනස වන්නේ නඩත්තුවයි. Stuffing box එකක ඇසුරුම් (Packing) දිය වී කාන්දු වීමක් සිදු වුවහොත්, ග්ලෑන්ඩ් එක තද කිරීමෙන් (Tightening) පොම්පය දිගටම ක්‍රියා කරවිය හැක. නමුත් Mechanical seal එකක් අසාර්ථක වුවහොත් එය අනිවාර්යයෙන්ම අලුත් එකකින් ප්‍රතිස්ථාපනය කළ යුතුය; එය තද කිරීමෙන් කාන්දුව නැවැත්විය නොහැක. මේ නිසා කාන්දු වීමකදී වහාම ක්‍රියාත්මක විය යුතු ආකාරය අනුව මෙම උපාංග දෙක වෙනස් වේ.",
         "tags": [
             {
-                "sub_category": "pumps",
+                "sub_category": "Pump",
                 "main_category": "Marine Engineering & Motive Power"
             },
             {
-                "sub_category": "maintenance",
+                "sub_category": "Maintenance",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             }
         ]
@@ -3634,11 +3634,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Main Engine",
+                "sub_category": "Engine",
                 "main_category": "Marine Engineering & Motive Power"
             },
             {
-                "sub_category": "maintenance",
+                "sub_category": "Maintenance",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             }
         ]
@@ -3658,11 +3658,11 @@
         "explanation": "පුද්ගලයෙකු මුහුදට වැටෙනු දුටු සැනින් කළ යුතු පළමු සහ වැදගත්ම කාර්යය වන්නේ ඔහුට පාවී සිටීම සඳහා ජීවිතාරක්ෂක බෝයාවක් (lifebuoy) මුහුදට දැමීම සහ වහාම නැවේ පාලන මැදිරියට (bridge) ඒ පිළිබඳව දැනුම් දීමයි. එවිට නැව හැරවීමට (maneuvering) සහ ගලවා ගැනීමේ මෙහෙයුම් ආරම්භ කිරීමට හැකි වේ. තනිවම බේරා ගැනීමට උත්සාහ කිරීම හෝ එන්ජින් රූම් එකට පමණක් දැනුම් දීම වැනි ක්‍රියාමාර්ග ප්‍රමාදයට හේතු වන බැවින් ඒවා වැරදි වේ.",
         "tags": [
             {
-                "sub_category": "Emergency Procedures",
+                "sub_category": "Emergency",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -3699,11 +3699,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "tanker operations",
+                "sub_category": "Cargo",
                 "main_category": "Cargo Operations & Vessel Types"
             }
         ]
@@ -3723,7 +3723,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Main Engine",
+                "sub_category": "Engine",
                 "main_category": "Marine Engineering & Motive Power"
             }
         ]
@@ -3743,7 +3743,7 @@
         "explanation": "බොයිලේරුවක 'bottom-blowing' හෙවත් පහළින් ජලය පිටකිරීමේ ප්‍රධාන අරමුණ වන්නේ එහි පහළ වෝටර් ඩ්‍රම් (water drum) එකේ තැන්පත් වී ඇති මඩ, රොඩු සහ අනෙකුත් ඝන අපද්‍රව්‍ය (sludge) ඉවත් කිරීමයි. බොයිලේරු ජලයේ ඇති ඛනිජ ලවණ සහ අංශු පතුලේ තැන්පත් වීම සාමාන්‍ය දෙයකි. මේවා ඉවත් නොකළහොත් තාප හුවමාරුවට බාධා ඇති වන අතර බොයිලේරු බටවලට හානි සිදු විය හැක. පෘෂ්ඨීය පිරිසිදු කිරීම (surface blowing) මගින් තෙල් හෝ පෙණ ඉවත් කරන අතර, bottom-blowing විශේෂයෙන්ම ඝන අපද්‍රව්‍ය සඳහා වේ.",
         "tags": [
             {
-                "sub_category": "water treatment",
+                "sub_category": "Water",
                 "main_category": "Marine Engineering & Motive Power"
             }
         ]
@@ -3763,7 +3763,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "water treatment",
+                "sub_category": "Water",
                 "main_category": "Marine Engineering & Motive Power"
             }
         ]
@@ -3783,11 +3783,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "pumps",
+                "sub_category": "Pump",
                 "main_category": "Marine Engineering & Motive Power"
             },
             {
-                "sub_category": "bilge",
+                "sub_category": "Bilge",
                 "main_category": "Marine Engineering & Motive Power"
             }
         ]
@@ -3807,11 +3807,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "operations",
+                "sub_category": "Management",
                 "main_category": "Management, Administration & Human Factors"
             },
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -3831,11 +3831,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "Fire Suppression",
+                "sub_category": "Firefighting",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -3855,11 +3855,11 @@
         "explanation": "සෙන්ට්‍රිෆියුගල් පොම්ප (Centrifugal pump) ස්වයං-ප්‍රයිමින් (self-priming) නොවන බැවින්, ඒවා ක්‍රියාත්මක කිරීමට පෙර වෙනමම ක්‍රමයකින් වාතය ඉවත් කර දියරය පිරවිය යුතුය. මෙයට හේතුව මෙම පොම්ප වලට වාතය තල්ලු කරමින් අඩු පීඩනයක් (vacuum) ඇති කිරීමේ හැකියාව අවම වීමයි. ගියර් පොම්ප හෝ පිස්ටන් පොම්ප වැනි ධන විස්ථාපන (positive displacement) පොම්ප වලට වාතය ඉවත් කර තනිවම වැඩ ආරම්භ කිරීමේ හැකියාව ඇති බැවින් ඒවාට බාහිර ප්‍රයිමින් ක්‍රම අවශ්‍ය නොවේ.",
         "tags": [
             {
-                "sub_category": "pumps",
+                "sub_category": "Pump",
                 "main_category": "Marine Engineering & Motive Power"
             },
             {
-                "sub_category": "auxiliary machinery",
+                "sub_category": "Auxiliaries",
                 "main_category": "Marine Engineering & Motive Power"
             }
         ]
@@ -3879,11 +3879,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "workshop",
+                "sub_category": "Mechanics",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             },
             {
-                "sub_category": "maintenance",
+                "sub_category": "Maintenance",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             }
         ]
@@ -3920,11 +3920,11 @@
         "explanation": "එන්ජින් රූම් එකක සේවය කරන රේටින් (Rating) කෙනෙකු යම් යන්ත්‍රයක හෝ උපාංගයක දෝෂයක් දුටු විට වහාම ඒ බව රාජකාරියේ නියුතු ඉංජිනේරුවරයාට (Duty Engineer) දැනුම් දිය යුතුය. මන්දයත්, සුළු දෝෂයක් විශාල යාන්ත්‍රික බිඳවැටීමකට හෝ නැවේ ආරක්ෂාවට තර්ජනයක් වන අනතුරකට හේතු විය හැකි බැවිනි. දෝෂය තනිවම පිළිසකර කිරීමට උත්සාහ කිරීම හෝ නොසලකා හැරීම භයානක විය හැකි අතර, ඉංජිනේරුවරයාට දැනුම් දීමෙන් පසු ඔහු විසින් නිසි පියවර ගනු ඇත.",
         "tags": [
             {
-                "sub_category": "Operational Procedure",
+                "sub_category": "Management",
                 "main_category": "Management, Administration & Human Factors"
             },
             {
-                "sub_category": "watchkeeping",
+                "sub_category": "Watchkeeping",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             }
         ]
@@ -3944,11 +3944,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "LSA",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "Emergency Procedures",
+                "sub_category": "Emergency",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -3968,11 +3968,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "electrical",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -4024,11 +4024,11 @@
         "explanation": "බොයිලේරු මුර සේවයේ (boiler watch) යෙදී සිටින විට දැල්ල විසන්ධි වුවහොත් (flame failure), වහාම රාජකාරියේ නියුතු ඉංජිනේරුවරයාට (engineer on watch) දැනුම් දිය යුතුය. දැල්ල විසන්ධි වූ විට බොයිලේරුව තුළට ඉන්ධන පිරීමෙන් පිපිරීමක් සිදුවිය හැකි බැවින්, පුහුණු ඉංජිනේරුවෙකු ලවා එය පරීක්ෂා කර ගැනීම අත්‍යවශ්‍ය වේ. තනිවම එය නැවත ක්‍රියාත්මක කිරීමට උත්සාහ කිරීම බරපතල අවදානමකි.",
         "tags": [
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "Emergency Procedures",
+                "sub_category": "Emergency",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -4048,11 +4048,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "Explosion",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -4072,11 +4072,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "hot work",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -4096,11 +4096,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "hot work",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -4120,11 +4120,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Fire Fighting",
+                "sub_category": "Firefighting",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -4178,11 +4178,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "LSA",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -4202,11 +4202,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "LSA",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "SOLAS",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             }
         ]
@@ -4226,11 +4226,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "thermodynamics",
+                "sub_category": "Science",
                 "main_category": "Marine Engineering & Motive Power"
             },
             {
-                "sub_category": "Physics",
+                "sub_category": "Science",
                 "main_category": "Management, Administration & Human Factors"
             }
         ]
@@ -4250,11 +4250,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "LSA",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "emergency",
+                "sub_category": "Emergency",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -4274,11 +4274,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "LSA",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "SOLAS",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             }
         ]
@@ -4298,15 +4298,15 @@
         "explanation": "නැවක වෙල්ඩින් කිරීමේදී ගින්නක් ඇතිවීමේ අවදානම අවම කිරීමට ගත හැකි වැදගත්ම පියවර වන්නේ එම ස්ථානය සහ ඒ අවට ඇති අනවශ්‍ය ද්‍රව්‍ය හා දැවෙන සුළු දෑ ඉවත් කර පිරිසිදු කිරීමයි. ස්පාර්ක් (Sparks) වැදීමෙන් ගිනි ගත හැකි තෙල් හෝ රෙදි කැබලි ඉවත් කිරීම මගින් ගින්නක් ඇතිවීම මූලිකවම වැළැක්විය හැක. ගිනි නිවන උපකරණ ළඟ තබා ගැනීම වැදගත් වුවද, එය ගින්නක් ඇති වූ පසු කරන දෙයකි; වැළැක්වීමේ පියවරක් ලෙස පිරිසිදු කිරීම ප්‍රමුඛ වේ.",
         "tags": [
             {
-                "sub_category": "hot work",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "Fire Protection",
+                "sub_category": "Firefighting",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -4326,11 +4326,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Ship Security",
+                "sub_category": "Security",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "isps",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             }
         ]
@@ -4350,11 +4350,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Ship Security",
+                "sub_category": "Security",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -4374,7 +4374,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -4394,11 +4394,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "operations",
+                "sub_category": "Management",
                 "main_category": "Management, Administration & Human Factors"
             },
             {
-                "sub_category": "UMS",
+                "sub_category": "Controls",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -4418,11 +4418,11 @@
         "explanation": "නලයක ෆ්ලැන්ජ් (Flanges) තද කිරීමේදී විකර්ණ ලෙස (diagonally) සහ ක්‍රමයෙන් තද කිරීම අත්‍යවශ්‍ය වේ. මෙයට 'Star Pattern' ක්‍රමය ලෙසද කියනු ලැබේ. මෙලෙස සිදු කිරීමෙන් ගැස්කට් (Gasket) එක මත ඒකාකාරී පීඩනයක් ඇති වන අතර, ෆ්ලැන්ජ් එක ඇද වීම හෝ එක් පැත්තකට බර වීම වැළැක්වේ. එමගින් කාන්දුවීම් (leaks) අවම කරගත හැක. එක දිගට වටේටම තද කළහොත් එක් පැත්තක් වැඩිපුර තද වී අනෙක් පැත්තෙන් කාන්දු වීමට ඇති ඉඩකඩ වැඩිය.",
         "tags": [
             {
-                "sub_category": "maintenance",
+                "sub_category": "Maintenance",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             },
             {
-                "sub_category": "pipework",
+                "sub_category": "Piping",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             }
         ]
@@ -4442,11 +4442,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "workshop",
+                "sub_category": "Mechanics",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             },
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -4466,7 +4466,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "maintenance",
+                "sub_category": "Maintenance",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             }
         ]
@@ -4486,11 +4486,11 @@
         "explanation": "දොඹකරයක් (Crane) භාවිතයෙන් බර උපකරණයක් පහත් කිරීමේදී, ඒ සඳහා භාවිතා කරන ඕනෑම පටියක් හෝ ලණුවක් (Strop) අනිවාර්යයෙන්ම සහතික කරන ලද (Certified) එකක් විය යුතු අතර එහි ආරක්ෂිත වැඩ බර (Safe Working Load - SWL) අදාළ මෝටරයේ බරට වඩා වැඩි විය යුතුය. මෙය නාවික ඉංජිනේරු ක්ෂේත්‍රයේ ආරක්ෂාව පිළිබඳ මූලික නීතියකි. සහතික නොකළ උපකරණ භාවිතා කිරීම අනතුරුදායක වන අතර ලණුවේ දිග හෝ වර්ගය පමණක් සලකා බැලීම ප්‍රමාණවත් නොවේ.",
         "tags": [
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "maintenance",
+                "sub_category": "Maintenance",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             }
         ]
@@ -4510,11 +4510,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "enclosed space",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -4534,11 +4534,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "maintenance",
+                "sub_category": "Maintenance",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             },
             {
-                "sub_category": "operations",
+                "sub_category": "Management",
                 "main_category": "Management, Administration & Human Factors"
             }
         ]
@@ -4558,15 +4558,15 @@
         "explanation": "මුහුදු ජල නලයක සිදුරක් ඇති වූ විට, ස්ථිර අලුත්වැඩියාවක් කරන තෙක් වඩාත් සුදුසු තාවකාලික ක්‍රමය වන්නේ රබර් කැබැල්ලක් (rubber insertion) සිදුර මත තබා ජුබිලි ක්ලිප් එකකින් (jubilee clip) තද කිරීමයි. මෙය පීඩනය යටතේ ඇති ජලය කාන්දු වීම වළක්වන ශක්තිමත් ක්‍රමයකි. නිකම්ම ටේප් ගැසීම හෝ රෙදි එතීම වැනි ක්‍රම පීඩනයට ඔරොත්තු නොදෙන බැවින් ඒවා අසාර්ථක විය හැක.",
         "tags": [
             {
-                "sub_category": "maintenance",
+                "sub_category": "Maintenance",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             },
             {
-                "sub_category": "pipework",
+                "sub_category": "Piping",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             },
             {
-                "sub_category": "Emergency Repair",
+                "sub_category": "Maintenance",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             }
         ]
@@ -4586,11 +4586,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "workshop",
+                "sub_category": "Mechanics",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             },
             {
-                "sub_category": "Tools",
+                "sub_category": "Mechanics",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             }
         ]
@@ -4610,11 +4610,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "maintenance",
+                "sub_category": "Maintenance",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             },
             {
-                "sub_category": "pumps",
+                "sub_category": "Pump",
                 "main_category": "Marine Engineering & Motive Power"
             }
         ]
@@ -4634,11 +4634,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "workshop",
+                "sub_category": "Mechanics",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             },
             {
-                "sub_category": "Tools",
+                "sub_category": "Mechanics",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             }
         ]
@@ -4658,11 +4658,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Seamanship",
+                "sub_category": "Deck",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             },
             {
-                "sub_category": "Mooring",
+                "sub_category": "Deck",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             }
         ]
@@ -4682,11 +4682,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Seamanship",
+                "sub_category": "Deck",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             },
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -4706,11 +4706,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Emergency Procedures",
+                "sub_category": "Emergency",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -4730,11 +4730,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "First Aid",
+                "sub_category": "Medical",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "medical",
+                "sub_category": "Medical",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -4771,11 +4771,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "tanker operations",
+                "sub_category": "Cargo",
                 "main_category": "Cargo Operations & Vessel Types"
             }
         ]
@@ -4795,11 +4795,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "marpol",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             },
             {
-                "sub_category": "Certification",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             }
         ]
@@ -4819,11 +4819,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "Work at Height",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -4860,7 +4860,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Fire Fighting",
+                "sub_category": "Firefighting",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
@@ -4884,11 +4884,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "Permit to Work",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -4908,15 +4908,15 @@
         "explanation": "බිල්ජ් ස්ට්‍රේනරය (Bilge strainer) අවහිර වීම නිසා පොම්පයට ජලය ඇද ගැනීමට නොහැකි වීම සාමාන්‍යයෙන් සිදුවන්නේ බිල්ජ් වැල් (Bilge well) එකේ ඇති අපද්‍රව්‍ය ප්‍රමාණය වැඩි වීමෙනි. මෙහිදී නිවැරදි පිළිතුර වන්නේ ස්ට්‍රේනරය නිතර පිරිසිදු කිරීම සහ ප්‍රථම අවස්ථාවේදීම බිල්ජ් වැල් එක සම්පූර්ණයෙන්ම පිරිසිදු කිරීමයි. ස්ට්‍රේනරය ඉවත් කර පොම්පය ක්‍රියාත්මක කළහොත් අපද්‍රව්‍ය පොම්පය තුළට ගොස් එහි ඉම්පෙලරයට (Impeller) හානි විය හැකිය. එසේම පොම්පයේ වේගය අඩු කිරීමෙන් අවහිරතාවය විසඳෙන්නේ නැත. එබැවින් පද්ධතියේ ආරක්ෂාව සහ කාර්යක්ෂමතාව සඳහා ස්ට්‍රේනරය පිරිසිදු කර තැබීම අත්‍යවශ්‍ය වේ.",
         "tags": [
             {
-                "sub_category": "Bilge System",
+                "sub_category": "Bilge",
                 "main_category": "Marine Engineering & Motive Power"
             },
             {
-                "sub_category": "pumps",
+                "sub_category": "Pump",
                 "main_category": "Marine Engineering & Motive Power"
             },
             {
-                "sub_category": "maintenance",
+                "sub_category": "Maintenance",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             }
         ]
@@ -4936,11 +4936,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "pumps",
+                "sub_category": "Pump",
                 "main_category": "Marine Engineering & Motive Power"
             },
             {
-                "sub_category": "maintenance",
+                "sub_category": "Maintenance",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             }
         ]
@@ -4960,7 +4960,7 @@
         "explanation": "වෙළඳ නාවික ක්ෂේත්‍රයේ (Merchant Navy) මූලිකම සහ එකම ප්‍රධාන අරමුණ වන්නේ ලොව පුරා විවිධ රටවල් අතර භාණ්ඩ (Goods/Cargo) ආරක්ෂිතව සහ කාර්යක්ෂමව මුහුදු මාර්ගයෙන් ප්‍රවාහනය කිරීමයි. මෙය ගෝලීය වෙළඳාමේ කොන්ද පණ ගැන්වීම ලෙස සැලකේ. අනෙකුත් විකල්ප වන හමුදාමය ආරක්ෂාව සැපයීම (Navy වල කාර්යයකි) හෝ විනෝදය සඳහා යාත්‍රා කිරීම වැනි කරුණු මෙහි ප්‍රාථමික අරමුණ නොවේ. භාණ්ඩ වලට හානියක් නොවී සහ නියමිත කාලයට ගමනාන්තය වෙත ළඟා වීම මෙහිදී අතිශය වැදගත් වේ.",
         "tags": [
             {
-                "sub_category": "General Maritime Knowledge",
+                "sub_category": "Legislation",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             }
         ]
@@ -4980,15 +4980,15 @@
         "explanation": "නෞකාවක සිටින සියලුම පුද්ගලයින් සඳහා හදිසි අවස්ථාවකදී හෝ ජීවිතාරක්ෂක බෝට්ටු පෙරහුරුවකදී (Lifeboat Drill) ඔවුන් සිටිය යුතු ස්ථානය සහ ඉටුකළ යුතු කාර්යයන් විස්තරාත්මකව දක්වා ඇති ලැයිස්තුව 'Muster List' ලෙස හැඳින්වේ. මෙය SOLAS රෙගුලාසි වලට අනුව අනිවාර්ය ලියවිල්ලක් වන අතර, එමගින් එක් එක් පුද්ගලයාගේ වගකීම් පැහැදිලිව දක්වයි. අනෙකුත් සාමාන්‍ය රාජකාරි ලැයිස්තු (Work schedule) මගින් හදිසි අවස්ථා හැසිරවීම පිළිබඳ නීතිමය උපදෙස් ලබා නොදෙන බැවින් ඒවා මෙයට අදාළ නොවේ.",
         "tags": [
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "Emergency Procedures",
+                "sub_category": "Emergency",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "Muster List",
+                "sub_category": "Emergency",
                 "main_category": "Management, Administration & Human Factors"
             }
         ]
@@ -5008,11 +5008,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Seamanship",
+                "sub_category": "Deck",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             },
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -5066,11 +5066,11 @@
         "explanation": "කසළ වාර්තා පොත (Garbage Record Book) යනු නැවක සිදුවන සියලුම මෙහෙයුම් සහ අහඹු ලෙස සිදුවන කසළ බැහැර කිරීම් වාර්තා කර තැබිය යුතු නිල ලේඛනයකි. MARPOL Annex V රෙගුලාසිවලට අනුව මෙය අනිවාර්ය වේ. මෙහි කසළ පුළුස්සා දැමීම (Incineration), මුහුදට මුදා හැරීම හෝ ගොඩබිමට භාර දීම යන සියල්ල විස්තරාත්මකව සටහන් කළ යුතුය. මෙය ආහාර අපද්‍රව්‍ය සඳහා පමණක් සීමා වූවක් නොවන අතර, වෙරළට ආසන්නව සිටින විට පමණක් නොව මුළු ගමන පුරාම පවත්වා ගත යුතුය.",
         "tags": [
             {
-                "sub_category": "marpol",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             },
             {
-                "sub_category": "Environmental Protection",
+                "sub_category": "Environmental",
                 "main_category": "Maritime Regulations, Law & Compliance"
             }
         ]
@@ -5090,11 +5090,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "marpol",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             },
             {
-                "sub_category": "Environmental Protection",
+                "sub_category": "Environmental",
                 "main_category": "Maritime Regulations, Law & Compliance"
             }
         ]
@@ -5118,7 +5118,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Heat Exchangers",
+                "sub_category": "Exchanger",
                 "main_category": "Marine Engineering & Motive Power"
             }
         ]
@@ -5138,11 +5138,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Administration",
+                "sub_category": "Legislation",
                 "main_category": "Management, Administration & Human Factors"
             },
             {
-                "sub_category": "human element",
+                "sub_category": "Management",
                 "main_category": "Management, Administration & Human Factors"
             }
         ]
@@ -5162,11 +5162,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "marpol",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             },
             {
-                "sub_category": "Environmental Protection",
+                "sub_category": "Environmental",
                 "main_category": "Maritime Regulations, Law & Compliance"
             }
         ]
@@ -5186,7 +5186,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Main Engine",
+                "sub_category": "Engine",
                 "main_category": "Marine Engineering & Motive Power"
             }
         ]
@@ -5206,11 +5206,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "refrigeration",
+                "sub_category": "HVAC",
                 "main_category": "Marine Engineering & Motive Power"
             }
         ]
@@ -5230,11 +5230,11 @@
         "explanation": "ඔයිල් ෆිල්ටරයක් අවහිර වී ඇති බව හඳුනාගත හැකි නිවැරදිම දර්ශකය වන්නේ එම ෆිල්ටරයේ ඇතුල් වන පැත්ත සහ පිටවන පැත්ත අතර ඇති පීඩන වෙනසයි (pressure drop across the filter). ෆිල්ටරය තුළ අපද්‍රව්‍ය පිරී ඇති විට, තෙල් ගලා යාමට අපහසු වී ඇතුල් වන පැත්තේ පීඩනය වැඩි වේ. බොහෝ ෆිල්ටර් වල මේ සඳහා differential pressure gauge එකක් සවි කර ඇත. පීඩනය අඩුවීම පමණක් හෝ එන්ජිම නැවතීම වැනි දේ අවහිරතාවය හඳුනා ගැනීමට ප්‍රායෝගික දර්ශක නොවේ.",
         "tags": [
             {
-                "sub_category": "maintenance",
+                "sub_category": "Maintenance",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             },
             {
-                "sub_category": "Lubrication System",
+                "sub_category": "Lubrication",
                 "main_category": "Marine Engineering & Motive Power"
             }
         ]
@@ -5254,7 +5254,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Piping Systems",
+                "sub_category": "Piping",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             }
         ]
@@ -5274,11 +5274,11 @@
         "explanation": "ජීවිතාරක්ෂක බෝට්ටු පෙරහුරුවකදී (Life boat drill) ඔබේ වගකීම් සහ රාජකාරි මොනවාදැයි දැනගත හැක්කේ 'Muster List' (පැමිණීමේ ලේඛනය) මගිනි. නැවක ප්‍රමුඛ ස්ථානවල ප්‍රදර්ශනය කර ඇති මෙම ලේඛනයේ සෑම නාවිකයෙකුගේම නම, ඔවුන් හදිසි අවස්ථාවකදී යා යුතු ස්ථානය සහ ඉටුකළ යුතු නිශ්චිත කාර්යයන් සඳහන් වේ. Safety Manuals වැනි වෙනත් ලේඛන මගින් සාමාන්‍ය උපදෙස් ලබා දුන්නද, පුද්ගලිකව තමා කළ යුතු කාර්යය නිවැරදිව දැනගත හැක්කේ Muster List එකෙනි.",
         "tags": [
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "Muster List",
+                "sub_category": "Emergency",
                 "main_category": "Management, Administration & Human Factors"
             }
         ]
@@ -5298,7 +5298,7 @@
         "explanation": "හයිඩ්‍රොලික් හෑන්ඩ් පොම්පයක් (Hydraulic hand pump) සාමාන්‍යයෙන් භාවිතා කරන්නේ සිලින්ඩර් හෙඩ්, මේන් බියර්රිං හෝ ටයි රොඩ් වල ඇති හයිඩ්‍රොලික් නට් (G-nuts/Hydraulic nuts) තද කිරීමට හෝ ලිහිල් කිරීමටය. මෙමගින් ඉතා ඉහළ පීඩනයක් යොදා බෝල්ට් එක ඇදීමට (tension) ලක් කරන අතර, එවිට නට් එක පහසුවෙන් කරකවා තද කළ හැකිය. සාමාන්‍ය යතුරකින් (spanner) කළ නොහැකි තරම් ඉහළ බලයක් අවශ්‍ය වන මෙම කාර්යය සඳහා හයිඩ්‍රොලික් පීඩනය අත්‍යවශ්‍ය වේ.",
         "tags": [
             {
-                "sub_category": "maintenance",
+                "sub_category": "Maintenance",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             }
         ]
@@ -5318,11 +5318,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "operations",
+                "sub_category": "Management",
                 "main_category": "Management, Administration & Human Factors"
             },
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -5342,11 +5342,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "workshop",
+                "sub_category": "Mechanics",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             }
         ]
@@ -5383,11 +5383,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "Fire Suppression",
+                "sub_category": "Firefighting",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -5407,11 +5407,11 @@
         "explanation": "දැව, රෙදිපිළි, කඩදාසි සහ අනෙකුත් කාබනික ද්‍රව්‍ය දැවීමේදී ඇතිවන ගින්න Class A ගණයට අයත් වේ. නිවැරදි පිළිතුර Class A වන්නේ මන්දයත්, මෙම වර්ගයේ ගිනි සාමාන්‍යයෙන් අළු ඉතිරි කරන ඝන ද්‍රව්‍ය නිසා ඇතිවන බැවිනි. අනෙක් පන්ති වන Class B දියර ඉන්ධන සඳහාද, Class C වායු සඳහාද සහ Class D ලෝහ සඳහාද වෙන් කර ඇති බැවින් ඒවා මෙයට අදාළ නොවේ.",
         "tags": [
             {
-                "sub_category": "Fire Fighting",
+                "sub_category": "Firefighting",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -5431,7 +5431,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "maintenance",
+                "sub_category": "Maintenance",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             }
         ]
@@ -5451,7 +5451,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "combustion",
+                "sub_category": "Engine",
                 "main_category": "Marine Engineering & Motive Power"
             }
         ]
@@ -5471,11 +5471,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "hot work",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -5495,11 +5495,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Fire Fighting",
+                "sub_category": "Firefighting",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -5519,11 +5519,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Fire Fighting",
+                "sub_category": "Firefighting",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "chemistry",
+                "sub_category": "Science",
                 "main_category": "Management, Administration & Human Factors"
             }
         ]
@@ -5543,7 +5543,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Fire Fighting",
+                "sub_category": "Firefighting",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -5563,7 +5563,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Fire Fighting",
+                "sub_category": "Firefighting",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -5600,11 +5600,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "LSA",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -5624,11 +5624,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "LSA",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "Abandon Ship",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -5648,11 +5648,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "LSA",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "SOLAS",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             }
         ]
@@ -5672,11 +5672,11 @@
         "explanation": "ජීවිතාරක්ෂක පහුරකට (Liferaft) නැඟුණු පසු, ඔබ ප්‍රධාන වශයෙන් කළ යුත්තේ අවට නිරීක්ෂණය සඳහා පිරිසක් යෙදවීම (Lookout), හැකි නම් අනෙකුත් පහුරු සමඟ සම්බන්ධ වීම සහ මුහුදු නැංගුරම (Sea anchor) භාවිත කිරීමයි. මුහුදු නැංගුරම මගින් පහුර ගසාගෙන යාම පාලනය කරන අතර ස්ථායීතාවය වැඩි කරයි. අනෙක් අතට, කිසිදු ඉලක්කයකින් තොරව හබල් ගෑම හෝ ආහාර වැඩිපුර පරිභෝජනය කිරීම වැනි ක්‍රියා මගින් දිවි ගලවා ගැනීමේ අවස්ථාව අඩු වේ.",
         "tags": [
             {
-                "sub_category": "Life Saving Appliances",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "Survival",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -5696,11 +5696,11 @@
         "explanation": "නෞකාවේ එන්ජින් කාමරය තුළ ගින්නක් ඇති වූ විට, එහි ගිනි නිවීමේ මෙහෙයුම් වල සෘජු වගකීම සහ පාලනය දරනු ලබන්නේ ප්‍රධාන ඉංජිනේරුවරයා (Chief Engineer) විසිනි. ඔහු එන්ජින් කාමරයේ ඇති පද්ධති, ඉන්ධන පාලක සහ වාතාශ්‍රය පද්ධති පිළිබඳ මනා දැනුමක් ඇති අයෙකු බැවින් එම මෙහෙයුම මෙහෙයවීමට සුදුසුම පුද්ගලයා වේ. නෞකාවේ කපිතාන්වරයා මුළු නෞකාවේම වගකීම දරමින් පාලම් මැදිරියේ (Bridge) සිට උපදෙස් දෙන අතර, එන්ජින් කාමරයේ සටන මෙහෙයවන්නේ ප්‍රධාන ඉංජිනේරුවරයායි.",
         "tags": [
             {
-                "sub_category": "Fire Fighting",
+                "sub_category": "Firefighting",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "Emergency Procedures",
+                "sub_category": "Emergency",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -5720,7 +5720,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -5740,11 +5740,11 @@
         "explanation": "බෝම්බ සෝදිසියකදී අනුගමනය කළ යුතු අතිශය වැදගත් මූලධර්මය වන්නේ කිසිදු සැකකටයුතු වස්තුවක් හෝ පාර්සලයක් අතින් නොල්ලීමයි (Do not touch). සැකකටයුතු උපකරණ ස්පර්ශ කිරීමෙන් හෝ සෙලවීමෙන් එහි ඇති පීඩනයට හෝ චලනයට සංවේදී වන යාන්ත්‍රණ සක්‍රීය වී පිපිරීමක් සිදු විය හැකිය. එබැවින් එය විවෘත කිරීමට හෝ ආරක්ෂිත ස්ථානයකට ගෙන යාමට උත්සාහ නොකර වහාම අදාළ අංශ දැනුවත් කළ යුතුය.",
         "tags": [
             {
-                "sub_category": "security",
+                "sub_category": "Security",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "ISPS Code",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             }
         ]
@@ -5764,11 +5764,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Ship Security",
+                "sub_category": "Security",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -5788,7 +5788,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "maintenance",
+                "sub_category": "Maintenance",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             }
         ]
@@ -5808,11 +5808,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "operations",
+                "sub_category": "Management",
                 "main_category": "Management, Administration & Human Factors"
             },
             {
-                "sub_category": "watchkeeping",
+                "sub_category": "Watchkeeping",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             }
         ]
@@ -5832,7 +5832,7 @@
         "explanation": "ස්වයංක්‍රීයව පාලනය වන බොයිලේරුවක පීඩනය අඩු වූ පසුවත් බර්නරය දැල්වීමට අසමත් වීම බරපතල පාලන දෝෂයකි. මෙවැනි අවස්ථාවක, පද්ධතිය තනිවම අලුත්වැඩියා කිරීමට උත්සාහ නොකර වහාම ඉංජිනේරු ඇමතුම් සීනුව (engineers call alarm) මගින් රාජකාරි ඉංජිනේරුවරයා කැඳවිය යුතුය. ඉන්ධන කාන්දුවීම් හෝ දහනය නොවන වාෂ්ප එකතු වීමෙන් සිදුවිය හැකි පිපිරීම් වැළැක්වීමට මෙම කඩිනම් ක්‍රියාමාර්ගය අවශ්‍ය වේ.",
         "tags": [
             {
-                "sub_category": "watchkeeping",
+                "sub_category": "Watchkeeping",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             }
         ]
@@ -5852,11 +5852,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "maintenance",
+                "sub_category": "Maintenance",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             },
             {
-                "sub_category": "workshop",
+                "sub_category": "Mechanics",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             }
         ]
@@ -5876,7 +5876,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "maintenance",
+                "sub_category": "Maintenance",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             }
         ]
@@ -5896,7 +5896,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Ship Security",
+                "sub_category": "Security",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -5916,11 +5916,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Cargo Operations",
+                "sub_category": "Cargo",
                 "main_category": "Cargo Operations & Vessel Types"
             },
             {
-                "sub_category": "Deck Equipment",
+                "sub_category": "Deck",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             }
         ]
@@ -5940,11 +5940,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Seamanship",
+                "sub_category": "Deck",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             },
             {
-                "sub_category": "Anchoring",
+                "sub_category": "Deck",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             }
         ]
@@ -5981,11 +5981,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "First Aid",
+                "sub_category": "Medical",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "medical",
+                "sub_category": "Medical",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -6005,11 +6005,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Regulatory",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             },
             {
-                "sub_category": "Port State Control",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             }
         ]
@@ -6029,11 +6029,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Environmental Protection",
+                "sub_category": "Environmental",
                 "main_category": "Maritime Regulations, Law & Compliance"
             },
             {
-                "sub_category": "marpol",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             }
         ]
@@ -6102,11 +6102,11 @@
         "explanation": "ඩීසල් එන්ජිමක බෙයාරිං (Bearings) රත් වීමට ප්‍රධානතම හේතුවක් වන්නේ ලිහිසි තෙල්වල පීඩනය (Lubricating oil pressure) ඉතා අඩු වීමයි. ලිහිසි තෙල් මගින් බෙයාරිං මතුපිටවල් අතර ඝර්ෂණය අවම කරන අතර එමගින් ජනනය වන තාපය ඉවත් කරයි. පීඩනය අඩු වූ විට ප්‍රමාණවත් තෙල් පටලයක් නිර්මාණය නොවන බැවින් ඝර්ෂණය වැඩි වී බෙයාරිං රත් වේ. තෙල්වල උෂ්ණත්වය අඩු වීම හෝ ප්‍රමාණය වැඩි වීම මෙයට හේතුවක් නොවේ.",
         "tags": [
             {
-                "sub_category": "Main Engine",
+                "sub_category": "Engine",
                 "main_category": "Marine Engineering & Motive Power"
             },
             {
-                "sub_category": "lubrication",
+                "sub_category": "Lubrication",
                 "main_category": "Marine Engineering & Motive Power"
             }
         ]
@@ -6126,11 +6126,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "operations",
+                "sub_category": "Management",
                 "main_category": "Management, Administration & Human Factors"
             }
         ]
@@ -6150,7 +6150,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Fire Fighting",
+                "sub_category": "Firefighting",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
@@ -6174,11 +6174,11 @@
         "explanation": "ජීවිතාරක්ෂක බෝට්ටු පෙරහුරුවකදී (Life boat drill) ඔබේ වගකීම් සහ රාජකාරි මොනවාදැයි දැනගත හැක්කේ 'Muster List' (පැමිණීමේ ලේඛනය) මගිනි. නැවක ප්‍රමුඛ ස්ථානවල ප්‍රදර්ශනය කර ඇති මෙම ලේඛනයේ සෑම නාවිකයෙකුගේම නම, ඔවුන් හදිසි අවස්ථාවකදී යා යුතු ස්ථානය සහ ඉටුකළ යුතු නිශ්චිත කාර්යයන් සඳහන් වේ. Safety Manuals වැනි වෙනත් ලේඛන මගින් සාමාන්‍ය උපදෙස් ලබා දුන්නද, පුද්ගලිකව තමා කළ යුතු කාර්යය නිවැරදිව දැනගත හැක්කේ Muster List එකෙනි.",
         "tags": [
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "Muster List",
+                "sub_category": "Emergency",
                 "main_category": "Management, Administration & Human Factors"
             }
         ]
@@ -6198,11 +6198,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "maintenance",
+                "sub_category": "Maintenance",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             },
             {
-                "sub_category": "Corrosion",
+                "sub_category": "Metallurgy",
                 "main_category": "Marine Engineering & Motive Power"
             }
         ]
@@ -6222,11 +6222,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "Administration",
+                "sub_category": "Legislation",
                 "main_category": "Management, Administration & Human Factors"
             }
         ]
@@ -6263,11 +6263,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "watchkeeping",
+                "sub_category": "Watchkeeping",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             },
             {
-                "sub_category": "operations",
+                "sub_category": "Management",
                 "main_category": "Management, Administration & Human Factors"
             }
         ]
@@ -6287,11 +6287,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Fire Fighting",
+                "sub_category": "Firefighting",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "Extinguishers",
+                "sub_category": "Firefighting",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -6311,11 +6311,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Fire Fighting",
+                "sub_category": "Firefighting",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -6335,11 +6335,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Fire Fighting",
+                "sub_category": "Firefighting",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "Extinguishers",
+                "sub_category": "Firefighting",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -6376,11 +6376,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "LSA",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -6400,11 +6400,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "LSA",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "SOLAS",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             }
         ]
@@ -6424,11 +6424,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "LSA",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "SOLAS",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             }
         ]
@@ -6448,11 +6448,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "LSA",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "SOLAS",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             }
         ]
@@ -6472,11 +6472,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Emergency Procedures",
+                "sub_category": "Emergency",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "SOLAS",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             }
         ]
@@ -6513,11 +6513,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "management",
+                "sub_category": "Management",
                 "main_category": "Management, Administration & Human Factors"
             }
         ]
@@ -6537,7 +6537,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Ship Security",
+                "sub_category": "Security",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -6557,7 +6557,7 @@
         "explanation": "නැවට ගෙන එනු ලබන විශාල භාණ්ඩ තොග (stores) හෝ පැලට් (pallets) ඇතුළත සඟවා ඇති මත්ද්‍රව්‍ය වැනි නීතිවිරෝධී ද්‍රව්‍ය හඳුනා ගැනීමට 'Pallet scanner' එකක් භාවිතා කරයි. මෙය X-ray තාක්ෂණය මගින් ක්‍රියා කරන අතර, භාණ්ඩ පාර්සල් එකින් එක විවෘත නොකරම ඒවා ඇතුළත ඇති දේ නිරීක්ෂණය කිරීමට ආරක්ෂක නිලධාරීන්ට හැකියාව ලබා දෙයි. අනෙකුත් අතේ ගෙන යා හැකි ස්කෑනර් වලට වඩා මෙය විශාල භාණ්ඩ පරීක්ෂා කිරීමට කාර්යක්ෂම වේ.",
         "tags": [
             {
-                "sub_category": "security",
+                "sub_category": "Security",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -6577,7 +6577,7 @@
         "explanation": "බොයිලේරු දුම් කවුළුවෙන් කළු දුම පිටවීමට ප්‍රධානතම හේතුව වන්නේ දහනය සඳහා ප්‍රමාණවත් තරම් වාතය (Insufficient combustion air) නොලැබීමයි. මෙහිදී ඉන්ධන සම්පූර්ණයෙන් දහනය නොවීම නිසා නොදැවුණු කාබන් අංශු කළු දුම ලෙස පිටවේ. වාතය වැඩිපුර තිබේ නම් සුදු පැහැති දුමක් පිටවිය හැකි අතර, ඉන්ධනවල ජලය තිබීමෙන් ද සුදු දුම හෝ වාෂ්ප ඇති විය හැක. එබැවින් කළු දුම සඳහා ප්‍රධාන හේතුව වාතය මදි වීමයි.",
         "tags": [
             {
-                "sub_category": "combustion",
+                "sub_category": "Engine",
                 "main_category": "Marine Engineering & Motive Power"
             }
         ]
@@ -6597,11 +6597,11 @@
         "explanation": "වාෂ්ප නල (steam lines) අධික උෂ්ණත්වයකට ලක්වන බැවින්, එහි බෝල්ට් ඇණ කාලයත් සමඟ තද වී (seizing) ගැලවීමට නොහැකි තත්ත්වයට පත්විය හැකිය. මෙය වැළැක්වීම සඳහා බෝල්ට් ඇණ නැවත සවිකිරීමේදී ඒවායේ නූල් මත ග්‍රැෆයිට් සහිත ග්‍රීස් (graphite based grease) ආලේප කළ යුතුය. සාමාන්‍ය ග්‍රීස් අධික රශ්මියේදී දිය වී යන නමුත් ග්‍රැෆයිට් ස්ථරය ඉතිරි වී මීළඟ වතාවේදී පහසුවෙන් බෝල්ට් එක ගැලවීමට උදවු වේ.",
         "tags": [
             {
-                "sub_category": "maintenance",
+                "sub_category": "Maintenance",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             },
             {
-                "sub_category": "Workshop Practice",
+                "sub_category": "Mechanics",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             }
         ]
@@ -6621,7 +6621,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "maintenance",
+                "sub_category": "Maintenance",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             }
         ]
@@ -6658,11 +6658,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "workshop",
+                "sub_category": "Mechanics",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             },
             {
-                "sub_category": "Tools",
+                "sub_category": "Mechanics",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             }
         ]
@@ -6733,11 +6733,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Seamanship",
+                "sub_category": "Deck",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             },
             {
-                "sub_category": "Mooring",
+                "sub_category": "Deck",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             }
         ]
@@ -6757,11 +6757,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "First Aid",
+                "sub_category": "Medical",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -6781,11 +6781,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "First Aid",
+                "sub_category": "Medical",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "medical",
+                "sub_category": "Medical",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -6805,11 +6805,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "tanker operations",
+                "sub_category": "Cargo",
                 "main_category": "Cargo Operations & Vessel Types"
             },
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -6846,11 +6846,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "PPE",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -6870,11 +6870,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "pumps",
+                "sub_category": "Pump",
                 "main_category": "Marine Engineering & Motive Power"
             },
             {
-                "sub_category": "Ballast Operations",
+                "sub_category": "Ballast",
                 "main_category": "Maritime Regulations, Law & Compliance"
             }
         ]
@@ -6894,11 +6894,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "hot work",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -6969,11 +6969,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "operations",
+                "sub_category": "Management",
                 "main_category": "Management, Administration & Human Factors"
             },
             {
-                "sub_category": "watchkeeping",
+                "sub_category": "Watchkeeping",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             }
         ]
@@ -6993,11 +6993,11 @@
         "explanation": "නැවක සයිරන් එකෙන් සහ සීනු මගින් කෙටි නාද හතක් සහ දිගු නාද එකක් නිකුත් කිරීමෙන් සංඥා කරන්නේ පොදු හදිසි අවස්ථාවකි (General Emergency Alarm). මෙවැනි අවස්ථාවකදී ඔබ වහාම ඔබගේ Muster station එකට හෝ Lifeboat station එකට වාර්තා කළ යුතුය. මෙය නැව අත්හැර යාමට දෙන නියෝගයක් නොවන අතර, එන්ජින් රූම් එකට යාම හෝ පාලම් පුවරුවට (bridge) යාම මෙවැනි අවස්ථාවක නියමිත පිළිවෙත නොවේ.",
         "tags": [
             {
-                "sub_category": "Emergency Procedures",
+                "sub_category": "Emergency",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -7034,11 +7034,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "LSA",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "Abandon Ship",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -7058,7 +7058,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "maintenance",
+                "sub_category": "Maintenance",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             }
         ]
@@ -7078,11 +7078,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Fire Fighting",
+                "sub_category": "Firefighting",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -7102,7 +7102,7 @@
         "explanation": "Polar (ධ්‍රැවීය) දියරයක් යනු ජලය සමඟ මිශ්‍ර විය හැකි ද්‍රව්‍යයකි (උදාහරණ: මධ්‍යසාර හෝ ඇසිටෝන්). සාමාන්‍යයෙන් තෙල් වැනි ද්‍රව්‍ය ජලය සමඟ මිශ්‍ර නොවන (Non-polar) නමුත්, පෝලර් දියර ජලය ආකර්ෂණය කරයි. ගිනි නිවීමේදී මෙය ඉතා වැදගත් වේ, මන්ද පෝලර් දියර මගින් සාමාන්‍ය ෆෝම් (foam) ස්ථරය දිය කර දමන බැවින් ඒ සඳහා විශේෂිත 'Alcohol Resistant Foam' භාවිතා කළ යුතුය.",
         "tags": [
             {
-                "sub_category": "chemistry",
+                "sub_category": "Science",
                 "main_category": "Management, Administration & Human Factors"
             }
         ]
@@ -7122,11 +7122,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "Fire Prevention",
+                "sub_category": "Firefighting",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -7146,11 +7146,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Fire Fighting",
+                "sub_category": "Firefighting",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "maintenance",
+                "sub_category": "Maintenance",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             }
         ]
@@ -7170,11 +7170,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "LSA",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -7194,11 +7194,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "LSA",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "SOLAS",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             }
         ]
@@ -7218,11 +7218,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Survival",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -7242,11 +7242,11 @@
         "explanation": "නැව අත්හැර යාමේ පෙරහුරුවකදී (abandon ship drill) හෝ හදිසි අවස්ථාවකදී රැස්වන ස්ථානයට (muster station) පැමිණි වහාම කළ යුතු පළමු සහ වැදගත්ම කාර්යය වන්නේ ජීවිතාරක්ෂක කබාය (life jacket) නිවැරදිව පැළඳ ගැනීමයි. මෙය පුද්ගලික ආරක්ෂාව තහවුරු කරන මූලික පියවරයි. අනෙකුත් කාර්යයන් වන නාමලේඛනය පරීක්ෂා කිරීම හෝ බෝට්ටුව සූදානම් කිරීම සිදු කළ යුත්තේ තමන්ගේ ආරක්ෂාව තහවුරු කර ගැනීමෙන් පසුවය. ජීවිතාරක්ෂක කබාය අතේ තබාගෙන සිටීම හෝ පසුව පැළඳීමට බලා සිටීම වැරදිය.",
         "tags": [
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "Emergency Procedures",
+                "sub_category": "Emergency",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -7266,11 +7266,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "operations",
+                "sub_category": "Management",
                 "main_category": "Management, Administration & Human Factors"
             }
         ]
@@ -7290,7 +7290,7 @@
         "explanation": "IED යනු 'Improvised Explosive Device' යන්නෙහි කෙටි යෙදුමයි. මෙහි සරල අර්ථය වන්නේ 'අතින් සාදන ලද බෝම්බයක්' (homemade bomb) යන්නයි. මෙය හමුදාමය ප්‍රමිතියකට නිපදවන ලද නිල අවියක් නොව, කිසියම් කඩාකප්පල්කාරී ක්‍රියාවක් සඳහා පුද්ගලයන් විසින් සකස් කරන ලද පුපුරණ ද්‍රව්‍යයකි. එබැවින් අනෙකුත් ආරක්ෂක උපකරණ හෝ ස්වාභාවික ද්‍රව්‍ය පිළිබඳ විකල්ප මෙයට අදාළ නොවේ.",
         "tags": [
             {
-                "sub_category": "security",
+                "sub_category": "Security",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -7310,7 +7310,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "maintenance",
+                "sub_category": "Maintenance",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             }
         ]
@@ -7330,7 +7330,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -7350,11 +7350,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "maintenance",
+                "sub_category": "Maintenance",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             },
             {
-                "sub_category": "workshop",
+                "sub_category": "Mechanics",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             }
         ]
@@ -7374,11 +7374,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Electrical Safety",
+                "sub_category": "Safety",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "maintenance",
+                "sub_category": "Maintenance",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             }
         ]
@@ -7398,7 +7398,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "workshop",
+                "sub_category": "Mechanics",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             }
         ]
@@ -7418,11 +7418,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "maintenance",
+                "sub_category": "Maintenance",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             },
             {
-                "sub_category": "workshop",
+                "sub_category": "Mechanics",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             }
         ]
@@ -7442,11 +7442,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "workshop",
+                "sub_category": "Mechanics",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             },
             {
-                "sub_category": "Tools",
+                "sub_category": "Mechanics",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             }
         ]
@@ -7500,11 +7500,11 @@
         "explanation": "නැවක භාණ්ඩ පැටවීමේදී හෝ බංකර් (Bunker) කිරීමේදී, තෙල් කාන්දුවක් සිදුවුවහොත් එය වහාම පාලනය කිරීම සඳහා SOPEP (Shipboard Oil Pollution Emergency Plan) උපකරණ සූදානම් කර තිබිය යුතුය. 'Ready for immediate use' යන්නෙන් අදහස් කරන්නේ කාන්දුවක් දුටු සැණින් ක්‍රියාත්මක වීමට අවශ්‍ය sawdust, සොරබන්ට් පෑඩ් (sorbent pads) සහ කොසු වැනි දෑ ඩෙක් එක මත සූදානම්ව තිබිය යුතු බවයි. ඒවා ගබඩාවක (locker) පූට්ටු කර තිබීමෙන් හදිසි අවස්ථාවකදී කාලය අපතේ යන අතර පරිසර දූෂණය වැඩි විය හැකිය. එසේම භාවිතයෙන් පසු පිරිසිදු කිරීමට නොව, වැළැක්වීමට මෙය වැදගත් වේ.",
         "tags": [
             {
-                "sub_category": "Environmental Protection",
+                "sub_category": "Environmental",
                 "main_category": "Maritime Regulations, Law & Compliance"
             },
             {
-                "sub_category": "bunkering",
+                "sub_category": "Bunkering",
                 "main_category": "Cargo Operations & Vessel Types"
             }
         ]
@@ -7524,11 +7524,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Environmental Protection",
+                "sub_category": "Environmental",
                 "main_category": "Maritime Regulations, Law & Compliance"
             },
             {
-                "sub_category": "operations",
+                "sub_category": "Management",
                 "main_category": "Management, Administration & Human Factors"
             }
         ]
@@ -7548,11 +7548,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "Work at Height",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -7572,7 +7572,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Heat Exchangers",
+                "sub_category": "Exchanger",
                 "main_category": "Marine Engineering & Motive Power"
             }
         ]
@@ -7592,11 +7592,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "training",
+                "sub_category": "Management",
                 "main_category": "Management, Administration & Human Factors"
             }
         ]
@@ -7616,11 +7616,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "enclosed space",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -7640,11 +7640,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "refrigeration",
+                "sub_category": "HVAC",
                 "main_category": "Marine Engineering & Motive Power"
             }
         ]
@@ -7664,11 +7664,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "operations",
+                "sub_category": "Management",
                 "main_category": "Management, Administration & Human Factors"
             }
         ]
@@ -7688,11 +7688,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Main Engine",
+                "sub_category": "Engine",
                 "main_category": "Marine Engineering & Motive Power"
             },
             {
-                "sub_category": "operations",
+                "sub_category": "Management",
                 "main_category": "Management, Administration & Human Factors"
             }
         ]
@@ -7727,11 +7727,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "workshop",
+                "sub_category": "Mechanics",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             },
             {
-                "sub_category": "management",
+                "sub_category": "Management",
                 "main_category": "Management, Administration & Human Factors"
             }
         ]
@@ -7768,11 +7768,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Fire Fighting",
+                "sub_category": "Firefighting",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -7792,7 +7792,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "maintenance",
+                "sub_category": "Maintenance",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             }
         ]
@@ -7812,7 +7812,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -7832,11 +7832,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Fire Fighting",
+                "sub_category": "Firefighting",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -7856,7 +7856,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Fire Fighting",
+                "sub_category": "Firefighting",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
@@ -7884,7 +7884,7 @@
                 "main_category": "Management, Administration & Human Factors"
             },
             {
-                "sub_category": "thermodynamics",
+                "sub_category": "Science",
                 "main_category": "Marine Engineering & Motive Power"
             }
         ]
@@ -7904,7 +7904,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -7924,11 +7924,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Fire Fighting",
+                "sub_category": "Firefighting",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -7948,11 +7948,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "LSA",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "SOLAS",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             }
         ]
@@ -7972,11 +7972,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "LSA",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "SOLAS",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             }
         ]
@@ -7996,11 +7996,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "LSA",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "SOLAS",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             }
         ]
@@ -8020,11 +8020,11 @@
         "explanation": "ISPS (International Ship and Port Facility Security) කේතය යටතේ ආරක්ෂක මට්ටම් තුනක් අර්ථ දක්වා ඇත. මෙයින් 'Security Level 3' යනු ඉහළම ආරක්ෂක අනතුරු ඇඟවීමේ මට්ටමයි. මෙම මට්ටම ප්‍රකාශයට පත් කරනු ලබන්නේ කිසියම් ආරක්ෂක තර්ජනයක් සිදුවීමට ආසන්න බවට හෝ සිදුවෙමින් පවතින බවට තහවුරු වූ තොරතුරු ඇති විටය. Level 1 යනු අවම ආරක්ෂක පියවර ගන්නා සාමාන්‍ය මට්ටම වන අතර, Level 2 යනු වැඩි කරන ලද ආරක්ෂක මට්ටමයි. එබැවින්, ඉහළම අවදානම් තත්ත්වයකදී ක්‍රියාත්මක වන්නේ Level 3 වේ.",
         "tags": [
             {
-                "sub_category": "security",
+                "sub_category": "Security",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "ISPS Code",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             }
         ]
@@ -8044,7 +8044,7 @@
         "explanation": "අපරාධකරුවන් සහ ත්‍රස්තවාදීන් ඔවුන්ගේ අරමුණු ඉටු කර ගැනීම සඳහා ලෝකය පුරා බහුලවම සහ පහසුවෙන් ලබා ගත හැකි ආයුධය ලෙස තුවක්කු (Gun) භාවිතා කරයි. මේවා ප්‍රමාණයෙන් කුඩා වීම, පහසුවෙන් සැඟවිය හැකි වීම සහ දුර සිට ප්‍රහාර එල්ල කළ හැකි වීම මෙයට හේතුවයි. අනෙකුත් ආයුධ වර්ග (උදාහරණ ලෙස ජීව විද්‍යාත්මක හෝ විශාල මිසයිල පද්ධති) සාමාන්‍ය අපරාධකරුවන්ට ලබා ගැනීම සහ හැසිරවීම ඉතා අපහසු බැවින් ඒවා මෙහිදී නිවැරදි නොවේ.",
         "tags": [
             {
-                "sub_category": "security",
+                "sub_category": "Security",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -8064,11 +8064,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Purifiers",
+                "sub_category": "Purifier",
                 "main_category": "Marine Engineering & Motive Power"
             },
             {
-                "sub_category": "maintenance",
+                "sub_category": "Maintenance",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             }
         ]
@@ -8088,7 +8088,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "maintenance",
+                "sub_category": "Maintenance",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             }
         ]
@@ -8108,7 +8108,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "maintenance",
+                "sub_category": "Maintenance",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             }
         ]
@@ -8128,7 +8128,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "maintenance",
+                "sub_category": "Maintenance",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             }
         ]
@@ -8165,11 +8165,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "workshop",
+                "sub_category": "Mechanics",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             },
             {
-                "sub_category": "Tools",
+                "sub_category": "Mechanics",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             }
         ]
@@ -8189,11 +8189,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "maintenance",
+                "sub_category": "Maintenance",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             },
             {
-                "sub_category": "workshop",
+                "sub_category": "Mechanics",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             }
         ]
@@ -8230,11 +8230,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Seamanship",
+                "sub_category": "Deck",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             },
             {
-                "sub_category": "Mooring",
+                "sub_category": "Deck",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             }
         ]
@@ -8254,11 +8254,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "First Aid",
+                "sub_category": "Medical",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "medical",
+                "sub_category": "Medical",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -8278,7 +8278,7 @@
         "explanation": "ටර්නිකට් (Tourniquet) එකක් යනු අධික රුධිර වහනයක් පාලනය කිරීම සඳහා අතක හෝ කකුලක වෙළනු ලබන පටියකි. මෙය භාවිතා කළ යුත්තේ සෘජු පීඩනය (Direct pressure) වැනි අනෙකුත් ප්‍රථමාධාර ක්‍රම මගින් රුධිර වහනය නතර කිරීමට නොහැකි වූ අවසාන පියවරක් ලෙස පමණි. මන්දයත් ටර්නිකට් එකක් මගින් අදාළ අවයවයට රුධිරය ගලා යාම සම්පූර්ණයෙන්ම නතර කරන බැවින්, වැඩි වේලාවක් එය තබා ගැනීමෙන් එම අවයවයේ පටක මිය යාමට (Tissue death) ඉඩ ඇත. එබැවින් එය සැමවිටම අවසාන විකල්පය විය යුතුය.",
         "tags": [
             {
-                "sub_category": "First Aid",
+                "sub_category": "Medical",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -8298,11 +8298,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Environmental Protection",
+                "sub_category": "Environmental",
                 "main_category": "Maritime Regulations, Law & Compliance"
             },
             {
-                "sub_category": "marpol",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             }
         ]
@@ -8322,11 +8322,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Environmental Protection",
+                "sub_category": "Environmental",
                 "main_category": "Maritime Regulations, Law & Compliance"
             },
             {
-                "sub_category": "Pollution Control",
+                "sub_category": "Environmental",
                 "main_category": "Maritime Regulations, Law & Compliance"
             }
         ]

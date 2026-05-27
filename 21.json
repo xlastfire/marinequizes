@@ -14,11 +14,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Maritime Security",
+                "sub_category": "Security",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "isps",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             }
         ]
@@ -38,11 +38,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "hot work",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -62,11 +62,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Fire Fighting",
+                "sub_category": "Firefighting",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "Safety Equipment",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -86,11 +86,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Emergency Procedures",
+                "sub_category": "Emergency",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "Drills",
+                "sub_category": "Safety",
                 "main_category": "Management, Administration & Human Factors"
             }
         ]
@@ -110,11 +110,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "maintenance",
+                "sub_category": "Maintenance",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             },
             {
-                "sub_category": "Dry Docking",
+                "sub_category": "Maintenance",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             }
         ]
@@ -134,11 +134,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "LSA",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "Emergency Procedures",
+                "sub_category": "Emergency",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -158,11 +158,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Maritime Security",
+                "sub_category": "Security",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "Piracy",
+                "sub_category": "Security",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -182,11 +182,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "Emergency Response",
+                "sub_category": "Emergency",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -206,11 +206,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "bunkering",
+                "sub_category": "Bunkering",
                 "main_category": "Cargo Operations & Vessel Types"
             },
             {
-                "sub_category": "Fuel Management",
+                "sub_category": "Bunkering",
                 "main_category": "Marine Engineering & Motive Power"
             }
         ]
@@ -230,11 +230,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "Enclosed Space Entry",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -254,11 +254,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Safety Culture",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "management",
+                "sub_category": "Management",
                 "main_category": "Management, Administration & Human Factors"
             }
         ]
@@ -278,11 +278,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "Procedures",
+                "sub_category": "Management",
                 "main_category": "Management, Administration & Human Factors"
             }
         ]
@@ -302,11 +302,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "STCW",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             },
             {
-                "sub_category": "communication",
+                "sub_category": "Communication",
                 "main_category": "Management, Administration & Human Factors"
             }
         ]
@@ -326,11 +326,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "communication",
+                "sub_category": "Communication",
                 "main_category": "Management, Administration & Human Factors"
             },
             {
-                "sub_category": "navigation",
+                "sub_category": "Navigation",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             }
         ]
@@ -350,11 +350,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Electrical Safety",
+                "sub_category": "Safety",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "Fire Fighting",
+                "sub_category": "Firefighting",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -374,11 +374,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Fire Fighting",
+                "sub_category": "Firefighting",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -398,11 +398,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Emergency Procedures",
+                "sub_category": "Emergency",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "propulsion",
+                "sub_category": "Engine",
                 "main_category": "Marine Engineering & Motive Power"
             }
         ]
@@ -422,11 +422,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "risk management",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -446,7 +446,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Deck Operations",
+                "sub_category": "Deck",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             }
         ]
@@ -466,7 +466,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Regulatory",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             }
         ]
@@ -486,11 +486,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Safety Culture",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "communication",
+                "sub_category": "Communication",
                 "main_category": "Management, Administration & Human Factors"
             }
         ]
@@ -510,11 +510,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Manoeuvring",
+                "sub_category": "Navigation",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             },
             {
-                "sub_category": "navigation",
+                "sub_category": "Navigation",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             }
         ]
@@ -534,7 +534,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "maintenance",
+                "sub_category": "Maintenance",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             },
             {
@@ -558,11 +558,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Ship Life",
+                "sub_category": "Management",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             },
             {
-                "sub_category": "Crew Welfare",
+                "sub_category": "Management",
                 "main_category": "Management, Administration & Human Factors"
             }
         ]
@@ -582,11 +582,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "marpol",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             },
             {
-                "sub_category": "Environmental Protection",
+                "sub_category": "Environmental",
                 "main_category": "Maritime Regulations, Law & Compliance"
             }
         ]
@@ -606,11 +606,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Safety Culture",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "Leadership",
+                "sub_category": "Management",
                 "main_category": "Management, Administration & Human Factors"
             }
         ]
@@ -630,11 +630,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "IT Security",
+                "sub_category": "Security",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "communication",
+                "sub_category": "Communication",
                 "main_category": "Management, Administration & Human Factors"
             }
         ]
@@ -654,11 +654,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Fire Fighting",
+                "sub_category": "Firefighting",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "maintenance",
+                "sub_category": "Maintenance",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             }
         ]
@@ -678,7 +678,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Meteorology",
+                "sub_category": "Science",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             }
         ]
@@ -698,11 +698,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Enclosed Space Entry",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "Deck Operations",
+                "sub_category": "Deck",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             }
         ]
@@ -722,11 +722,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "STCW",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             },
             {
-                "sub_category": "Regulatory",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             }
         ]
@@ -746,11 +746,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Ship Registration",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             },
             {
-                "sub_category": "Flag State",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             }
         ]
@@ -770,11 +770,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "Enclosed Space Entry",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -794,7 +794,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "General English",
+                "sub_category": "Communication",
                 "main_category": "Management, Administration & Human Factors"
             }
         ]
@@ -814,7 +814,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "maintenance",
+                "sub_category": "Maintenance",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             },
             {
@@ -838,7 +838,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Duties",
+                "sub_category": "Management",
                 "main_category": "Management, Administration & Human Factors"
             }
         ]
@@ -858,11 +858,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Regulatory",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             },
             {
-                "sub_category": "Seafarer",
+                "sub_category": "Management",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             }
         ]
@@ -882,11 +882,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "LSA",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "emergency",
+                "sub_category": "Emergency",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -905,11 +905,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "LSA",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "Lifeboat",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -928,11 +928,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Maritime Security",
+                "sub_category": "Security",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "isps",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             }
         ]
@@ -951,11 +951,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "Policy",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             }
         ]
@@ -974,11 +974,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "First Aid",
+                "sub_category": "Medical",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -997,7 +997,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Ship Life",
+                "sub_category": "Management",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             }
         ]
@@ -1016,7 +1016,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "General Maritime",
+                "sub_category": "Legislation",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             }
         ]
@@ -1035,11 +1035,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "First Aid",
+                "sub_category": "Medical",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -1058,11 +1058,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "navigation",
+                "sub_category": "Navigation",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             },
             {
-                "sub_category": "watchkeeping",
+                "sub_category": "Watchkeeping",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             }
         ]
@@ -1081,7 +1081,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Cargo Operations",
+                "sub_category": "Cargo",
                 "main_category": "Cargo Operations & Vessel Types"
             }
         ]
@@ -1100,11 +1100,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "navigation",
+                "sub_category": "Navigation",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             },
             {
-                "sub_category": "Bridge Procedures",
+                "sub_category": "Navigation",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             }
         ]
@@ -1123,7 +1123,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Search and Rescue",
+                "sub_category": "Emergency",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -1142,7 +1142,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Bridge Procedures",
+                "sub_category": "Navigation",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             }
         ]
@@ -1161,11 +1161,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Deck Operations",
+                "sub_category": "Deck",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             },
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -1185,11 +1185,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "communication",
+                "sub_category": "Communication",
                 "main_category": "Management, Administration & Human Factors"
             },
             {
-                "sub_category": "Listening",
+                "sub_category": "Communication",
                 "main_category": "Management, Administration & Human Factors"
             }
         ]
@@ -1209,11 +1209,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "communication",
+                "sub_category": "Communication",
                 "main_category": "Management, Administration & Human Factors"
             },
             {
-                "sub_category": "Listening",
+                "sub_category": "Communication",
                 "main_category": "Management, Administration & Human Factors"
             }
         ]
@@ -1233,11 +1233,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "communication",
+                "sub_category": "Communication",
                 "main_category": "Management, Administration & Human Factors"
             },
             {
-                "sub_category": "Listening",
+                "sub_category": "Communication",
                 "main_category": "Management, Administration & Human Factors"
             }
         ]
@@ -1257,11 +1257,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "communication",
+                "sub_category": "Communication",
                 "main_category": "Management, Administration & Human Factors"
             },
             {
-                "sub_category": "Listening",
+                "sub_category": "Communication",
                 "main_category": "Management, Administration & Human Factors"
             }
         ]
@@ -1281,11 +1281,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "Deck Operations",
+                "sub_category": "Deck",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             }
         ]
@@ -1305,7 +1305,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Meteorology",
+                "sub_category": "Science",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             }
         ]
@@ -1325,11 +1325,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Safety Management",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "Familiarisation",
+                "sub_category": "Onboarding",
                 "main_category": "Management, Administration & Human Factors"
             }
         ]
@@ -1349,11 +1349,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "PPE",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -1373,11 +1373,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Safety Culture",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "Bridge Resource Management",
+                "sub_category": "Navigation",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             }
         ]
@@ -1397,11 +1397,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "marpol",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             },
             {
-                "sub_category": "Environmental Protection",
+                "sub_category": "Environmental",
                 "main_category": "Maritime Regulations, Law & Compliance"
             }
         ]
@@ -1421,11 +1421,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "maintenance",
+                "sub_category": "Maintenance",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             },
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -1445,11 +1445,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Bridge Procedures",
+                "sub_category": "Navigation",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             },
             {
-                "sub_category": "communication",
+                "sub_category": "Communication",
                 "main_category": "Management, Administration & Human Factors"
             }
         ]
@@ -1469,11 +1469,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Engine Room",
+                "sub_category": "Management",
                 "main_category": "Marine Engineering & Motive Power"
             },
             {
-                "sub_category": "maintenance",
+                "sub_category": "Maintenance",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             }
         ]
@@ -1493,11 +1493,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Safety Culture",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "watchkeeping",
+                "sub_category": "Watchkeeping",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             }
         ]
@@ -1517,11 +1517,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "STCW",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             },
             {
-                "sub_category": "Regulatory",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             }
         ]
@@ -1541,7 +1541,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Ship Terminology",
+                "sub_category": "Communication",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             },
             {
@@ -1565,11 +1565,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Incident Investigation",
+                "sub_category": "Management",
                 "main_category": "Management, Administration & Human Factors"
             },
             {
-                "sub_category": "navigation",
+                "sub_category": "Navigation",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             }
         ]
@@ -1589,7 +1589,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "training",
+                "sub_category": "Management",
                 "main_category": "Management, Administration & Human Factors"
             }
         ]
@@ -1609,11 +1609,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "STCW",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             },
             {
-                "sub_category": "communication",
+                "sub_category": "Communication",
                 "main_category": "Management, Administration & Human Factors"
             }
         ]
@@ -1633,11 +1633,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "navigation",
+                "sub_category": "Navigation",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             },
             {
-                "sub_category": "Bridge Procedures",
+                "sub_category": "Navigation",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             }
         ]
@@ -1657,7 +1657,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "ship stability",
+                "sub_category": "Stability",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             }
         ]
@@ -1677,11 +1677,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "communication",
+                "sub_category": "Communication",
                 "main_category": "Management, Administration & Human Factors"
             },
             {
-                "sub_category": "navigation",
+                "sub_category": "Navigation",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             }
         ]
@@ -1701,11 +1701,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Engine Room",
+                "sub_category": "Management",
                 "main_category": "Marine Engineering & Motive Power"
             },
             {
-                "sub_category": "fire safety",
+                "sub_category": "Firefighting",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -1725,11 +1725,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "hot work",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -1749,11 +1749,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Pilot Ladder",
+                "sub_category": "Deck",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             },
             {
-                "sub_category": "Deck Operations",
+                "sub_category": "Deck",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             }
         ]
@@ -1773,7 +1773,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Deck Operations",
+                "sub_category": "Deck",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             }
         ]
@@ -1793,11 +1793,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "bunkering",
+                "sub_category": "Bunkering",
                 "main_category": "Cargo Operations & Vessel Types"
             },
             {
-                "sub_category": "operations",
+                "sub_category": "Management",
                 "main_category": "Management, Administration & Human Factors"
             }
         ]
@@ -1817,11 +1817,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "maintenance",
+                "sub_category": "Maintenance",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             },
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -1841,11 +1841,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Safety Culture",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "communication",
+                "sub_category": "Communication",
                 "main_category": "Management, Administration & Human Factors"
             }
         ]
@@ -1865,11 +1865,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Electrical Safety",
+                "sub_category": "Safety",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "Fire Fighting",
+                "sub_category": "Firefighting",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -1889,11 +1889,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Emergency Procedures",
+                "sub_category": "Emergency",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "Engine Room",
+                "sub_category": "Management",
                 "main_category": "Marine Engineering & Motive Power"
             }
         ]
@@ -1913,11 +1913,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "fuel system",
+                "sub_category": "Fuels",
                 "main_category": "Marine Engineering & Motive Power"
             },
             {
-                "sub_category": "maintenance",
+                "sub_category": "Maintenance",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             }
         ]
@@ -1937,11 +1937,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Maritime Security",
+                "sub_category": "Security",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "isps",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             }
         ]
@@ -1961,11 +1961,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "security",
+                "sub_category": "Security",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "watchkeeping",
+                "sub_category": "Watchkeeping",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             }
         ]
@@ -2002,11 +2002,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "STCW",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             },
             {
-                "sub_category": "Safety Training",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -2026,7 +2026,7 @@
         "explanation": "නැවක කාර්ය මණ්ඩලය ආහාර ගන්නා ස්ථානය හැඳින්වීමට භාවිතා කරන නිවැරදි නාවික පාරිභාෂිත වචනය වන්නේ 'Mess' (Crew mess) යන්නයි. 'Dining room' යන වචනය සාමාන්‍යයෙන් මගී නැව්වල හෝ නිවාසවල භාවිතා වන අතර, නැවක කාර්ය මණ්ඩලය සඳහා වෙන් කර ඇති කොටසට 'Mess room' යැයි කියනු ලැබේ. 'Kitchen' යන්න නැවකදී 'Galley' ලෙස හඳුන්වනු ලබන අතර එය ආහාර පිසින ස්ථානයයි. එබැවින් කාර්ය මණ්ඩලය ආහාර ගන්නා ස්ථානය නිවැරදිව 'Crew mess' ලෙස හඳුන්වයි.",
         "tags": [
             {
-                "sub_category": "Ship Familiarization",
+                "sub_category": "Onboarding",
                 "main_category": "Management, Administration & Human Factors"
             }
         ]
@@ -2046,11 +2046,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Bridge Procedures",
+                "sub_category": "Navigation",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             },
             {
-                "sub_category": "navigation",
+                "sub_category": "Navigation",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             }
         ]
@@ -2070,11 +2070,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Emergency Procedures",
+                "sub_category": "Emergency",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "Man Overboard",
+                "sub_category": "Emergency",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -2094,7 +2094,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Marine Terminology",
+                "sub_category": "Communication",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             }
         ]
@@ -2114,11 +2114,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Maritime Security",
+                "sub_category": "Security",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "Piracy",
+                "sub_category": "Security",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -2138,7 +2138,7 @@
         "explanation": "වෙළඳ නාවික ක්ෂේත්‍රයේ (Merchant Navy) මූලිකම සහ එකම ප්‍රධාන අරමුණ වන්නේ ලොව පුරා විවිධ රටවල් අතර භාණ්ඩ (Goods/Cargo) ආරක්ෂිතව සහ කාර්යක්ෂමව මුහුදු මාර්ගයෙන් ප්‍රවාහනය කිරීමයි. මෙය ගෝලීය වෙළඳාමේ කොන්ද පණ ගැන්වීම ලෙස සැලකේ. අනෙකුත් විකල්ප වන හමුදාමය ආරක්ෂාව සැපයීම (Navy වල කාර්යයකි) හෝ විනෝදය සඳහා යාත්‍රා කිරීම වැනි කරුණු මෙහි ප්‍රාථමික අරමුණ නොවේ. භාණ්ඩ වලට හානියක් නොවී සහ නියමිත කාලයට ගමනාන්තය වෙත ළඟා වීම මෙහිදී අතිශය වැදගත් වේ.",
         "tags": [
             {
-                "sub_category": "General Maritime",
+                "sub_category": "Legislation",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             }
         ]
@@ -2158,11 +2158,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Manoeuvring",
+                "sub_category": "Navigation",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             },
             {
-                "sub_category": "Tug Operations",
+                "sub_category": "Deck",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             }
         ]
@@ -2182,11 +2182,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "navigation",
+                "sub_category": "Navigation",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             },
             {
-                "sub_category": "Anchoring",
+                "sub_category": "Deck",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             }
         ]
@@ -2206,11 +2206,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "watchkeeping",
+                "sub_category": "Watchkeeping",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             },
             {
-                "sub_category": "Engine Room",
+                "sub_category": "Management",
                 "main_category": "Marine Engineering & Motive Power"
             }
         ]
@@ -2230,11 +2230,11 @@
         "explanation": "එන්ජින් රූම් එකක සේවය කරන රේටින් (Rating) කෙනෙකු යම් යන්ත්‍රයක හෝ උපාංගයක දෝෂයක් දුටු විට වහාම ඒ බව රාජකාරියේ නියුතු ඉංජිනේරුවරයාට (Duty Engineer) දැනුම් දිය යුතුය. මන්දයත්, සුළු දෝෂයක් විශාල යාන්ත්‍රික බිඳවැටීමකට හෝ නැවේ ආරක්ෂාවට තර්ජනයක් වන අනතුරකට හේතු විය හැකි බැවිනි. දෝෂය තනිවම පිළිසකර කිරීමට උත්සාහ කිරීම හෝ නොසලකා හැරීම භයානක විය හැකි අතර, ඉංජිනේරුවරයාට දැනුම් දීමෙන් පසු ඔහු විසින් නිසි පියවර ගනු ඇත.",
         "tags": [
             {
-                "sub_category": "maintenance",
+                "sub_category": "Maintenance",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             },
             {
-                "sub_category": "operations",
+                "sub_category": "Management",
                 "main_category": "Management, Administration & Human Factors"
             }
         ]
@@ -2254,11 +2254,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Engine Room",
+                "sub_category": "Management",
                 "main_category": "Marine Engineering & Motive Power"
             },
             {
-                "sub_category": "operations",
+                "sub_category": "Management",
                 "main_category": "Management, Administration & Human Factors"
             }
         ]
@@ -2278,11 +2278,11 @@
         "explanation": "නෞකාවක සිටින සියලුම පුද්ගලයින් සඳහා හදිසි අවස්ථාවකදී හෝ ජීවිතාරක්ෂක බෝට්ටු පෙරහුරුවකදී (Lifeboat Drill) ඔවුන් සිටිය යුතු ස්ථානය සහ ඉටුකළ යුතු කාර්යයන් විස්තරාත්මකව දක්වා ඇති ලැයිස්තුව 'Muster List' ලෙස හැඳින්වේ. මෙය SOLAS රෙගුලාසි වලට අනුව අනිවාර්ය ලියවිල්ලක් වන අතර, එමගින් එක් එක් පුද්ගලයාගේ වගකීම් පැහැදිලිව දක්වයි. අනෙකුත් සාමාන්‍ය රාජකාරි ලැයිස්තු (Work schedule) මගින් හදිසි අවස්ථා හැසිරවීම පිළිබඳ නීතිමය උපදෙස් ලබා නොදෙන බැවින් ඒවා මෙයට අදාළ නොවේ.",
         "tags": [
             {
-                "sub_category": "Emergency Procedures",
+                "sub_category": "Emergency",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]

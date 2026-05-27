@@ -82,11 +82,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Bridge Procedures",
+                "sub_category": "Navigation",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             },
             {
-                "sub_category": "Seamanship",
+                "sub_category": "Deck",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             }
         ]
@@ -140,11 +140,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Electrical Engineering",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "Batteries",
+                "sub_category": "Battery",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -164,11 +164,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Anchoring",
+                "sub_category": "Deck",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             },
             {
-                "sub_category": "Seamanship",
+                "sub_category": "Deck",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             }
         ]
@@ -188,11 +188,11 @@
         "explanation": "පයිලට් ඉනිමගක ඇති පළල් හරස් ලී (Wide rung) කොටස 'Spreader' ලෙස හැඳින්වේ. මෙහි ප්‍රධාන කර්තව්‍යය වන්නේ ඉනිමග ඇඹරීම (Twisting) වැළැක්වීමයි. මෙය පයිලට්වරයා නැවට නගින විට ඉනිමග ස්ථාවරව තබා ගැනීමට උදවු වේ. සාමාන්‍ය පඩි (Steps) හෝ සයිඩ් රෝප්ස් (Side ropes) මගින් මෙම ඇඹරීම පාලනය කළ නොහැකි නිසා 'Spreader' එක ඉතා වැදගත් වේ.",
         "tags": [
             {
-                "sub_category": "Safety Equipment",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "Deck Operations",
+                "sub_category": "Deck",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             }
         ]
@@ -318,7 +318,7 @@
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "Control Systems",
+                "sub_category": "Controls",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -338,7 +338,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Hazardous Areas",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -358,7 +358,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Electrical Theory",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -378,7 +378,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "electronics",
+                "sub_category": "Electronics",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -398,11 +398,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Electrical Machines",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "Motors",
+                "sub_category": "Motor",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -439,7 +439,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Electrical Engineering",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -459,11 +459,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Control Systems",
+                "sub_category": "Controls",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "Automation",
+                "sub_category": "Controls",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -503,7 +503,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Electrical Safety",
+                "sub_category": "Safety",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -557,7 +557,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Electrical Engineering",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -577,7 +577,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Electrical Machines",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -597,11 +597,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Electrical Engineering",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "Cabling",
+                "sub_category": "Electrical",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             }
         ]
@@ -621,7 +621,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Control Systems",
+                "sub_category": "Controls",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -641,11 +641,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "high voltage",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -665,11 +665,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "high voltage",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "Switchgear",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -688,11 +688,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "high voltage",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "Protection Systems",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -711,11 +711,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Hazardous Areas",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "Explosion Proof",
+                "sub_category": "Electrical",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -739,7 +739,7 @@
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "water treatment",
+                "sub_category": "Water",
                 "main_category": "Marine Engineering & Motive Power"
             }
         ]
@@ -759,11 +759,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Control Systems",
+                "sub_category": "Controls",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "PID Tuning",
+                "sub_category": "Controls",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -783,11 +783,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Control Systems",
+                "sub_category": "Controls",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "Automation",
+                "sub_category": "Controls",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -865,7 +865,7 @@
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "Fuel Systems",
+                "sub_category": "Fuels",
                 "main_category": "Marine Engineering & Motive Power"
             }
         ]
@@ -886,7 +886,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "electronics",
+                "sub_category": "Electronics",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -907,7 +907,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Electrical Theory",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -928,11 +928,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "electronics",
+                "sub_category": "Electronics",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "Semiconductors",
+                "sub_category": "Electronics",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -953,7 +953,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "electronics",
+                "sub_category": "Electronics",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -974,7 +974,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "electronics",
+                "sub_category": "Electronics",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -1012,7 +1012,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Electrical Power",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -1033,11 +1033,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "high voltage",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -1057,11 +1057,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "high voltage",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "Switchgear",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -1082,11 +1082,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "high voltage",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "maintenance",
+                "sub_category": "Maintenance",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             }
         ]
@@ -1106,7 +1106,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -1126,11 +1126,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Seamanship",
+                "sub_category": "Deck",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             },
             {
-                "sub_category": "Anchoring",
+                "sub_category": "Deck",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             }
         ]
@@ -1167,7 +1167,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "navigation",
+                "sub_category": "Navigation",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             }
         ]
@@ -1187,11 +1187,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "navigation",
+                "sub_category": "Navigation",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             },
             {
-                "sub_category": "Bridge Procedures",
+                "sub_category": "Navigation",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             }
         ]
@@ -1211,11 +1211,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "navigation",
+                "sub_category": "Navigation",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             },
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -1235,11 +1235,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Mooring",
+                "sub_category": "Deck",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             },
             {
-                "sub_category": "Seamanship",
+                "sub_category": "Deck",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             }
         ]
@@ -1259,7 +1259,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -1279,11 +1279,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Fuel Systems",
+                "sub_category": "Fuels",
                 "main_category": "Marine Engineering & Motive Power"
             },
             {
-                "sub_category": "operations",
+                "sub_category": "Management",
                 "main_category": "Management, Administration & Human Factors"
             }
         ]
@@ -1320,7 +1320,7 @@
         "explanation": "ත්‍රි-පේස් ඕල්ටර්නේටරයක (3-phase alternator) උත්තේජක පරිපථයට (excitation circuit) අවශ්‍ය බලය සපයනු ලබන්නේ AVR (Automatic Voltage Regulator) හරහා එම ඕල්ටර්නේටරයේම නිමැවුමෙන් (output) සහ ප්‍රයිම් මූවර් (prime mover) මගිනි. ඕල්ටර්නේටරය කැරකෙන විට මුලින් ඇති වන සුළු චුම්බකත්වය (residual magnetism) මගින් විදුලිය නිපදවා, පසුව එම විදුලියම භාවිතා කර චුම්බක ක්ෂේත්‍රය ශක්තිමත් කරයි. මෙය self-excitation ලෙස හඳුන්වන අතර ඒ සඳහා බාහිර බැටරි පද්ධතියක් සාමාන්‍ය ක්‍රියාකාරීත්වයේදී අවශ්‍ය නොවේ.",
         "tags": [
             {
-                "sub_category": "Electrical Engineering",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
@@ -1344,11 +1344,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Electrical Power",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "Alternators",
+                "sub_category": "Alternator",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -1385,11 +1385,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Automation",
+                "sub_category": "Controls",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "Data Communication",
+                "sub_category": "Electronics",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -1409,11 +1409,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "navigation",
+                "sub_category": "Navigation",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             },
             {
-                "sub_category": "Radar",
+                "sub_category": "Electronics",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             }
         ]
@@ -1433,7 +1433,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "electronics",
+                "sub_category": "Electronics",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -1453,7 +1453,7 @@
         "explanation": "බුරුසු රහිත (Brushless) ප්‍රත්‍යාවර්තකයක (alternator) රොටරය මත ප්‍රධාන කොටස් තුනක සංයෝජනයක් පවතී: එනම් ත්‍රි-කලා උත්තේජක එතීුම (3 phase excitation winding), සෘජුකාරක පද්ධතිය (rectifier bank) සහ ප්‍රධාන ක්ෂේත්‍ර එතීුම (main field winding) වේ. මෙහි ක්‍රියාවලිය වන්නේ උත්තේජකයේ එතීුම මගින් නිපදවන AC විදුලිය, රොටරය මතම ඇති සෘජුකාරකය (rectifier) මගින් DC බවට පත් කර කෙලින්ම ප්‍රධාන එතීුමට ලබා දීමයි. මෙහිදී කාබන් බුරුසු හෝ ස්ලිප් රින්ග්ස් (slip rings) අවශ්‍ය නොවේ. අනෙකුත් විකල්ප වැරදි වන්නේ ඒවායේ ස්ලිප් රින්ග්ස් හෝ බාහිරින් ලබාදෙන DC සැපයුම් පද්ධති ඇතුළත් වන බැවිනි, එය 'brushless' සංකල්පයට පටහැනි වේ.",
         "tags": [
             {
-                "sub_category": "Electrical Engineering",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
@@ -1477,11 +1477,11 @@
         "explanation": "සින්ක්‍රොස්කෝප් එක '5 to 12' ස්ථානයේදී සහ සෙමින් දක්ෂිණාවර්තව (clockwise) කැරකෙන විට සින්ක්‍රොනයිස් කිරීම සිදු කරන්නේ සර්කිට් බ්‍රේකරය (circuit breaker) ක්‍රියාත්මක වී ස්පර්ශක සම්බන්ධ වීමට ගතවන සුළු කාලය (operating time) සැලකිල්ලට ගනිමිනි. ඔබ හරියටම 12 ට එබුවහොත්, බ්‍රේකරය සම්බන්ධ වන විට අදියර (phase) වෙනස් වී යන්ත්‍රයට යාන්ත්‍රික හානි සිදුවිය හැක. එබැවින් මෙම කාල පරතරය තැබීම අත්‍යවශ්‍ය වේ.",
         "tags": [
             {
-                "sub_category": "Electrical Engineering",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "Generator Synchronization",
+                "sub_category": "Generator",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -1501,15 +1501,15 @@
         "explanation": "අධි වෝල්ටීයතා (High Voltage) ස්විචර් රූම් එකක ඕසෝන් (Ozone) ගඳක් දැනේ නම්, එය බොහෝ විට සිදුවන්නේ බස් බාර් (bus bars) නිසි ලෙස සම්බන්ධ නොවීම නිසා ඇතිවන විද්‍යුත් චාප (arcing) හෝ කොරෝනා විමෝචනය (corona discharge) හේතුවෙනි. මෙම විද්‍යුත් විසර්ජන මගින් වාතයේ ඇති ඔක්සිජන් අණු ඕසෝන් බවට පත් කරයි. කේබල් පිළිස්සීමෙන් ඇතිවන්නේ රබර් හෝ ප්ලාස්ටික් පිළිස්සෙන ගඳක් බැවින් ඕසෝන් ගඳ සඳහා හේතුව ආර්කින් (arcing) තත්ත්වයයි.",
         "tags": [
             {
-                "sub_category": "high voltage",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "Electrical Maintenance",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -1529,7 +1529,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Electrical Engineering",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -1570,7 +1570,7 @@
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "Control Engineering",
+                "sub_category": "Controls",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -1624,7 +1624,7 @@
         "explanation": "Generator එකකින් නිපදවන විද්‍යුත් ගාමක බලය (e.m.f.) ප්‍රධාන වශයෙන් සාධක දෙකක් මත රඳා පවතී: එනම් ඩීසල් එන්ජිමේ වේගය (speed) සහ චුම්භක ක්ෂේත්‍රය ශක්තිමත් කිරීමට ලබා දෙන උත්තේජක ධාරාව (excitation current) වේ. Faraday ගේ නියමයට අනුව, චුම්භක ක්ෂේත්‍රය හරහා සන්නායකයක් ගමන් කරන වේගය වැඩි වන විට හෝ චුම්භක ක්ෂේත්‍රයේ ශක්තිය වැඩි වන විට නිපදවන වෝල්ටීයතාව වැඩි වේ. අනෙකුත් සාධක වන air gap හෝ fuel pump settings මගින් EMF එක සෘජුව පාලනය නොකරයි.",
         "tags": [
             {
-                "sub_category": "Electrical Engineering",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
@@ -1648,11 +1648,11 @@
         "explanation": "හදිසි ජෙනරේටරය (Emergency Generator) අවම වශයෙන් සතිපතා පරීක්ෂා කරන්නේ එය හදිසි අවස්ථාවකදී නියමිත පරිදි ක්‍රියාත්මක වීමට ඇති සූදානම (Readiness) පරීක්ෂා කිරීමටයි. SOLAS රෙගුලාසි අනුව, ප්‍රධාන විදුලි බලය විසන්ධි වී තත්පර 45ක් ඇතුළත මෙය පණගැන්වී බර (Load) ලබා ගැනීමට සමත් විය යුතුය. හුදෙක් ඉන්ධන මට්ටම හෝ බැටරි ආරෝපණය පරීක්ෂා කිරීමෙන් පමණක් ජෙනරේටරය ක්‍රියාකාරී තත්ත්වයේ පවතින බව සහතික කළ නොහැකි බැවින්, මෙම පරීක්ෂණය අත්‍යවශ්‍ය වේ.",
         "tags": [
             {
-                "sub_category": "Emergency Generator",
+                "sub_category": "Generator",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "Safety Regulations",
+                "sub_category": "Legislation",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -1689,11 +1689,11 @@
         "explanation": "ජාත්‍යන්තර ප්‍රමිතීන්ට (IEC standards) අනුව, විදුලි උපකරණයක් 'අධි වෝල්ටීයතා' (High Voltage) ගණයට වැටීමට නම් එය ප්‍රත්‍යාවර්ත ධාරාවකදී (AC) වෝල්ට් 1,000 කට වඩා හෝ සෘජු ධාරාවකදී (DC) වෝල්ට් 1,500 කට වඩා ක්‍රියා කළ යුතුය. මෙයට වඩා අඩු වෝල්ටීයතා මට්ටම් අඩු වෝල්ටීයතා (Low Voltage) ලෙස හැඳින්වේ. නෞකාවක ආරක්ෂක ක්‍රමවේදයන් සහ පුහුණුව තීරණය කිරීමේදී මෙම අගයන් ඉතා වැදගත් වේ.",
         "tags": [
             {
-                "sub_category": "high voltage",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -1717,7 +1717,7 @@
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "Calibration",
+                "sub_category": "Instrumentation",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             }
         ]
@@ -1737,11 +1737,11 @@
         "explanation": "ජෙනරේටර් දෙකක් සමාන්තරව (Parallel) ක්‍රියා කරන විට, දෙවන ජෙනරේටරයේ ප්‍රයිම්-මූවර් (Prime-mover) එකට ඉන්ධන සැපයුම නැති වුවහොත්, පළමු ජෙනරේටරයෙන් දෙවන ජෙනරේටරය කරකැවීමට උත්සාහ කරයි (Motorizing effect). එවිට දෙවන ජෙනරේටරය හරහා විදුලිය ආපසු ගලා යන බැවින් 'Reverse Power Relay' මගින් දෙවන ජෙනරේටරය විසන්ධි (Trip) කරනු ලබයි. මෙය පද්ධතියේ ආරක්ෂාව සඳහා සිදු වේ.",
         "tags": [
             {
-                "sub_category": "Electrical Engineering",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "Power Management",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -1778,11 +1778,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "electronics",
+                "sub_category": "Electronics",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "Communications",
+                "sub_category": "Communication",
                 "main_category": "Management, Administration & Human Factors"
             }
         ]
@@ -1802,11 +1802,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Automation",
+                "sub_category": "Controls",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "Networking",
+                "sub_category": "Electronics",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -1826,11 +1826,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Electrical Power",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "Synchronisation",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -1867,11 +1867,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Automation",
+                "sub_category": "Controls",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "Data Communication",
+                "sub_category": "Electronics",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -1891,11 +1891,11 @@
         "explanation": "නෞකාවල විදුලි පද්ධති වර්ගීකරණය කිරීමේදී, ජාත්‍යන්තර ප්‍රමිතීන්ට අනුව (IEC/SOLAS) වෝල්ට් 1000 (1000V AC) ට අඩු සියලුම වෝල්ටීයතාවන් 'අඩු වෝල්ටීයතා' (Low Voltage) ගණයට වැටේ. එබැවින් වෝල්ට් 690 ක පද්ධතියක් යනු අඩු වෝල්ටීයතා මට්ටමකි. වෝල්ට් 1000 ට වැඩි පද්ධති සාමාන්‍යයෙන් High Voltage (HV) ලෙස හැඳින්වේ. මෙම වර්ගීකරණය ආරක්ෂක පියවරයන් සහ උපකරණ භාවිතය තීරණය කිරීමට වැදගත් වේ.",
         "tags": [
             {
-                "sub_category": "high voltage",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "Electrical Engineering",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -1915,7 +1915,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Electrical Theory",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -1935,11 +1935,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "maintenance",
+                "sub_category": "Maintenance",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             },
             {
-                "sub_category": "Electrical Machines",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -1959,7 +1959,7 @@
         "explanation": "නෞකාවල විද්‍යුත් පද්ධති (Electrical systems) ගැන කතා කිරීමේදී, සාමාන්‍යයෙන් වෝල්ටීයතාවය 1000V AC (1kV) ට වඩා වැඩි මට්ටම් 'අධි වෝල්ටීයතා' (High Voltage) ලෙස හැඳින්වේ. මෙම ප්‍රශ්නයේ දී ලබා දී ඇති 6.6 kV යනු නෞකාවල ජනක යන්ත්‍ර සහ ප්‍රධාන පද්ධති සඳහා බහුලව භාවිතා වන ප්‍රමිතියකි. 440V වැනි වෝල්ටීයතා 'අඩු වෝල්ටීයතා' (Low Voltage) ගණයට වැටෙන අතර, 6.6 kV යනු ආරක්ෂිත පියවරයන් සහ උපකරණ සැලසුම් කිරීමේදී විශේෂිත වූ HV නීතිරීති අනුගමනය කළ යුතු මට්ටමකි.",
         "tags": [
             {
-                "sub_category": "high voltage",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -1979,7 +1979,7 @@
         "explanation": "තනි Alternator එකක් switchboard එකකට සම්බන්ධ කර ඇති විට, එහි power factor එක තීරණය වන්නේ එම පද්ධතියට සම්බන්ධ කර ඇති පාරිභෝගික බර (load) මගිනි. එනම් මෝටර් වැනි inductive load වැඩි නම් power factor එක අඩු වේ. Alternator එකේ excitation මගින් වෙනස් කළ හැක්කේ වෝල්ටීයතාවය (Voltage) මිස power factor එක නොවේ. බර අනුව ඇති වන ධාරාව සහ වෝල්ටීයතාවය අතර පරතරය මත power factor එක ස්වයංක්‍රීයව තීරණය වේ.",
         "tags": [
             {
-                "sub_category": "Electrical Engineering",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
@@ -2007,7 +2007,7 @@
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "Sensors",
+                "sub_category": "Instrumentation",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -2061,11 +2061,11 @@
         "explanation": "අධි වෝල්ටීයතා (High Voltage) පද්ධතිවල නඩත්තු කටයුතු සඳහා උපකරණ වෙත ප්‍රවේශ වීමට පෙර අනුගමනය කළ යුතු ආරක්ෂිතම පියවර වන්නේ විසන්ධි කිරීම (Disconnect), හුදකලා කිරීම (Isolate) සහ භූගත කිරීම (Earth) යි. මෙහිදී බල සැපයුම විසන්ධි කර, භෞතිකව පරිපථය වෙන් කර (Isolate), පසුව පද්ධතියේ රැඳී තිබිය හැකි ස්ථිතික විද්‍යුත් ආරෝපණ ඉවත් කිරීමට භූගත කිරීම (Grounding) අත්‍යවශ්‍ය වේ. හුදෙක් ස්විචය ක්‍රියා විරහිත කිරීමෙන් පමණක් (Switching off) අධි වෝල්ටීයතා උපකරණ ආරක්ෂිත නොවන අතර, භූගත නොකිරීම මාරාන්තික විදුලි සැර වැදීමට හේතු විය හැක.",
         "tags": [
             {
-                "sub_category": "high voltage",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "Safety Procedures",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -2089,7 +2089,7 @@
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "Control Systems",
+                "sub_category": "Controls",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -2126,11 +2126,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Electrical Power",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -2184,11 +2184,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Electrical Power",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "Emergency Procedures",
+                "sub_category": "Emergency",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -2208,11 +2208,11 @@
         "explanation": "සමාන්තරව ක්‍රියාත්මක වන ජනක යන්ත්‍ර දෙකක් අතර අමතර ක්‍රියාකාරී භාරය (kW) බෙදා හැරීම තීරණය වන්නේ ඒවායේ Governor droop settings මතය. Droop යනු භාරය වැඩි වන විට ප්‍රයිම් මූවර් එකේ වේගය සුළු වශයෙන් අඩුවීමයි. මෙම සැකසුම මගින් යන්ත්‍ර දෙකම සමානුපාතිකව භාරය බෙදා ගන්නා බව සහතික කරයි. වෝල්ටීයතාව හෝ උද්දීපනය (excitation) මගින් පාලනය වන්නේ reactive load (kVAR) මිස active load (kW) නොවන බැවින් අනෙකුත් සැකසුම් මෙයට අදාළ නොවේ.",
         "tags": [
             {
-                "sub_category": "Electrical Engineering",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "Generator Parallel Operation",
+                "sub_category": "Generator",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -2232,7 +2232,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "electronics",
+                "sub_category": "Electronics",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -2256,7 +2256,7 @@
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "Control Engineering",
+                "sub_category": "Controls",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -2280,7 +2280,7 @@
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "Automation",
+                "sub_category": "Controls",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -2300,11 +2300,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "electronics",
+                "sub_category": "Electronics",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "Communications",
+                "sub_category": "Communication",
                 "main_category": "Management, Administration & Human Factors"
             }
         ]
@@ -2324,7 +2324,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Electrical Engineering",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -2344,11 +2344,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Electrical Protection",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "Switchgear",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -2385,7 +2385,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Electrical Machines",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -2439,7 +2439,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Fluid Mechanics",
+                "sub_category": "Science",
                 "main_category": "Management, Administration & Human Factors"
             }
         ]
@@ -2493,11 +2493,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Electrical Systems",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -2551,11 +2551,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "high voltage",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "maintenance",
+                "sub_category": "Maintenance",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             }
         ]
@@ -2592,7 +2592,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Electrical Machines",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -2611,7 +2611,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "electronics",
+                "sub_category": "Electronics",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -2648,11 +2648,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Fluid Mechanics",
+                "sub_category": "Science",
                 "main_category": "Management, Administration & Human Factors"
             },
             {
-                "sub_category": "Cargo Properties",
+                "sub_category": "Cargo",
                 "main_category": "Cargo Operations & Vessel Types"
             }
         ]
@@ -2672,7 +2672,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Electrical Machines",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -2692,11 +2692,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "high voltage",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "Protection Systems",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -2716,7 +2716,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Electrical Machines",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -2740,7 +2740,7 @@
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "Sensors",
+                "sub_category": "Instrumentation",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -2760,11 +2760,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Control Systems",
+                "sub_category": "Controls",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "PID Tuning",
+                "sub_category": "Controls",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -2784,11 +2784,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Automation",
+                "sub_category": "Controls",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "Control Systems",
+                "sub_category": "Controls",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -2842,11 +2842,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Control Systems",
+                "sub_category": "Controls",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "Automation",
+                "sub_category": "Controls",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -2883,11 +2883,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Electrical Safety",
+                "sub_category": "Safety",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "maintenance",
+                "sub_category": "Maintenance",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             }
         ]
@@ -2907,7 +2907,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Electrical Power",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -2927,11 +2927,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "maintenance",
+                "sub_category": "Maintenance",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             },
             {
-                "sub_category": "Electrical Machines",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -2951,7 +2951,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Electrical Power",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -2971,7 +2971,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "electronics",
+                "sub_category": "Electronics",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -2991,7 +2991,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "electronics",
+                "sub_category": "Electronics",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -3011,11 +3011,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Electrical Engineering",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "Materials",
+                "sub_category": "Metallurgy",
                 "main_category": "Management, Administration & Human Factors"
             }
         ]

@@ -13,7 +13,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "heat exchanger",
+                "sub_category": "Exchanger",
                 "main_category": "Marine Engineering & Motive Power"
             }
         ]
@@ -32,7 +32,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "water treatment",
+                "sub_category": "Water",
                 "main_category": "Marine Engineering & Motive Power"
             }
         ]
@@ -51,11 +51,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Piping Systems",
+                "sub_category": "Piping",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             },
             {
-                "sub_category": "pollution prevention",
+                "sub_category": "Environmental",
                 "main_category": "Maritime Regulations, Law & Compliance"
             }
         ]
@@ -74,11 +74,11 @@
         "explanation": "ඔයිල් ෆිල්ටරයක් අවහිර වී ඇති බව හඳුනාගත හැකි නිවැරදිම දර්ශකය වන්නේ එම ෆිල්ටරයේ ඇතුල් වන පැත්ත සහ පිටවන පැත්ත අතර ඇති පීඩන වෙනසයි (pressure drop across the filter). ෆිල්ටරය තුළ අපද්‍රව්‍ය පිරී ඇති විට, තෙල් ගලා යාමට අපහසු වී ඇතුල් වන පැත්තේ පීඩනය වැඩි වේ. බොහෝ ෆිල්ටර් වල මේ සඳහා differential pressure gauge එකක් සවි කර ඇත. පීඩනය අඩුවීම පමණක් හෝ එන්ජිම නැවතීම වැනි දේ අවහිරතාවය හඳුනා ගැනීමට ප්‍රායෝගික දර්ශක නොවේ.",
         "tags": [
             {
-                "sub_category": "maintenance",
+                "sub_category": "Maintenance",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             },
             {
-                "sub_category": "Filtration",
+                "sub_category": "Filter",
                 "main_category": "Marine Engineering & Motive Power"
             }
         ]
@@ -97,7 +97,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Tools",
+                "sub_category": "Mechanics",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             }
         ]
@@ -148,7 +148,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Steam System",
+                "sub_category": "Boiler",
                 "main_category": "Marine Engineering & Motive Power"
             }
         ]
@@ -167,7 +167,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -234,11 +234,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "Rescue",
+                "sub_category": "Emergency",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -289,11 +289,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "fire safety",
+                "sub_category": "Firefighting",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "emergency",
+                "sub_category": "Emergency",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -312,11 +312,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Maritime Security",
+                "sub_category": "Security",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "emergency",
+                "sub_category": "Emergency",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -351,7 +351,7 @@
         "explanation": "බොයිලේරු සූට් බ්ලෝවර් (sootblowers) නිවැරදි අනුපිළිවෙලට ක්‍රියාත්මක කළ යුත්තේ දැලි සහ අළු පහළ නලවල සිට ඉහළටත්, ඉන්පසු දුම් කවුළුව (uptake) දෙසටත් ක්‍රමානුකූලව තල්ලු කර යැවීමටයි. මෙලෙස සිදු කිරීමෙන් ඉවත් කරන දැලි නැවත පිරිසිදු කරන ලද පහළ නල මත තැන්පත් වීම වළක්වයි. වැරදි අනුපිළිවෙලක් අනුගමනය කිරීමෙන් දැලි නිසි ලෙස බැහැර නොවන අතර බොයිලේරුවේ කාර්යක්ෂමතාව අඩු විය හැක.",
         "tags": [
             {
-                "sub_category": "maintenance",
+                "sub_category": "Maintenance",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             }
         ]
@@ -370,7 +370,7 @@
         "explanation": "බොයිලේරු බර්නර් නොසල් (burner nozzles) පිරිසිදු කිරීමේදී, එහි සිදුරු වලට හානි නොවන පරිදි කටයුතු කිරීම අත්‍යවශ්‍ය වේ. මේ සඳහා වඩාත්ම සුදුසු ක්‍රමය වන්නේ කුඩා ප්‍රමාණයේ සිට නොසල් සිදුරේ නියමිත ප්‍රමාණය දක්වා ක්‍රමයෙන් විශාල වන පිරිසිදු කිරීමේ කම්බි (cleaning wires) භාවිතා කිරීමයි. පිහි හෝ දෘඩ ලෝහ කූරු භාවිතයෙන් සිදුරේ හැඩය වෙනස් විය හැකි අතර, එමගින් ඉන්ධන දහනය අක්‍රමවත් වී බොයිලේරුවේ කාර්යක්ෂමතාව අඩු වේ.",
         "tags": [
             {
-                "sub_category": "maintenance",
+                "sub_category": "Maintenance",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             }
         ]
@@ -389,11 +389,11 @@
         "explanation": "ඉන්ධන පිරිපහදු කරන සෙපරේටරයක (Purifier/Clarifier) ප්ලේට් ස්ටැක් එක පිරිසිදු කිරීම සඳහා වඩාත් සුදුසු ක්‍රමය වන්නේ ඒවා සුදුසු ද්‍රාවණයක (solvent) බහා තබා, පසුව රෙදි කැබලි ආධාරයෙන් පිස දැමීමයි. ප්ලේට් යනු ඉතා තුනී සහ නිරවද්‍යව නිර්මාණය කර ඇති කොටස් වේ. ඒවා ලෝහමය සූරන (scrapers) හෝ වයර් බුරුසු භාවිතයෙන් පිරිසිදු කළහොත් ප්ලේට් මතුපිට සීරීම් ඇති විය හැකි අතර පසුව තෙල් පිරිපහදු කිරීමේ කාර්යක්ෂමතාව අඩු වේ. එසේම තදින් ඇති කුණු ඉවත් කිරීමට ජලය පමණක් ප්‍රමාණවත් නොවන බැවින් රසායනික ද්‍රාවණයක් භාවිතා කිරීම අත්‍යවශ්‍ය වේ.",
         "tags": [
             {
-                "sub_category": "Purifiers",
+                "sub_category": "Purifier",
                 "main_category": "Marine Engineering & Motive Power"
             },
             {
-                "sub_category": "maintenance",
+                "sub_category": "Maintenance",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             }
         ]
@@ -412,11 +412,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "MSDS",
+                "sub_category": "Safety",
                 "main_category": "Maritime Regulations, Law & Compliance"
             }
         ]
@@ -435,11 +435,11 @@
         "explanation": "නැවක භාවිතා කරන ලද ඕනෑම තෙල් වර්ගයක් පරිසරයට මුදා හැරීම MARPOL ජාත්‍යන්තර රෙගුලාසි මගින් දැඩි ලෙස තහනම් කර ඇත. එබැවින් පිරිසිදු කිරීමෙන් පසු ඉතිරි වන අපිරිසිදු ඩීසල් තෙල්, නැවේ ඇති අපිරිසිදු තෙල් ටැංකියට (dirty oil tank) දැමිය යුතුය. පසුව එය නැවේ ඇති දහන යන්ත්‍රය (incinerator) මගින් ආරක්ෂිතව පුළුස්සා දැමීම හෝ වරායකදී ඉවත් කිරීම කළ යුතුය.",
         "tags": [
             {
-                "sub_category": "pollution prevention",
+                "sub_category": "Environmental",
                 "main_category": "Maritime Regulations, Law & Compliance"
             },
             {
-                "sub_category": "Waste Management",
+                "sub_category": "Environmental",
                 "main_category": "Maritime Regulations, Law & Compliance"
             }
         ]
@@ -458,15 +458,15 @@
         "explanation": "UMS (Unattended Machinery Space) මෙහෙයුමකදී යම් වැරදීමකින් තෙල් ටැංකියක් පුරවන වෑල්වයක් (Valve) විවෘතව තබා ගියහොත්, ඒ පිළිබඳව වහාම රාජකාරියේ නියුතු ඉංජිනේරුවරයා දැනුවත් කළ යුතුය. ඉන්පසු නියමිත ආරක්ෂිත ක්‍රමවේද අනුගමනය කර නැවත එන්ජින් රූම් එකට ඇතුළු වී වෑල්වය වසා දැමිය යුතුය. එසේ නොකළහොත් තෙල් පිටාර ගලා (Overflow) ගිනි ගැනීමක් වැනි විශාල විනාශයක් සිදුවීමට ඉඩ ඇත.",
         "tags": [
             {
-                "sub_category": "UMS",
+                "sub_category": "Controls",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "operations",
+                "sub_category": "Management",
                 "main_category": "Management, Administration & Human Factors"
             }
         ]
@@ -485,11 +485,11 @@
         "explanation": "මුහුදු ජලය පම්ප් කරන පොම්පයක shaft gland එකක් සඳහා වඩාත් සුදුසු ඇසුරුම වන්නේ 'Greasy cotton packing' ය. කපු (Cotton) මෘදු වන අතර ජලය උරා ගැනීමේ හැකියාව ඇත. එහි අඩංගු ග්‍රීස් මගින් shaft එක ලිහිසි කරන අතර මුහුදු ජලයෙන් සිසිලනය ලබා දෙයි. රබර් හෝ ප්ලාස්ටික් ඇසුරුම් අධික තාපය නිසා දිය විය හැකි අතර shaft එකට හානි කළ හැකිය. ඇස්බැස්ටෝස් (Asbestos) සෞඛ්‍යයට අහිතකර බැවින් දැන් භාවිතා නොවේ. ලෝහමය ඇසුරුම් (Metallic packing) මගින් shaft එක සීරීමට ලක්විය හැකි බැවින් කපු මිශ්‍ර ඇසුරුම් වඩාත් ප්‍රායෝගික වේ.",
         "tags": [
             {
-                "sub_category": "pumps",
+                "sub_category": "Pump",
                 "main_category": "Marine Engineering & Motive Power"
             },
             {
-                "sub_category": "maintenance",
+                "sub_category": "Maintenance",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             }
         ]
@@ -508,11 +508,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "maintenance",
+                "sub_category": "Maintenance",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             },
             {
-                "sub_category": "pumps",
+                "sub_category": "Pump",
                 "main_category": "Marine Engineering & Motive Power"
             }
         ]
@@ -531,7 +531,7 @@
         "explanation": "දොඹකරයක් (Crane) භාවිතයෙන් බර උපකරණයක් පහත් කිරීමේදී, ඒ සඳහා භාවිතා කරන ඕනෑම පටියක් හෝ ලණුවක් (Strop) අනිවාර්යයෙන්ම සහතික කරන ලද (Certified) එකක් විය යුතු අතර එහි ආරක්ෂිත වැඩ බර (Safe Working Load - SWL) අදාළ මෝටරයේ බරට වඩා වැඩි විය යුතුය. මෙය නාවික ඉංජිනේරු ක්ෂේත්‍රයේ ආරක්ෂාව පිළිබඳ මූලික නීතියකි. සහතික නොකළ උපකරණ භාවිතා කිරීම අනතුරුදායක වන අතර ලණුවේ දිග හෝ වර්ගය පමණක් සලකා බැලීම ප්‍රමාණවත් නොවේ.",
         "tags": [
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -550,15 +550,15 @@
         "explanation": "අඩු පීඩන වාෂ්ප වෑල්ව (Low pressure steam valves) සඳහා ග්‍රැෆයිට් ෆයිබර් පැකින් (Graphite fibre packing) වඩාත් සුදුසු වේ. ග්‍රැෆයිට් වලට ඉහළ උෂ්ණත්වයන්ට ඔරොත්තු දීමේ හැකියාව ඇති අතර එය ස්වයං-ලිහිස්සි ද්‍රව්‍යයක් (Self-lubricating) ලෙස ක්‍රියා කරයි. කපු (Cotton) හෝ හෙම්ප් (Hemp) වැනි ද්‍රව්‍ය වාෂ්ප වල උෂ්ණත්වය නිසා ඉක්මනින් පිලිස්සී ගොස් කාන්දු වීම් ඇති විය හැක. PTFE පැකින් ද භාවිතා කළ හැකි වුවත්, වාෂ්ප පද්ධති සඳහා වඩාත් විශ්වාසදායක වන්නේ ග්‍රැෆයිට් ය.",
         "tags": [
             {
-                "sub_category": "Valves",
+                "sub_category": "Valve",
                 "main_category": "Marine Engineering & Motive Power"
             },
             {
-                "sub_category": "Steam Systems",
+                "sub_category": "Boiler",
                 "main_category": "Marine Engineering & Motive Power"
             },
             {
-                "sub_category": "maintenance",
+                "sub_category": "Maintenance",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             }
         ]
@@ -577,15 +577,15 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "maintenance",
+                "sub_category": "Maintenance",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             },
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "Housekeeping",
+                "sub_category": "Management",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             }
         ]
@@ -604,15 +604,15 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "enclosed space",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "Risk Assessment",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -631,11 +631,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "maintenance",
+                "sub_category": "Maintenance",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             }
         ]
@@ -654,11 +654,11 @@
         "explanation": "තාප හුවමාරුකයක (Heat exchanger) ලෝකඩ කෙළවර ආවරණයක නූල් (Threads) හානි වී ඇති විට සහ අමතර කොටස් නොමැති විට, වඩාත්ම තාක්ෂණික විසඳුම වන්නේ ලැතර් යන්ත්‍රයක් (Lathe) භාවිතයෙන් එම සිදුරට නිවැරදිව ගැලපෙන නව පිත්තල ඇබයක් (Brass plug) සකසා ගැනීමයි. මෙයට හේතුව වන්නේ ලෝකඩ සමග වෙනත් ලෝහ (උදාහරණයක් ලෙස වානේ) භාවිතා කළහොත් ගැල්වනික් විඛාදනය (Galvanic corrosion) ඇති වී උපකරණයට හානි විය හැකි බැවිනි. ලී ඇබ හෝ ප්ලාස්ටික් ඇබ පීඩනය දරා ගැනීමට ප්‍රමාණවත් නොවන නිසා ඒවා නුසුදුසුය.",
         "tags": [
             {
-                "sub_category": "maintenance",
+                "sub_category": "Maintenance",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             },
             {
-                "sub_category": "Heat Exchangers",
+                "sub_category": "Exchanger",
                 "main_category": "Marine Engineering & Motive Power"
             }
         ]
@@ -677,7 +677,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "maintenance",
+                "sub_category": "Maintenance",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             }
         ]
@@ -714,7 +714,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Workshop Practice",
+                "sub_category": "Mechanics",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             }
         ]
@@ -734,7 +734,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "maintenance",
+                "sub_category": "Maintenance",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             }
         ]
@@ -771,11 +771,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Maritime Security",
+                "sub_category": "Security",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "Piracy",
+                "sub_category": "Security",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -795,7 +795,7 @@
         "explanation": "නැවක කාර්ය මණ්ඩලය ආහාර ගන්නා ස්ථානය හැඳින්වීමට භාවිතා කරන නිවැරදි නාවික පාරිභාෂිත වචනය වන්නේ 'Mess' (Crew mess) යන්නයි. 'Dining room' යන වචනය සාමාන්‍යයෙන් මගී නැව්වල හෝ නිවාසවල භාවිතා වන අතර, නැවක කාර්ය මණ්ඩලය සඳහා වෙන් කර ඇති කොටසට 'Mess room' යැයි කියනු ලැබේ. 'Kitchen' යන්න නැවකදී 'Galley' ලෙස හඳුන්වනු ලබන අතර එය ආහාර පිසින ස්ථානයයි. එබැවින් කාර්ය මණ්ඩලය ආහාර ගන්නා ස්ථානය නිවැරදිව 'Crew mess' ලෙස හඳුන්වයි.",
         "tags": [
             {
-                "sub_category": "Ship Familiarization",
+                "sub_category": "Onboarding",
                 "main_category": "Management, Administration & Human Factors"
             }
         ]

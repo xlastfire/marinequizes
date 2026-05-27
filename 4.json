@@ -421,7 +421,7 @@
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "Viscosity Measurement",
+                "sub_category": "Instrumentation",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -442,7 +442,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "electronics",
+                "sub_category": "Electronics",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -463,11 +463,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Electrical Engineering",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "Physics",
+                "sub_category": "Science",
                 "main_category": "Management, Administration & Human Factors"
             }
         ]
@@ -488,7 +488,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "electronics",
+                "sub_category": "Electronics",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -509,7 +509,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "electronics",
+                "sub_category": "Electronics",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
@@ -534,7 +534,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Electrical Engineering",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -555,11 +555,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Electrical Engineering",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "high voltage",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -580,11 +580,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "high voltage",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "Electrical Safety",
+                "sub_category": "Safety",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -604,11 +604,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "high voltage",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "Switchgear",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -629,11 +629,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "high voltage",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "Electrical Safety",
+                "sub_category": "Safety",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -654,7 +654,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Electrical Engineering",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -675,11 +675,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Electrical Engineering",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "Motors",
+                "sub_category": "Motor",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -700,11 +700,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Electrical Engineering",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "Protection",
+                "sub_category": "Safety",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -725,11 +725,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Electrical Engineering",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "Cables",
+                "sub_category": "Electrical",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             }
         ]
@@ -750,11 +750,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Electrical Engineering",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -775,7 +775,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Electrical Engineering",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -796,11 +796,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Electrical Engineering",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "Cables",
+                "sub_category": "Electrical",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             }
         ]
@@ -821,11 +821,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Electrical Engineering",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "Motors",
+                "sub_category": "Motor",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -846,7 +846,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Electrical Engineering",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
@@ -871,11 +871,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Electrical Engineering",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "Motors",
+                "sub_category": "Motor",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -900,7 +900,7 @@
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "Automation",
+                "sub_category": "Controls",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -921,7 +921,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Electrical Engineering",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -942,7 +942,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Electrical Engineering",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -963,11 +963,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Electrical Engineering",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "maintenance",
+                "sub_category": "Maintenance",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             }
         ]
@@ -992,7 +992,7 @@
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "Level Measurement",
+                "sub_category": "Instrumentation",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -1017,7 +1017,7 @@
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "Automation",
+                "sub_category": "Controls",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -1038,11 +1038,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Electrical Engineering",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "Heating Element",
+                "sub_category": "Electrical",
                 "main_category": "Marine Engineering & Motive Power"
             }
         ]
@@ -1084,7 +1084,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "electronics",
+                "sub_category": "Electronics",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
@@ -1109,7 +1109,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Electrical Engineering",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -1130,11 +1130,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Electrical Engineering",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "Safety Testing",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -1155,11 +1155,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Electrical Engineering",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "Batteries",
+                "sub_category": "Battery",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -1184,7 +1184,7 @@
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "Pressure Measurement",
+                "sub_category": "Instrumentation",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -1205,7 +1205,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Electrical Engineering",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
@@ -1252,7 +1252,7 @@
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "Automation",
+                "sub_category": "Controls",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -1273,11 +1273,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Automation",
+                "sub_category": "Controls",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "Control Systems",
+                "sub_category": "Controls",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -1298,11 +1298,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Automation",
+                "sub_category": "Controls",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "Control Systems",
+                "sub_category": "Controls",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -1323,11 +1323,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Automation",
+                "sub_category": "Controls",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "Control Systems",
+                "sub_category": "Controls",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -1348,11 +1348,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Automation",
+                "sub_category": "Controls",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "Control Systems",
+                "sub_category": "Controls",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -1373,11 +1373,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Automation",
+                "sub_category": "Controls",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "Control Systems",
+                "sub_category": "Controls",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -1398,11 +1398,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Automation",
+                "sub_category": "Controls",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "Control Systems",
+                "sub_category": "Controls",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -1423,11 +1423,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Automation",
+                "sub_category": "Controls",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "Control Systems",
+                "sub_category": "Controls",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -1452,7 +1452,7 @@
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "Viscosity Measurement",
+                "sub_category": "Instrumentation",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -1495,7 +1495,7 @@
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "Pressure Measurement",
+                "sub_category": "Instrumentation",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -1516,7 +1516,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "fire safety",
+                "sub_category": "Firefighting",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {

@@ -14,15 +14,15 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Maritime Law",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             },
             {
-                "sub_category": "Bill of Lading",
+                "sub_category": "Commercial",
                 "main_category": "Cargo Operations & Vessel Types"
             },
             {
-                "sub_category": "Cargo Operations",
+                "sub_category": "Cargo",
                 "main_category": "Cargo Operations & Vessel Types"
             }
         ]
@@ -42,15 +42,15 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "IMDG Code",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             },
             {
-                "sub_category": "Dangerous Goods",
+                "sub_category": "Cargo",
                 "main_category": "Cargo Operations & Vessel Types"
             },
             {
-                "sub_category": "Regulatory Compliance",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             }
         ]
@@ -70,11 +70,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "IMDG Code",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             },
             {
-                "sub_category": "Dangerous Goods",
+                "sub_category": "Cargo",
                 "main_category": "Cargo Operations & Vessel Types"
             }
         ]
@@ -94,15 +94,15 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "IMDG Code",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             },
             {
-                "sub_category": "Environmental Protection",
+                "sub_category": "Environmental",
                 "main_category": "Maritime Regulations, Law & Compliance"
             },
             {
-                "sub_category": "marpol",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             }
         ]
@@ -122,11 +122,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "IMDG Code",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             },
             {
-                "sub_category": "Segregation",
+                "sub_category": "Cargo",
                 "main_category": "Cargo Operations & Vessel Types"
             }
         ]
@@ -146,11 +146,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "marpol",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             },
             {
-                "sub_category": "Environmental Protection",
+                "sub_category": "Environmental",
                 "main_category": "Maritime Regulations, Law & Compliance"
             }
         ]
@@ -170,11 +170,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Logistics",
+                "sub_category": "Commercial",
                 "main_category": "Cargo Operations & Vessel Types"
             },
             {
-                "sub_category": "Multimodal Transport",
+                "sub_category": "Commercial",
                 "main_category": "Cargo Operations & Vessel Types"
             }
         ]
@@ -194,11 +194,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Chartering",
+                "sub_category": "Commercial",
                 "main_category": "Cargo Operations & Vessel Types"
             },
             {
-                "sub_category": "Demurrage",
+                "sub_category": "Commercial",
                 "main_category": "Cargo Operations & Vessel Types"
             }
         ]
@@ -218,11 +218,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Safety Management",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "Risk Assessment",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -242,11 +242,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "IMDG Code",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             },
             {
-                "sub_category": "ISPS Code",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             }
         ]
@@ -266,11 +266,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Safety Management",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "Audit",
+                "sub_category": "Management",
                 "main_category": "Maritime Regulations, Law & Compliance"
             }
         ]
@@ -290,11 +290,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "IMDG Code",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             },
             {
-                "sub_category": "Dangerous Goods",
+                "sub_category": "Cargo",
                 "main_category": "Cargo Operations & Vessel Types"
             }
         ]
@@ -314,11 +314,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "IMDG Code",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             },
             {
-                "sub_category": "Cargo Stowage",
+                "sub_category": "Cargo",
                 "main_category": "Cargo Operations & Vessel Types"
             }
         ]
@@ -338,11 +338,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Bill of Lading",
+                "sub_category": "Commercial",
                 "main_category": "Cargo Operations & Vessel Types"
             },
             {
-                "sub_category": "Maritime Law",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             }
         ]
@@ -362,11 +362,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "IMDG Code",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             },
             {
-                "sub_category": "Hazardous Substances",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -386,11 +386,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "ship stability",
+                "sub_category": "Stability",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             },
             {
-                "sub_category": "naval architecture",
+                "sub_category": "Stability",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             }
         ]
@@ -410,11 +410,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Oil Tanker",
+                "sub_category": "Shipboarding",
                 "main_category": "Cargo Operations & Vessel Types"
             },
             {
-                "sub_category": "Cargo Properties",
+                "sub_category": "Cargo",
                 "main_category": "Cargo Operations & Vessel Types"
             }
         ]
@@ -434,11 +434,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "SOLAS",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             },
             {
-                "sub_category": "Tanker Safety",
+                "sub_category": "Safety",
                 "main_category": "Cargo Operations & Vessel Types"
             }
         ]
@@ -458,11 +458,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "marpol",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             },
             {
-                "sub_category": "Oil Record Book",
+                "sub_category": "Documentation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             }
         ]
@@ -482,11 +482,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "USCG",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             },
             {
-                "sub_category": "tanker operations",
+                "sub_category": "Cargo",
                 "main_category": "Cargo Operations & Vessel Types"
             }
         ]
@@ -506,11 +506,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Tank Cleaning",
+                "sub_category": "Cargo",
                 "main_category": "Cargo Operations & Vessel Types"
             },
             {
-                "sub_category": "Safety Equipment",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -530,11 +530,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "marpol",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             },
             {
-                "sub_category": "Oil Record Book",
+                "sub_category": "Documentation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             }
         ]
@@ -554,11 +554,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "tanker operations",
+                "sub_category": "Cargo",
                 "main_category": "Cargo Operations & Vessel Types"
             },
             {
-                "sub_category": "Cargo Handling",
+                "sub_category": "Cargo",
                 "main_category": "Cargo Operations & Vessel Types"
             }
         ]
@@ -578,11 +578,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "marpol",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             },
             {
-                "sub_category": "ODME",
+                "sub_category": "Environmental",
                 "main_category": "Cargo Operations & Vessel Types"
             }
         ]
@@ -602,7 +602,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "marpol",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             }
         ]
@@ -622,11 +622,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "marpol",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             },
             {
-                "sub_category": "ODME",
+                "sub_category": "Environmental",
                 "main_category": "Cargo Operations & Vessel Types"
             }
         ]
@@ -646,11 +646,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Crude Oil Washing",
+                "sub_category": "Cargo",
                 "main_category": "Cargo Operations & Vessel Types"
             },
             {
-                "sub_category": "tanker operations",
+                "sub_category": "Cargo",
                 "main_category": "Cargo Operations & Vessel Types"
             }
         ]
@@ -670,11 +670,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "ship stability",
+                "sub_category": "Stability",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             },
             {
-                "sub_category": "marpol",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             }
         ]
@@ -694,11 +694,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Tanker Design",
+                "sub_category": "Shipboarding",
                 "main_category": "Cargo Operations & Vessel Types"
             },
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -718,7 +718,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Pipeline Systems",
+                "sub_category": "Piping",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             }
         ]
@@ -738,11 +738,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Gas Detection",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -762,7 +762,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Gas Detection",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
@@ -786,11 +786,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Cargo Chemistry",
+                "sub_category": "Cargo",
                 "main_category": "Cargo Operations & Vessel Types"
             },
             {
-                "sub_category": "Hazardous Goods",
+                "sub_category": "Cargo",
                 "main_category": "Cargo Operations & Vessel Types"
             }
         ]
@@ -810,7 +810,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Cargo Properties",
+                "sub_category": "Cargo",
                 "main_category": "Cargo Operations & Vessel Types"
             }
         ]
@@ -830,11 +830,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Inert Gas System",
+                "sub_category": "Cargo",
                 "main_category": "Cargo Operations & Vessel Types"
             },
             {
-                "sub_category": "tanker operations",
+                "sub_category": "Cargo",
                 "main_category": "Cargo Operations & Vessel Types"
             }
         ]
@@ -854,7 +854,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "H2S",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -874,11 +874,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "marpol",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             },
             {
-                "sub_category": "ODME",
+                "sub_category": "Environmental",
                 "main_category": "Cargo Operations & Vessel Types"
             }
         ]
@@ -898,7 +898,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Basic Science",
+                "sub_category": "Science",
                 "main_category": "Management, Administration & Human Factors"
             }
         ]
@@ -918,7 +918,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "marpol",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             }
         ]
@@ -953,7 +953,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Cargo Calculations",
+                "sub_category": "Cargo",
                 "main_category": "Cargo Operations & Vessel Types"
             }
         ]
@@ -973,11 +973,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Inert Gas System",
+                "sub_category": "Cargo",
                 "main_category": "Cargo Operations & Vessel Types"
             },
             {
-                "sub_category": "Environmental Protection",
+                "sub_category": "Environmental",
                 "main_category": "Maritime Regulations, Law & Compliance"
             }
         ]
@@ -997,11 +997,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "COW",
+                "sub_category": "Cargo",
                 "main_category": "Cargo Operations & Vessel Types"
             },
             {
-                "sub_category": "Electrostatic Safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -1021,11 +1021,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Ship Strength",
+                "sub_category": "Stability",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             },
             {
-                "sub_category": "naval architecture",
+                "sub_category": "Stability",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             }
         ]
@@ -1045,11 +1045,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "marpol",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             },
             {
-                "sub_category": "Cargo Handling",
+                "sub_category": "Cargo",
                 "main_category": "Cargo Operations & Vessel Types"
             }
         ]
@@ -1069,7 +1069,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Ship Structure",
+                "sub_category": "Stability",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             }
         ]
@@ -1089,11 +1089,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "pollution prevention",
+                "sub_category": "Environmental",
                 "main_category": "Maritime Regulations, Law & Compliance"
             },
             {
-                "sub_category": "Tanker Safety",
+                "sub_category": "Safety",
                 "main_category": "Cargo Operations & Vessel Types"
             }
         ]
@@ -1113,7 +1113,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Cargo Chemistry",
+                "sub_category": "Cargo",
                 "main_category": "Cargo Operations & Vessel Types"
             }
         ]
@@ -1133,11 +1133,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Cargo Handling",
+                "sub_category": "Cargo",
                 "main_category": "Cargo Operations & Vessel Types"
             },
             {
-                "sub_category": "pumps",
+                "sub_category": "Pump",
                 "main_category": "Marine Engineering & Motive Power"
             }
         ]
@@ -1157,11 +1157,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "marpol",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             },
             {
-                "sub_category": "Cargo Calculations",
+                "sub_category": "Cargo",
                 "main_category": "Cargo Operations & Vessel Types"
             }
         ]
@@ -1181,11 +1181,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Safety Equipment",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "Cargo Transfer",
+                "sub_category": "Cargo",
                 "main_category": "Cargo Operations & Vessel Types"
             }
         ]
@@ -1205,11 +1205,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "USCG",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             },
             {
-                "sub_category": "Environmental Protection",
+                "sub_category": "Environmental",
                 "main_category": "Maritime Regulations, Law & Compliance"
             }
         ]
@@ -1229,11 +1229,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Regulatory",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             },
             {
-                "sub_category": "OPA-90",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             }
         ]
@@ -1253,11 +1253,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "marpol",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             },
             {
-                "sub_category": "Record Keeping",
+                "sub_category": "Documentation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             }
         ]
@@ -1277,11 +1277,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Cargo Properties",
+                "sub_category": "Cargo",
                 "main_category": "Cargo Operations & Vessel Types"
             },
             {
-                "sub_category": "Vapour Pressure",
+                "sub_category": "Science",
                 "main_category": "Cargo Operations & Vessel Types"
             }
         ]
@@ -1301,11 +1301,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Cargo Operations",
+                "sub_category": "Cargo",
                 "main_category": "Cargo Operations & Vessel Types"
             },
             {
-                "sub_category": "Tank Cleaning",
+                "sub_category": "Cargo",
                 "main_category": "Cargo Operations & Vessel Types"
             }
         ]
@@ -1325,7 +1325,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Cargo Properties",
+                "sub_category": "Cargo",
                 "main_category": "Cargo Operations & Vessel Types"
             }
         ]
@@ -1345,11 +1345,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Seamanship",
+                "sub_category": "Deck",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             },
             {
-                "sub_category": "Anchoring",
+                "sub_category": "Deck",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             }
         ]
@@ -1369,11 +1369,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "USCG",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             },
             {
-                "sub_category": "Regulatory Compliance",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             }
         ]
@@ -1393,11 +1393,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "ISGOTT",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             },
             {
-                "sub_category": "Gas Detection",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -1417,11 +1417,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Inert Gas System",
+                "sub_category": "Cargo",
                 "main_category": "Cargo Operations & Vessel Types"
             },
             {
-                "sub_category": "tanker operations",
+                "sub_category": "Cargo",
                 "main_category": "Cargo Operations & Vessel Types"
             }
         ]
@@ -1441,11 +1441,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Cargo Operations",
+                "sub_category": "Cargo",
                 "main_category": "Cargo Operations & Vessel Types"
             },
             {
-                "sub_category": "Procedures",
+                "sub_category": "Management",
                 "main_category": "Management, Administration & Human Factors"
             }
         ]
@@ -1465,11 +1465,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Inert Gas System",
+                "sub_category": "Cargo",
                 "main_category": "Cargo Operations & Vessel Types"
             },
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -1489,11 +1489,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "marpol",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             },
             {
-                "sub_category": "ship stability",
+                "sub_category": "Stability",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             }
         ]
@@ -1513,11 +1513,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "marpol",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             },
             {
-                "sub_category": "COW",
+                "sub_category": "Cargo",
                 "main_category": "Cargo Operations & Vessel Types"
             }
         ]
@@ -1537,7 +1537,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Cargo Chemistry",
+                "sub_category": "Cargo",
                 "main_category": "Cargo Operations & Vessel Types"
             }
         ]
@@ -1557,11 +1557,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "ship construction",
+                "sub_category": "Stability",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             },
             {
-                "sub_category": "naval architecture",
+                "sub_category": "Stability",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             }
         ]
@@ -1581,11 +1581,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Emergency Response",
+                "sub_category": "Emergency",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -1605,7 +1605,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "H2S",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -1625,11 +1625,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "marpol",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             },
             {
-                "sub_category": "Certification",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             }
         ]
@@ -1649,7 +1649,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Cargo Properties",
+                "sub_category": "Cargo",
                 "main_category": "Cargo Operations & Vessel Types"
             }
         ]
@@ -1669,7 +1669,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "navigation",
+                "sub_category": "Navigation",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             }
         ]
@@ -1689,7 +1689,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "navigation",
+                "sub_category": "Navigation",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             }
         ]
@@ -1709,11 +1709,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Search and Rescue",
+                "sub_category": "Emergency",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "IAMSAR",
+                "sub_category": "Legislation",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -1733,11 +1733,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Search and Rescue",
+                "sub_category": "Emergency",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "Emergency Procedures",
+                "sub_category": "Emergency",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -1757,11 +1757,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "IMDG Code",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             },
             {
-                "sub_category": "Dangerous Goods",
+                "sub_category": "Cargo",
                 "main_category": "Cargo Operations & Vessel Types"
             }
         ]
@@ -1781,11 +1781,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Statutory Certificates",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             },
             {
-                "sub_category": "ship stability",
+                "sub_category": "Stability",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             }
         ]
@@ -1805,11 +1805,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Class Survey",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             },
             {
-                "sub_category": "Maritime Certification",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             }
         ]
@@ -1829,11 +1829,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Maritime Law",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             },
             {
-                "sub_category": "Master's Responsibilities",
+                "sub_category": "Management",
                 "main_category": "Management, Administration & Human Factors"
             }
         ]
@@ -1853,11 +1853,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "human element",
+                "sub_category": "Management",
                 "main_category": "Management, Administration & Human Factors"
             },
             {
-                "sub_category": "Safety Management",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -1875,11 +1875,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "ISPS Code",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             },
             {
-                "sub_category": "Ship Security",
+                "sub_category": "Security",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -1899,11 +1899,11 @@
         "explanation": "Inert Gas System (IGS) එකක ඇති demister unit එකෙහි ප්‍රධාන අරමුණ වන්නේ IGS වායු ධාරාව තුළ ඇති ජල අංශු (Water droplets) ඉවත් කිරීමයි. IGS නිෂ්පාදනය කිරීමේදී භාවිතා කරන scrubber tower එක තුළ වායුව සිසිල් කිරීම සඳහා ජලය භාවිතා කරන බැවින්, එම වායුව සමඟ ජල වාෂ්ප මිශ්‍ර විය හැක. මෙම ජලය ටැංකි තුළට ගියහොත් විඛාදනය (Corrosion) වැනි ගැටලු ඇතිවිය හැකි බැවින් demister ඒකකය මගින් එම තෙතමනය ඉවත් කර වියළි වායුව ලබා දෙයි.",
         "tags": [
             {
-                "sub_category": "Inert Gas System",
+                "sub_category": "Cargo",
                 "main_category": "Cargo Operations & Vessel Types"
             },
             {
-                "sub_category": "auxiliary machinery",
+                "sub_category": "Auxiliaries",
                 "main_category": "Marine Engineering & Motive Power"
             }
         ]
@@ -1923,11 +1923,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Inert Gas System",
+                "sub_category": "Cargo",
                 "main_category": "Cargo Operations & Vessel Types"
             },
             {
-                "sub_category": "Environmental Protection",
+                "sub_category": "Environmental",
                 "main_category": "Maritime Regulations, Law & Compliance"
             }
         ]
@@ -1947,11 +1947,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Cargo Operations",
+                "sub_category": "Cargo",
                 "main_category": "Cargo Operations & Vessel Types"
             },
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -1971,11 +1971,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "marpol",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             },
             {
-                "sub_category": "Oil Record Book",
+                "sub_category": "Documentation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             }
         ]
@@ -1995,11 +1995,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Tanker Equipment",
+                "sub_category": "Cargo",
                 "main_category": "Cargo Operations & Vessel Types"
             },
             {
-                "sub_category": "pollution prevention",
+                "sub_category": "Environmental",
                 "main_category": "Maritime Regulations, Law & Compliance"
             }
         ]
@@ -2019,11 +2019,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "COW Manual",
+                "sub_category": "Documentation",
                 "main_category": "Cargo Operations & Vessel Types"
             },
             {
-                "sub_category": "tanker operations",
+                "sub_category": "Cargo",
                 "main_category": "Cargo Operations & Vessel Types"
             }
         ]
@@ -2042,11 +2042,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "COW",
+                "sub_category": "Cargo",
                 "main_category": "Cargo Operations & Vessel Types"
             },
             {
-                "sub_category": "Cargo Operations",
+                "sub_category": "Cargo",
                 "main_category": "Cargo Operations & Vessel Types"
             }
         ]
@@ -2066,11 +2066,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "SOLAS",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             },
             {
-                "sub_category": "LSA",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -2090,7 +2090,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Cargo Properties",
+                "sub_category": "Cargo",
                 "main_category": "Cargo Operations & Vessel Types"
             }
         ]
@@ -2127,11 +2127,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Piping Systems",
+                "sub_category": "Piping",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             },
             {
-                "sub_category": "maintenance",
+                "sub_category": "Maintenance",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             }
         ]
@@ -2151,11 +2151,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "marpol",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             },
             {
-                "sub_category": "Environmental Protection",
+                "sub_category": "Environmental",
                 "main_category": "Maritime Regulations, Law & Compliance"
             }
         ]
@@ -2175,11 +2175,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Inert Gas System",
+                "sub_category": "Cargo",
                 "main_category": "Cargo Operations & Vessel Types"
             },
             {
-                "sub_category": "SOLAS",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             }
         ]
@@ -2199,11 +2199,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "ship stability",
+                "sub_category": "Stability",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             },
             {
-                "sub_category": "naval architecture",
+                "sub_category": "Stability",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             }
         ]
@@ -2223,11 +2223,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Tank Cleaning",
+                "sub_category": "Cargo",
                 "main_category": "Cargo Operations & Vessel Types"
             },
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -2247,11 +2247,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Maritime Law",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             },
             {
-                "sub_category": "Cargo Operations",
+                "sub_category": "Cargo",
                 "main_category": "Cargo Operations & Vessel Types"
             }
         ]
@@ -2271,11 +2271,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "COW",
+                "sub_category": "Cargo",
                 "main_category": "Cargo Operations & Vessel Types"
             },
             {
-                "sub_category": "tanker operations",
+                "sub_category": "Cargo",
                 "main_category": "Cargo Operations & Vessel Types"
             }
         ]
@@ -2295,7 +2295,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Vapour Exposure",
+                "sub_category": "Safety",
                 "main_category": "Cargo Operations & Vessel Types"
             }
         ]
@@ -2315,7 +2315,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Cargo Chemistry",
+                "sub_category": "Cargo",
                 "main_category": "Cargo Operations & Vessel Types"
             }
         ]
@@ -2335,11 +2335,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "marpol",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             },
             {
-                "sub_category": "Tanker Design",
+                "sub_category": "Shipboarding",
                 "main_category": "Cargo Operations & Vessel Types"
             }
         ]
@@ -2359,15 +2359,15 @@
         "explanation": "ජාත්‍යන්තර මුහුදු ගමන් රෙගුලාසිවලට අනුව, ස්ලොප් ටැංකි (Slop tanks) තුළ අවම වශයෙන් 100 mm/water gauge ප්‍රමාණයක Inert Gas පීඩනයක් පවත්වා ගත යුතුය. මෙයින් අදහස් කරන්නේ ටැංකිය තුළ වායුගෝලීය පීඩනයට වඩා වැඩි ධන පීඩනයක් පවත්වා ගැනීමෙන් පිටත වාතය ඇතුළු වීම වළක්වන බවයි. 50 mm හෝ වෙනත් අඩු අගයන් ආරක්ෂිත සීමාවට වඩා අඩු බැවින් 100 mm යන්න නිවැරදි පිළිතුර වේ.",
         "tags": [
             {
-                "sub_category": "Inert Gas System",
+                "sub_category": "Cargo",
                 "main_category": "Cargo Operations & Vessel Types"
             },
             {
-                "sub_category": "marpol",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             },
             {
-                "sub_category": "tanker operations",
+                "sub_category": "Cargo",
                 "main_category": "Cargo Operations & Vessel Types"
             }
         ]
@@ -2387,11 +2387,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "ship construction",
+                "sub_category": "Stability",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             },
             {
-                "sub_category": "Tanker Safety",
+                "sub_category": "Safety",
                 "main_category": "Cargo Operations & Vessel Types"
             }
         ]
@@ -2411,11 +2411,11 @@
         "explanation": "Aromatic Hydrocarbons යනු චක්‍රීය කාබන් ව්‍යුහයක් (Benzene ring) සහිත හයිඩ්‍රොකාබන වේ. මෙයට නිවැරදිම උදාහරණ වන්නේ Benzene, Toluene සහ Xylene (BTX) ය. මේවා නැව්වල කාර්ගෝ ලෙස ප්‍රවාහනය කරන විට ඒවායේ විෂ සහිත බව සහ වාෂ්පශීලී බව පිළිබඳව විශේෂ අවධානයක් යොමු කළ යුතුය. මෙතේන්, එතේන් වැනි Alkanes හෝ එතිලීන් වැනි Alkenes මෙම කාණ්ඩයට අයත් නොවන බැවින් අනෙකුත් විකල්ප වැරදි වේ.",
         "tags": [
             {
-                "sub_category": "Chemical Tanker",
+                "sub_category": "Shipboarding",
                 "main_category": "Cargo Operations & Vessel Types"
             },
             {
-                "sub_category": "Cargo Chemistry",
+                "sub_category": "Cargo",
                 "main_category": "Cargo Operations & Vessel Types"
             }
         ]
@@ -2435,11 +2435,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Cargo Chemistry",
+                "sub_category": "Cargo",
                 "main_category": "Cargo Operations & Vessel Types"
             },
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -2459,7 +2459,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Cargo Operations",
+                "sub_category": "Cargo",
                 "main_category": "Cargo Operations & Vessel Types"
             },
             {
@@ -2483,11 +2483,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Cargo Operations",
+                "sub_category": "Cargo",
                 "main_category": "Cargo Operations & Vessel Types"
             },
             {
-                "sub_category": "Procedures",
+                "sub_category": "Management",
                 "main_category": "Management, Administration & Human Factors"
             }
         ]
@@ -2507,11 +2507,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "ship stability",
+                "sub_category": "Stability",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             },
             {
-                "sub_category": "naval architecture",
+                "sub_category": "Stability",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             }
         ]
@@ -2531,11 +2531,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "COW",
+                "sub_category": "Cargo",
                 "main_category": "Cargo Operations & Vessel Types"
             },
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -2555,7 +2555,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Cargo Calculations",
+                "sub_category": "Cargo",
                 "main_category": "Cargo Operations & Vessel Types"
             }
         ]
@@ -2575,11 +2575,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Tank Cleaning",
+                "sub_category": "Cargo",
                 "main_category": "Cargo Operations & Vessel Types"
             },
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -2599,11 +2599,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "ISM Code",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             },
             {
-                "sub_category": "Safety Management",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -2623,11 +2623,11 @@
         "explanation": "තෙල් නැව්වල (Oil Tankers) භාණ්ඩ ගොඩබෑමේ අවසාන අදියරේදී (Stripping levels), ටැංකිය තුළ ඇති නිෂ්ක්‍රීය වායු (Inert Gas) පීඩනය අඩු කිරීම අත්‍යවශ්‍ය වේ. මෙසේ කරන්නේ පොම්ප කිරීමේ ක්‍රියාවලියේදී නල පද්ධතිය තුළින් වාතය හෝ ගෑස් ආපසු හැරී ඒම (Blowback) අවම කිරීමටයි. පීඩනය වැඩි වුවහොත් පොම්පය තුළට වායූන් ඇතුළු වී එහි ක්‍රියාකාරිත්වයට බාධා විය හැක. අනෙකුත් විකල්ප වැරදි වන්නේ පීඩනය වැඩි කිරීමෙන් පොම්ප කිරීමේ වේගය වැඩි නොවන අතර එය අනතුරුදායක තත්ත්වයන් ඇති කළ හැකි බැවිනි.",
         "tags": [
             {
-                "sub_category": "Inert Gas System",
+                "sub_category": "Cargo",
                 "main_category": "Cargo Operations & Vessel Types"
             },
             {
-                "sub_category": "tanker operations",
+                "sub_category": "Cargo",
                 "main_category": "Cargo Operations & Vessel Types"
             }
         ]
@@ -2647,11 +2647,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "marpol",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             },
             {
-                "sub_category": "tanker operations",
+                "sub_category": "Cargo",
                 "main_category": "Cargo Operations & Vessel Types"
             }
         ]

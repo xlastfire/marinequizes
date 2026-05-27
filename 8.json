@@ -14,11 +14,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Diesel Engines",
+                "sub_category": "Engine",
                 "main_category": "Marine Engineering & Motive Power"
             },
             {
-                "sub_category": "maintenance",
+                "sub_category": "Maintenance",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             }
         ]
@@ -38,11 +38,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Diesel Engines",
+                "sub_category": "Engine",
                 "main_category": "Marine Engineering & Motive Power"
             },
             {
-                "sub_category": "maintenance",
+                "sub_category": "Maintenance",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             }
         ]
@@ -62,11 +62,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "lubrication",
+                "sub_category": "Lubrication",
                 "main_category": "Marine Engineering & Motive Power"
             },
             {
-                "sub_category": "Oil Analysis",
+                "sub_category": "Lubrication",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             }
         ]
@@ -86,11 +86,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "electrical",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "Transformers",
+                "sub_category": "Transformer",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -110,7 +110,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Diesel Engines",
+                "sub_category": "Engine",
                 "main_category": "Marine Engineering & Motive Power"
             }
         ]
@@ -130,7 +130,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Diesel Engines",
+                "sub_category": "Engine",
                 "main_category": "Marine Engineering & Motive Power"
             }
         ]
@@ -150,7 +150,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Diesel Engines",
+                "sub_category": "Engine",
                 "main_category": "Marine Engineering & Motive Power"
             }
         ]
@@ -170,7 +170,7 @@
         "explanation": "ඩීසල් එන්ජිමක සියලුම සිලින්ඩරවල උපරිම පීඩනය (maximum cylinder pressure) සාමාන්‍ය මට්ටමට වඩා අඩුවීමට ප්‍රධානතම හේතුව වන්නේ බාල ඉන්ධන (poor quality fuel) භාවිතයයි. ඉන්ධනවල ගුණාත්මකභාවය අඩු වූ විට ඒවා දහනය වීමේදී නිපදවන තාපය සහ ශක්තිය අඩුවන අතර, එමගින් සිලින්ඩර තුළ ඇතිවන උපරිම පීඩනය පහළ යයි. තනි සිලින්ඩරයක injector එකක දෝෂයක් තිබුනේ නම් එම සිලින්ඩරයේ පමණක් පීඩනය අඩුවන නමුත්, සියලුම සිලින්ඩරවලට බලපාන්නේ ඉන්ධනවල ගුණාත්මකභාවය හෝ පොදු වායු සැපයුමේ ගැටලුවකි.",
         "tags": [
             {
-                "sub_category": "Diesel Engines",
+                "sub_category": "Engine",
                 "main_category": "Marine Engineering & Motive Power"
             }
         ]
@@ -190,7 +190,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "regulations",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             },
             {
@@ -214,11 +214,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "SOLAS",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             },
             {
-                "sub_category": "Emergency Procedures",
+                "sub_category": "Emergency",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -238,11 +238,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "SOLAS",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             },
             {
-                "sub_category": "Emergency Procedures",
+                "sub_category": "Emergency",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -262,11 +262,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Search and Rescue",
+                "sub_category": "Emergency",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -286,11 +286,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "maintenance",
+                "sub_category": "Maintenance",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             },
             {
-                "sub_category": "LSA",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -310,11 +310,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "security",
+                "sub_category": "Security",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "isps",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             }
         ]
@@ -334,7 +334,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "refrigeration",
+                "sub_category": "HVAC",
                 "main_category": "Marine Engineering & Motive Power"
             }
         ]
@@ -354,11 +354,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "refrigeration",
+                "sub_category": "HVAC",
                 "main_category": "Marine Engineering & Motive Power"
             },
             {
-                "sub_category": "thermodynamics",
+                "sub_category": "Science",
                 "main_category": "Marine Engineering & Motive Power"
             }
         ]
@@ -378,11 +378,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "electrical",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "Motors",
+                "sub_category": "Motor",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -402,11 +402,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "electrical",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "Motors",
+                "sub_category": "Motor",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -426,7 +426,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Air Compressor",
+                "sub_category": "Compressor",
                 "main_category": "Marine Engineering & Motive Power"
             }
         ]
@@ -446,11 +446,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "electrical",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "high voltage",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -470,11 +470,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Diesel Engines",
+                "sub_category": "Engine",
                 "main_category": "Marine Engineering & Motive Power"
             },
             {
-                "sub_category": "Safety Systems",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -494,11 +494,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Diesel Engines",
+                "sub_category": "Engine",
                 "main_category": "Marine Engineering & Motive Power"
             },
             {
-                "sub_category": "Control Systems",
+                "sub_category": "Controls",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -518,11 +518,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "maintenance",
+                "sub_category": "Maintenance",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             },
             {
-                "sub_category": "Diesel Engines",
+                "sub_category": "Engine",
                 "main_category": "Marine Engineering & Motive Power"
             }
         ]
@@ -542,11 +542,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Diesel Engines",
+                "sub_category": "Engine",
                 "main_category": "Marine Engineering & Motive Power"
             },
             {
-                "sub_category": "Maneuvering",
+                "sub_category": "Navigation",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             }
         ]
@@ -566,11 +566,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "maintenance",
+                "sub_category": "Maintenance",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             },
             {
-                "sub_category": "Diesel Engines",
+                "sub_category": "Engine",
                 "main_category": "Marine Engineering & Motive Power"
             }
         ]
@@ -590,7 +590,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
@@ -614,7 +614,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Control Systems",
+                "sub_category": "Controls",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
@@ -638,11 +638,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "maintenance",
+                "sub_category": "Maintenance",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             },
             {
-                "sub_category": "Safety Management",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -662,7 +662,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Compressed Air",
+                "sub_category": "Pneumatics",
                 "main_category": "Marine Engineering & Motive Power"
             },
             {
@@ -686,11 +686,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "training",
+                "sub_category": "Management",
                 "main_category": "Management, Administration & Human Factors"
             },
             {
-                "sub_category": "Safety Management",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -710,11 +710,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "ship construction",
+                "sub_category": "Stability",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             },
             {
-                "sub_category": "Hull Maintenance",
+                "sub_category": "Maintenance",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             }
         ]
@@ -734,11 +734,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "stability",
+                "sub_category": "Stability",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             },
             {
-                "sub_category": "Damage Control",
+                "sub_category": "Emergency",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -758,11 +758,11 @@
         "explanation": "ඩීසල් එන්ජිමක (diesel engine) සිලින්ඩර ජැකට් එක හරහා ගමන් කරන සිසිලන ජලය (jacket cooling water) මගින් දහන ක්‍රියාවලියේදී (combustion process) ජනනය වන අධික තාපය ඉවත් කරනු ලබනවා. මෙම ජලයේ උෂ්ණත්වය නිවැරදි මට්ටමේ පවත්වා ගැනීම එන්ජිමේ කොටස්වල කල්පැවැත්මට සහ කාර්යක්ෂමතාවයට (efficiency) සෘජුවම බලපානු ලබනවා. සාමාන්‍ය ක්‍රියාකාරී තත්වයන් යටතේ (normal operating conditions) මෙම සිසිලන ජලය සිලින්ඩරයෙන් පිටවන උෂ්ණත්වය සෙල්සියස් අංශක අසූවක් හෝ අසූපහක් (80-85 °C) පමණ මට්ටමක පවතින අතර එමඟින් එන්ජිමේ තාප ප්‍රසාරණය (thermal expansion) පාලනය කරනු ලබනවා. කිසියම් හේතුවක් නිසා සිසිලන පද්ධතියේ (cooling system) දෝෂයක් ඇති වුවහොත් එනම් සිසිලන ජල පොම්පය (cooling water pump) අක්‍රිය වීම හෝ සිසිලනකාරකයේ (cooler) අපිරිසිදුතාවය වැනි හේතු නිසා උෂ්ණත්වය සීඝ්‍රයෙන් ඉහළ යාමට හැකියාව තිබෙනවා. මෙලෙස උෂ්ණත්වය සෙල්සියස් අංශක අනූ පහත් අනූ අටත් (95-98 °C) අතර සීමාවට පැමිණි විට ආරක්ෂක පද්ධති (safety systems) මගින් එන්ජිමේ වේගය ස්වයංක්‍රීයව අඩු කිරීම (slow down) හෝ අවශ්‍ය වුවහොත් එන්ජිම සම්පූර්ණයෙන්ම නතර කිරීම (shutdown) සිදු කරනු ලබනවා. මෙම සීමාව ඉක්මවා උෂ්ණත්වය ඉහළ යාමට ඉඩ දුන්නහොත් සිලින්ඩර බිත්ති සහ පිස්ටන් (piston) අතර පවතින ලිහිස්සි තෙල් පටලය (lubricating oil film) තුනී වී විනාශ වීම නිසා ලෝහ කොටස් එකිනෙක තදින් ඇතිල්ලී එන්ජිම සිරවීමට (seizure) ඉඩ ඇති අතර සිලින්ඩර හිස (cylinder head) වැනි කොටස්වල තාප ආතතිය (thermal stress) වැඩි වී ඉරිතැලීම් පවා ඇති විය හැකියි. එම නිසා මෙම අනතුරුදායක මට්ටමට ළඟා වීමට පෙර එන්ජිම ආරක්ෂා කර ගැනීමට මෙම අනූ පහත් අනූ අටත් (95-98 °C) සීමාව සම්මතයක් ලෙස භාවිත කරනවා.",
         "tags": [
             {
-                "sub_category": "Diesel Engines",
+                "sub_category": "Engine",
                 "main_category": "Marine Engineering & Motive Power"
             },
             {
-                "sub_category": "Safety Systems",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -816,7 +816,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Diesel Engine",
+                "sub_category": "Engine",
                 "main_category": "Marine Engineering & Motive Power"
             }
         ]
@@ -836,11 +836,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Automation",
+                "sub_category": "Controls",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "Control Systems",
+                "sub_category": "Controls",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -864,7 +864,7 @@
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "Automation",
+                "sub_category": "Controls",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -884,11 +884,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "combustion",
+                "sub_category": "Engine",
                 "main_category": "Marine Engineering & Motive Power"
             },
             {
-                "sub_category": "Diesel Engine",
+                "sub_category": "Engine",
                 "main_category": "Marine Engineering & Motive Power"
             }
         ]
@@ -908,7 +908,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Diesel Engine",
+                "sub_category": "Engine",
                 "main_category": "Marine Engineering & Motive Power"
             }
         ]
@@ -928,11 +928,11 @@
         "explanation": "විදුලි ජනක යන්ත්‍රයකට (generator) සම්බන්ධ කර ඇති විදුලි බර (load) එකවරම ඉවත් වූ විට, එන්ජිම ඉතා වේගයෙන් කැරකෙන්නට පටන් ගනී. මෙම අධික වේගය නිසා පිස්ටන් සහ කනෙක්ටින් රොඩ් (connecting rods) වැනි කොටස් මත ඇතිවන අවස්ථිති බලයන් (inertial loads) දරාගත නොහැකි මට්ටමට වැඩි වේ. මෙය එන්ජිම බිඳ වැටීමට හෝ කොටස් විසිරී ගොස් විශාල අනතුරක් වීමට හේතු විය හැක. Overspeed protection උපාංග මගින් මෙවැනි අවස්ථාවක එන්ජිම වහාම නතර කර යාන්ත්‍රික හානි වළක්වයි. මෙය හුදෙක් වේගය පාලනය කිරීමක් නොව එන්ජිමේ ආරක්ෂාව තහවුරු කිරීමකි.",
         "tags": [
             {
-                "sub_category": "Diesel Engines",
+                "sub_category": "Engine",
                 "main_category": "Marine Engineering & Motive Power"
             },
             {
-                "sub_category": "Safety Systems",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -952,7 +952,7 @@
         "explanation": "ශීතකරණ කොම්ප්‍රෙෂරයක පිටත මතුපිට සහ return line එක මත අධික ලෙස අයිස් තැන්පත් වීම සිදුවන්නේ Thermostatic Expansion Valve (TEV) එකෙහි Superheat අගය ඉතා අඩුවෙන් සකසා ඇති විටයි. මෙවිට වාෂ්පීකාරකයෙන් (Evaporator) පිටවන ශීතකරණ ද්‍රව්‍ය ප්‍රමාණවත් ලෙස රත් නොවන (Superheat නොවන) බැවින් ද්‍රවමය ශීතකරණ ද්‍රව්‍ය කෙළින්ම කොම්ප්‍රෙෂරය වෙත ගලා ඒමට පටන් ගනී (Liquid slugging). මෙය කොම්ප්‍රෙෂරයේ උෂ්ණත්වය ඉතා පහළ හෙළන අතර මතුපිට අයිස් බැඳීමට හේතු වේ. අනෙකුත් හේතු වන high superheat හෝ low charge නිසා සාමාන්‍යයෙන් සිසිලනය අඩු වීම මිස මෙවැනි අයිස් බැඳීමක් සිදු නොවේ.",
         "tags": [
             {
-                "sub_category": "refrigeration",
+                "sub_category": "HVAC",
                 "main_category": "Marine Engineering & Motive Power"
             }
         ]
@@ -972,15 +972,15 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Pressure Vessel",
+                "sub_category": "Receiver",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             },
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "maintenance",
+                "sub_category": "Maintenance",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             }
         ]
@@ -1000,11 +1000,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Electrical Engineering",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "high voltage",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -1023,11 +1023,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Automation",
+                "sub_category": "Controls",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "Control Systems",
+                "sub_category": "Controls",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -1047,11 +1047,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "turbocharger",
+                "sub_category": "Turbocharger",
                 "main_category": "Marine Engineering & Motive Power"
             },
             {
-                "sub_category": "Diesel Engine",
+                "sub_category": "Engine",
                 "main_category": "Marine Engineering & Motive Power"
             }
         ]
@@ -1071,11 +1071,11 @@
         "explanation": "MARPOL 73/78 ජාත්‍යන්තර සම්මුතියට අනුව, තෙල් මිශ්‍ර ජලය මුහුදට මුදා හැරීමේදී පනවා තිබූ සීමාවන් 1993 ජූලි මාසයේ සිට දැඩි කරන ලදී. ඒ අනුව, පෙර පැවති නාවික සැතපුමකට ලීටර් 60 ක උපරිම තෙල් මුදා හැරීමේ වේගය ලීටර් 30 දක්වා (30 liters per nautical mile) අඩු කරන ලදී. මෙය සාගර පරිසර දූෂණය පාලනය කිරීම සඳහා ගත් තීරණාත්මක පියවරකි. අනෙකුත් අගයන් පැරණි හෝ වැරදි නීති වලට අදාළ වේ.",
         "tags": [
             {
-                "sub_category": "marpol",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             },
             {
-                "sub_category": "pollution prevention",
+                "sub_category": "Environmental",
                 "main_category": "Maritime Regulations, Law & Compliance"
             }
         ]
@@ -1095,11 +1095,11 @@
         "explanation": "ඇමරිකානු ජල දූෂණ නීති (US water pollution laws) යටතේ නෞකාවකින් මුහුදට මුදා හරින තෙල් (Oil), කුණු කසල (Garbage) සහ අනතුරුදායක ද්‍රව්‍ය (Hazardous substances) යන මේ සියල්ල දූෂණය ලෙස සැලකේ. MARPOL සම්මුතියට අනුකූලව මෙම නීති දැඩි ලෙස ක්‍රියාත්මක වේ. එබැවින් 'All of the mentioned' යන්න නිවැරදි පිළිතුර වේ. මෙහිදී තනි තනිව දක්වා ඇති සෑම ද්‍රව්‍යයක්ම පරිසරයට හානිකර බැවින් ඒවා වෙන් වෙන් වශයෙන් හෝ එකට බැහැර කිරීම තහනම් වේ.",
         "tags": [
             {
-                "sub_category": "pollution prevention",
+                "sub_category": "Environmental",
                 "main_category": "Maritime Regulations, Law & Compliance"
             },
             {
-                "sub_category": "regulations",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             }
         ]
@@ -1119,11 +1119,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "refrigeration",
+                "sub_category": "HVAC",
                 "main_category": "Marine Engineering & Motive Power"
             },
             {
-                "sub_category": "maintenance",
+                "sub_category": "Maintenance",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             }
         ]
@@ -1177,7 +1177,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Electrical Engineering",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
@@ -1252,11 +1252,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Physics",
+                "sub_category": "Science",
                 "main_category": "Management, Administration & Human Factors"
             },
             {
-                "sub_category": "thermodynamics",
+                "sub_category": "Science",
                 "main_category": "Marine Engineering & Motive Power"
             }
         ]
@@ -1276,11 +1276,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Automation",
+                "sub_category": "Controls",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "Control Systems",
+                "sub_category": "Controls",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -1304,7 +1304,7 @@
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "Automation",
+                "sub_category": "Controls",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -1324,7 +1324,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Diesel Engine",
+                "sub_category": "Engine",
                 "main_category": "Marine Engineering & Motive Power"
             }
         ]
@@ -1344,11 +1344,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Maritime Security",
+                "sub_category": "Security",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "isps",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             }
         ]
@@ -1385,7 +1385,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Automation",
+                "sub_category": "Controls",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -1405,11 +1405,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Air Compressor",
+                "sub_category": "Compressor",
                 "main_category": "Marine Engineering & Motive Power"
             },
             {
-                "sub_category": "Automation",
+                "sub_category": "Controls",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -1429,7 +1429,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Diesel Engine",
+                "sub_category": "Engine",
                 "main_category": "Marine Engineering & Motive Power"
             }
         ]
@@ -1449,11 +1449,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "high voltage",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "Electrical Safety",
+                "sub_category": "Safety",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -1473,7 +1473,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Electrical Engineering",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
@@ -1497,11 +1497,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Diesel Engine",
+                "sub_category": "Engine",
                 "main_category": "Marine Engineering & Motive Power"
             },
             {
-                "sub_category": "Safety Protection",
+                "sub_category": "Safety",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -1521,11 +1521,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Diesel Engine",
+                "sub_category": "Engine",
                 "main_category": "Marine Engineering & Motive Power"
             },
             {
-                "sub_category": "Safety Protection",
+                "sub_category": "Safety",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -1545,11 +1545,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Diesel Engine",
+                "sub_category": "Engine",
                 "main_category": "Marine Engineering & Motive Power"
             },
             {
-                "sub_category": "Safety Protection",
+                "sub_category": "Safety",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -1569,11 +1569,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "propulsion",
+                "sub_category": "Engine",
                 "main_category": "Marine Engineering & Motive Power"
             },
             {
-                "sub_category": "Diesel Engine",
+                "sub_category": "Engine",
                 "main_category": "Marine Engineering & Motive Power"
             }
         ]
@@ -1593,11 +1593,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "heat exchanger",
+                "sub_category": "Exchanger",
                 "main_category": "Marine Engineering & Motive Power"
             },
             {
-                "sub_category": "maintenance",
+                "sub_category": "Maintenance",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             }
         ]
@@ -1617,11 +1617,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Fuel Treatment",
+                "sub_category": "Fuels",
                 "main_category": "Marine Engineering & Motive Power"
             },
             {
-                "sub_category": "purifier",
+                "sub_category": "Purifier",
                 "main_category": "Marine Engineering & Motive Power"
             }
         ]
@@ -1641,11 +1641,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Automation",
+                "sub_category": "Controls",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "Control Systems",
+                "sub_category": "Controls",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -1665,11 +1665,11 @@
         "explanation": "ප්‍රධාන ඩීසල් එන්ජිම සඳහා ඉන්ධන තෙල් වල ස්නිග්ධතාව (viscosity) පාලනය කරන පද්ධතියේ අඩුපාඩුවක් නිසා එන්ජිමට ලැබෙන ඉන්ධන තෙල් වල ස්නිග්ධතාව ඉතාමත් අඩු අගයක පවතිනවා. මෙයට හේතුව විස්කෝමීටරයේ (viscometer) ඇති කේශ නාලිකාව (capillary tube) අවහන් වී තිබීමයි. මෙම අවහන් වීම නිසා ඩිෆරන්ෂල් පීඩන සෙලයට (DP cell) ලැබෙන පීඩන වෙනස (differential pressure) අසාමාන්‍ය ලෙස වැඩි වෙනවා. ස්නිග්ධතාව පාලනය කිරීම සඳහා මෙම ඩිෆරන්ෂල් පීඩන සංඥාව (signal) භාවිතා කරනවා. මෙම සංඥාව වැරදි අගයක් පෙන්වීම නිසා, උණුසුම් කිරීමේ පද්ධතිය (heating system) ඉන්ධන තෙල් අධික ලෙස රත් කරනවා. එහි ප්‍රතිඵලයක් ලෙස ඉන්ධන තෙල් වල ස්නිග්ධතාව අතිශයින්ම අඩු වනවා. සාමාන්‍යයෙන්, කේශ නාලිකාව හරහා ගලා යන තෙල් වල පීඩන වෙනස ස්නිග්ධතාවට සෘජුවම සම්බන්ධ වනවා. එබැවින්, කේශ නාලිකාව අවහන් වූ විට, එම පීඩන වෙනස වැඩි වන අතර, පාලන පද්ධතිය (control system) වැරදි සංඥාවක් ලබා ගනී.",
         "tags": [
             {
-                "sub_category": "Fuel Systems",
+                "sub_category": "Fuels",
                 "main_category": "Marine Engineering & Motive Power"
             },
             {
-                "sub_category": "Control Systems",
+                "sub_category": "Controls",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -1689,11 +1689,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Diesel Engine",
+                "sub_category": "Engine",
                 "main_category": "Marine Engineering & Motive Power"
             },
             {
-                "sub_category": "propulsion",
+                "sub_category": "Engine",
                 "main_category": "Marine Engineering & Motive Power"
             }
         ]
@@ -1737,7 +1737,7 @@
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "propulsion",
+                "sub_category": "Engine",
                 "main_category": "Marine Engineering & Motive Power"
             }
         ]
@@ -1757,11 +1757,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "high voltage",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "Switchgear",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -1781,11 +1781,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "management",
+                "sub_category": "Management",
                 "main_category": "Management, Administration & Human Factors"
             },
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -1805,11 +1805,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Bulk Carrier",
+                "sub_category": "Shipboarding",
                 "main_category": "Cargo Operations & Vessel Types"
             },
             {
-                "sub_category": "Ship Structure",
+                "sub_category": "Stability",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             }
         ]

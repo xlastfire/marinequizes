@@ -13,11 +13,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Electrical Engineering",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -36,11 +36,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "refrigeration",
+                "sub_category": "HVAC",
                 "main_category": "Marine Engineering & Motive Power"
             },
             {
-                "sub_category": "Cargo Care",
+                "sub_category": "Cargo",
                 "main_category": "Cargo Operations & Vessel Types"
             }
         ]
@@ -58,11 +58,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "refrigeration",
+                "sub_category": "HVAC",
                 "main_category": "Marine Engineering & Motive Power"
             },
             {
-                "sub_category": "Reefer Container",
+                "sub_category": "HVAC",
                 "main_category": "Cargo Operations & Vessel Types"
             }
         ]
@@ -80,7 +80,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "refrigeration",
+                "sub_category": "HVAC",
                 "main_category": "Marine Engineering & Motive Power"
             }
         ]
@@ -100,11 +100,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Fire Fighting",
+                "sub_category": "Firefighting",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "Electrical Safety",
+                "sub_category": "Safety",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -123,11 +123,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "refrigeration",
+                "sub_category": "HVAC",
                 "main_category": "Marine Engineering & Motive Power"
             },
             {
-                "sub_category": "Reefer Container",
+                "sub_category": "HVAC",
                 "main_category": "Cargo Operations & Vessel Types"
             }
         ]
@@ -146,11 +146,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Electrical Safety",
+                "sub_category": "Safety",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "PPE",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -169,11 +169,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Cargo Care",
+                "sub_category": "Cargo",
                 "main_category": "Cargo Operations & Vessel Types"
             },
             {
-                "sub_category": "Reefer Container",
+                "sub_category": "HVAC",
                 "main_category": "Cargo Operations & Vessel Types"
             }
         ]
@@ -192,7 +192,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Reefer Container",
+                "sub_category": "HVAC",
                 "main_category": "Cargo Operations & Vessel Types"
             }
         ]
@@ -211,7 +211,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "refrigeration",
+                "sub_category": "HVAC",
                 "main_category": "Marine Engineering & Motive Power"
             }
         ]
@@ -230,11 +230,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "SOLAS",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             },
             {
-                "sub_category": "Electrical Engineering",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -254,7 +254,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Reefer Container",
+                "sub_category": "HVAC",
                 "main_category": "Cargo Operations & Vessel Types"
             }
         ]
@@ -274,7 +274,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "refrigeration",
+                "sub_category": "HVAC",
                 "main_category": "Marine Engineering & Motive Power"
             },
             {
@@ -298,7 +298,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Reefer Container",
+                "sub_category": "HVAC",
                 "main_category": "Cargo Operations & Vessel Types"
             }
         ]
@@ -316,11 +316,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Reefer Container",
+                "sub_category": "HVAC",
                 "main_category": "Cargo Operations & Vessel Types"
             },
             {
-                "sub_category": "Cargo Operations",
+                "sub_category": "Cargo",
                 "main_category": "Cargo Operations & Vessel Types"
             }
         ]
@@ -339,11 +339,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Reefer Container",
+                "sub_category": "HVAC",
                 "main_category": "Cargo Operations & Vessel Types"
             },
             {
-                "sub_category": "Cargo Operations",
+                "sub_category": "Cargo",
                 "main_category": "Cargo Operations & Vessel Types"
             }
         ]
@@ -363,11 +363,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "refrigeration",
+                "sub_category": "HVAC",
                 "main_category": "Marine Engineering & Motive Power"
             },
             {
-                "sub_category": "lubrication",
+                "sub_category": "Lubrication",
                 "main_category": "Marine Engineering & Motive Power"
             }
         ]
@@ -387,7 +387,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "refrigeration",
+                "sub_category": "HVAC",
                 "main_category": "Marine Engineering & Motive Power"
             }
         ]
@@ -407,7 +407,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "refrigeration",
+                "sub_category": "HVAC",
                 "main_category": "Marine Engineering & Motive Power"
             },
             {
@@ -431,7 +431,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "refrigeration",
+                "sub_category": "HVAC",
                 "main_category": "Marine Engineering & Motive Power"
             },
             {
@@ -454,7 +454,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "thermodynamics",
+                "sub_category": "Science",
                 "main_category": "Marine Engineering & Motive Power"
             }
         ]
@@ -474,15 +474,15 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "hot work",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "refrigeration",
+                "sub_category": "HVAC",
                 "main_category": "Marine Engineering & Motive Power"
             }
         ]
@@ -502,11 +502,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Electrical Engineering",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "Protection",
+                "sub_category": "Safety",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -526,11 +526,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Electrical Engineering",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "Motors",
+                "sub_category": "Motor",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -549,7 +549,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Automation",
+                "sub_category": "Controls",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {

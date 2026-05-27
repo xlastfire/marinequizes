@@ -167,11 +167,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Marine Terminology",
+                "sub_category": "Communication",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             },
             {
-                "sub_category": "communication",
+                "sub_category": "Communication",
                 "main_category": "Management, Administration & Human Factors"
             }
         ]
@@ -259,11 +259,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Pilot Ladder",
+                "sub_category": "Deck",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             },
             {
-                "sub_category": "Deck Operations",
+                "sub_category": "Deck",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             }
         ]
@@ -283,11 +283,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "watchkeeping",
+                "sub_category": "Watchkeeping",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             },
             {
-                "sub_category": "Engine Room Duties",
+                "sub_category": "Management",
                 "main_category": "Management, Administration & Human Factors"
             }
         ]
@@ -307,11 +307,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Emergency Procedures",
+                "sub_category": "Emergency",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "Man Overboard",
+                "sub_category": "Emergency",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -331,11 +331,11 @@
         "explanation": "පයිලට් ඉනිමගක ඇති පළල් හරස් ලී (Wide rung) කොටස 'Spreader' ලෙස හැඳින්වේ. මෙහි ප්‍රධාන කර්තව්‍යය වන්නේ ඉනිමග ඇඹරීම (Twisting) වැළැක්වීමයි. මෙය පයිලට්වරයා නැවට නගින විට ඉනිමග ස්ථාවරව තබා ගැනීමට උදවු වේ. සාමාන්‍ය පඩි (Steps) හෝ සයිඩ් රෝප්ස් (Side ropes) මගින් මෙම ඇඹරීම පාලනය කළ නොහැකි නිසා 'Spreader' එක ඉතා වැදගත් වේ.",
         "tags": [
             {
-                "sub_category": "Deck Equipment",
+                "sub_category": "Deck",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             },
             {
-                "sub_category": "Pilotage",
+                "sub_category": "Navigation",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             }
         ]
@@ -389,15 +389,15 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "maintenance",
+                "sub_category": "Maintenance",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             },
             {
-                "sub_category": "Tools",
+                "sub_category": "Mechanics",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             }
         ]
@@ -451,11 +451,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Maritime Security",
+                "sub_category": "Security",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "Piracy",
+                "sub_category": "Security",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -475,11 +475,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Electrical Engineering",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "Circuit Protection",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -499,15 +499,15 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Diesel Engine",
+                "sub_category": "Engine",
                 "main_category": "Marine Engineering & Motive Power"
             },
             {
-                "sub_category": "Scavenge Fire",
+                "sub_category": "Emergency",
                 "main_category": "Marine Engineering & Motive Power"
             },
             {
-                "sub_category": "Safety Protection",
+                "sub_category": "Safety",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -527,11 +527,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "turbocharger",
+                "sub_category": "Turbocharger",
                 "main_category": "Marine Engineering & Motive Power"
             },
             {
-                "sub_category": "Diesel Engine",
+                "sub_category": "Engine",
                 "main_category": "Marine Engineering & Motive Power"
             }
         ]
@@ -568,11 +568,11 @@
         "explanation": "බංකරින් කිරීමේ (bunkering operation) මෙහෙයුමේදී තෙල් අධික ලෙස පිරවීම (overbunkering) සහ තෙල් කාන්දු වීම (oil spill) වළක්වා ගැනීම ඉතා වැදගත්. මේ අවදානම් අවම කර ගැනීමට ඇති ආරක්ෂිතම ක්‍රමය වන්නේ, ඉන්ධන ටැංකිවල දුරස්ථ මිනුම් (remote gauge readings) අඛණ්ඩව නිරීක්ෂණය කිරීමත්, ඒ සමඟම ඉන්ධන ටැංකිවල ශබ්දය (sounding of the fuel tanks) මගින් එය තහවුරු කර ගැනීමත්ය. දුරස්ථ මිනුම් උපකරණ මගින් ටැංකිය තුළ තෙල් මට්ටමෙහි සිදුවන වෙනස්කම් නිරන්තරයෙන් දැකගත හැකි අතර, ටැංකියට ඉන්ධන ඇතුළු වන වේගය (loading rate) හා ටැංකියේ ධාරිතාව (capacity) අනුව කොපමණ ප්‍රමාණයක් පිරී තිබේද යන්න පිළිබඳව නිවැරදි අවබෝධයක් ලබාගත හැකිය. අතින් ශබ්දය (manual sounding) මගින් ටැංකිය තුළට බටයක් (sounding tape) දමා තෙල් මට්ටම මැන ගැනීමෙන්, දුරස්ථ මිනුම්වලින් ලැබෙන තොරතුරු තවත් තහවුරු කරගත හැකිය. මෙම ක්‍රමය මගින් ටැංකිය පිරී ඉතිරී යාමට ආසන්න වන විට අතිරේක පෙරනිමිති (early warnings) ලැබෙන අතර, එමගින් මෙහෙයුම ආරක්ෂිතව නතර කිරීමට (shut down the operation) අවස්ථාව ලැබේ. අනෙකුත් ක්‍රමවලට සාපේක්ෂව, මෙම ඒකාබද්ධ ක්‍රමය (combined method) වඩාත් විශ්වාසදායක සහ ආරක්ෂිත වන අතර, එය තෙල් කාන්දු වීම් සහ අධික ලෙස පිරවීම වළක්වා ගැනීමට උපකාරී වේ.",
         "tags": [
             {
-                "sub_category": "bunkering",
+                "sub_category": "Bunkering",
                 "main_category": "Cargo Operations & Vessel Types"
             },
             {
-                "sub_category": "pollution prevention",
+                "sub_category": "Environmental",
                 "main_category": "Maritime Regulations, Law & Compliance"
             }
         ]
@@ -592,11 +592,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "heat exchanger",
+                "sub_category": "Exchanger",
                 "main_category": "Marine Engineering & Motive Power"
             },
             {
-                "sub_category": "maintenance",
+                "sub_category": "Maintenance",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             }
         ]
@@ -616,11 +616,11 @@
         "explanation": "ඇමරිකානු ජල දූෂණ නීති (US water pollution laws) යටතේ නෞකාවකින් මුහුදට මුදා හරින තෙල් (Oil), කුණු කසල (Garbage) සහ අනතුරුදායක ද්‍රව්‍ය (Hazardous substances) යන මේ සියල්ල දූෂණය ලෙස සැලකේ. MARPOL සම්මුතියට අනුකූලව මෙම නීති දැඩි ලෙස ක්‍රියාත්මක වේ. එබැවින් 'All of the mentioned' යන්න නිවැරදි පිළිතුර වේ. මෙහිදී තනි තනිව දක්වා ඇති සෑම ද්‍රව්‍යයක්ම පරිසරයට හානිකර බැවින් ඒවා වෙන් වෙන් වශයෙන් හෝ එකට බැහැර කිරීම තහනම් වේ.",
         "tags": [
             {
-                "sub_category": "pollution prevention",
+                "sub_category": "Environmental",
                 "main_category": "Maritime Regulations, Law & Compliance"
             },
             {
-                "sub_category": "regulations",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             }
         ]
@@ -640,11 +640,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Diesel Engine",
+                "sub_category": "Engine",
                 "main_category": "Marine Engineering & Motive Power"
             },
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -664,15 +664,15 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Diesel Engine",
+                "sub_category": "Engine",
                 "main_category": "Marine Engineering & Motive Power"
             },
             {
-                "sub_category": "Lubrication System",
+                "sub_category": "Lubrication",
                 "main_category": "Marine Engineering & Motive Power"
             },
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -726,11 +726,11 @@
         "explanation": "ජීවිතාරක්ෂක බෝට්ටු වල කම්බි කඹ (wire falls) හැරවීම (turning) සහ අලුත් කිරීම (renewal) අත්‍යවශ්‍ය නඩත්තු ක්‍රියාදාමයන් වන අතර, ඒවා නාවික ආරක්ෂාව (maritime safety) සඳහා ඉතා වැදගත් වේ. මෙම කම්බි කඹ මාස තිහකට (30) නොවැඩි කාල පරාසයන් තුළ හැරවිය යුතුය. හැරවීම යනුවෙන් අදහස් කරන්නේ කම්බි කඹයේ ඇඳීමට (wear) ලක්වන කොටස් වෙනස් කිරීමයි. ජීවිතාරක්ෂක බෝට්ටුව එහි ස්ථානයේ (stowed position) ඇති විට, කම්බි කඹයේ යම් නිශ්චිත කොටස් නිරන්තරයෙන් කප්පි (sheave) සහ ඩ්‍රම් (drum) මත රැඳී තිබේ. මේ නිසා එම කොටස් වැඩි ඇඳීමකට ලක් වේ. කම්බි කඹය හැරවීමෙන්, මෙලෙස වැඩි ඇඳීමට ලක්වන කොටස් අඩු ආතතියක් (stress) ඇති ස්ථානවලට මාරු කර, කඹයේ ආයු කාලය (service life) දීර්ඝ කර ගත හැක. මෙහිදී කම්බි කඹයේ කෙළවරවල් (terminations) නැවත සකස් කිරීමක් හෝ කප්පාදු කිරීමක් සිදුවිය හැක. මෙය කඹයේ සමස්ත ශක්තිය (overall strength) පවත්වා ගැනීමට උපකාරී වේ.\n\nමීට අමතරව, ජීවිතාරක්ෂක බෝට්ටු කම්බි කඹ සෑම වසර පහකට (5) වරක් අනිවාර්යයෙන්ම අලුත් කළ යුතුය. වසර පහක කාලයක් යනු නාවික පරිසරයේ (marine environment) පවතින ලුණු වතුර (salt water), හිරු එළිය, සුළඟ සහ නිරන්තර නැමීම් (bending fatigue) හේතුවෙන් කම්බි කඹයේ ව්‍යුහාත්මක අඛණ්ඩතාවයට (structural integrity) හානි සිදුවීමට ප්‍රමාණවත් කාලයකි. කඹ හැරවීමෙන් එහි ආයු කාලය මදක් දීර්ඝ කර ගත හැකි වුවද, ද්‍රව්‍යමය තෙහෙට්ටුව (material fatigue) සහ ක්ෂය වීම (corrosion) වැනි සාධක නිසා කඹය අවසානයේදී දුර්වල වේ. හදිසි අවස්ථාවකදී ජීවිතාරක්ෂක බෝට්ටුව ආරක්ෂිතව දියත් කිරීමට (launch safely) හැකි බව සහතික කිරීම සඳහා, කාලානුරූපව කම්බි කඹ අලුත් කිරීම අතිශයින් වැදගත් වේ. මෙය ජාත්‍යන්තර නීති රෙගුලාසි (international regulations) සහ ආරක්ෂක ප්‍රමිතීන් (safety standards) මගින් නියම කර ඇති අනිවාර්ය අවශ්‍යතාවයකි.",
         "tags": [
             {
-                "sub_category": "maintenance",
+                "sub_category": "Maintenance",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             },
             {
-                "sub_category": "LSA",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -750,11 +750,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Electrical Engineering",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "Electric Motors",
+                "sub_category": "Motor",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -774,15 +774,15 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "LSA",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "SOLAS",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             },
             {
-                "sub_category": "Safety Equipment",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -802,11 +802,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "bunkering",
+                "sub_category": "Bunkering",
                 "main_category": "Cargo Operations & Vessel Types"
             },
             {
-                "sub_category": "Fuel Management",
+                "sub_category": "Bunkering",
                 "main_category": "Marine Engineering & Motive Power"
             }
         ]
@@ -846,15 +846,15 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Pressure Vessel",
+                "sub_category": "Receiver",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             },
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "maintenance",
+                "sub_category": "Maintenance",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             }
         ]
@@ -874,11 +874,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Diesel Engine",
+                "sub_category": "Engine",
                 "main_category": "Marine Engineering & Motive Power"
             },
             {
-                "sub_category": "performance",
+                "sub_category": "Maintenance",
                 "main_category": "Management, Administration & Human Factors"
             }
         ]
@@ -898,11 +898,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Sewage Treatment",
+                "sub_category": "Environmental",
                 "main_category": "Maritime Regulations, Law & Compliance"
             },
             {
-                "sub_category": "pollution prevention",
+                "sub_category": "Environmental",
                 "main_category": "Maritime Regulations, Law & Compliance"
             }
         ]
@@ -922,15 +922,15 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "UMS",
+                "sub_category": "Controls",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "Engine Room Management",
+                "sub_category": "Management",
                 "main_category": "Management, Administration & Human Factors"
             },
             {
-                "sub_category": "operational safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -950,7 +950,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Diesel Engine",
+                "sub_category": "Engine",
                 "main_category": "Marine Engineering & Motive Power"
             }
         ]
@@ -970,11 +970,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Automation",
+                "sub_category": "Controls",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "Control Systems",
+                "sub_category": "Controls",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -994,15 +994,15 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Diesel Engine",
+                "sub_category": "Engine",
                 "main_category": "Marine Engineering & Motive Power"
             },
             {
-                "sub_category": "lubrication",
+                "sub_category": "Lubrication",
                 "main_category": "Marine Engineering & Motive Power"
             },
             {
-                "sub_category": "Fuel Systems",
+                "sub_category": "Fuels",
                 "main_category": "Marine Engineering & Motive Power"
             }
         ]
@@ -1022,15 +1022,15 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Diesel Engine",
+                "sub_category": "Engine",
                 "main_category": "Marine Engineering & Motive Power"
             },
             {
-                "sub_category": "maintenance",
+                "sub_category": "Maintenance",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             },
             {
-                "sub_category": "Cylinder Liner",
+                "sub_category": "Engine",
                 "main_category": "Marine Engineering & Motive Power"
             }
         ]
@@ -1050,15 +1050,15 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Diesel Engine",
+                "sub_category": "Engine",
                 "main_category": "Marine Engineering & Motive Power"
             },
             {
-                "sub_category": "Refurbishment",
+                "sub_category": "Maintenance",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             },
             {
-                "sub_category": "Precision Engineering",
+                "sub_category": "Mechanics",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             }
         ]
@@ -1078,15 +1078,15 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Diesel Engine",
+                "sub_category": "Engine",
                 "main_category": "Marine Engineering & Motive Power"
             },
             {
-                "sub_category": "turbocharger",
+                "sub_category": "Turbocharger",
                 "main_category": "Marine Engineering & Motive Power"
             },
             {
-                "sub_category": "combustion",
+                "sub_category": "Engine",
                 "main_category": "Marine Engineering & Motive Power"
             }
         ]
@@ -1106,15 +1106,15 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Maritime Security",
+                "sub_category": "Security",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "Piracy",
+                "sub_category": "Security",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "communication",
+                "sub_category": "Communication",
                 "main_category": "Management, Administration & Human Factors"
             }
         ]
@@ -1134,15 +1134,15 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "SOLAS",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             },
             {
-                "sub_category": "Drills",
+                "sub_category": "Safety",
                 "main_category": "Management, Administration & Human Factors"
             }
         ]
@@ -1162,11 +1162,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Electrical Engineering",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "Safety Testing",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -1186,11 +1186,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "training",
+                "sub_category": "Management",
                 "main_category": "Management, Administration & Human Factors"
             },
             {
-                "sub_category": "management",
+                "sub_category": "Management",
                 "main_category": "Management, Administration & Human Factors"
             }
         ]
@@ -1210,11 +1210,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "medical",
+                "sub_category": "Medical",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "Regulatory",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             }
         ]
@@ -1234,15 +1234,15 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Diesel Engine",
+                "sub_category": "Engine",
                 "main_category": "Marine Engineering & Motive Power"
             },
             {
-                "sub_category": "Materials",
+                "sub_category": "Metallurgy",
                 "main_category": "Management, Administration & Human Factors"
             },
             {
-                "sub_category": "Failure Analysis",
+                "sub_category": "Maintenance",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             }
         ]
@@ -1262,15 +1262,15 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "maintenance",
+                "sub_category": "Maintenance",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             },
             {
-                "sub_category": "Classification Society",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             },
             {
-                "sub_category": "Regulatory",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             }
         ]
@@ -1290,7 +1290,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Diesel Engine",
+                "sub_category": "Engine",
                 "main_category": "Marine Engineering & Motive Power"
             }
         ]
@@ -1310,11 +1310,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Electrical Engineering",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "power distribution",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -1334,15 +1334,15 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "SOLAS",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             },
             {
-                "sub_category": "Safety Equipment",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "Lifeboat",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -1362,11 +1362,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "SOLAS",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             },
             {
-                "sub_category": "fire safety",
+                "sub_category": "Firefighting",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -1386,7 +1386,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Diesel Engine",
+                "sub_category": "Engine",
                 "main_category": "Marine Engineering & Motive Power"
             }
         ]
@@ -1406,7 +1406,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Automation",
+                "sub_category": "Controls",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -1430,7 +1430,7 @@
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "Automation",
+                "sub_category": "Controls",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -1450,11 +1450,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Control Systems",
+                "sub_category": "Controls",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "Automation",
+                "sub_category": "Controls",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -1474,11 +1474,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Electrical Engineering",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "Batteries",
+                "sub_category": "Battery",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -1515,11 +1515,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "refrigeration",
+                "sub_category": "HVAC",
                 "main_category": "Marine Engineering & Motive Power"
             },
             {
-                "sub_category": "thermodynamics",
+                "sub_category": "Science",
                 "main_category": "Marine Engineering & Motive Power"
             }
         ]
@@ -1539,7 +1539,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Diesel Engine",
+                "sub_category": "Engine",
                 "main_category": "Marine Engineering & Motive Power"
             }
         ]
@@ -1559,11 +1559,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "LSA",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "Safety Equipment",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -1583,11 +1583,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "IMO",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             },
             {
-                "sub_category": "Maritime Regulations",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             }
         ]
@@ -1607,11 +1607,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "high voltage",
+                "sub_category": "Electrical",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {
-                "sub_category": "Electrical Safety",
+                "sub_category": "Safety",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -1631,11 +1631,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Diesel Engine",
+                "sub_category": "Engine",
                 "main_category": "Marine Engineering & Motive Power"
             },
             {
-                "sub_category": "Emergency Operation",
+                "sub_category": "Emergency",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -1655,7 +1655,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "refrigeration",
+                "sub_category": "HVAC",
                 "main_category": "Marine Engineering & Motive Power"
             }
         ]
@@ -1675,11 +1675,11 @@
         "explanation": "ISM කේතය (International Safety Management Code) අනුව, නෞකාවේ ආරක්ෂාව සහ පරිසර දූෂණය වැළැක්වීම සම්බන්ධයෙන් ඕනෑම ගැටලුවක් සෘජුවම ගොඩබිම සිටින නම් කරන ලද පුද්ගලයාට (Designated Person Ashore - DPA) වාර්තා කිරීමේ අයිතිය සියලුම කාර්ය මණ්ඩල සාමාජිකයින්ට (All crewmembers) ඇත. මෙය නෞකාවේ ධුරාවලිය ඉක්මවා ගොස් ආරක්ෂාව තහවුරු කිරීමට ලබා දී ඇති අවස්ථාවකි. මෙය හුදෙක් ඉහළ නිලධාරීන්ට පමණක් සීමා වූ වරප්‍රසාදයක් නොවේ.",
         "tags": [
             {
-                "sub_category": "ISM Code",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             },
             {
-                "sub_category": "Safety Management",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -1699,11 +1699,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Fuel Treatment",
+                "sub_category": "Fuels",
                 "main_category": "Marine Engineering & Motive Power"
             },
             {
-                "sub_category": "purifier",
+                "sub_category": "Purifier",
                 "main_category": "Marine Engineering & Motive Power"
             }
         ]
@@ -1723,7 +1723,7 @@
         "explanation": "මුහුදට තෙල් කාන්දු වූ විට රසායනික ද්‍රව්‍ය (Dispersants) භාවිතා කිරීමේ ප්‍රධාන අවාසිය නම්, එමගින් තෙල් ජලය සමඟ මිශ්‍ර කර (emulsify) ජල තීරයට මුදා හැරීමයි. එවිට යාන්ත්‍රික ක්‍රම (Skimmers) මගින් තෙල් මතුපිටින් ඉවත් කිරීම අතිශය දුෂ්කර හෝ කළ නොහැකි දෙයක් බවට පත් වේ. රසායනික ද්‍රව්‍ය මගින් තෙල් ඉවත් නොකරන අතර එය තට්ටුවක් ලෙස පැවතීම පමණක් වලක්වයි. මෙය මුහුදු ජීවීන්ටද අහිතකර බලපෑම් ඇති කළ හැකි නමුත් තාක්ෂණිකව ප්‍රධාන ගැටලුව වන්නේ පිරිසිදු කිරීමේ අපහසුවයි.",
         "tags": [
             {
-                "sub_category": "pollution prevention",
+                "sub_category": "Environmental",
                 "main_category": "Maritime Regulations, Law & Compliance"
             },
             {
@@ -1747,15 +1747,15 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Diesel Engine",
+                "sub_category": "Engine",
                 "main_category": "Marine Engineering & Motive Power"
             },
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "maintenance",
+                "sub_category": "Maintenance",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             }
         ]
@@ -1792,11 +1792,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "management",
+                "sub_category": "Management",
                 "main_category": "Management, Administration & Human Factors"
             },
             {
-                "sub_category": "Leadership",
+                "sub_category": "Management",
                 "main_category": "Management, Administration & Human Factors"
             }
         ]
@@ -1816,11 +1816,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "Enclosed Space Entry",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -1840,11 +1840,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "refrigeration",
+                "sub_category": "HVAC",
                 "main_category": "Marine Engineering & Motive Power"
             },
             {
-                "sub_category": "Air Conditioning",
+                "sub_category": "HVAC",
                 "main_category": "Marine Engineering & Motive Power"
             }
         ]
@@ -1864,7 +1864,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "pumps",
+                "sub_category": "Pump",
                 "main_category": "Marine Engineering & Motive Power"
             }
         ]
@@ -1884,7 +1884,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Diesel Engine",
+                "sub_category": "Engine",
                 "main_category": "Marine Engineering & Motive Power"
             }
         ]
@@ -1904,11 +1904,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "isps",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             },
             {
-                "sub_category": "Maritime Security",
+                "sub_category": "Security",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -1928,11 +1928,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "SOLAS",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             },
             {
-                "sub_category": "LSA",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -1952,7 +1952,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "electronics",
+                "sub_category": "Electronics",
                 "main_category": "Electrical, Electronics & Control Engineering"
             },
             {

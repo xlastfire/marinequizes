@@ -14,11 +14,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "marpol",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             },
             {
-                "sub_category": "Environmental Protection",
+                "sub_category": "Environmental",
                 "main_category": "Maritime Regulations, Law & Compliance"
             }
         ]
@@ -38,11 +38,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "Administration",
+                "sub_category": "Legislation",
                 "main_category": "Management, Administration & Human Factors"
             }
         ]
@@ -62,11 +62,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "watchkeeping",
+                "sub_category": "Watchkeeping",
                 "main_category": "Ship Operations, Navigation & Seamanship"
             },
             {
-                "sub_category": "operations",
+                "sub_category": "Management",
                 "main_category": "Management, Administration & Human Factors"
             }
         ]
@@ -86,11 +86,11 @@
         "explanation": "Void spaces වැනි සංවෘත ස්ථාන (Enclosed spaces) දීර්ඝ කාලයක් වසා තැබීම නිසා ඒවායේ ඔක්සිජන් හිඟයක් (Lack of oxygen) පවතින බවට අනතුරු ඇඟවීමේ පුවරු ප්‍රදර්ශනය කළ යුතුය. වාතාශ්‍රය නොමැති වීම නිසා ලෝහ මලබැඳීමේ ක්‍රියාවලියෙන් ඔක්සිජන් වැයවීම හෝ විෂ වායු පිරීම සිදු විය හැකිය. ලිස්සා යාම වැනි අනතුරු වලට වඩා මෙහි ඇති ප්‍රධානතම මාරාන්තික අනතුර වන්නේ හුස්ම ගැනීමට අවශ්‍ය ඔක්සිජන් නොමැති වීමයි.",
         "tags": [
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "enclosed space",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -110,11 +110,11 @@
         "explanation": "යන්ත්‍ර කාමරවල වැඩ කරන විට බෙල්ලේ රෙදි කැබලි (Sweat rags) දමාගෙන සිටීම ඉතා අනතුරුදායකය. කැරකෙන පතුවළවල් (Rotating shafts), බෙල්ට් හෝ පවර් ටූල්ස් වල මෙම රෙදි පැටලීමෙන් බරපතල ශරීර හානි හෝ මරණය පවා සිදු විය හැක. අනෙක් විකල්ප වැරදි වන්නේ මෙහි ඇති ප්‍රධානතම අවදානම වන්නේ සෞඛ්‍ය ගැටලුවකට වඩා යන්ත්‍රෝපකරණ වල පැටලීමෙන් සිදුවන අනතුරයි.",
         "tags": [
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "PPE",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -134,11 +134,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "marpol",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             },
             {
-                "sub_category": "Regulatory",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             }
         ]
@@ -158,7 +158,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -178,15 +178,15 @@
         "explanation": "තෙල් පටවන අතරතුර නෞකාව අසල ජලයේ තෙල් පවතින බව දුටු සැණින් ගත යුතු මූලික ක්‍රියාමාර්ගය වන්නේ තෙල් පැටවීම වහාම නැවැත්වීමයි (Stop loading). මෙය තවදුරටත් කාන්දුවීම වැළැක්වීමට සහ පරිසර හානිය අවම කිරීමට ගත හැකි ප්‍රමුඛතම පියවරයි. පැටවීම නතර නොකර කාන්දුව පරීක්ෂා කිරීම හෝ පාලක මැදිරියට දැනුම් දීම පමණක් සිදු කිරීම ප්‍රමාණවත් නොවේ, මන්ද ඒ අතරතුර විශාල තෙල් ප්‍රමාණයක් ජලයට එක්විය හැකි බැවිනි. පැටවීම නැවැත්වීමෙන් පසු අනෙකුත් සියලුම හදිසි පියවර (දැනුම් දීම, කාන්දුව හඳුනා ගැනීම, පිරිසිදු කිරීම) සිදු කළ යුතුය.",
         "tags": [
             {
-                "sub_category": "pollution prevention",
+                "sub_category": "Environmental",
                 "main_category": "Maritime Regulations, Law & Compliance"
             },
             {
-                "sub_category": "bunkering",
+                "sub_category": "Bunkering",
                 "main_category": "Cargo Operations & Vessel Types"
             },
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -206,11 +206,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "hot work",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -247,11 +247,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "Automation",
+                "sub_category": "Controls",
                 "main_category": "Electrical, Electronics & Control Engineering"
             }
         ]
@@ -271,11 +271,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "training",
+                "sub_category": "Management",
                 "main_category": "Management, Administration & Human Factors"
             },
             {
-                "sub_category": "Safety Management",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -295,11 +295,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Emergency Procedures",
+                "sub_category": "Emergency",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "SOLAS",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             }
         ]
@@ -319,11 +319,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Main Engine",
+                "sub_category": "Engine",
                 "main_category": "Marine Engineering & Motive Power"
             },
             {
-                "sub_category": "maintenance",
+                "sub_category": "Maintenance",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             }
         ]
@@ -343,11 +343,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "Work at Height",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -367,7 +367,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "operations",
+                "sub_category": "Management",
                 "main_category": "Management, Administration & Human Factors"
             }
         ]
@@ -387,7 +387,7 @@
         "explanation": "මුහුදට තෙල් කාන්දු වූ විට රසායනික ද්‍රව්‍ය (Dispersants) භාවිතා කිරීමේ ප්‍රධාන අවාසිය නම්, එමගින් තෙල් ජලය සමඟ මිශ්‍ර කර (emulsify) ජල තීරයට මුදා හැරීමයි. එවිට යාන්ත්‍රික ක්‍රම (Skimmers) මගින් තෙල් මතුපිටින් ඉවත් කිරීම අතිශය දුෂ්කර හෝ කළ නොහැකි දෙයක් බවට පත් වේ. රසායනික ද්‍රව්‍ය මගින් තෙල් ඉවත් නොකරන අතර එය තට්ටුවක් ලෙස පැවතීම පමණක් වලක්වයි. මෙය මුහුදු ජීවීන්ටද අහිතකර බලපෑම් ඇති කළ හැකි නමුත් තාක්ෂණිකව ප්‍රධාන ගැටලුව වන්නේ පිරිසිදු කිරීමේ අපහසුවයි.",
         "tags": [
             {
-                "sub_category": "pollution prevention",
+                "sub_category": "Environmental",
                 "main_category": "Maritime Regulations, Law & Compliance"
             },
             {
@@ -411,11 +411,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "maintenance",
+                "sub_category": "Maintenance",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             },
             {
-                "sub_category": "operations",
+                "sub_category": "Management",
                 "main_category": "Management, Administration & Human Factors"
             }
         ]
@@ -435,11 +435,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Emergency Procedures",
+                "sub_category": "Emergency",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -459,11 +459,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "SOLAS",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             },
             {
-                "sub_category": "Regulatory",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             }
         ]
@@ -483,11 +483,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "enclosed space",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -507,11 +507,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Environmental Protection",
+                "sub_category": "Environmental",
                 "main_category": "Maritime Regulations, Law & Compliance"
             },
             {
-                "sub_category": "marpol",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             }
         ]
@@ -531,11 +531,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "training",
+                "sub_category": "Management",
                 "main_category": "Management, Administration & Human Factors"
             }
         ]
@@ -555,11 +555,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "LSA",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -579,11 +579,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "operations",
+                "sub_category": "Management",
                 "main_category": "Management, Administration & Human Factors"
             }
         ]
@@ -603,11 +603,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "Master's Responsibilities",
+                "sub_category": "Management",
                 "main_category": "Management, Administration & Human Factors"
             },
             {
-                "sub_category": "Safety Management",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -627,11 +627,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "IMO",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             },
             {
-                "sub_category": "SOLAS",
+                "sub_category": "Legislation",
                 "main_category": "Maritime Regulations, Law & Compliance"
             }
         ]
@@ -651,11 +651,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "maintenance",
+                "sub_category": "Maintenance",
                 "main_category": "Maintenance, Repair & Workshop Practice"
             },
             {
-                "sub_category": "operations",
+                "sub_category": "Management",
                 "main_category": "Management, Administration & Human Factors"
             }
         ]
@@ -675,11 +675,11 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             },
             {
-                "sub_category": "PPE",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
@@ -699,7 +699,7 @@
         "explanation": "",
         "tags": [
             {
-                "sub_category": "safety",
+                "sub_category": "Safety",
                 "main_category": "Safety, Emergency Response & Lifesaving"
             }
         ]
