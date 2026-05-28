@@ -579,7 +579,7 @@
         ],
         "correct_answer": "Capacitor.",
         "images": [
-            "https://sea-man.org/wp-content/uploads/2025/01/kond.jpg-1.jpg"
+            "https://i.ibb.co/N2BcWhmD/kond-jpg-1.jpg"
         ],
         "explanation": "මෙම සංකේතය නියෝජනය කරන්නේ ධාරිත්‍රකයක් (Capacitor) යි. ධාරිත්‍රකයක් යනු විදුලි ශක්තිය විද්‍යුත් ක්ෂේත්‍රයක් (Electric Field) ලෙස තාවකාලිකව ගබඩා කරන මූලික ඉලෙක්ට්‍රොනික සංරචකයකි. එය මූලික වශයෙන් සන්නායක තහඩු (Conductive Plates) දෙකකින් සමන්විත වන අතර, මෙම තහඩු දෙක අතර පාර විද්‍යුත් ද්‍රව්‍යයක් (Dielectric Material) හෝ අවාහකයක් (Insulator) පිහිටා ඇත. මෙම පාර විද්‍යුත් ද්‍රව්‍යය මගින් තහඩු දෙක සෘජුව සම්බන්ධ වීම වළක්වන අතර, විද්‍යුත් ක්ෂේත්‍රය වඩාත් කාර්යක්ෂමව ගබඩා කිරීමට උපකාරී වේ. ධාරිත්‍රකයක ක්‍රියාකාරිත්වය නම්, එයට වෝල්ටීයතාවයක් (Voltage) යෙදූ විට, එක් තහඩුවක ධන ආරෝපණ (Positive Charge) සහ අනෙක් තහඩුවේ ඍණ ආරෝපණ (Negative Charge) එකතු වී විද්‍යුත් ශක්තිය ගබඩා වීමයි. අවශ්‍ය වූ විට මෙම ගබඩා කළ ශක්තිය පරිපථයට මුදා හැරිය හැක. මෙම සංකේතයේ ඇති සමාන්තර රේඛා දෙකෙන් ධාරිත්‍රකයේ සන්නායක තහඩු දෙක නිරූපණය කරයි. ඇතැම් ධාරිත්‍රක වර්ග (උදාහරණයක් ලෙස විද්‍යුත් විච්ඡේදක ධාරිත්‍රක - Electrolytic Capacitors) ධ්‍රැවිත (Polarized) වන අතර, ඒවායේ සංකේතයේ එක් පසක් වක්‍රව හෝ \"+\" සලකුණකින් දක්වයි. නැව් වල ඉලෙක්ට්‍රොනික පද්ධති වලදී, ධාරිත්‍රක විදුලි සැපයුම් ඒකක (Power Supply Units) වල වෝල්ටීයතාවය සුමට කිරීමට (Smoothing), විදුලි ඝෝෂා (Electrical Noise) පෙරීමට (Filtering), සංඥා යුගලනය (Signal Coupling) කිරීමට සහ වේලා පාලන පරිපථ (Timing Circuits) වැනි විවිධ කාර්යයන් සඳහා බහුලව භාවිතා වේ. උදාහරණයක් ලෙස, ප්‍රධාන එන්ජිමේ පාලන පද්ධති (Engine Control Systems) වල හෝ නාවික සන්නිවේදන උපකරණ (Navigation and Communication Equipment) වල ස්ථාවර හා විශ්වාසනීය විදුලි සැපයුමක් පවත්වා ගැනීමට ධාරිත්‍රක අත්‍යවශ්‍ය වේ.",
         "tags": [
@@ -605,7 +605,7 @@
         ],
         "correct_answer": "Pressure indicator, installed on panel/console.",
         "images": [
-            "https://sea-man.org/files/img/else/pi.jpg"
+            "https://i.ibb.co/23VYHnp3/pi.jpg"
         ],
         "explanation": "ග්‍රැෆික් සංකේතය මගින් නිරූපණය කරන්නේ පාලක පුවරුවක (panel) හෝ කොන්සෝලයක (console) ස්ථාපනය කර ඇති පීඩන දර්ශකයකි (Pressure indicator). කාර්මික උපකරණ (industrial instrumentation) වලදී, ඕනෑම මිනුම් උපකරණයක් (measuring instrument) නිරූපණය කිරීමට රවුමක් (circle) භාවිතා කරයි. මෙම රවුම ඇතුළත හෝ එයට සම්බන්ධව ඇති අකුරු මගින් උපකරණයේ ක්‍රියාව (function) සහ මනින ලද විචල්‍යය (measured variable) පෙන්නුම් කරයි. මෙහිදී 'P' යනු පීඩනය (Pressure) වන අතර 'I' යනු දර්ශකය (Indicator) වේ. එබැවින්, 'PI' යන්නෙන් පීඩන දර්ශකයකි යන්න අදහස් වේ.\n\nමෙම පීඩන දර්ශකය \"පාලක පුවරුවක හෝ කොන්සෝලයක ස්ථාපනය කර ඇති\" බව දැක්වීමට, සාමාන්‍යයෙන් රවුමට ඉහළින් හෝ එයට සම්බන්ධව තවත් වර්ග හැඩැති කොටුවක් (square box) හෝ තිරස් රේඛාවක් (horizontal line) වැනි අමතර සංකේතයක් (additional symbol) භාවිතා කරයි. මෙම අමතර සංකේතය මගින් උපකරණය ක්ෂේත්‍රයේ (field) එනම් එය මනින ස්ථානයට ආසන්නව (locally) සවි කර නොමැති බවත්, ඒ වෙනුවට දුරස්ථව (remotely) පාලක මැදිරියක (control room) හෝ ප්‍රධාන මෙහෙයුම් ස්ථානයක ඇති පාලක පුවරුවක සවි කර ඇති බවත් පෙන්නුම් කරයි. මෙවැනි ස්ථාපනයන් මඟින්, ක්‍රියාකරුවන්ට (operators) පද්ධතියේ විවිධ කොටස්වල පීඩනය එකම තැනක සිට පහසුවෙන් නිරීක්ෂණය කිරීමට හැකියාව ලැබේ. මෙය උපකරණවල පිහිටීම (location) සහ ප්‍රවේශය (accessibility) පිළිබඳ වැදගත් තොරතුරු සපයයි.\n\nඅනෙකුත් විකල්ප සලකා බලන විට:\nPH විශ්ලේෂකය (PH analyzer) යනු ජලයේ හෝ වෙනත් ද්‍රවයක ආම්ලිකතාවය (acidity) හෝ භෂ්මතාවය (alkalinity) මනින උපකරණයකි. එහි සංකේතය සාමාන්‍යයෙන් 'PA' (pH Analyzer) යන අකුරු වලින් යුක්ත වන අතර, එහි ක්‍රියාකාරීත්වය සහ මිනුම් විචල්‍යය වෙනස් බැවින් ග්‍රැෆික් නිරූපණය ද වෙනස් වේ.\n\nපීඩන දර්ශකය, දේශීයව ස්ථාපනය කර ඇත (Pressure indicator, installed locally) යන්නෙන් අදහස් වන්නේ උපකරණය එය මනින ස්ථානයට ආසන්නව සෘජුවම සවි කර ඇති බවයි. මෙය සාමාන්‍යයෙන් නිරූපණය කරන්නේ අමතර කොටුවක් (box) හෝ තිරස් රේඛාවක් (line) නොමැති සරල රවුමක් (simple circle) මගිනි.\n\nස්වයං අන්තර්ගත පීඩන අති පීඩන කපාටය (Pressure relief valve, self-contained) යනු පද්ධතියක පීඩනය ආරක්ෂිත මට්ටමක පවත්වා ගැනීම සඳහා අමතර පීඩනය මුදා හරින ආරක්ෂක කපාටයකි (safety valve). එහි සංකේතය සාමාන්‍යයෙන් ත්‍රිකෝණයක් (triangle) හෝ වෙනත් විශේෂිත කපාට (valve) සංකේතයක් වන අතර එය මිනුම් උපකරණයක් (measuring instrument) නොවන බැවින් මෙම සංකේතය ඊට අදාළ නොවේ.\n\nඑබැවින්, දී ඇති ග්‍රැෆික් සංකේතය මගින් පාලක පුවරුවක හෝ කොන්සෝලයක ස්ථාපනය කර ඇති පීඩන දර්ශකයක් පැහැදිලිව හා නිවැරදිව නිරූපණය කරයි.",
         "tags": [
@@ -2683,7 +2683,7 @@
         ],
         "correct_answer": "Capacitor.",
         "images": [
-            "https://sea-man.org/wp-content/uploads/2024/12/scheme5.jpg"
+            "https://i.ibb.co/Cp1JkzRZ/scheme5.jpg"
         ],
         "explanation": "පූර්ණ තරංග බ්‍රිජ් රෙක්ටිෆයරයක් (Full-wave bridge rectifier) මගින් ප්‍රත්‍යාවර්ත ධාරාව (Alternating Current - AC) ස්පන්දන සහිත සෘජු ධාරාවක් (Pulsating Direct Current - DC) බවට පරිවර්තනය කරනු ලබයි. මෙහිදී ලැබෙන නිමැවුම් වෝල්ටීයතාවය ස්ථාවර අගයක නොපවතින අතර එහි යම් ප්‍රමාණයක විචලනය වීම් හෙවත් රිපල් වෝල්ටීයතාවයක් (Ripple voltage) පවතී. මෙම රිපල් වෝල්ටීයතාවය අවම කර වඩාත් සුමට සෘජු ධාරා සැපයුමක් (Smooth DC supply) ලබා ගැනීම සඳහා පෙරහන් පරිපථයක් (Filter circuit) භාවිතා කළ යුතුය. මේ සඳහා වඩාත් සුදුසු ඉලෙක්ට්‍රොනික උපාංගය වන්නේ ධාරිත්‍රකයකි (Capacitor). ධාරිත්‍රකයක් බර ප්‍රතිරෝධයට (Load resistor - RL) සමාන්තරගතව (Parallel) සම්බන්ධ කළ විට රෙක්ටිෆයරයෙන් ලැබෙන වෝල්ටීයතාවය උපරිම අගයට පත්වන විට ධාරිත්‍රකය ආරෝපණය (Charge) වේ. පසුව රෙක්ටිෆයරයේ වෝල්ටීයතාවය අඩු වන අවස්ථාවේදී ධාරිත්‍රකය සතුව ගබඩා වී ඇති විද්‍යුත් ශක්තිය බර ප්‍රතිරෝධය හරහා විසර්ජනය (Discharge) කරමින් වෝල්ටීයතාවය එකවරම පහත වැටීම වළක්වයි. මෙම ක්‍රියාවලිය නිසා නිමැවුම් තරංගයේ පවතින ගැස්සීම් හෙවත් රිපල් (Ripples) සැලකිය යුතු ලෙස අඩු වී වඩාත් ඒකාකාරී වෝල්ටීයතාවයක් ලබා ගැනීමට හැකි වේ. අනෙකුත් විකල්ප දෙස බැලීමේදී ප්‍රේරකයක් (Inductive reactor) ශ්‍රේණිගතව (Series) සම්බන්ධ කිරීමෙන්ද රිපල් අඩු කළ හැකි වුවත් මෙම පරිපථයේ දක්වා ඇති පරිදි a සහ b ලක්ෂ්‍ය අතර සමාන්තරගතව සම්බන්ධ කිරීමට වඩාත් ප්‍රායෝගික සහ සාර්ථක වන්නේ ධාරිත්‍රකයකි. සීනර් ඩයෝඩයක් (Zener diode) ප්‍රධාන වශයෙන් වෝල්ටීයතා නියාමනය (Voltage regulation) සඳහා යොදා ගන්නා අතර එය රිපල් පෙරීමට ප්‍රාථමිකව භාවිතා කරන උපාංගයක් නොවේ. එබැවින් ධාරිත්‍රකයක් සම්බන්ධ කිරීම මගින් බර ප්‍රතිරෝධය වෙත වඩාත් පිරිසිදු සෘජු ධාරාවක් ලබා දීමට හැකි වේ.",
         "tags": [
@@ -2853,7 +2853,7 @@
         ],
         "correct_answer": "Protect the SCR against damage caused by fast high voltage spikes.",
         "images": [
-            "https://sea-man.org/wp-content/uploads/2024/12/scr.jpg"
+            "https://i.ibb.co/j9wbgfxL/scr.jpg"
         ],
         "explanation": "රූපයේ දැක්වෙන සිලිකන් පාලිත සෘජුකාරකයක් හෙවත් එස්.සී.ආර්. (SCR - Silicon Controlled Rectifier) සමඟ සමාන්තරව සම්බන්ධ කර ඇති ආර්.සී. (RC) පරිපථයේ ප්‍රධාන අරමුණ වන්නේ එස්.සී.ආර්. එකට හානි විය හැකි අධි වේගී, අධි වෝල්ටීයතා ස්පයික් (fast high voltage spikes) වලින් එය ආරක්ෂා කිරීමයි. මෙම ආර්.සී. පරිපථය සාමාන්‍යයෙන් ස්නබර් පරිපථයක් (snubber circuit) ලෙස හැඳින්වේ. එස්.සී.ආර්. එක ක්‍රියාත්මක වන විට හෝ අක්‍රිය වන විට, විශේෂයෙන්ම ප්‍රේරක භාර (inductive loads) සමඟ ක්‍රියා කරන විට, එහි අග්‍ර හරහා වෝල්ටීයතාව ඉතා වේගයෙන් ඉහළ යා හැකිය. මෙම වේගවත් වෝල්ටීයතා වෙනස්වීම, එනම් dv/dt (rate of change of voltage with respect to time), යම් සීමාවකට වඩා වැඩි වුවහොත් එස්.සී.ආර්. එකට හානි වීමට හෝ වැරදි ලෙස ක්‍රියාත්මක වීමට (false triggering) ඉඩ ඇත. එස්.සී.ආර්. එකේ සන්ධි (junctions) වල අභ්‍යන්තර ධාරිත්‍රක ක්‍රියාකාරිත්වය නිසා, අධි dv/dt අගයක් යෙදූ විට ප්‍රමාණවත් තරම් ධාරාවක් ගේට්ටුවට (gate) නොදී වුවද එස්.සී.ආර්. එක සන්නයනය වීමට (turn on) පුළුවන.\n\nමෙම ගැටලුව විසඳීම සඳහා ආර්.සී. ස්නබර් පරිපථය යොදා ගැනේ. එස්.සී.ආර්. එකේ අග්‍ර හරහා වෝල්ටීයතාව හදිසියේ ඉහළ යාමට පටන් ගන්නා විට, සමාන්තරව සම්බන්ධ කර ඇති ධාරිත්‍රකය (capacitor) ආරම්භයේදී කෙටි පරිපථයක් (short circuit) ලෙස ක්‍රියා කරයි. මෙහිදී මෙම අධි වේගී වෝල්ටීයතා වෙනස ධාරිත්‍රකය හරහා යොමු වන අතර, ධාරිත්‍රකය ආරෝපණය වීමට පටන් ගන්නා විට වෝල්ටීයතාව ක්‍රමයෙන් ඉහළ යයි. මේ ආකාරයට, එස්.සී.ආර්. එකේ අග්‍ර හරහා වෝල්ටීයතාව ඉහළ යන වේගය (dv/dt) සීමා කෙරේ. ප්‍රතිරෝධකය (resistor) ධාරිත්‍රකයේ විසර්ජන ධාරාව (discharge current) පාලනය කරයි. එස්.සී.ආර්. එක ක්‍රියාත්මක වූ විට ධාරිත්‍රකය ප්‍රතිරෝධකය හරහා විසර්ජනය වේ. මෙම ප්‍රතිරෝධකය නොතිබුණහොත්, එස්.සී.ආර්. එක ක්‍රියාත්මක වන මොහොතේදී ධාරිත්‍රකයේ ගබඩා වී ඇති ශක්තිය ඉතා විශාල ධාරා ස්පයික් එකක් (current spike) ලෙස එස්.සී.ආර්. එක හරහා ගලා ගොස් එයට හානි කළ හැකිය. එබැවින්, මෙම ආර්.සී. පරිපථය මගින් අධි dv/dt තත්ත්වයන් පාලනය කර එස්.සී.ආර්. එක ආරක්ෂා කරනු ලැබේ.",
         "tags": [
@@ -3355,7 +3355,7 @@
         ],
         "correct_answer": "Figure 3.",
         "images": [
-            "https://sea-man.org/wp-content/uploads/2024/12/scheme_1.jpg"
+            "https://i.ibb.co/ycSCBpYp/scheme-1.jpg"
         ],
         "explanation": "Load එක හරහා යන විදුලි ධාරාව (current) මැනීම සඳහා නිවැරදි ක්‍රමය රූප සටහන 3 (Figure 3) හි දැක්වේ. ධාරාව මැනීම සඳහා Ammeter එකක් (ammeter) භාවිතා කරයි. Ammeter එකක් භාවිතා කරන විට, එය හැම විටම circuit එකේ series (series connection) ලෙස සම්බන්ධ කළ යුතුයි. එනම්, Ammeter එක හරහා ධාරාව ගමන් කරන ආකාරයට circuit එක සම්පූර්ණ කළ යුතුයි. රූප සටහන 3 හි, Ammeter එක load L සමඟ series එකේ සම්බන්ධ වී ඇති අතර, එමඟින් load L හරහා ගමන් කරන ධාරාව නිවැරදිව මැනිය හැක. රූප සටහන 1, 2, සහ 4 නිවැරදි නොවේ. රූප සටහන 1 සහ 2 හි Ammeter එක load L සමඟ parallel (parallel connection) ලෙස සම්බන්ධ කර ඇත. මෙවැනි සම්බන්ධතාවක් Ammeter එකට හානි සිදු කළ හැක, මන්ද Ammeter එකේ internal resistance (internal resistance) ඉතාමත් අඩු නිසා, වැඩි ධාරාවක් Ammeter එක හරහා ගමන් කරනු ඇත. රූප සටහන 4 හි Voltmeter එකක් (voltmeter) load L හරහා වෝල්ටීයතාවය (voltage) මැනීමට භාවිතා කර ඇති අතර, ධාරාව මැනීමට නොවේ. Voltmeter එකක් circuit එකේ parallel ලෙස සම්බන්ධ කළ යුතු අතර, Ammeter එකක් circuit එකේ series ලෙස සම්බන්ධ කළ යුතුයි.",
         "tags": [
@@ -3729,7 +3729,7 @@
         ],
         "correct_answer": "Capacitor.",
         "images": [
-            "https://sea-man.org/wp-content/uploads/2025/01/kond.jpg-1.jpg"
+            "https://i.ibb.co/VcpsyrY8/kond-jpg-1.jpg"
         ],
         "explanation": "",
         "tags": [
@@ -3754,7 +3754,7 @@
         ],
         "correct_answer": "Pressure indicator, installed on panel/console.",
         "images": [
-            "https://sea-man.org/wp-content/uploads/2025/01/indikator.jpg"
+            "https://i.ibb.co/xc21JvJ/indikator.jpg"
         ],
         "explanation": "",
         "tags": [
@@ -3917,7 +3917,7 @@
         ],
         "correct_answer": "Wrong, if the valve is wrongly set.",
         "images": [
-            "https://sea-man.org/wp-content/uploads/2025/01/klapan-2.jpg"
+            "https://i.ibb.co/Y4KFjXJX/klapan-2.jpg"
         ],
         "explanation": "",
         "tags": [
@@ -4340,7 +4340,7 @@
         ],
         "correct_answer": "Silicon controlled rectifier (SCR).",
         "images": [
-            "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-02-at-11-28-00-Wrong-answer-summary-ilide.info-engine-management-slow-speed-pdf-pr_6de35d73be0f53401bf6e3d9db095fcf.pdf.png"
+            "https://i.ibb.co/jvSXBWRg/Screenshot-2026-04-02-at-11-28-00-Wrong-answer-summary-ilide-info-engine-management-slow-speed-pdf-p.png"
         ],
         "explanation": "",
         "tags": [
@@ -4366,7 +4366,7 @@
         ],
         "correct_answer": "Figure 1.",
         "images": [
-            "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-02-at-11-32-14-Wrong-answer-summary-ilide.info-engine-management-slow-speed-pdf-pr_6de35d73be0f53401bf6e3d9db095fcf.pdf.png"
+            "https://i.ibb.co/p6Z2cVn2/Screenshot-2026-04-02-at-11-32-14-Wrong-answer-summary-ilide-info-engine-management-slow-speed-pdf-p.png"
         ],
         "explanation": "",
         "tags": [
@@ -4432,7 +4432,7 @@
         ],
         "correct_answer": "Bourdon Tube manometer.",
         "images": [
-            "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-02-at-13-06-53-Wrong-answer-summary-ilide.info-engine-management-slow-speed-pdf-pr_6de35d73be0f53401bf6e3d9db095fcf.pdf.png"
+            "https://i.ibb.co/Vphk71fB/Screenshot-2026-04-02-at-13-06-53-Wrong-answer-summary-ilide-info-engine-management-slow-speed-pdf-p.png"
         ],
         "explanation": "ගුවන් බෝතලයක (air bottle) 0-35 BAR අතර පීඩනය (pressure) මැනීම සඳහා 'Bourdon Tube manometer' (බර්ඩන් ටියුබ් මේනෝමීටරය) තෝරා ගැනීම වඩාත් සුදුසුය. ඊට හේතු කිහිපයක් තිබේ.\n\nU-tube manometer (යූ-ටියුබ් මේනෝමීටරය) සහ Differential manometer (ඩිෆරන්ෂල් මේනෝමීටරය) යන දෙකම සාමාන්‍යයෙන් ඉතා සුළු පීඩන වෙනස්කම් (low pressure differences) මැනීමට යොදා ගනී. ඒවායේ ක්‍රියාකාරීත්වය ද්‍රව ස්ථම්භයක (liquid column) උස වෙනස මත රඳා පවතින අතර, 35 BAR වැනි ඉහළ පීඩනයක් (high pressure) මැනීමට ඒවා එතරම් සුදුසු නොවේ. එසේම, ඒවා ස්ථාපනය කිරීමට (install) සහ නඩත්තු කිරීමට (maintain) අපහසු විය හැකිය, විශේෂයෙන් යාත්‍රාවක (vessel) සවිකරන විට.\n\nDiaphragm gauge (ඩයෆ්‍රම් මේනෝමීටරය) යනු පීඩනය මැනීමට භාවිතා කරන තවත් උපකරණයකි. එය නම්යශීලී පටලයක් (flexible diaphragm) මත පීඩනය ක්‍රියා කරන විට සිදුවන විකෘතිය (deflection) මැනීමෙන් ක්‍රියා කරයි. Diaphragm gauge (ඩයෆ්‍රම් මේනෝමීටරය) ද 35 BAR වැනි පීඩන සඳහා භාවිතා කළ හැකි වුවද, Bourdon Tube manometer (බර්ඩන් ටියුබ් මේනෝමීටරය) ඊට වඩා සුලභව, විශ්වාසදායකව (reliable) සහ ආර්ථික වශයෙන් (economical) මෙම පීඩන පරාසය (pressure range) සඳහා භාවිතා කෙරේ.\n\nBourdon Tube manometer (බර්ඩන් ටියුබ් මේනෝමීටරය) යනු පීඩනය මැනීම සඳහා ලොව පුරා බහුලව භාවිතා වන උපකරණයකි. එහි ප්‍රධාන කොටස වන්නේ C- හැඩයේ හෝ спіරල් (spiral) ආකාරයේ ලෝහමය නළයකි (metal tube), එය Bourdon tube (බර්ඩන් ටියුබ්) ලෙස හැඳින්වේ. මෙම නළයේ එක් කෙළවරක් (end) වසා ඇති අතර අනෙක් කෙළවර පීඩනය යෙදෙන ස්ථානයට සම්බන්ධ වේ. පීඩනය යෙදෙන විට, නළය විකෘති වී (deforms) කෙළින් වීමට හෝ ඇඹරීමට (uncoils or straightens) උත්සාහ කරයි. මෙම විකෘතිය යාන්ත්‍රික සම්බන්ධතාවක් (mechanical linkage) හරහා ඩයල් එකක (dial) කටුවක් (pointer) චලනය කරයි, එමඟින් පීඩන අගය (pressure reading) පෙන්වයි. 0-35 BAR වැනි පීඩන පරාසය සඳහා, Bourdon Tube manometer (බර්ඩන් ටියුබ් මේනෝමීටරය) නිවැරදි මිනුම් (accurate measurements) ලබා දෙන අතර, එය ශක්තිමත් (robust) හා විශ්වාසදායක (reliable) උපකරණයකි, එමඟින් එය ගුවන් බෝතලයක පීඩනය මැනීම සඳහා වඩාත් සුදුසු තේරීමක් වේ.",
         "tags": [
@@ -4458,7 +4458,7 @@
         ],
         "correct_answer": "Figure 2.",
         "images": [
-            "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-02-at-13-12-23-Wrong-answer-summary-ilide.info-engine-management-slow-speed-pdf-pr_6de35d73be0f53401bf6e3d9db095fcf.pdf.png"
+            "https://i.ibb.co/PvfwVKDz/Screenshot-2026-04-02-at-13-12-23-Wrong-answer-summary-ilide-info-engine-management-slow-speed-pdf-p.png"
         ],
         "explanation": "",
         "tags": [
@@ -4532,7 +4532,7 @@
         ],
         "correct_answer": "The vessel will roll violently.",
         "images": [
-            "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-02-at-13-17-36-Wrong-answer-summary-ilide.info-engine-management-slow-speed-pdf-pr_6de35d73be0f53401bf6e3d9db095fcf.pdf.png"
+            "https://i.ibb.co/HDGpckbt/Screenshot-2026-04-02-at-13-17-36-Wrong-answer-summary-ilide-info-engine-management-slow-speed-pdf-p.png"
         ],
         "explanation": "",
         "tags": [
@@ -4962,7 +4962,7 @@
         ],
         "correct_answer": "Return inductive current to supply at switch off.",
         "images": [
-            "https://sea-man.org/wp-content/uploads/2026/04/Screenshot-2026-04-03-at-09-50-07-Wrong-answer-summary-ilide.info-engine-management-slow-speed-pdf-pr_6de35d73be0f53401bf6e3d9db095fcf.pdf.png"
+            "https://i.ibb.co/7JHrzx97/Screenshot-2026-04-03-at-09-50-07-Wrong-answer-summary-ilide-info-engine-management-slow-speed-pdf-p.png"
         ],
         "explanation": "",
         "tags": [
@@ -6141,7 +6141,7 @@
         ],
         "correct_answer": "Potentiometer, 10 kilo-ohms.",
         "images": [
-            "https://sea-man.org/wp-content/uploads/2025/01/simvol-41.jpg"
+            "https://i.ibb.co/PvJmDVBR/simvol-41.jpg"
         ],
         "explanation": "මෙම ග්‍රැෆිකල් සංකේතය (graphical symbol) නිරූපණය කරන්නේ \"පොටෙන්ෂියෝමීටරය\" (Potentiometer) නම් ඉලෙක්ට්‍රොනික සංරචකය (electronic component) යි. එහි අගය (value) \"10 කිලෝ-ඕම්\" (10 kilo-ohms) ලෙස දක්වා ඇත. පොටෙන්ෂියෝමීටරයක් යනු වෙනස් කළ හැකි ප්‍රතිරෝධකයක් (variable resistor) වන අතර, එය පරිපථයේ (circuit) විද්‍යුත් සංඥාවේ (electrical signal) ප්‍රමාණය හෝ වෝල්ටීයතාවය (voltage) පාලනය කිරීමට භාවිතා කරයි. මෙහි '10 කිලෝ-ඕම්' යනු එහි උපරිම ප්‍රතිරෝධක අගයයි. '10 කිලෝ-ඕම්' ප්‍රතිරෝධකයක් (Resistor) යනු ස්ථාවර අගයක් සහිත සංරචකයක් වන අතර, එය පොටෙන්ෂියෝමීටරය මෙන් වෙනස් කළ නොහැකිය. ධාරිත්‍රකයක් (Capacitor) යනු ශක්තිය ගබඩා කරන උපකරණයකි, එහි අගය '10 මයික්‍රෝ-ෆැරඩ්' (10 microfarads) ලෙස දක්වා ඇත. එතීෙම් ධාරිත්‍රකයක් (Inductor) යනු චුම්බක ක්ෂේත්‍රයක (magnetic field) ශක්තිය ගබඩා කරන උපකරණයකි, එහි අගය '10 මයික්‍රෝ-හෙන්රි' (10 microhenries) ලෙස දක්වා ඇත. මෙම සංකේතය මගින් නිරූපණය වන්නේ වෙනස් කළ හැකි ප්‍රතිරෝධකයක් වන පොටෙන්ෂියෝමීටරයයි.",
         "tags": [
@@ -6167,7 +6167,7 @@
         ],
         "correct_answer": "Zener diode.",
         "images": [
-            "https://sea-man.org/wp-content/uploads/2025/01/zener.jpg"
+            "https://i.ibb.co/9mDcDb53/zener.jpg"
         ],
         "explanation": "මෙම සංකේතය Zener diode එකක් නිරූපණය කරයි. Zener diode එකක සංකේතය සාමාන්‍ය diode එකකට සමාන වන අතර එහි කැතෝඩය (cathode) 'Z' අකුරක හැඩයට සමාන නැමුණු රේඛා දෙකකින් සමන්විත වේ. අනෙක් විකල්ප වැරදි වීමට හේතු: 1. Light-emitting diode (LED) සංකේතයේ diode එකෙන් පිටතට විහිදෙන ඊතල දෙකක් ඇත. 2. Light-dependent resistor (LDR) යනු ප්‍රතිරෝධකයක් වන අතර එහි සංකේතය සෘජුකෝණාස්‍රයකින් සහ ආලෝකය වැටෙන බව පෙන්වන ඊතල වලින් සමන්විත වේ. 3. Schottky diode සංකේතයේ කැතෝඩය 'S' අකුරක හැඩයට සමාන වක්‍ර රේඛා දෙකකින් සමන්විත වේ.",
         "tags": [
@@ -6241,7 +6241,7 @@
         ],
         "correct_answer": "Figure 2.",
         "images": [
-            "https://sea-man.org/wp-content/uploads/2025/01/ris.-2.jpg"
+            "https://i.ibb.co/NdfChsk2/ris-2.jpg"
         ],
         "explanation": "තයිරිස්ටරය (Thyristor) යනු නෞකාවල විද්‍යුත් පද්ධතිවල බල පාලනය සඳහා බහුලව භාවිතා වන අර්ධ සන්නායක (semiconductor) උපාංගයකි. රූප සටහන 2 මගින් මෙම තයිරිස්ටරයක සංකේතය නිරූපණය කෙරෙන අතර එය මූලික වශයෙන් ඩයෝඩයකට (diode) සමාන වුවද එහි පාලක අග්‍රයක් (control terminal) පවතී. මෙම උපාංගයට ප්‍රධාන අග්‍ර තුනක් ඇති අතර ඒවා ඇනෝඩය (anode), කැතෝඩය (cathode) සහ ගේට්ටුව (gate) ලෙස හඳුන්වනු ලැබේ. ඇනෝඩය සහ කැතෝඩය හරහා ධාරාව ගලා යාම ආරම්භ වීමට නම් ගේට්ටුව හරහා කුඩා විද්‍යුත් ස්පන්දනයක් (trigger pulse) ලබා දිය යුතු අතර සාමාන්‍ය ඩයෝඩයක මෙන් නොව මෙහිදී ධාරාව ගලා යාම පාලනය කිරීමේ හැකියාව පවතී. නාවික ඉංජිනේරු ක්ෂේත්‍රයේදී මෝටර් වේග පාලක (motor speed controllers), ප්‍රත්‍යාවර්තක ධාරා සෘජුකරණ පද්ධති (rectifiers) සහ ස්ථිතික ස්විච (static switches) වැනි උපකරණවල මෙම තයිරිස්ටර බහුලව යොදා ගනු ලබයි. මෙහි ඇති රූප සටහන 2 මගින් පෙන්වන සංකේතයේ ඇති විශේෂිත රේඛාව මගින් ධාරාව ගලායන දිශාව සහ එය ක්‍රියාත්මක කිරීමට අවශ්‍ය වන ගේට්ටුව හෙවත් ගේට් ටර්මිනලය (gate terminal) පැහැදිලිව හඳුනාගත හැකිය. මෙම උපාංගය සිලිකන් පාලිත සෘජුකරණයක් (Silicon Controlled Rectifier) ලෙසද හැඳින්වෙන අතර එය ඉහළ වෝල්ටීයතාවන් සහ ධාරාවන් හැසිරවීමට සමත් වේ. රූප සටහන 2 හි ඇති අතිරේක රේඛාව මගින් ගේට්ටුව නිරූපණය වන බැවින් එය අනෙකුත් ඩයෝඩ සංකේත වලින් පහසුවෙන් වෙන්කර හඳුනාගත හැකිය. තයිරිස්ටරය ක්‍රියාත්මක වූ පසු එය හරහා ගලා යන ධාරාව යම් අවම මට්ටමකට (holding current) වඩා අඩු වන තෙක් හෝ වෝල්ටීයතාවය ප්‍රතිවිරුද්ධ වන තෙක් එය සන්නායක තත්වයේ පවතී.",
         "tags": [
@@ -6687,7 +6687,7 @@
         ],
         "correct_answer": "30 minutes.",
         "images": [
-            "https://sea-man.org/wp-content/uploads/2025/01/b-klass.-1jpg.jpg"
+            "https://i.ibb.co/BHsfQHHg/b-klass-1jpg.jpg"
         ],
         "explanation": "නැව්වල ගිනි ආරක්ෂණ රෙගුලාසි (SOLAS) අනුව, B Class divisions යනු ගින්න පැතිරීම වැළැක්වීම සඳහා නිර්මාණය කර ඇති කොටස් වේ. මේවා මිනිත්තු 30ක සම්මත ගිනි පරීක්ෂණයකට (standard fire test) ඔරොත්තු දෙන පරිදි සකස් කර ඇත. අනෙක් විකල්ප වැරදි වන්නේ: 60 minutes යනු A Class divisions සඳහා වන පරීක්ෂණ කාල සීමාවන් සමඟ සම්බන්ධ විය හැකි අගයකි. 15 සහ 45 minutes යනු B Class divisions සඳහා නියමිත සම්මත පරීක්ෂණ කාලය නොවේ.",
         "tags": [
@@ -6713,7 +6713,7 @@
         ],
         "correct_answer": "EPIRB.",
         "images": [
-            "https://sea-man.org/wp-content/uploads/2025/01/SIMVOL-5.jpg"
+            "https://i.ibb.co/svzpmthQ/SIMVOL-5.jpg"
         ],
         "explanation": "EPIRB යන සංකේතයෙන් අදහස් කරන්නේ Emergency Position Indicating Radio Beacon. මෙය මුහුදේදී හදිසි තත්ත්වයකට පත්වූවන්ගේ පිහිටීම (location) හඳුනාගැනීම සඳහා යොදාගන්නා උපකරණයකි. මෙම උපකරණය ක්‍රියාත්මක වූ විට, එය චන්ද්‍රිකා (satellite) හරහා අනතුරක් සිදුව ඇති ස්ථානය පිළිබඳව අන්තර්ජාතික මුදවා ගැනීමේ මධ්‍යස්ථානවලට (International Rescue Coordination Centres) දැනුම් දෙනු ඇත. මෙමගින් මුදවා ගැනීමේ කණ්ඩායම්වලට (rescue teams) ඉක්මනින් සහ නිවැරදිව අනතුරට පත්වූවන් සොයා ගැනීමට හැකියාව ලැබේ. EPIRB උපකරණ විවිධ වර්ගවලින් ලබාගත හැකි අතර, ඒවායේ ක්‍රියාකාරීත්වය සහ බලප්‍රදේශය (range) වෙනස් විය හැක.",
         "tags": [
@@ -6859,7 +6859,7 @@
         ],
         "correct_answer": "Relatively non linear characteristic.",
         "images": [
-            "https://sea-man.org/wp-content/uploads/2025/01/TERMISTR.jpg"
+            "https://i.ibb.co/tRvKs0c/TERMISTR.jpg"
         ],
         "explanation": "තර්මිස්ටර් (Thermistor) යනු උෂ්ණත්වය වෙනස් වන විට එහි විද්‍යුත් ප්‍රතිරෝධය වෙනස් වන උපකරණයකි. PTC (Positive Temperature Coefficient) තර්මිස්ටර් වලදී උෂ්ණත්වය වැඩි වන විට ප්‍රතිරෝධය වැඩි වේ. මෙම ප්‍රතිරෝධය වෙනස් වීම උෂ්ණත්වය සමඟ රේඛීය (Linear) නොවන අතර එය වක්‍ර හැඩයක් ගනී. එබැවින් 'Relatively non linear characteristic' යනු නිවැරදි පිළිතුරයි. අනෙක් පිළිතුරු වැරදි වන්නේ: 'A linear characteristic' යනු වැරදියි, මන්ද තර්මිස්ටර් වල ප්‍රතිචාරය රේඛීය නොවන බැවිනි. 'A constant resistance' යනු වැරදියි, මන්ද තර්මිස්ටර් වල ප්‍රධාන කාර්යය උෂ්ණත්වය අනුව ප්‍රතිරෝධය වෙනස් කිරීමයි. 'A negative temperature coefficient' යනු වැරදියි, මන්ද එය NTC තර්මිස්ටර් සඳහා පමණක් අදාළ වන අතර PTC සඳහා ප්‍රතිවිරුද්ධ ක්‍රියාවලියක් සිදු වේ.",
         "tags": [

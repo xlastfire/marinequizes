@@ -12,7 +12,7 @@
         ],
         "correct_answer": "1 M Ohms.",
         "images": [
-            "https://sea-man.org/icons/ces_resi1.jpg"
+            "https://i.ibb.co/4nLR4Swt/ces-resi1.jpg"
         ],
         "explanation": "",
         "tags": []
@@ -30,7 +30,7 @@
         ],
         "correct_answer": "Pressure to the current converter.",
         "images": [
-            "https://sea-man.org/icons/ces_device.jpg"
+            "https://i.ibb.co/99BbYsKH/ces-device.jpg"
         ],
         "explanation": "",
         "tags": []
@@ -46,7 +46,7 @@
         ],
         "correct_answer": "The amount of apparent power that could flow into any fault at any point in the electrical network.",
         "images": [
-            "https://sea-man.org/icons/ces_resi2.jpg"
+            "https://i.ibb.co/N6ky5b70/ces-resi2.jpg"
         ],
         "explanation": "",
         "tags": []
@@ -62,7 +62,7 @@
         ],
         "correct_answer": "Vacuum.",
         "images": [
-            "https://sea-man.org/icons/ces_resi3.jpg"
+            "https://i.ibb.co/xKxKq7Q6/ces-resi3.jpg"
         ],
         "explanation": "",
         "tags": []
@@ -78,7 +78,7 @@
         ],
         "correct_answer": "40 kA.",
         "images": [
-            "https://sea-man.org/icons/ces_fuse.jpg"
+            "https://i.ibb.co/RpcBj04w/ces-fuse.jpg"
         ],
         "explanation": "",
         "tags": []
@@ -94,7 +94,7 @@
         ],
         "correct_answer": "Line fuses and overcurrent relays.",
         "images": [
-            "https://sea-man.org/icons/ces_protective.jpg"
+            "https://i.ibb.co/zCPCW1w/ces-protective.jpg"
         ],
         "explanation": "",
         "tags": []
@@ -110,7 +110,7 @@
         ],
         "correct_answer": "The input impedance is made much larger than the output impedance.",
         "images": [
-            "https://sea-man.org/icons/ces_emmiter.jpg"
+            "https://i.ibb.co/0VMpryGh/ces-emmiter.jpg"
         ],
         "explanation": "",
         "tags": []
@@ -128,7 +128,7 @@
         ],
         "correct_answer": "Differential amplifier.",
         "images": [
-            "https://sea-man.org/icons/ces_amplify.jpg"
+            "https://i.ibb.co/cS8t6zR0/ces-amplify.jpg"
         ],
         "explanation": "",
         "tags": []
@@ -146,7 +146,7 @@
         ],
         "correct_answer": "Integrator.",
         "images": [
-            "https://sea-man.org/icons/ces_integrator.jpg"
+            "https://i.ibb.co/xKGfgBHR/ces-integrator.jpg"
         ],
         "explanation": "",
         "tags": []
@@ -164,7 +164,7 @@
         ],
         "correct_answer": "Differentiator.",
         "images": [
-            "https://sea-man.org/icons/ces_dif.jpg"
+            "https://i.ibb.co/KzqsMkKM/ces-dif.jpg"
         ],
         "explanation": "",
         "tags": []
@@ -182,7 +182,7 @@
         ],
         "correct_answer": "Protect the SCR against damage caused by fast high voltage spikes.",
         "images": [
-            "https://sea-man.org/icons/ces_dif.jpg"
+            "https://i.ibb.co/S42JBYJc/ces-dif.jpg"
         ],
         "explanation": "",
         "tags": []
@@ -200,7 +200,7 @@
         ],
         "correct_answer": "fo = 1/(2*Pi*sqrt(L/C)).",
         "images": [
-            "https://sea-man.org/icons/ces_circuit.jpg"
+            "https://i.ibb.co/fVVBnLf3/ces-circuit.jpg"
         ],
         "explanation": "",
         "tags": []
@@ -218,7 +218,7 @@
         ],
         "correct_answer": "Figure 1.",
         "images": [
-            "https://sea-man.org/icons/ces_scr.jpg"
+            "https://i.ibb.co/XfHC206z/ces-scr.jpg"
         ],
         "explanation": "",
         "tags": []
@@ -236,7 +236,7 @@
         ],
         "correct_answer": "Figure B.",
         "images": [
-            "https://sea-man.org/icons/ces_filter.jpg"
+            "https://i.ibb.co/tp7bH4JT/ces-filter.jpg"
         ],
         "explanation": "",
         "tags": []
@@ -254,7 +254,7 @@
         ],
         "correct_answer": "Figure 1.",
         "images": [
-            "https://sea-man.org/icons/ces_output.jpg"
+            "https://i.ibb.co/CpygPLyS/ces-output.jpg"
         ],
         "explanation": "",
         "tags": []
@@ -270,7 +270,7 @@
         ],
         "correct_answer": "Allowing stored energy in solenoid to dissipate as freewheel current, and therefore prevent damage to transistor from inductive switching voltage.",
         "images": [
-            "https://sea-man.org/icons/ces_solenoid.jpg"
+            "https://i.ibb.co/Wvc0Mc6q/ces-solenoid.jpg"
         ],
         "explanation": "",
         "tags": []
@@ -288,7 +288,7 @@
         ],
         "correct_answer": "Return inductive current to supply at switch off.",
         "images": [
-            "https://sea-man.org/icons/ces_diode.jpg"
+            "https://i.ibb.co/chNTjrgq/ces-diode.jpg"
         ],
         "explanation": "",
         "tags": []
@@ -306,7 +306,7 @@
         ],
         "correct_answer": "OR gate.",
         "images": [
-            "https://sea-man.org/icons/ces_gate.jpg"
+            "https://i.ibb.co/8TQy5Gg/ces-gate.jpg"
         ],
         "explanation": "",
         "tags": []
@@ -324,7 +324,7 @@
         ],
         "correct_answer": "R1/R2 = R3/R4.",
         "images": [
-            "https://sea-man.org/icons/ces_resi4.jpg"
+            "https://i.ibb.co/W4jM9qwG/ces-resi4.jpg"
         ],
         "explanation": "",
         "tags": []
@@ -342,7 +342,7 @@
         ],
         "correct_answer": "Differentiating.",
         "images": [
-            "https://sea-man.org/icons/ces_dif2.jpg"
+            "https://i.ibb.co/sJHcS0Km/ces-dif2.jpg"
         ],
         "explanation": "",
         "tags": []
@@ -360,7 +360,7 @@
         ],
         "correct_answer": "AND.",
         "images": [
-            "https://sea-man.org/icons/ces_gate2.jpg"
+            "https://i.ibb.co/G4NbkJMD/ces-gate2.jpg"
         ],
         "explanation": "",
         "tags": []
@@ -378,7 +378,7 @@
         ],
         "correct_answer": "G = 1/R.",
         "images": [
-            "https://sea-man.org/icons/ces_siemens.jpg"
+            "https://i.ibb.co/czYG0NL/ces-siemens.jpg"
         ],
         "explanation": "",
         "tags": []
@@ -396,7 +396,7 @@
         ],
         "correct_answer": "4,6 V.",
         "images": [
-            "https://sea-man.org/icons/ces_dc.jpg"
+            "https://i.ibb.co/3YdftNbz/ces-dc.jpg"
         ],
         "explanation": "",
         "tags": []
@@ -1227,7 +1227,7 @@
         ],
         "correct_answer": "5 and 6.",
         "images": [
-            "https://sea-man.org/icons/ces_starter.jpg"
+            "https://i.ibb.co/7NvgfnJq/ces-starter.jpg"
         ],
         "explanation": "මෙම circuit diagram එක විශ්ලේෂණය කිරීමේදී, starter motor එකේ ක්‍රියාකාරිත්වය සඳහා අවශ්‍ය බල සැපයුම සහ control circuit එක සම්බන්ධ වී ඇති ආකාරය නිරීක්ෂණය කළ යුතුය. මෙහි 5 සහ 6 යන terminals මගින් starter solenoid එක හරහා starter motor එකට ප්‍රධාන බල සැපයුම (Main power supply) සම්බන්ධ වේ. අනෙකුත් විකල්පයන් වන 1 සහ 2, 3 සහ 4 මගින් සාමාන්‍යයෙන් control circuit හෝ වෙනත් auxiliary components නිරූපණය කෙරේ. එබැවින්, starter එක සම්බන්ධ වී ඇත්තේ 5 සහ 6 terminals අතර බව පැහැදිලිය.",
         "tags": []
@@ -1470,7 +1470,7 @@
         ],
         "correct_answer": "Figure 1.",
         "images": [
-            "https://sea-man.org/icons/ces_accuracy.jpg"
+            "https://i.ibb.co/1JQR4Mhx/ces-accuracy.jpg"
         ],
         "explanation": "Pt 100 sensor එකක මිනුම් නිරවද්‍යතාවය (measuring accuracy) රඳා පවතින්නේ සම්බන්ධක වයර්වල ඇති Resistance එක මගින් මිනුම්වලට සිදුවන බලපෑම අවම කිරීම මතයි. Figure 1 හි දැක්වෙන්නේ 4-wire configuration එකයි. මෙහිදී වයර් දෙකක් මගින් sensor එකට excitation current එක ලබා දෙන අතර අනෙක් වයර් දෙක මගින් voltage drop එක මනිනු ලබයි. මෙහිදී මිනුම් උපකරණයට (measuring instrument) ඉහළ input impedance එකක් ඇති බැවින්, මිනුම් වයර් හරහා ධාරාව ගලා නොයන තරම්ය. එමනිසා වයර්වල ඇති Resistance එක මිනුම්වලට බලපාන්නේ නැත. Figure 2 (2-wire) හි වයර්වල Resistance එක මිනුමට එකතු වන නිසා දෝෂ සහිත වේ. Figure 3 (3-wire) මගින් දෝෂය යම්තාක් දුරට අඩු කළද, Figure 1 තරම් නිරවද්‍ය නොවේ. එබැවින් 4-wire ක්‍රමය (Figure 1) වඩාත්ම නිරවද්‍ය වේ.",
         "tags": []
@@ -1538,7 +1538,7 @@
         ],
         "correct_answer": "Thermocouple sensor.",
         "images": [
-            "https://sea-man.org/icons/ces_meter.jpg"
+            "https://i.ibb.co/YFW6tq3J/ces-meter.jpg"
         ],
         "explanation": "",
         "tags": []
@@ -1556,7 +1556,7 @@
         ],
         "correct_answer": "Bandpass filter.",
         "images": [
-            "https://sea-man.org/icons/ces_symbol.jpg"
+            "https://i.ibb.co/7NyKhsDM/ces-symbol.jpg"
         ],
         "explanation": "",
         "tags": []

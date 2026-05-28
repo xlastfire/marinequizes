@@ -779,7 +779,7 @@
         ],
         "correct_answer": "Bandpass filter.",
         "images": [
-            "https://sea-man.org/wp-content/uploads/2023/06/symbol.jpg"
+            "https://i.ibb.co/H53ttkc/symbol.jpg"
         ],
         "explanation": "මෙම ප්‍රශ්නයේ දැක්වෙන සංකේතය ඉලෙක්ට්‍රොනික පරිපථවල භාවිතා වන Bandpass filter එකක් නිරූපණය කරයි. Bandpass filter එකක් මගින් යම් නිශ්චිත සංඛ්‍යාත පරාසයකට (frequency range) අයත් සංඥා පමණක් ගමන් කිරීමට ඉඩ ලබා දී, එම පරාසයට පිටතින් ඇති අනෙකුත් සංඛ්‍යාත අවහිර කරනු ලබයි. අනෙකුත් විකල්ප සලකා බැලීමේදී: Electric heater එකක් සඳහා සාමාන්‍යයෙන් ප්‍රතිරෝධක සංකේතයක් (resistor symbol) භාවිතා වේ. 3-phase sine-wave generator එකක් සඳහා සාමාන්‍යයෙන් වෘත්තයක් තුළ AC සංකේතය හෝ 3-phase සම්බන්ධතාවයක් දැක්වෙන සංකේතයක් භාවිතා වේ. එබැවින්, ලබා දී ඇති රූප සටහන Bandpass filter එකක් සඳහා වන සම්මත සංකේතය බව තහවුරු වේ.",
         "tags": []
@@ -796,7 +796,7 @@
         ],
         "correct_answer": "V (2) = 50 V.",
         "images": [
-            "https://sea-man.org/wp-content/uploads/2023/06/scheme.jpg"
+            "https://i.ibb.co/pN3dh5n/scheme.jpg"
         ],
         "explanation": "Transformer එකක Voltage ratio එක සහ Turns ratio එක අතර සම්බන්ධය V(1)/V(2) = N(1)/N(2) ලෙස දැක්විය හැක. මෙහි N(1) = 2000, N(2) = 1000 සහ V(1) = 100V වේ. අපට V(2) සෙවීමට අවශ්‍ය බැවින්, සූත්‍රය V(2) = V(1) * (N(2)/N(1)) ලෙස සකසා ගත හැක. අගයන් ආදේශ කළ විට V(2) = 100 * (1000/2000) = 100 * 0.5 = 50V ලැබේ. අනෙක් පිළිතුරු වැරදි වන්නේ ඒවා මෙම Turns ratio එකට අනුකූල නොවන බැවිනි. උදාහරණයක් ලෙස 200V යනු Step-up transformer එකක් සඳහා ලැබෙන අගයක් වන අතර, 400V සහ 10V ගණිතමය වශයෙන් වැරදි අගයන් වේ.",
         "tags": []
@@ -1140,7 +1140,7 @@
         ],
         "correct_answer": "Figure 1.",
         "images": [
-            "https://sea-man.org/wp-content/uploads/2023/06/scheme-1.jpg"
+            "https://i.ibb.co/8DjPN2GZ/scheme-1.jpg"
         ],
         "explanation": "මෙම ප්‍රශ්නය RC circuit එකක Charging process එකට අදාළ වේ. ස්විචය (Switch S) position 1 සිට 2 වෙත මාරු කළ විට, Capacitor එක Voltage source එක හරහා Resistor එකක් ඔස්සේ ආරෝපණය (Charge) වීමට පටන් ගනී. Capacitor එකක Charging curve එක සැමවිටම Exponential growth එකක් පෙන්නුම් කරයි. මෙහිදී t=0 අවස්ථාවේදී Capacitor voltage එක ශුන්‍ය (0) වන අතර, කාලය ගතවත්ම එය උපරිම අගය (V) කරා ළඟා වේ. Figure 1 මගින් මෙම Exponential charging curve එක නිවැරදිව නිරූපණය කරයි. අනෙක් රූප (Figure 2, 3, 4) මගින් Linear growth, Discharge, හෝ වැරදි වක්‍ර පෙන්නුම් කරන බැවින් ඒවා වැරදිය. එබැවින් Figure 1 නිවැරදි පිළිතුර වේ.",
         "tags": []
@@ -1157,7 +1157,7 @@
         ],
         "correct_answer": "Differentiating.",
         "images": [
-            "https://sea-man.org/wp-content/uploads/2023/06/function.jpg"
+            "https://i.ibb.co/XrYS1L5z/function.jpg"
         ],
         "explanation": "මෙම පරිපථය (circuit) විශ්ලේෂණය කිරීමේදී, මෙහි ඇති Operational Amplifier (Op-Amp) එකෙහි Input එකට Capacitor එකක් සහ Feedback path එකට Resistor එකක් සම්බන්ධ කර ඇත. මෙය සම්භාව්‍ය 'Differentiator' පරිපථයක සැකසුමයි. මෙහිදී Output voltage එක, Input voltage එකෙහි කාලය අනුව සිදුවන වෙනස්වීමේ වේගයට (rate of change) සමානුපාතික වේ. අනෙකුත් විකල්ප සලකා බලමු: 'Integrating' පරිපථයකදී Capacitor එක සහ Resistor එක මාරු වී පිහිටයි. 'Modulating' යනු සංඥාවක් තවත් වාහක තරංගයක් මත තැන්පත් කිරීමයි, එය මෙහි සිදු නොවේ. 'Telemetering' යනු දත්ත දුරස්ථ ස්ථානයකට යැවීමේ ක්‍රියාවලියකි. එබැවින්, මෙම පරිපථය නිවැරදිව Differentiating කාර්යය ඉටු කරයි.",
         "tags": []
@@ -1198,7 +1198,7 @@
         ],
         "correct_answer": "R(Pt100) = R1-R2.",
         "images": [
-            "https://sea-man.org/wp-content/uploads/2023/06/diagramm.jpg"
+            "https://i.ibb.co/Xr5mV2Rg/diagramm.jpg"
         ],
         "explanation": "PT100 sensor එකක Lead wire resistance එක නිසා ඇතිවන දෝෂ මගහරවා ගැනීමට 3-wire configuration එක භාවිතා කරයි. මෙහිදී R1 යනු Sensor resistance සහ Lead wire resistance එකෙහි එකතුවයි. R2 යනු Lead wire resistance එක පමණි. අපට අවශ්‍ය වන්නේ සැබෑ Sensor resistance එක පමණක් බැවින්, මුළු ප්‍රතිරෝධයෙන් (R1) Lead wire ප්‍රතිරෝධය (R2) අඩු කළ යුතුය. එනම් R(Pt100) = R1 - R2 වේ. අනෙක් පිළිතුරු (එකතු කිරීම, බෙදීම හෝ ගුණ කිරීම) වැරදියි, මන්ද ඒවා මගින් සැබෑ Sensor resistance එක ලබාගත නොහැකි බැවිනි.",
         "tags": []
@@ -1215,7 +1215,7 @@
         ],
         "correct_answer": "Figure 3.",
         "images": [
-            "https://sea-man.org/wp-content/uploads/2023/06/figure.jpg"
+            "https://i.ibb.co/jZbnWVzD/figure.jpg"
         ],
         "explanation": "PID controller එකක Reset time (Integral time - Ti) යනු පද්ධතියේ ඇතිවන steady-state error එක ඉවත් කිරීමට උපකාරී වන පරාමිතියයි. Reset time එක ඉතා කුඩා (too small) වූ විට, Integral action එක ඉතා වේගවත් වන අතර එය පද්ධතියේ instability එකක් ඇති කරයි. මෙහිදී පද්ධතියේ output එක setpoint එක වටා දැඩි ලෙස දෝලනය (excessive oscillation) වීමට පටන් ගනී. Figure 1 මගින් පෙන්වන්නේ පද්ධතියේ damping එක අධික වීමයි. Figure 2 මගින් පෙන්වන්නේ නිවැරදි response එකයි. Figure 3 මගින් පෙන්වන්නේ Reset time එක ඉතා කුඩා වූ විට සිදුවන අධික දෝලනයන් (hunting) සහිත response එකයි. Figure 4 මගින් පෙන්වන්නේ පද්ධතියේ instability එක ඉතා වැඩි වී පද්ධතිය අසාර්ථක වන අවස්ථාවයි. එබැවින්, Reset time එක ඉතා කුඩා වූ විට ඇතිවන නිවැරදි response එක Figure 3 වේ.",
         "tags": []
@@ -1232,7 +1232,7 @@
         ],
         "correct_answer": "Figure 3.",
         "images": [
-            "https://sea-man.org/wp-content/uploads/2023/06/electric_scheme.jpg"
+            "https://i.ibb.co/JWYLLzBV/electric-scheme.jpg"
         ],
         "explanation": "Bipolar Junction Transistor (BJT) එකක NPN සහ PNP වර්ග හඳුනා ගැනීමට එහි 'Emitter' පර්යන්තයේ ඇති ඊතලයේ දිශාව භාවිතා කරයි. NPN ට්‍රාන්සිස්ටරයක, ඊතලය 'Base' දෙසට නොව පිටතට (Not Pointing iN) යොමු වී ඇත. එනම් ඊතලය Emitter සිට පිටතට යොමු වී තිබේ නම් එය NPN වේ. අනෙක් අතට, ඊතලය ඇතුළතට (Pointing iN) යොමු වී ඇත්නම් එය PNP ට්‍රාන්සිස්ටරයකි. ලබා දී ඇති රූප සටහන්වල Figure 3 මගින් නිරූපණය කරන්නේ Emitter ඊතලය පිටතට යොමු වූ NPN ට්‍රාන්සිස්ටරයයි. අනෙක් රූපවල ඇති සංකේත වෙනත් ඉලෙක්ට්‍රොනික උපාංග (උදාහරණ ලෙස PNP ට්‍රාන්සිස්ටර හෝ ඩයෝඩ) නිරූපණය කරන බැවින් ඒවා වැරදි වේ.",
         "tags": []
@@ -1365,7 +1365,7 @@
         ],
         "correct_answer": "Divert fast voltage spikes which may lead to uncontrolled switch on.",
         "images": [
-            "https://sea-man.org/wp-content/uploads/2023/06/tiristor.jpg"
+            "https://i.ibb.co/mFqKfNVj/tiristor.jpg"
         ],
         "explanation": "මෙම පරිපථයේ ඇති RC ජාලය (RC network) හඳුන්වනු ලබන්නේ Snubber circuit ලෙසයි. Thyristor එකක් හරහා ඉතා වේගයෙන් වෝල්ටීයතාවය වෙනස් වුවහොත් (high dv/dt), එය අනවශ්‍ය ලෙස (uncontrolled) 'ON' වීමට ඉඩ ඇත. මෙවැනි හදිසි Voltage spikes අවම කර Thyristor එක ආරක්ෂා කිරීම සඳහා මෙම RC ජාලය භාවිතා කරයි. අනෙක් පිළිතුරු වැරදි වීමට හේතු: 1. මෙය Voltage smoothing සඳහා භාවිතා කරන Filter එකක් නොවේ. 2. මෙය SCR එක 'ON' වීමට උදව් කරන පරිපථයක් නොවේ (Gate triggering සඳහා වෙනත් පරිපථ ඇත). 3. මෙය AC signals සඳහා bypass route එකක් ලෙස ක්‍රියා නොකරයි. එබැවින්, 'Divert fast voltage spikes which may lead to uncontrolled switch on' යන්න නිවැරදි පිළිතුර වේ.",
         "tags": []
