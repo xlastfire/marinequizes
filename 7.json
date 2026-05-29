@@ -3221,11 +3221,8 @@
             "Ignore the alarm.",
             "Get out of the engine room as soon as possible.",
             "Awaiting further order.",
-            "Get into the control room.",
-            "correct_answer",
-            "Get out of the engine room as soon as possible.",
-            "images",
-            "https://sea-man.org/wp-content/uploads/2023/03/co2-1.jpg"
+            "Get into the control room."
+            
         ],
         "correct_answer": "Get out of the engine room as soon as possible.",
         "images": [
