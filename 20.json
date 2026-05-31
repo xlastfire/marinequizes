@@ -99,8 +99,7 @@
             "Then.",
             "That.",
             "To check.",
-            "To ignore.",
-            "To check."
+            "To ignore."
         ],
         "correct_answer": "To check.",
         "images": [],
@@ -611,8 +610,7 @@
             "Associated with.",
             "Contained with.",
             "Assessment.",
-            "Assured by.",
-            "Associated with."
+            "Assured by."
         ],
         "correct_answer": "Associated with.",
         "images": [],
@@ -812,8 +810,7 @@
             "Need to meet.",
             "On condition.",
             "Have meeting.",
-            "Are met.",
-            "Need to meet."
+            "Are met."
         ],
         "correct_answer": "Need to meet.",
         "images": [],
@@ -1761,8 +1758,7 @@
             "Can cause.",
             "Engine.",
             "Will.",
-            "Because.",
-            "Can cause."
+            "Because."
         ],
         "correct_answer": "Can cause.",
         "images": [],

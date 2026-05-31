@@ -115,8 +115,7 @@
             "Remove the load from the alternator to be stopped.",
             "Make sure the load is evenly shared.",
             "Increase the frequency on the switchboard.",
-            "Trip the main circuit breaker.",
-            "Remove the load from the alternator to be stopped."
+            "Trip the main circuit breaker."
         ],
         "correct_answer": "Remove the load from the alternator to be stopped.",
         "images": [],
@@ -156,7 +155,6 @@
             "Prior to arrival and departure from port and following maintenance.",
             "Only following drydock.",
             "Only at stand by engines.",
-            "Only at stand by engines.",
             "Only following maintenance."
         ],
         "correct_answer": "Prior to arrival and departure from port and following maintenance.",
@@ -179,7 +177,6 @@
         "question": "A ship has a medium speed engine and a controllable pitch propeller propulsion system. What would the propeller pitch normally have to be at to allow starting of the engine?",
         "answers": [
             "Zero.",
-            "25 % ahead.",
             "25 % ahead.",
             "10 % ahead.",
             "25 % astern."
@@ -1284,7 +1281,6 @@
             "Problems with a vacuum circuit breaker.",
             "Arcing at badly coupled bus bars.",
             "Burning of insulation."
-            
         ],
         "correct_answer": "Problems with a gas (SF6) circuit breaker.",
         "images": [],
@@ -1380,8 +1376,7 @@
             "To ensure the strength of the oil film is sufficient to keep lubricated surfaces apart.",
             "To reduce system pressure losses.",
             "It is not important.",
-            "To neutralise any acids that may form.",
-            "To ensure the strength of the oil film is sufficient to keep lubricated surfaces apart."
+            "To neutralise any acids that may form."
         ],
         "correct_answer": "To ensure the strength of the oil film is sufficient to keep lubricated surfaces apart.",
         "images": [],
@@ -2782,8 +2777,7 @@
             "Fuel timing is retarded.",
             "Scavenge pressure is too high.",
             "Fuel timing is advanced.",
-            "Partially blocked fuel injection valve.",
-            "Fuel timing is retarded."
+            "Partially blocked fuel injection valve."
         ],
         "correct_answer": "Fuel timing is retarded.",
         "images": [],
@@ -2807,8 +2801,7 @@
             "3 phase, 3-wire neutral earthed.",
             "3 phase, 4-wire insulated.",
             "Single phase, 2-wire neutral earthed.",
-            "3 phase, 3-wire insulated.",
-            "3 phase, 3-wire neutral earthed."
+            "3 phase, 3-wire insulated."
         ],
         "correct_answer": "3 phase, 3-wire neutral earthed.",
         "images": [],
@@ -3022,8 +3015,7 @@
             "Faulty cylinder component (piston, rings, liner, etc.).",
             "Excessive cooling of the charge air.",
             "Faulty high pressure fuel pump.",
-            "Faulty turbocharger.",
-            "Faulty cylinder component (piston, rings, liner, etc.)."
+            "Faulty turbocharger."
         ],
         "correct_answer": "Faulty cylinder component (piston, rings, liner, etc.).",
         "images": [],
@@ -3310,7 +3302,6 @@
         "answers": [
             "Yellow.",
             "Green.",
-            "Green.",
             "Red.",
             "White."
         ],
@@ -3386,7 +3377,6 @@
             "The proximity switch is loose on its mounting.",
             "The shaft magnet has fallen off.",
             "The shaft magnet has become demagnetised.",
-            "The proximity switch has dirt on the outside casing.",
             "The proximity switch has dirt on the outside casing."
         ],
         "correct_answer": "The proximity switch is loose on its mounting.",
@@ -3505,7 +3495,6 @@
         "question": "The pressure in the fresh water cooling system for a diesel engine is fluctuating while the engine is running. When the engine is stopped the pressure is steady. What is the likely cause of this problem?",
         "answers": [
             "The engine has a cracked cylinder liner or cylinder cover.",
-            "The fresh water circulating pump is damaged.",
             "The fresh water circulating pump is damaged.",
             "The fresh water expansion tank is empty."
         ],
@@ -4014,8 +4003,7 @@
             "Contamination from lubricating oil leakage into the cooling system.",
             "Exhaust gas leakage into the cooling water system.",
             "Excessive evaporation of cooling water during operation.",
-            "Incorrect mixing of fresh water and seawater in the system.",
-            "Exhaust gas leakage into the cooling water system."
+            "Incorrect mixing of fresh water and seawater in the system."
         ],
         "correct_answer": "Exhaust gas leakage into the cooling water system.",
         "images": [],
@@ -4035,8 +4023,7 @@
             "Continue operating in UMS mode without any changes as long as alarms are active.",
             "Operate the engine room on manual mode until the maintenance is completed and the cooling pump is operational and switched to stand-by mode.",
             "Shut down the main engine immediately and wait for external assistance.",
-            "Reduce crew presence in the engine room to avoid unnecessary workload.",
-            "Operate the engine room on manual mode until the maintenance is completed and the cooling pump is operational and switched to stand-by mode."
+            "Reduce crew presence in the engine room to avoid unnecessary workload."
         ],
         "correct_answer": "Operate the engine room on manual mode until the maintenance is completed and the cooling pump is operational and switched to stand-by mode.",
         "images": [],
@@ -4228,8 +4215,7 @@
             "Discharge the ashes directly into the sea in deep water.",
             "Discharge to a shore facility only.",
             "Store the ashes in the engine room until next port.",
-            "Mix the ashes with general waste and dispose overboard.",
-            "Store the ashes in the engine room until next port."
+            "Mix the ashes with general waste and dispose overboard."
         ],
         "correct_answer": "Discharge to a shore facility only.",
         "images": [],
@@ -4639,8 +4625,7 @@
             "Low fuel injection pressure.",
             "Faulty cylinder component (piston rings, liner, etc.).",
             "Air start valve malfunction.",
-            "Turbocharger failure.",
-            "Faulty cylinder component (piston rings, liner, etc.)."
+            "Turbocharger failure."
         ],
         "correct_answer": "Faulty cylinder component (piston rings, liner, etc.).",
         "images": [],
@@ -4735,7 +4720,6 @@
         "answers": [
             "Two in total, regardless of ship size.",
             "One on each side of the ship.",
-            "One for every lifeboat onboard.",
             "One for every lifeboat onboard.",
             "Three units distributed across the vessel."
         ],
@@ -5047,7 +5031,6 @@
             "Less than 0,05 Ohm.",
             "Between 0,1 and 1,0 Ohm.",
             "Between 1,5 and 2,0 Ohm.",
-            "More than 2,5 Ohm.",
             "More than 2,5 Ohm."
         ],
         "correct_answer": "Between 0,1 and 1,0 Ohm.",
@@ -5589,8 +5572,7 @@
             "Natural rubber sheet of approximately the same thickness and elasticity as the original diaphragm material.",
             "Thin plastic sheet with low elasticity.",
             "Metal foil with high rigidity.",
-            "Paper sheet coated with adhesive on one side.",
-            "Natural rubber sheet of approximately the same thickness and elasticity as the original diaphragm material."
+            "Paper sheet coated with adhesive on one side."
         ],
         "correct_answer": "Natural rubber sheet of approximately the same thickness and elasticity as the original diaphragm material.",
         "images": [],
@@ -6105,7 +6087,6 @@
         "question": "Why should engine and boiler rooms be kept clean and any oil spillage cleaned up immediately?",
         "answers": [
             "To reduce risk of fire and the risk of slipping.",
-            "To improve the aesthetic appearance of the engine room.",
             "To improve the aesthetic appearance of the engine room.",
             "To ensure smooth operation of machinery and increase efficiency.",
             "To prevent the buildup of rust and corrosion on machinery."
@@ -7245,8 +7226,7 @@
             "The coalescer module is saturated and requires renewal.",
             "The air compressor is malfunctioning.",
             "The final filter is clogged.",
-            "The system pressure is too low.",
-            "The coalescer module is saturated and requires renewal."
+            "The system pressure is too low."
         ],
         "correct_answer": "The coalescer module is saturated and requires renewal.",
         "images": [],
@@ -7550,8 +7530,7 @@
             "The meter is worn internally.",
             "The low lubricity of the diesel oil is increasing the friction in the rotating element and slowing the rotor down.",
             "The higher viscosity of the heavy oil is slowing down the rotary element in the meter.",
-            "The lower mass of diesel oil results in a lower reading.",
-            "The meter is worn internally."
+            "The lower mass of diesel oil results in a lower reading."
         ],
         "correct_answer": "The meter is worn internally.",
         "images": [],

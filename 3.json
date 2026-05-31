@@ -10210,8 +10210,7 @@
             "A device that stores electrical energy.",
             "A device that acts as a fuse as well as a switch.",
             "A device that increases voltage.",
-            "A device that measures current.",
-            "A device that acts as a fuse as well as a switch."
+            "A device that measures current."
         ],
         "correct_answer": "A device that acts as a fuse as well as a switch.",
         "images": [],

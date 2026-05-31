@@ -7,8 +7,7 @@
             "Renew only the plunger if the barrel appears undamaged.",
             "Renew the plunger and barrel insert as a pair.",
             "Smooth away the damaged area with a grinder and polishing stone and refit it.",
-            "Replace the complete pump with a new or reconditioned spare.",
-            "Renew the plunger and barrel insert as a pair."
+            "Replace the complete pump with a new or reconditioned spare."
         ],
         "correct_answer": "Renew the plunger and barrel insert as a pair.",
         "images": [],
@@ -28,8 +27,7 @@
             "The auxiliary condenser.",
             "The engine room bilges.",
             "The atmosphere via the atmospheric line.",
-            "The main condenser.",
-            "The atmosphere via the atmospheric line."
+            "The main condenser."
         ],
         "correct_answer": "The atmosphere via the atmospheric line.",
         "images": [],
@@ -421,8 +419,7 @@
             "Sound the General Alarm and stop engines.",
             "Contact the other ship and send the bridge lookout down to start taking soundings.",
             "Call the Master and check the position for any immediate dangers.",
-            "Stop engines and check over the side for any signs of pollution.",
-            "Sound the General Alarm and stop engines."
+            "Stop engines and check over the side for any signs of pollution."
         ],
         "correct_answer": "Sound the General Alarm and stop engines.",
         "images": [],
@@ -719,7 +716,6 @@
             "Notify Deck Officer and Engineer Officer in charge. The loop for the smoke detector should be isolated while work is done and normal precautions for hot work taken including permit to work.",
             "Disconnect or cover up the smoke detector.",
             "No special precautions except for having a watch man and a fire extinguisher available.",
-            "Notify Deck Officer and Engineer Officer in charge. The loop for the smoke detector should be isolated while work is done and normal precautions for hot work taken including permit to work.",
             "Notify Deck Officer in charge that a fire alarm may occur."
         ],
         "correct_answer": "Notify Deck Officer and Engineer Officer in charge. The loop for the smoke detector should be isolated while work is done and normal precautions for hot work taken including permit to work.",
@@ -1517,7 +1513,6 @@
             "Organise a lookout system. Join up with other survival craft if possible. Stream the sea anchor.",
             "Organise a lookout system.",
             "Join up with any other survival craft and stream the sea anchor.",
-            "Start paddling in the direction of the nearest land.",
             "Start paddling in the direction of the nearest land."
         ],
         "correct_answer": "Organise a lookout system. Join up with other survival craft if possible. Stream the sea anchor.",
@@ -1860,8 +1855,7 @@
             "Lubricating oil pressure too low.",
             "Charge air pressure too low.",
             "Jacket cooling water temperature too high.",
-            "Water in the fuel oil.",
-            "Lubricating oil pressure too low."
+            "Water in the fuel oil."
         ],
         "correct_answer": "Lubricating oil pressure too low.",
         "images": [],
@@ -2528,7 +2522,6 @@
             "A manually operated release system only.",
             "An automatic release system activated by the ship’s fire alarm.",
             "An automatic release system incorporating alarm system for manned compartments.",
-            "An automatic release system incorporating alarm system for manned compartments.",
             "An automatic release system activated by fire detectors."
         ],
         "correct_answer": "A manually operated release system only.",
@@ -3053,8 +3046,7 @@
             "The engineer on duty.",
             "The first person to arrive at the scene.",
             "The Chief Engineer.",
-            "The Captain.",
-            "The Chief Engineer."
+            "The Captain."
         ],
         "correct_answer": "The Chief Engineer.",
         "images": [],
@@ -3346,7 +3338,6 @@
             "To prevent distorting the backing plates.",
             "To prevent serious damages to the plates.",
             "It is only a recommendation and is not really important.",
-            "To prevent overstressing the tie bolts.",
             "To prevent overstressing the tie bolts."
         ],
         "correct_answer": "To prevent serious damages to the plates.",
@@ -3410,7 +3401,6 @@
         "answers": [
             "The vessel’s draught must be corrected to the equivalent salt water draught prior to entering the KG curve.",
             "The vessel’s KM must be corrected to the equivalent salt water draught prior to entering the KG curve.",
-            "The vessel’s GM must be corrected to the equivalent salt water draught prior to entering the KG curve.",
             "The vessel’s GM must be corrected to the equivalent salt water draught prior to entering the KG curve."
         ],
         "correct_answer": "The vessel’s draught must be corrected to the equivalent salt water draught prior to entering the KG curve.",
@@ -3971,7 +3961,6 @@
         "answers": [
             "Gently heat the bearing in an oil bath and use a bearing puller to draw it onto the shaft.",
             "Use a hammer and a pipe with the same diameter as the inner bearing ring and knock the bearing onto the shaft.",
-            "Use emery cloth on the inner ring (contact surface) of the bearing.",
             "Use emery cloth on the inner ring (contact surface) of the bearing.",
             "Use emery cloth on the bearing surface on the shaft."
         ],
@@ -7043,8 +7032,7 @@
             "It should require less maintenance than a conventional system using only sea water.",
             "Only one heat exchanger is needed for all cooling duties.",
             "It is a simple system with minimum control requirements.",
-            "It does not require any seawater.",
-            "It is a simple system with minimum control requirements."
+            "It does not require any seawater."
         ],
         "correct_answer": "It should require less maintenance than a conventional system using only sea water.",
         "images": [],
@@ -7146,7 +7134,6 @@
         "question": "How would you know how many people a lifeboat is supposed to hold?",
         "answers": [
             "The number of persons should be clearly stated on the outside of the boats bow.",
-            "Fill the boat up until no more space is left.",
             "Fill the boat up until no more space is left.",
             "No fixed numbers as it depends on the people’s size.",
             "Ask one of the deck officers."
@@ -7359,7 +7346,6 @@
             "Inlet and outlet temperatures and pressure drops for both fluids.",
             "Inlet and outlet temperatures for either fluid.",
             "Outlet temperatures for both fluids.",
-            "Pressure drop for cooling water.",
             "Pressure drop for cooling water."
         ],
         "correct_answer": "Inlet and outlet temperatures and pressure drops for both fluids.",

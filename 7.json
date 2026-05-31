@@ -3056,7 +3056,6 @@
         "answers": [
             "One on every corner, 4 in total.",
             "One at each end, 2 in total.",
-            "One at each end, 2 in total.",
             "Three in total, 2 at the door end, 1 at the opposite end."
         ],
         "correct_answer": "One on every corner, 4 in total.",
@@ -3222,7 +3221,6 @@
             "Get out of the engine room as soon as possible.",
             "Awaiting further order.",
             "Get into the control room."
-            
         ],
         "correct_answer": "Get out of the engine room as soon as possible.",
         "images": [

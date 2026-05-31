@@ -221,8 +221,7 @@
         "answers": [
             "The Port quarter is D in the figure.",
             "The Port quarter is A in the figure.",
-            "The Port quarter is B in the figure.",
-            "The Port quarter is A in the figure."
+            "The Port quarter is B in the figure."
         ],
         "correct_answer": "The Port quarter is D in the figure.",
         "images": [
@@ -2544,8 +2543,7 @@
             "Rotten eggs.",
             "Rotten fish.",
             "Gas oil.",
-            "Chlorine.",
-            "Rotten eggs."
+            "Chlorine."
         ],
         "correct_answer": "Rotten eggs.",
         "images": [],

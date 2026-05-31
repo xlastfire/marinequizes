@@ -504,8 +504,7 @@
             "Within.",
             "Draught.",
             "Whether.",
-            "Without.",
-            "Within."
+            "Without."
         ],
         "correct_answer": "Within.",
         "images": [],
@@ -649,8 +648,7 @@
             "Regularly inspected.",
             "Never seen.",
             "Frequently expected.",
-            "Occasionally found.",
-            "Regularly inspected."
+            "Occasionally found."
         ],
         "correct_answer": "Regularly inspected.",
         "images": [],
@@ -766,7 +764,6 @@
             "Always be assumed.",
             "Assumption of.",
             "Unassuming.",
-            "Never be assume.",
             "Never be assume."
         ],
         "correct_answer": "Always be assumed.",
@@ -1418,8 +1415,7 @@
             "Is always.",
             "Can being.",
             "Lowering.",
-            "Complaints.",
-            "Is always."
+            "Complaints."
         ],
         "correct_answer": "Is always.",
         "images": [],
