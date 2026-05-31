@@ -29,11 +29,12 @@
         "question": "Worn piston rings are allowing a small amount of piston blow-by on a 2-stroke main diesel engine cylinder, but due to the circumstances, it is not possible to stop and do a piston overhaul. What is the correct, temporary action to take?",
         "answers": [
             "Increase the cylinder oil rate to neutralise the corrosive action of the combustion products or change to a more alkaline cylinder oil.",
+            "Increase the cylinder oil rate to neutralise the combustion products or change to a more alkaline cylinder oil.",
             "Increase cylinder oil feed rate slightly and monitor the scavenge space drains.",
             "Reduce speed.",
             "Continue to operate the engine as normal."
         ],
-        "correct_answer": "Increase the cylinder oil rate to neutralise the combustion products or change to a more alkaline cylinder oil.",
+        "correct_answer": "Increase the cylinder oil rate to neutralise the corrosive action of the combustion products or change to a more alkaline cylinder oil.",
         "images": [],
         "explanation": "Piston blow-by සිදුවන විට දහන වායු (combustion gases) සිලින්ඩර ලයිනරය සහ පිස්ටන් මුදු (piston rings) අතරින් පහළට ගමන් කරයි. මෙහිදී ඉහළ උෂ්ණත්වයකින් යුත් දහන වායු සහ අම්ලමය සංයෝග (acidic compounds) සිලින්ඩර බිත්ති මත තැන්පත් වී ලයිනරය සහ මුදු වේගයෙන් ක්ෂය වීමට (corrosive wear) හේතු වේ. පළමු පිළිතුර නිවැරදි වන්නේ Cylinder oil මගින් මෙම අම්ලමය තත්ත්වයන් උදාසීන (neutralise) කරන බැවිනි. දෙවන පිළිතුර (scavenge space drains නිරීක්ෂණය කිරීම) වැදගත් වුවත්, එය ගැටලුවට විසඳුමක් නොවේ. තුන්වන පිළිතුර (Reduce speed) මගින් පීඩනය අඩු කළ හැකි වුවත්, එය සැමවිටම ප්‍රායෝගික නොවන අතර, හතරවන පිළිතුර (Continue as normal) මගින් එන්ජිමට බරපතල හානි සිදුවිය හැක. එබැවින්, Cylinder oil feed rate වැඩි කිරීම හෝ වඩා alkaline ගුණයෙන් යුත් තෙල් භාවිතා කිරීම මගින් සිදුවන හානිය අවම කර ගත හැක.",
         "tags": [

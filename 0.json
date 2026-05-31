@@ -2478,7 +2478,7 @@
             "The person in charge of the chartering and operation of the vessel.",
             "The person in charge of cargo operation at the terminal."
         ],
-        "correct_answer": "The mutual agreement of those in cargo operation, both on board and ashore.",
+        "correct_answer": "The mutual agreement of those in charge of cargo operation, both on board and ashore.",
         "images": [],
         "explanation": "නැවක Cargo transfer මෙහෙයුමක් ආරම්භ කිරීමේදී ආරක්ෂාව සහ කාර්යක්ෂමතාව ඉතා වැදගත් වේ. මෙහිදී නිවැරදි පිළිතුර වන්නේ 'The mutual agreement of those in charge of cargo operation, both on board and ashore' යන්නයි. මන්ද, Cargo transfer මෙහෙයුමකදී නැවේ සිටින Cargo officer සහ වෙරළේ (Terminal) සිටින Person in charge යන දෙපාර්ශවයම සියලුම Safety checks සහ Pre-transfer procedures සම්පූර්ණ කර ඇති බවට එකඟතාවයකට පැමිණිය යුතුය. අනෙක් පිළිතුරු වැරදි වන්නේ, එක් පාර්ශවයකට පමණක් තනිවම තීරණය ගත නොහැකි බැවිනි. නැවේ සිටින නිලධාරියාට පමණක් තීරණය ගත නොහැක (Terminal එකේ සූදානම වැදගත්), Terminal එකේ සිටින පුද්ගලයාට පමණක් තීරණය ගත නොහැක (නැවේ Safety status වැදගත්), සහ Chartering අංශයට මෙහෙයුම් තීරණ ගැනීමේ සම්බන්ධයක් නොමැත. එබැවින්, දෙපාර්ශවයේම එකඟතාවය (Mutual agreement) අනිවාර්ය වේ.",
         "tags": [

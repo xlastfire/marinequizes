@@ -432,7 +432,7 @@
         "index": 20,
         "question": "Why are crankcase heaters fitted to some refrigeration system compressors?",
         "answers": [
-            "To prevent refrigerant refrigerant condensing in the crankcase when the compressor is stopped.",
+            "To prevent refrigerant condensing in the crankcase when the compressor is stopped.",
             "To control the viscosity of the lubricating oil.",
             "To prevent ice from forming on the compressor casing.",
             "To boil off any water from condensation in the crankcase."
@@ -1993,7 +1993,7 @@
             "The surface at the fracture would be crystalline in appearance with a full “cup and cone” shape.",
             "The surface of the fracture would be crystalline in appearance and at an angle of approximately 45 degree to the axis of the tie rod."
         ],
-        "correct_answer": "Part of the fatigue surface would be uneven but smooth (burnished) with the remainder crystalline with part “cup and cone” shape.",
+        "correct_answer": "Part of the fracture surface would be uneven but smooth (burnished) with the remainder crystalline with part “cup and cone” shape.",
         "images": [],
         "explanation": "මූලික සංකල්පය (Core Concept): \n\nTie rods යනු විශාල slow speed diesel engine එකක structure එකෙහි integrity එක පවත්වා ගැනීමට අත්‍යවශ්‍ය component එකකි. මේවා මත ඇතිවන cyclic loading හේතුවෙන් fatigue failure ඇතිවිය හැක. Fatigue failure එකක් සිදුවන විට, stress concentration ඇති ස්ථානයක කුඩා crack එකක් ආරම්භ වී, එය ක්‍රමයෙන් පැතිරී යයි. මෙම ක්‍රියාවලියේදී crack එකේ මුහුණත එකිනෙක ගැටීම නිසා එම කොටස smooth හෝ burnished පෙනුමක් ගනී. අවසානයේදී ඉතිරි වන metal කොටසට load එක දරාගත නොහැකි වූ විට, එය හදිසියේම බිඳී යන අතර (sudden fracture), එම කොටස crystalline පෙනුමක් සහ ductile material එකක් නම් cup and cone හැඩයක් ගනී.\n\nවැරදි පිළිතුරු විශ්ලේෂණය (Option Analysis):\n\n* 'The surface of the fracture would be serrated in appearance and at right angles to the axis of the tie rod' යන්න වැරදි පිළිතුරකි: Serrated පෙනුමක් යනු සාමාන්‍යයෙන් brittle fracture හෝ වෙනත් ආකාරයක stress concentration එකක් නිසා ඇතිවන එකකි. Fatigue failure එකකදී මෙවැනි serrated පෙනුමක් ප්‍රධාන ලක්ෂණයක් නොවේ.\n\n* 'The surface at the fracture would be crystalline in appearance with a full “cup and cone” shape' යන්න වැරදි පිළිතුරකි: මෙය සම්පූර්ණයෙන්ම ductile failure එකක් හෝ tensile overload එකක් නිසා සිදුවන fracture එකක ලක්ෂණයකි. Fatigue failure එකකදී මුළු පෘෂ්ඨයම මෙසේ නොපෙන්වයි.\n\n* 'The surface of the fracture would be crystalline in appearance and at an angle of approximately 45 degree to the axis of the tie rod' යන්න වැරදි පිළිතුරකි: 45 degree angle එකක් යනු සාමාන්‍යයෙන් shear stress නිසා ඇතිවන failure එකකි. Fatigue failure එකකදී crack එක පැතිරෙන්නේ stress axis එකට ලම්බකව වන අතර, මුළු පෘෂ්ඨයම crystalline වීම fatigue එකක ලක්ෂණයක් නොවේ.\n\nනිවැරදි පිළිතුර තහවුරු කිරීම (Justification):\n\n* 'Part of the fracture surface would be uneven but smooth (burnished) with the remainder crystalline with part “cup and cone” shape' යන්න නිවැරදි පිළිතුරයි: මෙය fatigue failure එකක සම්භාව්‍ය ලක්ෂණයයි. Smooth හෝ burnished කොටස මගින් crack එක ක්‍රමයෙන් පැතිරුණු බවත් (fatigue propagation), ඉතිරි crystalline කොටස මගින් අවසාන මොහොතේ සිදුවූ sudden fracture එකත් පෙන්නුම් කරයි. Ductile material එකකදී මෙම අවසාන කොටස cup and cone හැඩය ගැනීම විද්‍යාත්මකව තහවුරු වූ කරුණකි.",
         "tags": [
